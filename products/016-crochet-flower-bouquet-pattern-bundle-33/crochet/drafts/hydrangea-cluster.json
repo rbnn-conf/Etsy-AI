@@ -1,0 +1,169 @@
+{
+  "pattern_id": "hydrangea-cluster",
+  "name": "Hydrangea Cluster",
+  "category": "flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 9 cm across",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn, rounded cluster base",
+      "colour": "Leaf green",
+      "amount": "About 8 g"
+    },
+    {
+      "description": "Mercerised cotton yarn, floret colour A",
+      "colour": "Pale lilac",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Mercerised cotton yarn, floret colour B",
+      "colour": "Moon blue",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Mercerised cotton yarn, floret colour C",
+      "colour": "Mist blue",
+      "amount": "About 3 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Polyester toy stuffing",
+    "Tapestry needle",
+    "Locking stitch marker",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "Rnd": "round",
+    "rep": "repeat",
+    "MR": "magic ring",
+    "inc": "increase",
+    "dec": "decrease",
+    "FO": "fasten off"
+  },
+  "gauge": "Gauge is not critical. Use a hook size that creates a firm, closed base so the stuffing does not show through.",
+  "instructions": [
+    {
+      "heading": "Rounded Cluster Base",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With leaf green, work 6 sc in an MR. Place a marker in the first st; work all rounds in a continuous spiral.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "(Sc in next st, inc in next st) rep 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "(Sc in each of next 2 sts, inc in next st) rep 6 times.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "(Sc in each of next 3 sts, inc in next st) rep 6 times.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 6",
+          "text": "(Sc in each of next 4 sts, inc in next st) rep 6 times.",
+          "stitch_count": 36
+        },
+        {
+          "label": "Rnd 7",
+          "text": "(Sc in each of next 5 sts, inc in next st) rep 6 times.",
+          "stitch_count": 42
+        },
+        {
+          "label": "Rnd 8",
+          "text": "(Sc in each of next 5 sts, dec over next 2 sts) rep 6 times.",
+          "stitch_count": 36
+        },
+        {
+          "label": "Rnd 9",
+          "text": "(Sc in each of next 4 sts, dec over next 2 sts) rep 6 times.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 10",
+          "text": "(Sc in each of next 3 sts, dec over next 2 sts) rep 6 times.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 11",
+          "text": "(Sc in each of next 2 sts, dec over next 2 sts) rep 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 12",
+          "text": "(Sc in next st, dec over next 2 sts) rep 6 times. Stuff the base firmly.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 13",
+          "text": "Dec over each pair of sts around.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 14",
+          "text": "Dec over each pair of sts around. FO, then thread the tail through the front loops of the remaining 3 sts and pull closed.",
+          "stitch_count": 3
+        }
+      ]
+    },
+    {
+      "heading": "Four-Petalled Florets",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make 7 pale lilac, 6 moon blue and 6 mist blue florets. Leave a 20 cm starting tail. In an MR, (ch 2, dc, hdc, dc, ch 2, sl st in MR) rep 4 times. Pull the MR closed. FO, leaving a 20 cm tail.",
+          "stitch_count": 12
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Orient the closed MR end of the base as the top. Sew 1 pale lilac floret centrally over Rnd 1, using both floret tails to take three small stitches through its MR and the base; knot the tails securely inside the base.",
+    "On Rnd 3, attach florets at sts 1, 4, 7, 10, 13 and 16, measured clockwise from the marked first st. Use this colour order: moon blue, mist blue, pale lilac, moon blue, mist blue, pale lilac.",
+    "On Rnd 5, attach florets at sts 1, 6, 11, 16, 21 and 26. Use this colour order: mist blue, pale lilac, moon blue, mist blue, pale lilac, moon blue.",
+    "On Rnd 7, attach florets at sts 1, 8, 15, 22, 29 and 36. Use this colour order: pale lilac, moon blue, mist blue, pale lilac, moon blue, mist blue.",
+    "For every floret, use both tails to take three small stitches through the floret MR and around its stated base st. Pull the floret snugly against the base, knot the tails on the inside, and weave them into the base."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining yarn tails securely after sewing the florets in place.",
+    "Weave in all remaining yarn ends on the underside of the cluster without distorting the visible stitches.",
+    "Gently spread and curve the four petals of each floret so the cluster forms a rounded, full dome."
+  ],
+  "notes": [
+    "The chains at the sides of each petal do not count as sts.",
+    "This cluster is designed to be sewn or wired to a separate floral stem for bouquet use."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

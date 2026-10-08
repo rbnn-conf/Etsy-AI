@@ -1,0 +1,201 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4590759428,
+      "actual": 4590759428
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4590759428,
+      "actual": 4590759428
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Adult Halloween Colouring Book | Gothic Skeleton Masquerade Line Art, Instant Digital Download",
+      "actual": "Printable Adult Halloween Colouring Book | Gothic Skeleton Masquerade Line Art, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1889 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 6.99",
+      "actual": "GBP 6.99"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 339,
+      "actual": 339
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF",
+        "PNG pages",
+        "A4 PDF",
+        "US Letter PDF",
+        "Printing guide",
+        "ZIP files"
+      ],
+      "actual": [
+        "Digital PDF",
+        "PNG pages",
+        "A4 PDF",
+        "US Letter PDF",
+        "Printing guide",
+        "ZIP files"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8688488471,
+        8688488691,
+        8640671724,
+        8640671968,
+        8688489333,
+        8640672364,
+        8640672524,
+        8688489943,
+        8688490209,
+        8688490375
+      ],
+      "actual": [
+        8688488471,
+        8688488691,
+        8640671724,
+        8640671968,
+        8688489333,
+        8640672364,
+        8640672524,
+        8688489943,
+        8688490209,
+        8688490375
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Hollowbone-Manor-Masquerade-A4.zip (13900347 bytes)",
+        "Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip (18820448 bytes)",
+        "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip (18416857 bytes)",
+        "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip (18841736 bytes)",
+        "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip (15293480 bytes)"
+      ],
+      "actual": [
+        "Hollowbone-Manor-Masquerade-A4.zip (13900347 bytes)",
+        "Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip (18820448 bytes)",
+        "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip (18416857 bytes)",
+        "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip (18841736 bytes)",
+        "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip (15293480 bytes)"
+      ]
+    },
+    {
+      "field": "property: Primary color",
+      "ok": true,
+      "expected": [
+        "Black"
+      ],
+      "actual": [
+        "Black"
+      ]
+    },
+    {
+      "field": "property: Secondary color",
+      "ok": true,
+      "expected": [
+        "White"
+      ],
+      "actual": [
+        "White"
+      ]
+    }
+  ],
+  "fingerprint": "5adaace14d24d6ee713218a430d5e73cf43c74ae428f532344478879faa96c0f",
+  "listing_id": 4590759428,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "7c4ab749e59173e105f6b5e57f81d208eea9075714b6b69a3fa5f8257fced498",
+  "remote_url": "https://www.etsy.com/listing/4590759428/printable-adult-halloween-colouring-book",
+  "at": "2026-10-07T21:42:15.155Z"
+}

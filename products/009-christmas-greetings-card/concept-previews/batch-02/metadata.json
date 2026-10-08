@@ -1,0 +1,146 @@
+{
+  "product_id": "009",
+  "batch": 2,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-27T16:13:41.172Z",
+  "finished_at": "2026-09-27T16:14:11.300Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-02/concept-a.png",
+      "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSHARED STYLE (style only): illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.; print considerations: Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"christmas greetings card\".\nConcept \"Robin at the Frosted Gate\": a greeting card for Customers seeking a warm, traditional Christmas card for friends, family or neighbours.\nShow the card front, using THIS concept's own content:\n- Subject: European robin\n- Scene: Frosted cottage garden gate\n- Focal object: Holly sprig\n- Composition: Robin and gate in lower half, open sky above\n- Lighting: Pale peach winter sunrise\n- Palette emphasis: Ivory, sage, pine, berry red and blue-grey\n- Mood: Cheerful, comforting and traditional\n- Typography: Antique-gold serif greeting in upper third\n- Distinguishing hook: Robin beside a frosted gate with glowing holly berries\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Young roe deer / Snowy woodland clearing beneath stars / Antique-gold star cluster / Silver-blue moonlight with warm star glow\n- C: Winter hellebore wreath / Ivory paper field with evergreen sprigs / Antique-gold ribbon bow / Soft candlelit warmth\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-27T16:13:50.796Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Robin at the Frosted Gate",
+        "tagline": "Classic winter garden Christmas card",
+        "product_type": "Christmas greetings card",
+        "product_format": "greeting-card",
+        "target_customer": "Customers seeking a warm, traditional Christmas card for friends, family or neighbours",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Front design",
+          "Inside seasonal message panel",
+          "Back design panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded, general-use Christmas greetings card with a tender winter-garden scene. A European robin perches beside a frosted gate and bright holly, leaving clear space for a warm festive greeting. Supplied as a digital download for home printing.",
+        "key_features": [
+          "Folded card design with coordinated front, inside and back panels",
+          "General-use seasonal wording suitable for many recipients",
+          "Portrait layout designed for A4 or US Letter home printing",
+          "Soft watercolour finish with a traditional winter-garden feel"
+        ],
+        "visual_direction_summary": "A classic countryside Christmas route centred on a small robin and a weathered garden gate. Frosted greenery and holly create a graceful lower-frame vignette, while an airy pale sky carries the greeting.",
+        "visual_route": {
+          "primary_subject": "European robin",
+          "scene": "Frosted cottage garden gate",
+          "focal_object": "Holly sprig",
+          "composition": "Robin and gate in lower half, open sky above",
+          "lighting": "Pale peach winter sunrise",
+          "palette_emphasis": "Ivory, sage, pine, berry red and blue-grey",
+          "emotional_tone": "Cheerful, comforting and traditional",
+          "typography_approach": "Antique-gold serif greeting in upper third",
+          "distinguishing_visual_hook": "Robin beside a frosted gate with glowing holly berries"
+        },
+        "preview_brief": "A portrait card front shows a European robin perched at a weathered frosted garden gate, framed by holly at the lower edge. A pale peach sunrise opens above for an antique-gold “Merry Christmas” greeting, creating a gentle traditional winter mood."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-02/concept-b.png",
+      "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSHARED STYLE (style only): illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.; print considerations: Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"christmas greetings card\".\nConcept \"Starlit Christmas Clearing\": a greeting card for Customers seeking an elegant, nature-led Christmas card with a magical evening feel.\nShow the card front, using THIS concept's own content:\n- Subject: Young roe deer\n- Scene: Snowy woodland clearing beneath stars\n- Focal object: Antique-gold star cluster\n- Composition: Deer at right, sweeping night sky at left\n- Lighting: Silver-blue moonlight with warm star glow\n- Palette emphasis: Blue-grey, ivory, pine and antique gold\n- Mood: Serene, elegant and quietly magical\n- Typography: Fine gold script across open night sky\n- Distinguishing hook: Deer gazing towards a drifting cluster of golden stars\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: European robin / Frosted cottage garden gate / Holly sprig / Pale peach winter sunrise\n- C: Winter hellebore wreath / Ivory paper field with evergreen sprigs / Antique-gold ribbon bow / Soft candlelit warmth\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-09-27T16:14:00.556Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Starlit Christmas Clearing",
+        "tagline": "Quietly magical moonlit Christmas card",
+        "product_type": "Christmas greetings card",
+        "product_format": "greeting-card",
+        "target_customer": "Customers seeking an elegant, nature-led Christmas card with a magical evening feel",
+        "page_count": 3,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "Front design",
+          "Inside seasonal message panel",
+          "Back design panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded Christmas greetings card with an elegant moonlit woodland clearing. A young roe deer stands beneath a scattering of antique-gold stars, creating a serene card for seasonal wishes, winter birthdays or thoughtful family messages.",
+        "key_features": [
+          "Folded landscape card with three coordinated designed panels",
+          "Refined all-purpose seasonal design",
+          "Landscape layout designed for A4 or US Letter home printing",
+          "Moonlit watercolour palette with restrained antique-gold accents"
+        ],
+        "visual_direction_summary": "A spacious moonlit winter route with a poised roe deer in a snowy clearing. The sweeping sky and scattered gold star accents give the design an elegant, calm sense of Christmas magic.",
+        "visual_route": {
+          "primary_subject": "Young roe deer",
+          "scene": "Snowy woodland clearing beneath stars",
+          "focal_object": "Antique-gold star cluster",
+          "composition": "Deer at right, sweeping night sky at left",
+          "lighting": "Silver-blue moonlight with warm star glow",
+          "palette_emphasis": "Blue-grey, ivory, pine and antique gold",
+          "emotional_tone": "Serene, elegant and quietly magical",
+          "typography_approach": "Fine gold script across open night sky",
+          "distinguishing_visual_hook": "Deer gazing towards a drifting cluster of golden stars"
+        },
+        "preview_brief": "A landscape card front shows a young roe deer at the edge of a snowy clearing, looking towards a small drifting cluster of antique-gold stars. The open silver-blue sky on the left carries a delicate scripted Christmas greeting."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-02/concept-c.png",
+      "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSHARED STYLE (style only): illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.; print considerations: Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"christmas greetings card\".\nConcept \"Winter Hellebore Christmas Wreath\": a greeting card for Customers looking for a refined botanical Christmas card without animal characters.\nShow the card front, using THIS concept's own content:\n- Subject: Winter hellebore wreath\n- Scene: Ivory paper field with evergreen sprigs\n- Focal object: Antique-gold ribbon bow\n- Composition: Asymmetrical wreath around a clear central message\n- Lighting: Soft candlelit warmth\n- Palette emphasis: Ivory, sage, pine, berry red and antique gold\n- Mood: Refined, warm and celebratory\n- Typography: Centred classic serif greeting with gold accents\n- Distinguishing hook: Hellebore wreath finished with a loose gold ribbon bow\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: European robin / Frosted cottage garden gate / Holly sprig / Pale peach winter sunrise\n- B: Young roe deer / Snowy woodland clearing beneath stars / Antique-gold star cluster / Silver-blue moonlight with warm star glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024",
+      "quality": "low",
+      "generated_at": "2026-09-27T16:14:11.295Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Winter Hellebore Christmas Wreath",
+        "tagline": "Elegant botanical Christmas card",
+        "product_type": "Christmas greetings card",
+        "product_format": "greeting-card",
+        "target_customer": "Customers looking for a refined botanical Christmas card without animal characters",
+        "page_count": 3,
+        "orientation": "square",
+        "deliverable_components": [
+          "Front design",
+          "Inside seasonal message panel",
+          "Back design panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded botanical Christmas greetings card built around a hand-painted winter hellebore wreath. Soft evergreen foliage, berries and subtle gold touches surround a clear central greeting for a refined, all-purpose seasonal card.",
+        "key_features": [
+          "Folded square card with coordinated front, inside and back panels",
+          "Character-free botanical design for broad seasonal gifting",
+          "Square design suitable for printing on A4 or US Letter paper and trimming",
+          "Elegant watercolour foliage with ink-conscious pale paper background"
+        ],
+        "visual_direction_summary": "A refined botanical route using an asymmetrical hellebore wreath as a soft framing device. A bright ivory centre gives the greeting room to breathe, while small berries and gold details add festive richness without visual clutter.",
+        "visual_route": {
+          "primary_subject": "Winter hellebore wreath",
+          "scene": "Ivory paper field with evergreen sprigs",
+          "focal_object": "Antique-gold ribbon bow",
+          "composition": "Asymmetrical wreath around a clear central message",
+          "lighting": "Soft candlelit warmth",
+          "palette_emphasis": "Ivory, sage, pine, berry red and antique gold",
+          "emotional_tone": "Refined, warm and celebratory",
+          "typography_approach": "Centred classic serif greeting with gold accents",
+          "distinguishing_visual_hook": "Hellebore wreath finished with a loose gold ribbon bow"
+        },
+        "preview_brief": "A square card front features an asymmetrical wreath of winter hellebores, evergreen sprigs and restrained berry accents around an ivory central field. A centred classic serif Christmas greeting sits within the wreath, finished by a loose antique-gold ribbon bow at the base."
+      }
+    }
+  ]
+}

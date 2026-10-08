@@ -1,0 +1,314 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories",
+  "source_fingerprint": "35885f0c80956d4424e663bd02bc8c441f50a0829b18973cd24046c44cb0cf70",
+  "build_record_sha256": "0b1e23829c8c10185fa6015590c2141101da3c25becf5cd91f300da0562d9d16",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "ca04a91f9a33e5070226310f9981242855dafd8d347a392c713044f4192caf93",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Little-Halloween-Costume-Accessories-A4.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-A4.zip",
+      "sha256": "73636958c22a45840db441f19fa485a1ab673e71d9e834e941773a7b111bbe31",
+      "bytes": 15289426,
+      "size": "15.29 MB",
+      "purpose": "5 files (guide, pdf)",
+      "label": "A4",
+      "contents": [
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/START-HERE-Printing-and-Crochet-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/START-HERE-Printing-and-Crochet-Guide.pdf",
+          "sha256": "958502359bd225a01f1d1a88949f3003a1c9697d9db399cfba89afd0a7050825",
+          "bytes": 28966
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+          "sha256": "a556dd6be834bfcb32c4a1962da681dd6f365ad8068304f4f45896508aab6f52",
+          "bytes": 15176401
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+          "sha256": "ecab19d640a3d8b85033be6a0fa5609df33a7278ab04724dd8784349a7b2afc8",
+          "bytes": 27746
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+          "sha256": "62ea3ac6c9b0fa99ea959a30351277a20d04cf4fb386026d82a6e8f4ddba039a",
+          "bytes": 30101
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf",
+          "sha256": "d7f9ce4c199ced1e319b2bb0afa5829ba70cb274a846464835e65dd25d8eb6b2",
+          "bytes": 27964
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip",
+      "sha256": "4a7e2c0428e6df7b55f2f4b409ca83088ac652b77a7bcc3f4c21266695389976",
+      "bytes": 6893904,
+      "size": "6.89 MB",
+      "purpose": "3 files (pdf)",
+      "label": "A4-Individual-Patterns",
+      "contents": [
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+          "sha256": "6b37e40b512b4ba9d7670a12906c5d0f27ad08ba784c61c63458c8717c3f299c",
+          "bytes": 2234107
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf",
+          "sha256": "304185524f707cf06b99769ae396fac9d8953d1c06200b6f15bf1bca2d04d8d9",
+          "bytes": 2400837
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf",
+          "sha256": "a93a61d7750a804ac11cd8d064b316d91f2a8a2184b2129af3eb5fbd405c0d41",
+          "bytes": 2260174
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Little-Halloween-Costume-Accessories-US-Letter.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-US-Letter.zip",
+      "sha256": "6472da812d9d42852a3a5c42ad02882291e84fcdd31ac6ecc544a4b22ee9c893",
+      "bytes": 15262141,
+      "size": "15.26 MB",
+      "purpose": "4 files (pdf)",
+      "label": "US-Letter",
+      "contents": [
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-US-Letter.pdf",
+          "sha256": "592ad0cf85574974f54e23bba8b97b6151b87cecc50e7611c7104b9623721979",
+          "bytes": 15177313
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-US-Letter.pdf",
+          "sha256": "f55d8204b53118294d8b184799d745f39bc1af50a82ed74924d8b6aa64d3b19d",
+          "bytes": 27720
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-US-Letter.pdf",
+          "sha256": "89700c740a82fa0b6c09d9691110d86a093521dac504876602eeed1444e07429",
+          "bytes": 30079
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-US-Letter.pdf",
+          "sha256": "01edc99a6a68c6a3a470c5e842b9e2e25e5a98a8ddaad04034289e9fb2e111c2",
+          "bytes": 27961
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip",
+      "sha256": "6e447d1da5b8fff71115d1644c5258b7a1142f615b5c6f7bf67a3f3fa9534ad6",
+      "bytes": 6894835,
+      "size": "6.89 MB",
+      "purpose": "3 files (pdf)",
+      "label": "US-Letter-Individual-Patterns",
+      "contents": [
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-US-Letter.pdf",
+          "sha256": "0e942e55843207448333844abc08a1f16be3af0c8c3be8bbc6ff98a04406bcf3",
+          "bytes": 2233951
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-US-Letter.pdf",
+          "sha256": "4d9f2ec61eea9277e495abbe8992328f8019e60b3511f89d4c629b98196b87af",
+          "bytes": 2400823
+        },
+        {
+          "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/03-Candy-Corn-Bag-Charm-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/03-Candy-Corn-Bag-Charm-US-Letter.pdf",
+          "sha256": "2044fec913248271197d4e1e5555dbe425e9edf7bfbc07abebabb7bad1678955",
+          "bytes": 2261264
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "sha256": "958502359bd225a01f1d1a88949f3003a1c9697d9db399cfba89afd0a7050825",
+      "bytes": 28966
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+      "sha256": "a556dd6be834bfcb32c4a1962da681dd6f365ad8068304f4f45896508aab6f52",
+      "bytes": 15176401
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+      "sha256": "ecab19d640a3d8b85033be6a0fa5609df33a7278ab04724dd8784349a7b2afc8",
+      "bytes": 27746
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+      "sha256": "62ea3ac6c9b0fa99ea959a30351277a20d04cf4fb386026d82a6e8f4ddba039a",
+      "bytes": 30101
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf",
+      "sha256": "d7f9ce4c199ced1e319b2bb0afa5829ba70cb274a846464835e65dd25d8eb6b2",
+      "bytes": 27964
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+      "sha256": "6b37e40b512b4ba9d7670a12906c5d0f27ad08ba784c61c63458c8717c3f299c",
+      "bytes": 2234107
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf",
+      "sha256": "304185524f707cf06b99769ae396fac9d8953d1c06200b6f15bf1bca2d04d8d9",
+      "bytes": 2400837
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf",
+      "sha256": "a93a61d7750a804ac11cd8d064b316d91f2a8a2184b2129af3eb5fbd405c0d41",
+      "bytes": 2260174
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-US-Letter.pdf",
+      "sha256": "592ad0cf85574974f54e23bba8b97b6151b87cecc50e7611c7104b9623721979",
+      "bytes": 15177313
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-US-Letter.pdf",
+      "sha256": "f55d8204b53118294d8b184799d745f39bc1af50a82ed74924d8b6aa64d3b19d",
+      "bytes": 27720
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-US-Letter.pdf",
+      "sha256": "89700c740a82fa0b6c09d9691110d86a093521dac504876602eeed1444e07429",
+      "bytes": 30079
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-US-Letter.pdf",
+      "sha256": "01edc99a6a68c6a3a470c5e842b9e2e25e5a98a8ddaad04034289e9fb2e111c2",
+      "bytes": 27961
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-US-Letter.pdf",
+      "sha256": "0e942e55843207448333844abc08a1f16be3af0c8c3be8bbc6ff98a04406bcf3",
+      "bytes": 2233951
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-US-Letter.pdf",
+      "sha256": "4d9f2ec61eea9277e495abbe8992328f8019e60b3511f89d4c629b98196b87af",
+      "bytes": 2400823
+    },
+    {
+      "entry": "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/03-Candy-Corn-Bag-Charm-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/03-Candy-Corn-Bag-Charm-US-Letter.pdf",
+      "sha256": "2044fec913248271197d4e1e5555dbe425e9edf7bfbc07abebabb7bad1678955",
+      "bytes": 2261264
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Little-Halloween-Costume-Accessories-A4.zip 15289426 bytes, Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip 6893904 bytes, Little-Halloween-Costume-Accessories-US-Letter.zip 15262141 bytes, Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip 6894835 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Little-Halloween-Costume-Accessories-A4.zip 15.29 MB, Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip 6.89 MB, Little-Halloween-Costume-Accessories-US-Letter.zip 15.26 MB, Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip 6.89 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "4 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Little-Halloween-Costume-Accessories-A4.zip, Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip, Little-Halloween-Costume-Accessories-US-Letter.zip, Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-08T00:00:40.504Z"
+}

@@ -1,0 +1,752 @@
+{
+  "schema_version": 2,
+  "product_id": "023",
+  "product_name": "Midnight Monster Diner Colouring Book",
+  "slug": "midnight-monster-diner-colouring-book",
+  "product_type": "Adult spooky cartoon colouring book",
+  "product_format": "colouring-book",
+  "page_count": 21,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Single-sided portrait colouring pages with generous colourable spaces, robust contours and practical breathing room for A4 and US Letter home printing."
+  },
+  "approved": {
+    "creative_approved_at": "2026-10-07T21:52:40.302Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "A",
+      "proposed_name": "Midnight Monster Diner Colouring Book"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    },
+    "full_artwork": {
+      "approved_at": "2026-10-07T22:13:02.888Z",
+      "approved_by": "@romg_o",
+      "manifest_sha256": "06fc22e33ecd144186a6fd07acc67f6e8da1c12e1f069e37115892c87b2c044d",
+      "pages_sha256": "889124598c938442119923133dca7ff496d6fd50420f8c85cff7a936c904a6a2",
+      "qc_sha256": "ef3bbe6e9ac988a19a32250c67979d8e1c5aaa86a407f6270ec9ac0c6e19d30f"
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "4b1cff329f62417c01986a0bd00b534a730a074903249cf16fed55a24ed8342b"
+    },
+    "book_manifest": {
+      "file": "book/manifest.json",
+      "sha256": "06fc22e33ecd144186a6fd07acc67f6e8da1c12e1f069e37115892c87b2c044d"
+    },
+    "book_qc": {
+      "file": "book/qc.json",
+      "sha256": "ef3bbe6e9ac988a19a32250c67979d8e1c5aaa86a407f6270ec9ac0c6e19d30f"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "b57facc3f13302f10c5c9fe2af01167cb9e756f876954f130380a254d0acd722"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "P001",
+      "file": "book/pages/P001.png",
+      "page_number": 1,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P002",
+      "file": "book/pages/P002.png",
+      "page_number": 2,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P003",
+      "file": "book/pages/P003.png",
+      "page_number": 3,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "02f70c16dbfdbeee2c877c2ecec83243de294072e2ba85489f280c27d32cd963",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P004",
+      "file": "book/pages/P004.png",
+      "page_number": 4,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "e1ff3cc429bb984c7cfe32fb4eb3781334500a7b5616d7c75e24346100f2d00d",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P005",
+      "file": "book/pages/P005.png",
+      "page_number": 5,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "28ef7d9762837c38da58b77bfda335fb187d007897f5a2cac0ebbca0846c11f8",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P006",
+      "file": "book/pages/P006.png",
+      "page_number": 6,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "bf438e2cef75e0f5069705f21f67968d2048e091cd76710886ac7ec55d69de84",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P007",
+      "file": "book/pages/P007.png",
+      "page_number": 7,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "4b78d4adf029cb7d53b64d7f1edb5228e0bd559ef41dafaabfcdf2d4a9be25ca",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P008",
+      "file": "book/pages/P008.png",
+      "page_number": 8,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "73ad8bb255977b87df05796c5adbcbb899db7ef4e75c7a2f24463f749eca4133",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P009",
+      "file": "book/pages/P009.png",
+      "page_number": 9,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "63a630f8236da4d147b02ff1c99fcef4301fbf428f30d27dd076b42d9d4195f2",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P010",
+      "file": "book/pages/P010.png",
+      "page_number": 10,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "4424b0519801fe6d35ac587dcaff43936df5017ed467e1506dfec04fa8695092",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P011",
+      "file": "book/pages/P011.png",
+      "page_number": 11,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a9572d0a145fc7a460c475202b5f0d2ca80230e755310cd6b38cbbef0fa0d7d5",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P012",
+      "file": "book/pages/P012.png",
+      "page_number": 12,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P013",
+      "file": "book/pages/P013.png",
+      "page_number": 13,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "ab056a6461e3095162ac31a9fe5f34a99760643b42e770926db891d6d923ba1d",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P014",
+      "file": "book/pages/P014.png",
+      "page_number": 14,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "24f5cb5e145a7bd505df7fd11ac524959f4496ff45c0b9a2cf9eb21b94323789",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P015",
+      "file": "book/pages/P015.png",
+      "page_number": 15,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "0c3dc43d89415565e4461285c57564738f11ea0fcfcecb680371538d8712ab5c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P016",
+      "file": "book/pages/P016.png",
+      "page_number": 16,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a41977fc55cab82555f840249a1c84e8e25a445b9459658a1b9e81d83e09bc47",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P017",
+      "file": "book/pages/P017.png",
+      "page_number": 17,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "b7d56c00d450fb65cd951cc72f7a19466318a68e6adf1c8c5d58c11fc4592a03",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P018",
+      "file": "book/pages/P018.png",
+      "page_number": 18,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "c38b86a77b7392dd3aa22e2a3bd972dfd4c50be42877a4309907acc0ab9c5eb6",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P019",
+      "file": "book/pages/P019.png",
+      "page_number": 19,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "5d2e4a0fcad01c33ff21dd22fca1fe58d3b53726ad2d161afc1beed7423362db",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P020",
+      "file": "book/pages/P020.png",
+      "page_number": 20,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a427fba1949a7d20e12e6aa23594c482955481ecd52c8438e3b2825a8c6a7f91",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P021",
+      "file": "book/pages/P021.png",
+      "page_number": 21,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Midnight Monster Diner",
+      "asset": "P001",
+      "approved_text": [
+        "MIDNIGHT MONSTER DINER",
+        "COLOURING BOOK"
+      ],
+      "production_notes": "Verify title spelling exactly. Keep the cover as uncoloured line art despite its illustrated-cover role. Ensure the milkshake is the clear focal point and all character silhouettes remain distinct."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Graveyard Shift",
+      "asset": "P002",
+      "approved_text": [
+        "GRAVEYARD SHIFT"
+      ],
+      "production_notes": "Verify exactly six pancakes and three bats. Leave broad areas on the mummy wraps, booth, tray and pancakes."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Jukebox Jitters",
+      "asset": "P003",
+      "approved_text": [
+        "JUKEBOX JITTERS"
+      ],
+      "production_notes": "Keep checkerboard squares large and countable, not dense. Use only three dancers and exactly two wall records."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Moon Pie Special",
+      "asset": "P004",
+      "approved_text": [
+        "MOON PIE SPECIAL"
+      ],
+      "production_notes": "Verify three pies and four stars. No legible small menu text beyond the page title."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Booth for Two",
+      "asset": "P005",
+      "approved_text": [
+        "BOOTH FOR TWO"
+      ],
+      "production_notes": "Verify the dessert has exactly three scoops and two spoons. Keep skeleton bones bold and separated into easy colour zones."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Drive-Thru Doom",
+      "asset": "P006",
+      "approved_text": [
+        "DRIVE-THRU DOOM"
+      ],
+      "production_notes": "Verify two vehicle occupants and two exhaust puffs. The bag uses a skull symbol only, not text."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Bottomless Brew",
+      "asset": "P007",
+      "approved_text": [
+        "BOTTOMLESS BREW"
+      ],
+      "production_notes": "Check exactly three mugs, three distinct mug symbols and three doughnuts. Preserve broad open shapes on the creature and percolator."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Creature Feature Feast",
+      "asset": "P008",
+      "approved_text": [
+        "CREATURE FEATURE FEAST"
+      ],
+      "production_notes": "Verify seafood platter components and exactly two fish in the porthole. Ensure the octopus has eight clearly readable arms, without tangled overlap."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Pie-Eyed Poltergeist",
+      "asset": "P009",
+      "approved_text": [
+        "PIE-EYED POLTERGEIST"
+      ],
+      "production_notes": "Verify exactly three floating slices, one spoon and one numeral 1. Avoid text other than the title and numeral."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Monster Mash Hash",
+      "asset": "P010",
+      "approved_text": [
+        "MONSTER MASH HASH"
+      ],
+      "production_notes": "Verify exactly two eggs and two heads. Keep the food shapes large rather than realistically detailed."
+    },
+    {
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "Witch Way to the Restroom?",
+      "asset": "P011",
+      "approved_text": [
+        "WITCH WAY TO THE RESTROOM?"
+      ],
+      "production_notes": "Use the crescent symbol rather than extra restroom wording. Verify exactly three arrows; title punctuation must be correct."
+    },
+    {
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "Shake, Rattle and Ghoul",
+      "asset": "P012",
+      "approved_text": [
+        "SHAKE, RATTLE AND GHOUL"
+      ],
+      "production_notes": "Verify three characters, three distinct toppings, seven cubes, and clock hands at 12:00. Keep cube shapes separated and large."
+    },
+    {
+      "page_number": 13,
+      "page_type": "colouring",
+      "title": "Neon Night Shift",
+      "asset": "P013",
+      "approved_text": [
+        "NEON NIGHT SHIFT"
+      ],
+      "production_notes": "Keep the sign lettering decorative and limited to the page title only. Verify four stars, one bulb and a secure readable ladder."
+    },
+    {
+      "page_number": 14,
+      "page_type": "colouring",
+      "title": "The Daily Scream",
+      "asset": "P014",
+      "approved_text": [
+        "THE DAILY SCREAM",
+        "DAILY SCREAM"
+      ],
+      "production_notes": "Verify masthead spelling exactly and no other newspaper text. Confirm one waffle, one mug, one jam pot and three clouds."
+    },
+    {
+      "page_number": 15,
+      "page_type": "colouring",
+      "title": "Coffin Break",
+      "asset": "P015",
+      "approved_text": [
+        "COFFIN BREAK"
+      ],
+      "production_notes": "Verify exactly two bites in the donut. Make the coffin booth clearly humorous and non-graphic."
+    },
+    {
+      "page_number": 16,
+      "page_type": "colouring",
+      "title": "Pickle Panic",
+      "asset": "P016",
+      "approved_text": [
+        "PICKLE PANIC"
+      ],
+      "production_notes": "Verify exactly five pickle creatures. Keep their shapes separated so each can be coloured independently."
+    },
+    {
+      "page_number": 17,
+      "page_type": "colouring",
+      "title": "Table for Thirteen",
+      "asset": "P017",
+      "approved_text": [
+        "TABLE FOR THIRTEEN"
+      ],
+      "production_notes": "Count carefully: exactly 13 diners and exactly 13 candles. Avoid overlap that makes monsters hard to count; use varied silhouettes."
+    },
+    {
+      "page_number": 18,
+      "page_type": "colouring",
+      "title": "Sundae Under the Stars",
+      "asset": "P018",
+      "approved_text": [
+        "SUNDAE UNDER THE STARS"
+      ],
+      "production_notes": "Verify three characters, three scoops, one umbrella, two wafer sticks and four stars. Preserve wide open sky areas."
+    },
+    {
+      "page_number": 19,
+      "page_type": "colouring",
+      "title": "Last Call for Creeps",
+      "asset": "P019",
+      "approved_text": [
+        "LAST CALL FOR CREEPS"
+      ],
+      "production_notes": "Use symbols, not extra open/closed wording. Verify exactly three stools, two hills and one bat."
+    },
+    {
+      "page_number": 20,
+      "page_type": "colouring",
+      "title": "Moonlight Takeaway",
+      "asset": "P020",
+      "approved_text": [
+        "MOONLIGHT TAKEAWAY"
+      ],
+      "production_notes": "Verify pizza is visibly divided into eight slices, plus exactly three tombstones and two bats. Keep delivery scooter outline robust and readable."
+    },
+    {
+      "page_number": 21,
+      "page_type": "colouring",
+      "title": "See You at Midnight",
+      "asset": "P021",
+      "approved_text": [
+        "SEE YOU AT MIDNIGHT"
+      ],
+      "production_notes": "Verify six named monster characters, six stars and two pumpkins. Keep banner blank for optional personalisation. Include the separate printing-and-colouring guide as an unillustrated supplementary PDF component, not a designed page in this 21-page artwork count; advise single-sided printing, fit-to-page disabled unless needed, and placing a spare sheet behind each page to prevent marker bleed."
+    }
+  ],
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "book": {
+    "pages": [
+      {
+        "page_number": 1,
+        "title": "Midnight Monster Diner",
+        "page_type": "cover",
+        "role": "cover",
+        "asset": "P001"
+      },
+      {
+        "page_number": 2,
+        "title": "Graveyard Shift",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P002"
+      },
+      {
+        "page_number": 3,
+        "title": "Jukebox Jitters",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P003"
+      },
+      {
+        "page_number": 4,
+        "title": "Moon Pie Special",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P004"
+      },
+      {
+        "page_number": 5,
+        "title": "Booth for Two",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P005"
+      },
+      {
+        "page_number": 6,
+        "title": "Drive-Thru Doom",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P006"
+      },
+      {
+        "page_number": 7,
+        "title": "Bottomless Brew",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P007"
+      },
+      {
+        "page_number": 8,
+        "title": "Creature Feature Feast",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P008"
+      },
+      {
+        "page_number": 9,
+        "title": "Pie-Eyed Poltergeist",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P009"
+      },
+      {
+        "page_number": 10,
+        "title": "Monster Mash Hash",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P010"
+      },
+      {
+        "page_number": 11,
+        "title": "Witch Way to the Restroom?",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P011"
+      },
+      {
+        "page_number": 12,
+        "title": "Shake, Rattle and Ghoul",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P012"
+      },
+      {
+        "page_number": 13,
+        "title": "Neon Night Shift",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P013"
+      },
+      {
+        "page_number": 14,
+        "title": "The Daily Scream",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P014"
+      },
+      {
+        "page_number": 15,
+        "title": "Coffin Break",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P015"
+      },
+      {
+        "page_number": 16,
+        "title": "Pickle Panic",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P016"
+      },
+      {
+        "page_number": 17,
+        "title": "Table for Thirteen",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P017"
+      },
+      {
+        "page_number": 18,
+        "title": "Sundae Under the Stars",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P018"
+      },
+      {
+        "page_number": 19,
+        "title": "Last Call for Creeps",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P019"
+      },
+      {
+        "page_number": 20,
+        "title": "Moonlight Takeaway",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P020"
+      },
+      {
+        "page_number": 21,
+        "title": "See You at Midnight",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P021"
+      }
+    ],
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "cover": true
+  },
+  "review_notes": [
+    "Page 1 (cover, P001): check the baked-in text reads exactly \"MIDNIGHT MONSTER DINER\", \"COLOURING BOOK\".",
+    "Page 2 (colouring, P002): check the baked-in text reads exactly \"GRAVEYARD SHIFT\".",
+    "Page 3 (colouring, P003): check the baked-in text reads exactly \"JUKEBOX JITTERS\".",
+    "Page 4 (colouring, P004): check the baked-in text reads exactly \"MOON PIE SPECIAL\".",
+    "Page 5 (colouring, P005): check the baked-in text reads exactly \"BOOTH FOR TWO\".",
+    "Page 6 (colouring, P006): check the baked-in text reads exactly \"DRIVE-THRU DOOM\".",
+    "Page 7 (colouring, P007): check the baked-in text reads exactly \"BOTTOMLESS BREW\".",
+    "Page 8 (colouring, P008): check the baked-in text reads exactly \"CREATURE FEATURE FEAST\".",
+    "Page 9 (colouring, P009): check the baked-in text reads exactly \"PIE-EYED POLTERGEIST\".",
+    "Page 10 (colouring, P010): check the baked-in text reads exactly \"MONSTER MASH HASH\".",
+    "Page 11 (colouring, P011): check the baked-in text reads exactly \"WITCH WAY TO THE RESTROOM?\".",
+    "Page 12 (colouring, P012): check the baked-in text reads exactly \"SHAKE, RATTLE AND GHOUL\".",
+    "Page 13 (colouring, P013): check the baked-in text reads exactly \"NEON NIGHT SHIFT\".",
+    "Page 14 (colouring, P014): check the baked-in text reads exactly \"THE DAILY SCREAM\", \"DAILY SCREAM\".",
+    "Page 15 (colouring, P015): check the baked-in text reads exactly \"COFFIN BREAK\".",
+    "Page 16 (colouring, P016): check the baked-in text reads exactly \"PICKLE PANIC\".",
+    "Page 17 (colouring, P017): check the baked-in text reads exactly \"TABLE FOR THIRTEEN\".",
+    "Page 18 (colouring, P018): check the baked-in text reads exactly \"SUNDAE UNDER THE STARS\".",
+    "Page 19 (colouring, P019): check the baked-in text reads exactly \"LAST CALL FOR CREEPS\".",
+    "Page 20 (colouring, P020): check the baked-in text reads exactly \"MOONLIGHT TAKEAWAY\".",
+    "Page 21 (colouring, P021): check the baked-in text reads exactly \"SEE YOU AT MIDNIGHT\"."
+  ]
+}

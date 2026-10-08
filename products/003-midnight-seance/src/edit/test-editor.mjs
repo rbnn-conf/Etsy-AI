@@ -1,0 +1,53 @@
+import { pathToFileURL } from 'node:url';
+import { readFile } from 'node:fs/promises';
+import { fixtureValues } from './validation.mjs';
+export async function testEditor(browser,path,resources) {
+  const page=await browser.newPage();const requests=[],errors=[];
+  page.on('pageerror',e=>errors.push(e.message));
+  await page.route(/https?:\/\//,route=>{requests.push(route.request().url());route.abort();});
+  await page.goto(pathToFileURL(path).href);const results=[];
+  for(const kind of ['invitation','welcome'])for(const scenario of ['default','maximum','maximum-wide','us','special','optional-empty']) {
+    await page.selectOption('#kind',kind);
+    const values=fixtureValues(resources.schemas,kind,scenario,resources.defaults);
+    for(const [key,value] of Object.entries(values))await page.locator(`[data-key="${key}"]`).fill(value);
+    await page.waitForFunction(()=>window.editorReady(),null,{timeout:10000});
+    const actual=await page.evaluate(()=>({state:window.editorState,ready:window.editorReady(),status:document.getElementById('status').textContent}));
+    if(JSON.stringify(actual.state.values)!==JSON.stringify(values))throw new Error('Editor text mismatch');
+    const frames=page.frames(),frame=frames.find(f=>f.parentFrame());
+    await frame.waitForFunction(()=>document.fonts.status==='loaded');
+    const text=await frame.locator(`[data-field="eventTitle"]`).textContent();
+    if(text!==values.eventTitle)throw new Error('Preview text mismatch');
+    const downloadEvent=page.waitForEvent('download');await page.locator('#save').click();
+    const download=await downloadEvent,savedText=JSON.parse(await readFile(await download.path(),'utf8'));
+    if(JSON.stringify(savedText.values)!==JSON.stringify(values))throw new Error('Saved text file changed the values');
+    await frame.evaluate(()=>{window.printCalled=false;window.print=()=>{window.printCalled=true;};});
+    await page.locator('#print').click();
+    if(!await frame.evaluate(()=>window.printCalled))throw new Error('Print button did not target the stationery preview');
+    const saved={version:1,kind,theme:'economy',size:kind==='invitation'?'5x7':'a4',values};
+    const loadRevision=await page.evaluate(()=>window.editorLoadRevision);
+    await page.locator('#load').setInputFiles({name:'saved.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(saved))});
+    await page.waitForFunction(({expected,revision})=>window.editorLoadRevision>revision&&window.editorReady()&&window.editorState.kind===expected.kind&&window.editorState.theme===expected.theme&&window.editorState.size===expected.size&&JSON.stringify(window.editorState.values)===JSON.stringify(expected.values),{expected:saved,revision:loadRevision});
+    if(await page.inputValue('#theme')!=='economy')throw new Error('Saved theme did not restore');
+    results.push({kind,scenario,characters:Object.fromEntries(Object.entries(values).map(([k,v])=>[k,[...v].length])),ready:true,textMatches:true,jsonSave:true,jsonReload:true,printTargetCorrect:true});
+  }
+  await page.selectOption('#kind','invitation');
+  await page.locator('[data-key="eventTitle"]').fill('A\n'.repeat(18));
+  await page.waitForFunction(()=>document.getElementById('status').textContent.startsWith('Text does not fit'));
+  if(!(await page.locator('#print').isDisabled()))throw new Error('Geometry overflow was printable');
+  results.push({case:'within-limit-geometric-overflow',rejected:true});
+  await page.locator('[data-key="eventTitle"]').fill('X'.repeat(37));
+  await page.waitForTimeout(100);
+  if(!(await page.locator('#print').isDisabled()))throw new Error('Over-limit text printable');
+  results.push({case:'over-limit',rejected:true});
+  await page.locator('[data-key="eventTitle"]').fill('Welcome 👻');
+  if(!(await page.locator('#print').isDisabled()))throw new Error('Unsupported glyph printable');
+  results.push({case:'unsupported-glyph',rejected:true});
+  await page.locator('[data-key="eventTitle"]').fill('');
+  if(!(await page.locator('#print').isDisabled()))throw new Error('Missing required field printable');
+  results.push({case:'required-empty',rejected:true});
+  await page.locator('#load').setInputFiles({name:'bad.json',mimeType:'application/json',buffer:Buffer.from('{"version":1,"kind":"wrong"}')});
+  await page.waitForFunction(()=>document.getElementById('status').textContent.startsWith('Could not load'));
+  results.push({case:'invalid-json-schema',rejected:true});
+  if(requests.length||errors.length)throw new Error(JSON.stringify({requests,errors}));
+  await page.close();return {browser:browser.version(),offline:true,networkRequests:requests,errors,results};
+}

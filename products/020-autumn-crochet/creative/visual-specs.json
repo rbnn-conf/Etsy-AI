@@ -1,0 +1,654 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-06T20:02:37.088Z",
+  "patterns_sha256": "3b8b9f080308960fe9a67fbfdd635b1151452b9b2ae286e6e18e2b6d441d5212",
+  "visual_match_status": "internally_checked",
+  "note": "Derived from the written patterns and checked against them. Not physically verified: nobody has crocheted these pieces for this record.",
+  "combination": "Layered Maple Place Setting",
+  "fingerprints": {
+    "maple-leaf-placemat": {
+      "version": 1,
+      "pattern_id": "maple-leaf-placemat",
+      "pattern_name": "Maple Leaf Placemat",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 38 cm wide by 35 cm long",
+        "width_cm": 38,
+        "height_cm": 35
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for the leaf placemat",
+          "colour": "Burnt orange"
+        }
+      ],
+      "pieces": [
+        "Leaf and Stem"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "back loop only"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "stem_length"
+      ]
+    },
+    "oak-leaf-applique": {
+      "version": 1,
+      "pattern_id": "oak-leaf-applique",
+      "pattern_name": "Oak Leaf Appliqué",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 13 cm long and 6 cm wide",
+        "width_cm": 6,
+        "height_cm": 13
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "or -blend yarn for the leaf",
+          "colour": "Burnt ochre"
+        }
+      ],
+      "pieces": [
+        "Leaf and Stem"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "stem_length"
+      ]
+    },
+    "beech-leaf-coaster": {
+      "version": 1,
+      "pattern_id": "beech-leaf-coaster",
+      "pattern_name": "Beech Leaf Coaster",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 12 cm long including stem; about 7 cm wide",
+        "width_cm": 7,
+        "height_cm": 12
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for the leaf, stem and raised vein",
+          "colour": "Warm beech brown"
+        }
+      ],
+      "pieces": [
+        "Leaf Coaster"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "stem_length"
+      ]
+    },
+    "acorn-napkin-ring": {
+      "version": 1,
+      "pattern_id": "acorn-napkin-ring",
+      "pattern_name": "Acorn Napkin Ring",
+      "motif_type": "napkin ring",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 6 cm across; acorn about 5 cm tall",
+        "width_cm": 6,
+        "height_cm": 5
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for napkin ring and acorn body",
+          "colour": "Rust brown"
+        },
+        {
+          "role": "for textured acorn cap",
+          "colour": "Dark brown"
+        }
+      ],
+      "pieces": [
+        "Napkin Ring",
+        "Acorn Body",
+        "Acorn Cap"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 2
+      },
+      "embellishments": [
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "back loop only"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": []
+    },
+    "falling-leaves-table-runner": {
+      "version": 1,
+      "pattern_id": "falling-leaves-table-runner",
+      "pattern_name": "Falling Leaves Table Runner",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 100 cm long by 28 cm wide",
+        "width_cm": 28,
+        "height_cm": 100
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "or -blend yarn for the runner",
+          "colour": "Warm oatmeal or natural"
+        }
+      ],
+      "pieces": [
+        "Centre Panel",
+        "Tapered Ends (make 2)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 2
+      },
+      "embellishments": [],
+      "construction_details": [
+        "worked in rows",
+        "back loop only"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "centre_present": "instructions[0].heading",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": []
+    },
+    "chestnut-cutlery-pocket": {
+      "version": 1,
+      "pattern_id": "chestnut-cutlery-pocket",
+      "pattern_name": "Chestnut Cutlery Pocket",
+      "motif_type": "cutlery pocket",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 10 cm wide by 18 cm long",
+        "width_cm": 10,
+        "height_cm": 18
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for the pocket and flap",
+          "colour": "chestnut brown"
+        }
+      ],
+      "pieces": [
+        "Pocket Body",
+        "Curved Flap"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 3
+      },
+      "embellishments": [],
+      "construction_details": [
+        "worked in rows"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": []
+    }
+  },
+  "specs": {
+    "cover": {
+      "version": 1,
+      "kind": "bouquet",
+      "items": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": false
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 38,
+            "height_cm": 35,
+            "embellishments": [],
+            "colours": [
+              "Burnt orange"
+            ]
+          }
+        },
+        {
+          "pattern_id": "beech-leaf-coaster",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": true
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 7,
+            "height_cm": 12,
+            "embellishments": [],
+            "colours": [
+              "Warm beech brown"
+            ]
+          }
+        },
+        {
+          "pattern_id": "acorn-napkin-ring",
+          "quantity": 1,
+          "features": {
+            "motif_type": "napkin ring",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 6,
+            "height_cm": 5,
+            "embellishments": [
+              "stuffing"
+            ],
+            "colours": [
+              "Rust brown",
+              "Dark brown"
+            ]
+          }
+        },
+        {
+          "pattern_id": "chestnut-cutlery-pocket",
+          "quantity": 1,
+          "features": {
+            "motif_type": "cutlery pocket",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 10,
+            "height_cm": 18,
+            "embellishments": [],
+            "colours": [
+              "chestnut brown"
+            ]
+          }
+        }
+      ],
+      "ornaments": [
+        {
+          "kind": "crescent moon",
+          "medium": "illustration"
+        },
+        {
+          "kind": "fine botanical sprigs",
+          "medium": "illustration"
+        }
+      ],
+      "composition": "one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    },
+    "overview": {
+      "version": 1,
+      "kind": "overview",
+      "items": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": false
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 38,
+            "height_cm": 35,
+            "embellishments": [],
+            "colours": [
+              "Burnt orange"
+            ]
+          }
+        },
+        {
+          "pattern_id": "oak-leaf-applique",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": false
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 6,
+            "height_cm": 13,
+            "embellishments": [],
+            "colours": [
+              "Burnt ochre"
+            ]
+          }
+        },
+        {
+          "pattern_id": "beech-leaf-coaster",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": true
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 7,
+            "height_cm": 12,
+            "embellishments": [],
+            "colours": [
+              "Warm beech brown"
+            ]
+          }
+        },
+        {
+          "pattern_id": "acorn-napkin-ring",
+          "quantity": 1,
+          "features": {
+            "motif_type": "napkin ring",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 6,
+            "height_cm": 5,
+            "embellishments": [
+              "stuffing"
+            ],
+            "colours": [
+              "Rust brown",
+              "Dark brown"
+            ]
+          }
+        },
+        {
+          "pattern_id": "falling-leaves-table-runner",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": true
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 28,
+            "height_cm": 100,
+            "embellishments": [],
+            "colours": [
+              "Warm oatmeal or natural"
+            ]
+          }
+        },
+        {
+          "pattern_id": "chestnut-cutlery-pocket",
+          "quantity": 1,
+          "features": {
+            "motif_type": "cutlery pocket",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 10,
+            "height_cm": 18,
+            "embellishments": [],
+            "colours": [
+              "chestnut brown"
+            ]
+          }
+        }
+      ],
+      "ornaments": [],
+      "composition": "each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    },
+    "detail": {
+      "version": 1,
+      "kind": "detail",
+      "items": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "quantity": 1,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": false
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 38,
+            "height_cm": 35,
+            "embellishments": [],
+            "colours": [
+              "Burnt orange"
+            ]
+          }
+        }
+      ],
+      "ornaments": [],
+      "composition": "macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    }
+  }
+}

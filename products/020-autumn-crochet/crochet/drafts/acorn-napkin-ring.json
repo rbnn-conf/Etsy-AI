@@ -1,0 +1,188 @@
+{
+  "pattern_id": "acorn-napkin-ring",
+  "name": "Acorn Napkin Ring",
+  "category": "napkin ring",
+  "difficulty": "easy",
+  "finished_size": "About 6 cm across; acorn about 5 cm tall",
+  "yarn": [
+    {
+      "description": "Cotton yarn for napkin ring and acorn body",
+      "colour": "Rust brown",
+      "amount": "About 15 g"
+    },
+    {
+      "description": "Cotton yarn for textured acorn cap",
+      "colour": "Dark brown",
+      "amount": "About 8 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E-4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Stitch marker",
+    "Small amount of polyester fibre fill",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "sc2tog"
+  ],
+  "abbreviations": {
+    "BLO": "back loop only",
+    "ch": "chain",
+    "dc": "double crochet",
+    "FO": "fasten off",
+    "hdc": "half double crochet",
+    "inc": "increase",
+    "MR": "magic ring",
+    "rnd": "round",
+    "sc": "single crochet",
+    "sc2tog": "single crochet two stitches together",
+    "sl st": "slip stitch",
+    "st": "stitch",
+    "sts": "stitches"
+  },
+  "gauge": "Gauge is not critical; the finished ring should slide over a folded cloth napkin without stretching.",
+  "instructions": [
+    {
+      "heading": "Napkin Ring",
+      "steps": [
+        {
+          "label": "Foundation",
+          "text": "With rust brown, ch 30. Taking care not to twist the chain, sl st in the first ch to form a ring.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 1",
+          "text": "Ch 1, sc in the same ch as the join and in each remaining ch around; join with a sl st in the first sc.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, hdc in the same st as the join and in each remaining st around; join with a sl st in the first hdc.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, dc in the same st as the join and in each remaining st around; join with a sl st in the first dc.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Ch 1, hdc in the same st as the join and in each remaining st around; join with a sl st in the first hdc.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Ch 1, sc in the same st as the join and in each remaining st around; join with a sl st in the first sc.",
+          "stitch_count": 30
+        }
+      ]
+    },
+    {
+      "heading": "Acorn Body",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With rust brown, make 6 sc in an MR.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "(Sc, inc) 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 8",
+          "text": "(Sc, sc2tog) 6 times.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Stuffing",
+          "text": "Stuff the body firmly with fibre fill, shaping it into a rounded acorn form.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 9",
+          "text": "Sc2tog 6 times.",
+          "stitch_count": 6
+        }
+      ]
+    },
+    {
+      "heading": "Acorn Cap",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With dark brown, make 6 sc in an MR.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "(Sc, inc) 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Working in BLO, hdc in each st around.",
+          "stitch_count": 18
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Place the cap over the narrow end of the stuffed body, with the cap's Rnd 4 edge aligned to body Rnd 7. Using the cap tail, sew through each of the 18 cap edge sts and the corresponding body sts; secure the yarn inside the acorn.",
+    "Centre the acorn over the joining seam on the outside of the napkin ring, with the cap at the top. Using the body tail or a 30 cm length of rust brown yarn, sew through body Rnds 4-6 and ring Rnds 2-4 several times. Secure on the ring's inside. "
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "After its final rnd, FO each piece by cutting the yarn and drawing the tail through the final loop. Leave a 15 cm tail on the ring, a 25 cm tail on the body, and a 30 cm tail on the cap.",
+    "Weave in the remaining yarn tails on the reverse of the ring and inside the acorn, without pulling the stitches out of shape.",
+    "Gently shape the acorn body with your fingers so it sits upright and rounded against the ring."
+  ],
+  "notes": [
+    "Work the acorn body and cap in continuous spirals; do not join their rnds. Use a stitch marker to mark the first st of each rnd.",
+    "The BLO stitches in cap Rnd 4 create a raised ridge that gives the cap its textured appearance.",
+    "The ring is worked in joined rnds to create neat, even edges."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

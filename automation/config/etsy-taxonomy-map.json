@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "note": "Owner-approved canonical Etsy category paths and their Etsy seller-taxonomy IDs (Stage 4, ADR-039). Exact paths only: letters, punctuation and order must match (case and repeated spaces are ignored). Each ID is re-checked against Etsy's live seller taxonomy before use; a product's etsy/settings.json taxonomy_id always takes precedence. format_mappings fix a product FORMAT to one approved Etsy taxonomy ID regardless of the listing's free-text category_suggestion (ADR-059); the ID is still re-checked against Etsy's live seller taxonomy on every run.",
+  "mappings": [
+    {
+      "path": "Books, Movies & Music > Books > Coloring Books",
+      "taxonomy_id": 339,
+      "approved": "owner, 2026-09-29 (Etsy's own candidate for Product #014: 339 = Books, Movies & Music > Books > Coloring Books)"
+    }
+  ],
+  "unresolved": [],
+  "format_mappings": [
+    {
+      "format": "crochet-pattern-bundle",
+      "path": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints",
+      "taxonomy_id": 6343,
+      "approved": "owner instruction 2026-10-06: add the fixed mapping for the established digital-pattern category (6343, the candidate recommended since ADR-042; verified read-only on 2026-09-29, 3065 nodes, no crochet-specific node under Patterns & How To). The owner confirms the choice before the first live Etsy retry.",
+      "evidence": "Read-only GET /v3/application/seller-taxonomy/nodes via services EtsyService.getSellerTaxonomyNodes on 2026-09-29 (3065 nodes; no listing created or changed). Candidates are verified to exist; the choice is the owner's (ADR-039 mappings are owner-approved).",
+      "rejected_candidates": [
+        {
+          "taxonomy_id": 86,
+          "path": "Art & Collectibles > Fiber Arts > Crochet",
+          "reason": "finished crocheted items, not patterns"
+        }
+      ]
+    }
+  ]
+}

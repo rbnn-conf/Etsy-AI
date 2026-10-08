@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stage 3 environment briefs and tone lines (model output)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "lines",
+    "scenes"
+  ],
+  "properties": {
+    "lines": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 4,
+      "description": "One supporting line for each tone slide id given, and no others.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "text"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40,
+            "description": "Exactly the slide id given."
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 90,
+            "description": "One warm, short supporting line in UK English, sentence case. No claims beyond the facts."
+          }
+        }
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 4,
+      "description": "One brief for each scene id given, and no others.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "brief"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40,
+            "description": "Exactly the scene id given."
+          },
+          "brief": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300,
+            "description": "Extra art direction for the ENVIRONMENT only (surface, props, light, palette). Never the product, a card, paper artwork, text, birds or people."
+          }
+        }
+      }
+    }
+  }
+}

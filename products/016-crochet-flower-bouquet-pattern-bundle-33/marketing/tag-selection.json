@@ -1,0 +1,186 @@
+{
+  "tag_candidates": [
+    "crochet bouquet",
+    "flower patterns",
+    "pdf patterns",
+    "US crochet terms",
+    "digital download",
+    "printable patterns",
+    "floral crochet",
+    "botanical crochet",
+    "crochet rose",
+    "crochet peony",
+    "crochet foliage",
+    "bouquet making",
+    "crochet decor",
+    "crochet pattern set",
+    "flower arrangement",
+    "crochet daisy",
+    "crochet tulip",
+    "crochet lavender",
+    "crochet gift idea",
+    "meadow flowers"
+  ],
+  "tags": [
+    {
+      "candidate": "crochet bouquet",
+      "tag": "crochet bouquet",
+      "result": "kept"
+    },
+    {
+      "candidate": "flower patterns",
+      "tag": "flower patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "pdf patterns",
+      "tag": "pdf patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "US crochet terms",
+      "tag": "us crochet terms",
+      "result": "kept"
+    },
+    {
+      "candidate": "digital download",
+      "tag": "digital download",
+      "result": "kept"
+    },
+    {
+      "candidate": "printable patterns",
+      "tag": "printable patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "floral crochet",
+      "tag": "floral crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "botanical crochet",
+      "tag": "botanical crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet rose",
+      "tag": "crochet rose",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet peony",
+      "tag": "crochet peony",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet foliage",
+      "tag": "crochet foliage",
+      "result": "kept"
+    },
+    {
+      "candidate": "bouquet making",
+      "tag": "bouquet making",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet decor",
+      "tag": "crochet decor",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet pattern set",
+      "tag": "crochet pattern set",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "flower arrangement",
+      "tag": "flower arrangement",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "crochet daisy",
+      "tag": "crochet daisy",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "crochet tulip",
+      "tag": "crochet tulip",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "crochet lavender",
+      "tag": "crochet lavender",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "crochet gift idea",
+      "tag": "crochet gift idea",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "meadow flowers",
+      "tag": "meadow flowers",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF patterns",
+      "material": "Digital PDF patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 PDF patterns",
+      "material": "A4 PDF patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter PDF patterns",
+      "material": "US Letter PDF patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "Complete collection PDF",
+      "material": "Complete collection PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "Individual pattern PDFs",
+      "material": "Individual pattern PDFs",
+      "result": "kept"
+    },
+    {
+      "candidate": "Pattern index",
+      "material": "Pattern index",
+      "result": "kept"
+    },
+    {
+      "candidate": "Materials reference",
+      "material": "Materials reference",
+      "result": "kept"
+    },
+    {
+      "candidate": "Abbreviations reference",
+      "material": "Abbreviations reference",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing crochet guide",
+      "material": "Printing crochet guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "Arrangement ideas",
+      "material": "Arrangement ideas",
+      "result": "kept"
+    }
+  ],
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

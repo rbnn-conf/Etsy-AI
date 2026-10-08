@@ -1,0 +1,229 @@
+{
+  "product_id": "020",
+  "passed": true,
+  "at": "2026-10-06T20:10:38.440Z",
+  "checks": [
+    {
+      "name": "approved artwork unchanged",
+      "ok": true,
+      "detail": "3 approved assets match the handoff SHA-256"
+    },
+    {
+      "name": "expected files present",
+      "ok": true,
+      "detail": "21 files"
+    },
+    {
+      "name": "print variants complete",
+      "ok": true,
+      "detail": "A4, US-Letter, A4-Individual-Patterns, US-Letter-Individual-Patterns, Guide"
+    },
+    {
+      "name": "filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no duplicate outputs",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "derived files traceable to approved artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "aspect ratio preserved",
+      "ok": true,
+      "detail": "10 placements, no stretch; 10 shown through a frame (display crop only; the approved files are unchanged)"
+    },
+    {
+      "name": "PDFs valid: page counts, sizes and orientation",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "owner previews rendered",
+      "ok": true,
+      "detail": "4 of 4"
+    },
+    {
+      "name": "ZIP package verified",
+      "ok": true,
+      "detail": "2 ZIP parts, 21 entries, each deliverable exactly once"
+    },
+    {
+      "name": "file sizes fit Etsy",
+      "ok": true,
+      "detail": "LumiumX-Falling-Leaves-Crochet-Table-Set-Part-1.zip 13.3 MB, LumiumX-Falling-Leaves-Crochet-Table-Set-Part-2.zip 13.3 MB (limit 20 MB each, 5 files)"
+    },
+    {
+      "name": "pattern source matches the owner approval",
+      "ok": true,
+      "detail": "crochet/patterns.json sha256 3b8b9f080308…"
+    },
+    {
+      "name": "pattern source still valid",
+      "ok": true,
+      "detail": "6 patterns"
+    },
+    {
+      "name": "pattern_count correct",
+      "ok": true,
+      "detail": "6 declared, 6 supplied, 6 approved"
+    },
+    {
+      "name": "no duplicate patterns",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no missing instructions",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no placeholder text",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no undefined abbreviations",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "terminology consistent",
+      "ok": true,
+      "detail": "US"
+    },
+    {
+      "name": "layout reproduces the built files",
+      "ok": true,
+      "detail": "identical pagination"
+    },
+    {
+      "name": "all approved patterns included (A4 and US Letter, bundle and individual)",
+      "ok": true,
+      "detail": "6 patterns x 2 papers"
+    },
+    {
+      "name": "instruction text matches the approved source exactly",
+      "ok": true,
+      "detail": "every step, heading, assembly and finishing line placed verbatim"
+    },
+    {
+      "name": "materials, hook sizes, assembly and finishing rendered in every pattern PDF",
+      "ok": true,
+      "detail": "every layout line matched to positioned PDF text; includes every step and label, in individual PDFs and both complete bundles (safe wrapping/page breaks allowed)"
+    },
+    {
+      "name": "no blank pattern pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no page overflow or text clipping",
+      "ok": true,
+      "detail": "every line inside its column and the page"
+    },
+    {
+      "name": "pattern index page numbers correct",
+      "ok": true,
+      "detail": "every index entry points at its pattern"
+    },
+    {
+      "name": "artwork present and valid",
+      "ok": true,
+      "detail": "3 approved asset(s) placed"
+    },
+    {
+      "name": "A4 generated",
+      "ok": true,
+      "detail": "bundle-pdf, pattern-index, materials-reference, abbreviations-reference; 6 individual pattern PDFs"
+    },
+    {
+      "name": "US Letter generated",
+      "ok": true,
+      "detail": "bundle-pdf, pattern-index, materials-reference, abbreviations-reference; 6 individual pattern PDFs"
+    },
+    {
+      "name": "printing and crochet guide present",
+      "ok": true,
+      "detail": "START-HERE-Printing-and-Crochet-Guide.pdf"
+    },
+    {
+      "name": "no unsupported testing or guarantee claims",
+      "ok": true,
+      "detail": "no \"tested\", \"verified\" or \"guaranteed\" wording"
+    },
+    {
+      "name": "no unsupported resolution claim",
+      "ok": true,
+      "detail": "effective print resolution A4 138 ppi, A4-Individual-Patterns 262 ppi, US-Letter 153 ppi, US-Letter-Individual-Patterns 262 ppi"
+    }
+  ],
+  "resolution": {
+    "effective_ppi": {
+      "A4": 138,
+      "A4-Individual-Patterns": 262,
+      "US-Letter": 153,
+      "US-Letter-Individual-Patterns": 262
+    },
+    "source_px": [
+      "1024x1536"
+    ],
+    "density_metadata": [
+      72
+    ],
+    "note": "Effective ppi = source pixels / printed size. PNG density metadata is not used when printing the PDFs."
+  },
+  "image_encoding": {
+    "img": "png"
+  },
+  "zip": null,
+  "zip_parts": [
+    {
+      "name": "LumiumX-Falling-Leaves-Crochet-Table-Set-Part-1.zip",
+      "file": "production/package/LumiumX-Falling-Leaves-Crochet-Table-Set-Part-1.zip",
+      "bytes": 13274656
+    },
+    {
+      "name": "LumiumX-Falling-Leaves-Crochet-Table-Set-Part-2.zip",
+      "file": "production/package/LumiumX-Falling-Leaves-Crochet-Table-Set-Part-2.zip",
+      "bytes": 13250018
+    }
+  ],
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4-p1.png",
+      "source": "A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4-p1.png",
+      "source": "A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+      "page": 1,
+      "label": "Pattern index (A4)"
+    },
+    {
+      "file": "production/previews/preview-03-01-Maple-Leaf-Placemat-A4-p1.png",
+      "source": "A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+      "page": 1,
+      "label": "First pattern (A4)"
+    },
+    {
+      "file": "production/previews/preview-04-LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4-p1.png",
+      "source": "A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+      "page": 1,
+      "label": "Materials and tools (A4)"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "pattern_id": "baby-breath-spray",
+  "name": "Baby's Breath Spray",
+  "category": "flower filler",
+  "difficulty": "beginner",
+  "finished_size": "About 18 cm long",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn for the tiny flowers",
+      "colour": "White or ivory",
+      "amount": "About 5 g"
+    },
+    {
+      "description": "Mercerised cotton yarn for branches",
+      "colour": "Soft green",
+      "amount": "About 5 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Three 18 cm lengths of 24-gauge floral wire",
+    "Green floral tape",
+    "Tapestry needle",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "dc": "double crochet",
+    "MR": "magic ring",
+    "rnd": "round",
+    "sl st": "slip stitch"
+  },
+  "gauge": "Gauge is not critical because the wired stem determines the finished length. Keep the flower yarn tension even so the blooms remain delicate.",
+  "instructions": [
+    {
+      "heading": "Tiny Flowers",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With white or ivory, make an MR. ch 1. In the MR, work ch 2, 2 dc, ch 2, sl st in the MR. Work this petal sequence four more times, making five petals in total. Pull the MR closed firmly. Fasten off, leaving a 12 cm tail for sewing.",
+          "stitch_count": null
+        },
+        {
+          "label": "Make 9",
+          "text": "Make eight more flowers in the same way, for nine flowers total.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Crocheted Branch Frameworks",
+      "steps": [
+        {
+          "label": "Branch 1",
+          "text": "With green, ch 24. Working back along the foundation chain, sl st in the second ch from hook and in each of the next four ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Twig 1",
+          "text": "ch 7. sl st in the second ch from hook and in each of the next five ch, returning to the foundation chain.",
+          "stitch_count": null
+        },
+        {
+          "label": "Between twigs",
+          "text": "sl st in each of the next four foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Twig 2",
+          "text": "ch 7. sl st in the second ch from hook and in each of the next five ch, returning to the foundation chain.",
+          "stitch_count": null
+        },
+        {
+          "label": "Between twigs",
+          "text": "sl st in each of the next four foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Twig 3",
+          "text": "ch 7. sl st in the second ch from hook and in each of the next five ch, returning to the foundation chain.",
+          "stitch_count": null
+        },
+        {
+          "label": "Tail",
+          "text": "sl st in each of the remaining 10 foundation ch. Fasten off, leaving a 15 cm tail for joining.",
+          "stitch_count": null
+        },
+        {
+          "label": "Branches 2-3",
+          "text": "Make two more identical branch frameworks.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Lay the 10-chain straight tail of the first branch framework against the upper 6 cm of one floral wire. Secure it with its long green tail, making several small wraps around both the wire and crochet before weaving the tail into the framework.",
+    "Attach the second framework 4 cm below the first, placing its twigs on the opposite side of the wire. Secure its straight tail as for the first framework.",
+    "Attach the third framework 4 cm below the second, placing its twigs on the same side as the first. Secure its straight tail as for the first framework.",
+    "Sew one flower to the outer tip of every crocheted twig. Pass each flower tail through the centre of the flower and the tip chain twice before securing it on the reverse side.",
+    "Wrap floral tape from the lowest branch join down the wire to cover the joins and form a neat stem."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off all remaining yarn ends by drawing each cut yarn end through its final loop and pulling it snugly.",
+    "Weave all flower and branch yarn tails into the reverse side of their matching crochet, trimming only after they are secure.",
+    "Gently spread the five petals of each flower so the blooms lie open and airy.",
+    "Bend the wired stem and individual branch frameworks gently to create a loose, natural spray shape."
+  ],
+  "notes": [
+    "Each flower has five small chain-loop petals and is intentionally open for an airy baby's-breath effect.",
+    "For a fuller filler stem, make a second spray and combine both wired stems with floral tape."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,1695 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "024",
+  "workspace": "024-3-easy-halloween-crotchet-designs",
+  "name": "Little Halloween Costume Accessories",
+  "slug": "little-halloween-costume-accessories",
+  "season": "Halloween",
+  "product_type": "Crochet pattern bundle",
+  "target_customer": "Crocheters making simple Halloween accessories for children and adults",
+  "page_count": 3,
+  "status": "AWAITING_ETSY_PUBLISH_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-10-07T22:24:50.179Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-10-07T22:25:26.212Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-10-07T22:25:26.360Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-10-07T22:25:57.311Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-10-07T22:26:18.866Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-10-07T22:26:49.822Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-07T22:26:50.005Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-07T22:27:25.833Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-07T22:30:05.888Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-07T22:31:05.293Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-07T22:31:15.433Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "retry",
+      "at": "2026-10-07T23:41:59.740Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-07T23:42:00.201Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "AWAITING_PATTERN_APPROVAL",
+      "event": "patterns_ready",
+      "at": "2026-10-07T23:44:19.806Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PATTERN_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "patterns_approved",
+      "at": "2026-10-07T23:44:26.537Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "VISUALS_GENERATING",
+      "event": "visuals_started",
+      "at": "2026-10-07T23:44:38.159Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "VISUALS_GENERATING",
+      "to": "AWAITING_VISUALS_APPROVAL",
+      "event": "visuals_ready",
+      "at": "2026-10-07T23:45:16.608Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_VISUALS_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "visuals_approved",
+      "at": "2026-10-07T23:45:30.522Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "SPEC_READY",
+      "event": "restyle_started",
+      "at": "2026-10-07T23:46:15.117Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-07T23:46:18.627Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-07T23:46:49.073Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-07T23:47:31.347Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-10-07T23:47:33.863Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-07T23:47:33.870Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-07T23:48:15.436Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-10-07T23:48:35.904Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-10-07T23:51:11.219Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-07T23:55:44.146Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-07T23:56:11.180Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-07T23:56:35.914Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-07T23:56:36.997Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-07T23:57:11.806Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-07T23:57:16.925Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-07T23:58:46.922Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-07T23:58:47.975Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_APPROVED",
+      "event": "marketing_approved",
+      "at": "2026-10-08T00:00:37.086Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_APPROVED",
+      "to": "ETSY_PREPARING",
+      "event": "etsy_started",
+      "at": "2026-10-08T00:00:40.332Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "ETSY_DRAFT_CREATED",
+      "event": "etsy_draft_created",
+      "at": "2026-10-08T00:00:46.928Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_CREATED",
+      "to": "ETSY_ASSETS_UPLOADING",
+      "event": "etsy_uploading",
+      "at": "2026-10-08T00:00:47.062Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_ASSETS_UPLOADING",
+      "to": "ETSY_DRAFT_VERIFYING",
+      "event": "etsy_verifying",
+      "at": "2026-10-08T00:01:22.373Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_VERIFYING",
+      "to": "AWAITING_ETSY_PUBLISH_APPROVAL",
+      "event": "etsy_draft_ready",
+      "at": "2026-10-08T00:01:23.242Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "3 easy Halloween crotchet designs",
+    "requested_at": "2026-10-07T22:24:50.179Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 2,
+    "source": "restyle",
+    "summary": {
+      "style": "Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.",
+      "linework": "Branding ornaments and dividers only, never the crochet product: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; Branding ornaments and dividers only, never the crochet product: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.",
+      "detail": "Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.",
+      "palette": "Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition. (full colour)",
+      "mood": "Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-10-07T22:25:26.212Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Halloween Hanging Ornament Trio",
+            "tagline": "Quick makes for a spooky seasonal display",
+            "product_type": "Crochet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Beginner and improver crocheters decorating for Halloween",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Three easy crochet ornament patterns",
+              "Three finished-piece reference images",
+              "Materials and yarn notes",
+              "Abbreviations and stitch guide",
+              "Printing guide"
+            ],
+            "short_description": "A set of three easy Halloween crochet patterns for a ghost, pumpkin and crescent-moon hanging ornament. Designed as small seasonal makes for branches, garlands, gift wrapping or a Halloween display.",
+            "key_features": [
+              "Three small Halloween ornament designs",
+              "Simple construction using common crochet stitches",
+              "Finished-piece reference image for each design",
+              "Seasonal decorating and gift-topper uses",
+              "Home-printable pattern files"
+            ],
+            "visual_direction_summary": "Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.",
+            "visual_route": {
+              "primary_subject": "Crochet ornament trio",
+              "scene": "Bare black twig display with sparse autumn leaves",
+              "focal_object": "Crescent moon ornament",
+              "composition": "Three ornaments staggered across a vertical twig arrangement",
+              "lighting": "Warm side-lit studio glow",
+              "palette_emphasis": "Charcoal, cream, burnt orange and muted gold",
+              "emotional_tone": "Handmade, playful and gently spooky",
+              "typography_approach": "Simple cream serif title in open upper space",
+              "distinguishing_visual_hook": "Tiny ornaments suspended from sculptural black branches"
+            },
+            "preview_brief": "A portrait cover image shows a crochet ghost, pumpkin and crescent moon hanging from elegant black twigs against a warm neutral studio backdrop. The title sits in clear open space above the display for a refined, handmade Halloween feel."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Spooky Supper Crochet Set",
+            "tagline": "Easy table makes for Halloween hosting",
+            "product_type": "Crochet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Crocheters preparing a playful Halloween table or seasonal gift",
+            "page_count": 3,
+            "orientation": "landscape",
+            "deliverable_components": [
+              "Three easy crochet table accessory patterns",
+              "Three finished-piece reference images",
+              "Materials and yarn notes",
+              "Abbreviations and stitch guide",
+              "Printing guide"
+            ],
+            "short_description": "A set of three easy Halloween crochet patterns for a pumpkin coaster, spiderweb mug cosy and candy bowl. Small functional makes add handmade character to an October tea table or party spread.",
+            "key_features": [
+              "Three practical Halloween table accessories",
+              "Compact projects using accessible stitch techniques",
+              "Finished-piece reference image for each design",
+              "Coordinated seasonal colour palette",
+              "Home-printable pattern files"
+            ],
+            "visual_direction_summary": "Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.",
+            "visual_route": {
+              "primary_subject": "Crochet table set",
+              "scene": "Halloween tea table with ceramic mug and sweets",
+              "focal_object": "Spiderweb mug cosy",
+              "composition": "Table accessories arranged around a central steaming mug",
+              "lighting": "Golden late-afternoon window light",
+              "palette_emphasis": "Pumpkin orange, ink black, oat and plum",
+              "emotional_tone": "Cosy, sociable and lightly mischievous",
+              "typography_approach": "Bold serif title aligned along the left edge",
+              "distinguishing_visual_hook": "Spiderweb cosy wrapped around a striped ceramic mug"
+            },
+            "preview_brief": "A landscape cover presents a pumpkin coaster, spiderweb mug cosy and small candy bowl on a warmly lit Halloween tea table. The mug cosy takes centre stage while the title is cleanly placed at the left for a practical, giftable pattern-bundle look."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Little Halloween Costume Accessories",
+            "tagline": "Three quick makes for festive dress-up",
+            "product_type": "Crochet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Crocheters making simple Halloween accessories for children and adults",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Three easy crochet accessory patterns",
+              "Three finished-piece reference images",
+              "Materials and yarn notes",
+              "Abbreviations and stitch guide",
+              "Printing guide"
+            ],
+            "short_description": "A set of three easy Halloween crochet patterns for a bat hair clip, witch-hat brooch and candy-corn bag charm. These lightweight accessories offer quick handmade finishing touches for seasonal outfits and treat bags.",
+            "key_features": [
+              "Three small Halloween accessory designs",
+              "Quick projects with minimal yarn requirements",
+              "Finished-piece reference image for each design",
+              "Suitable for outfit, bag and gift embellishment",
+              "Home-printable pattern files"
+            ],
+            "visual_direction_summary": "Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.",
+            "visual_route": {
+              "primary_subject": "Crochet accessory trio",
+              "scene": "Linen pinboard with ribbon and autumn foliage",
+              "focal_object": "Witch-hat brooch",
+              "composition": "Accessories pinned in a neat vertical collector layout",
+              "lighting": "Soft diffused morning studio light",
+              "palette_emphasis": "Violet, black, cream and candy-corn yellow",
+              "emotional_tone": "Cheerful, crafty and festive",
+              "typography_approach": "Delicate serif title centred beneath the collection",
+              "distinguishing_visual_hook": "Witch-hat brooch framed by looping velvet ribbon"
+            },
+            "preview_brief": "A portrait cover shows a bat hair clip, witch-hat brooch and candy-corn bag charm arranged like a small collection on a natural linen pinboard. Soft daylight and restrained foliage create a cheerful handmade accessory presentation, with the title centred below."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "C",
+      "selected_at": "2026-10-07T22:26:18.866Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-10-07T22:25:26.359Z",
+        "finished_at": "2026-10-07T22:25:57.308Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"3 easy Halloween crotchet designs\".\nConcept \"Halloween Hanging Ornament Trio\": a crochet pattern bundle for Beginner and improver crocheters decorating for Halloween.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crochet ornament trio\n- Scene: Bare black twig display with sparse autumn leaves\n- Focal object: Crescent moon ornament\n- Composition: Three ornaments staggered across a vertical twig arrangement\n- Lighting: Warm side-lit studio glow\n- Palette emphasis: Charcoal, cream, burnt orange and muted gold\n- Mood: Handmade, playful and gently spooky\n- Typography: Simple cream serif title in open upper space\n- Distinguishing hook: Tiny ornaments suspended from sculptural black branches\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Crochet table set / Halloween tea table with ceramic mug and sweets / Spiderweb mug cosy / Golden late-afternoon window light\n- C: Crochet accessory trio / Linen pinboard with ribbon and autumn foliage / Witch-hat brooch / Soft diffused morning studio light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T22:25:37.074Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"3 easy Halloween crotchet designs\".\nConcept \"Spooky Supper Crochet Set\": a crochet pattern bundle for Crocheters preparing a playful Halloween table or seasonal gift.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crochet table set\n- Scene: Halloween tea table with ceramic mug and sweets\n- Focal object: Spiderweb mug cosy\n- Composition: Table accessories arranged around a central steaming mug\n- Lighting: Golden late-afternoon window light\n- Palette emphasis: Pumpkin orange, ink black, oat and plum\n- Mood: Cosy, sociable and lightly mischievous\n- Typography: Bold serif title aligned along the left edge\n- Distinguishing hook: Spiderweb cosy wrapped around a striped ceramic mug\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Crochet ornament trio / Bare black twig display with sparse autumn leaves / Crescent moon ornament / Warm side-lit studio glow\n- C: Crochet accessory trio / Linen pinboard with ribbon and autumn foliage / Witch-hat brooch / Soft diffused morning studio light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "quality": "low",
+            "generated_at": "2026-10-07T22:25:47.045Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"3 easy Halloween crotchet designs\".\nConcept \"Little Halloween Costume Accessories\": a crochet pattern bundle for Crocheters making simple Halloween accessories for children and adults.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crochet accessory trio\n- Scene: Linen pinboard with ribbon and autumn foliage\n- Focal object: Witch-hat brooch\n- Composition: Accessories pinned in a neat vertical collector layout\n- Lighting: Soft diffused morning studio light\n- Palette emphasis: Violet, black, cream and candy-corn yellow\n- Mood: Cheerful, crafty and festive\n- Typography: Delicate serif title centred beneath the collection\n- Distinguishing hook: Witch-hat brooch framed by looping velvet ribbon\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Crochet ornament trio / Bare black twig display with sparse autumn leaves / Crescent moon ornament / Warm side-lit studio glow\n- B: Crochet table set / Halloween tea table with ceramic mug and sweets / Spiderweb mug cosy / Golden late-afternoon window light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T22:25:57.140Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Little Halloween Costume Accessories",
+      "concept": "Cover for a 3-pattern US-terms crochet pattern collection: a realistic crochet arrangement made only of approved patterns, with the branding around it.",
+      "instructions": null,
+      "artwork_description": "The \"Costume and Treat-Bag Trio\" arrangement (1 × Moonlit Bat Hair Clip (bat-hair-clip), 1 × Lavender Witch-Hat Brooch (witch-hat-brooch), 1 × Candy-Corn Bag Charm (candy-corn-bag-charm)) fills much of the page on soft cream linen in natural product-photography light. Small crescent-moon and botanical branding frame the title, subtitle and count line in elegant serif type.",
+      "generation_prompt": "Cover artwork.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Moonlit Bat Hair Clip [pattern bat-hair-clip]: a crochet hair accessory about 7 cm across; a crochet centre; no leaves; with embroidery as the pattern specifies; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Black (Light yarn for bat, wings and ears), White (Light yarn for embroidered eyes).\n- 1 × Lavender Witch-Hat Brooch [pattern witch-hat-brooch]: a crochet lavender about 6 cm across and 6 cm long; a crochet centre; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Lavender (Light yarn for hat and brim). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Candy-Corn Bag Charm [pattern candy-corn-bag-charm]: a crochet bag charm about 6 cm long; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: White (Light yarn for the pointed top), Orange (Light yarn for the middle stripe), Yellow (Light yarn for the wide base).\nShow ONLY these crochet pieces: 3 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nBranding ornaments (crescent moon, fine botanical sprigs) are flat illustration decoration, clearly distinct from the crochet pieces; they are printed artwork, not crochet or yarn.\nComposition: one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title\nCover text: title text exactly “Little Halloween Costume Accessories”; subtitle exactly “Crochet Pattern Bundle”; small line exactly “3 crochet patterns • US terms”.",
+      "production_notes": "Verify the cover text exactly: “Little Halloween Costume Accessories”, “Crochet Pattern Bundle” and “3 crochet patterns • US terms” (from the approved pattern source). Crochet pieces: 1 × Moonlit Bat Hair Clip (bat-hair-clip), 1 × Lavender Witch-Hat Brooch (witch-hat-brooch), 1 × Candy-Corn Bag Charm (candy-corn-bag-charm), from creative/visual-specs.json. The crochet piece is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    },
+    {
+      "page_number": 2,
+      "page_type": "pattern-overview",
+      "title": "Pattern Overview",
+      "concept": "Overview of the collection: individual finished crochet pieces from the 3 approved patterns.",
+      "instructions": null,
+      "artwork_description": "A clean editorial arrangement of individual realistic finished crochet pieces (1 × Moonlit Bat Hair Clip (bat-hair-clip), 1 × Lavender Witch-Hat Brooch (witch-hat-brooch), 1 × Candy-Corn Bag Charm (candy-corn-bag-charm)), each shown separately on cream linen with soft shadows.",
+      "generation_prompt": "Pattern overview.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Moonlit Bat Hair Clip [pattern bat-hair-clip]: a crochet hair accessory about 7 cm across; a crochet centre; no leaves; with embroidery as the pattern specifies; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Black (Light yarn for bat, wings and ears), White (Light yarn for embroidered eyes).\n- 1 × Lavender Witch-Hat Brooch [pattern witch-hat-brooch]: a crochet lavender about 6 cm across and 6 cm long; a crochet centre; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Lavender (Light yarn for hat and brim). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Candy-Corn Bag Charm [pattern candy-corn-bag-charm]: a crochet bag charm about 6 cm long; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: White (Light yarn for the pointed top), Orange (Light yarn for the middle stripe), Yellow (Light yarn for the wide base).\nShow ONLY these crochet pieces: 3 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nComposition: each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists",
+      "production_notes": "Shows 3 of the 3 approved patterns: 1 × Moonlit Bat Hair Clip (bat-hair-clip), 1 × Lavender Witch-Hat Brooch (witch-hat-brooch), 1 × Candy-Corn Bag Charm (candy-corn-bag-charm). The pattern index with every name is typeset by code in production, never drawn by the image model. The crochet piece is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    },
+    {
+      "page_number": 3,
+      "page_type": "detail-motif",
+      "title": "Stitch Detail",
+      "concept": "A macro close-up that proves the craft: real crochet stitches and yarn texture.",
+      "instructions": null,
+      "artwork_description": "A macro close-up of Moonlit Bat Hair Clip: individual stitches, loops and yarn fibres in sharp focus, cream linen behind.",
+      "generation_prompt": "Macro stitch detail.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Moonlit Bat Hair Clip [pattern bat-hair-clip]: a crochet hair accessory about 7 cm across; a crochet centre; no leaves; with embroidery as the pattern specifies; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Black (Light yarn for bat, wings and ears), White (Light yarn for embroidered eyes).\nShow ONLY these crochet pieces: 1 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nComposition: macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text",
+      "production_notes": "Used as the back-page motif. Crochet piece: 1 × Moonlit Bat Hair Clip (bat-hair-clip). The crochet piece is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "main-style",
+        "reason": "First content page (cover): sets the core illustration style."
+      },
+      {
+        "page_number": 2,
+        "role": "different-composition",
+        "reason": "A different page type (pattern-overview) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 3,
+        "role": "consistency-check",
+        "reason": "A later page (detail-motif, p3) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "purpose": "concept-style",
+        "started_at": "2026-10-07T22:26:50.005Z",
+        "finished_at": "2026-10-07T22:27:25.829Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Premium Moonlit Meadow crochet-pattern branding: elegant serif typography, fine botanical line ornaments and subtle watercolour details in cream, warm ivory, soft blush, lavender and sage. Show every crocheted product as high-end photorealistic editorial product photography, never illustration: visible yarn fibres, authentic crochet loops, stitch definition, handmade depth and slight natural irregularity. Use softly styled linen or a neutral interior surface, gentle natural light, soft dimensional shadows, airy premium composition and romantic handmade mood. Watercolour and drawn ornamentation belong to the branding layer only.\n\nSTYLE PARAMETERS: illustration style: Premium editorial crochet pattern branding paired with high-end realistic product photography. Branding uses Moonlit Meadow botanical watercolour ornaments and refined serif typography; all crochet pieces remain strictly photographic in appearance.; line weight: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; line quality: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.; detail level: Moderate, with detail concentrated in visible stitch definition, yarn fibres, dimensional loops and small handmade irregularities; branding remains airy and restrained.; background density: Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.; composition: Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.; palette: Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.; colour mode: full colour; shading: Soft natural directional light, gentle true-to-material shadows and dimensional stitch relief; subtle translucent watercolour washes only in the branding layer.; texture: Tactile natural yarn fibres, clearly resolved crochet stitches and realistic linen texture, contrasted with delicate paper-like watercolour ornament texture.; mood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel..\n\nPAGE 1 of \"Little Halloween Costume Accessories\" (cover): Generic small crocheted seasonal costume accessories arranged as a neat collector display on a linen pinboard; one dark pointed accessory centred and framed by a looping velvet ribbon; sparse autumn foliage; title text: “Little Halloween Costume Accessories”; small subtitle text: “Three quick makes for festive dress-up”.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying recognisable characters, logos, trademarks or distinctive existing product layouts; Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces; Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds; Unreadable, misspelled or overly decorative text; Claims that rendered pieces are test-made physical items or included physical goods; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T22:27:01.781Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 2,
+            "prompt": "Premium Moonlit Meadow crochet-pattern branding: elegant serif typography, fine botanical line ornaments and subtle watercolour details in cream, warm ivory, soft blush, lavender and sage. Show every crocheted product as high-end photorealistic editorial product photography, never illustration: visible yarn fibres, authentic crochet loops, stitch definition, handmade depth and slight natural irregularity. Use softly styled linen or a neutral interior surface, gentle natural light, soft dimensional shadows, airy premium composition and romantic handmade mood. Watercolour and drawn ornamentation belong to the branding layer only.\n\nSTYLE PARAMETERS: illustration style: Premium editorial crochet pattern branding paired with high-end realistic product photography. Branding uses Moonlit Meadow botanical watercolour ornaments and refined serif typography; all crochet pieces remain strictly photographic in appearance.; line weight: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; line quality: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.; detail level: Moderate, with detail concentrated in visible stitch definition, yarn fibres, dimensional loops and small handmade irregularities; branding remains airy and restrained.; background density: Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.; composition: Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.; palette: Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.; colour mode: full colour; shading: Soft natural directional light, gentle true-to-material shadows and dimensional stitch relief; subtle translucent watercolour washes only in the branding layer.; texture: Tactile natural yarn fibres, clearly resolved crochet stitches and realistic linen texture, contrasted with delicate paper-like watercolour ornament texture.; mood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel..\n\nPAGE 2 of \"Little Halloween Costume Accessories\" (pattern): Single generic small crocheted costume accessory visualisation with a macro inset of defined crochet loops; reserved structured pattern sections for project title, materials, tension, abbreviations, rounds, finishing and fastening guidance; short heading text: “Quick Make A”.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying recognisable characters, logos, trademarks or distinctive existing product layouts; Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces; Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds; Unreadable, misspelled or overly decorative text; Claims that rendered pieces are test-made physical items or included physical goods; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T22:27:14.896Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 3,
+            "prompt": "Premium Moonlit Meadow crochet-pattern branding: elegant serif typography, fine botanical line ornaments and subtle watercolour details in cream, warm ivory, soft blush, lavender and sage. Show every crocheted product as high-end photorealistic editorial product photography, never illustration: visible yarn fibres, authentic crochet loops, stitch definition, handmade depth and slight natural irregularity. Use softly styled linen or a neutral interior surface, gentle natural light, soft dimensional shadows, airy premium composition and romantic handmade mood. Watercolour and drawn ornamentation belong to the branding layer only.\n\nSTYLE PARAMETERS: illustration style: Premium editorial crochet pattern branding paired with high-end realistic product photography. Branding uses Moonlit Meadow botanical watercolour ornaments and refined serif typography; all crochet pieces remain strictly photographic in appearance.; line weight: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; line quality: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.; detail level: Moderate, with detail concentrated in visible stitch definition, yarn fibres, dimensional loops and small handmade irregularities; branding remains airy and restrained.; background density: Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.; composition: Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.; palette: Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.; colour mode: full colour; shading: Soft natural directional light, gentle true-to-material shadows and dimensional stitch relief; subtle translucent watercolour washes only in the branding layer.; texture: Tactile natural yarn fibres, clearly resolved crochet stitches and realistic linen texture, contrasted with delicate paper-like watercolour ornament texture.; mood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel..\n\nPAGE 3 of \"Little Halloween Costume Accessories\" (pattern): Two balanced crochet pattern sections divided by a delicate botanical rule; reserved areas for project titles, materials, abbreviations, written instructions and finishing notes; one small generic photorealistic crochet texture visualisation at the top; heading text: “Quick Makes B + C”.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying recognisable characters, logos, trademarks or distinctive existing product layouts; Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces; Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds; Unreadable, misspelled or overly decorative text; Claims that rendered pieces are test-made physical items or included physical goods; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T22:27:25.606Z"
+          }
+        ],
+        "error": null
+      },
+      {
+        "attempt": 2,
+        "dir": "proofs/attempt-02",
+        "reason": "restyle",
+        "direction_version": 2,
+        "purpose": "traceable-product",
+        "started_at": "2026-10-07T23:46:18.627Z",
+        "finished_at": "2026-10-07T23:46:49.069Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-02/proof-01.png",
+            "page_number": 1,
+            "prompt": "Premium crochet pattern collection: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography. Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.\n\nSTYLE PARAMETERS: illustration style: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.; line weight: Branding ornaments and dividers only, never the crochet product: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; line quality: Branding ornaments and dividers only, never the crochet product: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.; detail level: Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.; background density: Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.; composition: Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.; palette: Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.; colour mode: full colour; shading: Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.; texture: Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.; mood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel..\n\nPAGE 1 of \"Little Halloween Costume Accessories\" (cover): Cover artwork.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Moonlit Bat Hair Clip [pattern bat-hair-clip]: a crochet hair accessory about 7 cm across; a crochet centre; no leaves; with embroidery as the pattern specifies; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Black (Light yarn for bat, wings and ears), White (Light yarn for embroidered eyes).\n- 1 × Lavender Witch-Hat Brooch [pattern witch-hat-brooch]: a crochet lavender about 6 cm across and 6 cm long; a crochet centre; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Lavender (Light yarn for hat and brim). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Candy-Corn Bag Charm [pattern candy-corn-bag-charm]: a crochet bag charm about 6 cm long; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: White (Light yarn for the pointed top), Orange (Light yarn for the middle stripe), Yellow (Light yarn for the wide base).\nShow ONLY these crochet pieces: 3 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nBranding ornaments (crescent moon, fine botanical sprigs) are flat illustration decoration, clearly distinct from the crochet pieces; they are printed artwork, not crochet or yarn.\nComposition: one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title\nCover text: title text exactly “Little Halloween Costume Accessories”; subtitle exactly “Crochet Pattern Bundle”; small line exactly “3 crochet patterns • US terms”.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nPATTERN-DERIVED PRODUCT VISUAL: the crochet pieces are exactly those in the specification above (approved patterns, checked against them). A rendered example of the finished crochet design, not a photograph.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying recognisable characters, logos, trademarks or distinctive existing product layouts; Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces; Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds; Unreadable, misspelled or overly decorative text; Claims that rendered pieces are test-made physical items or included physical goods; Stitch diagrams, charts or written instructions inside the artwork; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T23:46:28.836Z"
+          },
+          {
+            "file": "proofs/attempt-02/proof-02.png",
+            "page_number": 2,
+            "prompt": "Premium crochet pattern collection: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography. Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.\n\nSTYLE PARAMETERS: illustration style: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.; line weight: Branding ornaments and dividers only, never the crochet product: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; line quality: Branding ornaments and dividers only, never the crochet product: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.; detail level: Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.; background density: Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.; composition: Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.; palette: Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.; colour mode: full colour; shading: Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.; texture: Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.; mood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel..\n\nPAGE 2 of \"Little Halloween Costume Accessories\" (pattern-overview): Pattern overview.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Moonlit Bat Hair Clip [pattern bat-hair-clip]: a crochet hair accessory about 7 cm across; a crochet centre; no leaves; with embroidery as the pattern specifies; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Black (Light yarn for bat, wings and ears), White (Light yarn for embroidered eyes).\n- 1 × Lavender Witch-Hat Brooch [pattern witch-hat-brooch]: a crochet lavender about 6 cm across and 6 cm long; a crochet centre; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Lavender (Light yarn for hat and brim). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Candy-Corn Bag Charm [pattern candy-corn-bag-charm]: a crochet bag charm about 6 cm long; no leaves; no stem; DK (light) weight yarn, 3.5 mm hook; colours: White (Light yarn for the pointed top), Orange (Light yarn for the middle stripe), Yellow (Light yarn for the wide base).\nShow ONLY these crochet pieces: 3 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nComposition: each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nPATTERN-DERIVED PRODUCT VISUAL: the crochet pieces are exactly those in the specification above (approved patterns, checked against them). A rendered example of the finished crochet design, not a photograph.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying recognisable characters, logos, trademarks or distinctive existing product layouts; Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces; Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds; Unreadable, misspelled or overly decorative text; Claims that rendered pieces are test-made physical items or included physical goods; Stitch diagrams, charts or written instructions inside the artwork; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T23:46:39.405Z"
+          },
+          {
+            "file": "proofs/attempt-02/proof-03.png",
+            "page_number": 3,
+            "prompt": "Premium crochet pattern collection: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography. Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.\n\nSTYLE PARAMETERS: illustration style: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.; line weight: Branding ornaments and dividers only, never the crochet product: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.; line quality: Branding ornaments and dividers only, never the crochet product: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.; detail level: Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.; background density: Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.; composition: Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.; palette: Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.; colour mode: full colour; shading: Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.; texture: Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.; mood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel..\n\nPAGE 3 of \"Little Halloween Costume Accessories\" (detail-motif): Macro stitch detail.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Moonlit Bat Hair Clip [pattern bat-hair-clip]: a crochet hair accessory about 7 cm across; a crochet centre; no leaves; with embroidery as the pattern specifies; no stem; DK (light) weight yarn, 3.5 mm hook; colours: Black (Light yarn for bat, wings and ears), White (Light yarn for embroidered eyes).\nShow ONLY these crochet pieces: 1 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nComposition: macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nPATTERN-DERIVED PRODUCT VISUAL: the crochet pieces are exactly those in the specification above (approved patterns, checked against them). A rendered example of the finished crochet design, not a photograph.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying recognisable characters, logos, trademarks or distinctive existing product layouts; Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces; Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds; Unreadable, misspelled or overly decorative text; Claims that rendered pieces are test-made physical items or included physical goods; Stitch diagrams, charts or written instructions inside the artwork; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T23:46:48.910Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "6407d177a390",
+    "keyboard_message_ids": [
+      846,
+      852,
+      863,
+      867,
+      876,
+      884,
+      893,
+      899,
+      913,
+      919,
+      923
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2802,
+        "input_tokens_details": {
+          "cache_write_tokens": 2799,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2120,
+        "output_tokens_details": {
+          "reasoning_tokens": 917
+        },
+        "total_tokens": 4922
+      },
+      "at": "2026-10-07T22:25:00.717Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 878,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 878
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1036
+      },
+      "at": "2026-10-07T22:25:26.367Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 885,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 885
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1043
+      },
+      "at": "2026-10-07T22:25:37.276Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 881,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 881
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1039
+      },
+      "at": "2026-10-07T22:25:47.248Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3229,
+        "input_tokens_details": {
+          "cache_write_tokens": 3226,
+          "cached_tokens": 0
+        },
+        "output_tokens": 681,
+        "output_tokens_details": {
+          "reasoning_tokens": 135
+        },
+        "total_tokens": 3910
+      },
+      "at": "2026-10-07T22:26:19.476Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2845,
+        "input_tokens_details": {
+          "cache_write_tokens": 2842,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1845,
+        "output_tokens_details": {
+          "reasoning_tokens": 863
+        },
+        "total_tokens": 4690
+      },
+      "at": "2026-10-07T22:26:29.372Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1132,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1132
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1475
+      },
+      "at": "2026-10-07T22:26:50.015Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1123,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1123
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1466
+      },
+      "at": "2026-10-07T22:27:01.989Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1128,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1128
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1471
+      },
+      "at": "2026-10-07T22:27:15.085Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-plan",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1704,
+        "input_tokens_details": {
+          "cache_write_tokens": 1701,
+          "cached_tokens": 0
+        },
+        "output_tokens": 839,
+        "output_tokens_details": {
+          "reasoning_tokens": 132
+        },
+        "total_tokens": 2543
+      },
+      "at": "2026-10-07T22:31:05.311Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: crochet plan: model output rejected: no focal piece: a combinable collection needs at least one focal pattern; no foliage or structural pieces (leaves, stems) to complete an a"
+    },
+    {
+      "step": "crochet-plan",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2377,
+        "input_tokens_details": {
+          "cache_write_tokens": 2374,
+          "cached_tokens": 0
+        },
+        "output_tokens": 838,
+        "output_tokens_details": {
+          "reasoning_tokens": 165
+        },
+        "total_tokens": 3215
+      },
+      "at": "2026-10-07T23:42:00.215Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2669,
+        "input_tokens_details": {
+          "cache_write_tokens": 2666,
+          "cached_tokens": 0
+        },
+        "output_tokens": 5083,
+        "output_tokens_details": {
+          "reasoning_tokens": 3878
+        },
+        "total_tokens": 7752
+      },
+      "at": "2026-10-07T23:42:11.445Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2677,
+        "input_tokens_details": {
+          "cache_write_tokens": 609,
+          "cached_tokens": 2065
+        },
+        "output_tokens": 2506,
+        "output_tokens_details": {
+          "reasoning_tokens": 1552
+        },
+        "total_tokens": 5183
+      },
+      "at": "2026-10-07T23:43:12.767Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2650,
+        "input_tokens_details": {
+          "cache_write_tokens": 582,
+          "cached_tokens": 2065
+        },
+        "output_tokens": 3398,
+        "output_tokens_details": {
+          "reasoning_tokens": 2462
+        },
+        "total_tokens": 6048
+      },
+      "at": "2026-10-07T23:43:41.822Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-hero",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 597,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 597
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 940
+      },
+      "at": "2026-10-07T23:44:38.169Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 549,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 549
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 988
+      },
+      "at": "2026-10-07T23:44:48.437Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 549,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 549
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 988
+      },
+      "at": "2026-10-07T23:44:57.583Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 548,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 548
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 987
+      },
+      "at": "2026-10-07T23:45:06.461Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1413,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1413
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1756
+      },
+      "at": "2026-10-07T23:46:18.636Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1345,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1345
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1688
+      },
+      "at": "2026-10-07T23:46:29.021Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1172,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1172
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1515
+      },
+      "at": "2026-10-07T23:46:39.580Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 214,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 214
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 653
+      },
+      "at": "2026-10-07T23:51:22.190Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 4543,
+        "input_tokens_details": {
+          "cache_write_tokens": 4540,
+          "cached_tokens": 0
+        },
+        "output_tokens": 202,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4745
+      },
+      "at": "2026-10-07T23:51:34.413Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 398,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 398
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 837
+      },
+      "at": "2026-10-07T23:51:38.874Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 4566,
+        "input_tokens_details": {
+          "cache_write_tokens": 3512,
+          "cached_tokens": 1051
+        },
+        "output_tokens": 358,
+        "output_tokens_details": {
+          "reasoning_tokens": 158
+        },
+        "total_tokens": 4924
+      },
+      "at": "2026-10-07T23:51:51.267Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 445,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 445
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 884
+      },
+      "at": "2026-10-07T23:51:57.305Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 5701,
+        "input_tokens_details": {
+          "cache_write_tokens": 5698,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2016,
+        "output_tokens_details": {
+          "reasoning_tokens": 1034
+        },
+        "total_tokens": 7717
+      },
+      "at": "2026-10-07T23:55:44.439Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-copy",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2861,
+        "input_tokens_details": {
+          "cache_write_tokens": 2858,
+          "cached_tokens": 0
+        },
+        "output_tokens": 175,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3036
+      },
+      "at": "2026-10-07T23:56:07.092Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 254,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 254
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 693
+      },
+      "at": "2026-10-07T23:56:11.353Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 214,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 214
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 653
+      },
+      "at": "2026-10-07T23:57:17.101Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-10-07T23:47:31.347Z",
+  "created_at": "2026-10-07T22:24:50.179Z",
+  "updated_at": "2026-10-08T00:01:23.242Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "coloured",
+    "edge": "safe-margin",
+    "format_notes": "Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes."
+  },
+  "crochet": {
+    "version": 1,
+    "brief": {
+      "pattern_count": 3,
+      "terminology": "US",
+      "guidance": null,
+      "set_by": "@romg_o",
+      "set_at": "2026-10-07T22:30:15.521Z"
+    },
+    "plan": {
+      "file": "crochet/plan.json",
+      "sha256": "39bde3483fb5c82f3b9573f6397f8233d5cb9b550f7faa335210fb2d8feb75bf"
+    },
+    "source": {
+      "file": "crochet/patterns.json",
+      "sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "origin": "ai-assisted-draft"
+    },
+    "patterns": [
+      {
+        "pattern_id": "bat-hair-clip",
+        "name": "Moonlit Bat Hair Clip",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/bat-hair-clip.json",
+        "sha256": "f2637fd72b22e72e3794349d73e8ade0ffee5ff80958ae5279f519feca81d254",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-07T23:43:12.634Z"
+      },
+      {
+        "pattern_id": "witch-hat-brooch",
+        "name": "Lavender Witch-Hat Brooch",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/witch-hat-brooch.json",
+        "sha256": "eaa6dc00416fe7d9fddc5290eac5b3eaf334606096e97c4f839ae13d5212226a",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-07T23:43:41.579Z"
+      },
+      {
+        "pattern_id": "candy-corn-bag-charm",
+        "name": "Candy-Corn Bag Charm",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/candy-corn-bag-charm.json",
+        "sha256": "3e4b83b9e8c884cdb2b3c20daf9f02716b1e61f8cfa764aeea17cdbc76289abf",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-07T23:44:19.509Z"
+      }
+    ],
+    "validation": {
+      "ok": true,
+      "errors": [],
+      "source_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "at": "2026-10-07T23:44:19.799Z"
+    },
+    "generation": {
+      "status": "complete",
+      "mode": "generate",
+      "started_at": "2026-10-07T23:42:00.201Z",
+      "finished_at": "2026-10-07T23:44:19.805Z",
+      "error": null
+    },
+    "pending": null,
+    "revision_notes": [],
+    "approval": {
+      "approved_at": "2026-10-07T23:44:26.537Z",
+      "by": "@romg_o",
+      "source_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "pattern_count": 3,
+      "origin": "ai-assisted-draft",
+      "verification": {
+        "unverified": 3,
+        "tested": 0
+      }
+    }
+  },
+  "crochet_visuals": {
+    "version": 1,
+    "briefs": {
+      "file": "visuals/crochet/briefs.json",
+      "sha256": "2080338a7376639cb4176ba602faf56632635cfd0ebc87115c4f0725754913be"
+    },
+    "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+    "model": "gpt-image-2.5-flare",
+    "quality": "medium",
+    "sizes": {
+      "hero": "1536x1024",
+      "pattern-preview": "1024x1024"
+    },
+    "assets": [
+      {
+        "id": "crochet-hero",
+        "role": "hero",
+        "pattern_id": null,
+        "file": "visuals/crochet/hero/hero.png",
+        "status": "generated",
+        "sha256": "4eb6bf01552179a4ad3fe4ef9d90c9f76621919e19f038da884466bdf48c4c58",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T23:44:48.258Z",
+        "revision": 0,
+        "prompt_sha256": "58aeedb05b85f7e00f7c52f9e299c20df60324996ccd8d87c315ef2ce50cd9b0",
+        "brief_sha256": "c9c1269d8dcf27c01349e2f7f91504e4b41f741777e4d0a3158169eaa61dfe0e",
+        "fingerprint_sha256": "200810d92292f65a6d4327b6989f944d69a046753789b9b4dc53021bbf0e2c41",
+        "error": null
+      },
+      {
+        "id": "crochet-preview-bat-hair-clip",
+        "role": "pattern-preview",
+        "pattern_id": "bat-hair-clip",
+        "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+        "status": "generated",
+        "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01",
+        "width": 1024,
+        "height": 1024,
+        "size": "1024x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T23:44:57.347Z",
+        "revision": 0,
+        "prompt_sha256": "0867422a75c656e6a6d4ead737431fa10f7926105048a26ef2bbec416a5cca93",
+        "brief_sha256": "9e580da4db3d71619eb25a22fe89d009c84a775f75681c3caa77475d7fee659d",
+        "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5",
+        "error": null
+      },
+      {
+        "id": "crochet-preview-witch-hat-brooch",
+        "role": "pattern-preview",
+        "pattern_id": "witch-hat-brooch",
+        "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+        "status": "generated",
+        "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a",
+        "width": 1024,
+        "height": 1024,
+        "size": "1024x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T23:45:06.294Z",
+        "revision": 0,
+        "prompt_sha256": "b9452ffab889e3afaf981c4362a605bcf57be7c19c7f58943e71450cd914e47a",
+        "brief_sha256": "50d697990df560ec9a6a9c745c661bc13313a2eee1b8d686a7705e250aaed0e0",
+        "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91",
+        "error": null
+      },
+      {
+        "id": "crochet-preview-candy-corn-bag-charm",
+        "role": "pattern-preview",
+        "pattern_id": "candy-corn-bag-charm",
+        "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+        "status": "generated",
+        "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f",
+        "width": 1024,
+        "height": 1024,
+        "size": "1024x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T23:45:16.198Z",
+        "revision": 0,
+        "prompt_sha256": "45553cb7a84b2e1767535d81665ed62dc2468e1ccba572357a83c877ce774fa0",
+        "brief_sha256": "2b67fcff8d777d8436a01da94710ecdfdf6e39b1bda8da8726781835cbeecf10",
+        "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886",
+        "error": null
+      }
+    ],
+    "generation": {
+      "status": "complete",
+      "started_at": "2026-10-07T23:44:38.159Z",
+      "finished_at": "2026-10-07T23:45:16.605Z",
+      "error": null
+    },
+    "qc": {
+      "passed": true,
+      "at": "2026-10-07T23:45:16.605Z",
+      "problems": [],
+      "warnings": []
+    },
+    "manifest": {
+      "file": "visuals/crochet/visual-manifest.json",
+      "sha256": "29f1d27c3e4d4f22e9392d4a08f7376249ddf1d41e41b56c33aad15c803b22ce"
+    },
+    "pending_op": null,
+    "approval": {
+      "approved_at": "2026-10-07T23:45:30.516Z",
+      "by": "@romg_o",
+      "manifest_sha256": "29f1d27c3e4d4f22e9392d4a08f7376249ddf1d41e41b56c33aad15c803b22ce",
+      "assets_sha256": "769bdfd3afa604be842c3550cbe9f0f294d5c17392163952e6164cb0d217aa31",
+      "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+    },
+    "history": [
+      {
+        "at": "2026-10-07T23:45:30.516Z",
+        "by": "@romg_o",
+        "event": "approved"
+      }
+    ]
+  },
+  "restyles": [
+    {
+      "at": "2026-10-07T23:46:15.105Z",
+      "by": "@romg_o",
+      "reason": "The approved style proofs show an illustrated/painted crochet product; the authoritative crochet visual direction (ADR-043) requires realistic crochet with illustrated branding only.",
+      "archive": "creative/history/restyle-2026-10-07T23-46-15-105Z",
+      "previous": {
+        "creative_approved_at": "2026-10-07T22:30:05.888Z",
+        "direction_version": 1,
+        "approved_attempt": 1
+      },
+      "direction_version": 2,
+      "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "visual_specs": "creative/visual-specs.json",
+      "visual_match_status": "internally_checked"
+    }
+  ],
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "04e07960400ba5b670697cfd1e72d429aeb32d9369fe7cbe0202e83ad811996b"
+    },
+    "adapter": {
+      "format": "crochet-pattern-bundle",
+      "version": 2
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "0b1e23829c8c10185fa6015590c2141101da3c25becf5cd91f300da0562d9d16",
+      "built_at": "2026-10-07T23:48:15.436Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-10-07T23:48:15.444Z"
+    },
+    "approved_at": "2026-10-07T23:51:11.219Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "3c5ee7d365d5b38949e95ccc693d93fe59b94b97ee96d5ca92c132b00123cea0"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "6c3e94966e912f2409644ad30b6c92d2e1ff4cafa27c9732ea70997d53d7a935"
+    },
+    "images": {
+      "count": 8,
+      "dir": "marketing/images",
+      "digest": "218d7482e2118886fee382ba79fe36463d3ebe59aa01e80b32e50d06962e58c3"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-10-07T23:58:47.971Z"
+    },
+    "pending_scope": null,
+    "approved_at": "2026-10-08T00:00:37.086Z",
+    "comparison": {
+      "at": "2026-10-07T23:52:07.781Z",
+      "engines": {
+        "factory": {
+          "image": {
+            "file": "marketing/comparison/factory/01-hero.png",
+            "sha256": "7bbda7b66b4e90604731a85cefe0405fecd307057d5670844ce4eae04d3b6dcd"
+          },
+          "scene": {
+            "file": "marketing/engines/factory/scenes/01-hero.png",
+            "sha256": "676abf8d3f9e1c9cef06b606c2749c8c995a3453f51390be8d186a8dfb56a5f5",
+            "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nPremium overhead-angled photograph of a calm crafting table: a few skeins of soft yarn in blush pink, sage green, lavender and cream, a wooden crochet hook, small scissors and a linen cloth on pale oak, soft natural window light and gentle shadows, shallow depth of field. Keep the right-hand two thirds of the table clear, even and softly lit, reserved for products added later.\nCampaign mood: moody atmospheric Halloween.\nMood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals."
+          },
+          "route": {
+            "composition_family": "catalogue-flat-lay",
+            "camera_angle": "top-down",
+            "page_arrangement": "organised-catalogue",
+            "environment": "plain-neutral-surface",
+            "lighting": "even-soft-daylight",
+            "prop_strategy": "minimal",
+            "visual_story": "none",
+            "product_focus": "product-dominant",
+            "colour_strategy": "neutral-ground",
+            "transformation_demo": "none",
+            "route": "factory"
+          },
+          "brief": "Premium overhead-angled photograph of a calm crafting table: a few skeins of soft yarn in blush pink, sage green, lavender and cream, a wooden crochet hook, small scissors and a linen cloth on pale oak, soft natural window light and gentle shadows, shallow depth of field. Keep the right-hand two thirds of the table clear, even and softly lit, reserved for products added later."
+        },
+        "hybrid": {
+          "image": {
+            "file": "marketing/comparison/hybrid/01-hero.png",
+            "sha256": "4bb654df17879c52925eef58766f2fa55743439bd54a33801892299b57b88328"
+          },
+          "scene": {
+            "file": "marketing/engines/hybrid/scenes/01-hero.png",
+            "sha256": "7a258e441fbc645de1a53423f9691855dcb24aa872ff23f3b18f077ca7d45715",
+            "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Romantic, moonlit Halloween craft editorial with a calm, premium handmade feel; mysterious yet inviting..\nPalette: Warm ivory linen, soft oat, charcoal black, muted lavender, candy-corn orange and buttery yellow, with restrained antique-gold accents..\nLighting: warm window light from the left; Warm window light with gentle autumnal shadow, highlighting tactile crochet texture and softly layered table depth..\nRoute: hybrid (styled-lifestyle).\nCamera: An overhead three-quarter view of the surface with gentle natural depth.\nEnvironment: A styled home surface with a few halloween touches: warm natural materials, tidy and inviting, a real moment of use.\nLighting: Warm directional window or lamp light with soft shadows.\nProps: A few tasteful lifestyle props at the edges (at most four); the centre stays clear.\nScene: Warm ivory linen-covered crafting table with a charcoal yarn ball, a lavender yarn ball, a natural wooden crochet hook and a few antique-gold stitch markers softly out of focus on the left. Create layered editorial depth and a generous clean area on the right for the portrait product artwork; no clutter.\nComposition: keep the right-hand two thirds of the frame as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium lifestyle styling, no clutter.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product."
+          },
+          "direction": {
+            "id": "01-hero",
+            "archetype": "editorial-right",
+            "product_scale": 0.55,
+            "rotation": -1,
+            "perspective": 1,
+            "lighting": "warm window light from the left",
+            "decor": "bokeh",
+            "scene_brief": "Warm ivory linen-covered crafting table with a charcoal yarn ball, a lavender yarn ball, a natural wooden crochet hook and a few antique-gold stitch markers softly out of focus on the left. Create layered editorial depth and a generous clean area on the right for the portrait product artwork; no clutter.",
+            "source": "model"
+          },
+          "campaign": {
+            "mood": "Romantic, moonlit Halloween craft editorial with a calm, premium handmade feel; mysterious yet inviting.",
+            "palette": "Warm ivory linen, soft oat, charcoal black, muted lavender, candy-corn orange and buttery yellow, with restrained antique-gold accents.",
+            "lighting": "Warm window light with gentle autumnal shadow, highlighting tactile crochet texture and softly layered table depth."
+          },
+          "route": {
+            "composition_family": "styled-lifestyle",
+            "camera_angle": "three-quarter-overhead",
+            "page_arrangement": "product-in-styled-context",
+            "environment": "styled-home-surface",
+            "lighting": "warm-directional",
+            "prop_strategy": "tasteful-lifestyle",
+            "visual_story": "customer-use-moment",
+            "product_focus": "product-clear-in-context",
+            "colour_strategy": "campaign-palette",
+            "transformation_demo": "none",
+            "route": "hybrid"
+          },
+          "brief": "Warm ivory linen-covered crafting table with a charcoal yarn ball, a lavender yarn ball, a natural wooden crochet hook and a few antique-gold stitch markers softly out of focus on the left. Create layered editorial depth and a generous clean area on the right for the portrait product artwork; no clutter."
+        },
+        "ai-creative": {
+          "image": {
+            "file": "marketing/comparison/ai-creative/01-hero.png",
+            "sha256": "bb5ffc952cef9aeded3f4a3cce87c47a9a6b65449205945d41ec38cb09d84da0"
+          },
+          "scene": {
+            "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+            "sha256": "aa5ae7d48a7807af931ffab0a336e8e2f2c8e9e7d20b4a0b423cf71b50158bdf",
+            "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Romantic, moonlit Halloween craft atmosphere with calm, premium handmade warmth and subtle mystery..\nPalette: Warm oat linen, aged walnut, soft ivory, charcoal black, muted lavender, candle-gold and restrained autumn orange..\nLighting: golden evening light; Golden evening light with soft window-shadow depth, keeping the artwork luminous and tactile..\nRoute: ai-creative (editorial-cinematic).\nCamera: A low, near eye-level camera across the surface with strong foreground-to-background depth (a soft-focus foreground object, a sharp middle, a deep background).\nEnvironment: An editorial still-life set with a few halloween touches that tells the campaign story: a deep-toned backdrop (painted plaster wall or heavy fabric drape), one sculptural object, not a home desk.\nLighting: Dramatic low-key light: a single directional pool of light on the surface, long soft shadows, rich contrast.\nProps: One or two story objects, staged deliberately; no mug, no knitted throw, no string lights.\nScene: A rich walnut crafting table with a softly rumpled oat-linen runner, viewed at a gentle editorial angle. Keep the right side broad and clear for the product; place a few softly blurred yarn-toned textile accents and a small brass dish deep in the left background. Golden evening light creates long, quiet shadows and cinematic depth.\nComposition: keep the right-hand two thirds of the frame as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the left area calm and darker for text added later.\nPhotographic and realistic: editorial, cinematic campaign photography with rich contrast and deliberate staging, no clutter.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product."
+          },
+          "direction": {
+            "id": "01-hero",
+            "archetype": "editorial-right",
+            "product_scale": 0.7,
+            "rotation": -3,
+            "perspective": 4,
+            "lighting": "golden evening light",
+            "decor": "sprigs",
+            "scene_brief": "A rich walnut crafting table with a softly rumpled oat-linen runner, viewed at a gentle editorial angle. Keep the right side broad and clear for the product; place a few softly blurred yarn-toned textile accents and a small brass dish deep in the left background. Golden evening light creates long, quiet shadows and cinematic depth.",
+            "source": "model"
+          },
+          "campaign": {
+            "mood": "Romantic, moonlit Halloween craft atmosphere with calm, premium handmade warmth and subtle mystery.",
+            "palette": "Warm oat linen, aged walnut, soft ivory, charcoal black, muted lavender, candle-gold and restrained autumn orange.",
+            "lighting": "Golden evening light with soft window-shadow depth, keeping the artwork luminous and tactile."
+          },
+          "route": {
+            "composition_family": "editorial-cinematic",
+            "camera_angle": "low-eye-level-depth",
+            "page_arrangement": "product-reveal-with-depth",
+            "environment": "narrative-editorial-set",
+            "lighting": "dramatic-low-key",
+            "prop_strategy": "story-staging",
+            "visual_story": "campaign-narrative",
+            "product_focus": "hero-reveal-with-depth",
+            "colour_strategy": "bold-mood-contrast",
+            "transformation_demo": "none",
+            "route": "ai-creative"
+          },
+          "brief": "A rich walnut crafting table with a softly rumpled oat-linen runner, viewed at a gentle editorial angle. Keep the right side broad and clear for the product; place a few softly blurred yarn-toned textile accents and a small brass dish deep in the left background. Golden evening light creates long, quiet shadows and cinematic depth."
+        }
+      }
+    },
+    "engine": "factory",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-10-07T23:55:44.423Z",
+      "approved_hero": {
+        "source": "hero-comparison",
+        "engine": "factory",
+        "comparison_at": "2026-10-07T23:52:07.781Z",
+        "image": {
+          "file": "marketing/comparison/factory/01-hero.png",
+          "sha256": "7bbda7b66b4e90604731a85cefe0405fecd307057d5670844ce4eae04d3b6dcd"
+        },
+        "scene": {
+          "file": "marketing/engines/factory/scenes/01-hero.png",
+          "sha256": "676abf8d3f9e1c9cef06b606c2749c8c995a3453f51390be8d186a8dfb56a5f5"
+        },
+        "direction_sha256": null,
+        "route": {
+          "composition_family": "catalogue-flat-lay",
+          "camera_angle": "top-down",
+          "page_arrangement": "organised-catalogue",
+          "environment": "plain-neutral-surface",
+          "lighting": "even-soft-daylight",
+          "prop_strategy": "minimal",
+          "visual_story": "none",
+          "product_focus": "product-dominant",
+          "colour_strategy": "neutral-ground",
+          "transformation_demo": "none",
+          "route": "factory"
+        }
+      }
+    },
+    "asset_ops": [
+      {
+        "slide": "01-hero",
+        "op": "scene",
+        "at": "2026-10-07T23:58:46.922Z",
+        "by": "@romg_o"
+      }
+    ]
+  },
+  "etsy": {
+    "mode": "live",
+    "listing_id": 4590824542,
+    "shop_id": 46520279,
+    "payload_sha256": "7ae566498e9f8e25125bba2eae8144ca81e95aeb4862bd5adcf98bbc3f879683",
+    "verification": {
+      "passed": true,
+      "fingerprint": "08feaf8260d97d871979d24eba6edf6c63ef2fdcbb96f31c5762fb7a59621aae",
+      "at": "2026-10-08T00:01:23.239Z"
+    },
+    "publish_request": null,
+    "published_at": null,
+    "listing_url": null
+  }
+}

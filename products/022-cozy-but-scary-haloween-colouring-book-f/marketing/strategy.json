@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "product_family": "colouring_book",
+  "theme": {
+    "id": "halloween_cute",
+    "label": "Halloween"
+  },
+  "primary_customer_intent": "enjoy a relaxing Halloween colouring activity",
+  "emotional_angle": "charming, cosy-spooky Halloween fun",
+  "tone": [
+    "inviting",
+    "playful",
+    "cosy-spooky",
+    "creative"
+  ],
+  "positioning": "adult halloween colouring book for Halloween",
+  "opening_strategy": "the colouring experience and theme before files",
+  "description_structure": [
+    {
+      "section": "emotional hook",
+      "focus": null
+    },
+    {
+      "section": "product experience",
+      "focus": "the illustrations and what colouring them feels like"
+    },
+    {
+      "section": "options / designs",
+      "focus": "page themes"
+    },
+    {
+      "section": "what you receive",
+      "focus": null
+    },
+    {
+      "section": "how it works",
+      "focus": "download, print, colour"
+    },
+    {
+      "section": "emotional use case",
+      "focus": "quiet creative time, as supported"
+    },
+    {
+      "section": "digital product disclosure",
+      "focus": null
+    }
+  ],
+  "description_emphasis": [
+    "artwork, theme and page experience first",
+    "file information later"
+  ],
+  "preferred_vocabulary": [
+    "colour",
+    "relax",
+    "pages",
+    "illustrations",
+    "creative",
+    "spooky",
+    "cute",
+    "pumpkin",
+    "not-too-scary"
+  ],
+  "avoid_vocabulary": [
+    "elevate your",
+    "transform your",
+    "whether you're",
+    "designed to",
+    "crafted to",
+    "seamlessly",
+    "perfect for (more than once)",
+    "unleash",
+    "look no further",
+    "must-have",
+    "game-changer",
+    "buy now",
+    "limited time",
+    "don't miss out",
+    "only today"
+  ],
+  "cta_style": "soft playful",
+  "seo_focus": [
+    "printable adult halloween colouring book",
+    "halloween adult halloween colouring book",
+    "masqueraders adult halloween colouring book",
+    "instant digital download"
+  ],
+  "title_strategy": [
+    "primary search phrase",
+    "product type / subject",
+    "key differentiator",
+    "secondary search intent"
+  ],
+  "emoji_level": {
+    "level": "playful",
+    "min": 2,
+    "max": 6
+  },
+  "visual_marketing_mood": "playful cosy-spooky Halloween",
+  "target_length_words": [
+    250,
+    500
+  ],
+  "note": "Presentation guidance only. Production facts and the claim allow-list decide what may be said."
+}

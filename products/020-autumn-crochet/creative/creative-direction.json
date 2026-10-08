@@ -1,0 +1,37 @@
+{
+  "illustration_style": "Two-layer premium crochet pattern presentation: Moonlit Meadow branding with subtle watercolour botanical ornaments and elegant serif typography; every crocheted piece rendered as high-end, photorealistic yarn crochet product photography.",
+  "line_weight": "Branding ornaments and dividers only, never the crochet product: fine, delicate linework with no drawn outlines on the crochet.",
+  "line_quality": "Branding ornaments and dividers only: airy, lightly hand-painted botanical marks. Crochet definition comes from clearly resolved yarn loops, stitch relief and softly irregular handmade contours.",
+  "detail_level": "High detail in the crochet construction, with yarn fibres, loop structure and dimensional stitch definition legible at listing-thumbnail scale. Keep branding ornaments sparse, refined and secondary.",
+  "character_language": "not applicable",
+  "background_density": "Low to medium; clean tactile studio surfaces with restrained meadow-inspired botanical accents, kept secondary to the crochet work.",
+  "composition": "Clear hierarchy around a hero crochet coaster or coordinated small set, with ample peripheral breathing room for optional pattern-cover titling and uncluttered edges suitable for thumbnails.",
+  "palette": "Autumn floral earth tones of terracotta, ochre, mulberry, dusty rose, moss and sage, balanced with cream, warm ivory, oatmeal and soft stone neutrals; use soft lavender or blush as a restrained Moonlit Meadow accent.",
+  "colour_mode": "full colour",
+  "shading": "Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: gentle, flat watercolour shading with a quiet moonlit softness.",
+  "texture": "Product: clearly visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave. Branding: translucent paper-like watercolour texture.",
+  "mood": "Romantic, cosy and tactile; a polished adult craft-market feeling with refined autumnal floral warmth.",
+  "age_suitability": "Adults",
+  "print_considerations": "Use pale or lightly textured backgrounds, preserve fine stitch contrast at home-print scale, avoid large solid dark fields, and keep any cover text high-contrast and well clear of trimming or folding zones.",
+  "shared_prompt": "Premium Moonlit Meadow crochet pattern collection: elegant serif typography with sparse, fine botanical watercolour ornaments in cream, warm ivory, soft blush, lavender and sage. Every crochet piece is photorealistic high-end yarn product photography, showing believable yarn thickness, visible fibres, resolved loops, stitch relief, handmade irregularity and soft natural shadows on a neutral linen surface. Romantic, polished editorial styling with autumnal floral colour accents; no drawn outlines on the crochet.",
+  "avoid": [
+    "Any exact pumpkin forms, stitch construction, stems, colour assignments or diagonal flat-lay from the references",
+    "Any woven-basket flower arrangement, stitched badge, label text or source typography from the references",
+    "Any held dark-wrapped spooky bouquet, white bow, figure pose or leaf-framed brown backdrop from the references",
+    "Crochet products rendered as watercolour, flat vector art, digital painting, plastic, porcelain or biological flowers",
+    "Large ink-heavy black or charcoal background fields",
+    "Cluttered props that obscure stitch construction or coaster forms",
+    "Misspelled text, faux brand marks, logos or copied promotional wording",
+    "Stitch diagrams, charts or written instructions inside the artwork"
+  ],
+  "version": 3,
+  "scope": "shared-style",
+  "source": "feedback",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": "mor eautumn flower themed and coasters",
+  "created_at": "2026-10-06T20:05:56.190Z"
+}

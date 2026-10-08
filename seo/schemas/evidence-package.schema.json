@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Research evidence package (ADR-034): ONLY Marketplace Insights observations actually captured for the plan's research terms, copied exactly. Discovered-but-unresearched terms and unavailable queries are never evidence (unavailable is unknown, not zero). Input to the Opportunity Engine (ADR-032, unchanged).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "package_id",
+    "created_at",
+    "schema_version",
+    "kind",
+    "mode",
+    "product_id",
+    "idea_reference",
+    "research_plan_reference",
+    "research_round_references",
+    "research_version",
+    "captured_observations",
+    "unavailable_terms",
+    "unresearched_terms",
+    "owner_finished",
+    "excluded",
+    "clusters",
+    "readiness_status",
+    "readiness_reasons",
+    "warnings",
+    "performance_evidence"
+  ],
+  "properties": {
+    "package_id": {
+      "type": "string",
+      "pattern": "^evidence-[0-9a-f]{16}$"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "kind": {
+      "const": "research_evidence_package"
+    },
+    "mode": {
+      "enum": [
+        "NEW_PRODUCT",
+        "EXISTING_LISTING"
+      ]
+    },
+    "product_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "idea_reference": {
+      "type": "object"
+    },
+    "research_plan_reference": {
+      "type": "object",
+      "required": [
+        "research_plan_id"
+      ]
+    },
+    "research_round_references": {
+      "type": "array"
+    },
+    "research_version": {
+      "type": "object",
+      "required": [
+        "research_id",
+        "version",
+        "sha256"
+      ]
+    },
+    "captured_observations": {
+      "type": "array",
+      "items": {
+        "$ref": "observation.schema.json",
+        "description": "exact copy of a captured observation, without related_terms"
+      }
+    },
+    "unavailable_terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "origin",
+          "note"
+        ]
+      }
+    },
+    "excluded": {
+      "type": "object",
+      "required": [
+        "discovered_not_researched",
+        "observations_outside_plan"
+      ]
+    },
+    "clusters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "cluster_id",
+          "cluster_type",
+          "label",
+          "keywords",
+          "captured_count",
+          "unavailable_count",
+          "primary_candidate_terms",
+          "supporting_terms"
+        ],
+        "properties": {
+          "cluster_type": {
+            "enum": [
+              "core_product",
+              "theme",
+              "audience",
+              "style",
+              "delivery",
+              "long_tail"
+            ]
+          }
+        }
+      }
+    },
+    "readiness_status": {
+      "enum": [
+        "READY_TO_SCORE",
+        "READY_TO_SCORE_WITH_WARNINGS"
+      ]
+    },
+    "readiness_reasons": {
+      "type": "array"
+    },
+    "warnings": {
+      "type": "array"
+    },
+    "performance_evidence": {
+      "type": "null",
+      "description": "Seam for future LumiumX listing/ads performance evidence, kept separate from Marketplace Insights; unused in v1"
+    },
+    "unresearched_terms": {
+      "type": "array",
+      "description": "Requested but not researched because the owner finished with current evidence: unknown, not zero, not evidence",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "origin",
+          "state",
+          "note"
+        ],
+        "properties": {
+          "state": {
+            "const": "owner_stopped"
+          }
+        }
+      }
+    },
+    "owner_finished": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "FINISH_WITH_CURRENT_EVIDENCE record (action, decided_by, at, note, terms_not_researched), or null"
+    }
+  }
+}

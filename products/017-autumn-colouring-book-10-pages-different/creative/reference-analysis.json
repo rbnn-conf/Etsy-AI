@@ -1,0 +1,78 @@
+{
+  "reference_summaries": [
+    {
+      "reference_file": "references/reference-01.jpg",
+      "summary": "Square, richly packed illustrated cover showing a warm sunroom/lounge filled with oversized houseplants, pumpkins, furniture, hanging planters and leafy views through broad windows. It uses a bold dark outline, rounded stylised forms, autumn orange-brown-gold colouring and large white bubble display lettering at the top."
+    },
+    {
+      "reference_file": "references/reference-02.jpg",
+      "summary": "Portrait-format illustrated cover with a centered outdoor café/cottage vignette. A simply drawn seated person holding a drink is surrounded by pumpkins, fallen leaves, a fruit basket, tree, lanterns and a storefront; very large rounded orange headline lettering dominates the upper half. The treatment has strong black outlines, textured warm colouring and a friendly cozy-storybook feel."
+    },
+    {
+      "reference_file": "references/reference-03.jpg",
+      "summary": "Square illustrated Halloween cover framed as a wooden theatre/window opening. Small cute ghost-like and pumpkin-like characters gather around a cauldron, with candles, bats, stars and candy-themed details. It combines thick rounded outlines, compact chibi figures, dark navy negative space, warm orange glow effects and large white bubble lettering."
+    }
+  ],
+  "illustration_category": "Whimsical, cozy seasonal colouring-book cover illustration with cartoon storybook scene-building; the references are presented as fully coloured promotional covers rather than interior colouring pages.",
+  "line_weight": "Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.",
+  "line_smoothness": "Smooth, rounded, digitally clean contours with mildly hand-drawn irregularity in small texture and detail marks.",
+  "level_of_detail": "Medium to high cover-level detail. Each scene has many individually readable cozy props, plants, leaves and seasonal motifs, but large foreground shapes and clear outlines keep the imagery accessible.",
+  "shape_language": "Soft, bulbous and approachable forms: rounded pumpkins, plump leaves, curved furniture, chunky pots, scalloped awnings and simplified organic foliage. Architectural structures are also softened with rounded corners and gently uneven hand-drawn edges.",
+  "character_proportions": "When characters appear, they have simplified cartoon/chibi proportions: large rounded heads or body masses, short limbs, compact silhouettes and minimal anatomical complexity. The seated human figure is more natural than chibi but remains stylised with a relatively large head and simplified hands.",
+  "facial_simplicity": "Very simple, cute facial treatment: dot or small oval eyes, tiny curved mouths, sparse blush/freckle marks and little to no realistic facial modelling. The human face uses minimal dots and curved features rather than detailed anatomy.",
+  "composition_density": "High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.",
+  "whitespace": "Limited whitespace within the illustrated cover area. Breathing room is created through broad wall, sky or dark-night areas behind headline text and around focal figures, not through blank page space.",
+  "background_complexity": "Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.",
+  "typography": "Large, playful rounded display lettering is placed prominently at the top, usually in uppercase. Main titles use thick white or autumn-orange fills with heavy dark outlines; secondary subtitles use compact bold uppercase sans-serif lettering. Small page-count badges and logo-like marks appear as additional cover graphics.",
+  "orientation_layout": "A mix of square cover layouts (references 1 and 3) and a portrait cover layout (reference 2). Each is vertically structured: headline at top, a centered seasonal vignette in the middle, and foreground objects or a circular information badge near the bottom.",
+  "perspective": "Simple front-facing or shallow three-quarter storybook perspective. Objects are stacked in layered foreground/middle/background planes rather than built with strict realistic perspective; interiors and storefronts use mild converging lines for depth.",
+  "colour_behaviour": "Warm autumn hues dominate: pumpkin orange, rust, ochre, golden yellow, muted olive and earthy brown. Dark charcoal/navy is used sparingly for contrast, especially in the Halloween scene. Colours are contained by dark outlines and use several tonal variations within major objects.",
+  "palette_characteristics": "Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.",
+  "contrast": "Moderate to high contrast. Dark outlines clearly separate all objects; pale cream/white title fills and golden highlights stand out against warm or dark backgrounds. Focal items receive the clearest tonal separation.",
+  "shading_approach": "Soft cel-shading combined with subtle painterly texture. Shadows are usually placed as simple darker colour regions beneath overlaps and along edges; warm rim light, small speckles, and glow around candles or windows add atmosphere. Avoid complex realism.",
+  "texture": "Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.",
+  "emotional_tone": "Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example.",
+  "apparent_audience": "The simplified cute forms and bold, easy-to-read visual hierarchy suggest broad family-friendly appeal, likely including children and adults who enjoy relaxing cute/cozy seasonal colouring themes.",
+  "printable_suitability": "The bold outlines, large recognizable shapes and clear focal scenes translate well to home-printable colouring pages if simplified into black line art. For an autumn colouring book, retain generous open fill areas, avoid the cover references' dense micro-texture and heavy dark colour fills, and keep fine plant veins, wood grain and tiny decor to a controlled level so pages remain easy to colour and print clearly.",
+  "do_not_copy": [
+    {
+      "element": "The title text “AUTUMN HOME”, “BOLD & COZY COLORING BOOK”, “COZY AUTUMN DAYS”, “A BOLD & EASY COLORING BOOK”, “CUTE SPOOKIES”, and “COZY HALLOWEEN COLORING BOOK”.",
+      "reason": "All visible wording and its specific cover-copy arrangement must be replaced with original product text."
+    },
+    {
+      "element": "The visible “QUIRKY FINDS” mark and the “COLORED CARAMEL” mark/logo treatment.",
+      "reason": "These appear to be creator or brand identifiers and must not be reproduced."
+    },
+    {
+      "element": "The circular “40 COLORING PAGES” and “30 COZY PAGES” badges.",
+      "reason": "These are distinctive cover information graphics and contain reference-specific text and layout."
+    },
+    {
+      "element": "The exact autumn sunroom composition with orange armchairs, broad glass roof/windows, hanging planters, coffee table, and pumpkins arranged in the shown positions.",
+      "reason": "It is a distinctive scene composition from reference 1."
+    },
+    {
+      "element": "The exact cottage café scene with striped awning, seated scarfed drink-holder, pastry window, pumpkins, fruit basket and lantern arrangement.",
+      "reason": "It is a distinctive scene composition from reference 2."
+    },
+    {
+      "element": "The exact wooden stage/window Halloween composition with the grouped ghost-like figures, pumpkin cauldron figure, candy lollipop, candles and bat accessories.",
+      "reason": "It is a distinctive character grouping and signature composition from reference 3."
+    },
+    {
+      "element": "Any exact character designs, including the reference 2 seated person and the ghost, pumpkin, bear-like and cupcake-like Halloween characters in reference 3.",
+      "reason": "Their specific silhouettes, faces, clothing/accessories and combinations are proprietary visual expressions."
+    },
+    {
+      "element": "Exact lettering shapes, title hierarchy, decorative leaf placements, and cover layouts from the references.",
+      "reason": "The rounded bubble lettering and its placement are visually distinctive cover-design expressions; use newly designed typography and an original layout."
+    }
+  ],
+  "analysed_at": "2026-10-06T10:29:58.969Z",
+  "model": "gpt-5.6-terra",
+  "reference_files": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ]
+}

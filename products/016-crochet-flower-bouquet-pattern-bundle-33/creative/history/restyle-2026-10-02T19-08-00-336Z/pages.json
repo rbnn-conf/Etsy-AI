@@ -1,0 +1,32 @@
+[
+  {
+    "page_number": 1,
+    "page_type": "cover",
+    "title": "Moonlit Meadow",
+    "concept": "Premium illustrated cover for a 33-pattern US-terms crochet flower and bouquet bundle.",
+    "instructions": null,
+    "artwork_description": "A graceful upright meadow bouquet of layered wildflowers and foliage rises from the lower third of the page. A small crescent moon medallion crowns the bouquet above the title, with faint powder-blue and lavender blue-hour washes behind it. The title sits in a calm upper-middle area, followed by the short subtitle and a small US-terms note, framed by sparse botanical flourishes.",
+    "generation_prompt": "Cover artwork: upright illustrated meadow flower bouquet in the lower third, including rose, lavender, blush, sage and small powder-blue wildflower accents; small crescent moon medallion centred above bouquet; title text exactly “MOONLIT MEADOW”; subtitle exactly “Crochet Bouquet Pattern Bundle”; small line exactly “33 patterns • US terms”; delicate botanical dividers and faint twilight meadow wash, with spacious editorial title hierarchy.",
+    "production_notes": "Verify all cover text exactly: “MOONLIT MEADOW”, “Crochet Bouquet Pattern Bundle”, and “33 patterns • US terms”. Keep the moon medallion as the unmistakable visual hook. No crochet tools, yarn, stitch diagrams or finished crochet items in the illustration. Supply as the illustrated cover artwork component."
+  },
+  {
+    "page_number": 2,
+    "page_type": "contents",
+    "title": "Patterns & Bouquet Planning",
+    "concept": "An illustrated contents page that lists all 33 included pattern PDFs and offers a concise bouquet-planning reference.",
+    "instructions": "Choose your blooms, then plan your bouquet.",
+    "artwork_description": "A centred, highly legible two-column contents list is surrounded by light botanical corner sprays and a restrained crescent divider. A lower planning strip offers three small labelled bouquet recipes with tiny painted flower icons: Soft Dawn, Meadow Dusk and Moonlit Garden. Decorative flowers remain sparse so the complete list is easy to read.",
+    "generation_prompt": "Contents and bouquet-planning page; title text exactly “PATTERNS & BOUQUET PLANNING”; two clear numbered columns listing exactly: “1 Rose”, “2 Peony”, “3 Ranunculus”, “4 Tulip”, “5 Poppy”, “6 Anemone”, “7 Dahlia”, “8 Carnation”, “9 Hydrangea”, “10 Sunflower”, “11 Daisy”, “12 Gerbera”, “13 Lily”, “14 Iris”, “15 Sweet Pea”, “16 Lavender Sprig”, “17 Baby’s Breath”, “18 Eucalyptus Stem”, “19 Fern Frond”, “20 Ivy Vine”, “21 Olive Branch”, “22 Willow Stem”, “23 Berry Branch”, “24 Wildflower Stem”, “25 Mini Posy”, “26 Rose Posy”, “27 Lavender Posy”, “28 Wildflower Posy”, “29 Cottage Garden Bouquet”, “30 Blush Romance Bouquet”, “31 Meadow Dusk Bouquet”, “32 Moonlit Meadow Bouquet”, “33 Floral Wreath”; lower section title exactly “BOUQUET RECIPES”; three short recipe labels exactly “Soft Dawn”, “Meadow Dusk”, “Moonlit Garden”; sparse botanical corner sprays, delicate crescent divider, generous clear space for legibility.",
+    "production_notes": "This page must be typeset manually after image generation if required: image models must not be relied upon for the 33-item list. Check numbering is consecutive 1–33 and each name matches its corresponding PDF filename. Suggested recipes are decorative planning inspiration only: Soft Dawn = Rose, Peony, Baby’s Breath, Eucalyptus; Meadow Dusk = Poppy, Lavender Sprig, Fern Frond, Wildflower Stem; Moonlit Garden = Anemone, Dahlia, Ivy Vine, Berry Branch. Confirm recipe component patterns are included in the contents list. Supply as the botanical contents and bouquet-planning component."
+  },
+  {
+    "page_number": 3,
+    "page_type": "motif",
+    "title": "Flowers for Ever",
+    "concept": "A decorative divider and keepsake motif page for the bundle, suitable as a cover sheet, pinboard print or section separator.",
+    "instructions": null,
+    "artwork_description": "A tranquil full-page botanical arrangement forms a loose oval wreath around a central crescent moon medallion. The wreath combines meadow blooms, rosebuds, lavender stems, wispy foliage and a few tiny powder-blue blossoms, leaving a generous cream centre for the short sentiment. A very faint meadow horizon sits low on the page.",
+    "generation_prompt": "Decorative botanical motif page; loose oval wreath of meadow blooms, rosebuds, lavender stems, small daisies, wispy sage foliage and tiny powder-blue blossoms surrounding a central crescent moon medallion; central text exactly “FLOWERS FOR EVER”; subtle low meadow-horizon accent; spacious calm composition with no practical pattern instructions.",
+    "production_notes": "Verify the central sentiment exactly as “FLOWERS FOR EVER” in UK spelling. Maintain generous cream space and restrained coverage so this page can be printed as a decorative separator or display print. No crochet hooks, yarn balls, stitch diagrams or finished crochet pieces. Supply as the decorative floral motif page."
+  }
+]

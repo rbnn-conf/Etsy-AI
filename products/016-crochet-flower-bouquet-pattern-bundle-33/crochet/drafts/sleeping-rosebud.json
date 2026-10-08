@@ -1,0 +1,119 @@
+{
+  "pattern_id": "sleeping-rosebud",
+  "name": "Sleeping Rosebud",
+  "category": "flower accent",
+  "difficulty": "easy",
+  "finished_size": "About 4 cm tall",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn for rolled rose petals",
+      "colour": "Dusty rose",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Fine cotton yarn for sepals and stem",
+      "colour": "Sage green",
+      "amount": "About 2 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Small sharp scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "rep": "repeat",
+    "MR": "magic ring"
+  },
+  "gauge": "Gauge is not critical. Work firmly so the rolled petals hold a compact, closed-bud shape.",
+  "instructions": [
+    {
+      "heading": "Rolled Petal Strip",
+      "steps": [
+        {
+          "label": "Foundation",
+          "text": "With dusty rose yarn, ch 21.",
+          "stitch_count": 21
+        },
+        {
+          "label": "Row 1",
+          "text": "Sc in the second ch from hook and in each ch across; turn.",
+          "stitch_count": 20
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, which does not count as a st, and turn. Rep [sc, hdc, 2 dc, hdc] 4 times across. Fasten off, leaving a 15 cm sewing tail.",
+          "stitch_count": 20
+        }
+      ]
+    },
+    {
+      "heading": "Pointed Sepals",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage green yarn, work 5 sc in an MR. Pull the ring closed.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 4, sl st in the second ch from hook, sc in the next ch, hdc in the next ch, sl st in the next sc. Rep from ch 4 4 more times to make 5 pointed sepals. Fasten off, leaving a 12 cm sewing tail.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Short Stem",
+      "steps": [
+        {
+          "label": "Foundation",
+          "text": "With sage green yarn, ch 16.",
+          "stitch_count": 16
+        },
+        {
+          "label": "Row 1",
+          "text": "Sl st in the second ch from hook and in each remaining ch across. Fasten off, leaving a 12 cm sewing tail.",
+          "stitch_count": 15
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Roll the petal strip from one short end, keeping the scalloped edge at the top and the straight edge at the base. Roll tightly at first, then slightly looser for the outer petals.",
+    "Use the dusty rose tail to whip stitch through all layers along the straight lower edge, securing the roll without flattening the scalloped petals.",
+    "Place the base of the rolled bud over the closed MR of the sepals. Arrange the five sepal points to rise around the bud, then sew the bud securely to the sepal centre with the sage green tail.",
+    "Sew the upper end of the stem centrally to the underside of the sepals. Take several small stitches through the stem and sepal centre so the stem hangs straight."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off each piece securely after its final stitches, retaining the stated tails for joining.",
+    "Weave in all remaining yarn tails on the reverse side of the sepal base and inside the rolled bud.",
+    "Gently pinch and curve the sepal points upward around the rosebud.",
+    "Shape the scalloped petal edge lightly with fingertips, keeping the centre tightly closed. બંધ"
+  ],
+  "notes": [
+    "The petal strip is intentionally rolled tightly to create a sleeping, unopened rosebud.",
+    "For a longer accent stem, add chains to the stem foundation in multiples of one, then work one sl st in each chain back across."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

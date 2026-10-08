@@ -1,0 +1,117 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "production package unchanged",
+      "ok": true,
+      "detail": "Stage 2 records and deliverables re-verified"
+    },
+    {
+      "name": "listing meets Etsy constraints and claims",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image copy claims supported",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image count matches plan",
+      "ok": true,
+      "detail": "10 of 10"
+    },
+    {
+      "name": "image files present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank or corrupt images",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every image shows the real product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork traceable to Stage 2",
+      "ok": true,
+      "detail": "12 traced sources"
+    },
+    {
+      "name": "AI backgrounds never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coloured examples generated",
+      "ok": true,
+      "detail": "example-p2 ok"
+    },
+    {
+      "name": "coloured examples never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coloured examples labelled as examples",
+      "ok": true,
+      "detail": "every example slide states it is a coloured example"
+    },
+    {
+      "name": "product artwork not stretched",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork dominates each image",
+      "ok": true,
+      "detail": "01-hero 57%, 02-interior 56%, 03-collage 54%, 04-coloured 18%, 05-before-after 24%, 06-included 33%, 07-printable 20%, 08-features 43%, 09-lifestyle 58%, 10-bundle 48%"
+    },
+    {
+      "name": "headline legible at 300 px thumbnail",
+      "ok": true,
+      "detail": "every headline ≥ 87 px on the 2000 px canvas"
+    },
+    {
+      "name": "headline text rendered by code from the plan",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "300x300 thumbnails generated",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "visual QC and stamped claims",
+      "ok": true,
+      "detail": "63/63 checks; 33/33 stamped claims verified"
+    },
+    {
+      "name": "marketing engine recorded with the run",
+      "ok": true,
+      "detail": "ai-creative v1"
+    },
+    {
+      "name": "product region covered by real Stage 2 artwork",
+      "ok": true,
+      "detail": "every art-directed region holds the real artwork"
+    },
+    {
+      "name": "engine product visibility floor",
+      "ok": true,
+      "detail": "hero/design ≥ 45%, gift ≥ 35%, inside/print ≥ 30%"
+    }
+  ],
+  "warnings": [],
+  "at": "2026-10-06T11:08:38.989Z"
+}

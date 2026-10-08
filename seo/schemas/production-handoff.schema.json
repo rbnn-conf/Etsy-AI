@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SEO to Production handoff. Created only from an APPROVED SEO brief. Plain product facts and approved search intents: no scores or scoring internals. A document only; creating it runs nothing.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["handoff_schema_version", "kind", "product_id", "product_type", "approved_concept", "audience", "theme", "format", "page_count", "primary_search_intent", "secondary_search_intents", "approved_positioning", "owner_notes", "seo_research_reference", "seo_brief_reference"],
+  "properties": {
+    "handoff_schema_version": { "const": 1 },
+    "kind": { "const": "seo_production_handoff" },
+    "product_id": { "type": ["string", "null"] },
+    "product_type": { "type": "string" },
+    "approved_concept": { "type": "string" },
+    "audience": { "type": ["string", "null"] },
+    "theme": { "type": "array", "items": { "type": "string" }, "description": "The idea's themes" },
+    "format": { "type": ["string", "null"] },
+    "page_count": { "type": ["integer", "null"] },
+    "primary_search_intent": { "type": "string" },
+    "secondary_search_intents": { "type": "array", "items": { "type": "string" } },
+    "approved_positioning": { "type": "string" },
+    "owner_notes": { "type": ["string", "null"] },
+    "seo_research_reference": { "type": "object", "required": ["research_id", "version", "sha256"] },
+    "seo_brief_reference": { "type": "object", "required": ["sha256", "approved_by", "approved_at"] }
+  }
+}

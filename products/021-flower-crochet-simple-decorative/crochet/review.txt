@@ -1,0 +1,183 @@
+Lavender Bloom Wall Hoop Crochet Pattern Bundle
+5 patterns · US crochet terms · origin: ai-assisted-draft
+AI-assisted drafts for review. Unverified: not test-crocheted.
+Validation: passed
+
+============================================================
+01  Lavender Bloom Spray  (lavender-bloom-spray)
+flower spray · easy · About 18 cm long including stem
+Yarn: Cotton-blend yarn for the lavender bloom, Lavender purple, About 5 g | Cotton-blend yarn for the stem, Muted leaf green, About 5 g (2-fine)
+Hook: 2.5 mm (US B-1)
+Also needed: 18 cm length of 0.8 mm floral wire, Tapestry needle, Wire cutters, Scissors
+Gauge: Gauge is not critical because this is wired wall décor. A tighter gauge makes a firmer, slimmer spray.
+Abbreviations: ch = chain; sl st = slip stitch; sc = single crochet; hdc = half double crochet; dc = double crochet; Ldc = looped double crochet; st = stitch; sts = stitches; beg = beginning
+
+Stem Cover
+  Row 1: With green yarn, ch 36. Sc in the 2nd ch from hook, hdc in each remaining ch across. Leave a 30 cm sewing tail; cut yarn and draw the tail through the final loop. (35)
+
+Tapered Bloom
+  Row 1: With purple yarn, ch 17. Dc in the 4th ch from hook and in each remaining ch across. Turn. (14)
+  Row 2: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn. (14)
+  Row 3: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn. (14)
+  Row 4: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 12 sts. Leave the final st unworked. Turn. (13)
+  Row 5: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn. (13)
+  Row 6: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 11 sts. Leave the final st unworked. Turn. (12)
+  Row 7: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn. (12)
+  Row 8: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 10 sts. Leave the final st unworked. Turn. (11)
+  Row 9: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 9 sts. Leave the final st unworked. Turn. (10)
+  Row 10: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 8 sts. Leave the final st unworked. Turn. (9)
+  Row 11: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 7 sts. Leave the final st unworked. Turn. (8)
+  Row 12: Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 6 sts. Leave a 35 cm sewing tail; cut yarn and draw the tail through the final loop. (7)
+
+Assembly
+  1. Cut an 18 cm wire length. Use wire cutters to turn each wire end into a small closed loop, preventing sharp ends from piercing the crochet.
+  2. Fold the green stem cover lengthwise around the wire, with one wire loop at the lower end. Use the green tail to whipstitch the long edges together tightly, leaving the upper 4 cm of wire uncovered.
+  3. Roll the purple bloom so its row ends meet, keeping Row 1 as the wide lower edge. Whipstitch the row ends together from Row 1 to Row 12 to form a tapered tube.
+  4. Slide the bloom tube over the uncovered upper wire. Align its Row 1 edge with the top of the green stem cover, then sew this edge securely to the stem cover with the purple tail.
+  5. Use the remaining purple tail to draw the narrow Row 12 edge snugly around the upper wire loop. Stitch through the edge twice more to secure the bloom tip.
+
+Finishing
+  1. Fasten off all assembly yarn tails securely after the final securing stitches.
+  2. Weave the green and purple yarn tails into the reverse side of their matching crochet sections.
+  3. Gently bend the wire to give the spray a natural, slender curve without sharply creasing the stem.
+  4. Arrange the looped florets with your fingers so they sit evenly around the tapered bloom.
+
+Notes
+  - Ldc: dc in the indicated st, ch 3, then sl st into the top of the dc just made.
+  - Stitch counts for bloom rows count the structural dc stitches only; the chain loops are decorative and are not counted.
+  - To attach the spray to a wall hoop, stitch the covered stem to the hoop at two or three points using matching green yarn.
+
+Verification: unverified
+
+============================================================
+02  Five-Petal Wildflower  (five-petal-wildflower)
+flower · beginner · About 5 cm across
+Yarn: Fine cotton yarn, petal colour, Soft blush or cream, About 1 g | Fine cotton yarn, centre colour, Soft yellow, About 1 g (2-fine)
+Hook: 2.5 mm (US B-1)
+Also needed: Tapestry needle, Scissors
+Gauge: Gauge is not critical; use a firm tension so the small petals hold their rounded shape.
+Abbreviations: MR = magic ring; ch = chain; sl st = slip stitch; sc = single crochet; hdc = half double crochet; dc = double crochet; st = stitch; sts = stitches; rnd = round
+
+Flower
+  Rnd 1: With centre yarn, make an MR. Ch 1, work 5 sc into the MR. Pull the ring closed and join with a sl st in the first sc. Fasten off, leaving a 10 cm tail. (5)
+  Rnd 2: Join petal yarn with a sl st in any centre st. In that same st, work (sc, hdc, dc, hdc, sc). In each of the next 4 centre sts, work (sc, hdc, dc, hdc, sc). (25)
+
+Finishing
+  1. Fasten off the petal yarn, leaving a 12 cm tail if the flower will be sewn to a hoop or stem.
+  2. Weave the centre yarn end and any unused petal yarn end into the reverse side of the flower.
+  3. Gently spread the five petals with your fingers so they sit evenly around the centre.
+
+Notes
+  - To secure the flower to a botanical hoop arrangement, use the long petal-yarn tail to sew through the flower centre and around the chosen stem or hoop covering.
+
+Verification: unverified
+
+============================================================
+03  Meadow Bud Cluster  (meadow-bud-cluster)
+filler spray · easy · About 12 cm long including stem
+Yarn: Cotton or cotton-blend yarn for tiny buds, Cream or oat, About 8 g (2-fine)
+Hook: 2.5 mm (US B-1)
+Also needed: 26-gauge floral wire, Green floral tape, Small amount of polyester fibrefill, Tapestry needle, Wire cutters, Scissors
+Gauge: Gauge is not critical because the buds are small decorative elements. Use a firm tension so the stuffing does not show.
+Abbreviations: MR = magic ring; rnd = round; st = stitch; sc = single crochet; inc = 2 single crochet in one stitch; dec = single crochet decrease
+
+Buds
+  Rnd 1: Work 6 sc in MR. (6)
+  Rnd 2: Inc in each st around. (12)
+  Rnd 3: Sc in each st around. Lightly stuff the bud before the next rnd. (12)
+  Rnd 4: Dec 6 times. (6)
+  Rnd 5: Sc in each st around. Fasten off, leaving a 15-centimetre sewing tail. (6)
+  Make 7 buds in total.
+
+Assembly
+  1. Cut one 12-centimetre wire for the central stem and six 8-centimetre wires for side branches.
+  2. Place a wire tip against the underside of each bud. Use its sewing tail to make three tight passes through the six final-rnd stitches and around the wire, securing one bud to each wire.
+  3. Position the bud on the 12-centimetre wire at the top. On the six shorter wires, leave the bud at one end and use the unbudded end for joining.
+  4. Twist the unbudded end of two side branches around the central stem 2 centimetres above its lower end. Attach two more branches 3.5 centimetres above the lower end and the final pair 5 centimetres above it.
+  5. Arrange each pair on opposite sides of the central stem. Bend the branches gently upward so their buds form an airy, tapered cluster below the central bud.
+  6. Stretch-wrap floral tape from beneath each bud down its branch wire. Continue the tape over the branch joins and down the central stem, overlapping the tape slightly.
+
+Finishing
+  1. Fasten off each bud after Rnd 5, leaving the stated sewing tail for attaching it to its wire.
+  2. Weave the remaining yarn tails into the underside of their buds after the buds have been secured to the wires.
+  3. Bend the lower end of the central wire back by 5 millimetres and cover it with floral tape so no sharp wire is exposed.
+  4. Gently adjust the wired branches to create an open, balanced spray before attaching it to wall-hoop décor.
+
+Notes
+  - Keep the buds lightly stuffed; overstuffing makes the small rounds stretch and show the yarn stuffing.
+  - For a longer or fuller filler, make extra buds and add them as additional wired side branches.
+
+Verification: unverified
+
+============================================================
+04  Sage Leaf Sprig  (sage-leaf-sprig)
+foliage · beginner · About 16 cm long and 7 cm wide at the leaves
+Yarn: Cotton or cotton-blend yarn for stem and leaves, Muted sage green, About 10 g (2-fine)
+Hook: 2.5 mm (US B-1)
+Also needed: 18 cm length of 0.5 mm floral wire, Tapestry needle, Scissors
+Gauge: Gauge is not critical. Keep stitches firm so the leaves hold their pointed shape.
+Abbreviations: ch = chain; sl st = slip stitch; sc = single crochet; hdc = half double crochet; dc = double crochet; tr = treble crochet; st = stitch; cm = centimetre
+
+Stem
+  Foundation chain: Leaving a 20 cm starting tail, ch 61. (61)
+  Return row: Starting in the second ch from hook, sl st in each ch across. Leave a 20 cm ending tail, cut yarn and draw the tail through the working loop to fasten off. (60)
+
+Leaves (make 10)
+  Foundation chain: Leaving a 20 cm starting tail, ch 14. (14)
+  Side 1: Working in the back bumps of the foundation chain, starting in the second ch from hook: sl st in next ch, sc in next ch, hdc in next ch, dc in next ch, tr in each of next 5 ch, dc in next ch, hdc in next ch, sc in next ch, sl st in last ch. (13)
+  Side 2: Rotate the work and crochet along the opposite side of the foundation chain: sl st in next ch, sc in next ch, hdc in next ch, dc in next ch, tr in each of next 5 ch, dc in next ch, hdc in next ch, sc in next ch, sl st in last ch. (26)
+  Close leaf: Sl st into the first sl st to close the leaf. Leave a 20 cm ending tail, cut yarn and draw the tail through the working loop to fasten off. (27)
+
+Assembly
+  1. Cut a 1.5 m length of sage yarn. Bend 1 cm at each end of the floral wire to form blunt hooks.
+  2. Place the wire along the reverse of the stem, extending about 1 cm beyond each stem end. Spiral-wrap the cut yarn around both the wire and crocheted stem from end to end; secure each end with three sewn passes.
+  3. Arrange the 10 leaves into five pairs. Place the bases of the pairs at 2.5 cm, 5 cm, 7.5 cm, 10 cm and 12.5 cm from the lower end of the stem.
+  4. For each pair, place one leaf on each side of the stem with its point directed outward and upward. Angle the first, third and fifth pairs about 45 degrees from the stem, and the second and fourth pairs about 35 degrees from the stem.
+  5. Use each leaf's two tails to sew its base to the wrapped stem with three firm passes. Weave both tails through the wrapped stem on the reverse side before trimming.
+
+Finishing
+  1. Fasten off any remaining working loop by cutting the yarn and drawing the tail completely through the loop.
+  2. Weave all remaining stem-wrap yarn tails through the reverse of the stem and trim them close without cutting the crochet.
+  3. Gently bend the wired stem into a soft curve and spread the leaf pairs into a natural staggered arrangement.
+  4. Lightly steam-block the leaves if needed, avoiding direct contact between a hot iron and the yarn.
+
+Notes
+  - For a fuller sprig, make 12 leaves and add a sixth pair 15 cm from the lower stem end.
+  - Keep the leaf bases aligned along the stem so the pointed tips remain visible behind flowers.
+
+Verification: unverified
+
+============================================================
+05  Crochet Hoop Band  (crochet-hoop-band)
+hoop cover · intermediate · About 20 cm across, with a band about 2.8 cm wide
+Yarn: Cotton yarn for the textured hoop cover and lacing cord, Warm ivory, About 25 g (2-fine)
+Hook: 2.5 mm (US B-1/C-2)
+Also needed: 20 cm wooden embroidery hoop, Tapestry needle, Scissors, Measuring tape
+Gauge: 25 hdc and 28 hdc BLO rows = 10 cm. Match the row gauge so the band fits the hoop circumference.
+Abbreviations: ch = chain; sl st = slip stitch; hdc = half double crochet; st = stitch; sts = stitches; BLO = back loop only
+
+Textured Band
+  Row 1: Ch 9. Hdc in the third ch from hook and in each remaining ch across; turn. (7)
+  Rows 2-176: Ch 2, which does not count as a st; hdc BLO in each st across; turn. Repeat this row until 176 rows have been completed. Do not fasten off; retain the working yarn for sewing the seam. (7)
+
+Lacing Cord
+  Ch 450. Sl st in the second ch from hook and in each remaining ch across. Fasten off, leaving a 20 cm tail at the final end; retain the starting tail. (449)
+
+Assembly
+  1. With right sides facing, align the short ends of the band. Using the attached working yarn, whipstitch through both loops of each corresponding end st, making 7 seam stitches. Leave the working yarn attached until finishing.
+  2. Place the joined band around the outside edge of the fully tightened embroidery hoop, positioning the seam beside the hoop screw. Centre the band so its long edges extend evenly on both sides of the ring.
+  3. Fold both long edges towards the back of the hoop so they meet over the inner edge of the wooden ring.
+  4. Thread one end of the lacing cord onto the tapestry needle. Starting beside the seam, lace through matching row-end loops on both folded edges at every fourth row-end pair, beginning at Row 1 and ending at Row 173. Work through 44 pairs in total, alternating from one edge to the other, and pull the lacing snug without distorting the band.
+  5. Secure both ends of the lacing cord through nearby stitches on the back of the cover. Keep the lacing hidden on the wall-facing side of the hoop.
+
+Finishing
+  1. Fasten off the band yarn after sewing the seam by cutting the yarn, pulling the tail through the final loop, and tightening it.
+  2. Weave the band seam tail into the reverse side of the textured stitches without pulling the seam tight.
+  3. Weave both lacing-cord tails through the back of the cover, trimming them close to the fabric.
+  4. Shape the cover evenly around the hoop, ensuring that the seam sits beside the screw and the lacing remains on the back.
+
+Notes
+  - The turning chain does not count as a stitch throughout the band.
+  - The 176-row band is calculated for a 20 cm hoop at the stated row gauge.
+
+Verification: unverified

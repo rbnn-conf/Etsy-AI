@@ -1,0 +1,146 @@
+{
+  "product_id": "019",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-06T14:42:55.582Z",
+  "finished_at": "2026-10-06T14:45:35.427Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Detailed monochrome pen-and-ink colouring art with clean confident outlines, varied line weight, decorative crosshatching and generous colourable spaces. Elegant cosy-gothic styling, ornate domestic details and balanced page density; no grey shading, colour fills or digital rendering effects.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Halloween cozy colouring book for adults 7 pages\".\nConcept \"Hearthside Hexes: Adult Halloween Colouring Book\": a colouring book for Adults who enjoy cosy seasonal colouring and gothic home décor.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Wingback armchair\n- Scene: Candlelit fireside library\n- Focal object: Open spellbook\n- Composition: Armchair centred beneath mantel, layered shelves framing edges\n- Lighting: Firelit evening glow implied through linework\n- Palette emphasis: Black line art with optional warm autumn colouring cues\n- Mood: Restful, bookish and gently magical\n- Typography: Ornate serif title within a small mantel plaque\n- Distinguishing hook: Striped blanket, tea mug and sleeping cat beside spellbook\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Potting bench / Moonlit walled kitchen garden / Carved pumpkin lantern / Crisp full-moon night implied through linework\n- C: Tea table / After-dark Halloween tea room / Tiered cake stand / Lantern-lit twilight implied through linework\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T14:43:11.676Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Hearthside Hexes: Adult Halloween Colouring Book",
+        "tagline": "Cosy fireside Halloween colouring",
+        "product_type": "Adult Halloween colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy cosy seasonal colouring and gothic home décor",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "9 single-sided adult colouring pages",
+          "Printing note"
+        ],
+        "short_description": "A 10-page adult Halloween colouring book centred on a warmly cluttered fireside library, combining spellbook details, striped socks, steaming mugs and autumnal home comforts. Designed for relaxed at-home colouring on A4 or US Letter paper.",
+        "key_features": [
+          "10 distinct printable pages",
+          "Intricate but colourable black line art",
+          "Cosy gothic home-interior theme",
+          "Single-sided page layout for easier printing",
+          "A4 and US Letter friendly"
+        ],
+        "visual_direction_summary": "Detailed monochrome pen-and-ink colouring art with clean confident outlines, varied line weight, decorative crosshatching and generous colourable spaces. Elegant cosy-gothic styling, ornate domestic details and balanced page density; no grey shading, colour fills or digital rendering effects.",
+        "visual_route": {
+          "primary_subject": "Wingback armchair",
+          "scene": "Candlelit fireside library",
+          "focal_object": "Open spellbook",
+          "composition": "Armchair centred beneath mantel, layered shelves framing edges",
+          "lighting": "Firelit evening glow implied through linework",
+          "palette_emphasis": "Black line art with optional warm autumn colouring cues",
+          "emotional_tone": "Restful, bookish and gently magical",
+          "typography_approach": "Ornate serif title within a small mantel plaque",
+          "distinguishing_visual_hook": "Striped blanket, tea mug and sleeping cat beside spellbook"
+        },
+        "preview_brief": "A portrait cover-style colouring page shows a plush wingback chair before a detailed fireplace, surrounded by bookshelves, candles and a sleeping cat. The title sits in an ornamental plaque above the mantel, with spacious areas for adult colouring."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Detailed monochrome pen-and-ink colouring art with clean confident outlines, varied line weight, decorative crosshatching and generous colourable spaces. Elegant cosy-gothic styling, ornate domestic details and balanced page density; no grey shading, colour fills or digital rendering effects.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Halloween cozy colouring book for adults 7 pages\".\nConcept \"Moonlit Potting Shed: Adult Halloween Colouring Book\": a colouring book for Adults who enjoy gardening, autumn ambience and Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Potting bench\n- Scene: Moonlit walled kitchen garden\n- Focal object: Carved pumpkin lantern\n- Composition: Bench across lower half, arched shed window opening above\n- Lighting: Crisp full-moon night implied through linework\n- Palette emphasis: Black line art with optional pumpkin, leaf and herb colour cues\n- Mood: Fresh, peaceful and quietly enchanted\n- Typography: Hand-lettered title on a vintage seed-packet label\n- Distinguishing hook: Herb jars and garden tools arranged around glowing pumpkin lantern\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Wingback armchair / Candlelit fireside library / Open spellbook / Firelit evening glow implied through linework\n- C: Tea table / After-dark Halloween tea room / Tiered cake stand / Lantern-lit twilight implied through linework\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T14:45:21.605Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Moonlit Potting Shed: Adult Halloween Colouring Book",
+        "tagline": "Autumn garden magic to colour",
+        "product_type": "Adult Halloween colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy gardening, autumn ambience and Halloween colouring",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "9 single-sided adult colouring pages",
+          "Printing note"
+        ],
+        "short_description": "A 10-page adult Halloween colouring book set in a moonlit potting shed and enclosed autumn garden. The pages combine practical gardening textures with friendly seasonal magic, from herb bundles and seed packets to pumpkins and lanterns.",
+        "key_features": [
+          "10 distinct printable pages",
+          "Garden-inspired Halloween scenes",
+          "Detailed monochrome pen-and-ink line art",
+          "Single-sided page layout for easier printing",
+          "A4 and US Letter friendly"
+        ],
+        "visual_direction_summary": "Detailed monochrome pen-and-ink colouring art with clean confident outlines, varied line weight, decorative crosshatching and generous colourable spaces. Elegant cosy-gothic styling, ornate domestic details and balanced page density; no grey shading, colour fills or digital rendering effects.",
+        "visual_route": {
+          "primary_subject": "Potting bench",
+          "scene": "Moonlit walled kitchen garden",
+          "focal_object": "Carved pumpkin lantern",
+          "composition": "Bench across lower half, arched shed window opening above",
+          "lighting": "Crisp full-moon night implied through linework",
+          "palette_emphasis": "Black line art with optional pumpkin, leaf and herb colour cues",
+          "emotional_tone": "Fresh, peaceful and quietly enchanted",
+          "typography_approach": "Hand-lettered title on a vintage seed-packet label",
+          "distinguishing_visual_hook": "Herb jars and garden tools arranged around glowing pumpkin lantern"
+        },
+        "preview_brief": "A portrait colouring-book cover features a rustic potting bench beneath an arched window looking onto a walled garden under a full moon. A carved pumpkin lantern, herb bundles, seed packets and trailing vines create an intricate but calming focal scene."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Detailed monochrome pen-and-ink colouring art with clean confident outlines, varied line weight, decorative crosshatching and generous colourable spaces. Elegant cosy-gothic styling, ornate domestic details and balanced page density; no grey shading, colour fills or digital rendering effects.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Halloween cozy colouring book for adults 7 pages\".\nConcept \"The Lantern Tea Room: Adult Halloween Colouring Book\": a colouring book for Adults who enjoy cafés, seasonal treats and whimsical Halloween art.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Tea table\n- Scene: After-dark Halloween tea room\n- Focal object: Tiered cake stand\n- Composition: Table foreground, café counter and tall windows behind\n- Lighting: Lantern-lit twilight implied through linework\n- Palette emphasis: Black line art with optional plum, amber and cream colour cues\n- Mood: Sociable, whimsical and indulgent\n- Typography: Vintage café lettering within a scalloped signboard\n- Distinguishing hook: Pumpkin pastries and bat-shaped biscuits on patterned china\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Wingback armchair / Candlelit fireside library / Open spellbook / Firelit evening glow implied through linework\n- B: Potting bench / Moonlit walled kitchen garden / Carved pumpkin lantern / Crisp full-moon night implied through linework\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-10-06T14:45:35.422Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "The Lantern Tea Room: Adult Halloween Colouring Book",
+        "tagline": "Whimsical Halloween café colouring",
+        "product_type": "Adult Halloween colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy cafés, seasonal treats and whimsical Halloween art",
+        "page_count": 10,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "9 single-sided adult colouring pages",
+          "Printing note"
+        ],
+        "short_description": "A 10-page adult Halloween colouring book featuring a warmly eccentric after-dark tea room, filled with seasonal bakes, patterned china, lanterns and tiny decorative surprises. A distinctive café-based route for relaxed Halloween colouring.",
+        "key_features": [
+          "10 distinct printable pages",
+          "Cosy Halloween café setting",
+          "Detailed monochrome pen-and-ink line art",
+          "Landscape scenes with clear colourable areas",
+          "A4 and US Letter friendly"
+        ],
+        "visual_direction_summary": "Detailed monochrome pen-and-ink colouring art with clean confident outlines, varied line weight, decorative crosshatching and generous colourable spaces. Elegant cosy-gothic styling, ornate domestic details and balanced page density; no grey shading, colour fills or digital rendering effects.",
+        "visual_route": {
+          "primary_subject": "Tea table",
+          "scene": "After-dark Halloween tea room",
+          "focal_object": "Tiered cake stand",
+          "composition": "Table foreground, café counter and tall windows behind",
+          "lighting": "Lantern-lit twilight implied through linework",
+          "palette_emphasis": "Black line art with optional plum, amber and cream colour cues",
+          "emotional_tone": "Sociable, whimsical and indulgent",
+          "typography_approach": "Vintage café lettering within a scalloped signboard",
+          "distinguishing_visual_hook": "Pumpkin pastries and bat-shaped biscuits on patterned china"
+        },
+        "preview_brief": "A landscape cover-style page presents a lavish tea table with a tiered stand of pumpkin pastries and bat-shaped biscuits, framed by lanterns and a softly busy café interior. A scalloped vintage sign carries the title above the counter."
+      }
+    }
+  ]
+}

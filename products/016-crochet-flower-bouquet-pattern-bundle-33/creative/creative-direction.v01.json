@@ -1,0 +1,31 @@
+{
+  "illustration_style": "Hand-painted botanical gouache with an original romantic cottagecore editorial sensibility; refined, decorative botanical illustration rather than photography or scientific plate reproduction.",
+  "line_weight": "Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.",
+  "line_quality": "Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.",
+  "detail_level": "Moderately detailed layered botanical forms, with detail concentrated in petals, foliage, stems and small decorative flourishes; generous unpainted space preserves a calm premium finish.",
+  "character_language": "not applicable",
+  "background_density": "Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.",
+  "composition": "Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.",
+  "palette": "Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.",
+  "colour_mode": "full colour",
+  "shading": "Soft gouache layering, gentle tonal gradients and subtle cool-to-warm shadowing; no hard digital highlights, heavy contrast or glossy effects.",
+  "texture": "Visible but delicate cold-press paper grain, dry-brush edges and softly varied opaque gouache pigment, retained subtly for reliable home printing.",
+  "mood": "Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere.",
+  "age_suitability": "adults",
+  "print_considerations": "Portrait digital pages designed for home printing on A4 or US Letter; retain a light cream ground and restrained coverage to avoid excessive ink use, use high-contrast warm charcoal text, and keep fine decorative lines clear at typical home-printer resolution.",
+  "shared_prompt": "Original hand-painted botanical gouache for a premium romantic cottagecore crochet-pattern bundle, on softly textured warm cream paper. Use elegant layered floral and foliage forms, fine organic warm brown-charcoal ink outlines, restrained editorial detail, delicate dry-brush texture and gentle natural gouache shading. Palette: soft blush, muted rose, dusty sage, lavender and small powder-blue accents, with warm charcoal typography. Airy, refined, poetic and quietly moonlit; full-colour printable design with generous space and crisp legibility, never photographic.",
+  "avoid": [
+    "Photography, photorealism or realistic product mock-ups",
+    "Copied vintage botanical plates, identifiable layouts or derivative branded artwork",
+    "Crochet hooks, yarn balls, stitch diagrams or finished crochet objects within the decorative illustrations",
+    "Harsh neon colours, glossy digital gradients or heavy black shadows",
+    "Crowded page layouts, excessive ink coverage or unreadably fine details",
+    "Misspelled text, illegible decorative lettering or low-contrast typography"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-09-29T21:15:01.217Z"
+}

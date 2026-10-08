@@ -1,0 +1,6 @@
+output/
+qc/*
+listing/source-previews/
+listing/html/
+.build-*/
+.build.lock

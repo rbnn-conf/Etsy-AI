@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "product_id": "009",
+  "decided_by": "owner",
+  "decided_at": "2026-09-27",
+  "reason": "Option B: the approved 'Christmas Wishes' artwork (page 3) is a second card front, not the back of the first card. Both cards share the approved inside (page 2) and use a minimal deterministic back.",
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Merry Christmas",
+      "front_source": "proof-01",
+      "inside_source": "proof-02",
+      "back_type": "minimal"
+    },
+    {
+      "id": "B",
+      "name": "Christmas Wishes",
+      "front_source": "proof-03",
+      "inside_source": "proof-02",
+      "back_type": "minimal"
+    }
+  ]
+}

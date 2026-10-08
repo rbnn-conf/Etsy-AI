@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "product_id": "009",
+  "product_name": "Robin at the Frosted Gate",
+  "slug": "robin-at-the-frosted-gate",
+  "product_type": "Christmas greetings card",
+  "product_format": "greeting-card",
+  "page_count": 3,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "illustrated",
+    "edge": "full-bleed",
+    "format_notes": "Create coordinated portrait card panels with clear, high-contrast space for the front greeting and inside message, suitable for A4 or US Letter folding."
+  },
+  "approved": {
+    "creative_approved_at": "2026-09-27T16:15:38.787Z",
+    "concept": {
+      "batch": 2,
+      "concept_id": "A",
+      "proposed_name": "Robin at the Frosted Gate"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 2
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "31b3df99b3553e22f42914613ec4e8ccae1157cf52460f04082b37f010f002d4"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 2,
+      "sha256": "6846ee530e66861362f3cc6924f2a27092cc21b8d58c2a25edadb4984fe733a1"
+    },
+    "production_plan": {
+      "file": "production-plan.json",
+      "sha256": "acbb419350eb0728d538af210eaf6e24bbce1f56068565cad699c3c87ca61576",
+      "decided_by": "owner",
+      "reason": "Option B: the approved 'Christmas Wishes' artwork (page 3) is a second card front, not the back of the first card. Both cards share the approved inside (page 2) and use a minimal deterministic back."
+    }
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "proof-01",
+      "file": "proofs/attempt-01/proof-01.png",
+      "page_number": 1,
+      "proof_role": "main-style",
+      "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-02",
+      "file": "proofs/attempt-01/proof-02.png",
+      "page_number": 2,
+      "proof_role": "different-composition",
+      "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-03",
+      "file": "proofs/attempt-01/proof-03.png",
+      "page_number": 3,
+      "proof_role": "consistency-check",
+      "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "card-front",
+      "title": "Merry Christmas",
+      "asset": "proof-01",
+      "approved_text": [
+        "Merry Christmas"
+      ],
+      "production_notes": "Verify the exact front text is “Merry Christmas” and remains highly legible against the pale sky. Keep robin, gate and holly away from trim-critical edges despite full-bleed artwork. Ensure the robin is clearly a European robin: russet-red breast, brown upperparts and small pointed beak."
+    },
+    {
+      "page_number": 2,
+      "page_type": "card-inside",
+      "title": "Inside Seasonal Message",
+      "asset": "proof-02",
+      "approved_text": [
+        "Wishing you a joyful Christmas and a happy New Year"
+      ],
+      "production_notes": "Verify exact message text and punctuation: “Wishing you a joyful Christmas and a happy New Year”. Maintain ample blank space below the message for handwriting; keep the lower vignette shallow and pale. Use a readable dark pine or warm brown text colour with strong contrast."
+    },
+    {
+      "page_number": 3,
+      "page_type": "card-back",
+      "title": "Robin at the Frosted Gate",
+      "asset": "proof-03",
+      "approved_text": [],
+      "production_notes": "No printed text, logo or website on this panel. Keep the motif modest and positioned clear of likely fold, trim and printer alignment variation. Supply printing and folding guidance separately as a non-artwork deliverable; explain correct front/inside/back placement for A4 and US Letter printing."
+    }
+  ],
+  "adapter": {
+    "format": "greeting-card",
+    "version": 2
+  },
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Merry Christmas",
+      "source": "production-plan",
+      "front": {
+        "asset": "proof-01"
+      },
+      "inside": {
+        "asset": "proof-02"
+      },
+      "inside_left": null,
+      "back": {
+        "type": "minimal"
+      }
+    },
+    {
+      "id": "B",
+      "name": "Christmas Wishes",
+      "source": "production-plan",
+      "front": {
+        "asset": "proof-03"
+      },
+      "inside": {
+        "asset": "proof-02"
+      },
+      "inside_left": null,
+      "back": {
+        "type": "minimal"
+      }
+    }
+  ],
+  "review_notes": [
+    "Page 1 (front, proof-01): check the baked-in text reads exactly \"Merry Christmas\".",
+    "Page 2 (inside, proof-02): check the baked-in text reads exactly \"Wishing you a joyful Christmas and a happy New Year\".",
+    "Page 3 (proof-03) is specified as the back but is used as the front of B — Christmas Wishes (production plan).",
+    "Minimal back (A, B): a small LUMIUMX wordmark only."
+  ]
+}

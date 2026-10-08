@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "listing_id": 4590012651,
+  "properties": [],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-stop-scroll.png",
+      "sha256": "044104f4ec4bee9dbe7c15e424afbe5d418f78c43b05fee649569f43f61745f7",
+      "listing_image_id": 8635021668,
+      "uploaded_at": "2026-10-06T21:51:35.904Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-what-you-get.png",
+      "sha256": "b18cb5de90fcf95dc77cd741a7298e15aa9bf2cd76d6b0514fb924b1001c6e40",
+      "listing_image_id": 8682843949,
+      "uploaded_at": "2026-10-06T21:51:38.363Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-quality.png",
+      "sha256": "6388a216cf81e6f9f836afce43882ecbe3bfe7a0dac1f0ea8bcf05dcb7d7129c",
+      "listing_image_id": 8635022092,
+      "uploaded_at": "2026-10-06T21:51:41.090Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-variety.png",
+      "sha256": "59e6326ce4ce8e79dfaa0b86833f17985d87410416e11260dbfe1af60bc3dc10",
+      "listing_image_id": 8635022328,
+      "uploaded_at": "2026-10-06T21:51:43.933Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-useful.png",
+      "sha256": "c9dc968c4bb78469d73f7961770fe124a9a82ec50826d1747cbc15d6e87d88e9",
+      "listing_image_id": 8635022550,
+      "uploaded_at": "2026-10-06T21:51:46.217Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-how-it-works.png",
+      "sha256": "745d8d56d22c8820d0d429155f873299f0e65416a55331ec5c906d2b07508f27",
+      "listing_image_id": 8682844809,
+      "uploaded_at": "2026-10-06T21:51:49.092Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-desire.png",
+      "sha256": "0288d9f4bf1e53c3252ca384dd712aaf8064c6dc63ad46f4dc4f636f507d72e2",
+      "listing_image_id": 8682845003,
+      "uploaded_at": "2026-10-06T21:51:51.796Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-doubts.png",
+      "sha256": "1d6244eb04bcc7d16b9814bf349b8da688a31c6a38a031a69749c6f5a94e8287",
+      "listing_image_id": 8682845241,
+      "uploaded_at": "2026-10-06T21:51:54.306Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Falling-Leaves-Crochet-Table-Set-A4.zip",
+      "sha256": "674eccc7c1bcf9488383fa7c66095bc7f526cb47f4186cb45251054f92139908",
+      "bytes": 9939445,
+      "listing_file_id": 1522093025481,
+      "uploaded_at": "2026-10-06T21:51:58.522Z"
+    },
+    {
+      "rank": 2,
+      "name": "Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip",
+      "sha256": "4bff41a936e9e2db9936f0c229f3dd9de64fbb97ba01ab4746fbfb14550ce265",
+      "bytes": 3335233,
+      "listing_file_id": 1520845935056,
+      "uploaded_at": "2026-10-06T21:52:00.362Z"
+    },
+    {
+      "rank": 3,
+      "name": "Falling-Leaves-Crochet-Table-Set-US-Letter.zip",
+      "sha256": "84c116256d88bb69e7c3d77bbe509f6df6baaddf957c8a6fd7a313aa124ca5c4",
+      "bytes": 9912627,
+      "listing_file_id": 1520845948802,
+      "uploaded_at": "2026-10-06T21:52:04.441Z"
+    },
+    {
+      "rank": 4,
+      "name": "Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip",
+      "sha256": "0162413c03a7cef75185f1e90a3a346536cf8c736f00c03ebe3cf668d2a9d148",
+      "bytes": 3337413,
+      "listing_file_id": 1522093054047,
+      "uploaded_at": "2026-10-06T21:52:06.295Z"
+    }
+  ],
+  "pending": null
+}

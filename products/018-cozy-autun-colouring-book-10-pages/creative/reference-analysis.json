@@ -1,0 +1,70 @@
+{
+  "reference_summaries": [
+    {
+      "reference_file": "references/reference-01.jpg",
+      "summary": "Square, full-colour illustrated book-cover design showing a whimsical nighttime autumn campsite. A central friendly ghost and campfire are framed by a log cabin, pumpkins, trees, woodland animals, moon, and scattered leaves. The scene uses very heavy dark outlines, rounded cute forms, and a dense but clearly layered storybook composition, with large bubbly title lettering across the upper third."
+    },
+    {
+      "reference_file": "references/reference-02.jpg",
+      "summary": "Portrait, full-colour illustrated book-cover design set outside a cosy café in autumn. A seated person holding a steaming mug is surrounded by a bakery window, pumpkins, lanterns, apples, fallen leaves, shrubs, and an orange-leaved tree. Large rounded stacked headline text fills the top, while a circular page-count badge overlaps the lower-right foreground. The visual treatment is warm, detailed, and hand-drawn in appearance."
+    },
+    {
+      "reference_file": "references/reference-03.jpg",
+      "summary": "Square, full-colour illustrated book-cover design of an autumn patio/garden scene. Two empty Adirondack-style chairs face a central brick outdoor fireplace beneath a vine-covered pergola with string lights; planters, barrels, produce beds, and foliage fill the perimeter. Large inflated white title lettering is placed along the top, with a compact subtitle and page-count callout on the left. The scene has strong dark outlines, warm firelight, and balanced, symmetrical focal structure."
+    }
+  ],
+  "illustration_category": "Cute cosy seasonal storybook/cartoon illustration for colouring-book cover presentation, rendered here as finished full-colour art rather than interior colouring pages.",
+  "line_weight": "Bold, near-black to dark-brown contour outlines, approximately 3–6 px at this display size. Outer silhouettes are heaviest; interior construction lines, seams, leaf veins, brick divisions, and wood grain are moderately thinner but remain clear. No delicate hatching.",
+  "line_smoothness": "Smooth, rounded, slightly hand-drawn digital contours with a subtly imperfect inked feel; corners are softened rather than geometrically sharp.",
+  "level_of_detail": "Medium-high. Main objects are simple and immediately legible, while secondary details such as brickwork, wood planks, knit texture, foliage clusters, window panes, produce, and small décor enrich the scene. Details are grouped into sizeable, colourable sections rather than micro-detail.",
+  "shape_language": "Soft, chunky, rounded, and playful. Pumpkins, lettering, animals, faces, foliage clumps, and smoke/flame shapes use bulbous organic curves; buildings and furniture retain simplified sturdy geometry with rounded corners and bold edging.",
+  "character_proportions": "Cute stylised proportions: oversized heads and facial features relative to compact bodies in the animal/ghost characters; the human figure has a simplified adult-like body with a relatively large head, short facial features, and broad, readable clothing shapes.",
+  "facial_simplicity": "Very simple friendly cartoon faces: dot or oval eyes, tiny curved mouths, minimal nose treatment, and a few small blush/freckle-like marks. Expressions are calm, sweet, and non-threatening.",
+  "composition_density": "High but organised density. A large central focal subject anchors each cover, medium-sized supporting objects build a cosy environment, and small seasonal accents occupy gaps and borders. Foreground elements overlap the scene to create fullness without losing major silhouettes.",
+  "whitespace": "Limited; open areas are mainly reserved for oversized title/subtitle blocks, sky or wall space behind them, and small pockets around focal objects. Interiors of individual illustrated objects have reasonably open colour regions.",
+  "background_complexity": "Fully illustrated scenic backgrounds, from dark moonlit woodland to café frontage and a garden patio. Backgrounds are layered with trees, shrubs, structures, props, and decorative seasonal elements; there is no plain or flat empty backdrop.",
+  "typography": "Large all-caps, highly rounded display lettering dominates the top area. It uses thick dark outlines and high-contrast light or warm fills, with tightly stacked words. Smaller all-caps sans-serif subtitle lettering sits beneath, and page-count labels use bold badge text or playful outlined script. Exact visible wording, lettering forms, byline, and count treatments should not be reused.",
+  "orientation_layout": "Two square cover layouts and one portrait cover layout. Each has a top title zone, a central illustrated focal scene, and foreground objects along the lower edge. The portrait composition stacks headline, subtitle, character/café scene, and a lower-right circular callout; the square designs use broad top title bands and centered scenic tableaux.",
+  "perspective": "Simplified eye-level to slightly elevated storybook perspective. Scenes use shallow depth, clear object overlap, and mild receding planes rather than strict architectural realism. Key focal objects are presented largely front-on.",
+  "colour_behaviour": "Warm autumn earth tones are balanced with deep teal/blue-green shadows and backgrounds. Orange pumpkins, amber firelight, rust leaves, brown wood, olive foliage, cream highlights, and muted blue/teal accents recur. Colour blocks are enclosed by strong dark lines.",
+  "palette_characteristics": "Rich, cosy, slightly muted seasonal palette: pumpkin orange, burnt sienna, golden yellow, ochre, warm cream, walnut brown, moss/olive green, forest green, teal, slate blue, charcoal, and small luminous yellow highlights. The night design adds cool navy and blue-green contrast.",
+  "contrast": "High outline-to-fill contrast and strong warm-versus-cool contrast. Bright cream title letters, moonlight, windows, and flame/lightbulbs stand out against darker foliage, wood, and night-sky areas; daytime scenes retain distinct dark contours around mid-value fills.",
+  "shading_approach": "Simple cel-style shading with soft textured tonal variation. Shadows sit along object edges and under overlaps, while warm glows radiate softly from fires, lamps, and windows. Forms are not rendered photorealistically.",
+  "texture": "Subtle paper/grain or speckled overlay across fills, plus lightly irregular colour variation. Select objects include explicit decorative texture lines such as wood grain, brick joints, fabric ribs, roof scales, and leaf veins.",
+  "emotional_tone": "Comforting, warm, whimsical, peaceful, and gently festive; the spooky elements are cute rather than frightening.",
+  "apparent_audience": "Broad family-friendly/cute-illustration audience; the bold forms and simple expressions are particularly accessible to children, while the cosy seasonal settings also appeal to adults.",
+  "printable_suitability": "The visual language adapts well to a 10-page home-printable colouring book when translated into black outlines with generous enclosed spaces, bold focal silhouettes, and reduced incidental texture. The finished reference covers themselves are ink-heavy due to full-bleed colour, dark backgrounds, and dense fills; for interiors, avoid solid black/night fills and retain only selective medium-detail features so pages remain easy to colour and print clearly.",
+  "do_not_copy": [
+    {
+      "element": "The exact title phrases, subtitles, page-count wording/numbers, byline/signature, and all visible lettering treatments",
+      "reason": "These are specific textual and typographic assets from the reference covers."
+    },
+    {
+      "element": "The exact cover compositions: ghost roasting marshmallows with woodland animals by a cabin; café patron holding a mug outside a bakery; paired chairs facing a brick fireplace under a pergola",
+      "reason": "These are distinctive illustrated narrative arrangements and scene designs."
+    },
+    {
+      "element": "The visible creator name/signature “Sachi Hiro”",
+      "reason": "This is an identifiable artist attribution/brand asset."
+    },
+    {
+      "element": "Specific character designs including the translucent smiling ghost, scarf-wrapped jack-o’-lantern figure, bat, raccoon, hedgehog, and the illustrated café patron",
+      "reason": "Their particular appearances and roles within the reference scenes are identifiable proprietary visual elements."
+    },
+    {
+      "element": "The distinctive inflated white title lettering, circular lower-right count badge, and individual placement of text/callouts",
+      "reason": "These are signature cover-design elements that should inform only general hierarchy, not be replicated."
+    },
+    {
+      "element": "Exact background assets such as the particular log cabin, striped café awning and shop window, brick fireplace, pergola with grape vines/string lights, and surrounding prop arrangements",
+      "reason": "These are specific illustrated assets and compositions rather than reusable general autumn motifs."
+    }
+  ],
+  "analysed_at": "2026-10-06T14:19:13.484Z",
+  "model": "gpt-5.6-terra",
+  "reference_files": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ]
+}

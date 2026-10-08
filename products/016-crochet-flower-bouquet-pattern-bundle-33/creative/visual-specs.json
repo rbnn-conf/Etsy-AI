@@ -1,0 +1,2948 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-02T19:08:00.336Z",
+  "patterns_sha256": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69",
+  "visual_match_status": "internally_checked",
+  "note": "Derived from the written patterns and checked against them. Not physically verified: nobody has crocheted these pieces for this record.",
+  "combination": "Blush Garden Posy",
+  "fingerprints": {
+    "garden-rose": {
+      "version": 1,
+      "pattern_id": "garden-rose",
+      "pattern_name": "Garden Rose",
+      "motif_type": "flower",
+      "flower_type": "rose",
+      "petal_layer_count": 2,
+      "petal_count": 2,
+      "petal_counts_stated": [
+        2
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 8 cm across",
+        "width_cm": 8,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Smooth or -blend yarn for the rose bloom",
+          "colour": "Dusty blush pink"
+        }
+      ],
+      "pieces": [
+        "Centre",
+        "Inner Petal Ring",
+        "Medium Petal Ring",
+        "Outer Petal Ring"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "rolled or coiled"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "assembly[1]",
+        "petal_layer_count": "instruction headings",
+        "centre_present": "instructions[0].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "moon-peony": {
+      "version": 1,
+      "pattern_id": "moon-peony",
+      "pattern_name": "Moon Peony",
+      "motif_type": "flower",
+      "flower_type": "peony",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [
+        6,
+        9,
+        10,
+        12
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 11 cm across; finished wired stem is about 28 cm long.",
+        "width_cm": 11,
+        "height_cm": 28
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised for layered petals",
+          "colour": "Moonlit ivory"
+        },
+        {
+          "role": "Mercerised for padded centre",
+          "colour": "Pale butter yellow"
+        },
+        {
+          "role": "Mercerised for calyx and stem wrap",
+          "colour": "Soft sage green"
+        }
+      ],
+      "pieces": [
+        "Padded Centre Discs (make 2)",
+        "Small Petal Ring (make 1)",
+        "Medium Petal Ring (make 1)",
+        "Large Petal Ring (make 1)",
+        "Outer Petal Ring (make 1)",
+        "Calyx (make 1)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 8
+      },
+      "embellishments": [
+        "wire",
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "instructions[4].steps[4].text",
+        "centre_present": "instructions[0].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "stem_length"
+      ]
+    },
+    "heirloom-dahlia": {
+      "version": 1,
+      "pattern_id": "heirloom-dahlia",
+      "pattern_name": "Heirloom Dahlia",
+      "motif_type": "flower",
+      "flower_type": "dahlia",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [
+        8,
+        16,
+        24,
+        32,
+        40
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 3,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 10 cm across with a stem about 20 cm long.",
+        "width_cm": 10,
+        "height_cm": 20
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised for the layered dahlia petals",
+          "colour": "Deep plum, mauve, or moonlit pink"
+        },
+        {
+          "role": "Mercerised for calyx and stem",
+          "colour": "Leaf green"
+        }
+      ],
+      "pieces": [
+        "Dahlia Bloom",
+        "Calyx",
+        "Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "back loop only",
+        "front loop only"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "instructions[0].steps[9].text",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem_length": "assembly[0]",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "meadow-ranunculus": {
+      "version": 1,
+      "pattern_id": "meadow-ranunculus",
+      "pattern_name": "Meadow Ranunculus",
+      "motif_type": "flower",
+      "flower_type": "ranunculus",
+      "petal_layer_count": 3,
+      "petal_count": null,
+      "petal_counts_stated": [
+        5,
+        1
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": "golden yellow",
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 6 centimetres across, with an optional 20-centimetre wired stem.",
+        "width_cm": null,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine for layered petals",
+          "colour": "Pale blush pink"
+        },
+        {
+          "role": "Fine for rounded centre",
+          "colour": "Warm golden yellow"
+        }
+      ],
+      "pieces": [
+        "Rounded Centre",
+        "Inner Petal Strip",
+        "Middle Petal Strip",
+        "Outer Petal Strip"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 5
+      },
+      "embellishments": [
+        "wire",
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "assembly[3]",
+        "petal_layer_count": "instruction headings",
+        "centre_present": "instructions[0].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_shape",
+        "centre_type",
+        "finished_width"
+      ]
+    },
+    "starlit-anemone": {
+      "version": 1,
+      "pattern_id": "starlit-anemone",
+      "pattern_name": "Starlit Anemone",
+      "motif_type": "flower",
+      "flower_type": "anemone",
+      "petal_layer_count": null,
+      "petal_count": 1,
+      "petal_counts_stated": [
+        1
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": "centre",
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 7 cm across",
+        "width_cm": 7,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine or -blend yarn for petals",
+          "colour": "Dusky periwinkle"
+        },
+        {
+          "role": "Fine or -blend yarn for centre",
+          "colour": "Midnight charcoal"
+        }
+      ],
+      "pieces": [
+        "Textured Centre",
+        "Petals (make 6)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 3
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "worked in rows"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "assembly[1]",
+        "centre_present": "instructions[0].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "cottage-poppy": {
+      "version": 1,
+      "pattern_id": "cottage-poppy",
+      "pattern_name": "Cottage Poppy",
+      "motif_type": "flower",
+      "flower_type": "poppy",
+      "petal_layer_count": null,
+      "petal_count": 4,
+      "petal_counts_stated": [
+        4
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": "sage",
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 9 cm across, with an about 18 cm wired stem.",
+        "width_cm": 9,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised softly ruffled petal colour",
+          "colour": "Dusky coral red"
+        },
+        {
+          "role": "Mercerised centre, calyx and stem colour",
+          "colour": "Sage green"
+        },
+        {
+          "role": "embroidery floss for seed-head spokes",
+          "colour": "Charcoal"
+        }
+      ],
+      "pieces": [
+        "Petal (make 4)",
+        "Seed-Head Centre (make 1)",
+        "Calyx (make 1)",
+        "Stem Cover (make 1)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 6
+      },
+      "embellishments": [
+        "wire",
+        "embroidery",
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "worked in rows",
+        "back loop only"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "assembly[1]",
+        "centre_present": "instructions[1].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "stem_length"
+      ]
+    },
+    "twilight-lily": {
+      "version": 1,
+      "pattern_id": "twilight-lily",
+      "pattern_name": "Twilight Lily",
+      "motif_type": "flower",
+      "flower_type": "lily",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [
+        13,
+        6
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": "gold",
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 24,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 12 cm long flower head, with a stem about 20 cm long.",
+        "width_cm": null,
+        "height_cm": 12
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine or -blend yarn for petals",
+          "colour": "Pale moonlit lilac"
+        },
+        {
+          "role": "Fine or -blend yarn for calyx and stem",
+          "colour": "Deep leaf green"
+        },
+        {
+          "role": "Fine or -blend yarn for stamens",
+          "colour": "Soft gold"
+        },
+        {
+          "role": "Fine for petal throat markings",
+          "colour": "Deep violet"
+        }
+      ],
+      "pieces": [
+        "Petals — make 6",
+        "Stamens — make 6",
+        "Calyx — make 1",
+        "Floral Stem — make 1"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 5
+      },
+      "embellishments": [
+        "wire",
+        "stamens",
+        "embroidery"
+      ],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "assembly[1]",
+        "centre_present": "instructions[1].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem_length": "instructions[3].steps[2].text",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "finished_width"
+      ]
+    },
+    "wild-sunflower": {
+      "version": 1,
+      "pattern_id": "wild-sunflower",
+      "pattern_name": "Wild Sunflower",
+      "motif_type": "flower",
+      "flower_type": "sunflower",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": true,
+        "count": null,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 10 cm across",
+        "width_cm": 10,
+        "height_cm": null
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "raised flower centre",
+          "colour": "Chocolate brown"
+        },
+        {
+          "role": "petals",
+          "colour": "Golden yellow"
+        },
+        {
+          "role": "calyx",
+          "colour": "Leaf green"
+        }
+      ],
+      "pieces": [
+        "Flower Front",
+        "Calyx"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 2
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "back loop only",
+        "front loop only"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "leaf_count",
+        "leaf_shape"
+      ]
+    },
+    "blush-tulip": {
+      "version": 1,
+      "pattern_id": "blush-tulip",
+      "pattern_name": "Blush Tulip",
+      "motif_type": "flower",
+      "flower_type": "tulip",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": true,
+        "count": null,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 6 centimetres tall; about 20 centimetres tall with stem",
+        "width_cm": null,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine for tulip cup and inner form",
+          "colour": "Blush pink"
+        },
+        {
+          "role": "Fine for calyx",
+          "colour": "Leaf green"
+        }
+      ],
+      "pieces": [
+        "Tulip Cup",
+        "Inner Form",
+        "Calyx",
+        "Wire Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [
+        "wire",
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "leaf_count",
+        "leaf_shape",
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "meadow-daisy": {
+      "version": 1,
+      "pattern_id": "meadow-daisy",
+      "pattern_name": "Meadow Daisy",
+      "motif_type": "flower",
+      "flower_type": "daisy",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 5 cm across",
+        "width_cm": 5,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for the sunny centre",
+          "colour": "yellow"
+        },
+        {
+          "role": "for the petals",
+          "colour": "white"
+        }
+      ],
+      "pieces": [
+        "Daisy"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "velvet-carnation": {
+      "version": 1,
+      "pattern_id": "velvet-carnation",
+      "pattern_name": "Velvet Carnation",
+      "motif_type": "flower",
+      "flower_type": "carnation",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": "ruffled",
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 7 centimetres across",
+        "width_cm": null,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine bloom and centre colour",
+          "colour": "Dusty rose"
+        },
+        {
+          "role": "Fine calyx colour",
+          "colour": "Sage green"
+        }
+      ],
+      "pieces": [
+        "Ruffled Petal Strip",
+        "Centre",
+        "Calyx"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 3
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "worked in rows",
+        "rolled or coiled"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_shape": "instructions[0].heading",
+        "centre_present": "instructions[1].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "centre_type",
+        "finished_width"
+      ]
+    },
+    "hydrangea-cluster": {
+      "version": 1,
+      "pattern_id": "hydrangea-cluster",
+      "pattern_name": "Hydrangea Cluster",
+      "motif_type": "flower",
+      "flower_type": "hydrangea",
+      "petal_layer_count": null,
+      "petal_count": 4,
+      "petal_counts_stated": [
+        4
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": true,
+        "count": null,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 9 cm across",
+        "width_cm": 9,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised rounded cluster base",
+          "colour": "Leaf green"
+        },
+        {
+          "role": "Mercerised floret colour A",
+          "colour": "Pale lilac"
+        },
+        {
+          "role": "Mercerised floret colour B",
+          "colour": "Moon blue"
+        },
+        {
+          "role": "Mercerised floret colour C",
+          "colour": "Mist blue"
+        }
+      ],
+      "pieces": [
+        "Rounded Cluster Base",
+        "Four-Petalled Florets"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 5
+      },
+      "embellishments": [
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "finishing[2]",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "leaf_count",
+        "leaf_shape"
+      ]
+    },
+    "moon-cosmos": {
+      "version": 1,
+      "pattern_id": "moon-cosmos",
+      "pattern_name": "Moon Cosmos",
+      "motif_type": "flower",
+      "flower_type": "cosmos",
+      "petal_layer_count": null,
+      "petal_count": 8,
+      "petal_counts_stated": [
+        8
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 7 cm across",
+        "width_cm": 7,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "petal colour",
+          "colour": "Moonlit ivory"
+        },
+        {
+          "role": "textured centre",
+          "colour": "Soft golden yellow"
+        }
+      ],
+      "pieces": [
+        "Moon Cosmos Flower"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "finishing[2]",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "winter-camellia": {
+      "version": 1,
+      "pattern_id": "winter-camellia",
+      "pattern_name": "Winter Camellia",
+      "motif_type": "flower",
+      "flower_type": "camellia",
+      "petal_layer_count": 3,
+      "petal_count": null,
+      "petal_counts_stated": [
+        2,
+        3
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": "butter yellow",
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 8 cm across.",
+        "width_cm": 8,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for layered petals",
+          "colour": "Dusty rose"
+        },
+        {
+          "role": "for the compact centre",
+          "colour": "Soft butter yellow"
+        }
+      ],
+      "pieces": [
+        "Centre",
+        "Inner Petal Layer",
+        "Middle Petal Layer",
+        "Outer Petal Layer"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 3
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "finishing[1]",
+        "petal_layer_count": "finishing[1]",
+        "centre_present": "instructions[0].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "sweet-pea-spray": {
+      "version": 1,
+      "pattern_id": "sweet-pea-spray",
+      "pattern_name": "Sweet Pea Spray",
+      "motif_type": "flower",
+      "flower_type": "sweet pea",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [
+        3,
+        2
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": true,
+        "count": null,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 4.5,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 14 cm long.",
+        "width_cm": null,
+        "height_cm": 14
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for flowers and buds",
+          "colour": "dusty lilac"
+        },
+        {
+          "role": "for stem, leaves, and tendril",
+          "colour": "sage green"
+        }
+      ],
+      "pieces": [
+        "Flower (make 2)",
+        "Bud (make 2)",
+        "Leaf (make 2)",
+        "Curled Tendril (make 1)",
+        "Stem (make 1)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 5
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "back loop only",
+        "rolled or coiled"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "finishing[3]",
+        "leaf_count": "instructions[2].heading",
+        "stem_length": "assembly[1]",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "leaf_count",
+        "leaf_shape",
+        "finished_width"
+      ]
+    },
+    "bluebell-stem": {
+      "version": 1,
+      "pattern_id": "bluebell-stem",
+      "pattern_name": "Bluebell Stem",
+      "motif_type": "flower",
+      "flower_type": "bluebell",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 1,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 16 cm long, including the curved stem",
+        "width_cm": null,
+        "height_cm": 16
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "or -blend yarn for bell flowers",
+          "colour": "Blue or violet blue"
+        },
+        {
+          "role": "or -blend yarn for stem",
+          "colour": "Leaf green"
+        }
+      ],
+      "pieces": [
+        "Bell Flowers (make 5)",
+        "Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in rows"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem_length": "assembly[0]",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "finished_width"
+      ]
+    },
+    "lavender-sprig": {
+      "version": 1,
+      "pattern_id": "lavender-sprig",
+      "pattern_name": "Lavender Sprig",
+      "motif_type": "flower",
+      "flower_type": "lavender",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 15 cm long",
+        "width_cm": null,
+        "height_cm": 15
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for clustered lavender buds",
+          "colour": "Muted lavender purple"
+        },
+        {
+          "role": "for the covered stem",
+          "colour": "Soft leaf green"
+        }
+      ],
+      "pieces": [
+        "Covered Stem",
+        "Lavender Buds"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 0
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "baby-breath-spray": {
+      "version": 1,
+      "pattern_id": "baby-breath-spray",
+      "pattern_name": "Baby's Breath Spray",
+      "motif_type": "flower",
+      "flower_type": "baby's breath",
+      "petal_layer_count": null,
+      "petal_count": 5,
+      "petal_counts_stated": [
+        5
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 18 cm long",
+        "width_cm": null,
+        "height_cm": 18
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised for the tiny flowers",
+          "colour": "White or ivory"
+        },
+        {
+          "role": "Mercerised for branches",
+          "colour": "Soft green"
+        }
+      ],
+      "pieces": [
+        "Tiny Flowers",
+        "Crocheted Branch Frameworks"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 5
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "instructions[0].steps[0].text",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "waxflower-spray": {
+      "version": 1,
+      "pattern_id": "waxflower-spray",
+      "pattern_name": "Waxflower Spray",
+      "motif_type": "flower",
+      "flower_type": "waxflower",
+      "petal_layer_count": null,
+      "petal_count": 5,
+      "petal_counts_stated": [
+        5
+      ],
+      "petal_shape": "pointed",
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": "centre",
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 15 cm long",
+        "width_cm": null,
+        "height_cm": 15
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine for star-shaped flowers",
+          "colour": "Ivory or blush pink"
+        },
+        {
+          "role": "Fine for flower centres",
+          "colour": "Soft gold"
+        }
+      ],
+      "pieces": [
+        "Star Flowers (make 7)",
+        "Centres (make 7)",
+        "Wire Spray"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 5
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "instructions[0].steps[1].text",
+        "petal_shape": "instructions[0].steps[1].text",
+        "centre_present": "instructions[1].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "centre_type",
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "golden-billy-button": {
+      "version": 1,
+      "pattern_id": "golden-billy-button",
+      "pattern_name": "Golden Billy Button",
+      "motif_type": "flower",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": true,
+        "count": null,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 16,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 18 cm tall",
+        "width_cm": null,
+        "height_cm": 18
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for the flower head",
+          "colour": "Golden yellow"
+        },
+        {
+          "role": "for the stem",
+          "colour": "Leaf green"
+        }
+      ],
+      "pieces": [
+        "Flower Head",
+        "Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [
+        "wire",
+        "stuffing"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "rolled or coiled"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem_length": "instructions[1].steps[2].text",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "flower_type",
+        "leaf_count",
+        "leaf_shape",
+        "finished_width"
+      ]
+    },
+    "lace-queen-annes": {
+      "version": 1,
+      "pattern_id": "lace-queen-annes",
+      "pattern_name": "Lace Queen Anne's",
+      "motif_type": "flower",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": 5,
+      "petal_counts_stated": [
+        5
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 3,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 10 cm across; stem length varies with tension.",
+        "width_cm": 10,
+        "height_cm": null
+      },
+      "yarn_weight": "0-lace",
+      "hook_mm": 1.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised crochet thread for the umbel, florets and stem",
+          "colour": "Moonlit ivory"
+        }
+      ],
+      "pieces": [
+        "Centre",
+        "Spokes",
+        "Tiny Florets",
+        "Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 6
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "petal_count": "instructions[2].steps[1].text",
+        "centre_present": "instructions[0].heading",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem_length": "assembly[4]",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "flower_type"
+      ]
+    },
+    "sleeping-rosebud": {
+      "version": 1,
+      "pattern_id": "sleeping-rosebud",
+      "pattern_name": "Sleeping Rosebud",
+      "motif_type": "bud",
+      "flower_type": "rosebud",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": "scalloped",
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 4 cm tall",
+        "width_cm": null,
+        "height_cm": 4
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine for rolled rose petals",
+          "colour": "Dusty rose"
+        },
+        {
+          "role": "Fine for sepals and stem",
+          "colour": "Sage green"
+        }
+      ],
+      "pieces": [
+        "Rolled Petal Strip",
+        "Pointed Sepals",
+        "Short Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "rolled or coiled"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_shape": "assembly[1]",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "centre_type",
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "forget-me-not": {
+      "version": 1,
+      "pattern_id": "forget-me-not",
+      "pattern_name": "Forget-Me-Not",
+      "motif_type": "flower",
+      "flower_type": "forget-me-not",
+      "petal_layer_count": null,
+      "petal_count": 5,
+      "petal_counts_stated": [
+        5
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 2 cm across",
+        "width_cm": 2,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine contrasting flower centre",
+          "colour": "Soft yellow"
+        },
+        {
+          "role": "Fine petal colour",
+          "colour": "Powder blue"
+        }
+      ],
+      "pieces": [
+        "Forget-Me-Not Flower"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "petal_count": "finishing[2]",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "chamomile-blossom": {
+      "version": 1,
+      "pattern_id": "chamomile-blossom",
+      "pattern_name": "Chamomile Blossom",
+      "motif_type": "flower",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": 8,
+      "petal_counts_stated": [
+        8
+      ],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 3 cm across",
+        "width_cm": 3,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine for the raised centre",
+          "colour": "warm yellow"
+        },
+        {
+          "role": "Fine for the petals",
+          "colour": "white"
+        }
+      ],
+      "pieces": [
+        "Chamomile Blossom"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "petal_count": "instructions[0].steps[2].text",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type",
+        "flower_type"
+      ]
+    },
+    "sage-eucalyptus": {
+      "version": 1,
+      "pattern_id": "sage-eucalyptus",
+      "pattern_name": "Sage Eucalyptus",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 18 cm long",
+        "width_cm": null,
+        "height_cm": 18
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "for covered stem and rounded leaves",
+          "colour": "muted sage green"
+        }
+      ],
+      "pieces": [
+        "Covered Stem and Alternating Leaves"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "olive-branch": {
+      "version": 1,
+      "pattern_id": "olive-branch",
+      "pattern_name": "Olive Branch",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 20 cm long",
+        "width_cm": null,
+        "height_cm": 20
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "or -blend yarn for branch and leaves",
+          "colour": "Olive green"
+        }
+      ],
+      "pieces": [
+        "Olive Branch"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "woodland-fern": {
+      "version": 1,
+      "pattern_id": "woodland-fern",
+      "pattern_name": "Woodland Fern",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 17 cm long and 7 cm wide",
+        "width_cm": 7,
+        "height_cm": 17
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised for the fern frond",
+          "colour": "Deep moss green"
+        }
+      ],
+      "pieces": [
+        "Fern Frond"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": []
+    },
+    "trailing-ivy": {
+      "version": 1,
+      "pattern_id": "trailing-ivy",
+      "pattern_name": "Trailing Ivy",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 22 centimetres long, including six leaves.",
+        "width_cm": null,
+        "height_cm": null
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Smooth for vine and leaves",
+          "colour": "Deep ivy green"
+        }
+      ],
+      "pieces": [
+        "Trailing Cord",
+        "Ivy Leaves"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 2
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "finished_width"
+      ]
+    },
+    "velvet-lambs-ear": {
+      "version": 1,
+      "pattern_id": "velvet-lambs-ear",
+      "pattern_name": "Velvet Lamb's Ear",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 12 cm long per leaf; 18 cm overall.",
+        "width_cm": 18,
+        "height_cm": 12
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "wool"
+      ],
+      "colour_roles": [
+        {
+          "role": "Soft brushed -blend yarn for leaves and stem",
+          "colour": "Sage green"
+        }
+      ],
+      "pieces": [
+        "Leaves (make 2)",
+        "Stem"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 2
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "stem_length"
+      ]
+    },
+    "ruscus-spray": {
+      "version": 1,
+      "pattern_id": "ruscus-spray",
+      "pattern_name": "Ruscus Spray",
+      "motif_type": "foliage",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": null,
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": 1,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 19 cm long",
+        "width_cm": null,
+        "height_cm": 19
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "or -blend yarn for leaves and stems",
+          "colour": "Deep moss green"
+        }
+      ],
+      "pieces": [
+        "Main Stem",
+        "Side Branches (make 4)",
+        "Leaves (make 9)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 6
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [],
+      "evidence": {
+        "motif_type": "category/name",
+        "stem_length": "assembly[0]",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "finished_width"
+      ]
+    },
+    "bendable-floral-stem": {
+      "version": 1,
+      "pattern_id": "bendable-floral-stem",
+      "pattern_name": "Bendable Floral Stem",
+      "motif_type": "stem",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet-covered wire",
+        "length_cm": null,
+        "wired": true
+      },
+      "finished": {
+        "raw": "About 25 cm long",
+        "width_cm": null,
+        "height_cm": 25
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Mercerised for the stem cover",
+          "colour": "Leaf green"
+        }
+      ],
+      "pieces": [
+        "Stem Tube",
+        "Top End Cap"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [
+        "wire"
+      ],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instruction headings"
+      },
+      "unknown": [
+        "stem_length",
+        "finished_width"
+      ]
+    },
+    "ribboned-bouquet-wrap": {
+      "version": 1,
+      "pattern_id": "ribboned-bouquet-wrap",
+      "pattern_name": "Ribboned Bouquet Wrap",
+      "motif_type": "bouquet wrap",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 12 cm long and 5 cm wide",
+        "width_cm": 5,
+        "height_cm": 12
+      },
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "Fine or -blend yarn for the wrap",
+          "colour": "Moonlit ivory, sage, or blush"
+        }
+      ],
+      "pieces": [
+        "Ribboned Band"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [
+        "ribbon"
+      ],
+      "construction_details": [
+        "worked in rows"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "stem_length"
+      ]
+    },
+    "meadow-vase": {
+      "version": 1,
+      "pattern_id": "meadow-vase",
+      "pattern_name": "Meadow Vase",
+      "motif_type": "vase",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": true,
+        "type": "crochet",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 12 cm tall and 10 cm across at the widest point",
+        "width_cm": 10,
+        "height_cm": 12
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "fibres": [
+        "cotton"
+      ],
+      "colour_roles": [
+        {
+          "role": "-blend yarn for a firm textured vase",
+          "colour": "Midnight blue"
+        }
+      ],
+      "pieces": [
+        "Vase"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start",
+        "worked in the round",
+        "back loop only"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "instructions/assembly text"
+      },
+      "unknown": [
+        "stem_length"
+      ]
+    }
+  },
+  "specs": {
+    "cover": {
+      "version": 1,
+      "kind": "bouquet",
+      "items": [
+        {
+          "pattern_id": "garden-rose",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "rose",
+            "petal_count": 2,
+            "petal_layer_count": 2,
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 8,
+            "embellishments": [],
+            "colours": [
+              "Dusty blush pink"
+            ]
+          }
+        },
+        {
+          "pattern_id": "blush-tulip",
+          "quantity": 2,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "tulip",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": true
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "embellishments": [
+              "wire",
+              "stuffing"
+            ],
+            "colours": [
+              "Blush pink",
+              "Leaf green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "sleeping-rosebud",
+          "quantity": 2,
+          "features": {
+            "motif_type": "bud",
+            "flower_type": "rosebud",
+            "petal_shape": "scalloped",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "height_cm": 4,
+            "embellishments": [],
+            "colours": [
+              "Dusty rose",
+              "Sage green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "sage-eucalyptus",
+          "quantity": 2,
+          "features": {
+            "motif_type": "foliage",
+            "centre": {
+              "present": false
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "height_cm": 18,
+            "embellishments": [
+              "wire"
+            ],
+            "colours": [
+              "muted sage green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "bendable-floral-stem",
+          "quantity": 5,
+          "features": {
+            "motif_type": "stem",
+            "centre": {
+              "present": false
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "height_cm": 25,
+            "embellishments": [
+              "wire"
+            ],
+            "colours": [
+              "Leaf green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "ribboned-bouquet-wrap",
+          "quantity": 1,
+          "features": {
+            "motif_type": "bouquet wrap",
+            "centre": {
+              "present": false
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": false
+            },
+            "width_cm": 5,
+            "height_cm": 12,
+            "embellishments": [
+              "ribbon"
+            ],
+            "colours": [
+              "Moonlit ivory, sage, or blush"
+            ]
+          }
+        }
+      ],
+      "ornaments": [
+        {
+          "kind": "crescent moon",
+          "medium": "illustration"
+        },
+        {
+          "kind": "fine botanical sprigs",
+          "medium": "illustration"
+        }
+      ],
+      "composition": "one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    },
+    "overview": {
+      "version": 1,
+      "kind": "overview",
+      "items": [
+        {
+          "pattern_id": "garden-rose",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "rose",
+            "petal_count": 2,
+            "petal_layer_count": 2,
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 8,
+            "embellishments": [],
+            "colours": [
+              "Dusty blush pink"
+            ]
+          }
+        },
+        {
+          "pattern_id": "moon-peony",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "peony",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "width_cm": 11,
+            "height_cm": 28,
+            "embellishments": [
+              "wire",
+              "stuffing"
+            ],
+            "colours": [
+              "Moonlit ivory",
+              "Pale butter yellow",
+              "Soft sage green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "heirloom-dahlia",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "dahlia",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "width_cm": 10,
+            "height_cm": 20,
+            "embellishments": [
+              "wire"
+            ],
+            "colours": [
+              "Deep plum, mauve, or moonlit pink",
+              "Leaf green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "meadow-ranunculus",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "ranunculus",
+            "petal_layer_count": 3,
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": true
+            },
+            "embellishments": [
+              "wire",
+              "stuffing"
+            ],
+            "colours": [
+              "Pale blush pink",
+              "Warm golden yellow"
+            ]
+          }
+        },
+        {
+          "pattern_id": "starlit-anemone",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "anemone",
+            "petal_count": 1,
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 7,
+            "embellishments": [],
+            "colours": [
+              "Dusky periwinkle",
+              "Midnight charcoal"
+            ]
+          }
+        },
+        {
+          "pattern_id": "cottage-poppy",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "poppy",
+            "petal_count": 4,
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "width_cm": 9,
+            "embellishments": [
+              "wire",
+              "embroidery",
+              "stuffing"
+            ],
+            "colours": [
+              "Dusky coral red",
+              "Sage green",
+              "Charcoal"
+            ]
+          }
+        },
+        {
+          "pattern_id": "twilight-lily",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "lily",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "height_cm": 12,
+            "embellishments": [
+              "wire",
+              "stamens",
+              "embroidery"
+            ],
+            "colours": [
+              "Pale moonlit lilac",
+              "Deep leaf green",
+              "Soft gold",
+              "Deep violet"
+            ]
+          }
+        },
+        {
+          "pattern_id": "wild-sunflower",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "sunflower",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": true
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 10,
+            "embellishments": [],
+            "colours": [
+              "Chocolate brown",
+              "Golden yellow",
+              "Leaf green"
+            ]
+          }
+        },
+        {
+          "pattern_id": "blush-tulip",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "tulip",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": true
+            },
+            "stem": {
+              "present": true,
+              "wired": true
+            },
+            "embellishments": [
+              "wire",
+              "stuffing"
+            ],
+            "colours": [
+              "Blush pink",
+              "Leaf green"
+            ]
+          }
+        }
+      ],
+      "ornaments": [],
+      "composition": "each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    },
+    "detail": {
+      "version": 1,
+      "kind": "detail",
+      "items": [
+        {
+          "pattern_id": "garden-rose",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "rose",
+            "petal_count": 2,
+            "petal_layer_count": 2,
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 8,
+            "embellishments": [],
+            "colours": [
+              "Dusty blush pink"
+            ]
+          }
+        }
+      ],
+      "ornaments": [],
+      "composition": "macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    }
+  },
+  "rebinds": [
+    {
+      "from": "a6747971740aefa2abd39f94b38dcaaa5ecc40bcf534d245b0fd3dced1c047ad",
+      "to": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69",
+      "at": "2026-10-05T17:57:43.416Z",
+      "by": "@romg_o",
+      "reason": "pattern text corrected; fingerprints identical; no new images"
+    }
+  ]
+}

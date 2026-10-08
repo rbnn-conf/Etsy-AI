@@ -1,0 +1,32 @@
+[
+  {
+    "page_number": 1,
+    "page_type": "cover",
+    "title": "Autumn Crochet Cover",
+    "concept": "Premium concept cover for the Falling Leaves Crochet Table Set, presenting an aspirational generic crochet table arrangement rather than a fixed final pattern design.",
+    "instructions": null,
+    "artwork_description": "A large sculptural arrangement of realistically crocheted autumn-toned table décor sits on softly rumpled pale linen, with layered foliage-inspired forms and a few small coordinating pieces arranged below a spacious upper title area. The product visualisation has dimensional yarn loops, stitch relief and gentle handmade irregularity. Moonlit Meadow branding appears only as restrained cream, blush, lavender and sage botanical ornaments with a small crescent-moon detail around the title area.",
+    "generation_prompt": "Portrait cover composition featuring a large generic realistic crochet autumn table arrangement on pale linen, with layered foliage-inspired crochet forms and a few small coordinating pieces in a calm circular grouping below. Spacious upper area with exact title text “AUTUMN CROCHET” and small subtitle text “Modern table décor”. Add subtle Moonlit Meadow crescent-moon and fine botanical branding ornaments only around the typography; no other readable text.",
+    "production_notes": "Concept/style proof only: show a rendered crochet visualisation, never a test-made item or a physical product included with purchase. Do not establish an exact leaf shape, leaf count, stitch construction, pattern name or colour assignment. Verify the two short text lines exactly; remove all accidental labels, logos and faux writing. Preserve clear contrast between title and background at home-print scale."
+  },
+  {
+    "page_number": 2,
+    "page_type": "project-preview",
+    "title": "Stitch Texture Preview",
+    "concept": "Representative finished-project visualisation highlighting construction quality and yarn texture for the coordinated seasonal table décor.",
+    "instructions": null,
+    "artwork_description": "A close editorial crop focuses on the edge and centre texture of one generic crocheted table piece resting on oatmeal linen. Raised loops, yarn twist, subtle fibre halo and natural shaping are clearly visible, with a softly blurred second coordinating crochet piece partly entering the lower corner. A tiny crescent and fine botanical sprig act as a quiet Moonlit Meadow branding accent, not part of the crochet object.",
+    "generation_prompt": "Macro editorial preview of a generic realistic crocheted table décor piece, showing clearly resolved raised stitches, layered edging, yarn twist and handmade depth on oatmeal linen. A second small coordinating crochet piece is softly out of focus at the lower edge. Include one very subtle crescent-moon and botanical-sprig branding accent in an open corner, with no readable text.",
+    "production_notes": "This is one of two representative project visualisations for the listing and PDF presentation. Keep the crochet construction believable but non-instructional: no chart, stitch key, exact round count, named motif or repeat sequence. Check that individual loops remain distinct when printed and that no framing crop makes the piece appear flat, painted or plastic."
+  },
+  {
+    "page_number": 3,
+    "page_type": "project-preview",
+    "title": "Coordinated Table Setting Preview",
+    "concept": "Representative finished-project visualisation showing the intended modern autumn homeware mood and coordinated scale relationship.",
+    "instructions": null,
+    "artwork_description": "A refined small group of generic crocheted table décor pieces is arranged as a welcoming place-setting vignette on a pale linen dining surface. The central larger piece is gently overlapped by several smaller coordinating pieces, while a simple warm-cream ceramic cup and a restrained linen napkin provide scale without obscuring the yarn work. The upper perimeter remains open and calm, with a faint Moonlit Meadow botanical ornament in the margin.",
+    "generation_prompt": "Editorial place-setting vignette with a generic large realistic crocheted table piece gently overlapped by several smaller coordinating crochet pieces on a pale linen dining table. Include a simple warm-cream ceramic cup and folded neutral linen napkin as restrained scale props, leaving the crochet visible. Add a faint Moonlit Meadow fine botanical ornament in an open margin; no readable text.",
+    "production_notes": "This is the second representative project visualisation. It must remain a digital pattern preview, not evidence of a supplied or test-made physical set. Do not imply final motif quantity, final placement, exact colours, finished dimensions or pattern construction. Keep props secondary and ensure the artwork supports printer-friendly PDF use without dark ink-heavy areas. Written PDF instructions, materials/colour guide, and printing/pattern-use guide are separate deliverable components and require no additional artwork page."
+  }
+]

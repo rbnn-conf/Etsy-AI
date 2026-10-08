@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "passed": true,
+  "checks": [
+    {
+      "name": "page manifest complete",
+      "ok": true,
+      "detail": "10 of 10 pages"
+    },
+    {
+      "name": "page sequence P001..P010",
+      "ok": true,
+      "detail": "10 pages in order"
+    },
+    {
+      "name": "all page files present",
+      "ok": true,
+      "detail": "10 files"
+    },
+    {
+      "name": "page files match their recorded checksums",
+      "ok": true,
+      "detail": "SHA-256 verified"
+    },
+    {
+      "name": "valid PNG files",
+      "ok": true,
+      "detail": "10 PNG"
+    },
+    {
+      "name": "expected dimensions and orientation",
+      "ok": true,
+      "detail": "1536x1024 px landscape"
+    },
+    {
+      "name": "no blank pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no exact duplicates",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "black-and-white colouring-page characteristics",
+      "ok": true,
+      "detail": "line art on white"
+    },
+    {
+      "name": "safe margins: no clipping at the page edges",
+      "ok": true,
+      "detail": "nothing in the outer 4 px"
+    }
+  ],
+  "warnings": [],
+  "pages": {
+    "P001": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 69.564,
+        "white": 0.88256,
+        "dark": 0.08351,
+        "grey": 0.03393,
+        "ink": 0.09929,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "pixel_key": "669b45a2ae0ed878dafaec659c4d533d0e86b216055d782dbc83a68206068266"
+      }
+    },
+    "P002": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 73.765,
+        "white": 0.8716,
+        "dark": 0.09642,
+        "grey": 0.03198,
+        "ink": 0.11117,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "pixel_key": "ed504e8636cd6978356f56846883d5c5d022fbf1df0b5ae3d9ca38d2d9cdc8ae"
+      }
+    },
+    "P003": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 78.362,
+        "white": 0.85675,
+        "dark": 0.11163,
+        "grey": 0.03162,
+        "ink": 0.12657,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0.01188,
+          "bottom": 0,
+          "left": 0.01709
+        },
+        "pixel_key": "b34b33180a33c17a34163f6eb1fbe042ad413b404c0790503e8678ff28e66834"
+      }
+    },
+    "P004": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 72.192,
+        "white": 0.87542,
+        "dark": 0.09135,
+        "grey": 0.03323,
+        "ink": 0.10742,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "pixel_key": "bb1984560fd309059562917b696b3b5742e56e910be87f1c3e41f70da65e5702"
+      }
+    },
+    "P005": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 75.284,
+        "white": 0.86544,
+        "dark": 0.10121,
+        "grey": 0.03334,
+        "ink": 0.11597,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "pixel_key": "77de639796b2462bbbe32f78154c75837df7f731f2f7e333f6467c685b01f3a1"
+      }
+    },
+    "P006": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 76.266,
+        "white": 0.86403,
+        "dark": 0.10556,
+        "grey": 0.03041,
+        "ink": 0.12027,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0.00856,
+          "bottom": 0,
+          "left": 0
+        },
+        "pixel_key": "a08f6ffb59b47cde708e2f17d860d6ecad509a578f6f6a3900c05b5be91e14b9"
+      }
+    },
+    "P007": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 80.552,
+        "white": 0.84289,
+        "dark": 0.11916,
+        "grey": 0.03795,
+        "ink": 0.13698,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0.01488,
+          "bottom": 0,
+          "left": 0.01621
+        },
+        "pixel_key": "990a0e2d05917e0812e745b1313138d256b2daca2f5106bd7552073a370786ab"
+      }
+    },
+    "P008": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 74.29,
+        "white": 0.87115,
+        "dark": 0.09817,
+        "grey": 0.03068,
+        "ink": 0.11258,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0.01767,
+          "bottom": 0,
+          "left": 0.00814
+        },
+        "pixel_key": "6495ec1859f1fc0371aff069b442f7c39f6161b8864b013848bd7ff10b6613d2"
+      }
+    },
+    "P009": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 76.203,
+        "white": 0.86389,
+        "dark": 0.1048,
+        "grey": 0.03131,
+        "ink": 0.11938,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0.02351,
+          "bottom": 0,
+          "left": 0.00877
+        },
+        "pixel_key": "a350c5c21da4b0f04037eeb1f3ba0724f94edc80ff41298a7a68871d920ec971"
+      }
+    },
+    "P010": {
+      "status": "ok",
+      "fails": [],
+      "warns": [],
+      "stats": {
+        "width": 1536,
+        "height": 1024,
+        "orientation": "landscape",
+        "has_alpha": false,
+        "stdev": 78.229,
+        "white": 0.85769,
+        "dark": 0.11167,
+        "grey": 0.03065,
+        "ink": 0.12586,
+        "coloured": 0,
+        "edge": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "band": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "pixel_key": "e2ccc9eb907e55644e30657488aaf2013050a6d9ec65f94f90139b7df752a687"
+      }
+    }
+  },
+  "fingerprint": "642205acd12ba542d5e808bfe8bdc49107ad41aa0494cd6251d9f4e1c15347c3",
+  "qc_version": 1,
+  "manifest": {
+    "file": "book/manifest.json",
+    "page_count": 10
+  },
+  "at": "2026-10-06T10:34:27.203Z",
+  "sheets": [
+    {
+      "file": "book/review/pages-01-08.png",
+      "from": 1,
+      "to": 8
+    },
+    {
+      "file": "book/review/pages-09-10.png",
+      "from": 9,
+      "to": 10
+    }
+  ]
+}

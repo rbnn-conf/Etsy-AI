@@ -1,0 +1,179 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4590012651,
+      "actual": 4590012651
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4590012651,
+      "actual": 4590012651
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Crochet Pattern Bundle | Autumn Table Decor, 6 Patterns, Instant Digital Download",
+      "actual": "Printable Crochet Pattern Bundle | Autumn Table Decor, 6 Patterns, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1763 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 7.99",
+      "actual": "GBP 7.99"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 6343,
+      "actual": 6343
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF patterns",
+        "A4 PDF",
+        "US Letter PDF",
+        "Pattern index",
+        "Materials tools reference",
+        "Abbreviations reference",
+        "Printing crochet guide",
+        "Autumn styling ideas"
+      ],
+      "actual": [
+        "Digital PDF patterns",
+        "A4 PDF",
+        "US Letter PDF",
+        "Pattern index",
+        "Materials tools reference",
+        "Abbreviations reference",
+        "Printing crochet guide",
+        "Autumn styling ideas"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8635021668,
+        8682843949,
+        8635022092,
+        8635022328,
+        8635022550,
+        8682844809,
+        8682845003,
+        8682845241
+      ],
+      "actual": [
+        8635021668,
+        8682843949,
+        8635022092,
+        8635022328,
+        8635022550,
+        8682844809,
+        8682845003,
+        8682845241
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Falling-Leaves-Crochet-Table-Set-A4.zip (9939445 bytes)",
+        "Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip (3335233 bytes)",
+        "Falling-Leaves-Crochet-Table-Set-US-Letter.zip (9912627 bytes)",
+        "Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip (3337413 bytes)"
+      ],
+      "actual": [
+        "Falling-Leaves-Crochet-Table-Set-A4.zip (9939445 bytes)",
+        "Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip (3335233 bytes)",
+        "Falling-Leaves-Crochet-Table-Set-US-Letter.zip (9912627 bytes)",
+        "Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip (3337413 bytes)"
+      ]
+    }
+  ],
+  "fingerprint": "9722a87effbd18ad638e9c3ee8c5d01d3589f5d86e5bf2974d3295ed9a5fb55c",
+  "listing_id": 4590012651,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "72d570de596ca3044f6a16880b8468e7c8ea12345a96f1072cf203440175de93",
+  "remote_url": "https://www.etsy.com/listing/4590012651/printable-crochet-pattern-bundle-autumn",
+  "at": "2026-10-06T21:52:08.205Z"
+}

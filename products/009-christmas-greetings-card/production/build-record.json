@@ -1,0 +1,595 @@
+{
+  "schema_version": 2,
+  "product_id": "009",
+  "handoff_sha256": "cdf0ad416fe97d5e2adfbba14337c1cf951473a07af8c286f95f6ee522b13b92",
+  "adapter": {
+    "format": "greeting-card",
+    "version": 2
+  },
+  "image_encoding": 92,
+  "package": "LumiumX-Robin-at-the-Frosted-Gate",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Card-Panels-4x6in",
+    "Card-Artwork",
+    "Guide"
+  ],
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Merry Christmas",
+      "front": "proof-01",
+      "inside": "proof-02",
+      "inside_left": null,
+      "back": "minimal",
+      "stem": "LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas"
+    },
+    {
+      "id": "B",
+      "name": "Christmas Wishes",
+      "front": "proof-03",
+      "inside": "proof-02",
+      "inside_left": null,
+      "back": "minimal",
+      "stem": "LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes"
+    }
+  ],
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "page": 1,
+      "label": "A — Merry Christmas: outside"
+    },
+    {
+      "rel": "A4/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4.pdf",
+      "page": 1,
+      "label": "B — Christmas Wishes: outside"
+    },
+    {
+      "rel": "A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "page": 2,
+      "label": "Inside — shared by A and B"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "185e1a6f4dabd2c82950d6b0b63fa7c2e0ed2e6270191d1e54292c5fb240f00f",
+      "bytes": 2940,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": "A",
+      "sha256": "4067392f31d376bb2253a1226d3b1c4b03cd69fe60499e9c8dacf0120d69fbeb",
+      "bytes": 1269665,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          297,
+          210
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "minimal": "LUMIUMX"
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": "A",
+      "sha256": "987e3556d4700512e9dda6bf4c17f6d2204fe7726d58b48e14f36818dbdafdf5",
+      "bytes": 1269638,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          279.4,
+          215.9
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "minimal": "LUMIUMX"
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        }
+      ]
+    },
+    "A4/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": "B",
+      "sha256": "a7891007906365586a68f52095d25fd60815e08c18e29d8cc62d1c44bbdd4b7d",
+      "bytes": 1262874,
+      "sources": [
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          297,
+          210
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "minimal": "LUMIUMX"
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-03",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": "B",
+      "sha256": "22a7cafa94944ce8baebdb66a43f376c15fe366e7c04ebcf92f028f443f6ddc3",
+      "bytes": 1262851,
+      "sources": [
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          279.4,
+          215.9
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "minimal": "LUMIUMX"
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-03",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        }
+      ]
+    },
+    "Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-Card-Panels-4x6in.pdf": {
+      "kind": "pdf",
+      "variant": "Card-Panels-4x6in",
+      "card_variant": "A",
+      "sha256": "52cf076b5755d6c3fcc9b233d889e0b44e4ddb7c35b8052d931fd6d24f1e5f6c",
+      "bytes": 1269506,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          101.6,
+          152.4
+        ],
+        "orientation": "portrait",
+        "minimal_pages": [
+          3
+        ]
+      },
+      "placements": [
+        {
+          "where": "panel front",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel inside",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel back",
+          "role": "back",
+          "minimal": "LUMIUMX"
+        }
+      ]
+    },
+    "Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-Card-Panels-4x6in.pdf": {
+      "kind": "pdf",
+      "variant": "Card-Panels-4x6in",
+      "card_variant": "B",
+      "sha256": "8d2b9be7ae004d3893d50ed4b7bc78f943cb19d780f09e409dec13ae3cd8817b",
+      "bytes": 1262715,
+      "sources": [
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          101.6,
+          152.4
+        ],
+        "orientation": "portrait",
+        "minimal_pages": [
+          3
+        ]
+      },
+      "placements": [
+        {
+          "where": "panel front",
+          "role": "front",
+          "asset": "proof-03",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel inside",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel back",
+          "role": "back",
+          "minimal": "LUMIUMX"
+        }
+      ]
+    },
+    "Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-A-Merry-Christmas.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+      "bytes": 3338019,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-01"
+      },
+      "placements": []
+    },
+    "Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Inside.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+      "bytes": 3056683,
+      "sources": [
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-02"
+      },
+      "placements": []
+    },
+    "Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-B-Christmas-Wishes.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+      "bytes": 3328916,
+      "sources": [
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-03"
+      },
+      "placements": []
+    }
+  },
+  "zip": {
+    "file": "production/package/LumiumX-Robin-at-the-Frosted-Gate.zip",
+    "sha256": "1b1cd8d2610903843dddc7b7de6264d9a4375705126a66f47ecf679464ddaa3a",
+    "bytes": 16942543,
+    "entries_digest": "69135be1a1082378343bd71f3662b103c651629e4a44f8eee9e393cf30695a82",
+    "entries": [
+      "LumiumX-Robin-at-the-Frosted-Gate/START-HERE-Printing-Guide.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-US-Letter.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/A4/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-US-Letter.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-Card-Panels-4x6in.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-Card-Panels-4x6in.pdf",
+      "LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-A-Merry-Christmas.png",
+      "LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Inside.png",
+      "LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-B-Christmas-Wishes.png"
+    ]
+  }
+}

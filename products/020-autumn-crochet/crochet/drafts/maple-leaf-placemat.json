@@ -1,0 +1,194 @@
+{
+  "pattern_id": "maple-leaf-placemat",
+  "name": "Maple Leaf Placemat",
+  "category": "placemat",
+  "difficulty": "intermediate",
+  "finished_size": "About 38 cm wide by 35 cm long",
+  "yarn": [
+    {
+      "description": "Cotton yarn for the leaf placemat",
+      "colour": "Burnt orange",
+      "amount": "About 300 g (about 650 m)"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E-4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "Blocking pins and blocking mat",
+    "Stitch marker"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr",
+    "inc",
+    "dec"
+  ],
+  "abbreviations": {
+    "BLO": "back loop only",
+    "ch": "chain",
+    "dec": "single crochet two together",
+    "dc": "double crochet",
+    "hdc": "half double crochet",
+    "inc": "2 single crochet in same stitch",
+    "rep": "repeat",
+    "sc": "single crochet",
+    "sl st": "slip stitch",
+    "st": "stitch",
+    "sts": "stitches",
+    "tr": "treble crochet"
+  },
+  "gauge": "24 sts and 20 rows = 10 cm in hdc worked in BLO, after light blocking.",
+  "instructions": [
+    {
+      "heading": "Leaf and Stem",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 6. Sc in the 2nd ch from hook and in each ch across; turn.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rows 2-12",
+          "text": "Ch 1, sc in each st across; turn. The turning ch does not count as a st.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Row 13",
+          "text": "Ch 1, work 3 sc in each st across; turn.",
+          "stitch_count": 15
+        },
+        {
+          "label": "Row 14",
+          "text": "Ch 1, [sc, inc] rep 5 times, sc in the last 5 sts; turn.",
+          "stitch_count": 20
+        },
+        {
+          "label": "Row 15",
+          "text": "Ch 1, [sc, inc] rep 10 times; turn.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Row 16",
+          "text": "Ch 1, [2 sc, inc] rep 10 times; turn.",
+          "stitch_count": 40
+        },
+        {
+          "label": "Row 17",
+          "text": "Ch 1, [3 sc, inc] rep 10 times; turn.",
+          "stitch_count": 50
+        },
+        {
+          "label": "Row 18",
+          "text": "Ch 1, [4 sc, inc] rep 10 times; turn.",
+          "stitch_count": 60
+        },
+        {
+          "label": "Row 19",
+          "text": "Ch 1, [5 sc, inc] rep 10 times; turn.",
+          "stitch_count": 70
+        },
+        {
+          "label": "Row 20",
+          "text": "Ch 1, [6 sc, inc] rep 10 times; turn.",
+          "stitch_count": 80
+        },
+        {
+          "label": "Row 21",
+          "text": "Ch 1, [7 sc, inc] rep 10 times; turn.",
+          "stitch_count": 90
+        },
+        {
+          "label": "Rows 22-58",
+          "text": "Ch 1, hdc in BLO of each st across; turn. The turning ch does not count as a st.",
+          "stitch_count": 90
+        },
+        {
+          "label": "Row 59",
+          "text": "Ch 1, [7 sc, dec] rep 10 times; turn.",
+          "stitch_count": 80
+        },
+        {
+          "label": "Row 60",
+          "text": "Ch 1, [6 sc, dec] rep 10 times; turn.",
+          "stitch_count": 70
+        },
+        {
+          "label": "Row 61",
+          "text": "Ch 1, [5 sc, dec] rep 10 times; turn.",
+          "stitch_count": 60
+        },
+        {
+          "label": "Row 62",
+          "text": "Ch 1, [4 sc, dec] rep 10 times; turn.",
+          "stitch_count": 50
+        },
+        {
+          "label": "Row 63",
+          "text": "Ch 1, [3 sc, dec] rep 10 times; turn.",
+          "stitch_count": 40
+        },
+        {
+          "label": "Row 64",
+          "text": "Ch 1, [2 sc, dec] rep 10 times; turn.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Row 65",
+          "text": "Ch 1, [sc, dec] rep 10 times; turn.",
+          "stitch_count": 20
+        },
+        {
+          "label": "Row 66",
+          "text": "Ch 1, dec rep 10 times; turn.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Row 67",
+          "text": "Ch 1, dec rep 5 times; turn.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Row 68",
+          "text": "Ch 1, dec twice, sc in the last st; turn.",
+          "stitch_count": 3
+        },
+        {
+          "label": "Row 69",
+          "text": "Ch 1, dec, sc in the last st; turn.",
+          "stitch_count": 2
+        },
+        {
+          "label": "Row 70",
+          "text": "Ch 1, dec. Do not turn.",
+          "stitch_count": 1
+        },
+        {
+          "label": "Edging",
+          "text": "Ch 1 and turn. Treat the top st, 69 row ends down one side, 5 unused foundation chs, and 69 row ends up the other side as 144 edge positions. In the top st, work (sc, hdc, dc, tr, ch 2, tr, dc, hdc, sc). *Sc in each of the next 7 edge positions, then work (sc, hdc, dc, tr, ch 2, tr, dc, hdc, sc) in the next edge position; rep 17 times. Sc in each of the last 7 edge positions, then sl st to the first sc.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly_required": false,
+  "finishing": [
+    "Fasten off after joining the edging, leaving a 15 cm tail.",
+    "Weave in both yarn tails on the reverse side without pulling the leaf out of shape.",
+    "Wet-block the placemat to its approximate finished size. Pin the pointed edging evenly and allow it to dry completely."
+  ],
+  "notes": [
+    "Each pointed edging cluster is worked into one edge position; the ch 2 forms the tip of the lobe.",
+    "Place a stitch marker in the first sc of the edging cluster if it helps identify the final joining point."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

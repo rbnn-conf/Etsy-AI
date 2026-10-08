@@ -1,0 +1,430 @@
+{
+  "schema_version": 2,
+  "product_id": "014",
+  "product_name": "Harvest Market: Autumn Colouring Pages",
+  "slug": "harvest-market-autumn-colouring-pages",
+  "product_type": "Adult harvest market colouring book",
+  "product_format": "colouring-book",
+  "page_count": 12,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Each page uses a comfortable clear outer margin, with a single calm harvest-market focal composition and open enclosed areas for relaxed adult colouring."
+  },
+  "approved": {
+    "creative_approved_at": "2026-09-29T13:15:24.297Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "C",
+      "proposed_name": "Harvest Market: Autumn Colouring Pages"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    },
+    "full_artwork": {
+      "approved_at": "2026-09-29T13:18:24.883Z",
+      "approved_by": "@romg_o",
+      "manifest_sha256": "ff0df0c1b6740b337966ab5eca268d93548b26e41365cc9ca708c87b3cdfb9ab",
+      "pages_sha256": "b105f4bf935be8f4637fc04177c8b88a35a9f7ed7f4ad1bf54f4112a7c156b24",
+      "qc_sha256": "a1f1760ab03254ed940bd2e919b330e92ea9577a3c47c63c85477734464f48bf"
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "c2662c5e51c436879781f1453682830a3926056a0b0acf2dd160c628ff1f5d7d"
+    },
+    "book_manifest": {
+      "file": "book/manifest.json",
+      "sha256": "ff0df0c1b6740b337966ab5eca268d93548b26e41365cc9ca708c87b3cdfb9ab"
+    },
+    "book_qc": {
+      "file": "book/qc.json",
+      "sha256": "a1f1760ab03254ed940bd2e919b330e92ea9577a3c47c63c85477734464f48bf"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "681ec24fa35add70b546f040d3918930a9870353d995f9a258aec6eee35e76ea"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "P001",
+      "file": "book/pages/P001.png",
+      "page_number": 1,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P002",
+      "file": "book/pages/P002.png",
+      "page_number": 2,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P003",
+      "file": "book/pages/P003.png",
+      "page_number": 3,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "a9b27e027d4b3961f23d5f05f0ae65b55f2efb73614fe8db3943641ac5bc798b",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P004",
+      "file": "book/pages/P004.png",
+      "page_number": 4,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "71904616e56513b94c3149bd31eb3c98b0783cac3614d6b1abf5e6092b0a6e4f",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P005",
+      "file": "book/pages/P005.png",
+      "page_number": 5,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "2a8234550fc2bf564fc0cb70729f83cf4df9eae32f8c9f39933b7c55ea98f93c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P006",
+      "file": "book/pages/P006.png",
+      "page_number": 6,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "c38b625e27c502a46b3e08db7c7ed7f2cb3c865a9f8dc50921ff14d513025980",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P007",
+      "file": "book/pages/P007.png",
+      "page_number": 7,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P008",
+      "file": "book/pages/P008.png",
+      "page_number": 8,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "59f390f660fb31c738f8c0795220780dd1e7e556e134951c9bc1c1979b28947c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P009",
+      "file": "book/pages/P009.png",
+      "page_number": 9,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "9b33ae03085de4d2d2df8a75cac74a752e3e80fc4fbbeb9ff733d77098f8bf0d",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P010",
+      "file": "book/pages/P010.png",
+      "page_number": 10,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "af20f2d7b76cb95eb60c2eb90afb2ef48e81ad8d1d502e0e69ddbe294a503017",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P011",
+      "file": "book/pages/P011.png",
+      "page_number": 11,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a5b3190fe3226b1c7f02e54916002854610b4904351015f637edb0838e878c80",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P012",
+      "file": "book/pages/P012.png",
+      "page_number": 12,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Harvest Market",
+      "asset": "P001",
+      "approved_text": [
+        "HARVEST MARKET",
+        "Autumn Colouring Pages"
+      ],
+      "production_notes": "Verify all cover text exactly: “HARVEST MARKET” and “Autumn Colouring Pages”. Keep the crate and each item fully enclosed for optional colouring; do not use logos, labels or Halloween motifs."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Apple Crate Abundance",
+      "asset": "P002",
+      "approved_text": [],
+      "production_notes": "Count check: 18 apples, 3 pears, 2 squash and 2 herb bundles. Ensure each apple remains visually separate rather than merging into an indistinct pile."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Pumpkin and Squash Stall",
+      "asset": "P003",
+      "approved_text": [],
+      "production_notes": "Variety check: all 8 named squash types must have recognisably different silhouettes. Avoid an overcrowded stand and retain broad colourable sections on the vegetables."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Orchard Harvest Basket",
+      "asset": "P004",
+      "approved_text": [],
+      "production_notes": "Keep the checked cloth pattern broad and regular, not dense. Confirm the central basket remains the immediate focal object."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Herb Market Bundles",
+      "asset": "P005",
+      "approved_text": [],
+      "production_notes": "Use blank tags only to avoid illegible generated text. Ensure five distinct bundles and visually differentiable herb foliage; keep hanging strings and rail lines clean."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Root Vegetable Barrow",
+      "asset": "P006",
+      "approved_text": [],
+      "production_notes": "Avoid solid dark areas inside the wheelbarrow. Keep the wheel, handles and vegetable contours well separated for easy colouring."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Late Harvest Table",
+      "asset": "P007",
+      "approved_text": [],
+      "production_notes": "Count check: exactly 2 pears. Honey jar must be unbranded and unlabelled. Keep the table runner pattern simple enough to colour."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Sunflower Market Bucket",
+      "asset": "P008",
+      "approved_text": [],
+      "production_notes": "Count check: 7 sunflowers, 5 asters, 3 mini pumpkins. Show every sunflower face as a simple floral centre, not a face or character; keep seed-head texture open."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Cider Press Harvest",
+      "asset": "P009",
+      "approved_text": [],
+      "production_notes": "Count check: exactly 2 tumblers. Make the cider press mechanically readable but not technical or cluttered; all bottle and glass outlines must be clear and closed."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Mushroom and Woodland Basket",
+      "asset": "P010",
+      "approved_text": [],
+      "production_notes": "Do not depict toxic-identification claims or labels. Keep mushroom gills, caps and basket weave moderately detailed with broad colourable spaces."
+    },
+    {
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "Cornucopia of Garden Bounty",
+      "asset": "P011",
+      "approved_text": [],
+      "production_notes": "Ensure the horn opening and every food item have unambiguous enclosed outlines. Lower-corner border must not crowd the spilled produce."
+    },
+    {
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "Harvest Market Stall",
+      "asset": "P012",
+      "approved_text": [],
+      "production_notes": "Final-page composition check: exactly 6 distinct crates in the stated left-to-right order, plus 2 hanging herb bundles. Keep the oval sign blank to avoid generated misspellings. Include no people, characters, Halloween imagery or branded signage."
+    }
+  ],
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "book": {
+    "pages": [
+      {
+        "page_number": 1,
+        "title": "Harvest Market",
+        "page_type": "cover",
+        "role": "cover",
+        "asset": "P001"
+      },
+      {
+        "page_number": 2,
+        "title": "Apple Crate Abundance",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P002"
+      },
+      {
+        "page_number": 3,
+        "title": "Pumpkin and Squash Stall",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P003"
+      },
+      {
+        "page_number": 4,
+        "title": "Orchard Harvest Basket",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P004"
+      },
+      {
+        "page_number": 5,
+        "title": "Herb Market Bundles",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P005"
+      },
+      {
+        "page_number": 6,
+        "title": "Root Vegetable Barrow",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P006"
+      },
+      {
+        "page_number": 7,
+        "title": "Late Harvest Table",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P007"
+      },
+      {
+        "page_number": 8,
+        "title": "Sunflower Market Bucket",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P008"
+      },
+      {
+        "page_number": 9,
+        "title": "Cider Press Harvest",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P009"
+      },
+      {
+        "page_number": 10,
+        "title": "Mushroom and Woodland Basket",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P010"
+      },
+      {
+        "page_number": 11,
+        "title": "Cornucopia of Garden Bounty",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P011"
+      },
+      {
+        "page_number": 12,
+        "title": "Harvest Market Stall",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P012"
+      }
+    ],
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "cover": true
+  },
+  "review_notes": [
+    "Page 1 (cover, P001): check the baked-in text reads exactly \"HARVEST MARKET\", \"Autumn Colouring Pages\"."
+  ]
+}

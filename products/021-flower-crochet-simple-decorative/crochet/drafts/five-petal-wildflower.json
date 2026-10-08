@@ -1,0 +1,75 @@
+{
+  "pattern_id": "five-petal-wildflower",
+  "name": "Five-Petal Wildflower",
+  "category": "flower",
+  "difficulty": "beginner",
+  "finished_size": "About 5 cm across",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn, petal colour",
+      "colour": "Soft blush or cream",
+      "amount": "About 1 g"
+    },
+    {
+      "description": "Fine cotton yarn, centre colour",
+      "colour": "Soft yellow",
+      "amount": "About 1 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "MR": "magic ring",
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round"
+  },
+  "gauge": "Gauge is not critical; use a firm tension so the small petals hold their rounded shape.",
+  "instructions": [
+    {
+      "heading": "Flower",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With centre yarn, make an MR. Ch 1, work 5 sc into the MR. Pull the ring closed and join with a sl st in the first sc. Fasten off, leaving a 10 cm tail.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Join petal yarn with a sl st in any centre st. In that same st, work (sc, hdc, dc, hdc, sc). In each of the next 4 centre sts, work (sc, hdc, dc, hdc, sc).",
+          "stitch_count": 25
+        }
+      ]
+    }
+  ],
+  "assembly_required": false,
+  "finishing": [
+    "Fasten off the petal yarn, leaving a 12 cm tail if the flower will be sewn to a hoop or stem.",
+    "Weave the centre yarn end and any unused petal yarn end into the reverse side of the flower.",
+    "Gently spread the five petals with your fingers so they sit evenly around the centre."
+  ],
+  "notes": [
+    "To secure the flower to a botanical hoop arrangement, use the long petal-yarn tail to sew through the flower centre and around the chosen stem or hoop covering."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

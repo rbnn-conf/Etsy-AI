@@ -1,0 +1,294 @@
+{
+  "pattern_id": "falling-leaves-table-runner",
+  "name": "Falling Leaves Table Runner",
+  "category": "table runner",
+  "difficulty": "intermediate",
+  "finished_size": "About 100 cm long by 28 cm wide",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for the runner",
+      "colour": "Warm oatmeal or natural",
+      "amount": "About 250 g (625 m)"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E-4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "Blocking mat and rustproof pins"
+  ],
+  "stitches_used": [
+    "ch",
+    "hdc",
+    "dc2tog"
+  ],
+  "abbreviations": {
+    "BLO": "back loop only",
+    "ch": "chain",
+    "dc2tog": "double crochet two together",
+    "hdc": "half double crochet",
+    "sk": "skip",
+    "sp": "space",
+    "st": "stitch",
+    "sts": "stitches"
+  },
+  "gauge": "20 hdc and 20 rows = 10 cm measured over the textured fabric. Check gauge to achieve the stated length and width.",
+  "instructions": [
+    {
+      "heading": "Centre Panel",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 57. Hdc in the second ch from hook and in each ch across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 2-19",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 20",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 21",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 22-39",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 40",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 41",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 42-59",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 60",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 61",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 62-79",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 80",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 81",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 82-99",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 100",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 101",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 102-119",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 120",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 121",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 122-139",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 140",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 141",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Rows 142-159",
+          "text": "Ch 1, hdc in BLO of each st across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 160",
+          "text": "Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 161",
+          "text": "Ch 1, hdc in each st and each ch-1 sp across. Cut yarn, pull the tail through the final loop, and leave a 20 cm tail.",
+          "stitch_count": 56
+        }
+      ]
+    },
+    {
+      "heading": "Tapered Ends (make 2)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 57. Hdc in the second ch from hook and in each ch across; turn.",
+          "stitch_count": 56
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 54
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 52
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 50
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 48
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 46
+        },
+        {
+          "label": "Row 7",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 44
+        },
+        {
+          "label": "Row 8",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 42
+        },
+        {
+          "label": "Row 9",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 40
+        },
+        {
+          "label": "Row 10",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 38
+        },
+        {
+          "label": "Row 11",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 36
+        },
+        {
+          "label": "Row 12",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 34
+        },
+        {
+          "label": "Row 13",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 32
+        },
+        {
+          "label": "Row 14",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Row 15",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 16",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 26
+        },
+        {
+          "label": "Row 17",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Row 18",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 22
+        },
+        {
+          "label": "Row 19",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn.",
+          "stitch_count": 20
+        },
+        {
+          "label": "Row 20",
+          "text": "Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog. Cut yarn, pull the tail through the final loop, and leave a 20 cm tail.",
+          "stitch_count": 18
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Lay the centre panel wrong side up. Align the foundation edge of one tapered end with Row 1 of the centre panel, matching all 56 stitches, and mattress-stitch the full width with matching yarn.",
+    "Align the foundation edge of the second tapered end with Row 161 of the centre panel, matching all 56 stitches, and mattress-stitch the full width with matching yarn."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining active loops by cutting the yarn and pulling each tail through its final loop.",
+    "Weave in all yarn tails on the wrong side, following the stitch path to keep the seams flat.",
+    "Lightly wet-block the runner to the stated measurements, shaping both tapered ends evenly. Pin flat and allow it to dry completely."
+  ],
+  "notes": [
+    "The turning ch 1 does not count as a st throughout.",
+    "Each eyelet row contains 49 hdc and seven ch-1 sps; count each ch-1 sp as one position for a width of 56.",
+    "The eight eyelet rows create aligned channels that can guide the placement of separately made leaf appliqués."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

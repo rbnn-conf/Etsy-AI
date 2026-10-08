@@ -1,0 +1,9 @@
+{
+  "id": "A04",
+  "treatment": "economy",
+  "prompt": "Redraw this original bottom-right rose corner as a refined BLACK-INK ONLY copperplate engraving for ink-economy white-paper printing. Preserve its connected botanical anatomy and bottom-right L silhouette opening upper-left. Thin neutral dark-charcoal contours R=G=B only, sparse widely spaced hatch strokes, open transparent interiors. No colours, tonal washes or large solid ink masses. Actual transparent RGBA background, no paper, text, signature or shadow. Entire illustration must sit well INSIDE all canvas boundaries, with ample fully transparent margin around every thorn, leaf and tendril. Nothing touches any canvas edge. Highest native resolution.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-eb472960-1767-4b08-9103-0c450f5f6115.png",
+  "reason": "Final source-boundary check found an opaque perimeter pixel; redraw supplies clear transparent margins.",
+  "rejectedFile": "rejected/A04-economy-v1.png",
+  "visualQc": "pending"
+}

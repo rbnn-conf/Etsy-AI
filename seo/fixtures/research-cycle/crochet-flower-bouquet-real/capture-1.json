@@ -1,0 +1,120 @@
+{
+  "fixture": "REAL owner-captured Marketplace Insights for the Crochet Flower Bouquet Pattern Bundle (Prompt 3, 2026-09-29). 8 terms, each opened individually by the owner (confirmed). Values shown as k are Etsy-rounded. No trend and no capture date were supplied: they stay null (never guessed). Primary term chosen by the owner: crochet flower bouquet pattern; crochet flower wall hanging is a low-priority observation.",
+  "recorded_at": "2026-09-29T00:00:00.000Z",
+  "recorded_by": "owner",
+  "note": "Owner-supplied capture, Prompt 3",
+  "rows": [
+    {
+      "keyword": "crochet flower bouquet pattern",
+      "searches_30d": 552,
+      "search_results": 11800,
+      "conversion_label": "high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 552; search results shown as 11.8k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "crochet flower pattern",
+      "searches_30d": 3100,
+      "search_results": 108800,
+      "conversion_label": "high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 3.1k (Etsy-rounded); search results shown as 108.8k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "flower crochet pattern",
+      "searches_30d": 1700,
+      "search_results": 94600,
+      "conversion_label": "very_high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 1.7k (Etsy-rounded); search results shown as 94.6k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "crochet plant pattern",
+      "searches_30d": 1100,
+      "search_results": 23300,
+      "conversion_label": "high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 1.1k (Etsy-rounded); search results shown as 23.3k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "crochet sunflower pattern",
+      "searches_30d": 606,
+      "search_results": 27300,
+      "conversion_label": "very_high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 606; search results shown as 27.3k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "crochet rose pattern",
+      "searches_30d": 562,
+      "search_results": 20300,
+      "conversion_label": "very_high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 562; search results shown as 20.3k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "crochet bouquet pattern",
+      "searches_30d": 560,
+      "search_results": 13300,
+      "conversion_label": "typical",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 560; search results shown as 13.3k (Etsy-rounded)."
+      }
+    },
+    {
+      "keyword": "crochet flower wall hanging",
+      "searches_30d": 735,
+      "search_results": 7600,
+      "conversion_label": "very_low",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Supplied by the owner on 2026-09-29 (Prompt 3), each term opened on its own Marketplace Insights page (owner confirmed). Period: last 30 days. Capture date not stated. Trend not supplied. searches shown as 735; search results shown as 7.6k (Etsy-rounded)."
+      }
+    }
+  ]
+}

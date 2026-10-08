@@ -1,0 +1,118 @@
+{
+  "pattern_id": "lace-queen-annes",
+  "name": "Lace Queen Anne's",
+  "category": "flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 10 cm across; stem length varies with tension.",
+  "yarn": [
+    {
+      "description": "Mercerised cotton crochet thread for the umbel, florets and stem",
+      "colour": "Moonlit ivory",
+      "amount": "About 8 g"
+    }
+  ],
+  "yarn_weight": "0-lace",
+  "hook_size": {
+    "mm": 1.5,
+    "us": "US 8 steel"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "18 cm length of 26-gauge floral wire",
+    "Wire cutters",
+    "Stitch markers",
+    "Blocking pins and blocking mat"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "MR": "magic ring"
+  },
+  "gauge": "Gauge is not critical. Keep a firm, even tension so the umbel lies flat and the florets hold their shape.",
+  "instructions": [
+    {
+      "heading": "Centre",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Work 8 sc in an MR. Join with a sl st to the first sc.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Work 2 sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 16
+        }
+      ]
+    },
+    {
+      "heading": "Spokes",
+      "steps": [
+        {
+          "label": "Make 8",
+          "text": "Ch 20. Starting in the second ch from hook, sl st in the next 4 ch; ch 5, sl st in the same ch. Sl st in the next 4 ch; ch 5, sl st in the same ch. Sl st in the next 4 ch; ch 5, sl st in the same ch. Sl st in the remaining 7 ch. Each spoke has 3 ch-5 loops.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Tiny Florets",
+      "steps": [
+        {
+          "label": "Make 32: Rnd 1",
+          "text": "Work 5 sc in an MR. Join with a sl st to the first sc.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "In each sc around, work ch 2, dc, ch 2, and sl st in the same sc. This makes 5 petals.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Stem",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 80. Starting in the second ch from hook, sl st in each ch across to make a narrow stem cord.",
+          "stitch_count": 79
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Arrange the 8 spokes evenly on the reverse of the centre, with each starting-chain end meeting the centre. Sew one spoke end beneath every second st of Centre Rnd 2.",
+    "Sew 1 floret to the tip of each ch-5 loop on every spoke, using the floret yarn tails. This attaches 24 florets.",
+    "Sew 1 floret to the free outer end of every spoke, using the remaining 8 florets.",
+    "Trim the floral wire so it is 1 cm shorter than the stem cord. Bend 1 cm at one end into a small hook.",
+    "Place the hooked wire end beneath the centre and stitch it securely to the reverse. Lay the wire along the reverse of the stem cord and tack it in place at 3 cm intervals.",
+    "Sew the upper end of the stem cord to the reverse centre, covering the hooked wire end. Keep the stem centred beneath the umbel."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the centre, each spoke and the stem, leaving tails long enough for their assembly seams.",
+    "Fasten off each floret, leaving an 8 cm tail for sewing it to a spoke.",
+    "Weave in all remaining yarn ends on the reverse, taking care not to distort the open loops or petals.",
+    "Lightly wet-block the umbel flat, arranging the spokes evenly and opening each floret petal. Allow it to dry completely.",
+    "Gently bend the wired stem into a natural curve after the blocked umbel is fully dry."
+  ],
+  "notes": [
+    "Use the same side of every spoke as the visible front so the slip-stitch cords form a consistent lace-like texture.",
+    "For a fuller flower head, make 8 additional florets and sew one beside each outer spoke floret."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,31 @@
+{
+  "illustration_style": "Original festive adult colouring-book illustration in expressive black fineliner, combining cosy architectural storytelling with decorative seasonal pattern work.",
+  "line_weight": "Fine-to-medium variable black outlines, with slightly heavier outer contours and foreground framing elements.",
+  "line_quality": "Clean, confident hand-inked contours; gently imperfect organic curves; precise architectural marks; controlled short hatching.",
+  "detail_level": "High but colourable detail: layered environmental motifs, architectural trims and small festive accents balanced with generous enclosed areas for pencils and pens.",
+  "character_language": "Stylised storybook figures, if included, with simple readable silhouettes, warm restrained expressions and uncluttered facial features.",
+  "background_density": "Richly detailed, deep-view backgrounds built in receding layers; distant elements simplify to preserve clear focal areas.",
+  "composition": "Framed-viewpoint compositions with a strong visual threshold, clear focal hierarchy, layered depth and deliberate breathing room within major colourable shapes.",
+  "palette": "Monochrome artwork only; line design should support a colourist’s own winter-night palette of deep blue, evergreen, berry red, warm gold and soft ivory.",
+  "colour_mode": "black-and-white line art",
+  "shading": "Minimal contour-following hatching, sparse stippling and selective black fills to imply night-time contrast without pre-colouring or muddying the page.",
+  "texture": "Crisp uncoated-paper ink feel, with patterned surface details expressed through simple repeatable marks rather than grey tonal rendering.",
+  "mood": "Magical, intimate, nostalgic and quietly festive.",
+  "age_suitability": "adults and teens",
+  "print_considerations": "Pure black linework on white, no grey wash or full-bleed black areas; maintain strong contrast and open colourable sections for reliable home printing on A4 or US Letter. Keep essential artwork safely inset from trim edges and avoid overly fragile micro-detail.",
+  "shared_prompt": "Original adult Christmas colouring-book art in expressive black fineliner on clean white paper: confident variable-weight contours, crisp hand-inked architectural detail, gentle organic curves, high but colourable patterned detail, spacious enclosed shapes, sparse contour hatching and stippling, selective black accents, deep layered storytelling, magical intimate winter-night mood, monochrome only, home-print-friendly.",
+  "avoid": [
+    "Any copyrighted characters, logos, brand imagery or recognisable existing colouring-book compositions",
+    "Photorealism, painterly greyscale rendering, colour fills or watercolour effects",
+    "Overcrowded micro-detail, muddy tonal shading or large solid-black ink areas",
+    "Thin broken outlines, inconsistent perspective or illegible architectural forms",
+    "Misspelled text, decorative pseudo-text or unreliable generated lettering",
+    "Childish cartoon styling, exaggerated kawaii features or overly cutesy expressions"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-09-28T16:36:34.303Z"
+}

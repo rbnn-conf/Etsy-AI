@@ -1,0 +1,146 @@
+{
+  "product_id": "017",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-06T10:30:35.065Z",
+  "finished_at": "2026-10-06T10:31:03.561Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSHARED STYLE (style only): illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.; print considerations: High-contrast black line art on white backgrounds, suitable for A4 and US Letter home printing. Keep all essential artwork comfortably inside safe margins, use closed colouring shapes, and avoid hairline details, large ink-heavy fills and edge-to-edge elements..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.; linework: Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.; texture: Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.; composition density: High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.; background: Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.; mood: Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example..\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Autumn colouring book 10 pages different scenes\".\nConcept \"Autumn Garden Wildlife Colouring Book\": a colouring book for Families and children ages 6+ who enjoy gentle nature-themed colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Garden wildlife\n- Scene: Autumn community garden\n- Focal object: Seed packet basket\n- Composition: Low garden viewpoint with wildlife vignette and leafy framing\n- Lighting: Soft clear autumn morning\n- Palette emphasis: Open leaf, soil, flowerpot and fruit colouring areas\n- Mood: Gentle, curious and comforting\n- Typography: No typography; illustration-only cover\n- Distinguishing hook: Tiny wildlife discoveries among garden tasks\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Neighbourhood residents / Rainy autumn high street / Striped umbrella / Bright post-rain daylight\n- C: Train travellers / Autumn countryside railway / Vintage steam train / Golden late-afternoon light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T10:30:44.690Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Autumn Garden Wildlife Colouring Book",
+        "tagline": "Gentle garden scenes for family colouring",
+        "product_type": "Autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Families and children ages 6+ who enjoy gentle nature-themed colouring",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "10 distinct black-and-white colouring pages",
+          "Printable cover page",
+          "Printing guide"
+        ],
+        "short_description": "A 10-page autumn colouring book set in a welcoming garden. Pages feature a hedgehog by a compost bin, robin at a bird feeder, squirrel gathering acorns, snail on a cabbage leaf, frog beside a pond, mouse in a shed, sleeping cat among flowerpots, apple tree harvest, seed-saving table and a leafy garden gate.",
+        "key_features": [
+          "10 different autumn garden scenes",
+          "Bold, closed shapes for easy colouring",
+          "Friendly wildlife and home-garden details",
+          "Black-and-white A4 and US Letter printable pages",
+          "No text required within the illustrations"
+        ],
+        "visual_direction_summary": "A gentle wildlife-focused route with close-up garden discoveries, broad colourable foliage and familiar autumn garden routines.",
+        "visual_route": {
+          "primary_subject": "Garden wildlife",
+          "scene": "Autumn community garden",
+          "focal_object": "Seed packet basket",
+          "composition": "Low garden viewpoint with wildlife vignette and leafy framing",
+          "lighting": "Soft clear autumn morning",
+          "palette_emphasis": "Open leaf, soil, flowerpot and fruit colouring areas",
+          "emotional_tone": "Gentle, curious and comforting",
+          "typography_approach": "No typography; illustration-only cover",
+          "distinguishing_visual_hook": "Tiny wildlife discoveries among garden tasks"
+        },
+        "preview_brief": "A hedgehog pauses beside a seed packet basket in a leafy autumn garden, with a watering can, pumpkins and broad falling leaves around it. The portrait cover uses a clear central vignette and an open sky area for optional title placement."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSHARED STYLE (style only): illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.; print considerations: High-contrast black line art on white backgrounds, suitable for A4 and US Letter home printing. Keep all essential artwork comfortably inside safe margins, use closed colouring shapes, and avoid hairline details, large ink-heavy fills and edge-to-edge elements..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.; linework: Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.; texture: Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.; composition density: High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.; background: Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.; mood: Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example..\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Autumn colouring book 10 pages different scenes\".\nConcept \"Rainy Day Autumn Town Colouring Book\": a colouring book for Families and children ages 6+ who enjoy cosy town colouring scenes.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Neighbourhood residents\n- Scene: Rainy autumn high street\n- Focal object: Striped umbrella\n- Composition: Street-level scene with shopfront rhythm and central puddle\n- Lighting: Bright post-rain daylight\n- Palette emphasis: Open umbrellas, brickwork, windows and fallen leaves\n- Mood: Cheerful, bustling and cosy\n- Typography: No typography; illustration-only cover\n- Distinguishing hook: Playful puddle splashes beneath oversized umbrellas\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Garden wildlife / Autumn community garden / Seed packet basket / Soft clear autumn morning\n- C: Train travellers / Autumn countryside railway / Vintage steam train / Golden late-afternoon light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T10:30:53.597Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Rainy Day Autumn Town Colouring Book",
+        "tagline": "Cosy neighbourhood scenes after the rain",
+        "product_type": "Autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Families and children ages 6+ who enjoy cosy town colouring scenes",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "10 distinct black-and-white colouring pages",
+          "Printable cover page",
+          "Printing guide"
+        ],
+        "short_description": "A 10-page autumn town colouring book celebrating puddles, shopfronts and neighbourhood journeys. Scenes include a bus stop in drizzle, bakery window, library return desk, market bicycle, rainy playground, street sweeper, florist doorway, parcel delivery, park bandstand and a lamplit town square.",
+        "key_features": [
+          "10 distinct rainy-day neighbourhood scenes",
+          "Cosy town details with broad colourable surfaces",
+          "Clear focal action on every page",
+          "Bold black-and-white printable line art",
+          "Suitable for A4 and US Letter home printing"
+        ],
+        "visual_direction_summary": "A lively yet cosy urban autumn route centred on everyday town places, puddles and welcoming neighbourhood activity.",
+        "visual_route": {
+          "primary_subject": "Neighbourhood residents",
+          "scene": "Rainy autumn high street",
+          "focal_object": "Striped umbrella",
+          "composition": "Street-level scene with shopfront rhythm and central puddle",
+          "lighting": "Bright post-rain daylight",
+          "palette_emphasis": "Open umbrellas, brickwork, windows and fallen leaves",
+          "emotional_tone": "Cheerful, bustling and cosy",
+          "typography_approach": "No typography; illustration-only cover",
+          "distinguishing_visual_hook": "Playful puddle splashes beneath oversized umbrellas"
+        },
+        "preview_brief": "Friendly neighbourhood residents gather at a rainy autumn bus stop, holding oversized umbrellas around a wide puddle filled with floating leaves. Shopfronts and a passing double-decker bus create a cheerful, easy-to-colour town backdrop."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSHARED STYLE (style only): illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.; print considerations: High-contrast black line art on white backgrounds, suitable for A4 and US Letter home printing. Keep all essential artwork comfortably inside safe margins, use closed colouring shapes, and avoid hairline details, large ink-heavy fills and edge-to-edge elements..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.; linework: Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.; texture: Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.; composition density: High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.; background: Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.; mood: Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example..\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Autumn colouring book 10 pages different scenes\".\nConcept \"Autumn Railway Journey Colouring Book\": a colouring book for Families and children ages 6+ who enjoy transport and storybook colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Train travellers\n- Scene: Autumn countryside railway\n- Focal object: Vintage steam train\n- Composition: Wide rail journey scene with train as sweeping focal line\n- Lighting: Golden late-afternoon light\n- Palette emphasis: Open train panels, hills, trees and travel luggage\n- Mood: Adventurous, nostalgic and peaceful\n- Typography: No typography; illustration-only cover\n- Distinguishing hook: Storybook train winding through falling leaves\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Garden wildlife / Autumn community garden / Seed packet basket / Soft clear autumn morning\n- B: Neighbourhood residents / Rainy autumn high street / Striped umbrella / Bright post-rain daylight\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-10-06T10:31:03.557Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Autumn Railway Journey Colouring Book",
+        "tagline": "A storybook train trip through autumn",
+        "product_type": "Autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Families and children ages 6+ who enjoy transport and storybook colouring",
+        "page_count": 10,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "10 distinct black-and-white colouring pages",
+          "Printable cover page",
+          "Printing guide"
+        ],
+        "short_description": "A 10-page autumn railway colouring book following a charming countryside train trip. Pages include ticket booth arrival, luggage trolley, platform farewell, train crossing a viaduct, dining carriage, woodland tunnel, signal box, lakeside stop, apple-orchard station and an evening journey home.",
+        "key_features": [
+          "10 connected but independently colourable railway scenes",
+          "Landscape compositions with clear train silhouettes",
+          "Friendly traveller characters and countryside details",
+          "Generous colouring areas with simple layered scenery",
+          "Black-and-white A4 and US Letter printable pages"
+        ],
+        "visual_direction_summary": "A transport-led autumn route that uses wide scenic views, railway details and a gentle journey narrative without relying on text.",
+        "visual_route": {
+          "primary_subject": "Train travellers",
+          "scene": "Autumn countryside railway",
+          "focal_object": "Vintage steam train",
+          "composition": "Wide rail journey scene with train as sweeping focal line",
+          "lighting": "Golden late-afternoon light",
+          "palette_emphasis": "Open train panels, hills, trees and travel luggage",
+          "emotional_tone": "Adventurous, nostalgic and peaceful",
+          "typography_approach": "No typography; illustration-only cover",
+          "distinguishing_visual_hook": "Storybook train winding through falling leaves"
+        },
+        "preview_brief": "A small vintage steam train curves across a countryside viaduct while friendly travellers wave from the windows and leaves drift over rolling hills. The landscape cover gives the train a strong sweeping focal line with broad, colourable scenery."
+      }
+    }
+  ]
+}

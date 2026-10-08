@@ -1,0 +1,15 @@
+{
+  "name": "@dpf/automation",
+  "private": true,
+  "type": "module",
+  "description": "Stage 1 creative orchestrator (ADR-023): Telegram product request -> OpenAI concepts/spec -> 3 proof images -> owner approval. Separate from the deterministic production pipeline (ADR-013).",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=../.env src/bot.mjs",
+    "check-config": "node --env-file-if-exists=../.env src/bot.mjs --check-config",
+    "test": "node --test test/*.test.mjs",
+    "seo:import-cycle": "node --env-file-if-exists=../.env scripts/seo-import-cycle.mjs"
+  }
+}

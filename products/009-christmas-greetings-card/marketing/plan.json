@@ -1,0 +1,260 @@
+{
+  "format": "greeting-card",
+  "campaign": "cozy-premium-christmas",
+  "strategy": {
+    "family": "greeting_card",
+    "theme": "christmas",
+    "visual_marketing_mood": "premium cosy traditional Christmas"
+  },
+  "slides": [
+    {
+      "template": "hero",
+      "scene": "tabletop",
+      "density": "rich lifestyle",
+      "purpose": "Stop the scroll: both real card fronts on a festive tabletop.",
+      "min_product_share": 0.4,
+      "id": "01-hero",
+      "copy": {
+        "headline": {
+          "text": "Printable Christmas \nGreeting Cards"
+        },
+        "subline": {
+          "text": "two beautiful designs in one set",
+          "claim": [
+            "design-count",
+            "two designs"
+          ]
+        }
+      }
+    },
+    {
+      "template": "designs",
+      "scene": "tabletop",
+      "density": "lifestyle / product",
+      "purpose": "Every design in the set, large and labelled.",
+      "min_product_share": 0.3,
+      "id": "02-designs",
+      "copy": {
+        "headline": {
+          "text": "2 card designs\nincluded",
+          "claim": [
+            "design-count",
+            "2 card designs"
+          ]
+        }
+      }
+    },
+    {
+      "template": "inside",
+      "inside": 0,
+      "scene": "inside",
+      "density": "lifestyle / detail",
+      "purpose": "The real inside, shown as an open card.",
+      "min_product_share": 0.18,
+      "id": "03-inside",
+      "copy": {
+        "headline": {
+          "text": "A beautiful\ninside message",
+          "claim": [
+            "inside",
+            "Inside message"
+          ]
+        },
+        "subline": {
+          "text": "The same illustrated inside\nfor both designs.",
+          "claim": [
+            "inside",
+            "Shared inside message"
+          ]
+        }
+      }
+    },
+    {
+      "template": "included",
+      "density": "structured information",
+      "purpose": "Everything in the download, as real miniatures.",
+      "min_product_share": 0.12,
+      "id": "04-included",
+      "copy": {
+        "headline": {
+          "text": "What’s included?"
+        }
+      }
+    },
+    {
+      "template": "design",
+      "design": "A",
+      "side": "left",
+      "env": "forest",
+      "density": "artwork hero",
+      "purpose": "Design A (Merry Christmas) at near full size.",
+      "min_product_share": 0.45,
+      "id": "05-design-a",
+      "copy": {
+        "headline": {
+          "text": "Merry\nChristmas",
+          "claim": [
+            "design-name",
+            "Merry Christmas"
+          ]
+        },
+        "kicker": {
+          "text": "Design A",
+          "claim": [
+            "design-name",
+            "Design A"
+          ]
+        }
+      }
+    },
+    {
+      "template": "design",
+      "design": "B",
+      "side": "right",
+      "env": "berry",
+      "density": "artwork hero",
+      "purpose": "Design B (Christmas Wishes) at near full size.",
+      "min_product_share": 0.45,
+      "id": "06-design-b",
+      "copy": {
+        "headline": {
+          "text": "Christmas\nWishes",
+          "claim": [
+            "design-name",
+            "Christmas Wishes"
+          ]
+        },
+        "kicker": {
+          "text": "Design B",
+          "claim": [
+            "design-name",
+            "Design B"
+          ]
+        }
+      }
+    },
+    {
+      "template": "print",
+      "scene": "print",
+      "density": "lifestyle / process",
+      "purpose": "Print at home: the real sheet and the four steps.",
+      "min_product_share": 0.18,
+      "id": "07-print",
+      "copy": {
+        "headline": {
+          "text": "Print at home",
+          "claim": [
+            "digital",
+            "Print at home"
+          ]
+        },
+        "subline": {
+          "text": "Create beautiful cards\nin a few simple steps."
+        }
+      }
+    },
+    {
+      "template": "sizes",
+      "density": "stationery / information",
+      "purpose": "Paper sizes produced, shown as real renders.",
+      "min_product_share": 0.28,
+      "id": "08-sizes",
+      "copy": {
+        "headline": {
+          "text": "Multiple sizes\nfor easy printing"
+        }
+      }
+    },
+    {
+      "template": "gift",
+      "scene": "gift",
+      "tone": true,
+      "density": "emotional lifestyle",
+      "purpose": "A finished card in a warm gifting moment.",
+      "min_product_share": 0.2,
+      "id": "09-gift",
+      "copy": {
+        "headline": {
+          "text": "A thoughtful card\nfor loved ones"
+        },
+        "subline": {
+          "text": "A warm way to share Christmas wishes with family, friends and neighbours.",
+          "by": "model"
+        }
+      }
+    },
+    {
+      "template": "digital",
+      "density": "clean information",
+      "purpose": "Digital download: what you get, nothing shipped.",
+      "min_product_share": 0.12,
+      "id": "10-digital",
+      "copy": {
+        "headline": {
+          "text": "Digital download",
+          "claim": [
+            "digital",
+            "Digital download"
+          ]
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "tabletop",
+      "purpose": "Hero and two-design tabletop.",
+      "used_by": [
+        "01-hero",
+        "02-designs"
+      ],
+      "brief": "Weathered oak tabletop with soft cream linen, sprigs of frosted fir, cinnamon sticks and a small brass taper holder. Gentle window light with warm amber highlights; palette of deep pine, cranberry, ivory and antique gold.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nPremium cosy Christmas product-photography environment: warm walnut tabletop seen from slightly above, evergreen branches, red holly berries and subtle pinecones along the top and side edges, a lit candle, soft golden Christmas-light bokeh in the background, shallow depth of field, elegant traditional British Christmas mood. Keep a large clear tabletop area in the centre and lower middle, reserved for products added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: Weathered oak tabletop with soft cream linen, sprigs of frosted fir, cinnamon sticks and a small brass taper holder. Gentle window light with warm amber highlights; palette of deep pine, cranberry, ivory and antique gold.\nMood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, any other animal, people, hands.",
+      "file": "marketing/scenes/tabletop.png",
+      "sha256": "ed1e3a75079dd94ce31b19978e146e4e05ba22b2f4113128c2bae617df2635e2",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "gift",
+      "purpose": "A warm Christmas gifting moment.",
+      "used_by": [
+        "09-gift"
+      ],
+      "brief": "Cosy walnut surface with a folded tartan wool throw, pine sprigs, velvet ribbon and softly glowing warm fairy lights in the background. Low golden evening light; rich burgundy, forest green, cream and muted gold.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nChristmas gifting still life: a wrapped present with kraft paper and red velvet ribbon and one blank, unmarked kraft envelope placed at the left edge, evergreen and berries, a candle, warm golden bokeh from a blurred Christmas tree behind, rich and cosy. Keep the centre and right of the tabletop clear for a product added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: Cosy walnut surface with a folded tartan wool throw, pine sprigs, velvet ribbon and softly glowing warm fairy lights in the background. Low golden evening light; rich burgundy, forest green, cream and muted gold.\nMood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, any other animal, people, hands.\nThe only paper item allowed is the one blank, unmarked kraft envelope described above, with nothing written or printed on it.",
+      "file": "marketing/scenes/gift.png",
+      "sha256": "bb6e5006632cf50ca56b7eec53ce05096943fe4175cdccc86291817ff2209697",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "print",
+      "purpose": "A home printing corner.",
+      "used_by": [
+        "07-print"
+      ],
+      "brief": "Quiet home desk in pale oak, with a ceramic mug, a small evergreen clipping in a stoneware vase and a few cinnamon sticks. Clean morning window light, soft shadows and a restrained palette of warm white, sage, pine and natural wood.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nWarm, tidy home desk at Christmas: a modern white home printer on the far left of the desk with an empty paper tray, a small potted fir sprig, a mug, warm window light and golden fairy-light bokeh behind. Keep the right half and the whole foreground of the desk clear and empty for products added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: Quiet home desk in pale oak, with a ceramic mug, a small evergreen clipping in a stoneware vase and a few cinnamon sticks. Clean morning window light, soft shadows and a restrained palette of warm white, sage, pine and natural wood.\nMood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, any other animal, people, hands.\nThe printer must be empty: no paper in it or near it.",
+      "file": "marketing/scenes/print.png",
+      "sha256": "a53f9f5e5b85f734406b79640c08a7ef463be41db3ced6dbcc373612f7038414",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "inside",
+      "purpose": "An open card on a calm festive surface.",
+      "used_by": [
+        "03-inside"
+      ],
+      "brief": "Calm cream linen surface with a subtle knit texture, scattered fir tips and a single cinnamon stick. Diffused winter daylight with soft warm reflections; palette of ivory, muted green, soft taupe and understated gold.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nClose, calm Christmas tabletop in warm candlelight: cream linen runner over dark wood, a few sprigs of fir and holly with berries at the right and top edges, soft warm bokeh behind, gentle shadows, quiet and intimate. Keep the centre and left two-thirds clear and even for a product added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: Calm cream linen surface with a subtle knit texture, scattered fir tips and a single cinnamon stick. Diffused winter daylight with soft warm reflections; palette of ivory, muted green, soft taupe and understated gold.\nMood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, any other animal, people, hands.",
+      "file": "marketing/scenes/inside.png",
+      "sha256": "91ee917d7c9247cb2d3e4b429dadca22843182ac29cb8ececc3c5dec54e220ab",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-09-27T23:41:08.212Z"
+}

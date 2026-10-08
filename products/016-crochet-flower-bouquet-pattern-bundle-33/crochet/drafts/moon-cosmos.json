@@ -1,0 +1,85 @@
+{
+  "pattern_id": "moon-cosmos",
+  "name": "Moon Cosmos",
+  "category": "flower",
+  "difficulty": "easy",
+  "finished_size": "About 7 cm across",
+  "yarn": [
+    {
+      "description": "Cotton yarn, petal colour",
+      "colour": "Moonlit ivory",
+      "amount": "About 8 m"
+    },
+    {
+      "description": "Cotton yarn, textured centre",
+      "colour": "Soft golden yellow",
+      "amount": "About 2 m"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1/C-2"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "Blocking pins and mat"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "puff"
+  ],
+  "abbreviations": {
+    "ch": "chain stitch",
+    "dc": "double crochet",
+    "hdc": "half double crochet",
+    "MR": "magic ring",
+    "puff": "puff stitch",
+    "rep": "repeat",
+    "Rnd": "round",
+    "sc": "single crochet",
+    "sl st": "slip stitch",
+    "sp": "space",
+    "st": "stitch",
+    "yo": "yarn over"
+  },
+  "gauge": "Gauge is not critical; use a firm tension so the centre is textured and the petals hold their slender shape.",
+  "instructions": [
+    {
+      "heading": "Moon Cosmos Flower",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With centre yarn, work 8 sc in an MR; sl st in first sc to join.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 2",
+          "text": "ch 1, puff in each sc around; sl st in first puff to join.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Join petal yarn with a sl st in any sp between puffs. Work ch 8, sc in 2nd ch from hook, hdc in next ch, dc in each of next 4 ch, hdc in last ch, sl st in the same sp, sl st in next sp. Rep this sequence in the next sp 6 times. Work ch 8, sc in 2nd ch from hook, hdc in next ch, dc in each of next 4 ch, hdc in last ch, sl st in the same sp, then sl st in the first sp.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off both yarns securely after completing the flower.",
+    "Weave in all yarn tails on the reverse side without pulling the centre out of shape.",
+    "Lightly mist-block the flower, pinning the eight petals into an open, dancing shape. Let it dry completely before use."
+  ],
+  "notes": [
+    "puff: yo, insert hook in the indicated st, yo and pull up a loop; rep this two more times, yo and pull through all 7 loops on hook.",
+    "The eight petals are worked around the centre spaces in the final round."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

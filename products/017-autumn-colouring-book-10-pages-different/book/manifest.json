@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "product_id": "017",
+  "product_name": "Autumn Railway Journey Colouring Book",
+  "product_format": "colouring-book",
+  "page_count": 10,
+  "created_at": "2026-10-06T10:33:02.979Z",
+  "source": {
+    "specification_sha256": "635855ebbc2766e86d84f85bdcf5e7c8e85dc0ac63517b17639fb6c945758254",
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1
+    }
+  },
+  "style_reference": {
+    "direction_version": 1,
+    "proof_pages": [
+      2,
+      3,
+      10
+    ],
+    "shared_prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.",
+    "line_weight": "Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.",
+    "line_quality": "Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.",
+    "detail_level": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+    "colour_mode": "black-and-white line art",
+    "shading": "No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.",
+    "background_density": "Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.",
+    "canvas": {
+      "orientation": "landscape",
+      "background": "white",
+      "edge": "safe-margin",
+      "format_notes": "Each landscape page uses a wide, fully contained railway scene with generous closed colouring areas and all essential artwork comfortably inside the safe margins."
+    }
+  },
+  "generation": {
+    "model": "gpt-image-2.5-flare",
+    "size": "1536x1024",
+    "quality": "medium",
+    "note": "Pixel size as generated. No DPI claim: Stage 2 calculates the effective print resolution."
+  },
+  "pages": [
+    {
+      "page_id": "P001",
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Autumn Railway Journey",
+      "scene": "Illustration-only cover showing the signature railway journey scene.",
+      "composition": "A small vintage steam train curves across a tall stone viaduct, sweeping from the lower left towards the upper right. Friendly travellers wave from large train windows while autumn leaves drift through the sky above rolling hills, rounded trees and a distant cottage. Broad viaduct arches and open hill areas create inviting colouring spaces.",
+      "subject": "Illustration-only cover artwork: a charming small vintage steam train curving across a high stone viaduct, travellers waving from the windows, falling autumn leaves, rolling countryside hills, rounded autumn trees and a tiny distant cottage; strong sweeping train line, broad open scenic shapes, no words or lettering.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Cover must contain no title, lettering, badges or creator marks. Keep the locomotive, carriages, viaduct arches, hills and tree canopies as large closed shapes; ensure the full composition remains within landscape safe margins."
+    },
+    {
+      "page_id": "P002",
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Ticket Booth Arrival",
+      "scene": "Travellers arrive at a small countryside station before their train trip.",
+      "composition": "A child traveller and an adult stand beside a simple ticket-booth window holding two plain tickets. A friendly station helper leans from the booth, while a small steam locomotive waits in the background beside a platform lamp, suitcase and two rounded autumn trees.",
+      "subject": "Countryside station arrival scene: child traveller and adult holding two plain unmarked tickets at a small ticket-booth window, friendly station helper at the window, waiting steam locomotive in the background, one suitcase, platform lamp, two rounded autumn trees and a few falling leaves; clear large foreground characters and simple layered station setting, no readable signs.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "The two tickets must be visibly plain with no text. Avoid station signs and timetable text. Keep faces simple and ticket, suitcase, booth and locomotive shapes easy to colour."
+    },
+    {
+      "page_id": "P003",
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Luggage Trolley",
+      "scene": "A porter wheels luggage along the platform towards the train.",
+      "composition": "A smiling porter pushes a sturdy trolley carrying exactly four clearly separate pieces of luggage: one trunk, one round hatbox, one rectangular suitcase and one small travel bag. A child walks alongside holding a leaf, with the train carriage, platform edge and a few autumn shrubs behind them.",
+      "subject": "Railway platform scene: smiling porter pushing a luggage trolley carrying exactly four distinct items, one large trunk, one round hatbox, one rectangular suitcase and one small travel bag; child traveller walking beside trolley holding one autumn leaf, train carriage behind, simple platform edge and autumn shrubs; make all four luggage items separate and clearly countable, no labels.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Solvability/check: trolley contains exactly 4 distinct luggage items, with no additional bags elsewhere on the page. Do not add text labels, luggage tags with writing, or busy platform clutter."
+    },
+    {
+      "page_id": "P004",
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Platform Farewell",
+      "scene": "The train prepares to depart as family members wave goodbye.",
+      "composition": "The vintage steam train pauses at a country platform. A child leans from an open carriage window waving to two relatives on the platform, while another traveller stands at the carriage door with a small bag. A station clock without numbers, a bench, fallen leaves and a low hedge complete the scene.",
+      "subject": "Warm platform farewell scene: vintage steam train paused beside a country platform, child leaning from an open carriage window waving, exactly two relatives on the platform waving back, one traveller at the carriage door holding a small bag, blank-faced station clock without numbers, simple bench, low hedge and scattered autumn leaves; bold readable gestures, no signs.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Check that exactly two farewell relatives stand on the platform and that the clock face has no numerals or lettering. Keep the carriage windows large and uncluttered."
+    },
+    {
+      "page_id": "P005",
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Dining Carriage Picnic",
+      "scene": "Travellers enjoy a cosy snack in the dining carriage.",
+      "composition": "Inside a dining carriage, two child travellers sit at a table looking out of a large window at passing autumn trees. On the table are exactly three simple food items: a round apple, a sandwich triangle and a small cup. A friendly conductor walks down the aisle carrying a plain teapot.",
+      "subject": "Inside a vintage train dining carriage: two child travellers seated at a table beside a large window with autumn trees passing outside, exactly three food items on the table—a round apple, one sandwich triangle and one small cup; friendly conductor walking down the aisle carrying a plain teapot, simple carriage seats and overhead luggage shelf, no menu text.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Check that the table has exactly 3 food items: 1 apple, 1 sandwich triangle, 1 cup. No menu, newspaper, labels or text. Use broad window view and large tableware outlines."
+    },
+    {
+      "page_id": "P006",
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Woodland Tunnel",
+      "scene": "The steam train travels through an autumn woodland tunnel.",
+      "composition": "The locomotive emerges from a rounded brick tunnel portal surrounded by tall woodland trees. Large falling leaves swirl above the track, a rabbit watches from a grassy bank, and the train’s puffing steam forms three large cloud shapes in the open sky area.",
+      "subject": "Autumn woodland railway scene: vintage steam locomotive emerging from a large rounded brick tunnel portal, tall rounded trees framing the tunnel, large autumn leaves swirling over the track, one rabbit watching from a grassy bank, exactly three large separate steam clouds above the locomotive; simple bold tunnel bricks and broad foliage shapes.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Check for exactly 3 separate steam-cloud shapes and one rabbit. Keep tunnel brick detail sparse and sizeable, without dense masonry texture or tiny leaves."
+    },
+    {
+      "page_id": "P007",
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Signal Box Wave",
+      "scene": "A signal worker guides the train past a rural signal box.",
+      "composition": "A friendly signal worker waves from the doorway of a small raised signal box as the steam train passes below. Beside the track stands a semaphore signal with its arm angled upward, while a cat sits on the signal-box steps and autumn fields stretch into the distance.",
+      "subject": "Rural railway signal scene: friendly signal worker waving from the doorway of a small raised signal box, vintage steam train passing below, a semaphore signal beside the track with one arm angled upward, one cat sitting on the signal-box steps, open autumn fields and rounded distant hills; no signal text or signs.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Ensure the semaphore has one clear raised arm and no lettering. Keep the signal box, worker, cat and passing train readable as separate focal elements; use simple field bands rather than dense crops."
+    },
+    {
+      "page_id": "P008",
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Lakeside Stop",
+      "scene": "The train pauses beside a calm lake surrounded by autumn scenery.",
+      "composition": "The train stops at a tiny lakeside platform while three ducks float on the water. Two travellers stand beside the carriage looking across the lake towards a small rowboat and distant hills. Reeds, a wooden bench and a large maple tree frame the open water.",
+      "subject": "Peaceful lakeside railway stop: vintage train at a tiny platform beside a calm lake, exactly three ducks floating on the water, two travellers beside the carriage looking across the lake, one small empty rowboat near the far shore, reeds, wooden bench, large maple tree and distant rounded hills; broad open water shapes, no signs.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Solvability/check: exactly 3 ducks on the lake and exactly 1 rowboat. Keep water mostly open for colouring, using only a few broad ripple contours; no additional birds or boats."
+    },
+    {
+      "page_id": "P009",
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Apple Orchard Station",
+      "scene": "Travellers visit a station beside a ripe autumn orchard.",
+      "composition": "At a small rural station, a child traveller carries a basket containing exactly five large apples. Behind the platform are three apple trees with simple rounded canopies, while the waiting train and a friendly farmer waving from an orchard gate create a gentle layered scene.",
+      "subject": "Autumn apple-orchard station scene: child traveller carrying a basket containing exactly five large separate apples, three apple trees behind a small country platform, waiting vintage train, friendly farmer waving from a simple orchard gate, falling leaves and open countryside; make the five basket apples especially clear and countable, no station sign.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Check that the basket contains exactly 5 large distinct apples. There must be exactly 3 apple trees; apples on the trees may be omitted to prevent count confusion. No text on gates, train or platform."
+    },
+    {
+      "page_id": "P010",
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Evening Journey Home",
+      "scene": "The train heads home through a peaceful autumn evening.",
+      "composition": "The vintage steam train curves through gentle hills towards a small distant station in the evening. Three travellers wave from large carriage windows, while a crescent moon, five simple stars and a line of autumn trees sit above the tracks. A fox watches from the foreground grass.",
+      "subject": "Peaceful autumn evening railway journey: vintage steam train curving through gentle hills towards a small distant station, exactly three travellers waving from large carriage windows, crescent moon above, exactly five simple large stars, line of rounded autumn trees, and one fox watching from foreground grass; calm storybook farewell scene, no lettering.",
+      "required_text": [],
+      "complexity": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements",
+        "The reference sunroom, café or wooden Halloween-stage compositions and their character groupings",
+        "Photorealism, realistic anatomy, elaborate perspective or intricate engraving",
+        "Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas",
+        "Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage",
+        "Misspelled text, illegible lettering or text-dependent page designs"
+      ],
+      "production_notes": "Check that exactly 3 travellers wave from windows, exactly 5 stars appear, and exactly 1 fox is present. Use an unfilled moon and stars with no black night sky or shading; keep the scene within safe margins."
+    }
+  ]
+}

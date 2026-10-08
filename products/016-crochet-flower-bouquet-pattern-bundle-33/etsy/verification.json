@@ -1,0 +1,183 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4589590540,
+      "actual": 4589590540
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4589590540,
+      "actual": 4589590540
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Crochet Flower Bouquet Patterns, 33 Printable PDF Designs in US Terms, Instant Digital Download",
+      "actual": "Crochet Flower Bouquet Patterns, 33 Printable PDF Designs in US Terms, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1861 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 14.95",
+      "actual": "GBP 14.95"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 6343,
+      "actual": 6343
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF patterns",
+        "A4 PDF patterns",
+        "US Letter PDF patterns",
+        "Complete collection PDF",
+        "Individual pattern PDFs",
+        "Pattern index",
+        "Materials reference",
+        "Abbreviations reference",
+        "Printing crochet guide",
+        "Arrangement ideas"
+      ],
+      "actual": [
+        "Digital PDF patterns",
+        "A4 PDF patterns",
+        "US Letter PDF patterns",
+        "Complete collection PDF",
+        "Individual pattern PDFs",
+        "Pattern index",
+        "Materials reference",
+        "Abbreviations reference",
+        "Printing crochet guide",
+        "Arrangement ideas"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8679565695,
+        8631742448,
+        8631742648,
+        8679566293,
+        8679566467,
+        8679566649,
+        8679566869,
+        8631743600
+      ],
+      "actual": [
+        8679565695,
+        8631742448,
+        8631742648,
+        8679566293,
+        8679566467,
+        8679566649,
+        8679566869,
+        8631743600
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip (10573752 bytes)",
+        "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip (4317366 bytes)",
+        "Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip (10557575 bytes)",
+        "Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip (4330987 bytes)"
+      ],
+      "actual": [
+        "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip (10573752 bytes)",
+        "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip (4317366 bytes)",
+        "Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip (10557575 bytes)",
+        "Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip (4330987 bytes)"
+      ]
+    }
+  ],
+  "fingerprint": "36ea324463d29a503ab5dee593eb633da0093c927b800e875e7f6ef0db2f2d9d",
+  "listing_id": 4589590540,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "4521ff3cf8328e383335c9cca37cfdf7ae2afd81b5f5ccfcb6894cb370ffc127",
+  "remote_url": "https://www.etsy.com/listing/4589590540/crochet-flower-bouquet-patterns-33",
+  "at": "2026-10-06T10:16:09.057Z"
+}

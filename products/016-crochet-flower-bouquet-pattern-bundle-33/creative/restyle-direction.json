@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "note": "Owner-approved replacement values for the #016 RESTYLE (ADR-044/046). Branding and rendering only: the crochet pieces shown come ONLY from the approved patterns' visual specs (creative/visual-specs.json). Optionally set cover.hero_combination to an approved combination name and detail_pattern_id to an approved pattern_id. Nothing is generated from this file until the owner confirms new style proofs.",
+  "direction": {
+    "illustration_style": "Two layers: lightly illustrated Moonlit Meadow branding with botanical ornaments, crescent moons and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.",
+    "shared_prompt": "Premium Moonlit Meadow crochet pattern bundle. The crochet pieces are exactly those specified for each page, rendered as lifelike yarn crochet with clearly visible fibres, loops and stitch definition on a soft cream linen setting with natural product-photography lighting. Delicate botanical and crescent-moon branding ornaments and elegant serif typography.",
+    "shading": "Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.",
+    "texture": "Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.",
+    "detail_level": "Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine."
+  },
+  "cover": {
+    "title": "MOONLIT MEADOW",
+    "subtitle": "Crochet Bouquet Pattern Bundle",
+    "count_noun": "crochet flower patterns"
+  },
+  "production_note": "The crochet bouquet is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+}

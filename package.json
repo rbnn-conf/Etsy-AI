@@ -1,0 +1,10 @@
+{
+  "name": "digital-product-factory",
+  "private": true,
+  "description": "LumiumX: Telegram-driven Etsy digital-product factory. Entry points for the whole repository; see DEVELOPER_SETUP.md.",
+  "scripts": {
+    "start": "npm --prefix automation start",
+    "check-config": "npm --prefix automation run check-config",
+    "test": "npm --prefix automation test && npm --prefix production test && npm --prefix marketing test && npm --prefix seo test && npm --prefix services test && npm --prefix spreadsheet test && npm --prefix services run typecheck"
+  }
+}

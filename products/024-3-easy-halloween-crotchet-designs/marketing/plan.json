@@ -1,0 +1,223 @@
+{
+  "format": "crochet-pattern-bundle",
+  "campaign": "crochet-botanical",
+  "strategy": {
+    "family": "crochet_pattern",
+    "theme": "halloween_dark",
+    "visual_marketing_mood": "moody atmospheric Halloween"
+  },
+  "slides": [
+    {
+      "template": "hero",
+      "scene": "craft",
+      "density": "rich lifestyle",
+      "purpose": "Stop the scroll: the real collection cover and a pattern page on a crafting table.",
+      "min_product_share": 0.3,
+      "id": "01-hero",
+      "copy": {
+        "headline": {
+          "text": "3 Crochet\nPatterns",
+          "claim": [
+            "pattern-count",
+            "3 crochet patterns"
+          ]
+        },
+        "subline": {
+          "text": "Little Halloween costume accessories"
+        }
+      }
+    },
+    {
+      "template": "interior",
+      "pattern": "bat-hair-clip",
+      "name_headline": true,
+      "density": "artwork hero",
+      "purpose": "Inside the collection: one real pattern page at near full size.",
+      "min_product_share": 0.4,
+      "id": "02-interior",
+      "copy": {
+        "headline": {
+          "text": "Moonlit Bat Hair Clip",
+          "claim": [
+            "pattern-name",
+            "Moonlit Bat Hair Clip"
+          ]
+        },
+        "kicker": {
+          "text": "Pattern 01 of 3",
+          "claim": [
+            "pattern-number",
+            "Pattern 01 of 3"
+          ]
+        }
+      }
+    },
+    {
+      "template": "collage",
+      "patterns": [
+        "bat-hair-clip",
+        "witch-hat-brooch",
+        "candy-corn-bag-charm"
+      ],
+      "density": "product grid",
+      "purpose": "Many real pattern pages at once: the size of the collection.",
+      "min_product_share": 0.3,
+      "id": "03-collage",
+      "copy": {
+        "headline": {
+          "text": "3 patterns\nto make",
+          "claim": [
+            "pattern-count",
+            "3 patterns"
+          ]
+        }
+      }
+    },
+    {
+      "template": "index",
+      "density": "information",
+      "purpose": "The real pattern index: every pattern at a glance.",
+      "min_product_share": 0.3,
+      "id": "04-index",
+      "copy": {
+        "headline": {
+          "text": "Every pattern\nat a glance"
+        }
+      }
+    },
+    {
+      "template": "included",
+      "density": "structured information",
+      "purpose": "Everything in the download, as real files.",
+      "min_product_share": 0.12,
+      "id": "05-included",
+      "copy": {
+        "headline": {
+          "text": "What’s included"
+        }
+      }
+    },
+    {
+      "template": "printable",
+      "density": "clean information",
+      "purpose": "Download and printing information: what you get, nothing shipped.",
+      "min_product_share": 0.08,
+      "id": "06-printable",
+      "copy": {
+        "headline": {
+          "text": "Instant digital\ndownload",
+          "claim": [
+            "digital",
+            "Instant digital download"
+          ]
+        }
+      }
+    },
+    {
+      "template": "lifestyle",
+      "scene": "cosy",
+      "tone": true,
+      "density": "emotional lifestyle",
+      "purpose": "The real collection in a quiet crafting moment.",
+      "min_product_share": 0.25,
+      "id": "07-lifestyle",
+      "copy": {
+        "headline": {
+          "text": "Your quiet\ncrafting hour"
+        },
+        "subline": {
+          "text": "Settle in with an easy project for a gently spooky make.",
+          "by": "model"
+        }
+      }
+    },
+    {
+      "template": "bundle",
+      "patterns": [
+        "bat-hair-clip",
+        "witch-hat-brooch",
+        "candy-corn-bag-charm"
+      ],
+      "tone": true,
+      "density": "summary",
+      "purpose": "Final summary: the collection at a glance.",
+      "min_product_share": 0.3,
+      "id": "08-bundle",
+      "copy": {
+        "headline": {
+          "text": "Download,\nprint & crochet"
+        },
+        "subline": {
+          "text": "Three easy patterns for adding a little Halloween magic.",
+          "by": "model"
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "craft",
+      "purpose": "Hero: a calm crochet crafting table.",
+      "used_by": [
+        "01-hero"
+      ],
+      "brief": "Deep charcoal linen surface with a small coil of black, lavender and warm amber yarn nearby; antique brass scissors and a dark wooden crochet hook rest at the edges. Soft moonlit side light, inky shadows and subtle muted plum accents.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nPremium overhead-angled photograph of a calm crafting table: a few skeins of soft yarn in blush pink, sage green, lavender and cream, a wooden crochet hook, small scissors and a linen cloth on pale oak, soft natural window light and gentle shadows, shallow depth of field. Keep the right-hand two thirds of the table clear, even and softly lit, reserved for products added later.\nCampaign mood: moody atmospheric Halloween.\nMood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals.",
+      "file": "marketing/engines/factory/scenes/01-hero.png",
+      "sha256": "23bb2e3a2d2829c97ce2bdcbeba9b78db238d9ac8a3c1d69795fd46c8c8457f3",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "cosy",
+      "purpose": "Lifestyle: a quiet crochet moment at home.",
+      "used_by": [
+        "07-lifestyle"
+      ],
+      "brief": "Quiet corner of a dark wood table beside a softly rumpled oat-coloured linen throw; a ceramic mug, a small amber glass candleholder and a few autumn leaves kept at the margins. Warm lamplight meets cool blue dusk, with plum and ochre notes.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nCosy, bright corner at home for a quiet crafting hour: a woven basket of yarn skeins, a knitted throw, a cup of tea and soft warm daylight, gentle shadows, shallow depth of field. Keep the centre and right of the surface clear and calm, reserved for a product added later.\nCampaign mood: moody atmospheric Halloween.\nAdditional art direction: Quiet corner of a dark wood table beside a softly rumpled oat-coloured linen throw; a ceramic mug, a small amber glass candleholder and a few autumn leaves kept at the margins. Warm lamplight meets cool blue dusk, with plum and ochre notes.\nMood: Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals.",
+      "file": "marketing/scenes/cosy.png",
+      "sha256": "352d68a2a4df78b1edec635c9b763a5dec0c99cf6944ce5687e21ced814dc5fc",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "engine": {
+    "id": "factory",
+    "version": 1
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-07T23:56:11.176Z",
+  "approved_hero": {
+    "source": "hero-comparison",
+    "engine": "factory",
+    "legacy": false,
+    "slide": "01-hero",
+    "image": {
+      "file": "marketing/comparison/factory/01-hero.png",
+      "sha256": "7bbda7b66b4e90604731a85cefe0405fecd307057d5670844ce4eae04d3b6dcd"
+    },
+    "locked": {
+      "direction": null,
+      "route": {
+        "composition_family": "catalogue-flat-lay",
+        "camera_angle": "top-down",
+        "page_arrangement": "organised-catalogue",
+        "environment": "plain-neutral-surface",
+        "prop_strategy": "minimal",
+        "visual_story": "none",
+        "transformation_demo": "none"
+      },
+      "scene": {
+        "file": "marketing/engines/factory/scenes/01-hero.png",
+        "sha256": "676abf8d3f9e1c9cef06b606c2749c8c995a3453f51390be8d186a8dfb56a5f5"
+      }
+    },
+    "superseded": {
+      "op": "scene",
+      "slide": "01-hero",
+      "by": "@romg_o",
+      "at": "2026-10-07T23:58:44.628Z"
+    }
+  }
+}

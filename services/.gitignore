@@ -1,0 +1,11 @@
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local OAuth token cache written by FileTokenStore / the exchange-code script.
+# Contains a real Etsy refresh token — never commit it. Default location is
+# services/.secrets/ but any path the developer points ETSY_TOKEN_FILE at is
+# their responsibility to keep out of git.
+.secrets/
+*.token.json

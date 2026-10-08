@@ -1,0 +1,9 @@
+{
+  "id": "A09",
+  "treatment": "economy",
+  "prompt": "Redraw this connected leaf flourish as a refined nineteenth-century line engraving for ink-economy printing. One dark-charcoal colour ONLY. Clean thin contours and just 3–5 widely spaced hatch strokes per leaf; mostly open transparent leaf interiors. NO tonal grey shading, filled leaves, gradients, black solid masses or photographic rendering. Keep coherent leaf veins and connected symmetric branches. Genuine transparent RGBA background, no paper rectangle, shadow, text/signature. Entire uncropped silhouette with substantial transparent margin. Highest native resolution.",
+  "reason": "Economy v1 has excessive smooth grey tonal shading instead of sparse engraving.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-1f75f8a6-2b91-4216-9be4-c17a47955e96.png",
+  "rejectedFile": "rejected/A09-economy-v1.png",
+  "visualQc": "pending"
+}

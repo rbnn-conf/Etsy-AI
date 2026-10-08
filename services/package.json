@@ -1,0 +1,23 @@
+{
+  "name": "@dpf/services",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Etsy Open API v3 integration (OAuth, encrypted token store, drafts, uploads, publish gate) and the Telegram Bot API client used by the automation bot. See services/README.md.",
+  "engines": {
+    "node": ">=22.6.0"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "etsy:authorize-url": "node --env-file-if-exists=../.env src/etsy/scripts/print-authorize-url.ts",
+    "etsy:exchange-code": "node --env-file-if-exists=../.env src/etsy/scripts/exchange-code.ts",
+    "etsy:smoke": "node --env-file-if-exists=../.env src/etsy/scripts/smoke-connectivity.ts",
+    "etsy:create-draft": "node --env-file-if-exists=../.env src/etsy/scripts/create-draft-listing.ts",
+    "etsy:connection": "node --env-file-if-exists=../.env src/etsy/scripts/connection.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}

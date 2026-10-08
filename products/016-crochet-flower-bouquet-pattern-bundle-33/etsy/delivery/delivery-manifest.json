@@ -1,0 +1,1034 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern",
+  "source_fingerprint": "c704dd07b21912656292f71b36e9815ae388e1d77f7a2b2f8caaf928e3b46c7a",
+  "build_record_sha256": "7eb294a0b7dae1bb60a8c5e3ef708a8ce184b16bbd398af585dee3ceef39e9a3",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "2dc3e08191b7704537e1be193d9f3d337b9633d9bc1a4d884409c4dcb993fa08",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip",
+      "sha256": "6056913be43f18539d8607f440a1225ec90e7fca3bfc1b57a4e3d806259ca433",
+      "bytes": 10573752,
+      "size": "10.57 MB",
+      "purpose": "5 files (guide, pdf)",
+      "label": "A4",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/START-HERE-Printing-and-Crochet-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/START-HERE-Printing-and-Crochet-Guide.pdf",
+          "sha256": "c0c030fc47f1eec8b6dd8a58ac45e91c550d0d57fb86d4a47e73b09a22f32017",
+          "bytes": 29369
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4.pdf",
+          "sha256": "b1ee9c94ebf89846d6f86c633898970dd2d63fe68bc504e863a22d97fd4c4cc5",
+          "bytes": 10430158
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4.pdf",
+          "sha256": "f3e46dd33c72bbedda126dfef4efdc0bbb7a51d84c6ad2c0f840d5ba7d4815e5",
+          "bytes": 43258
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4.pdf",
+          "sha256": "9e8f08c1aeec37011d2b236b7f6cfe2d9b60597e1bde8ed488e5a07dddc9662d",
+          "bytes": 43901
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-A4.pdf",
+          "sha256": "53b79deccd2c9c4caad325e216473a5953758078f1aabc5462e3a45869cf98da",
+          "bytes": 35438
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip",
+      "sha256": "f0be8ad32e23889ceeac978a9b8436a9d1eaf18fbecfebc70dae651528eb04e7",
+      "bytes": 4317366,
+      "size": "4.32 MB",
+      "purpose": "33 files (pdf)",
+      "label": "A4-Individual-Patterns",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/01-Garden-Rose-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/01-Garden-Rose-A4.pdf",
+          "sha256": "ed888ebd0765d4233889d57f56900231389277b82f7c51da42c67e3b468355c2",
+          "bytes": 2931986
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/02-Moon-Peony-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/02-Moon-Peony-A4.pdf",
+          "sha256": "a0418d71a74f7504ecdaf034669ea2969bd4502ff32b840577cb35cfcf10b0d0",
+          "bytes": 53766
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/03-Heirloom-Dahlia-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/03-Heirloom-Dahlia-A4.pdf",
+          "sha256": "f1d6871d614de13fa4e949a08451e6e4124b3a87f916c3282be2db7a673071ec",
+          "bytes": 47493
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/04-Meadow-Ranunculus-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/04-Meadow-Ranunculus-A4.pdf",
+          "sha256": "180753d52fa2f80201b3054ad626575deed12a2172e454710e5d5ebf587da2ca",
+          "bytes": 48296
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/05-Starlit-Anemone-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/05-Starlit-Anemone-A4.pdf",
+          "sha256": "fad9a4d7e6273b37fa217034aaf3fb9409417ad9a9a7c1deaea4d91c1ea7c0e6",
+          "bytes": 46511
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/06-Cottage-Poppy-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/06-Cottage-Poppy-A4.pdf",
+          "sha256": "305d47cc2e9d03146f945a8ec0e33af423f7199132a42b5a22b2d8ff32f35ee3",
+          "bytes": 52136
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/07-Twilight-Lily-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/07-Twilight-Lily-A4.pdf",
+          "sha256": "4e413d03414602a86cefed2395c1cf84afb0ade9c665ede17dbb9345b37c0120",
+          "bytes": 47165
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/08-Wild-Sunflower-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/08-Wild-Sunflower-A4.pdf",
+          "sha256": "29a45c0b6c2dc3bd62cd08cabb50b0c66cf688293e249127e94b64ddfe348bdc",
+          "bytes": 45166
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/09-Blush-Tulip-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/09-Blush-Tulip-A4.pdf",
+          "sha256": "d99d8b1c2593056cc8256a35f9b23d6d0634d4ca9f2bfaf664b41447639baccd",
+          "bytes": 50766
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/10-Meadow-Daisy-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/10-Meadow-Daisy-A4.pdf",
+          "sha256": "73f19992d5f0886aa95f70965b8882950809f04940f571f895c124b0c5d7dbaf",
+          "bytes": 37828
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/11-Velvet-Carnation-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/11-Velvet-Carnation-A4.pdf",
+          "sha256": "308bd43db08c72060038f4f5a35ce7a7685923500f223e8a5ddc19cf285ad5e1",
+          "bytes": 42519
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/12-Hydrangea-Cluster-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/12-Hydrangea-Cluster-A4.pdf",
+          "sha256": "a3faf523b993907a9c190598309ca3b78ebd7c13e2e13842f6a5e04e79c34474",
+          "bytes": 47179
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/13-Moon-Cosmos-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/13-Moon-Cosmos-A4.pdf",
+          "sha256": "dd71eafb48aa05d7047d385d7ceca0e085b039a8fde72bfa73f722e277ebc04e",
+          "bytes": 39017
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/14-Winter-Camellia-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/14-Winter-Camellia-A4.pdf",
+          "sha256": "3cb40a04a840d63803e73728b128db28084172a7e0ad9950fbb17a7a1d4b019d",
+          "bytes": 43380
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/15-Sweet-Pea-Spray-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/15-Sweet-Pea-Spray-A4.pdf",
+          "sha256": "440b9db909a057596c8573ec209347a39480114227537bea1874b15ca1519793",
+          "bytes": 46044
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/16-Bluebell-Stem-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/16-Bluebell-Stem-A4.pdf",
+          "sha256": "256fd67f9cfc4c6999fc776ca63805efc8e292a8ec1bacc7f0ecd88de5ee1fd4",
+          "bytes": 42231
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/17-Lavender-Sprig-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/17-Lavender-Sprig-A4.pdf",
+          "sha256": "b8aec1c05d447bc2cf19ae6c79b8e4881674e2a22c75519fd146ba5667be6e7d",
+          "bytes": 41921
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/18-Baby-s-Breath-Spray-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/18-Baby-s-Breath-Spray-A4.pdf",
+          "sha256": "5775d28bd894f41d4dec0936f313216d9eeda0a432248597f0ac9ca586ffaf69",
+          "bytes": 46522
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/19-Waxflower-Spray-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/19-Waxflower-Spray-A4.pdf",
+          "sha256": "6eac7943828fa19b12f82e8f66bb623b19dd71e4c64d91290f5a247b0a6a8462",
+          "bytes": 44076
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/20-Golden-Billy-Button-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/20-Golden-Billy-Button-A4.pdf",
+          "sha256": "fd7dbfab4e8436153e26fcdbd345eed0fa1b9e6f73afb5ab62870878ac1a8b64",
+          "bytes": 45577
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/21-Lace-Queen-Anne-s-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/21-Lace-Queen-Anne-s-A4.pdf",
+          "sha256": "cd8c8af77e6a23cb115d658d9a340c1a0954eb9ac0d5000c61cc79d7e7d0380f",
+          "bytes": 45112
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/22-Sleeping-Rosebud-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/22-Sleeping-Rosebud-A4.pdf",
+          "sha256": "25fe0164a33fcc92f93b726f85cf17e87edade7e54cccc2e277d20a627d42b68",
+          "bytes": 43102
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/23-Forget-Me-Not-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/23-Forget-Me-Not-A4.pdf",
+          "sha256": "408c338314421314e7f292946fb88d7518a7daf3550d853d11e2e1607192c752",
+          "bytes": 37758
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/24-Chamomile-Blossom-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/24-Chamomile-Blossom-A4.pdf",
+          "sha256": "98893a723c9b8be62aa59f55f1c74f125ff2af3618fd966ebb842584090ed1c5",
+          "bytes": 38963
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/25-Sage-Eucalyptus-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/25-Sage-Eucalyptus-A4.pdf",
+          "sha256": "dbb844f646012e0a647762c1cd1057dfdacc77d78795e9ced27d92ca8b0f4f2f",
+          "bytes": 45103
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/26-Olive-Branch-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/26-Olive-Branch-A4.pdf",
+          "sha256": "79f159b27ff7ea57d1e654c7bb0a0e4119a4234cf20d08cd24009836dd5ff945",
+          "bytes": 38793
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/27-Woodland-Fern-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/27-Woodland-Fern-A4.pdf",
+          "sha256": "f2bbe345be8ff03e2f86bbabe4522440c67989750d32aff5cba5f99021b660d8",
+          "bytes": 41345
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/28-Trailing-Ivy-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/28-Trailing-Ivy-A4.pdf",
+          "sha256": "561de88309237dc5fc22c21eee5bc57996b8fc92fef8a2993ef7e7ddb22b26c8",
+          "bytes": 40299
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/29-Velvet-Lamb-s-Ear-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/29-Velvet-Lamb-s-Ear-A4.pdf",
+          "sha256": "b2415f557fd33fbc83fd32f98a0bc984739f6c4641a092ac67842540b0521ef1",
+          "bytes": 40648
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/30-Ruscus-Spray-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/30-Ruscus-Spray-A4.pdf",
+          "sha256": "a0e7d25676b3aebeb39dd876e4d5966564915563471e306912ac5ccd2c8e2fb1",
+          "bytes": 41933
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/31-Bendable-Floral-Stem-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/31-Bendable-Floral-Stem-A4.pdf",
+          "sha256": "f29b05efa912174f5bbe546722199b3c5dabb059598dae2c3c3c4a614535fd16",
+          "bytes": 41281
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/32-Ribboned-Bouquet-Wrap-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/32-Ribboned-Bouquet-Wrap-A4.pdf",
+          "sha256": "f01f8332b175d64bc788df3751d8d52609677b3672f1426d5d845f3fedfde2ed",
+          "bytes": 42503
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/33-Meadow-Vase-A4.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/33-Meadow-Vase-A4.pdf",
+          "sha256": "d4443eb0c277b25a9f18b1c753bbef24cc01d1208d3652079a3965452c3a3ab3",
+          "bytes": 42391
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip",
+      "sha256": "973a9d05ffc43dcdbec03ad087607534a8309affc2751d105814e97b405f6f9f",
+      "bytes": 10557575,
+      "size": "10.56 MB",
+      "purpose": "4 files (pdf)",
+      "label": "US-Letter",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-US-Letter.pdf",
+          "sha256": "ea809d4ec099b5020f49dab61829932924891c529d4ac9956ec0061df6f5fb4a",
+          "bytes": 10443419
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-US-Letter.pdf",
+          "sha256": "ee3ec6a9e76af7ab69191230fb3373eb790e63dc541a561cb4f34284b3c5a35c",
+          "bytes": 43183
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-US-Letter.pdf",
+          "sha256": "445a8f63364a47ca0dc0cc863b54aa395d1856d7cc521ac29535143e2b8bbac7",
+          "bytes": 43859
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-US-Letter.pdf",
+          "sha256": "640c747011b213b3df36d36be1da11f49d98f9b4ef2868feb28d236c2f2bca34",
+          "bytes": 35386
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip",
+      "sha256": "b5d5cdffab8de83156b99dead342333559b464803f4151ea3e46309f5ba119e3",
+      "bytes": 4330987,
+      "size": "4.33 MB",
+      "purpose": "33 files (pdf)",
+      "label": "US-Letter-Individual-Patterns",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/01-Garden-Rose-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/01-Garden-Rose-US-Letter.pdf",
+          "sha256": "fc012436f9a3d7be17b2e9e745c1d424b9f2284ece5363b6f82547c6717f7814",
+          "bytes": 2932028
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/02-Moon-Peony-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/02-Moon-Peony-US-Letter.pdf",
+          "sha256": "215b01439b7782d8cf1d6baa3887df9e82324c4b161ae5643ab1a0c096bb900c",
+          "bytes": 53787
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/03-Heirloom-Dahlia-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/03-Heirloom-Dahlia-US-Letter.pdf",
+          "sha256": "13b15267ad51942a0cf66e16e744cd3e63f68cb69cefe141697f8bc50b5857bf",
+          "bytes": 49798
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/04-Meadow-Ranunculus-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/04-Meadow-Ranunculus-US-Letter.pdf",
+          "sha256": "6ffc642d17d3907b8ecf0e17a44a9b8389cc06f8443ca5d24b38d85d301133ef",
+          "bytes": 50969
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/05-Starlit-Anemone-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/05-Starlit-Anemone-US-Letter.pdf",
+          "sha256": "aa5abc853e404d8253e45cafe3347e57cebcb249eb3006cce7344c809e9c6198",
+          "bytes": 46233
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/06-Cottage-Poppy-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/06-Cottage-Poppy-US-Letter.pdf",
+          "sha256": "b560858a782aa777e33d27ccd2f5afe5dfc3c084155d7384a110b92b535ca763",
+          "bytes": 52261
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/07-Twilight-Lily-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/07-Twilight-Lily-US-Letter.pdf",
+          "sha256": "9b546343856badc97e42bab81bbc8118bf5ee67e91c419f71662fc4bc334f6ae",
+          "bytes": 46732
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/08-Wild-Sunflower-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/08-Wild-Sunflower-US-Letter.pdf",
+          "sha256": "d99b66d1ef770dc7f743c919003b62f0725909ba46e5783f93f99f39e2a77c74",
+          "bytes": 45140
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/09-Blush-Tulip-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/09-Blush-Tulip-US-Letter.pdf",
+          "sha256": "e2b64e09056db7450d8152b6626e3cdc636b1b6decff49e0d91c0e0f34e2f2a1",
+          "bytes": 50795
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/10-Meadow-Daisy-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/10-Meadow-Daisy-US-Letter.pdf",
+          "sha256": "41bcb8a25812bc41053027ea40b42f10d4069430bf4b9a82504a8aa8ad2e1d4f",
+          "bytes": 37822
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/11-Velvet-Carnation-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/11-Velvet-Carnation-US-Letter.pdf",
+          "sha256": "372b7ad3e6e6f497a57a95441a5d6d9b277e5772d88c9a4b6984c789aab03950",
+          "bytes": 44143
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/12-Hydrangea-Cluster-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/12-Hydrangea-Cluster-US-Letter.pdf",
+          "sha256": "681083fa058e98badfd213d4731b6df9e4f473b0993f4a5d1d23894498355ee1",
+          "bytes": 46860
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/13-Moon-Cosmos-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/13-Moon-Cosmos-US-Letter.pdf",
+          "sha256": "188dc81d266cff9b9daadbcbaab730341bd64f868ea62a142f8e8c982d71d13e",
+          "bytes": 38970
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/14-Winter-Camellia-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/14-Winter-Camellia-US-Letter.pdf",
+          "sha256": "6ae74787d3da3330d40e720806c80078295faa9becd4d73dadbeac48bb1d8a93",
+          "bytes": 43363
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/15-Sweet-Pea-Spray-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/15-Sweet-Pea-Spray-US-Letter.pdf",
+          "sha256": "32328b46503611c529cbc8ad1e3e934566aa96739c3d6618460deef13a7bf27a",
+          "bytes": 46340
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/16-Bluebell-Stem-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/16-Bluebell-Stem-US-Letter.pdf",
+          "sha256": "a754f44875d1d60e93c813b3a533d689295e3521c07edb44f93223a17119d8a5",
+          "bytes": 44103
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/17-Lavender-Sprig-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/17-Lavender-Sprig-US-Letter.pdf",
+          "sha256": "9b72b82277102bf6c86a750c987bd2e1dc0758b02a84310aebd2ba85d90d142a",
+          "bytes": 41806
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/18-Baby-s-Breath-Spray-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/18-Baby-s-Breath-Spray-US-Letter.pdf",
+          "sha256": "d47bfa3788ea08f8acd197640b6dc58431baf9e740562f0e1cdc80c61033fcac",
+          "bytes": 46395
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/19-Waxflower-Spray-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/19-Waxflower-Spray-US-Letter.pdf",
+          "sha256": "fcc8fa67f68ec676c4be0142956e843ac2786023c145e882571c97fd06512341",
+          "bytes": 46122
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/20-Golden-Billy-Button-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/20-Golden-Billy-Button-US-Letter.pdf",
+          "sha256": "a06a7791a8f7e479138c28942637af489a975c1bdd32011b7a41a9175d663313",
+          "bytes": 45613
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/21-Lace-Queen-Anne-s-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/21-Lace-Queen-Anne-s-US-Letter.pdf",
+          "sha256": "687e2c512e2492d3abe78f4863c6585a4de1ac741ac8aea7ab489f793bc5c0bc",
+          "bytes": 45090
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/22-Sleeping-Rosebud-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/22-Sleeping-Rosebud-US-Letter.pdf",
+          "sha256": "7d31641a405ee2f03326584cedf4bc86a56be2de0e64aa593eda889c2ab6e10a",
+          "bytes": 45027
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/23-Forget-Me-Not-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/23-Forget-Me-Not-US-Letter.pdf",
+          "sha256": "5a291f559d9e0a559560f9ec7b4bd982b5afe959ea8f198478afa6c7e9015c8e",
+          "bytes": 37798
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/24-Chamomile-Blossom-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/24-Chamomile-Blossom-US-Letter.pdf",
+          "sha256": "210c5c715ee00750de802969ad2f10d599aedb8c8d092ac19e7a87b239a54d55",
+          "bytes": 38958
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/25-Sage-Eucalyptus-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/25-Sage-Eucalyptus-US-Letter.pdf",
+          "sha256": "6c884fca726cf74a6a7ab01452ff1fdcbc1683a7327a02cbf545e7e34ad15e77",
+          "bytes": 45046
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/26-Olive-Branch-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/26-Olive-Branch-US-Letter.pdf",
+          "sha256": "e5240985b9d5dc1c63714e58ced9e350e3c507bd4ff47d9f6eec5bde8c11ea12",
+          "bytes": 38424
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/27-Woodland-Fern-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/27-Woodland-Fern-US-Letter.pdf",
+          "sha256": "5fd54a780c480cb92f752afe049605daede0911d0da0a01c0b85a772259c829e",
+          "bytes": 41231
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/28-Trailing-Ivy-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/28-Trailing-Ivy-US-Letter.pdf",
+          "sha256": "a908b7fd1cb22554b334a7acf4c6c312a61dcfd041a459169c299c3968e3cf38",
+          "bytes": 40253
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/29-Velvet-Lamb-s-Ear-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/29-Velvet-Lamb-s-Ear-US-Letter.pdf",
+          "sha256": "975ff500bca55b6e67e8597d8923bfc26eeea402705058bc13545d306a25e23d",
+          "bytes": 40639
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/30-Ruscus-Spray-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/30-Ruscus-Spray-US-Letter.pdf",
+          "sha256": "e7121b93695c369320478e6edcc96961e9faa6bf2d0cee637b5b5db30698993f",
+          "bytes": 41877
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/31-Bendable-Floral-Stem-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/31-Bendable-Floral-Stem-US-Letter.pdf",
+          "sha256": "9a80425a57b94750e94a6dcd34e2f6f85092c54cf564a33893dccb8180f56153",
+          "bytes": 41624
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/32-Ribboned-Bouquet-Wrap-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/32-Ribboned-Bouquet-Wrap-US-Letter.pdf",
+          "sha256": "8488ed96a6efb2bff5a3b3216a7c6a50c98b039fcf98ca18439e0d1c872a42ac",
+          "bytes": 43951
+        },
+        {
+          "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/33-Meadow-Vase-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/33-Meadow-Vase-US-Letter.pdf",
+          "sha256": "72f46750e21f9c452dd5363070eec5828c7ce95f2cbcbc50539332d16cd793c2",
+          "bytes": 42692
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "sha256": "c0c030fc47f1eec8b6dd8a58ac45e91c550d0d57fb86d4a47e73b09a22f32017",
+      "bytes": 29369
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4.pdf",
+      "sha256": "b1ee9c94ebf89846d6f86c633898970dd2d63fe68bc504e863a22d97fd4c4cc5",
+      "bytes": 10430158
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4.pdf",
+      "sha256": "f3e46dd33c72bbedda126dfef4efdc0bbb7a51d84c6ad2c0f840d5ba7d4815e5",
+      "bytes": 43258
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4.pdf",
+      "sha256": "9e8f08c1aeec37011d2b236b7f6cfe2d9b60597e1bde8ed488e5a07dddc9662d",
+      "bytes": 43901
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-A4.pdf",
+      "sha256": "53b79deccd2c9c4caad325e216473a5953758078f1aabc5462e3a45869cf98da",
+      "bytes": 35438
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/01-Garden-Rose-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/01-Garden-Rose-A4.pdf",
+      "sha256": "ed888ebd0765d4233889d57f56900231389277b82f7c51da42c67e3b468355c2",
+      "bytes": 2931986
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/02-Moon-Peony-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/02-Moon-Peony-A4.pdf",
+      "sha256": "a0418d71a74f7504ecdaf034669ea2969bd4502ff32b840577cb35cfcf10b0d0",
+      "bytes": 53766
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/03-Heirloom-Dahlia-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/03-Heirloom-Dahlia-A4.pdf",
+      "sha256": "f1d6871d614de13fa4e949a08451e6e4124b3a87f916c3282be2db7a673071ec",
+      "bytes": 47493
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/04-Meadow-Ranunculus-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/04-Meadow-Ranunculus-A4.pdf",
+      "sha256": "180753d52fa2f80201b3054ad626575deed12a2172e454710e5d5ebf587da2ca",
+      "bytes": 48296
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/05-Starlit-Anemone-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/05-Starlit-Anemone-A4.pdf",
+      "sha256": "fad9a4d7e6273b37fa217034aaf3fb9409417ad9a9a7c1deaea4d91c1ea7c0e6",
+      "bytes": 46511
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/06-Cottage-Poppy-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/06-Cottage-Poppy-A4.pdf",
+      "sha256": "305d47cc2e9d03146f945a8ec0e33af423f7199132a42b5a22b2d8ff32f35ee3",
+      "bytes": 52136
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/07-Twilight-Lily-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/07-Twilight-Lily-A4.pdf",
+      "sha256": "4e413d03414602a86cefed2395c1cf84afb0ade9c665ede17dbb9345b37c0120",
+      "bytes": 47165
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/08-Wild-Sunflower-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/08-Wild-Sunflower-A4.pdf",
+      "sha256": "29a45c0b6c2dc3bd62cd08cabb50b0c66cf688293e249127e94b64ddfe348bdc",
+      "bytes": 45166
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/09-Blush-Tulip-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/09-Blush-Tulip-A4.pdf",
+      "sha256": "d99d8b1c2593056cc8256a35f9b23d6d0634d4ca9f2bfaf664b41447639baccd",
+      "bytes": 50766
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/10-Meadow-Daisy-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/10-Meadow-Daisy-A4.pdf",
+      "sha256": "73f19992d5f0886aa95f70965b8882950809f04940f571f895c124b0c5d7dbaf",
+      "bytes": 37828
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/11-Velvet-Carnation-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/11-Velvet-Carnation-A4.pdf",
+      "sha256": "308bd43db08c72060038f4f5a35ce7a7685923500f223e8a5ddc19cf285ad5e1",
+      "bytes": 42519
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/12-Hydrangea-Cluster-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/12-Hydrangea-Cluster-A4.pdf",
+      "sha256": "a3faf523b993907a9c190598309ca3b78ebd7c13e2e13842f6a5e04e79c34474",
+      "bytes": 47179
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/13-Moon-Cosmos-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/13-Moon-Cosmos-A4.pdf",
+      "sha256": "dd71eafb48aa05d7047d385d7ceca0e085b039a8fde72bfa73f722e277ebc04e",
+      "bytes": 39017
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/14-Winter-Camellia-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/14-Winter-Camellia-A4.pdf",
+      "sha256": "3cb40a04a840d63803e73728b128db28084172a7e0ad9950fbb17a7a1d4b019d",
+      "bytes": 43380
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/15-Sweet-Pea-Spray-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/15-Sweet-Pea-Spray-A4.pdf",
+      "sha256": "440b9db909a057596c8573ec209347a39480114227537bea1874b15ca1519793",
+      "bytes": 46044
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/16-Bluebell-Stem-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/16-Bluebell-Stem-A4.pdf",
+      "sha256": "256fd67f9cfc4c6999fc776ca63805efc8e292a8ec1bacc7f0ecd88de5ee1fd4",
+      "bytes": 42231
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/17-Lavender-Sprig-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/17-Lavender-Sprig-A4.pdf",
+      "sha256": "b8aec1c05d447bc2cf19ae6c79b8e4881674e2a22c75519fd146ba5667be6e7d",
+      "bytes": 41921
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/18-Baby-s-Breath-Spray-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/18-Baby-s-Breath-Spray-A4.pdf",
+      "sha256": "5775d28bd894f41d4dec0936f313216d9eeda0a432248597f0ac9ca586ffaf69",
+      "bytes": 46522
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/19-Waxflower-Spray-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/19-Waxflower-Spray-A4.pdf",
+      "sha256": "6eac7943828fa19b12f82e8f66bb623b19dd71e4c64d91290f5a247b0a6a8462",
+      "bytes": 44076
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/20-Golden-Billy-Button-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/20-Golden-Billy-Button-A4.pdf",
+      "sha256": "fd7dbfab4e8436153e26fcdbd345eed0fa1b9e6f73afb5ab62870878ac1a8b64",
+      "bytes": 45577
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/21-Lace-Queen-Anne-s-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/21-Lace-Queen-Anne-s-A4.pdf",
+      "sha256": "cd8c8af77e6a23cb115d658d9a340c1a0954eb9ac0d5000c61cc79d7e7d0380f",
+      "bytes": 45112
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/22-Sleeping-Rosebud-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/22-Sleeping-Rosebud-A4.pdf",
+      "sha256": "25fe0164a33fcc92f93b726f85cf17e87edade7e54cccc2e277d20a627d42b68",
+      "bytes": 43102
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/23-Forget-Me-Not-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/23-Forget-Me-Not-A4.pdf",
+      "sha256": "408c338314421314e7f292946fb88d7518a7daf3550d853d11e2e1607192c752",
+      "bytes": 37758
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/24-Chamomile-Blossom-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/24-Chamomile-Blossom-A4.pdf",
+      "sha256": "98893a723c9b8be62aa59f55f1c74f125ff2af3618fd966ebb842584090ed1c5",
+      "bytes": 38963
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/25-Sage-Eucalyptus-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/25-Sage-Eucalyptus-A4.pdf",
+      "sha256": "dbb844f646012e0a647762c1cd1057dfdacc77d78795e9ced27d92ca8b0f4f2f",
+      "bytes": 45103
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/26-Olive-Branch-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/26-Olive-Branch-A4.pdf",
+      "sha256": "79f159b27ff7ea57d1e654c7bb0a0e4119a4234cf20d08cd24009836dd5ff945",
+      "bytes": 38793
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/27-Woodland-Fern-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/27-Woodland-Fern-A4.pdf",
+      "sha256": "f2bbe345be8ff03e2f86bbabe4522440c67989750d32aff5cba5f99021b660d8",
+      "bytes": 41345
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/28-Trailing-Ivy-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/28-Trailing-Ivy-A4.pdf",
+      "sha256": "561de88309237dc5fc22c21eee5bc57996b8fc92fef8a2993ef7e7ddb22b26c8",
+      "bytes": 40299
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/29-Velvet-Lamb-s-Ear-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/29-Velvet-Lamb-s-Ear-A4.pdf",
+      "sha256": "b2415f557fd33fbc83fd32f98a0bc984739f6c4641a092ac67842540b0521ef1",
+      "bytes": 40648
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/30-Ruscus-Spray-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/30-Ruscus-Spray-A4.pdf",
+      "sha256": "a0e7d25676b3aebeb39dd876e4d5966564915563471e306912ac5ccd2c8e2fb1",
+      "bytes": 41933
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/31-Bendable-Floral-Stem-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/31-Bendable-Floral-Stem-A4.pdf",
+      "sha256": "f29b05efa912174f5bbe546722199b3c5dabb059598dae2c3c3c4a614535fd16",
+      "bytes": 41281
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/32-Ribboned-Bouquet-Wrap-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/32-Ribboned-Bouquet-Wrap-A4.pdf",
+      "sha256": "f01f8332b175d64bc788df3751d8d52609677b3672f1426d5d845f3fedfde2ed",
+      "bytes": 42503
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/33-Meadow-Vase-A4.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/33-Meadow-Vase-A4.pdf",
+      "sha256": "d4443eb0c277b25a9f18b1c753bbef24cc01d1208d3652079a3965452c3a3ab3",
+      "bytes": 42391
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-US-Letter.pdf",
+      "sha256": "ea809d4ec099b5020f49dab61829932924891c529d4ac9956ec0061df6f5fb4a",
+      "bytes": 10443419
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-US-Letter.pdf",
+      "sha256": "ee3ec6a9e76af7ab69191230fb3373eb790e63dc541a561cb4f34284b3c5a35c",
+      "bytes": 43183
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-US-Letter.pdf",
+      "sha256": "445a8f63364a47ca0dc0cc863b54aa395d1856d7cc521ac29535143e2b8bbac7",
+      "bytes": 43859
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-US-Letter.pdf",
+      "sha256": "640c747011b213b3df36d36be1da11f49d98f9b4ef2868feb28d236c2f2bca34",
+      "bytes": 35386
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/01-Garden-Rose-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/01-Garden-Rose-US-Letter.pdf",
+      "sha256": "fc012436f9a3d7be17b2e9e745c1d424b9f2284ece5363b6f82547c6717f7814",
+      "bytes": 2932028
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/02-Moon-Peony-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/02-Moon-Peony-US-Letter.pdf",
+      "sha256": "215b01439b7782d8cf1d6baa3887df9e82324c4b161ae5643ab1a0c096bb900c",
+      "bytes": 53787
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/03-Heirloom-Dahlia-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/03-Heirloom-Dahlia-US-Letter.pdf",
+      "sha256": "13b15267ad51942a0cf66e16e744cd3e63f68cb69cefe141697f8bc50b5857bf",
+      "bytes": 49798
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/04-Meadow-Ranunculus-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/04-Meadow-Ranunculus-US-Letter.pdf",
+      "sha256": "6ffc642d17d3907b8ecf0e17a44a9b8389cc06f8443ca5d24b38d85d301133ef",
+      "bytes": 50969
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/05-Starlit-Anemone-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/05-Starlit-Anemone-US-Letter.pdf",
+      "sha256": "aa5abc853e404d8253e45cafe3347e57cebcb249eb3006cce7344c809e9c6198",
+      "bytes": 46233
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/06-Cottage-Poppy-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/06-Cottage-Poppy-US-Letter.pdf",
+      "sha256": "b560858a782aa777e33d27ccd2f5afe5dfc3c084155d7384a110b92b535ca763",
+      "bytes": 52261
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/07-Twilight-Lily-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/07-Twilight-Lily-US-Letter.pdf",
+      "sha256": "9b546343856badc97e42bab81bbc8118bf5ee67e91c419f71662fc4bc334f6ae",
+      "bytes": 46732
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/08-Wild-Sunflower-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/08-Wild-Sunflower-US-Letter.pdf",
+      "sha256": "d99b66d1ef770dc7f743c919003b62f0725909ba46e5783f93f99f39e2a77c74",
+      "bytes": 45140
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/09-Blush-Tulip-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/09-Blush-Tulip-US-Letter.pdf",
+      "sha256": "e2b64e09056db7450d8152b6626e3cdc636b1b6decff49e0d91c0e0f34e2f2a1",
+      "bytes": 50795
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/10-Meadow-Daisy-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/10-Meadow-Daisy-US-Letter.pdf",
+      "sha256": "41bcb8a25812bc41053027ea40b42f10d4069430bf4b9a82504a8aa8ad2e1d4f",
+      "bytes": 37822
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/11-Velvet-Carnation-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/11-Velvet-Carnation-US-Letter.pdf",
+      "sha256": "372b7ad3e6e6f497a57a95441a5d6d9b277e5772d88c9a4b6984c789aab03950",
+      "bytes": 44143
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/12-Hydrangea-Cluster-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/12-Hydrangea-Cluster-US-Letter.pdf",
+      "sha256": "681083fa058e98badfd213d4731b6df9e4f473b0993f4a5d1d23894498355ee1",
+      "bytes": 46860
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/13-Moon-Cosmos-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/13-Moon-Cosmos-US-Letter.pdf",
+      "sha256": "188dc81d266cff9b9daadbcbaab730341bd64f868ea62a142f8e8c982d71d13e",
+      "bytes": 38970
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/14-Winter-Camellia-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/14-Winter-Camellia-US-Letter.pdf",
+      "sha256": "6ae74787d3da3330d40e720806c80078295faa9becd4d73dadbeac48bb1d8a93",
+      "bytes": 43363
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/15-Sweet-Pea-Spray-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/15-Sweet-Pea-Spray-US-Letter.pdf",
+      "sha256": "32328b46503611c529cbc8ad1e3e934566aa96739c3d6618460deef13a7bf27a",
+      "bytes": 46340
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/16-Bluebell-Stem-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/16-Bluebell-Stem-US-Letter.pdf",
+      "sha256": "a754f44875d1d60e93c813b3a533d689295e3521c07edb44f93223a17119d8a5",
+      "bytes": 44103
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/17-Lavender-Sprig-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/17-Lavender-Sprig-US-Letter.pdf",
+      "sha256": "9b72b82277102bf6c86a750c987bd2e1dc0758b02a84310aebd2ba85d90d142a",
+      "bytes": 41806
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/18-Baby-s-Breath-Spray-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/18-Baby-s-Breath-Spray-US-Letter.pdf",
+      "sha256": "d47bfa3788ea08f8acd197640b6dc58431baf9e740562f0e1cdc80c61033fcac",
+      "bytes": 46395
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/19-Waxflower-Spray-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/19-Waxflower-Spray-US-Letter.pdf",
+      "sha256": "fcc8fa67f68ec676c4be0142956e843ac2786023c145e882571c97fd06512341",
+      "bytes": 46122
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/20-Golden-Billy-Button-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/20-Golden-Billy-Button-US-Letter.pdf",
+      "sha256": "a06a7791a8f7e479138c28942637af489a975c1bdd32011b7a41a9175d663313",
+      "bytes": 45613
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/21-Lace-Queen-Anne-s-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/21-Lace-Queen-Anne-s-US-Letter.pdf",
+      "sha256": "687e2c512e2492d3abe78f4863c6585a4de1ac741ac8aea7ab489f793bc5c0bc",
+      "bytes": 45090
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/22-Sleeping-Rosebud-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/22-Sleeping-Rosebud-US-Letter.pdf",
+      "sha256": "7d31641a405ee2f03326584cedf4bc86a56be2de0e64aa593eda889c2ab6e10a",
+      "bytes": 45027
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/23-Forget-Me-Not-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/23-Forget-Me-Not-US-Letter.pdf",
+      "sha256": "5a291f559d9e0a559560f9ec7b4bd982b5afe959ea8f198478afa6c7e9015c8e",
+      "bytes": 37798
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/24-Chamomile-Blossom-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/24-Chamomile-Blossom-US-Letter.pdf",
+      "sha256": "210c5c715ee00750de802969ad2f10d599aedb8c8d092ac19e7a87b239a54d55",
+      "bytes": 38958
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/25-Sage-Eucalyptus-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/25-Sage-Eucalyptus-US-Letter.pdf",
+      "sha256": "6c884fca726cf74a6a7ab01452ff1fdcbc1683a7327a02cbf545e7e34ad15e77",
+      "bytes": 45046
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/26-Olive-Branch-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/26-Olive-Branch-US-Letter.pdf",
+      "sha256": "e5240985b9d5dc1c63714e58ced9e350e3c507bd4ff47d9f6eec5bde8c11ea12",
+      "bytes": 38424
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/27-Woodland-Fern-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/27-Woodland-Fern-US-Letter.pdf",
+      "sha256": "5fd54a780c480cb92f752afe049605daede0911d0da0a01c0b85a772259c829e",
+      "bytes": 41231
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/28-Trailing-Ivy-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/28-Trailing-Ivy-US-Letter.pdf",
+      "sha256": "a908b7fd1cb22554b334a7acf4c6c312a61dcfd041a459169c299c3968e3cf38",
+      "bytes": 40253
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/29-Velvet-Lamb-s-Ear-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/29-Velvet-Lamb-s-Ear-US-Letter.pdf",
+      "sha256": "975ff500bca55b6e67e8597d8923bfc26eeea402705058bc13545d306a25e23d",
+      "bytes": 40639
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/30-Ruscus-Spray-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/30-Ruscus-Spray-US-Letter.pdf",
+      "sha256": "e7121b93695c369320478e6edcc96961e9faa6bf2d0cee637b5b5db30698993f",
+      "bytes": 41877
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/31-Bendable-Floral-Stem-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/31-Bendable-Floral-Stem-US-Letter.pdf",
+      "sha256": "9a80425a57b94750e94a6dcd34e2f6f85092c54cf564a33893dccb8180f56153",
+      "bytes": 41624
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/32-Ribboned-Bouquet-Wrap-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/32-Ribboned-Bouquet-Wrap-US-Letter.pdf",
+      "sha256": "8488ed96a6efb2bff5a3b3216a7c6a50c98b039fcf98ca18439e0d1c872a42ac",
+      "bytes": 43951
+    },
+    {
+      "entry": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/33-Meadow-Vase-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/US-Letter-Individual-Patterns/33-Meadow-Vase-US-Letter.pdf",
+      "sha256": "72f46750e21f9c452dd5363070eec5828c7ce95f2cbcbc50539332d16cd793c2",
+      "bytes": 42692
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip 10573752 bytes, Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip 4317366 bytes, Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip 10557575 bytes, Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip 4330987 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip 10.57 MB, Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip 4.32 MB, Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip 10.56 MB, Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip 4.33 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "4 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip, Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip, Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip, Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-06T09:22:58.903Z"
+}

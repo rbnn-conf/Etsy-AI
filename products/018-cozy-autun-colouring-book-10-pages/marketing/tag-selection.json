@@ -1,0 +1,171 @@
+{
+  "tag_candidates": [
+    "autumn colouring",
+    "hedgehog colouring",
+    "cosy kitchen art",
+    "apple pie activity",
+    "fall colouring pages",
+    "kids autumn activity",
+    "baking colouring",
+    "food colouring",
+    "woodland animals",
+    "country kitchen",
+    "print at home",
+    "pdf colouring book",
+    "png colouring pages",
+    "colouring for kids",
+    "quiet time activity",
+    "autumn harvest fun",
+    "cosy home scenes",
+    "storybook line art",
+    "animal baker",
+    "kitchen colouring"
+  ],
+  "tags": [
+    {
+      "candidate": "autumn colouring",
+      "tag": "autumn colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "hedgehog colouring",
+      "tag": "hedgehog colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy kitchen art",
+      "tag": "cosy kitchen art",
+      "result": "kept"
+    },
+    {
+      "candidate": "apple pie activity",
+      "tag": "apple pie activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "fall colouring pages",
+      "tag": "fall colouring pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "kids autumn activity",
+      "tag": "kids autumn activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "baking colouring",
+      "tag": "baking colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "food colouring",
+      "tag": "food colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "woodland animals",
+      "tag": "woodland animals",
+      "result": "kept"
+    },
+    {
+      "candidate": "country kitchen",
+      "tag": "country kitchen",
+      "result": "kept"
+    },
+    {
+      "candidate": "print at home",
+      "tag": "print at home",
+      "result": "kept"
+    },
+    {
+      "candidate": "pdf colouring book",
+      "tag": "pdf colouring book",
+      "result": "kept"
+    },
+    {
+      "candidate": "png colouring pages",
+      "tag": "png colouring pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "colouring for kids",
+      "tag": "colouring for kids",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "quiet time activity",
+      "tag": "quiet time activity",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "autumn harvest fun",
+      "tag": "autumn harvest fun",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "cosy home scenes",
+      "tag": "cosy home scenes",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "storybook line art",
+      "tag": "storybook line art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "animal baker",
+      "tag": "animal baker",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "kitchen colouring",
+      "tag": "kitchen colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF",
+      "material": "Digital PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG pages",
+      "material": "PNG pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 format",
+      "material": "A4 format",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter format",
+      "material": "US Letter format",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "ZIP files",
+      "material": "ZIP files",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Toys & Games > Games & Puzzles > Colouring Books",
+    "final": "Books, Movies & Music > Books > Coloring Books",
+    "source": "canonical colouring-book category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

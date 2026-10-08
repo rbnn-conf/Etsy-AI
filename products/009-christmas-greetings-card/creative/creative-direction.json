@@ -1,0 +1,42 @@
+{
+  "illustration_style": "Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.",
+  "line_weight": "Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.",
+  "line_quality": "Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.",
+  "detail_level": "Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.",
+  "character_language": "Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.",
+  "background_density": "Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.",
+  "composition": "One unmistakable focal hierarchy with the greeting integrated as a deliberate part of the design; use framing curves, negative space, and selective decorative accents rather than evenly distributing detail across the card.",
+  "palette": "Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.",
+  "colour_mode": "full colour",
+  "shading": "Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.",
+  "texture": "Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.",
+  "mood": "Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.",
+  "age_suitability": "general family audience",
+  "print_considerations": "Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area.",
+  "shared_prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.",
+  "avoid": [
+    "Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging",
+    "The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf",
+    "A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting",
+    "Mice in Santa hats at an arched doorway beside a decorated tree",
+    "Photorealism or CGI rendering",
+    "Generic clip-art or flat vector aesthetics",
+    "Bright neon or harsh primary Christmas colours",
+    "Hard cel shading, heavy black outlines or overly clean digital linework",
+    "Overcrowded details that compete with the greeting",
+    "Ink-heavy near-black background coverage unsuitable for typical home printers",
+    "Tiny details or hairline marks essential to understanding the image",
+    "Poor text contrast, illegible typography or misspelled text",
+    "Trademarked characters, logos or brand-associated imagery"
+  ],
+  "version": 2,
+  "scope": "shared-style",
+  "source": "references",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": null,
+  "created_at": "2026-09-27T16:07:58.200Z"
+}

@@ -1,0 +1,30 @@
+{
+  "illustration_style": "Two layers: lightly illustrated Moonlit Meadow branding with botanical ornaments, crescent moons and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.",
+  "line_weight": "Branding ornaments and dividers only, never the crochet product: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.",
+  "line_quality": "Branding ornaments and dividers only, never the crochet product: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.",
+  "detail_level": "Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.",
+  "character_language": "not applicable",
+  "background_density": "Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.",
+  "composition": "Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.",
+  "palette": "Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.",
+  "colour_mode": "full colour",
+  "shading": "Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.",
+  "texture": "Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.",
+  "mood": "Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere.",
+  "age_suitability": "adults",
+  "print_considerations": "Portrait digital pages designed for home printing on A4 or US Letter; retain a light cream ground and restrained coverage to avoid excessive ink use, use high-contrast warm charcoal text, and keep fine decorative lines clear at typical home-printer resolution.",
+  "shared_prompt": "Premium Moonlit Meadow crochet pattern bundle. The crochet pieces are exactly those specified for each page, rendered as lifelike yarn crochet with clearly visible fibres, loops and stitch definition on a soft cream linen setting with natural product-photography lighting. Delicate botanical and crescent-moon branding ornaments and elegant serif typography.",
+  "avoid": [
+    "Copied vintage botanical plates, identifiable layouts or derivative branded artwork",
+    "Harsh neon colours, glossy digital gradients or heavy black shadows",
+    "Crowded page layouts, excessive ink coverage or unreadably fine details",
+    "Misspelled text, illegible decorative lettering or low-contrast typography",
+    "Stitch diagrams, charts or written instructions inside the artwork"
+  ],
+  "version": 2,
+  "scope": "shared-style",
+  "source": "restyle",
+  "based_on_references": [],
+  "feedback_applied": "Restyle: realistic crochet product, illustrated branding only (ADR-043).",
+  "created_at": "2026-10-02T19:08:00.336Z"
+}

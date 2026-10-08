@@ -1,0 +1,1099 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3062177,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1483,
+        "boxH": 988,
+        "complete": true,
+        "rect": {
+          "x": 405.491455078125,
+          "y": 640.13427734375,
+          "w": 1500.01708984375,
+          "h": 1013.7314453125
+        },
+        "visible": {
+          "x": 405.491455078125,
+          "y": 640.13427734375,
+          "w": 1500.01708984375,
+          "h": 1013.7314453125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "b4ae0382c29385bf1c39e338dbe260e115d15654b1a6d590dcb1f9eb0d6489ce",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1724,
+        "boxH": 1149,
+        "complete": true,
+        "rect": {
+          "x": 107.5123291015625,
+          "y": 544.619140625,
+          "w": 1800.0772705078125,
+          "h": 1264.8612060546875
+        },
+        "visible": {
+          "x": 107.5123291015625,
+          "y": 544.619140625,
+          "w": 1800.0772705078125,
+          "h": 1264.8612060546875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "AutumnColouringPages",
+        "fontPx": 116
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Autumn Railway Journey Colouring Book",
+        "text": "Autumn Railway Journey Colouring Book"
+      },
+      {
+        "claim": "page-count",
+        "value": "9 colouring pages",
+        "text": "9 pages to print and colour"
+      }
+    ],
+    "slide": "01-hero",
+    "scene": "env-01-hero",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "archetype": "centre-stage",
+      "fallback_from": "editorial-right",
+      "region": {
+        "x": 138,
+        "y": 596,
+        "w": 1724,
+        "h": 1149
+      },
+      "text_zone": "top",
+      "rotation": -4,
+      "rotation_dropped": false,
+      "min_share": 0.45
+    },
+    "file": "01-hero.png",
+    "thumb": "thumbs/01-hero.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3216505,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1780,
+        "boxH": 1186,
+        "complete": true,
+        "rect": {
+          "x": 94.08177185058594,
+          "y": 565.9367065429688,
+          "w": 1800.498779296875,
+          "h": 1216.197021484375
+        },
+        "visible": {
+          "x": 94.08177185058594,
+          "y": 565.9367065429688,
+          "w": 1800.498779296875,
+          "h": 1216.197021484375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Ticket Booth Arrival",
+        "fontPx": 116
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-number",
+        "value": "Page 2 of 10",
+        "text": "Page 2 of 10"
+      },
+      {
+        "claim": "page-title",
+        "value": "Ticket Booth Arrival",
+        "text": "Ticket Booth Arrival"
+      }
+    ],
+    "slide": "02-interior",
+    "scene": "env-02-interior",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "archetype": "centre-stage",
+      "fallback_from": null,
+      "region": {
+        "x": 110,
+        "y": 577,
+        "w": 1780,
+        "h": 1186
+      },
+      "text_zone": "top",
+      "rotation": 1,
+      "rotation_dropped": false,
+      "min_share": 0.45
+    },
+    "file": "02-interior.png",
+    "thumb": "thumbs/02-interior.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3020666,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 96.0318603515625,
+          "y": 533.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.9993896484375
+        },
+        "visible": {
+          "x": 96.0318603515625,
+          "y": 533.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.9993896484375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "b3d8d70c9d8ff218e3ba2542aa3f34f0faec201b573c9f24b8b3b0ad4e8db581",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 707.0318603515625,
+          "y": 533.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.9993896484375
+        },
+        "visible": {
+          "x": 707.0318603515625,
+          "y": 533.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.9993896484375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "17f8439fa54a5baebf36027e702a08aa1dd49ca81c72efbe14be30ef1afd7eea",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 1319.0318603515625,
+          "y": 533.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.9993896484375
+        },
+        "visible": {
+          "x": 1319.0318603515625,
+          "y": 533.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.9993896484375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d6e2e9cd8dbab1bb840d971f6b6d448488ad776093c683728c89e26cb0593140",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 96.0318603515625,
+          "y": 952.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.99932861328125
+        },
+        "visible": {
+          "x": 96.0318603515625,
+          "y": 952.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.99932861328125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "dab1e8198b84c201ec0be178ecebc8f7ee8784adfb3dd564b020e72dab49a70e",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 707.0318603515625,
+          "y": 952.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.99932861328125
+        },
+        "visible": {
+          "x": 707.0318603515625,
+          "y": 952.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.99932861328125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "ab1f1c04143c423af8dc08d010a7b732b3f23657a7b4ce760183bc89a3b14220",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 1319.0318603515625,
+          "y": 952.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.99932861328125
+        },
+        "visible": {
+          "x": 1319.0318603515625,
+          "y": 952.0003051757812,
+          "w": 584.936279296875,
+          "h": 396.99932861328125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "448875fc1a9fed62f92b3a4642a9f4f978488d324abe58126641deb6aa50ee0d",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 96.0318603515625,
+          "y": 1370.0003662109375,
+          "w": 584.936279296875,
+          "h": 396.999267578125
+        },
+        "visible": {
+          "x": 96.0318603515625,
+          "y": 1370.0003662109375,
+          "w": 584.936279296875,
+          "h": 396.999267578125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "8d4d0f5f97ec4669b575b8fd6f2b0d6cbf671982501e5a9fa5a9a6ef1f76c114",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 707.0318603515625,
+          "y": 1370.0003662109375,
+          "w": 584.936279296875,
+          "h": 396.999267578125
+        },
+        "visible": {
+          "x": 707.0318603515625,
+          "y": 1370.0003662109375,
+          "w": 584.936279296875,
+          "h": 396.999267578125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a90cf13155306eab0d7dc7953d6f0c6fa48c0a085b27549c0edf54bd3e9a841c",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 577,
+        "boxH": 385,
+        "complete": true,
+        "rect": {
+          "x": 1319.0318603515625,
+          "y": 1370.0003662109375,
+          "w": 584.936279296875,
+          "h": 396.999267578125
+        },
+        "visible": {
+          "x": 1319.0318603515625,
+          "y": 1370.0003662109375,
+          "w": 584.936279296875,
+          "h": 396.999267578125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "9 pagesto colour",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-count",
+        "value": "9 colouring pages",
+        "text": "9 pagesto colour"
+      }
+    ],
+    "slide": "03-collage",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "03-collage.png",
+    "thumb": "thumbs/03-collage.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2656784,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1000,
+        "boxH": 666,
+        "complete": true,
+        "rect": {
+          "x": 888.6830444335938,
+          "y": 1042.7530517578125,
+          "w": 1022.6338500976562,
+          "h": 700.493896484375
+        },
+        "visible": {
+          "x": 888.6830444335938,
+          "y": 1042.7530517578125,
+          "w": 1022.6338500976562,
+          "h": 700.493896484375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Colour ityour way",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "example",
+        "value": "Coloured example",
+        "text": "Coloured example"
+      },
+      {
+        "claim": "line-art",
+        "value": "Black-and-white line art",
+        "text": "Black-and-white line art"
+      }
+    ],
+    "slide": "04-coloured",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "04-coloured.png",
+    "thumb": "thumbs/04-coloured.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2876989,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1200,
+        "boxH": 800,
+        "complete": true,
+        "rect": {
+          "x": 100,
+          "y": 400,
+          "w": 1200,
+          "h": 800
+        },
+        "visible": {
+          "x": 100,
+          "y": 400,
+          "w": 1200,
+          "h": 800
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Print it.Colour it.",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "example",
+        "value": "Coloured example",
+        "text": "Coloured example"
+      },
+      {
+        "claim": "line-art",
+        "value": "Black-and-white line art",
+        "text": "Black-and-white line art"
+      },
+      {
+        "claim": "example",
+        "value": "Coloured example for inspiration",
+        "text": "Coloured example for inspiration"
+      }
+    ],
+    "slide": "05-before-after",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "05-before-after.png",
+    "thumb": "thumbs/05-before-after.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1876901,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "b4ae0382c29385bf1c39e338dbe260e115d15654b1a6d590dcb1f9eb0d6489ce",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 500,
+        "boxH": 333,
+        "complete": true,
+        "rect": {
+          "x": 161.5722198486328,
+          "y": 403.77374267578125,
+          "w": 536.8555908203125,
+          "h": 391.4525146484375
+        },
+        "visible": {
+          "x": 161.5722198486328,
+          "y": 403.77374267578125,
+          "w": 536.8555908203125,
+          "h": 391.4525146484375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 500,
+        "boxH": 333,
+        "complete": true,
+        "rect": {
+          "x": 310,
+          "y": 433,
+          "w": 500,
+          "h": 333
+        },
+        "visible": {
+          "x": 310,
+          "y": 433,
+          "w": 500,
+          "h": 333
+        },
+        "crop": null
+      },
+      {
+        "sha256": "dab1e8198b84c201ec0be178ecebc8f7ee8784adfb3dd564b020e72dab49a70e",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 500,
+        "boxH": 333,
+        "complete": true,
+        "rect": {
+          "x": 421.57220458984375,
+          "y": 403.77374267578125,
+          "w": 536.8555908203125,
+          "h": 391.4525146484375
+        },
+        "visible": {
+          "x": 421.57220458984375,
+          "y": 403.77374267578125,
+          "w": 536.8555908203125,
+          "h": 391.4525146484375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "3a4d35991859e03d0746695f14da6cbf03b3090d4e309bdd25978b3594b2212f",
+        "naturalW": 842,
+        "naturalH": 596,
+        "boxW": 700,
+        "boxH": 495,
+        "complete": true,
+        "rect": {
+          "x": 1077.5264892578125,
+          "y": 334.0216064453125,
+          "w": 724.947021484375,
+          "h": 530.956787109375
+        },
+        "visible": {
+          "x": 1077.5264892578125,
+          "y": 334.0216064453125,
+          "w": 724.947021484375,
+          "h": 530.956787109375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "b4ae0382c29385bf1c39e338dbe260e115d15654b1a6d590dcb1f9eb0d6489ce",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 560,
+        "boxH": 373,
+        "complete": true,
+        "rect": {
+          "x": 180.81094360351562,
+          "y": 1139.3060302734375,
+          "w": 590.378173828125,
+          "h": 420.387939453125
+        },
+        "visible": {
+          "x": 180.81094360351562,
+          "y": 1139.3060302734375,
+          "w": 590.378173828125,
+          "h": 420.387939453125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 560,
+        "boxH": 373,
+        "complete": true,
+        "rect": {
+          "x": 348.8109436035156,
+          "y": 1219.3060302734375,
+          "w": 590.378173828125,
+          "h": 420.387939453125
+        },
+        "visible": {
+          "x": 348.8109436035156,
+          "y": 1219.3060302734375,
+          "w": 590.378173828125,
+          "h": 420.387939453125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "256dd976f360a784a373ab31e44366f0c1a601444ad71e67f6339e047701fb0d",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 382,
+        "boxH": 540,
+        "complete": true,
+        "rect": {
+          "x": 1239.6934814453125,
+          "y": 1113.4986572265625,
+          "w": 400.613037109375,
+          "h": 553.002685546875
+        },
+        "visible": {
+          "x": 1239.6934814453125,
+          "y": 1113.4986572265625,
+          "w": 400.613037109375,
+          "h": 553.002685546875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "What’s included",
+        "fontPx": 124
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-count",
+        "value": "9 colouring pages + cover",
+        "text": "9 colouring pages + cover"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "Every page as a PNG",
+        "text": "Every page as a PNG"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "06-included",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "06-included.png",
+    "thumb": "thumbs/06-included.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1485605,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "3a4d35991859e03d0746695f14da6cbf03b3090d4e309bdd25978b3594b2212f",
+        "naturalW": 842,
+        "naturalH": 596,
+        "boxW": 735,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 213,
+          "y": 1280,
+          "w": 735,
+          "h": 520
+        },
+        "visible": {
+          "x": 213,
+          "y": 1280,
+          "w": 735,
+          "h": 520
+        },
+        "crop": null
+      },
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 780,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 1007,
+          "y": 1280,
+          "w": 780,
+          "h": 520
+        },
+        "visible": {
+          "x": 1007,
+          "y": 1280,
+          "w": 780,
+          "h": 520
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Instant digitaldownload",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Instant digital download",
+        "text": "Instant digitaldownload"
+      },
+      {
+        "claim": "digital",
+        "value": "No physical item will be shipped",
+        "text": "No physical item will be shipped"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant access after purchase",
+        "text": "Instant accessafter purchase"
+      },
+      {
+        "claim": "process",
+        "value": "Print at home or use a print shop",
+        "text": "Print at homeor use a print shop"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US LetterPDFs"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Step-by-step printing guide",
+        "text": "Step-by-stepprinting guide"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Colour",
+        "text": "Colour"
+      }
+    ],
+    "slide": "07-printable",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "07-printable.png",
+    "thumb": "thumbs/07-printable.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2341238,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "dab1e8198b84c201ec0be178ecebc8f7ee8784adfb3dd564b020e72dab49a70e",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1560,
+        "boxH": 1040,
+        "complete": true,
+        "rect": {
+          "x": 211.04354858398438,
+          "y": 856.46630859375,
+          "w": 1577.912841796875,
+          "h": 1067.0673828125
+        },
+        "visible": {
+          "x": 211.04354858398438,
+          "y": 856.46630859375,
+          "w": 1577.912841796875,
+          "h": 1067.0673828125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Made forrelaxed colouring",
+        "fontPx": 128
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "process",
+        "value": "One design per page",
+        "text": "One design per page"
+      },
+      {
+        "claim": "line-art",
+        "value": "Black-and-white line art",
+        "text": "Black-and-white line art"
+      },
+      {
+        "claim": "process",
+        "value": "Print single-sided",
+        "text": "Print single-sided"
+      },
+      {
+        "claim": "process",
+        "value": "Print as many copies as you need for personal use",
+        "text": "Print as many copies as you need"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide included",
+        "text": "Printing guide included"
+      }
+    ],
+    "slide": "08-features",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "08-features.png",
+    "thumb": "thumbs/08-features.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3249310,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "a90cf13155306eab0d7dc7953d6f0c6fa48c0a085b27549c0edf54bd3e9a841c",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1707,
+        "boxH": 1138,
+        "complete": true,
+        "rect": {
+          "x": 89.89173889160156,
+          "y": 539.1576538085938,
+          "w": 1799.89501953125,
+          "h": 1279.570556640625
+        },
+        "visible": {
+          "x": 89.89173889160156,
+          "y": 539.1576538085938,
+          "w": 1799.89501953125,
+          "h": 1279.570556640625
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Your quietcreative hour",
+        "fontPx": 116
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Autumn Railway Journey Colouring Book",
+        "text": "Autumn Railway Journey Colouring Book"
+      }
+    ],
+    "slide": "09-lifestyle",
+    "scene": "env-09-lifestyle",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "archetype": "centre-stage",
+      "fallback_from": "editorial-left",
+      "region": {
+        "x": 146,
+        "y": 601,
+        "w": 1707,
+        "h": 1138
+      },
+      "text_zone": "top",
+      "rotation": 5,
+      "rotation_dropped": false,
+      "min_share": 0.35
+    },
+    "file": "09-lifestyle.png",
+    "thumb": "thumbs/09-lifestyle.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2556285,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2594c8cd13383c916479523a2cde6d34ab67595848bec46f88c3a0e5707b36ec",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1100,
+        "boxH": 733,
+        "complete": true,
+        "rect": {
+          "x": 85.13501739501953,
+          "y": 487.2898864746094,
+          "w": 1129.72998046875,
+          "h": 778.420166015625
+        },
+        "visible": {
+          "x": 85.13501739501953,
+          "y": 487.2898864746094,
+          "w": 1129.72998046875,
+          "h": 778.420166015625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "b3d8d70c9d8ff218e3ba2542aa3f34f0faec201b573c9f24b8b3b0ad4e8db581",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1100,
+        "boxH": 733,
+        "complete": true,
+        "rect": {
+          "x": 267.4452209472656,
+          "y": 627.5620727539062,
+          "w": 1115.109619140625,
+          "h": 755.8759155273438
+        },
+        "visible": {
+          "x": 267.4452209472656,
+          "y": 627.5620727539062,
+          "w": 1115.109619140625,
+          "h": 755.8759155273438
+        },
+        "crop": null
+      },
+      {
+        "sha256": "17f8439fa54a5baebf36027e702a08aa1dd49ca81c72efbe14be30ef1afd7eea",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1100,
+        "boxH": 733,
+        "complete": true,
+        "rect": {
+          "x": 450,
+          "y": 768,
+          "w": 1100,
+          "h": 733
+        },
+        "visible": {
+          "x": 450,
+          "y": 768,
+          "w": 1100,
+          "h": 733
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d6e2e9cd8dbab1bb840d971f6b6d448488ad776093c683728c89e26cb0593140",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1100,
+        "boxH": 733,
+        "complete": true,
+        "rect": {
+          "x": 617.4452514648438,
+          "y": 886.5620727539062,
+          "w": 1115.109619140625,
+          "h": 755.8759155273438
+        },
+        "visible": {
+          "x": 617.4452514648438,
+          "y": 886.5620727539062,
+          "w": 1115.109619140625,
+          "h": 755.8759155273438
+        },
+        "crop": null
+      },
+      {
+        "sha256": "dab1e8198b84c201ec0be178ecebc8f7ee8784adfb3dd564b020e72dab49a70e",
+        "naturalW": 1400,
+        "naturalH": 933,
+        "boxW": 1100,
+        "boxH": 733,
+        "complete": true,
+        "rect": {
+          "x": 785.135009765625,
+          "y": 1004.2898559570312,
+          "w": 1129.72998046875,
+          "h": 778.4202270507812
+        },
+        "visible": {
+          "x": 785.135009765625,
+          "y": 1004.2898559570312,
+          "w": 1129.72998046875,
+          "h": 778.4202270507812
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Download,print & colour",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-count",
+        "value": "9 colouring pages",
+        "text": "9 colouring pages"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "PNG pages",
+        "text": "PNG pages"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "10-bundle",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "10-bundle.png",
+    "thumb": "thumbs/10-bundle.png"
+  }
+]

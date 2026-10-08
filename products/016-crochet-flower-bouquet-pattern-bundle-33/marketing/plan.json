@@ -1,0 +1,1266 @@
+{
+  "format": "crochet-pattern-bundle",
+  "campaign": "crochet-botanical",
+  "strategy": {
+    "family": "crochet_pattern",
+    "theme": "none",
+    "visual_marketing_mood": "premium warm lifestyle"
+  },
+  "creative": {
+    "version": 1,
+    "source": "baseline-fallback",
+    "note": "Creative Director output rejected (07-desire scene_brief over 400 characters); no further model call (owner rule): code baseline used."
+  },
+  "slides": [
+    {
+      "id": "01-stop-scroll",
+      "template": "creative",
+      "job": "stop-scroll",
+      "purpose": "Stop the scroll: desire and premium quality at thumbnail size.",
+      "density": "editorial-hero",
+      "copy": {
+        "kicker": {
+          "text": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+          "claim": [
+            "product-title",
+            "Moonlit Meadow Crochet Bouquet Pattern Bundle"
+          ]
+        },
+        "headline": {
+          "text": "33 Crochet\nBouquet Patterns",
+          "claim": [
+            "pattern-count",
+            "33 crochet bouquet patterns"
+          ]
+        },
+        "meta": [
+          {
+            "text": "A4 + US Letter",
+            "claim": [
+              "format",
+              "A4 + US Letter"
+            ]
+          },
+          {
+            "text": "US crochet terms",
+            "claim": [
+              "terms",
+              "US crochet terms"
+            ]
+          }
+        ]
+      },
+      "min_product_share": 0.5,
+      "extras": {},
+      "creative": {
+        "id": "01-stop-scroll",
+        "job": "stop-scroll",
+        "purpose": "Stop the scroll: desire and premium quality at thumbnail size.",
+        "buyer_message": "A generous collection of bouquet patterns I would love to make.",
+        "emotional_goal": "desire, premium",
+        "headline": "33 Crochet\nBouquet Patterns",
+        "supporting_copy": null,
+        "focal_asset": "render-bouquet",
+        "supporting_assets": [
+          "doc-cover",
+          "page-garden-rose",
+          "page-twilight-lily"
+        ],
+        "composition": "editorial-hero",
+        "hierarchy": {
+          "primary": "the approved bouquet render, full-bleed",
+          "secondary": "the headline",
+          "tertiary": "the real booklet entering the frame and the format line"
+        },
+        "background": "render",
+        "props": [],
+        "crop": {
+          "asset": "render-bouquet",
+          "focus": [
+            0.5,
+            0.45
+          ],
+          "zoom": 1
+        },
+        "text_zone": "top-left",
+        "scene_brief": "",
+        "claims_used": [
+          "product-title",
+          "pattern-count",
+          "format",
+          "terms",
+          "render"
+        ],
+        "avoid": [
+          "text over the crochet",
+          "a photographic claim"
+        ],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    },
+    {
+      "id": "02-what-you-get",
+      "template": "creative",
+      "job": "what-you-get",
+      "purpose": "What am I getting?: generosity: every real file in the download.",
+      "density": "included-spread",
+      "copy": {
+        "headline": {
+          "text": "Everything in\nYour Download"
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {
+        "labels": [
+          {
+            "asset": "doc-cover",
+            "text": "Complete pattern collection PDF",
+            "claim": [
+              "included",
+              "Complete pattern collection PDF"
+            ],
+            "dx": 30,
+            "dy": -62
+          },
+          {
+            "asset": "page-garden-rose",
+            "text": "Each pattern as its own PDF",
+            "claim": [
+              "individual",
+              "Each pattern as its own PDF"
+            ],
+            "dx": -140,
+            "dy": -110
+          },
+          {
+            "asset": "doc-guide",
+            "text": "Printing guide",
+            "claim": [
+              "printing-guide",
+              "Printing guide"
+            ],
+            "dx": 30,
+            "dy": -50
+          }
+        ]
+      },
+      "creative": {
+        "id": "02-what-you-get",
+        "job": "what-you-get",
+        "purpose": "What am I getting?: generosity: every real file in the download.",
+        "buyer_message": "I get the complete collection, every pattern on its own, and the references.",
+        "emotional_goal": "generosity, trust",
+        "headline": "Everything in\nYour Download",
+        "supporting_copy": null,
+        "focal_asset": "doc-cover",
+        "supporting_assets": [
+          "doc-index",
+          "page-garden-rose",
+          "page-winter-camellia",
+          "doc-materials",
+          "doc-abbreviations",
+          "doc-guide"
+        ],
+        "composition": "included-spread",
+        "hierarchy": {
+          "primary": "the real collection cover",
+          "secondary": "the other files fanned around it",
+          "tertiary": "three short labels"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "included",
+          "individual",
+          "printing-guide"
+        ],
+        "avoid": [
+          "labels on every item",
+          "a grid of identical tiles"
+        ],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    },
+    {
+      "id": "03-quality",
+      "template": "creative",
+      "job": "quality",
+      "purpose": "Show me the quality: craft and trust: one pattern up close.",
+      "density": "macro-detail",
+      "copy": {
+        "kicker": {
+          "text": "Pattern 01 of 33",
+          "claim": [
+            "pattern-number",
+            "Pattern 01 of 33"
+          ]
+        },
+        "headline": {
+          "text": "Inside the\nGarden Rose"
+        },
+        "meta": [
+          {
+            "text": "Intermediate",
+            "claim": [
+              "skill",
+              "Intermediate"
+            ]
+          },
+          {
+            "text": "US crochet terms",
+            "claim": [
+              "terms",
+              "US crochet terms"
+            ]
+          }
+        ]
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "03-quality",
+        "job": "quality",
+        "purpose": "Show me the quality: craft and trust: one pattern up close.",
+        "buyer_message": "The patterns are detailed and the pieces look beautiful.",
+        "emotional_goal": "craft, trust",
+        "headline": "Inside the\nGarden Rose",
+        "supporting_copy": null,
+        "focal_asset": "render-detail",
+        "supporting_assets": [
+          "page-garden-rose"
+        ],
+        "composition": "macro-detail",
+        "hierarchy": {
+          "primary": "the Garden Rose render, a macro crop in an arch",
+          "secondary": "its real pattern page",
+          "tertiary": "pattern number and level"
+        },
+        "background": "sage",
+        "props": [],
+        "crop": {
+          "asset": "render-detail",
+          "focus": [
+            0.5,
+            0.53
+          ],
+          "zoom": 1.1
+        },
+        "text_zone": "right-column",
+        "scene_brief": "",
+        "claims_used": [
+          "pattern-number",
+          "skill",
+          "terms",
+          "render"
+        ],
+        "avoid": [
+          "a photographic claim",
+          "a count the pattern does not state"
+        ],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    },
+    {
+      "id": "04-variety",
+      "template": "creative",
+      "job": "variety",
+      "purpose": "Show me the variety: abundance: how many different pieces there are to make.",
+      "density": "collection",
+      "copy": {
+        "headline": {
+          "text": "33 Patterns\nto Make",
+          "claim": [
+            "pattern-count",
+            "33 patterns"
+          ]
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {
+        "names": [
+          {
+            "text": "Garden Rose",
+            "claim": [
+              "pattern-name",
+              "Garden Rose"
+            ]
+          },
+          {
+            "text": "Moon Peony",
+            "claim": [
+              "pattern-name",
+              "Moon Peony"
+            ]
+          },
+          {
+            "text": "Heirloom Dahlia",
+            "claim": [
+              "pattern-name",
+              "Heirloom Dahlia"
+            ]
+          },
+          {
+            "text": "Meadow Ranunculus",
+            "claim": [
+              "pattern-name",
+              "Meadow Ranunculus"
+            ]
+          },
+          {
+            "text": "Starlit Anemone",
+            "claim": [
+              "pattern-name",
+              "Starlit Anemone"
+            ]
+          },
+          {
+            "text": "Cottage Poppy",
+            "claim": [
+              "pattern-name",
+              "Cottage Poppy"
+            ]
+          },
+          {
+            "text": "Twilight Lily",
+            "claim": [
+              "pattern-name",
+              "Twilight Lily"
+            ]
+          },
+          {
+            "text": "Wild Sunflower",
+            "claim": [
+              "pattern-name",
+              "Wild Sunflower"
+            ]
+          },
+          {
+            "text": "Blush Tulip",
+            "claim": [
+              "pattern-name",
+              "Blush Tulip"
+            ]
+          }
+        ]
+      },
+      "creative": {
+        "id": "04-variety",
+        "job": "variety",
+        "purpose": "Show me the variety: abundance: how many different pieces there are to make.",
+        "buyer_message": "33 different patterns: plenty to choose from.",
+        "emotional_goal": "abundance, delight",
+        "headline": "33 Patterns\nto Make",
+        "supporting_copy": null,
+        "focal_asset": "render-overview",
+        "supporting_assets": [
+          "page-twilight-lily",
+          "page-winter-camellia",
+          "page-golden-billy-button",
+          "page-woodland-fern"
+        ],
+        "composition": "collection",
+        "hierarchy": {
+          "primary": "the approved overview render in an arch",
+          "secondary": "real pattern pages fanned behind",
+          "tertiary": "the pictured pattern names"
+        },
+        "background": "blush",
+        "props": [],
+        "crop": {
+          "asset": "render-overview",
+          "focus": [
+            0.5,
+            0.56
+          ],
+          "zoom": 1.04
+        },
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "pattern-count",
+          "pattern-name",
+          "render"
+        ],
+        "avoid": [
+          "an open-ended count",
+          "pattern names that are not in the render"
+        ],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    },
+    {
+      "id": "05-useful",
+      "template": "creative",
+      "job": "useful",
+      "purpose": "Why is this useful?: confidence: what every pattern gives you.",
+      "density": "feature-focus",
+      "copy": {
+        "headline": {
+          "text": "Beginner to\nExperienced",
+          "claim": [
+            "skill",
+            "Beginner to Experienced"
+          ]
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {
+        "list": [
+          {
+            "text": "Skill level on every pattern",
+            "claim": [
+              "features",
+              "Skill level on every pattern"
+            ]
+          },
+          {
+            "text": "US crochet terms",
+            "claim": [
+              "terms",
+              "US crochet terms"
+            ]
+          },
+          {
+            "text": "Materials listed for every pattern",
+            "claim": [
+              "features",
+              "Materials listed for every pattern"
+            ]
+          },
+          {
+            "text": "Step-by-step instructions",
+            "claim": [
+              "instructions",
+              "Step-by-step instructions"
+            ]
+          }
+        ]
+      },
+      "creative": {
+        "id": "05-useful",
+        "job": "useful",
+        "purpose": "Why is this useful?: confidence: what every pattern gives you.",
+        "buyer_message": "Clear written patterns for my level, with everything listed.",
+        "emotional_goal": "confidence",
+        "headline": "Beginner to\nExperienced",
+        "supporting_copy": null,
+        "focal_asset": "page-twilight-lily",
+        "supporting_assets": [
+          "page-twilight-lily"
+        ],
+        "composition": "feature-focus",
+        "hierarchy": {
+          "primary": "real written instructions, cropped close",
+          "secondary": "the skill range",
+          "tertiary": "short features"
+        },
+        "background": "paper",
+        "props": [],
+        "crop": {
+          "asset": "page-twilight-lily",
+          "focus": [
+            0.5,
+            0.7
+          ],
+          "zoom": 1.15
+        },
+        "text_zone": "left-column",
+        "scene_brief": "",
+        "claims_used": [
+          "skill",
+          "features",
+          "terms",
+          "instructions"
+        ],
+        "avoid": [
+          "a feature the patterns do not all have"
+        ],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    },
+    {
+      "id": "06-how-it-works",
+      "template": "creative",
+      "job": "how-it-works",
+      "purpose": "How does it work?: ease: from download to the hook in three steps.",
+      "density": "process",
+      "copy": {
+        "headline": {
+          "text": "Download · Print · Crochet"
+        },
+        "meta": [
+          {
+            "text": "Instant digital download",
+            "claim": [
+              "digital",
+              "Instant digital download"
+            ]
+          },
+          {
+            "text": "Print at home",
+            "claim": [
+              "digital",
+              "Print at home"
+            ]
+          }
+        ]
+      },
+      "min_product_share": 0.12,
+      "extras": {
+        "steps": [
+          {
+            "label": {
+              "text": "Download",
+              "claim": [
+                "process",
+                "Download"
+              ]
+            },
+            "assets": [
+              "doc-cover",
+              "page-garden-rose",
+              "doc-index"
+            ]
+          },
+          {
+            "label": {
+              "text": "Print",
+              "claim": [
+                "process",
+                "Print"
+              ]
+            },
+            "assets": [
+              "page-garden-rose"
+            ]
+          },
+          {
+            "label": {
+              "text": "Crochet",
+              "claim": [
+                "process",
+                "Crochet"
+              ]
+            },
+            "assets": [
+              "render-detail"
+            ],
+            "note": {
+              "text": "Illustrated example",
+              "claim": [
+                "render",
+                "Illustrated example"
+              ]
+            }
+          }
+        ]
+      },
+      "creative": {
+        "id": "06-how-it-works",
+        "job": "how-it-works",
+        "purpose": "How does it work?: ease: from download to the hook in three steps.",
+        "buyer_message": "I download, print and start crocheting the same day.",
+        "emotional_goal": "ease",
+        "headline": "Download · Print · Crochet",
+        "supporting_copy": null,
+        "focal_asset": "doc-cover",
+        "supporting_assets": [
+          "page-garden-rose",
+          "doc-index",
+          "render-detail"
+        ],
+        "composition": "process",
+        "hierarchy": {
+          "primary": "the three steps with real files",
+          "secondary": "the headline",
+          "tertiary": "the delivery line"
+        },
+        "background": "ivory",
+        "props": [],
+        "crop": null,
+        "text_zone": "bottom-band",
+        "scene_brief": "",
+        "claims_used": [
+          "process",
+          "digital",
+          "render"
+        ],
+        "avoid": [],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    },
+    {
+      "id": "07-desire",
+      "template": "creative",
+      "job": "desire",
+      "purpose": "Make me want it: calm and aspiration: the collection in a quiet crafting moment.",
+      "density": "lifestyle",
+      "copy": {
+        "headline": {
+          "text": "Your Quiet\nCrafting Hour"
+        },
+        "subline": {
+          "text": "Print a pattern, pour a cup of tea, begin."
+        }
+      },
+      "min_product_share": 0.2,
+      "extras": {},
+      "tone": true,
+      "creative": {
+        "id": "07-desire",
+        "job": "desire",
+        "purpose": "Make me want it: calm and aspiration: the collection in a quiet crafting moment.",
+        "buyer_message": "This is how my evenings could feel.",
+        "emotional_goal": "calm, aspiration",
+        "headline": "Your Quiet\nCrafting Hour",
+        "supporting_copy": "Print a pattern, pour a cup of tea, begin.",
+        "focal_asset": "render-detail",
+        "supporting_assets": [
+          "doc-index",
+          "page-garden-rose"
+        ],
+        "composition": "lifestyle",
+        "hierarchy": {
+          "primary": "the open booklet on a crafting table",
+          "secondary": "the headline",
+          "tertiary": "the framed illustration card"
+        },
+        "background": "environment",
+        "props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "tea cup",
+          "linen cloth",
+          "window light"
+        ],
+        "crop": {
+          "asset": "render-detail",
+          "focus": [
+            0.5,
+            0.52
+          ],
+          "zoom": 1.1
+        },
+        "text_zone": "top-right",
+        "scene_brief": "A warm oak crafting table by a window with a neutral linen cloth: a few plain skeins of yarn in blush, sage and cream, a wooden crochet hook and a cup of tea, soft window light, shallow depth of field, a quiet premium crafting mood. Keep the centre and lower half of the table clear and evenly lit.",
+        "claims_used": [
+          "render"
+        ],
+        "avoid": [
+          "flowers or crochet in the AI scene",
+          "a framed render that reads as a photograph"
+        ],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      },
+      "scene": "env-07-desire"
+    },
+    {
+      "id": "08-doubts",
+      "template": "creative",
+      "job": "doubts",
+      "purpose": "Remove my doubts: clarity: exactly what the buyer receives, and what they do not.",
+      "density": "fact-sheet",
+      "copy": {
+        "kicker": {
+          "text": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+          "claim": [
+            "product-title",
+            "Moonlit Meadow Crochet Bouquet Pattern Bundle"
+          ]
+        },
+        "headline": {
+          "text": "Digital PDF\nPattern Download",
+          "claim": [
+            "digital",
+            "Digital PDF pattern download"
+          ]
+        }
+      },
+      "min_product_share": 0.08,
+      "extras": {
+        "facts": [
+          {
+            "icon": "instant",
+            "item": {
+              "text": "Instant download",
+              "claim": [
+                "digital",
+                "Instant download"
+              ]
+            }
+          },
+          {
+            "icon": "files",
+            "item": {
+              "text": "A4 + US Letter PDFs",
+              "claim": [
+                "format",
+                "A4 + US Letter PDFs"
+              ]
+            }
+          },
+          {
+            "icon": "skein",
+            "item": {
+              "text": "No yarn or hook included",
+              "claim": [
+                "delivery",
+                "No yarn or hook included"
+              ]
+            }
+          },
+          {
+            "icon": "frame",
+            "item": {
+              "text": "Illustrations, not photos",
+              "claim": [
+                "render",
+                "Illustrations, not photos"
+              ]
+            }
+          }
+        ]
+      },
+      "creative": {
+        "id": "08-doubts",
+        "job": "doubts",
+        "purpose": "Remove my doubts: clarity: exactly what the buyer receives, and what they do not.",
+        "buyer_message": "It is a digital PDF; I know what I get.",
+        "emotional_goal": "clarity, reassurance",
+        "headline": "Digital PDF\nPattern Download",
+        "supporting_copy": null,
+        "focal_asset": "doc-cover",
+        "supporting_assets": [
+          "doc-guide"
+        ],
+        "composition": "fact-sheet",
+        "hierarchy": {
+          "primary": "four large facts",
+          "secondary": "the headline",
+          "tertiary": "the real cover and guide"
+        },
+        "background": "dusk",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "",
+        "claims_used": [
+          "product-title",
+          "digital",
+          "format",
+          "delivery",
+          "render"
+        ],
+        "avoid": [],
+        "allowed_props": [
+          "yarn skeins",
+          "wooden crochet hook",
+          "small scissors",
+          "tea cup",
+          "linen cloth",
+          "oak table",
+          "window light"
+        ]
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "env-07-desire",
+      "slide": "07-desire",
+      "purpose": "Make me want it: calm and aspiration: the collection in a quiet crafting moment.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: premium warm lifestyle.\nScene: A warm oak crafting table by a window with a neutral linen cloth: a few plain skeins of yarn in blush, sage and cream, a wooden crochet hook and a cup of tea, soft window light, shallow depth of field, a quiet premium crafting mood. Keep the centre and lower half of the table clear and evenly lit.\nProps (plain materials only): yarn skeins, wooden crochet hook, tea cup, linen cloth, window light.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top right area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/07-desire.png",
+      "sha256": "8046e3aa2065d6c8e5b5c7e40b6de0b623488e47c4d791511c5a3b176e10f78a",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "engine": {
+    "id": "ai-creative",
+    "version": 1
+  },
+  "campaign_direction": null,
+  "model": "gpt-5.6-terra (direction output rejected)",
+  "generated_at": "2026-10-06T08:59:25.491Z",
+  "directions": {
+    "01-stop-scroll": {
+      "id": "01-stop-scroll",
+      "job": "stop-scroll",
+      "purpose": "Stop the scroll: desire and premium quality at thumbnail size.",
+      "buyer_message": "A generous collection of bouquet patterns I would love to make.",
+      "emotional_goal": "desire, premium",
+      "headline": "33 Crochet\nBouquet Patterns",
+      "supporting_copy": null,
+      "composition": "editorial-hero",
+      "focal_asset": "render-bouquet",
+      "supporting_assets": [
+        "doc-cover",
+        "page-garden-rose",
+        "page-twilight-lily"
+      ],
+      "hierarchy": {
+        "primary": "the approved bouquet render, full-bleed",
+        "secondary": "the headline",
+        "tertiary": "the real booklet entering the frame and the format line"
+      },
+      "background": "render",
+      "props": [],
+      "crop": {
+        "asset": "render-bouquet",
+        "focus": [
+          0.5,
+          0.45
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "",
+      "claims_used": [
+        "product-title",
+        "pattern-count",
+        "format",
+        "terms",
+        "render"
+      ],
+      "avoid": [
+        "text over the crochet",
+        "a photographic claim"
+      ],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "02-what-you-get": {
+      "id": "02-what-you-get",
+      "job": "what-you-get",
+      "purpose": "What am I getting?: generosity: every real file in the download.",
+      "buyer_message": "I get the complete collection, every pattern on its own, and the references.",
+      "emotional_goal": "generosity, trust",
+      "headline": "Everything in\nYour Download",
+      "supporting_copy": null,
+      "composition": "included-spread",
+      "focal_asset": "doc-cover",
+      "supporting_assets": [
+        "doc-index",
+        "page-garden-rose",
+        "page-winter-camellia",
+        "doc-materials",
+        "doc-abbreviations",
+        "doc-guide"
+      ],
+      "hierarchy": {
+        "primary": "the real collection cover",
+        "secondary": "the other files fanned around it",
+        "tertiary": "three short labels"
+      },
+      "background": "linen",
+      "props": [],
+      "crop": null,
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "included",
+        "individual",
+        "printing-guide"
+      ],
+      "avoid": [
+        "labels on every item",
+        "a grid of identical tiles"
+      ],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "03-quality": {
+      "id": "03-quality",
+      "job": "quality",
+      "purpose": "Show me the quality: craft and trust: one pattern up close.",
+      "buyer_message": "The patterns are detailed and the pieces look beautiful.",
+      "emotional_goal": "craft, trust",
+      "headline": "Inside the\nGarden Rose",
+      "supporting_copy": null,
+      "composition": "macro-detail",
+      "focal_asset": "render-detail",
+      "supporting_assets": [
+        "page-garden-rose"
+      ],
+      "hierarchy": {
+        "primary": "the Garden Rose render, a macro crop in an arch",
+        "secondary": "its real pattern page",
+        "tertiary": "pattern number and level"
+      },
+      "background": "sage",
+      "props": [],
+      "crop": {
+        "asset": "render-detail",
+        "focus": [
+          0.5,
+          0.53
+        ],
+        "zoom": 1.1
+      },
+      "text_zone": "right-column",
+      "scene_brief": "",
+      "claims_used": [
+        "pattern-number",
+        "skill",
+        "terms",
+        "render"
+      ],
+      "avoid": [
+        "a photographic claim",
+        "a count the pattern does not state"
+      ],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "04-variety": {
+      "id": "04-variety",
+      "job": "variety",
+      "purpose": "Show me the variety: abundance: how many different pieces there are to make.",
+      "buyer_message": "33 different patterns: plenty to choose from.",
+      "emotional_goal": "abundance, delight",
+      "headline": "33 Patterns\nto Make",
+      "supporting_copy": null,
+      "composition": "collection",
+      "focal_asset": "render-overview",
+      "supporting_assets": [
+        "page-twilight-lily",
+        "page-winter-camellia",
+        "page-golden-billy-button",
+        "page-woodland-fern"
+      ],
+      "hierarchy": {
+        "primary": "the approved overview render in an arch",
+        "secondary": "real pattern pages fanned behind",
+        "tertiary": "the pictured pattern names"
+      },
+      "background": "blush",
+      "props": [],
+      "crop": {
+        "asset": "render-overview",
+        "focus": [
+          0.5,
+          0.56
+        ],
+        "zoom": 1.04
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "pattern-count",
+        "pattern-name",
+        "render"
+      ],
+      "avoid": [
+        "an open-ended count",
+        "pattern names that are not in the render"
+      ],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "05-useful": {
+      "id": "05-useful",
+      "job": "useful",
+      "purpose": "Why is this useful?: confidence: what every pattern gives you.",
+      "buyer_message": "Clear written patterns for my level, with everything listed.",
+      "emotional_goal": "confidence",
+      "headline": "Beginner to\nExperienced",
+      "supporting_copy": null,
+      "composition": "feature-focus",
+      "focal_asset": "page-twilight-lily",
+      "supporting_assets": [
+        "page-twilight-lily"
+      ],
+      "hierarchy": {
+        "primary": "real written instructions, cropped close",
+        "secondary": "the skill range",
+        "tertiary": "short features"
+      },
+      "background": "paper",
+      "props": [],
+      "crop": {
+        "asset": "page-twilight-lily",
+        "focus": [
+          0.5,
+          0.7
+        ],
+        "zoom": 1.15
+      },
+      "text_zone": "left-column",
+      "scene_brief": "",
+      "claims_used": [
+        "skill",
+        "features",
+        "terms",
+        "instructions"
+      ],
+      "avoid": [
+        "a feature the patterns do not all have"
+      ],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "06-how-it-works": {
+      "id": "06-how-it-works",
+      "job": "how-it-works",
+      "purpose": "How does it work?: ease: from download to the hook in three steps.",
+      "buyer_message": "I download, print and start crocheting the same day.",
+      "emotional_goal": "ease",
+      "headline": "Download · Print · Crochet",
+      "supporting_copy": null,
+      "composition": "process",
+      "focal_asset": "doc-cover",
+      "supporting_assets": [
+        "page-garden-rose",
+        "doc-index",
+        "render-detail"
+      ],
+      "hierarchy": {
+        "primary": "the three steps with real files",
+        "secondary": "the headline",
+        "tertiary": "the delivery line"
+      },
+      "background": "ivory",
+      "props": [],
+      "crop": null,
+      "text_zone": "bottom-band",
+      "scene_brief": "",
+      "claims_used": [
+        "process",
+        "digital",
+        "render"
+      ],
+      "avoid": [],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "07-desire": {
+      "id": "07-desire",
+      "job": "desire",
+      "purpose": "Make me want it: calm and aspiration: the collection in a quiet crafting moment.",
+      "buyer_message": "This is how my evenings could feel.",
+      "emotional_goal": "calm, aspiration",
+      "headline": "Your Quiet\nCrafting Hour",
+      "supporting_copy": "Print a pattern, pour a cup of tea, begin.",
+      "composition": "lifestyle",
+      "focal_asset": "render-detail",
+      "supporting_assets": [
+        "doc-index",
+        "page-garden-rose"
+      ],
+      "hierarchy": {
+        "primary": "the open booklet on a crafting table",
+        "secondary": "the headline",
+        "tertiary": "the framed illustration card"
+      },
+      "background": "environment",
+      "props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "tea cup",
+        "linen cloth",
+        "window light"
+      ],
+      "crop": {
+        "asset": "render-detail",
+        "focus": [
+          0.5,
+          0.52
+        ],
+        "zoom": 1.1
+      },
+      "text_zone": "top-right",
+      "scene_brief": "A warm oak crafting table by a window with a neutral linen cloth: a few plain skeins of yarn in blush, sage and cream, a wooden crochet hook and a cup of tea, soft window light, shallow depth of field, a quiet premium crafting mood. Keep the centre and lower half of the table clear and evenly lit.",
+      "claims_used": [
+        "render"
+      ],
+      "avoid": [
+        "flowers or crochet in the AI scene",
+        "a framed render that reads as a photograph"
+      ],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    },
+    "08-doubts": {
+      "id": "08-doubts",
+      "job": "doubts",
+      "purpose": "Remove my doubts: clarity: exactly what the buyer receives, and what they do not.",
+      "buyer_message": "It is a digital PDF; I know what I get.",
+      "emotional_goal": "clarity, reassurance",
+      "headline": "Digital PDF\nPattern Download",
+      "supporting_copy": null,
+      "composition": "fact-sheet",
+      "focal_asset": "doc-cover",
+      "supporting_assets": [
+        "doc-guide"
+      ],
+      "hierarchy": {
+        "primary": "four large facts",
+        "secondary": "the headline",
+        "tertiary": "the real cover and guide"
+      },
+      "background": "dusk",
+      "props": [],
+      "crop": null,
+      "text_zone": "top-left",
+      "scene_brief": "",
+      "claims_used": [
+        "product-title",
+        "digital",
+        "format",
+        "delivery",
+        "render"
+      ],
+      "avoid": [],
+      "allowed_props": [
+        "yarn skeins",
+        "wooden crochet hook",
+        "small scissors",
+        "tea cup",
+        "linen cloth",
+        "oak table",
+        "window light"
+      ],
+      "source": "baseline-fallback",
+      "fallbacks": [
+        "all fields (model output rejected)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "product_id": "018",
+  "product_name": "The Apple Pie Kitchen Colouring Book",
+  "product_type": "Autumn colouring book",
+  "product_format": "colouring-book",
+  "season": "Autumn",
+  "target_customer": "Children ages 6–12 who enjoy food, animals and cosy home scenes",
+  "book": {
+    "page_count": 10,
+    "colouring_pages": 9,
+    "cover": true,
+    "orientation": "portrait",
+    "page_px": [
+      1024,
+      1536
+    ],
+    "non_colouring_pages": [
+      {
+        "page_number": 1,
+        "kind": "cover",
+        "title": "The Apple Pie Kitchen Colouring Book"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "title": "The Apple Pie Kitchen Colouring Book",
+      "role": "cover",
+      "page_type": "cover",
+      "asset": "P001",
+      "file": "book/pages/P001.png",
+      "sha256": "616bbffcc862d31c3e9d1c03194bf9a2a473f4378234a8f5764b94d64bc9fefd",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-01-Cover.png"
+    },
+    {
+      "page_number": 2,
+      "title": "Apple Picking",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P002",
+      "file": "book/pages/P002.png",
+      "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-02.png"
+    },
+    {
+      "page_number": 3,
+      "title": "Mixing the Filling",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P003",
+      "file": "book/pages/P003.png",
+      "sha256": "cce54f97381e349f3b9676ae4214e76b262ce4e40d75e7987ca965adc0c24570",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-03.png"
+    },
+    {
+      "page_number": 4,
+      "title": "Rolling Pastry",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P004",
+      "file": "book/pages/P004.png",
+      "sha256": "8836f6bb7d64cd5ec47ace70c918e4c7809db3d76bd11cbb3d0e9b054581fe24",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-04.png"
+    },
+    {
+      "page_number": 5,
+      "title": "Pie in the Oven",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P005",
+      "file": "book/pages/P005.png",
+      "sha256": "816b503517d016864ac3fab62eba51899baeccd8408169638106b996eafb6113",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-05.png"
+    },
+    {
+      "page_number": 6,
+      "title": "Cinnamon Bun Swirls",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P006",
+      "file": "book/pages/P006.png",
+      "sha256": "a929b2430421a34b0b77f92b7dc53a5badce9ae7af051a51ba00f80fa567ed61",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-06.png"
+    },
+    {
+      "page_number": 7,
+      "title": "Cooling Rack Treats",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P007",
+      "file": "book/pages/P007.png",
+      "sha256": "d16df90ec4e3831c69eef9df8f3d4feaba6490eb354ff40bd528d07fc6be9a3d",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-07.png"
+    },
+    {
+      "page_number": 8,
+      "title": "Setting the Tea Table",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P008",
+      "file": "book/pages/P008.png",
+      "sha256": "aa0159f1db0ab40f1e8fd6c7c0aa75ffbd4e7c7e10f8354ba9e90c17f51ce1bb",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-08.png"
+    },
+    {
+      "page_number": 9,
+      "title": "Sharing Apple Pie",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P009",
+      "file": "book/pages/P009.png",
+      "sha256": "3a841398f4122397ec1ab83b7dff20a76454525a06d09b54bc87d5c8d9b778a6",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-09.png"
+    },
+    {
+      "page_number": 10,
+      "title": "A Cosy Kitchen Goodbye",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P010",
+      "file": "book/pages/P010.png",
+      "sha256": "0d449e72307a2847e9252aa49aa32998f817f20b1204936c2bcec94097986e69",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-10.png"
+    }
+  ],
+  "selection": {
+    "cover": 1,
+    "lead": 1,
+    "showcase": [
+      2,
+      6,
+      10
+    ],
+    "collage": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "example": 2,
+    "pages_used": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 1,
+      "pages": 10,
+      "page_size_mm": [
+        210,
+        297
+      ],
+      "artwork_size_mm": [
+        184.7,
+        277
+      ]
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 1,
+      "pages": 10,
+      "page_size_mm": [
+        215.9,
+        279.4
+      ],
+      "artwork_size_mm": [
+        172.9,
+        259.4
+      ]
+    },
+    {
+      "key": "Colouring-Pages-PNG",
+      "label": "PNG pages",
+      "files": 10,
+      "pages": 10
+    }
+  ],
+  "png_pages": true,
+  "png_page_files": 10,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/START-HERE-Printing-Guide.pdf",
+    "sha256": "7b0d43ed04f9c82c601d0ead6107731b14a9b1fac9b02cc6773a7fcf91394b6e"
+  },
+  "sheet_preview": {
+    "file": "production/previews/preview-01-LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4-p1.png",
+    "sha256": "d3d1ab4027ef6bdbc1318b419df5b560902d6f543fb9504b712c5d3db3c18edc",
+    "label": "Cover (A4)"
+  },
+  "line_art": true,
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book",
+    "parts": 3,
+    "zip_mb": 40.8
+  },
+  "effective_ppi": {
+    "A4": 141,
+    "US-Letter": 150
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+      "page": 1,
+      "sha256": "d3d1ab4027ef6bdbc1318b419df5b560902d6f543fb9504b712c5d3db3c18edc"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4-p2.png",
+      "label": "Page 2 of 10 (A4)",
+      "source": "A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+      "page": 2,
+      "sha256": "fbab4c63a03f8bad826729f6dd3eb62deed60ab33fcb6ca5274e176818219b60"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4-p10.png",
+      "label": "Page 10 of 10 (A4)",
+      "source": "A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+      "page": 10,
+      "sha256": "813a29a9d7de08889a544bb93d9fa15d00921f14188df1e6120a6b20841d0417"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "label": "Contact sheet: all 10 pages in order",
+      "source": null,
+      "page": null,
+      "sha256": "48e1e3679d008e5ad0e5cd8d0a6a05b97cc1bace4758411c5b0eb5b0bb4272dc"
+    }
+  ],
+  "page_quantity": {
+    "total_pages": 10,
+    "content_pages": 9,
+    "content": "colouring"
+  },
+  "style": {
+    "subject": "Gentle hedgehog baker",
+    "palette": "Monochrome black ink on white paper; designs should suggest a warm autumn atmosphere through motif and linework rather than filled colour.",
+    "mood": "Warm, peaceful, whimsical and gently festive, with an unhurried cosy feel."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "692c699b04ae45f0b646e1a5e4000df3bd463bc2e58b6c4cac010df39dc8abfe"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "1d771cb9530bc192c3b741829078af9e01145e6e7a2ded042a23861d236eafb2"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "0f3d4a48f9ce5f919b3b42cb7f9db31b505532b0b5c7e898b7647401925f5ae2"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Gentle hedgehog baker",
+      "scene": "Sunlit country kitchen",
+      "emotional_tone": "Wholesome, cheerful and comforting",
+      "illustration_style": "Cosy seasonal colouring-book line art with original storybook charm, using playful rounded forms and inviting domestic-scale detail.",
+      "mood": "Warm, peaceful, whimsical and gently festive, with an unhurried cosy feel.",
+      "detail": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats."
+    },
+    "pages": {
+      "2": {
+        "title": "Apple Picking",
+        "description": "A broad, low apple tree fills the upper half of the scene. The hedgehog baker stands below with a large handled basket containing six apples, reaching for one more apple on a low branch. Fallen leaves, three apples on the grass and a cottage window in the distance create a simple autumn setting.",
+        "source": "approved page brief (page 2)"
+      },
+      "3": {
+        "title": "Mixing the Filling",
+        "description": "Central close kitchen-counter scene with the hedgehog stirring a large mixing bowl using a wooden spoon. Four chunky apple slices are visible at the top of the bowl. A cinnamon stick jar, small measuring cup, flour sack and checked tea towel sit around the bowl, with curved cupboards behind.",
+        "source": "approved page brief (page 3)"
+      },
+      "4": {
+        "title": "Rolling Pastry",
+        "description": "A wide worktable stretches across the page. The hedgehog uses a rolling pin over a large circular pastry sheet, while a small friendly mouse at the side carries one apple in both paws. A pie dish, flour bowl and three leaf-shaped pastry cut-outs form clear supporting details.",
+        "source": "approved page brief (page 4)"
+      },
+      "5": {
+        "title": "Pie in the Oven",
+        "description": "The open low oven is the focal point, holding one round lattice-topped apple pie on its rack. The hedgehog kneels nearby wearing an oven mitt and peeks in happily. A kitchen clock, hanging oven mitt, kettle and a few large leaves in a jar provide cosy background detail.",
+        "source": "approved page brief (page 5)"
+      },
+      "6": {
+        "title": "Cinnamon Bun Swirls",
+        "description": "A top-forward counter composition shows a rectangular baking tray with five large spiral cinnamon buns. The hedgehog’s paws place the final bun on the tray. A rolling pin, a small bowl of icing and two loose dough spirals sit nearby, with a simple tiled splashback behind.",
+        "source": "approved page brief (page 6)"
+      },
+      "7": {
+        "title": "Cooling Rack Treats",
+        "description": "A tall open kitchen window provides the main backdrop. A cooling rack beneath it holds two small apple hand pies and three cinnamon buns. The hedgehog stands beside the rack, holding a tea towel. Outside, a simple tree branch with five large leaves curves into view.",
+        "source": "approved page brief (page 7)"
+      },
+      "8": {
+        "title": "Setting the Tea Table",
+        "description": "A round table is set for three animal friends. It holds three patterned cups, three plates each with one apple pie slice, and a small vase of large autumn flowers. The hedgehog straightens a napkin while a squirrel and rabbit wait on rounded chairs in the background.",
+        "source": "approved page brief (page 8)"
+      },
+      "9": {
+        "title": "Sharing Apple Pie",
+        "description": "A warm seated scene centres on the hedgehog, squirrel and rabbit around a small table. Each friend holds a fork above a plate with one pie slice. A whole lattice pie rests on a sideboard behind them, while a window shows a few broad falling leaves.",
+        "source": "approved page brief (page 9)"
+      },
+      "10": {
+        "title": "A Cosy Kitchen Goodbye",
+        "description": "The hedgehog baker waves from the central kitchen counter, with a gingham cloth and a basket holding one whole pie and four cinnamon buns. The low oven is closed, dishes are neatly stacked, and a crescent moon with two stars appears through the window, ending the story on a peaceful evening note.",
+        "source": "approved page brief (page 10)"
+      }
+    }
+  },
+  "claims": {
+    "product-title": [
+      "The Apple Pie Kitchen Colouring Book"
+    ],
+    "page-count": [
+      "10 pages",
+      "10 printable pages",
+      "10-page",
+      "9 colouring pages",
+      "9 printable colouring pages",
+      "9 pages",
+      "9 designs",
+      "9 illustrations",
+      "9 colouring pages + cover",
+      "9 colouring pages and a cover",
+      "ten pages",
+      "nine colouring pages",
+      "10",
+      "9"
+    ],
+    "page-number": [
+      "Page 1 of 10",
+      "Page 2 of 10",
+      "Page 3 of 10",
+      "Page 4 of 10",
+      "Page 5 of 10",
+      "Page 6 of 10",
+      "Page 7 of 10",
+      "Page 8 of 10",
+      "Page 9 of 10",
+      "Page 10 of 10"
+    ],
+    "page-title": [
+      "The Apple Pie Kitchen Colouring Book",
+      "Apple Picking",
+      "Mixing the Filling",
+      "Rolling Pastry",
+      "Pie in the Oven",
+      "Cinnamon Bun Swirls",
+      "Cooling Rack Treats",
+      "Setting the Tea Table",
+      "Sharing Apple Pie",
+      "A Cosy Kitchen Goodbye"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "PNG pages",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "PDF",
+      "PNG pages",
+      "Every page as a PNG",
+      "PDF and PNG files",
+      "Individual PNG pages"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Colour",
+      "Print at home or use a print shop",
+      "One design per page",
+      "Print single-sided",
+      "Print as many copies as you need for personal use"
+    ],
+    "example": [
+      "Coloured example",
+      "Coloured example for inspiration",
+      "Colours shown are an example only"
+    ],
+    "cover": [
+      "Cover page",
+      "Cover included",
+      "Illustrated cover"
+    ],
+    "line-art": [
+      "Black-and-white line art",
+      "Black and white line art",
+      "Line art"
+    ]
+  }
+}

@@ -1,0 +1,2680 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "016",
+  "workspace": "016-crochet-flower-bouquet-pattern-bundle-33",
+  "name": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+  "slug": "moonlit-meadow-crochet-bouquet-pattern-bundle",
+  "season": "All-season twilight meadow",
+  "product_type": "Crochet flower bouquet pattern bundle",
+  "target_customer": "Adult crocheters drawn to poetic botanical projects and whimsical home décor",
+  "page_count": 3,
+  "status": "AWAITING_ETSY_PUBLISH_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-29T21:13:19.378Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-29T21:13:54.218Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-29T21:13:54.228Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-29T21:14:25.348Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-09-29T21:14:50.451Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-09-29T21:15:20.672Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-29T21:15:20.691Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-29T21:15:58.786Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-09-29T21:16:35.798Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T06:48:45.627Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T06:50:01.010Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "retry",
+      "at": "2026-10-02T07:40:55.167Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T07:40:55.391Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T07:41:32.239Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "patterns_stopped",
+      "at": "2026-10-02T08:38:37.474Z",
+      "actor": "@claude-code"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T09:12:35.086Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T09:13:24.197Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "retry",
+      "at": "2026-10-02T10:56:20.229Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T10:56:20.410Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T11:07:23.344Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "retry",
+      "at": "2026-10-02T11:52:06.871Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T11:52:07.085Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T12:09:33.951Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "retry",
+      "at": "2026-10-02T17:42:14.271Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T17:42:15.432Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "AWAITING_PATTERN_APPROVAL",
+      "event": "patterns_ready",
+      "at": "2026-10-02T17:48:42.269Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PATTERN_APPROVAL",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-02T19:07:36.814Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "AWAITING_PATTERN_APPROVAL",
+      "event": "patterns_ready",
+      "at": "2026-10-02T19:07:36.837Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PATTERN_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "patterns_approved",
+      "at": "2026-10-02T19:07:41.937Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "SPEC_READY",
+      "event": "restyle_started",
+      "at": "2026-10-02T19:08:00.360Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-02T19:08:09.884Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-02T19:08:42.488Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-02T19:08:58.814Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-10-02T19:09:01.038Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-02T19:09:01.042Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T19:09:01.146Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_READY",
+      "event": "retry",
+      "at": "2026-10-02T19:38:56.930Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T19:38:57.203Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_READY",
+      "event": "retry",
+      "at": "2026-10-02T19:39:01.471Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-02T19:39:01.739Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_READY",
+      "event": "retry",
+      "at": "2026-10-05T17:57:36.128Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-05T17:57:36.395Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "patterns_reopened",
+      "at": "2026-10-05T17:57:39.471Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-05T17:57:39.572Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "AWAITING_PATTERN_APPROVAL",
+      "event": "patterns_ready",
+      "at": "2026-10-05T17:57:39.674Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PATTERN_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "patterns_approved",
+      "at": "2026-10-05T17:57:43.416Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-10-05T17:57:45.649Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-05T17:57:45.653Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-05T18:05:07.548Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_READY",
+      "event": "retry",
+      "at": "2026-10-05T18:26:09.369Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-05T18:26:09.578Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-05T18:28:53.381Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-10-05T18:31:42.090Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_READY",
+      "event": "production_rebuild",
+      "at": "2026-10-06T00:05:52.370Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-06T00:05:52.622Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-06T00:12:31.969Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-06T06:31:25.839Z",
+      "actor": "recovery"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_READY",
+      "event": "retry",
+      "at": "2026-10-06T06:31:49.278Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-06T06:31:49.635Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-06T06:36:42.714Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-10-06T06:42:06.321Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-10-06T06:47:03.634Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-06T06:47:33.729Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-06T06:48:28.823Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-06T06:49:24.489Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-06T06:49:25.842Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-06T08:36:58.763Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-06T08:37:49.658Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-10-06T08:56:39.660Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-06T08:56:39.689Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-06T08:57:28.565Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-10-06T08:59:01.695Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-06T08:59:25.508Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-06T08:59:25.847Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-06T09:00:13.922Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-06T09:00:15.209Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_APPROVED",
+      "event": "marketing_approved",
+      "at": "2026-10-06T09:14:48.854Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_APPROVED",
+      "to": "ETSY_PREPARING",
+      "event": "etsy_started",
+      "at": "2026-10-06T09:22:58.672Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-06T09:23:04.223Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "ETSY_PREPARING",
+      "event": "retry",
+      "at": "2026-10-06T10:15:24.331Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "ETSY_DRAFT_CREATED",
+      "event": "etsy_draft_created",
+      "at": "2026-10-06T10:15:29.710Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_CREATED",
+      "to": "ETSY_ASSETS_UPLOADING",
+      "event": "etsy_uploading",
+      "at": "2026-10-06T10:15:29.715Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_ASSETS_UPLOADING",
+      "to": "ETSY_DRAFT_VERIFYING",
+      "event": "etsy_verifying",
+      "at": "2026-10-06T10:16:08.365Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_VERIFYING",
+      "to": "AWAITING_ETSY_PUBLISH_APPROVAL",
+      "event": "etsy_draft_ready",
+      "at": "2026-10-06T10:16:09.060Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp",
+    "requested_at": "2026-09-29T21:13:19.378Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 2,
+    "source": "restyle",
+    "summary": {
+      "style": "Two layers: lightly illustrated Moonlit Meadow branding with botanical ornaments, crescent moons and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.",
+      "linework": "Branding ornaments and dividers only, never the crochet product: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; Branding ornaments and dividers only, never the crochet product: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.",
+      "detail": "Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.",
+      "palette": "Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast. (full colour)",
+      "mood": "Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-09-29T21:13:54.218Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Rose Arbor Crochet Bouquet Pattern Bundle",
+            "tagline": "Romantic rose-garden crochet patterns",
+            "product_type": "Crochet flower bouquet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Crocheters seeking romantic floral makes and giftable bouquet projects",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover artwork",
+              "Botanical contents and bouquet-planning page",
+              "Decorative floral motif page",
+              "33 US-terms crochet flower and bouquet pattern PDFs",
+              "Printing and pattern-use guide"
+            ],
+            "short_description": "A premium 33-pattern crochet flower and bouquet bundle in US terms, presented with romantic cottage-garden botanical artwork. Designed for makers creating everlasting bouquets, individual stems and thoughtful handmade gifts.",
+            "key_features": [
+              "33 crochet flower and bouquet patterns in US terms",
+              "Romantic botanical cottagecore presentation",
+              "Elegant illustrated cover, contents and decorative motif pages",
+              "Warm cream, blush, sage, lavender and powder-blue palette",
+              "Digital download for home printing or tablet use"
+            ],
+            "visual_direction_summary": "Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.",
+            "visual_route": {
+              "primary_subject": "Climbing garden roses",
+              "scene": "Sunlit cottage rose arbor",
+              "focal_object": "Ribbon-tied crochet bouquet",
+              "composition": "Central bouquet beneath arch with title space above",
+              "lighting": "Soft early-morning garden light",
+              "palette_emphasis": "Blush, muted rose, sage and warm cream",
+              "emotional_tone": "Tender, heirloom and romantic",
+              "typography_approach": "High-contrast serif title with small-cap details",
+              "distinguishing_visual_hook": "Crochet bouquet suspended from a rose-covered arch"
+            },
+            "preview_brief": "A portrait cover shows a ribbon-tied crochet bouquet framed by a climbing rose arbor on softly textured cream paper. The elegant dark-brown serif title sits in clear space above, with a tender, sunlit cottage-garden mood."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Florist's Ribbon Crochet Bouquet Pattern Bundle",
+            "tagline": "A refined market-florist pattern collection",
+            "product_type": "Crochet flower bouquet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Crocheters who enjoy elegant floral arranging and polished handmade gifts",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover artwork",
+              "Botanical contents and bouquet-planning page",
+              "Decorative floral motif page",
+              "33 US-terms crochet flower and bouquet pattern PDFs",
+              "Printing and pattern-use guide"
+            ],
+            "short_description": "A premium 33-pattern crochet flower and bouquet bundle in US terms, styled as a romantic independent florist collection. The illustrated presentation combines soft botanical colour with refined typography for makers planning beautiful everlasting arrangements.",
+            "key_features": [
+              "33 crochet flower and bouquet patterns in US terms",
+              "Florist-inspired botanical cottagecore artwork",
+              "Elegant illustrated cover, contents and decorative motif pages",
+              "Soft blush, lavender, sage and powder-blue accents",
+              "Digital files for home printing or digital reference"
+            ],
+            "visual_direction_summary": "Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.",
+            "visual_route": {
+              "primary_subject": "Mixed wildflower stems",
+              "scene": "Cottage florist worktable",
+              "focal_object": "Trailing silk ribbon spool",
+              "composition": "Diagonal stems around a centred label panel",
+              "lighting": "Diffuse afternoon window light",
+              "palette_emphasis": "Lavender, powder blue, sage and cream",
+              "emotional_tone": "Graceful, collected and artisanal",
+              "typography_approach": "Classic serif label with fine sans-serif captions",
+              "distinguishing_visual_hook": "Long ribbon weaving through loosely arranged flower stems"
+            },
+            "preview_brief": "A portrait cover arranges illustrated wildflower stems diagonally around a centred cream label, with a trailing blush ribbon spool at the lower edge. Charcoal serif lettering gives the scene the polished feel of a small cottage florist."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+            "tagline": "Dreamy wildflower bouquet patterns",
+            "product_type": "Crochet flower bouquet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Crocheters drawn to poetic botanical projects and whimsical home décor",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover artwork",
+              "Botanical contents and bouquet-planning page",
+              "Decorative floral motif page",
+              "33 US-terms crochet flower and bouquet pattern PDFs",
+              "Printing and pattern-use guide"
+            ],
+            "short_description": "A premium 33-pattern crochet flower and bouquet bundle in US terms, wrapped in a dreamy meadow-at-dusk botanical design. It is made for crocheters creating whimsical everlasting arrangements with a romantic cottagecore finish.",
+            "key_features": [
+              "33 crochet flower and bouquet patterns in US terms",
+              "Dreamy meadow botanical cottagecore theme",
+              "Elegant illustrated cover, contents and decorative motif pages",
+              "Muted rose, lavender and powder-blue evening palette",
+              "Digital download for printing or screen use"
+            ],
+            "visual_direction_summary": "Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.",
+            "visual_route": {
+              "primary_subject": "Meadow flower bouquet",
+              "scene": "Twilight wildflower meadow",
+              "focal_object": "Crescent moon medallion",
+              "composition": "Upright bouquet below a moon-framed title",
+              "lighting": "Gentle blue-hour glow",
+              "palette_emphasis": "Powder blue, lavender, muted rose and charcoal",
+              "emotional_tone": "Poetic, quiet and enchanting",
+              "typography_approach": "Romantic serif title with delicate botanical dividers",
+              "distinguishing_visual_hook": "Bouquet crowned by a small crescent moon medallion"
+            },
+            "preview_brief": "A portrait cover features an upright illustrated meadow bouquet against a softly textured cream field, crowned by a delicate crescent-moon medallion. Powder blue and lavender shadows create a quiet blue-hour mood beneath romantic charcoal serif typography."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "C",
+      "selected_at": "2026-09-29T21:14:50.451Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-29T21:13:54.228Z",
+        "finished_at": "2026-09-29T21:14:25.343Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp\".\nConcept \"Rose Arbor Crochet Bouquet Pattern Bundle\": a crochet pattern bundle for Crocheters seeking romantic floral makes and giftable bouquet projects.\nShow the cover illustration, using THIS concept's own content:\n- Subject: Climbing garden roses\n- Scene: Sunlit cottage rose arbor\n- Focal object: Ribbon-tied crochet bouquet\n- Composition: Central bouquet beneath arch with title space above\n- Lighting: Soft early-morning garden light\n- Palette emphasis: Blush, muted rose, sage and warm cream\n- Mood: Tender, heirloom and romantic\n- Typography: High-contrast serif title with small-cap details\n- Distinguishing hook: Crochet bouquet suspended from a rose-covered arch\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Mixed wildflower stems / Cottage florist worktable / Trailing silk ribbon spool / Diffuse afternoon window light\n- C: Meadow flower bouquet / Twilight wildflower meadow / Crescent moon medallion / Gentle blue-hour glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T21:14:04.401Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp\".\nConcept \"Florist's Ribbon Crochet Bouquet Pattern Bundle\": a crochet pattern bundle for Crocheters who enjoy elegant floral arranging and polished handmade gifts.\nShow the cover illustration, using THIS concept's own content:\n- Subject: Mixed wildflower stems\n- Scene: Cottage florist worktable\n- Focal object: Trailing silk ribbon spool\n- Composition: Diagonal stems around a centred label panel\n- Lighting: Diffuse afternoon window light\n- Palette emphasis: Lavender, powder blue, sage and cream\n- Mood: Graceful, collected and artisanal\n- Typography: Classic serif label with fine sans-serif captions\n- Distinguishing hook: Long ribbon weaving through loosely arranged flower stems\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Climbing garden roses / Sunlit cottage rose arbor / Ribbon-tied crochet bouquet / Soft early-morning garden light\n- C: Meadow flower bouquet / Twilight wildflower meadow / Crescent moon medallion / Gentle blue-hour glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T21:14:15.189Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp\".\nConcept \"Moonlit Meadow Crochet Bouquet Pattern Bundle\": a crochet pattern bundle for Crocheters drawn to poetic botanical projects and whimsical home décor.\nShow the cover illustration, using THIS concept's own content:\n- Subject: Meadow flower bouquet\n- Scene: Twilight wildflower meadow\n- Focal object: Crescent moon medallion\n- Composition: Upright bouquet below a moon-framed title\n- Lighting: Gentle blue-hour glow\n- Palette emphasis: Powder blue, lavender, muted rose and charcoal\n- Mood: Poetic, quiet and enchanting\n- Typography: Romantic serif title with delicate botanical dividers\n- Distinguishing hook: Bouquet crowned by a small crescent moon medallion\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Climbing garden roses / Sunlit cottage rose arbor / Ribbon-tied crochet bouquet / Soft early-morning garden light\n- B: Mixed wildflower stems / Cottage florist worktable / Trailing silk ribbon spool / Diffuse afternoon window light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T21:14:25.339Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Moonlit Meadow",
+      "concept": "Cover for a 33-pattern US-terms crochet pattern collection: a realistic crochet arrangement made only of approved patterns, with the branding around it.",
+      "instructions": null,
+      "artwork_description": "The \"Blush Garden Posy\" arrangement (1 × Garden Rose (garden-rose), 2 × Blush Tulip (blush-tulip), 2 × Sleeping Rosebud (sleeping-rosebud), 2 × Sage Eucalyptus (sage-eucalyptus), 5 × Bendable Floral Stem (bendable-floral-stem), 1 × Ribboned Bouquet Wrap (ribboned-bouquet-wrap)) fills much of the page on soft cream linen in natural product-photography light. Small crescent-moon and botanical branding frame the title, subtitle and count line in elegant serif type.",
+      "generation_prompt": "Cover artwork.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Garden Rose [pattern garden-rose]: a crochet rose about 8 cm across; two distinct petal layers; 2 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusty blush pink (Smooth or -blend yarn for the rose bloom). Not specified by the pattern: petal shape, centre type; keep these plain, never add distinctive features for them.\n- 2 × Blush Tulip [pattern blush-tulip]: a crochet tulip; a crochet centre; crochet leaves; with wire, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Blush pink (Fine for tulip cup and inner form), Leaf green (Fine for calyx). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, leaf count, leaf shape, stem length; keep these plain, never add distinctive features for them.\n- 2 × Sleeping Rosebud [pattern sleeping-rosebud]: a crochet rosebud about 4 cm long; scalloped petals; a crochet centre; no leaves; a crochet stem; sport-weight yarn (cotton), 2.25 mm hook; colours: Dusty rose (Fine for rolled rose petals), Sage green (Fine for sepals and stem). Not specified by the pattern: petal count, petal layer count, centre type, stem length; keep these plain, never add distinctive features for them.\n- 2 × Sage Eucalyptus [pattern sage-eucalyptus]: a crochet sage eucalyptus about 18 cm long; with wire as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.25 mm hook; colours: muted sage green (for covered stem and rounded leaves). Not specified by the pattern: stem length; keep these plain, never add distinctive features for them.\n- 5 × Bendable Floral Stem [pattern bendable-floral-stem]: a crochet stem about 25 cm long; no leaves; with wire as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.25 mm hook; colours: Leaf green (Mercerised for the stem cover). Not specified by the pattern: stem length; keep these plain, never add distinctive features for them.\n- 1 × Ribboned Bouquet Wrap [pattern ribboned-bouquet-wrap]: a crochet bouquet wrap about 5 cm across and 12 cm long; no leaves; with ribbon as the pattern specifies; a crochet stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Moonlit ivory, sage, or blush (Fine or -blend yarn for the wrap). Not specified by the pattern: stem length; keep these plain, never add distinctive features for them.\nShow ONLY these crochet pieces: 13 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nBranding ornaments (crescent moon, fine botanical sprigs) are flat illustration decoration, clearly distinct from the crochet pieces; they are printed artwork, not crochet or yarn.\nComposition: one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title\nCover text: title text exactly “MOONLIT MEADOW”; subtitle exactly “Crochet Bouquet Pattern Bundle”; small line exactly “33 crochet flower patterns • US terms”.",
+      "production_notes": "Verify the cover text exactly: “MOONLIT MEADOW”, “Crochet Bouquet Pattern Bundle” and “33 crochet flower patterns • US terms” (from the approved pattern source). Crochet pieces: 1 × Garden Rose (garden-rose), 2 × Blush Tulip (blush-tulip), 2 × Sleeping Rosebud (sleeping-rosebud), 2 × Sage Eucalyptus (sage-eucalyptus), 5 × Bendable Floral Stem (bendable-floral-stem), 1 × Ribboned Bouquet Wrap (ribboned-bouquet-wrap), from creative/visual-specs.json. The crochet bouquet is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    },
+    {
+      "page_number": 2,
+      "page_type": "pattern-overview",
+      "title": "Pattern Overview",
+      "concept": "Overview of the collection: individual finished crochet pieces from the 33 approved patterns.",
+      "instructions": null,
+      "artwork_description": "A clean editorial arrangement of individual realistic finished crochet pieces (1 × Garden Rose (garden-rose), 1 × Moon Peony (moon-peony), 1 × Heirloom Dahlia (heirloom-dahlia), 1 × Meadow Ranunculus (meadow-ranunculus), 1 × Starlit Anemone (starlit-anemone), 1 × Cottage Poppy (cottage-poppy), 1 × Twilight Lily (twilight-lily), 1 × Wild Sunflower (wild-sunflower), 1 × Blush Tulip (blush-tulip)), each shown separately on cream linen with soft shadows.",
+      "generation_prompt": "Pattern overview.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Garden Rose [pattern garden-rose]: a crochet rose about 8 cm across; two distinct petal layers; 2 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusty blush pink (Smooth or -blend yarn for the rose bloom). Not specified by the pattern: petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Moon Peony [pattern moon-peony]: a crochet peony about 11 cm across and 28 cm long; a crochet centre; no leaves; with wire, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Moonlit ivory (Mercerised for layered petals), Pale butter yellow (Mercerised for padded centre), Soft sage green (Mercerised for calyx and stem wrap). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, stem length; keep these plain, never add distinctive features for them.\n- 1 × Heirloom Dahlia [pattern heirloom-dahlia]: a crochet dahlia about 10 cm across and 20 cm long; a crochet centre; no leaves; with wire as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Deep plum, mauve, or moonlit pink (Mercerised for the layered dahlia petals), Leaf green (Mercerised for calyx and stem). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Meadow Ranunculus [pattern meadow-ranunculus]: a crochet ranunculus; three distinct petal layers; a crochet centre; no leaves; with wire, stuffing as the pattern specifies; no stem; sport-weight yarn (cotton), 2.25 mm hook; colours: Pale blush pink (Fine for layered petals), Warm golden yellow (Fine for rounded centre). Not specified by the pattern: petal count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Starlit Anemone [pattern starlit-anemone]: a crochet anemone about 7 cm across; 1 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusky periwinkle (Fine or -blend yarn for petals), Midnight charcoal (Fine or -blend yarn for centre). Not specified by the pattern: petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Cottage Poppy [pattern cottage-poppy]: a crochet poppy about 9 cm across; 4 petals in total; a crochet centre; no leaves; with wire, embroidery, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusky coral red (Mercerised softly ruffled petal colour), Sage green (Mercerised centre, calyx and stem colour), Charcoal (embroidery floss for seed-head spokes). Not specified by the pattern: petal layer count, petal shape, centre type, stem length; keep these plain, never add distinctive features for them.\n- 1 × Twilight Lily [pattern twilight-lily]: a crochet lily about 12 cm long; a crochet centre; no leaves; with wire, stamens, embroidery as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Pale moonlit lilac (Fine or -blend yarn for petals), Deep leaf green (Fine or -blend yarn for calyx and stem), Soft gold (Fine or -blend yarn for stamens), Deep violet (Fine for petal throat markings). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Wild Sunflower [pattern wild-sunflower]: a crochet sunflower about 10 cm across; a crochet centre; crochet leaves; no stem; DK (light) weight yarn (cotton), 3 mm hook; colours: Chocolate brown (raised flower centre), Golden yellow (petals), Leaf green (calyx). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, leaf count, leaf shape; keep these plain, never add distinctive features for them.\n- 1 × Blush Tulip [pattern blush-tulip]: a crochet tulip; a crochet centre; crochet leaves; with wire, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Blush pink (Fine for tulip cup and inner form), Leaf green (Fine for calyx). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, leaf count, leaf shape, stem length; keep these plain, never add distinctive features for them.\nShow ONLY these crochet pieces: 9 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nComposition: each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists",
+      "production_notes": "Shows 9 of the 33 approved patterns: 1 × Garden Rose (garden-rose), 1 × Moon Peony (moon-peony), 1 × Heirloom Dahlia (heirloom-dahlia), 1 × Meadow Ranunculus (meadow-ranunculus), 1 × Starlit Anemone (starlit-anemone), 1 × Cottage Poppy (cottage-poppy), 1 × Twilight Lily (twilight-lily), 1 × Wild Sunflower (wild-sunflower), 1 × Blush Tulip (blush-tulip). The pattern index with every name is typeset by code in production, never drawn by the image model. The crochet bouquet is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    },
+    {
+      "page_number": 3,
+      "page_type": "detail-motif",
+      "title": "Stitch Detail",
+      "concept": "A macro close-up that proves the craft: real crochet stitches and yarn texture.",
+      "instructions": null,
+      "artwork_description": "A macro close-up of Garden Rose: individual stitches, loops and yarn fibres in sharp focus, cream linen behind.",
+      "generation_prompt": "Macro stitch detail.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Garden Rose [pattern garden-rose]: a crochet rose about 8 cm across; two distinct petal layers; 2 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusty blush pink (Smooth or -blend yarn for the rose bloom). Not specified by the pattern: petal shape, centre type; keep these plain, never add distinctive features for them.\nShow ONLY these crochet pieces: 1 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, beads, buttons, embroidery, wire, glued-on extras, any other crochet flower or decorative crochet structure.\nComposition: macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text",
+      "production_notes": "Used as the back-page motif. Crochet piece: 1 × Garden Rose (garden-rose). The crochet bouquet is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "main-style",
+        "reason": "First content page (cover): sets the core illustration style."
+      },
+      {
+        "page_number": 2,
+        "role": "different-composition",
+        "reason": "A different page type (pattern-overview) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 3,
+        "role": "consistency-check",
+        "reason": "A later page (detail-motif, p3) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-09-29T21:15:20.691Z",
+        "finished_at": "2026-09-29T21:15:58.753Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Original hand-painted botanical gouache for a premium romantic cottagecore crochet-pattern bundle, on softly textured warm cream paper. Use elegant layered floral and foliage forms, fine organic warm brown-charcoal ink outlines, restrained editorial detail, delicate dry-brush texture and gentle natural gouache shading. Palette: soft blush, muted rose, dusty sage, lavender and small powder-blue accents, with warm charcoal typography. Airy, refined, poetic and quietly moonlit; full-colour printable design with generous space and crisp legibility, never photographic.\n\nSTYLE PARAMETERS: illustration style: Hand-painted botanical gouache with an original romantic cottagecore editorial sensibility; refined, decorative botanical illustration rather than photography or scientific plate reproduction.; line weight: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; line quality: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.; detail level: Moderately detailed layered botanical forms, with detail concentrated in petals, foliage, stems and small decorative flourishes; generous unpainted space preserves a calm premium finish.; background density: Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.; composition: Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.; palette: Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.; colour mode: full colour; shading: Soft gouache layering, gentle tonal gradients and subtle cool-to-warm shadowing; no hard digital highlights, heavy contrast or glossy effects.; texture: Visible but delicate cold-press paper grain, dry-brush edges and softly varied opaque gouache pigment, retained subtly for reliable home printing.; mood: Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere..\n\nPAGE 1 of \"Moonlit Meadow Crochet Bouquet Pattern Bundle\" (cover): Cover artwork: upright illustrated meadow flower bouquet in the lower third, including rose, lavender, blush, sage and small powder-blue wildflower accents; small crescent moon medallion centred above bouquet; title text exactly “MOONLIT MEADOW”; subtitle exactly “Crochet Bouquet Pattern Bundle”; small line exactly “33 patterns • US terms”; delicate botanical dividers and faint twilight meadow wash, with spacious editorial title hierarchy.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is an illustration for a printable crochet pattern collection (cover art or a decorative illustration). It is clearly an illustration, not a photograph, and contains no written instructions, stitch diagrams, charts or step text. Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Photography, photorealism or realistic product mock-ups; Copied vintage botanical plates, identifiable layouts or derivative branded artwork; Crochet hooks, yarn balls, stitch diagrams or finished crochet objects within the decorative illustrations; Harsh neon colours, glossy digital gradients or heavy black shadows; Crowded page layouts, excessive ink coverage or unreadably fine details; Misspelled text, illegible decorative lettering or low-contrast typography.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T21:15:34.814Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 2,
+            "prompt": "Original hand-painted botanical gouache for a premium romantic cottagecore crochet-pattern bundle, on softly textured warm cream paper. Use elegant layered floral and foliage forms, fine organic warm brown-charcoal ink outlines, restrained editorial detail, delicate dry-brush texture and gentle natural gouache shading. Palette: soft blush, muted rose, dusty sage, lavender and small powder-blue accents, with warm charcoal typography. Airy, refined, poetic and quietly moonlit; full-colour printable design with generous space and crisp legibility, never photographic.\n\nSTYLE PARAMETERS: illustration style: Hand-painted botanical gouache with an original romantic cottagecore editorial sensibility; refined, decorative botanical illustration rather than photography or scientific plate reproduction.; line weight: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; line quality: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.; detail level: Moderately detailed layered botanical forms, with detail concentrated in petals, foliage, stems and small decorative flourishes; generous unpainted space preserves a calm premium finish.; background density: Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.; composition: Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.; palette: Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.; colour mode: full colour; shading: Soft gouache layering, gentle tonal gradients and subtle cool-to-warm shadowing; no hard digital highlights, heavy contrast or glossy effects.; texture: Visible but delicate cold-press paper grain, dry-brush edges and softly varied opaque gouache pigment, retained subtly for reliable home printing.; mood: Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere..\n\nPAGE 2 of \"Moonlit Meadow Crochet Bouquet Pattern Bundle\" (contents): Contents and bouquet-planning page; title text exactly “PATTERNS & BOUQUET PLANNING”; two clear numbered columns listing exactly: “1 Rose”, “2 Peony”, “3 Ranunculus”, “4 Tulip”, “5 Poppy”, “6 Anemone”, “7 Dahlia”, “8 Carnation”, “9 Hydrangea”, “10 Sunflower”, “11 Daisy”, “12 Gerbera”, “13 Lily”, “14 Iris”, “15 Sweet Pea”, “16 Lavender Sprig”, “17 Baby’s Breath”, “18 Eucalyptus Stem”, “19 Fern Frond”, “20 Ivy Vine”, “21 Olive Branch”, “22 Willow Stem”, “23 Berry Branch”, “24 Wildflower Stem”, “25 Mini Posy”, “26 Rose Posy”, “27 Lavender Posy”, “28 Wildflower Posy”, “29 Cottage Garden Bouquet”, “30 Blush Romance Bouquet”, “31 Meadow Dusk Bouquet”, “32 Moonlit Meadow Bouquet”, “33 Floral Wreath”; lower section title exactly “BOUQUET RECIPES”; three short recipe labels exactly “Soft Dawn”, “Meadow Dusk”, “Moonlit Garden”; sparse botanical corner sprays, delicate crescent divider, generous clear space for legibility.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is an illustration for a printable crochet pattern collection (cover art or a decorative illustration). It is clearly an illustration, not a photograph, and contains no written instructions, stitch diagrams, charts or step text. Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Photography, photorealism or realistic product mock-ups; Copied vintage botanical plates, identifiable layouts or derivative branded artwork; Crochet hooks, yarn balls, stitch diagrams or finished crochet objects within the decorative illustrations; Harsh neon colours, glossy digital gradients or heavy black shadows; Crowded page layouts, excessive ink coverage or unreadably fine details; Misspelled text, illegible decorative lettering or low-contrast typography.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T21:15:44.996Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 3,
+            "prompt": "Original hand-painted botanical gouache for a premium romantic cottagecore crochet-pattern bundle, on softly textured warm cream paper. Use elegant layered floral and foliage forms, fine organic warm brown-charcoal ink outlines, restrained editorial detail, delicate dry-brush texture and gentle natural gouache shading. Palette: soft blush, muted rose, dusty sage, lavender and small powder-blue accents, with warm charcoal typography. Airy, refined, poetic and quietly moonlit; full-colour printable design with generous space and crisp legibility, never photographic.\n\nSTYLE PARAMETERS: illustration style: Hand-painted botanical gouache with an original romantic cottagecore editorial sensibility; refined, decorative botanical illustration rather than photography or scientific plate reproduction.; line weight: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; line quality: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.; detail level: Moderately detailed layered botanical forms, with detail concentrated in petals, foliage, stems and small decorative flourishes; generous unpainted space preserves a calm premium finish.; background density: Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.; composition: Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.; palette: Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.; colour mode: full colour; shading: Soft gouache layering, gentle tonal gradients and subtle cool-to-warm shadowing; no hard digital highlights, heavy contrast or glossy effects.; texture: Visible but delicate cold-press paper grain, dry-brush edges and softly varied opaque gouache pigment, retained subtly for reliable home printing.; mood: Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere..\n\nPAGE 3 of \"Moonlit Meadow Crochet Bouquet Pattern Bundle\" (motif): Decorative botanical motif page; loose oval wreath of meadow blooms, rosebuds, lavender stems, small daisies, wispy sage foliage and tiny powder-blue blossoms surrounding a central crescent moon medallion; central text exactly “FLOWERS FOR EVER”; subtle low meadow-horizon accent; spacious calm composition with no practical pattern instructions.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is an illustration for a printable crochet pattern collection (cover art or a decorative illustration). It is clearly an illustration, not a photograph, and contains no written instructions, stitch diagrams, charts or step text. Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Photography, photorealism or realistic product mock-ups; Copied vintage botanical plates, identifiable layouts or derivative branded artwork; Crochet hooks, yarn balls, stitch diagrams or finished crochet objects within the decorative illustrations; Harsh neon colours, glossy digital gradients or heavy black shadows; Crowded page layouts, excessive ink coverage or unreadably fine details; Misspelled text, illegible decorative lettering or low-contrast typography.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T21:15:58.737Z"
+          }
+        ],
+        "error": null
+      },
+      {
+        "attempt": 2,
+        "dir": "proofs/attempt-02",
+        "reason": "restyle",
+        "direction_version": 2,
+        "purpose": "traceable-product",
+        "started_at": "2026-10-02T19:08:09.884Z",
+        "finished_at": "2026-10-02T19:08:42.486Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-02/proof-01.png",
+            "page_number": 1,
+            "prompt": "Premium Moonlit Meadow crochet pattern bundle. The crochet pieces are exactly those specified for each page, rendered as lifelike yarn crochet with clearly visible fibres, loops and stitch definition on a soft cream linen setting with natural product-photography lighting. Delicate botanical and crescent-moon branding ornaments and elegant serif typography.\n\nSTYLE PARAMETERS: illustration style: Two layers: lightly illustrated Moonlit Meadow branding with botanical ornaments, crescent moons and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.; line weight: Branding ornaments and dividers only, never the crochet product: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; line quality: Branding ornaments and dividers only, never the crochet product: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.; detail level: Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.; background density: Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.; composition: Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.; palette: Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.; colour mode: full colour; shading: Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.; texture: Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.; mood: Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere..\n\nPAGE 1 of \"Moonlit Meadow Crochet Bouquet Pattern Bundle\" (cover): Cover artwork.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Garden Rose [pattern garden-rose]: a crochet rose about 8 cm across; two distinct petal layers; 2 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusty blush pink (Smooth or -blend yarn for the rose bloom). Not specified by the pattern: petal shape, centre type; keep these plain, never add distinctive features for them.\n- 2 × Blush Tulip [pattern blush-tulip]: a crochet tulip; a crochet centre; crochet leaves; with wire, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Blush pink (Fine for tulip cup and inner form), Leaf green (Fine for calyx). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, leaf count, leaf shape, stem length; keep these plain, never add distinctive features for them.\n- 2 × Sleeping Rosebud [pattern sleeping-rosebud]: a crochet rosebud about 4 cm long; scalloped petals; a crochet centre; no leaves; a crochet stem; sport-weight yarn (cotton), 2.25 mm hook; colours: Dusty rose (Fine for rolled rose petals), Sage green (Fine for sepals and stem). Not specified by the pattern: petal count, petal layer count, centre type, stem length; keep these plain, never add distinctive features for them.\n- 2 × Sage Eucalyptus [pattern sage-eucalyptus]: a crochet sage eucalyptus about 18 cm long; with wire as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.25 mm hook; colours: muted sage green (for covered stem and rounded leaves). Not specified by the pattern: stem length; keep these plain, never add distinctive features for them.\n- 5 × Bendable Floral Stem [pattern bendable-floral-stem]: a crochet stem about 25 cm long; no leaves; with wire as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.25 mm hook; colours: Leaf green (Mercerised for the stem cover). Not specified by the pattern: stem length; keep these plain, never add distinctive features for them.\n- 1 × Ribboned Bouquet Wrap [pattern ribboned-bouquet-wrap]: a crochet bouquet wrap about 5 cm across and 12 cm long; no leaves; with ribbon as the pattern specifies; a crochet stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Moonlit ivory, sage, or blush (Fine or -blend yarn for the wrap). Not specified by the pattern: stem length; keep these plain, never add distinctive features for them.\nShow ONLY these crochet pieces: 13 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nBranding ornaments (crescent moon, fine botanical sprigs) are flat illustration decoration, clearly distinct from the crochet pieces; they are printed artwork, not crochet or yarn.\nComposition: one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title\nCover text: title text exactly “MOONLIT MEADOW”; subtitle exactly “Crochet Bouquet Pattern Bundle”; small line exactly “33 crochet flower patterns • US terms”.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nPATTERN-DERIVED PRODUCT VISUAL: the crochet pieces are exactly those in the specification above (approved patterns, checked against them). A rendered example of the finished crochet design, not a photograph.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copied vintage botanical plates, identifiable layouts or derivative branded artwork; Harsh neon colours, glossy digital gradients or heavy black shadows; Crowded page layouts, excessive ink coverage or unreadably fine details; Misspelled text, illegible decorative lettering or low-contrast typography; Stitch diagrams, charts or written instructions inside the artwork; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-02T19:08:21.581Z"
+          },
+          {
+            "file": "proofs/attempt-02/proof-02.png",
+            "page_number": 2,
+            "prompt": "Premium Moonlit Meadow crochet pattern bundle. The crochet pieces are exactly those specified for each page, rendered as lifelike yarn crochet with clearly visible fibres, loops and stitch definition on a soft cream linen setting with natural product-photography lighting. Delicate botanical and crescent-moon branding ornaments and elegant serif typography.\n\nSTYLE PARAMETERS: illustration style: Two layers: lightly illustrated Moonlit Meadow branding with botanical ornaments, crescent moons and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.; line weight: Branding ornaments and dividers only, never the crochet product: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; line quality: Branding ornaments and dividers only, never the crochet product: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.; detail level: Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.; background density: Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.; composition: Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.; palette: Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.; colour mode: full colour; shading: Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.; texture: Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.; mood: Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere..\n\nPAGE 2 of \"Moonlit Meadow Crochet Bouquet Pattern Bundle\" (pattern-overview): Pattern overview.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Garden Rose [pattern garden-rose]: a crochet rose about 8 cm across; two distinct petal layers; 2 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusty blush pink (Smooth or -blend yarn for the rose bloom). Not specified by the pattern: petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Moon Peony [pattern moon-peony]: a crochet peony about 11 cm across and 28 cm long; a crochet centre; no leaves; with wire, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Moonlit ivory (Mercerised for layered petals), Pale butter yellow (Mercerised for padded centre), Soft sage green (Mercerised for calyx and stem wrap). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, stem length; keep these plain, never add distinctive features for them.\n- 1 × Heirloom Dahlia [pattern heirloom-dahlia]: a crochet dahlia about 10 cm across and 20 cm long; a crochet centre; no leaves; with wire as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Deep plum, mauve, or moonlit pink (Mercerised for the layered dahlia petals), Leaf green (Mercerised for calyx and stem). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Meadow Ranunculus [pattern meadow-ranunculus]: a crochet ranunculus; three distinct petal layers; a crochet centre; no leaves; with wire, stuffing as the pattern specifies; no stem; sport-weight yarn (cotton), 2.25 mm hook; colours: Pale blush pink (Fine for layered petals), Warm golden yellow (Fine for rounded centre). Not specified by the pattern: petal count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Starlit Anemone [pattern starlit-anemone]: a crochet anemone about 7 cm across; 1 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusky periwinkle (Fine or -blend yarn for petals), Midnight charcoal (Fine or -blend yarn for centre). Not specified by the pattern: petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Cottage Poppy [pattern cottage-poppy]: a crochet poppy about 9 cm across; 4 petals in total; a crochet centre; no leaves; with wire, embroidery, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusky coral red (Mercerised softly ruffled petal colour), Sage green (Mercerised centre, calyx and stem colour), Charcoal (embroidery floss for seed-head spokes). Not specified by the pattern: petal layer count, petal shape, centre type, stem length; keep these plain, never add distinctive features for them.\n- 1 × Twilight Lily [pattern twilight-lily]: a crochet lily about 12 cm long; a crochet centre; no leaves; with wire, stamens, embroidery as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Pale moonlit lilac (Fine or -blend yarn for petals), Deep leaf green (Fine or -blend yarn for calyx and stem), Soft gold (Fine or -blend yarn for stamens), Deep violet (Fine for petal throat markings). Not specified by the pattern: petal count, petal layer count, petal shape, centre type; keep these plain, never add distinctive features for them.\n- 1 × Wild Sunflower [pattern wild-sunflower]: a crochet sunflower about 10 cm across; a crochet centre; crochet leaves; no stem; DK (light) weight yarn (cotton), 3 mm hook; colours: Chocolate brown (raised flower centre), Golden yellow (petals), Leaf green (calyx). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, leaf count, leaf shape; keep these plain, never add distinctive features for them.\n- 1 × Blush Tulip [pattern blush-tulip]: a crochet tulip; a crochet centre; crochet leaves; with wire, stuffing as the pattern specifies; a crochet-covered wire stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Blush pink (Fine for tulip cup and inner form), Leaf green (Fine for calyx). Not specified by the pattern: petal count, petal layer count, petal shape, centre type, leaf count, leaf shape, stem length; keep these plain, never add distinctive features for them.\nShow ONLY these crochet pieces: 9 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, any other crochet flower or decorative crochet structure.\nComposition: each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nPATTERN-DERIVED PRODUCT VISUAL: the crochet pieces are exactly those in the specification above (approved patterns, checked against them). A rendered example of the finished crochet design, not a photograph.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copied vintage botanical plates, identifiable layouts or derivative branded artwork; Harsh neon colours, glossy digital gradients or heavy black shadows; Crowded page layouts, excessive ink coverage or unreadably fine details; Misspelled text, illegible decorative lettering or low-contrast typography; Stitch diagrams, charts or written instructions inside the artwork; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-02T19:08:31.872Z"
+          },
+          {
+            "file": "proofs/attempt-02/proof-03.png",
+            "page_number": 3,
+            "prompt": "Premium Moonlit Meadow crochet pattern bundle. The crochet pieces are exactly those specified for each page, rendered as lifelike yarn crochet with clearly visible fibres, loops and stitch definition on a soft cream linen setting with natural product-photography lighting. Delicate botanical and crescent-moon branding ornaments and elegant serif typography.\n\nSTYLE PARAMETERS: illustration style: Two layers: lightly illustrated Moonlit Meadow branding with botanical ornaments, crescent moons and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.; line weight: Branding ornaments and dividers only, never the crochet product: Fine, restrained warm brown-charcoal ink outlines with occasional delicate interior contouring.; line quality: Branding ornaments and dividers only, never the crochet product: Graceful, slightly organic hand-drawn lines; clean enough for premium digital print, never sketchy or scratchy.; detail level: Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.; background density: Airy cream-paper grounds with sparse botanical accents, faint tonal washes and occasional understated framing devices; backgrounds always recede behind titles and practical information.; composition: Elegant editorial hierarchy with one clear botanical focal area, balanced vertical flow, ample calm space for legible titles or instructions, and delicate dividers used sparingly.; palette: Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.; colour mode: full colour; shading: Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.; texture: Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.; mood: Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere..\n\nPAGE 3 of \"Moonlit Meadow Crochet Bouquet Pattern Bundle\" (detail-motif): Macro stitch detail.\nRender the finished crochet result represented by this specification (a rendered example of the finished crochet design, derived from the written patterns):\n- 1 × Garden Rose [pattern garden-rose]: a crochet rose about 8 cm across; two distinct petal layers; 2 petals in total; a crochet centre; no leaves; no stem; sport-weight yarn (cotton), 2.5 mm hook; colours: Dusty blush pink (Smooth or -blend yarn for the rose bloom). Not specified by the pattern: petal shape, centre type; keep these plain, never add distinctive features for them.\nShow ONLY these crochet pieces: 1 in total, exactly the quantities listed. Every visible crochet piece is one of them.\nDo NOT add: extra petals or petal layers, leaves or stems not listed, extra flower centres, beads, buttons, embroidery, wire, glued-on extras, any other crochet flower or decorative crochet structure.\nComposition: macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nPATTERN-DERIVED PRODUCT VISUAL: the crochet pieces are exactly those in the specification above (approved patterns, checked against them). A rendered example of the finished crochet design, not a photograph.\n\nCANVAS: A single portrait design with a solid or softly textured coloured background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copied vintage botanical plates, identifiable layouts or derivative branded artwork; Harsh neon colours, glossy digital gradients or heavy black shadows; Crowded page layouts, excessive ink coverage or unreadably fine details; Misspelled text, illegible decorative lettering or low-contrast typography; Stitch diagrams, charts or written instructions inside the artwork; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-02T19:08:42.478Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "86db1943ab60",
+    "keyboard_message_ids": [
+      336,
+      337,
+      340,
+      344,
+      346,
+      353,
+      356,
+      357,
+      358,
+      359,
+      361,
+      364,
+      370,
+      380,
+      395,
+      396,
+      397,
+      409,
+      412,
+      413
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2719,
+        "input_tokens_details": {
+          "cache_write_tokens": 2716,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1789,
+        "output_tokens_details": {
+          "reasoning_tokens": 456
+        },
+        "total_tokens": 4508
+      },
+      "at": "2026-09-29T21:13:23.492Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 480,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 480
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 638
+      },
+      "at": "2026-09-29T21:13:54.232Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 480,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 480
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 638
+      },
+      "at": "2026-09-29T21:14:04.411Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 483,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 483
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 641
+      },
+      "at": "2026-09-29T21:14:15.196Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2833,
+        "input_tokens_details": {
+          "cache_write_tokens": 2830,
+          "cached_tokens": 0
+        },
+        "output_tokens": 582,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3415
+      },
+      "at": "2026-09-29T21:14:50.909Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2478,
+        "input_tokens_details": {
+          "cache_write_tokens": 2475,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1166,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3644
+      },
+      "at": "2026-09-29T21:15:01.224Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 733,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 733
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1076
+      },
+      "at": "2026-09-29T21:15:20.696Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 910,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 910
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1253
+      },
+      "at": "2026-09-29T21:15:34.822Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 714,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 714
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1057
+      },
+      "at": "2026-09-29T21:15:45.007Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-plan",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1627,
+        "input_tokens_details": {
+          "cache_write_tokens": 1624,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2717,
+        "output_tokens_details": {
+          "reasoning_tokens": 715
+        },
+        "total_tokens": 4344
+      },
+      "at": "2026-10-02T06:48:45.646Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1550,
+        "input_tokens_details": {
+          "cache_write_tokens": 1547,
+          "cached_tokens": 0
+        },
+        "output_tokens": 3210,
+        "output_tokens_details": {
+          "reasoning_tokens": 2588
+        },
+        "total_tokens": 4760
+      },
+      "at": "2026-10-02T06:49:18.632Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: crochet-pattern: model output rejected: $.finishing[0]: longer than 300"
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1701,
+        "input_tokens_details": {
+          "cache_write_tokens": 1698,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2756,
+        "output_tokens_details": {
+          "reasoning_tokens": 2070
+        },
+        "total_tokens": 4457
+      },
+      "at": "2026-10-02T07:40:55.402Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: crochet-pattern: model output rejected: $.instructions[0].steps[2].text: longer than 600"
+    },
+    {
+      "step": "crochet-plan",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1627,
+        "input_tokens_details": {
+          "cache_write_tokens": 1624,
+          "cached_tokens": 0
+        },
+        "output_tokens": 5031,
+        "output_tokens_details": {
+          "reasoning_tokens": 306
+        },
+        "total_tokens": 6658
+      },
+      "at": "2026-10-02T09:12:35.096Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: crochet plan: model output rejected: 34 patterns planned; the owner asked for 33"
+    },
+    {
+      "step": "crochet-plan",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1782,
+        "input_tokens_details": {
+          "cache_write_tokens": 1779,
+          "cached_tokens": 0
+        },
+        "output_tokens": 5161,
+        "output_tokens_details": {
+          "reasoning_tokens": 421
+        },
+        "total_tokens": 6943
+      },
+      "at": "2026-10-02T10:56:20.418Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2218,
+        "input_tokens_details": {
+          "cache_write_tokens": 2215,
+          "cached_tokens": 0
+        },
+        "output_tokens": 5076,
+        "output_tokens_details": {
+          "reasoning_tokens": 3926
+        },
+        "total_tokens": 7294
+      },
+      "at": "2026-10-02T10:57:10.119Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2220,
+        "input_tokens_details": {
+          "cache_write_tokens": 385,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 6510,
+        "output_tokens_details": {
+          "reasoning_tokens": 4419
+        },
+        "total_tokens": 8730
+      },
+      "at": "2026-10-02T10:58:16.459Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2220,
+        "input_tokens_details": {
+          "cache_write_tokens": 385,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 6863,
+        "output_tokens_details": {
+          "reasoning_tokens": 5081
+        },
+        "total_tokens": 9083
+      },
+      "at": "2026-10-02T10:59:34.777Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2215,
+        "input_tokens_details": {
+          "cache_write_tokens": 380,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 6040,
+        "output_tokens_details": {
+          "reasoning_tokens": 4456
+        },
+        "total_tokens": 8255
+      },
+      "at": "2026-10-02T11:00:59.798Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2216,
+        "input_tokens_details": {
+          "cache_write_tokens": 381,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 4298,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 6514
+      },
+      "at": "2026-10-02T11:02:21.164Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2220,
+        "input_tokens_details": {
+          "cache_write_tokens": 385,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 5537,
+        "output_tokens_details": {
+          "reasoning_tokens": 3868
+        },
+        "total_tokens": 7757
+      },
+      "at": "2026-10-02T11:03:20.187Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2217,
+        "input_tokens_details": {
+          "cache_write_tokens": 382,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 7125,
+        "output_tokens_details": {
+          "reasoning_tokens": 5696
+        },
+        "total_tokens": 9342
+      },
+      "at": "2026-10-02T11:04:36.399Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2214,
+        "input_tokens_details": {
+          "cache_write_tokens": 379,
+          "cached_tokens": 1832
+        },
+        "output_tokens": 5079,
+        "output_tokens_details": {
+          "reasoning_tokens": 4064
+        },
+        "total_tokens": 7293
+      },
+      "at": "2026-10-02T11:06:17.520Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: crochet-pattern: model output rejected: $.abbreviations[6].meaning: longer than 80"
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2722,
+        "input_tokens_details": {
+          "cache_write_tokens": 2719,
+          "cached_tokens": 0
+        },
+        "output_tokens": 4596,
+        "output_tokens_details": {
+          "reasoning_tokens": 3532
+        },
+        "total_tokens": 7318
+      },
+      "at": "2026-10-02T11:52:07.094Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2719,
+        "input_tokens_details": {
+          "cache_write_tokens": 2716,
+          "cached_tokens": 0
+        },
+        "output_tokens": 4849,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 7568
+      },
+      "at": "2026-10-02T11:53:07.641Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2695,
+        "input_tokens_details": {
+          "cache_write_tokens": 2692,
+          "cached_tokens": 0
+        },
+        "output_tokens": 3079,
+        "output_tokens_details": {
+          "reasoning_tokens": 2544
+        },
+        "total_tokens": 5774
+      },
+      "at": "2026-10-02T11:54:05.012Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2723,
+        "input_tokens_details": {
+          "cache_write_tokens": 721,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 4604,
+        "output_tokens_details": {
+          "reasoning_tokens": 3624
+        },
+        "total_tokens": 7327
+      },
+      "at": "2026-10-02T11:54:44.861Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2718,
+        "input_tokens_details": {
+          "cache_write_tokens": 716,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 4998,
+        "output_tokens_details": {
+          "reasoning_tokens": 3683
+        },
+        "total_tokens": 7716
+      },
+      "at": "2026-10-02T11:55:45.516Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2697,
+        "input_tokens_details": {
+          "cache_write_tokens": 696,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 2697,
+        "output_tokens_details": {
+          "reasoning_tokens": 2070
+        },
+        "total_tokens": 5394
+      },
+      "at": "2026-10-02T11:56:46.774Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2718,
+        "input_tokens_details": {
+          "cache_write_tokens": 716,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 4609,
+        "output_tokens_details": {
+          "reasoning_tokens": 3624
+        },
+        "total_tokens": 7327
+      },
+      "at": "2026-10-02T11:57:19.720Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2723,
+        "input_tokens_details": {
+          "cache_write_tokens": 721,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 4263,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 6986
+      },
+      "at": "2026-10-02T11:58:15.732Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2713,
+        "input_tokens_details": {
+          "cache_write_tokens": 712,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 3299,
+        "output_tokens_details": {
+          "reasoning_tokens": 2323
+        },
+        "total_tokens": 6012
+      },
+      "at": "2026-10-02T11:59:10.165Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2692,
+        "input_tokens_details": {
+          "cache_write_tokens": 691,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 5212,
+        "output_tokens_details": {
+          "reasoning_tokens": 4378
+        },
+        "total_tokens": 7904
+      },
+      "at": "2026-10-02T11:59:54.586Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2717,
+        "input_tokens_details": {
+          "cache_write_tokens": 715,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 4064,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 6781
+      },
+      "at": "2026-10-02T12:01:05.651Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2715,
+        "input_tokens_details": {
+          "cache_write_tokens": 714,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 2952,
+        "output_tokens_details": {
+          "reasoning_tokens": 2021
+        },
+        "total_tokens": 5667
+      },
+      "at": "2026-10-02T12:01:59.941Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2714,
+        "input_tokens_details": {
+          "cache_write_tokens": 712,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 3270,
+        "output_tokens_details": {
+          "reasoning_tokens": 2246
+        },
+        "total_tokens": 5984
+      },
+      "at": "2026-10-02T12:02:39.851Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2729,
+        "input_tokens_details": {
+          "cache_write_tokens": 727,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 4048,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 6777
+      },
+      "at": "2026-10-02T12:03:26.063Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2713,
+        "input_tokens_details": {
+          "cache_write_tokens": 712,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 3075,
+        "output_tokens_details": {
+          "reasoning_tokens": 2221
+        },
+        "total_tokens": 5788
+      },
+      "at": "2026-10-02T12:04:24.081Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2688,
+        "input_tokens_details": {
+          "cache_write_tokens": 686,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 2486,
+        "output_tokens_details": {
+          "reasoning_tokens": 2001
+        },
+        "total_tokens": 5174
+      },
+      "at": "2026-10-02T12:05:05.301Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2695,
+        "input_tokens_details": {
+          "cache_write_tokens": 693,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 2598,
+        "output_tokens_details": {
+          "reasoning_tokens": 2070
+        },
+        "total_tokens": 5293
+      },
+      "at": "2026-10-02T12:05:36.620Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2690,
+        "input_tokens_details": {
+          "cache_write_tokens": 689,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 4255,
+        "output_tokens_details": {
+          "reasoning_tokens": 2991
+        },
+        "total_tokens": 6945
+      },
+      "at": "2026-10-02T12:06:11.630Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2693,
+        "input_tokens_details": {
+          "cache_write_tokens": 692,
+          "cached_tokens": 1998
+        },
+        "output_tokens": 4783,
+        "output_tokens_details": {
+          "reasoning_tokens": 4264
+        },
+        "total_tokens": 7476
+      },
+      "at": "2026-10-02T12:07:05.231Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2707,
+        "input_tokens_details": {
+          "cache_write_tokens": 705,
+          "cached_tokens": 1999
+        },
+        "output_tokens": 6757,
+        "output_tokens_details": {
+          "reasoning_tokens": 4660
+        },
+        "total_tokens": 9464
+      },
+      "at": "2026-10-02T12:08:11.643Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: crochet-pattern: model output rejected: $.instructions[0].steps[1].label: longer than 16; $.instructions[0].steps[2].label: longer than 16; $.instructions[0].steps[3].label: l"
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2774,
+        "input_tokens_details": {
+          "cache_write_tokens": 2771,
+          "cached_tokens": 0
+        },
+        "output_tokens": 6449,
+        "output_tokens_details": {
+          "reasoning_tokens": 5079
+        },
+        "total_tokens": 9223
+      },
+      "at": "2026-10-02T17:42:15.442Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2791,
+        "input_tokens_details": {
+          "cache_write_tokens": 2788,
+          "cached_tokens": 0
+        },
+        "output_tokens": 3615,
+        "output_tokens_details": {
+          "reasoning_tokens": 2902
+        },
+        "total_tokens": 6406
+      },
+      "at": "2026-10-02T17:43:38.791Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2790,
+        "input_tokens_details": {
+          "cache_write_tokens": 2787,
+          "cached_tokens": 0
+        },
+        "output_tokens": 3808,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 6598
+      },
+      "at": "2026-10-02T17:44:28.120Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2785,
+        "input_tokens_details": {
+          "cache_write_tokens": 717,
+          "cached_tokens": 2065
+        },
+        "output_tokens": 3400,
+        "output_tokens_details": {
+          "reasoning_tokens": 2588
+        },
+        "total_tokens": 6185
+      },
+      "at": "2026-10-02T17:45:23.208Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2778,
+        "input_tokens_details": {
+          "cache_write_tokens": 709,
+          "cached_tokens": 2066
+        },
+        "output_tokens": 3880,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 6658
+      },
+      "at": "2026-10-02T17:46:14.064Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2760,
+        "input_tokens_details": {
+          "cache_write_tokens": 692,
+          "cached_tokens": 2065
+        },
+        "output_tokens": 3771,
+        "output_tokens_details": {
+          "reasoning_tokens": 2855
+        },
+        "total_tokens": 6531
+      },
+      "at": "2026-10-02T17:47:07.630Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2767,
+        "input_tokens_details": {
+          "cache_write_tokens": 698,
+          "cached_tokens": 2066
+        },
+        "output_tokens": 2933,
+        "output_tokens_details": {
+          "reasoning_tokens": 1920
+        },
+        "total_tokens": 5700
+      },
+      "at": "2026-10-02T17:47:57.207Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1795,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1795
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 2138
+      },
+      "at": "2026-10-02T19:08:09.889Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 2238,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 2238
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 2581
+      },
+      "at": "2026-10-02T19:08:21.590Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1241,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1241
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1584
+      },
+      "at": "2026-10-02T19:08:31.885Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 14534,
+        "input_tokens_details": {
+          "cache_write_tokens": 14531,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1513,
+        "output_tokens_details": {
+          "reasoning_tokens": 516
+        },
+        "total_tokens": 16047
+      },
+      "at": "2026-10-06T06:47:34.103Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 13645,
+        "input_tokens_details": {
+          "cache_write_tokens": 13642,
+          "cached_tokens": 0
+        },
+        "output_tokens": 836,
+        "output_tokens_details": {
+          "reasoning_tokens": 356
+        },
+        "total_tokens": 14481
+      },
+      "at": "2026-10-06T06:48:16.871Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 334,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 334
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 773
+      },
+      "at": "2026-10-06T06:48:28.835Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 326,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 326
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 765
+      },
+      "at": "2026-10-06T06:48:39.336Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 331,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 331
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 770
+      },
+      "at": "2026-10-06T06:48:49.916Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 16560,
+        "input_tokens_details": {
+          "cache_write_tokens": 16557,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2328,
+        "output_tokens_details": {
+          "reasoning_tokens": 374
+        },
+        "total_tokens": 18888
+      },
+      "at": "2026-10-06T08:37:23.512Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: creative-direction: rejected: scene briefs describe a product substitute, text or people (07-desire)"
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 16560,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 16557
+        },
+        "output_tokens": 2117,
+        "output_tokens_details": {
+          "reasoning_tokens": 178
+        },
+        "total_tokens": 18677
+      },
+      "at": "2026-10-06T08:57:04.049Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: marketing-direction: model output rejected: $.slides[6].scene_brief: longer than 400"
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 275,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 275
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 714
+      },
+      "at": "2026-10-06T08:59:25.861Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-10-02T19:08:58.814Z",
+  "created_at": "2026-09-29T21:13:19.378Z",
+  "updated_at": "2026-10-06T10:16:09.060Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "coloured",
+    "edge": "safe-margin",
+    "format_notes": "Portrait A4 and US Letter-compatible cream-ground editorial pages with ample clear space for practical text and home-print-friendly restrained ink coverage."
+  },
+  "crochet": {
+    "version": 1,
+    "brief": {
+      "pattern_count": 33,
+      "terminology": "US",
+      "guidance": null,
+      "set_by": "@claude-code",
+      "set_at": "2026-10-02T08:38:37.510Z"
+    },
+    "plan": {
+      "file": "crochet/plan.json",
+      "sha256": "dfde43fddbcce1fe3426ce3a7f08f2a19fdccf8c3c65d8d76fb6cb2a152f3419"
+    },
+    "source": {
+      "file": "crochet/patterns.json",
+      "sha256": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69",
+      "origin": "ai-assisted-draft"
+    },
+    "patterns": [
+      {
+        "pattern_id": "garden-rose",
+        "name": "Garden Rose",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/garden-rose.json",
+        "sha256": "c94c5eaf7ef6e021a27a162209d4168b59b610142a712fffdec5320a592b5ff9",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T10:58:16.454Z"
+      },
+      {
+        "pattern_id": "moon-peony",
+        "name": "Moon Peony",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/moon-peony.json",
+        "sha256": "3ad5d39fa773b0749935b417154da926f8202f37c937800957dca8a222f291b3",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T10:59:34.771Z"
+      },
+      {
+        "pattern_id": "heirloom-dahlia",
+        "name": "Heirloom Dahlia",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/heirloom-dahlia.json",
+        "sha256": "dc6fdd71663bc3b3d72886431f976d65a0c206c1f66458f60c5341699176870d",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:00:59.793Z"
+      },
+      {
+        "pattern_id": "meadow-ranunculus",
+        "name": "Meadow Ranunculus",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/meadow-ranunculus.json",
+        "sha256": "5103a6afd1b0efd53db30c2c707dae004cff305bdb3b40f3c81821ceee34c3d0",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:02:21.157Z"
+      },
+      {
+        "pattern_id": "starlit-anemone",
+        "name": "Starlit Anemone",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/starlit-anemone.json",
+        "sha256": "90c0133fcf9e16741b08b70cd28dc5cfdd680c93e6bd87258fc94b401d595114",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:03:20.182Z"
+      },
+      {
+        "pattern_id": "cottage-poppy",
+        "name": "Cottage Poppy",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/cottage-poppy.json",
+        "sha256": "328e655332c3de938db03ba1f7f9cddd5e30fbd8f1852a1a296950bcbfbab959",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:04:36.394Z"
+      },
+      {
+        "pattern_id": "twilight-lily",
+        "name": "Twilight Lily",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/twilight-lily.json",
+        "sha256": "224588010797a94f87b7e1f8b91a8b1c03e1128eef08b1160dac3b1cad845c4a",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:06:17.515Z"
+      },
+      {
+        "pattern_id": "wild-sunflower",
+        "name": "Wild Sunflower",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/wild-sunflower.json",
+        "sha256": "c3d11a7bf3f38121ff179d77553d52668b41d4ab3e3f41fdd39b0d7571bb1c6d",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:53:07.630Z"
+      },
+      {
+        "pattern_id": "blush-tulip",
+        "name": "Blush Tulip",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/blush-tulip.json",
+        "sha256": "eaab47587cbf0145d42e4c419eb290fee171edb167195bc23ba9638d46b387a7",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:54:05.007Z"
+      },
+      {
+        "pattern_id": "meadow-daisy",
+        "name": "Meadow Daisy",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/meadow-daisy.json",
+        "sha256": "eaf61bd3662cd0defde82938b3fdbd3640b797a73eda64a62665196f628d1db7",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:54:44.849Z"
+      },
+      {
+        "pattern_id": "velvet-carnation",
+        "name": "Velvet Carnation",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/velvet-carnation.json",
+        "sha256": "ea9c35ab49517006a2b5f07d3b90e23a46efcc33e19ec8d903cb27ca9b8f1227",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:55:45.504Z"
+      },
+      {
+        "pattern_id": "hydrangea-cluster",
+        "name": "Hydrangea Cluster",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/hydrangea-cluster.json",
+        "sha256": "225d31b5f7e63628c60b0d56f17f8344b47290662dbbbd076519fde6d0236f78",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:56:46.769Z"
+      },
+      {
+        "pattern_id": "moon-cosmos",
+        "name": "Moon Cosmos",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/moon-cosmos.json",
+        "sha256": "ec0213602af191c079364492576eb5f18f9764d666adc917bb44eb170f5bad67",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:57:19.714Z"
+      },
+      {
+        "pattern_id": "winter-camellia",
+        "name": "Winter Camellia",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/winter-camellia.json",
+        "sha256": "7e0d1c4948361d4d0a75a51f7a1f0b051b015af2ffd31a0d0cf731c5d21f4c40",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:58:15.726Z"
+      },
+      {
+        "pattern_id": "sweet-pea-spray",
+        "name": "Sweet Pea Spray",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/sweet-pea-spray.json",
+        "sha256": "2ddbd1d07726886c176113c77d911ae9c78d5dc88114ec2bccd7048fa8688c87",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:59:10.159Z"
+      },
+      {
+        "pattern_id": "bluebell-stem",
+        "name": "Bluebell Stem",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/bluebell-stem.json",
+        "sha256": "902a941f60a9721a3a8b9395c2f3661e3a45585fbf04f6b65d93d4e7b9d15305",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T11:59:54.580Z"
+      },
+      {
+        "pattern_id": "lavender-sprig",
+        "name": "Lavender Sprig",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/lavender-sprig.json",
+        "sha256": "861c43b74d42eb0f37fbcc0bc11200e9609a89ca0b9d013444bc832667004694",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:01:05.646Z"
+      },
+      {
+        "pattern_id": "baby-breath-spray",
+        "name": "Baby's Breath Spray",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/baby-breath-spray.json",
+        "sha256": "f0a0b1215f15b80fea5d5a1152c938768d9f481d6f2e4e9b3994bfb7bb236251",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:01:59.930Z"
+      },
+      {
+        "pattern_id": "waxflower-spray",
+        "name": "Waxflower Spray",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/waxflower-spray.json",
+        "sha256": "882374b95463a7debeb6fc98cf2274250d19fe545a59d5d6c4e4332ef46f5d23",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:02:39.846Z"
+      },
+      {
+        "pattern_id": "golden-billy-button",
+        "name": "Golden Billy Button",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/golden-billy-button.json",
+        "sha256": "853ea5d955f17c5e581aea5ea6ffcdb0677d6af7cdc4819fe3a67ee41e1eb36b",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:03:26.055Z"
+      },
+      {
+        "pattern_id": "lace-queen-annes",
+        "name": "Lace Queen Anne's",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/lace-queen-annes.json",
+        "sha256": "2fa679157c67e2fc91d19663a64ecb4ff77037105904b207f97c05c7670c0eaa",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:04:24.074Z"
+      },
+      {
+        "pattern_id": "sleeping-rosebud",
+        "name": "Sleeping Rosebud",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/sleeping-rosebud.json",
+        "sha256": "7493000ce3c69af8b886745bdb81e5638e604f383fdf20a44b5125cf15db4db8",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:05:05.296Z"
+      },
+      {
+        "pattern_id": "forget-me-not",
+        "name": "Forget-Me-Not",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/forget-me-not.json",
+        "sha256": "ebdc5457c14744b40571c5fc150d17c0ea3f1d84c67c474b787f73fb43517a20",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:05:36.614Z"
+      },
+      {
+        "pattern_id": "chamomile-blossom",
+        "name": "Chamomile Blossom",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/chamomile-blossom.json",
+        "sha256": "e55ef9e88fef776e70c5e0e244fa5b94b0fc3ee31b7b02d9ff9448b9677ff637",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:06:11.624Z"
+      },
+      {
+        "pattern_id": "sage-eucalyptus",
+        "name": "Sage Eucalyptus",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/sage-eucalyptus.json",
+        "sha256": "5f1ae98c0a194a726dec77ac225f978f2153e6fdae55c7d6e83f8d340138b87b",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:07:05.226Z"
+      },
+      {
+        "pattern_id": "olive-branch",
+        "name": "Olive Branch",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/olive-branch.json",
+        "sha256": "5e35b4fb128e829f5093e60ab457bf985e89e805852ed8ebef2bfa1daa1b1ed5",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T12:08:11.637Z"
+      },
+      {
+        "pattern_id": "woodland-fern",
+        "name": "Woodland Fern",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/woodland-fern.json",
+        "sha256": "347f0a3475abc7d62d9f77e06f2ecfcd3c071e4c4f83ca651aa4931fbbc85596",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:43:38.783Z"
+      },
+      {
+        "pattern_id": "trailing-ivy",
+        "name": "Trailing Ivy",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/trailing-ivy.json",
+        "sha256": "55a5eefd8dae48a3417fea4825b961bc02792827d90500c3017bdcad3e007e03",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:44:28.114Z"
+      },
+      {
+        "pattern_id": "velvet-lambs-ear",
+        "name": "Velvet Lamb's Ear",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/velvet-lambs-ear.json",
+        "sha256": "6d1c9e5f6cddd6ecce779fbe370cde1a77bd78e287bc0378f1455478af06615a",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:45:23.202Z"
+      },
+      {
+        "pattern_id": "ruscus-spray",
+        "name": "Ruscus Spray",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/ruscus-spray.json",
+        "sha256": "8607d16416234e6ea89c754b552bbf8b65aacae601b24a1c4a606925b8c968ad",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:46:14.058Z"
+      },
+      {
+        "pattern_id": "bendable-floral-stem",
+        "name": "Bendable Floral Stem",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/bendable-floral-stem.json",
+        "sha256": "4bfd91f563171a47ee9e550ea85c107eb8f06bd6a8e218e86396a4a3405dfb3a",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:47:07.624Z"
+      },
+      {
+        "pattern_id": "ribboned-bouquet-wrap",
+        "name": "Ribboned Bouquet Wrap",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/ribboned-bouquet-wrap.json",
+        "sha256": "4513d98633c6f06945f8a8bddf724c8b5dc83256523ddf6f39531d80725bcccb",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:47:57.200Z"
+      },
+      {
+        "pattern_id": "meadow-vase",
+        "name": "Meadow Vase",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/meadow-vase.json",
+        "sha256": "ba6dcb845960f446ffe7ed0de469d0d5d3f296f9492f2e7258daa90d769df78e",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-02T17:48:42.220Z"
+      }
+    ],
+    "validation": {
+      "ok": true,
+      "errors": [],
+      "source_sha256": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69",
+      "at": "2026-10-05T17:57:39.668Z"
+    },
+    "generation": {
+      "status": "complete",
+      "mode": "validate",
+      "started_at": "2026-10-05T17:57:39.572Z",
+      "finished_at": "2026-10-05T17:57:39.674Z",
+      "error": null
+    },
+    "pending": null,
+    "revision_notes": [
+      {
+        "pattern_id": null,
+        "text": "Candidate patterns rejected; archived to crochet/history/rejected-2026-10-02T08-38-37-469Z/.",
+        "at": "2026-10-02T08:38:37.473Z",
+        "by": "@claude-code"
+      }
+    ],
+    "approval": {
+      "approved_at": "2026-10-05T17:57:43.416Z",
+      "by": "@romg_o",
+      "source_sha256": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69",
+      "pattern_count": 33,
+      "origin": "ai-assisted-draft",
+      "verification": {
+        "unverified": 33,
+        "tested": 0
+      }
+    },
+    "approval_history": [
+      {
+        "approved_at": "2026-10-02T19:07:41.937Z",
+        "by": "@romg_o",
+        "source_sha256": "a6747971740aefa2abd39f94b38dcaaa5ecc40bcf534d245b0fd3dced1c047ad",
+        "superseded_at": "2026-10-05T17:57:39.471Z",
+        "superseded_by": "@romg_o",
+        "reason": "crochet/patterns.json edited after approval"
+      }
+    ]
+  },
+  "restyles": [
+    {
+      "at": "2026-10-02T19:08:00.336Z",
+      "by": "@romg_o",
+      "reason": "The approved style proofs show an illustrated/painted crochet product; the authoritative crochet visual direction (ADR-043) requires realistic crochet with illustrated branding only.",
+      "archive": "creative/history/restyle-2026-10-02T19-08-00-336Z",
+      "previous": {
+        "creative_approved_at": "2026-09-29T21:16:35.798Z",
+        "direction_version": 1,
+        "approved_attempt": 1
+      },
+      "direction_version": 2,
+      "patterns_sha256": "a6747971740aefa2abd39f94b38dcaaa5ecc40bcf534d245b0fd3dced1c047ad",
+      "visual_specs": "creative/visual-specs.json",
+      "visual_match_status": "internally_checked"
+    }
+  ],
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "11f644c6b98781db9c9cd47b76e8082403881265ed6fa20017c8a1f135fed180"
+    },
+    "adapter": {
+      "format": "crochet-pattern-bundle",
+      "version": 1
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "7eb294a0b7dae1bb60a8c5e3ef708a8ce184b16bbd398af585dee3ceef39e9a3",
+      "built_at": "2026-10-06T06:36:42.714Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-10-06T06:36:42.721Z"
+    },
+    "approved_at": "2026-10-06T06:47:03.634Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "08b8f5a7bfe43224faecc344a1f0c4baaeb21d506d634a594e1a0c166e6ab101"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "fea5c77a82d41d50d2b22bc2b4de19c26c4e6cfbf577861fe0853e71f3975191"
+    },
+    "images": {
+      "count": 8,
+      "dir": "marketing/images",
+      "digest": "6e781f460d439c1054667248a1e54702f0c3ca37e5420deda78e9e7c3b47c70c"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-10-06T09:00:15.206Z"
+    },
+    "pending_scope": null,
+    "approved_at": "2026-10-06T09:14:48.854Z",
+    "engine": "ai-creative",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-10-06T06:47:34.085Z"
+    }
+  },
+  "etsy": {
+    "mode": "live",
+    "listing_id": 4589590540,
+    "shop_id": 46520279,
+    "payload_sha256": "4521ff3cf8328e383335c9cca37cfdf7ae2afd81b5f5ccfcb6894cb370ffc127",
+    "verification": {
+      "passed": true,
+      "fingerprint": "36ea324463d29a503ab5dee593eb633da0093c927b800e875e7f6ef0db2f2d9d",
+      "at": "2026-10-06T10:16:09.057Z"
+    },
+    "publish_request": null,
+    "published_at": null,
+    "listing_url": null
+  }
+}

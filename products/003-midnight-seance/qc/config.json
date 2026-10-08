@@ -1,0 +1,15 @@
+{
+  "dpi":300,
+  "pdfSizeToleranceMm":0.5,
+  "overflowTolerancePx":0.75,
+  "textContrastMinimum":4.5,
+  "expectedDefaultPdfCount":8,
+  "expectedDefaultPageCount":8,
+  "expectedTotalPdfCount":8,
+  "expectedTotalPageCount":8,
+  "artwork":{"requiredDesigns":35,"requiredTreatments":2,"minimumPpi":300,"sourcePerimeterOpaquePixels":0,"productionTransparentPaddingPixels":20,"economyChromaticPixelFractionMaximum":0.01,"economyNeutralChannelTolerance":15},
+  "blockedStrings":["FUCK","SHIT","CUNT","DICK","PISS","SLUT","NIGGER","NAZI","RAPE","SEX"],
+  "offensiveScanScope":"All continuous horizontal, vertical and diagonal lines in both directions; finite screening list, not a guarantee against every language or slang term",
+  "glyphScope":"Latin letters including accents, digits, common punctuation and £/$/€; unsupported scripts, emoji and control characters rejected",
+  "network":"All non-data/file requests fail; ordinary rendering performs no API calls"
+}

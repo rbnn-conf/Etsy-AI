@@ -1,0 +1,129 @@
+Little Halloween Costume Accessories
+3 patterns · US crochet terms · origin: ai-assisted-draft
+AI-assisted drafts for review. Unverified: not test-crocheted.
+Validation: passed
+
+============================================================
+01  Moonlit Bat Hair Clip  (bat-hair-clip)
+hair accessory · easy · About 7 cm wide, excluding the clip
+Yarn: Light yarn for bat, wings and ears, Black, About 8 m | Light yarn for embroidered eyes, White, About 1 m (3-light)
+Hook: 3.5 mm (US E/4)
+Also needed: One 5 centimetre metal snap hair clip, Tapestry needle, Stitch marker, Scissors
+Gauge: Gauge is not critical because this is a small appliqué. Choose a firm fabric so the bat holds its shape on the clip.
+Abbreviations: ch = chain; sc = single crochet; hdc = half double crochet; sl st = slip stitch; sc2tog = single crochet two together; st = stitch; sts = stitches; rnd = round; sk = skip
+
+Wings (make 2)
+  Row 1: With black yarn, ch 11. Sc in second ch from hook and in each remaining ch across; turn. (10)
+  Row 2: Ch 1, sc2tog, sc in each of next 6 sts, sc2tog; turn. (8)
+  Row 3: Ch 1, sc2tog, sc in each of next 4 sts, sc2tog; turn. (6)
+  Row 4: Ch 1, sc2tog, sc in each of next 2 sts, sc2tog; turn. (4)
+  Row 5: Ch 1, sc2tog, sc2tog; turn. (2)
+  Row 6: Ch 1, sc2tog. Do not turn. (1)
+  Edging: Ch 1. Along the nearest row-end edge, sl st in the end of Row 5, sc in the end of Row 4, hdc in the end of Row 3, sc in the end of Row 2, and sl st in the end of Row 1. Across the unused foundation loops, work (sc, ch 2, sc) in the first loop, sk 2 loops; make this sequence 2 more times; sc in the last loop. Work sl st, sc, hdc, sc and sl st up the opposite row-end edge, then sl st in the tip of Row 6 to join. (15)
+  Fasten off, leaving a 15 centimetre tail for sewing. Make a second wing in the same way.
+
+Body
+  Rnd 1: With black yarn, ch 5. Work 2 sc in second ch from hook, sc in each of next 2 ch, and 4 sc in last ch. Working along the opposite side of the foundation ch, sc in each of next 2 ch and 2 sc in last ch. Place marker in first st. (12)
+  Rnd 2: Work (sc in next st, 2 sc in next st) 6 times. Move marker to first st of rnd. (18)
+  Fasten off, leaving a 30 centimetre tail for assembly.
+
+Ears (make 2)
+  Row 1: With black yarn, ch 3. Sc in second ch from hook and in next ch; turn. (2)
+  Row 2: Ch 1, sc2tog. (1)
+  Fasten off, leaving a 10 centimetre tail for sewing. Make a second ear in the same way.
+
+Assembly
+  1. With the body positioned vertically, sew the pointed end of one wing to each side of the body. Keep the scalloped foundation edge facing down and outward, and overlap each wing tip slightly beneath the body.
+  2. Sew the straight lower edge of each ear to one rounded end of the body. Place the ears side by side, with their points directed away from the body.
+  3. Using black yarn, sew the bat centrally to the upper surface of the open snap clip. Stitch through the clip end holes and around its centre bar, taking several small stitches at each point.
+  4. With white yarn, embroider two short vertical straight stitches on the body for eyes. Secure the yarn on the reverse side of the body.
+
+Finishing
+  1. Fasten off every remaining working loop by cutting the yarn and pulling the tail completely through the loop.
+  2. Weave in all yarn tails on the reverse side, using the assembly stitches to secure the wing and ear tails.
+  3. Lightly shape the wings so the scalloped edges curve downward. Do not block the metal hair clip.
+  4. Check that the clip opens and closes freely and that no stitches obstruct its mechanism.
+
+Notes
+  - The wing edging forms three small chain arches that create the bat's scalloped lower wing edge.
+  - For a child’s accessory, supervise use and ensure the clip is attached securely before wearing.
+
+Verification: unverified
+
+============================================================
+02  Lavender Witch-Hat Brooch  (witch-hat-brooch)
+brooch · easy · About 6 cm wide and 6 cm tall
+Yarn: Light yarn for hat and brim, Lavender, About 10 g (3-light)
+Hook: 3.5 mm (US E-4)
+Also needed: Tapestry needle, Scissors, 25 mm brooch bar, Sewing needle and matching sewing thread, Stitch marker
+Gauge: Gauge is not critical; use a firm fabric so the small hat keeps its shape.
+Abbreviations: ch = chain; sc = single crochet; hdc = half double crochet; dc = double crochet; sl st = slip stitch; st = stitch; sts = stitches; rnd = round; MR = magic ring; inc = increase
+
+Pointed Hat
+  Rnd 1: Make a MR; work 4 sc in the MR. Place a stitch marker in the first st and work in continuous rnds. (4)
+  Rnd 2: Inc in each st around. (8)
+  Rnd 3: Sc in each st around. (8)
+  Rnd 4: Work [sc in next st, inc in next st] 4 times. (12)
+  Rnd 5: Sc in each st around. (12)
+  Rnd 6: Work [sc in next 2 sts, inc in next st] 4 times. (16)
+  Rnd 7: Sc in each st around. (16)
+  Rnd 8: Work [sc in next 3 sts, inc in next st] 4 times. (20)
+  Rnd 9: Sc in each st around. Cut yarn, leaving a 25 cm sewing tail. (20)
+
+Curved Brim
+  Rnd 1: Ch 13. Starting in the second ch from hook, sc in next 11 chs, work 3 sc in the last ch, sc in the underside of the next 10 chs, then work 2 sc in the underside of the final ch. Place a marker in the first st and work in continuous rnds. (26)
+  Rnd 2: Inc in first st, sc in next 10 sts, inc in each of next 3 sts, sc in next 10 sts, then inc in each of next 2 sts. (32)
+  Rnd 3: Sl st in next 2 sts, sc in next 4 sts, hdc in next 6 sts, dc in next 8 sts, hdc in next 6 sts, sc in next 4 sts, and sl st in next 2 sts. Cut yarn, leaving a 20 cm sewing tail. (32)
+
+Assembly
+  1. Centre the hat's lower edge across the brim, placing it over the side with the sl st section and with the pointed tip facing upwards. The dc section forms the front of the brim.
+  2. Using the hat tail, whip stitch through the 20 lower hat sts and the central upper area of the brim. Keep the brim's dc edge visible below the hat.
+  3. Sew the brooch bar horizontally to the reverse of the brim with matching sewing thread. Position it just below the hat join and keep the pin catch clear of crochet stitches.
+
+Finishing
+  1. Fasten off each yarn tail securely after assembly.
+  2. Weave yarn tails through the reverse of the crochet, avoiding the visible brim edge.
+  3. Gently shape the brim into a shallow upward curve at both sides.
+  4. Check that the brooch bar is firmly sewn on and that its clasp opens freely.
+
+Notes
+  - Keep the rounds firm and even; a tight fabric helps the hat hold its pointed silhouette.
+  - For a flatter brim, lightly steam-block it under a pressing cloth, keeping the brooch bar dry.
+
+Verification: unverified
+
+============================================================
+03  Candy-Corn Bag Charm  (candy-corn-bag-charm)
+bag charm · easy · About 6 cm tall, excluding the hanging loop.
+Yarn: Light yarn for the pointed top, White, About 3 g | Light yarn for the middle stripe, Orange, About 3 g | Light yarn for the wide base, Yellow, About 3 g (3-light)
+Hook: 3.5 mm (US E-4)
+Also needed: 12 mm lobster clasp or key ring, Tapestry needle, Scissors
+Gauge: Gauge is not critical. Keep stitches firm so the charm holds its tapered candy-corn shape.
+Abbreviations: ch = chain; sc = single crochet; hdc = half double crochet; sl st = slip stitch; st = stitch; sts = stitches
+
+Candy Corn Charm
+  Row 1: With white yarn, ch 2. Sc in the second ch from hook. (1)
+  Row 2: Ch 1, turn. Work 2 sc in the st. (2)
+  Row 3: Ch 1, turn. Work 2 sc in the first st, sc in the remaining st. (3)
+  Row 4: Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Change to orange in the final pull-through of the last sc. (4)
+  Row 5: With orange yarn, ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st. (5)
+  Row 6: Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st. (6)
+  Row 7: Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st. Change to yellow in the final pull-through of the last hdc. (7)
+  Row 8: With yellow yarn, ch 1, turn. Work 2 sc in the first st, sc in each remaining st. (8)
+  Row 9: Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. (9)
+  Row 10: Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. (10)
+  Row 11: Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Do not fasten off. (11)
+  Edging: Ch 1. Work 10 sc down the sloping side, placing 1 sc in each row end from Row 11 through Row 2. Work (sc, ch 18, sl st in the same point) in the point of Row 1. Work 10 sc up the other sloping side, placing 1 sc in each row end from Row 2 through Row 11. Work 1 sc in each of the 11 sts across the top edge. Sl st to the first sc. (32)
+
+Finishing
+  1. Fasten off after completing the edging, leaving a 10 cm yarn tail.
+  2. Weave in all yarn tails on the reverse side, taking care not to pull the colour stripes out of shape.
+  3. Gently flatten the charm with your fingers to define the pointed white tip and wide yellow base.
+  4. Clip a lobster clasp or attach a key ring through the chain loop at the pointed end.
+
+Notes
+  - Turning chains do not count as sts throughout.
+  - To change colour, complete the final stitch until two loops remain on the hook, yarn over with the new colour, and pull through both loops.
+  - The charm is a flat, single-layer accessory.
+
+Verification: unverified

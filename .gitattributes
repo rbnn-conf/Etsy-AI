@@ -1,0 +1,15 @@
+# Check every text file out with LF on every platform (some tests read source
+# text with regular expressions; CRLF breaks them). Binary types never convert.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.pdf binary
+*.zip binary
+*.xlsx binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary

@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "product_family": "colouring_book",
+  "theme": {
+    "id": "halloween_dark",
+    "label": "Halloween"
+  },
+  "primary_customer_intent": "enjoy a relaxing Halloween colouring activity",
+  "emotional_angle": "atmospheric Halloween mystery",
+  "tone": [
+    "inviting",
+    "atmospheric",
+    "mysterious",
+    "creative"
+  ],
+  "positioning": "adult spooky cartoon colouring book for Halloween",
+  "opening_strategy": "the colouring experience and theme before files",
+  "description_structure": [
+    {
+      "section": "emotional hook",
+      "focus": null
+    },
+    {
+      "section": "product experience",
+      "focus": "the illustrations and what colouring them feels like"
+    },
+    {
+      "section": "options / designs",
+      "focus": "page themes"
+    },
+    {
+      "section": "what you receive",
+      "focus": null
+    },
+    {
+      "section": "how it works",
+      "focus": "download, print, colour"
+    },
+    {
+      "section": "emotional use case",
+      "focus": "quiet creative time, as supported"
+    },
+    {
+      "section": "digital product disclosure",
+      "focus": null
+    }
+  ],
+  "description_emphasis": [
+    "artwork, theme and page experience first",
+    "file information later"
+  ],
+  "preferred_vocabulary": [
+    "colour",
+    "relax",
+    "pages",
+    "illustrations",
+    "creative",
+    "moonlit",
+    "mysterious",
+    "eerie",
+    "atmosphere"
+  ],
+  "avoid_vocabulary": [
+    "elevate your",
+    "transform your",
+    "whether you're",
+    "designed to",
+    "crafted to",
+    "seamlessly",
+    "perfect for (more than once)",
+    "unleash",
+    "look no further",
+    "must-have",
+    "game-changer",
+    "buy now",
+    "limited time",
+    "don't miss out",
+    "only today"
+  ],
+  "cta_style": "soft intriguing",
+  "seo_focus": [
+    "printable adult spooky cartoon colouring book",
+    "halloween adult spooky cartoon colouring book",
+    "diners adult spooky cartoon colouring book",
+    "instant digital download"
+  ],
+  "title_strategy": [
+    "primary search phrase",
+    "product type / subject",
+    "key differentiator",
+    "secondary search intent"
+  ],
+  "emoji_level": {
+    "level": "playful",
+    "min": 2,
+    "max": 6
+  },
+  "visual_marketing_mood": "moody atmospheric Halloween",
+  "target_length_words": [
+    250,
+    500
+  ],
+  "note": "Presentation guidance only. Production facts and the claim allow-list decide what may be said."
+}

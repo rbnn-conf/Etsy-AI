@@ -1,0 +1,89 @@
+{
+  "pattern_id": "trailing-ivy",
+  "name": "Trailing Ivy",
+  "category": "foliage",
+  "difficulty": "easy",
+  "finished_size": "About 22 centimetres long, including six leaves.",
+  "yarn": [
+    {
+      "description": "Smooth cotton yarn for vine and leaves",
+      "colour": "Deep ivy green",
+      "amount": "About 15 grams"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "Measuring tape or ruler"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "MR": "magic ring"
+  },
+  "gauge": "Gauge is not critical. Use a firm tension so the small leaves hold their heart-lobed shape.",
+  "instructions": [
+    {
+      "heading": "Trailing Cord",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Leaving a 15 centimetre starting tail, ch 75.",
+          "stitch_count": 75
+        },
+        {
+          "label": "Row 2",
+          "text": "Starting in the second ch from hook, sc in each ch across. Fasten off, leaving a 15 centimetre tail.",
+          "stitch_count": 74
+        }
+      ]
+    },
+    {
+      "heading": "Ivy Leaves",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make 6. Leaving a 12 centimetre starting tail, make an MR. Work all following sts into the MR: ch 2, hdc, dc, 2 tr, dc, hdc, ch 1, hdc, dc, 2 tr, dc, hdc, ch 2, sl st in MR. Pull the MR tight to form the leaf point. Fasten off, leaving a 12 centimetre tail.",
+          "stitch_count": 10
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Lay the cord horizontally with its starting tail at the left. Attach a leaf point to cord st 8 on the left side, st 20 on the right, st 32 on the left, st 44 on the right, st 56 on the left, and st 68 on the right.",
+    "For each leaf, use one tail to sew the tightened MR at the leaf point through both top loops of its specified cord st with three small whip stitches. Keep the leaf facing upwards and angled towards the nearest cord end."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Confirm each cord and leaf end is fastened off by drawing its yarn tail through the final loop securely.",
+    "Weave the leaf tails through the nearby leaf stitches and cord stitches on the reverse side, then trim them close to the fabric.",
+    "Weave in the two cord-end tails along the cord, taking care not to pull the trailing vine out of shape.",
+    "Lay the vine flat and gently shape each leaf so its two rounded lobes frame the centre notch."
+  ],
+  "notes": [
+    "Each leaf is worked with the first and final ch-2 sections forming the pointed base; neither ch-2 counts as a st.",
+    "For a longer trailing vine, add chains in multiples of 12 to Row 1 and add one leaf for every additional 12 cord sts."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

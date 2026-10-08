@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stage 3 marketing-engine art direction (model output). Code validates and clamps every value; the model never renders the product or any text.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["campaign", "slides", "lines"],
+  "properties": {
+    "campaign": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["mood", "palette", "lighting"],
+      "properties": {
+        "mood": { "type": "string", "minLength": 1, "maxLength": 200, "description": "One coherent campaign mood shared by every image." },
+        "palette": { "type": "string", "minLength": 1, "maxLength": 200, "description": "Environment palette that flatters the approved artwork's colours." },
+        "lighting": { "type": "string", "minLength": 1, "maxLength": 160, "description": "Shared lighting idea (e.g. warm window light, candlelight)." }
+      }
+    },
+    "slides": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 10,
+      "description": "One art direction for each slide id given, and no others.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "archetype", "product_scale", "rotation", "perspective", "lighting", "decor", "scene_brief"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1, "maxLength": 40, "description": "Exactly the slide id given." },
+          "archetype": { "type": "string", "enum": ["editorial-right", "editorial-left", "centre-stage", "diagonal", "overhead", "close-up"],
+            "description": "Composition: where the product sits (right/left/centre) and the copy goes opposite or above. Use only archetypes allowed for the engine." },
+          "product_scale": { "type": "number", "minimum": 0.3, "maximum": 0.8, "description": "Share of the square frame the real product should cover (the product must dominate)." },
+          "rotation": { "type": "number", "minimum": -12, "maximum": 12, "description": "Product rotation in degrees (small, natural)." },
+          "perspective": { "type": "number", "minimum": -12, "maximum": 12, "description": "Product tilt towards the camera in degrees." },
+          "lighting": { "type": "string", "enum": ["warm window light from the left", "warm window light from the right", "soft candlelight", "golden evening light", "bright soft daylight", "cool winter daylight"] },
+          "decor": { "type": "string", "enum": ["none", "bokeh", "sprigs"], "description": "Coded decorative layer (never drawn by the image model)." },
+          "scene_brief": { "type": "string", "minLength": 1, "maxLength": 400,
+            "description": "ENVIRONMENT only: surface, props, depth, light, colour, with a clear empty area where the product will be placed. Never a card, paper, book, print, page, screen, text, lettering, logo, frame, person, hand or animal." }
+        }
+      }
+    },
+    "lines": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 4,
+      "description": "One supporting line for each tone slide id given, and no others.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "text"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1, "maxLength": 40 },
+          "text": { "type": "string", "minLength": 1, "maxLength": 90, "description": "One warm, short supporting line in UK English, sentence case. No claims beyond the facts." }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "version": "openai-2026-09-28",
+  "provider": "openai",
+  "currency": "USD",
+  "effective_from": "2026-09-28",
+  "source": "https://developers.openai.com/api/docs/pricing (standard tier, fetched 2026-09-28)",
+  "notes": "Edit prices by adding a NEW version (never change a published version): every cost event records the version it was priced with. Long-context rates are not applied (Stage 1-3 requests are far below long-context sizes).",
+  "models": {
+    "gpt-5.6-terra": {
+      "unit": "per_1m_tokens",
+      "text": { "input": 2.00, "cached_input": 0.20, "cache_write": 2.50, "output": 12.00 }
+    },
+    "gpt-image-2.5-flare": {
+      "unit": "per_1m_tokens",
+      "image": { "text_input": 5.00, "image_input": 8.00, "image_output": 30.00 }
+    }
+  },
+  "fx": {
+    "pair": "USD_GBP",
+    "rate": 0.75492,
+    "as_of": "2026-09-26",
+    "source": "mid-market rate (pluang.com USD/GBP converter, 26 Sep 2026); override with AUTOMATION_FX_USD_GBP"
+  }
+}

@@ -1,0 +1,66 @@
+# === Secrets & environment ===
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*-token.json
+*.token.json
+**/secrets/**
+**/*.secret
+
+# === Database dumps (never commit) ===
+*.sql.gz
+*.dump
+
+# === Storage (generated product assets, not source) ===
+storage/**
+!storage/README.md
+
+# === Process files ===
+*.pid
+
+# === OS / editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# === Node (future workers/tooling) ===
+node_modules/
+npm-debug.log*
+dist/
+build/
+
+# === Python (future workers/tooling) ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === Logs ===
+*.log
+logs/
+
+# === Test artifacts ===
+coverage/
+.pytest_cache/
+
+# Automation-managed products (Stages 1-4, ADR-023..026): regenerable binaries stay
+# local; the JSON records (product.json, facts, listing, plans, QC, Etsy records) are committed.
+products/*/concept-previews/**/*.png
+products/*/proofs/**/*.png
+products/*/references/
+products/*/production/deliverables/
+products/*/production/package/
+products/*/production/previews/
+products/*/marketing/images/**/*.png
+products/*/marketing/scenes/
+products/*/marketing/work/
+products/*/marketing/history/**/*.png
+products/*/etsy/delivery/*.zip
+products/*/etsy/dry-run/

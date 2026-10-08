@@ -1,0 +1,3028 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LumiumX automation product.json (primary machine-readable source of truth)",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "managed_by",
+    "product_id",
+    "workspace",
+    "name",
+    "slug",
+    "season",
+    "product_type",
+    "target_customer",
+    "page_count",
+    "status",
+    "resume_state",
+    "status_history",
+    "request",
+    "reference_files",
+    "visual_direction",
+    "concepts",
+    "pages",
+    "proofs",
+    "direction_feedback",
+    "pending_input",
+    "review",
+    "lock",
+    "last_error",
+    "api_usage",
+    "creative_approved_at",
+    "created_at",
+    "updated_at"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "managed_by": {
+      "const": "automation-stage-1"
+    },
+    "product_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^\\d{3}$"
+    },
+    "workspace": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^\\d{3}-[a-z0-9-]+$"
+    },
+    "name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "slug": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "season": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "product_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "target_customer": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "page_count": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "canvas": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "orientation",
+        "background",
+        "edge",
+        "format_notes"
+      ],
+      "properties": {
+        "orientation": {
+          "type": "string",
+          "enum": [
+            "portrait",
+            "landscape",
+            "square"
+          ]
+        },
+        "background": {
+          "type": "string",
+          "enum": [
+            "white",
+            "coloured",
+            "illustrated"
+          ]
+        },
+        "edge": {
+          "type": "string",
+          "enum": [
+            "safe-margin",
+            "full-bleed"
+          ],
+          "description": "safe-margin: clear margin on every side; full-bleed: artwork runs to the edges"
+        },
+        "format_notes": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300,
+          "description": "One sentence of format-specific composition guidance, e.g. space reserved for invitation wording, or writing space on a planner page"
+        }
+      },
+      "additionalProperties": false
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "DRAFT",
+        "REFERENCES_RECEIVED",
+        "IDEAS_READY",
+        "CONCEPT_PREVIEWS_GENERATING",
+        "AWAITING_CONCEPT_SELECTION",
+        "CONCEPT_SELECTED",
+        "SPEC_READY",
+        "PROOFS_GENERATING",
+        "AWAITING_CREATIVE_APPROVAL",
+        "CREATIVE_APPROVED",
+        "BOOK_GENERATING",
+        "AWAITING_BOOK_APPROVAL",
+        "PATTERNS_GENERATING",
+        "AWAITING_PATTERN_APPROVAL",
+        "VISUALS_GENERATING",
+        "AWAITING_VISUALS_APPROVAL",
+        "PRODUCTION_READY",
+        "PRODUCTION_BUILDING",
+        "PRODUCTION_QC",
+        "AWAITING_PRODUCTION_APPROVAL",
+        "PRODUCTION_APPROVED",
+        "MARKETING_PLANNING",
+        "MARKETING_GENERATING",
+        "MARKETING_QC",
+        "AWAITING_MARKETING_APPROVAL",
+        "MARKETING_APPROVED",
+        "ETSY_PREPARING",
+        "ETSY_DRAFT_CREATED",
+        "ETSY_ASSETS_UPLOADING",
+        "ETSY_DRAFT_VERIFYING",
+        "AWAITING_ETSY_PUBLISH_APPROVAL",
+        "PUBLISHING",
+        "PUBLISHED",
+        "REJECTED",
+        "FAILED"
+      ]
+    },
+    "resume_state": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "DRAFT",
+        "REFERENCES_RECEIVED",
+        "IDEAS_READY",
+        "CONCEPT_PREVIEWS_GENERATING",
+        "AWAITING_CONCEPT_SELECTION",
+        "CONCEPT_SELECTED",
+        "SPEC_READY",
+        "PROOFS_GENERATING",
+        "AWAITING_CREATIVE_APPROVAL",
+        "CREATIVE_APPROVED",
+        "BOOK_GENERATING",
+        "AWAITING_BOOK_APPROVAL",
+        "PATTERNS_GENERATING",
+        "AWAITING_PATTERN_APPROVAL",
+        "VISUALS_GENERATING",
+        "AWAITING_VISUALS_APPROVAL",
+        "PRODUCTION_READY",
+        "PRODUCTION_BUILDING",
+        "PRODUCTION_QC",
+        "AWAITING_PRODUCTION_APPROVAL",
+        "PRODUCTION_APPROVED",
+        "MARKETING_PLANNING",
+        "MARKETING_GENERATING",
+        "MARKETING_QC",
+        "AWAITING_MARKETING_APPROVAL",
+        "MARKETING_APPROVED",
+        "ETSY_PREPARING",
+        "ETSY_DRAFT_CREATED",
+        "ETSY_ASSETS_UPLOADING",
+        "ETSY_DRAFT_VERIFYING",
+        "AWAITING_ETSY_PUBLISH_APPROVAL",
+        "PUBLISHING",
+        "PUBLISHED",
+        "REJECTED",
+        "FAILED",
+        null
+      ]
+    },
+    "status_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "from",
+          "to",
+          "event",
+          "at",
+          "actor"
+        ],
+        "properties": {
+          "from": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "to": {
+            "type": "string",
+            "minLength": 1
+          },
+          "event": {
+            "type": "string",
+            "minLength": 1
+          },
+          "at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "actor": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "request": {
+      "type": "object",
+      "required": [
+        "text",
+        "requested_at",
+        "chat_id",
+        "requested_by"
+      ],
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "requested_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "chat_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "requested_by": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "reference_files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "file",
+          "telegram_file_unique_id",
+          "mime_type",
+          "bytes",
+          "sha256",
+          "received_at"
+        ],
+        "properties": {
+          "file": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^references/reference-\\d{2}\\.(png|jpg|webp|gif)$"
+          },
+          "telegram_file_unique_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "mime_type": {
+            "type": "string",
+            "minLength": 1
+          },
+          "bytes": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "sha256": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "received_at": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "visual_direction": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "file",
+        "version",
+        "source",
+        "summary"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "file": {
+          "const": "creative/creative-direction.json"
+        },
+        "version": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "object",
+          "required": [
+            "style",
+            "linework",
+            "detail",
+            "palette",
+            "mood"
+          ],
+          "properties": {
+            "style": {
+              "type": "string",
+              "minLength": 1
+            },
+            "linework": {
+              "type": "string",
+              "minLength": 1
+            },
+            "detail": {
+              "type": "string",
+              "minLength": 1
+            },
+            "palette": {
+              "type": "string",
+              "minLength": 1
+            },
+            "mood": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+    "concepts": {
+      "type": "object",
+      "required": [
+        "batches",
+        "selected"
+      ],
+      "properties": {
+        "batches": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "batch",
+              "generated_at",
+              "concepts"
+            ],
+            "properties": {
+              "batch": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "generated_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "concepts": {
+                "type": "array"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "selected": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "batch",
+            "concept_id",
+            "selected_at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "batch": {
+              "type": "integer"
+            },
+            "concept_id": {
+              "type": "string",
+              "enum": [
+                "A",
+                "B",
+                "C"
+              ]
+            },
+            "selected_at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "concept_previews": {
+      "type": "object",
+      "required": [
+        "batches"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "batches": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "batch",
+              "dir",
+              "status",
+              "model",
+              "quality",
+              "started_at",
+              "finished_at",
+              "images",
+              "error"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "batch": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "dir": {
+                "type": "string",
+                "pattern": "^concept-previews/batch-\\d{2}$"
+              },
+              "status": {
+                "type": "string",
+                "enum": [
+                  "generating",
+                  "complete",
+                  "failed",
+                  "interrupted"
+                ]
+              },
+              "model": {
+                "type": "string",
+                "minLength": 1
+              },
+              "quality": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "started_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "finished_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "images": {
+                "type": "array",
+                "maxItems": 3,
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "concept_id",
+                    "file",
+                    "prompt",
+                    "model",
+                    "size",
+                    "quality",
+                    "generated_at"
+                  ],
+                  "additionalProperties": false,
+                  "properties": {
+                    "concept_id": {
+                      "type": "string",
+                      "enum": [
+                        "A",
+                        "B",
+                        "C"
+                      ]
+                    },
+                    "file": {
+                      "type": "string",
+                      "pattern": "^concept-previews/batch-\\d{2}/concept-[abc]\\.png$"
+                    },
+                    "prompt": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "model": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "size": {
+                      "type": "string",
+                      "pattern": "^\\d+x\\d+$"
+                    },
+                    "quality": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "generated_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    },
+                    "adopted_after_restart": {
+                      "type": "boolean",
+                      "description": "PNG was written before a crash but not yet recorded; reused instead of paying again"
+                    }
+                  }
+                }
+              },
+              "error": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "page_number",
+          "page_type",
+          "title",
+          "concept",
+          "instructions",
+          "artwork_description",
+          "generation_prompt",
+          "production_notes"
+        ],
+        "properties": {
+          "page_number": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "page_type": {
+            "type": "string",
+            "minLength": 1,
+            "description": "e.g. cover, colouring, maze, counting, tracing, matching, word-search, certificate"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "concept": {
+            "type": "string",
+            "minLength": 1
+          },
+          "instructions": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Child-facing instructions printed on the page, or null"
+          },
+          "artwork_description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "generation_prompt": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Page-specific image prompt; the shared visual system is added by code"
+          },
+          "production_notes": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "proofs": {
+      "type": "object",
+      "required": [
+        "selected_pages",
+        "attempts"
+      ],
+      "properties": {
+        "selected_pages": {
+          "type": "array",
+          "maxItems": 3,
+          "items": {
+            "type": "object",
+            "required": [
+              "page_number",
+              "role",
+              "reason"
+            ],
+            "properties": {
+              "page_number": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "role": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "attempts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "attempt",
+              "dir",
+              "reason",
+              "direction_version",
+              "started_at",
+              "finished_at",
+              "status",
+              "images",
+              "error"
+            ],
+            "properties": {
+              "attempt": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "dir": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "^proofs/attempt-\\d{2}$"
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              },
+              "direction_version": {
+                "type": "integer"
+              },
+              "purpose": {
+                "enum": ["concept-style", "traceable-product"],
+                "description": "Crochet only (ADR-047): concept-style = made before the patterns exist (sets the look, never evidence of a specific pattern's result); traceable-product = made after Restyle from pattern-derived, checked visual specs."
+              },
+              "started_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "finished_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "status": {
+                "type": "string",
+                "enum": [
+                  "generating",
+                  "complete",
+                  "failed",
+                  "interrupted"
+                ]
+              },
+              "images": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "file",
+                    "page_number",
+                    "prompt",
+                    "model",
+                    "generated_at"
+                  ],
+                  "properties": {
+                    "file": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "page_number": {
+                      "type": "integer"
+                    },
+                    "prompt": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "model": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "size": {
+                      "type": "string",
+                      "pattern": "^\\d+x\\d+$"
+                    },
+                    "generated_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "error": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "direction_feedback": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "text",
+          "at",
+          "by",
+          "applied_in_version"
+        ],
+        "properties": {
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "by": {
+            "type": "string",
+            "minLength": 1
+          },
+          "applied_in_version": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "pending_input": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "direction_feedback",
+        "marketing_direction",
+        "book_page_direction",
+        "book_direction",
+        "crochet_brief",
+        "pattern_revision",
+        null
+      ]
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "nonce",
+        "keyboard_message_ids"
+      ],
+      "properties": {
+        "nonce": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[A-Za-z0-9]{6,16}$"
+        },
+        "keyboard_message_ids": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "lock": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "op",
+        "id",
+        "at"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "op": {
+          "type": "string",
+          "minLength": 1
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "last_error": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "step",
+        "message",
+        "at",
+        "retryable"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "step": {
+          "type": "string",
+          "minLength": 1
+        },
+        "message": {
+          "type": "string",
+          "minLength": 1
+        },
+        "at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "retryable": {
+          "type": "boolean"
+        }
+      }
+    },
+    "api_usage": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "step",
+          "model",
+          "kind",
+          "usage",
+          "at"
+        ],
+        "properties": {
+          "step": {
+            "type": "string",
+            "minLength": 1
+          },
+          "model": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "text",
+              "image"
+            ]
+          },
+          "usage": {
+            "type": [
+              "object",
+              "null"
+            ]
+          },
+          "at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "outcome": {
+            "type": "string",
+            "enum": [
+              "ok",
+              "api_error",
+              "rejected"
+            ],
+            "description": "ok: call succeeded; api_error: the call failed; rejected: billed output failed local validation"
+          },
+          "error": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "creative_approved_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "production": {
+      "type": "object",
+      "required": [
+        "handoff",
+        "adapter",
+        "build",
+        "qc",
+        "approved_at"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "handoff": {
+          "type": "object",
+          "required": [
+            "file",
+            "sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "pattern": "^production/handoff\\.json$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
+        },
+        "adapter": {
+          "type": "object",
+          "required": [
+            "format",
+            "version"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "format": {
+              "type": "string",
+              "minLength": 1
+            },
+            "version": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        },
+        "build": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "record",
+            "sha256",
+            "built_at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "record": {
+              "type": "string",
+              "pattern": "^production/build-record\\.json$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "built_at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "qc": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "passed",
+            "report",
+            "at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "passed": {
+              "type": "boolean"
+            },
+            "report": {
+              "type": "string",
+              "pattern": "^production/qc-report\\.json$"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "approved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "marketing": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "listing",
+        "plan",
+        "images",
+        "qc",
+        "pending_scope",
+        "approved_at"
+      ],
+      "properties": {
+        "listing": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "file",
+            "sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "pattern": "^marketing/listing\\.json$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
+        },
+        "plan": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "file",
+            "sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "pattern": "^marketing/plan\\.json$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
+        },
+        "images": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "count",
+            "dir",
+            "digest"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "count": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "dir": {
+              "type": "string",
+              "pattern": "^marketing/images$"
+            },
+            "digest": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
+        },
+        "qc": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "passed",
+            "report",
+            "at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "passed": {
+              "type": "boolean"
+            },
+            "report": {
+              "type": "string",
+              "pattern": "^marketing/qc\\.json$"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "pending_scope": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "all",
+            "copy",
+            "marketing",
+            null
+          ]
+        },
+        "approved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "engine": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "factory",
+            "hybrid",
+            "ai-creative",
+            null
+          ],
+          "description": "Stage 3 marketing engine chosen by the owner for this run (stored for reproducibility)."
+        },
+        "engine_chosen": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": false,
+          "required": [
+            "by",
+            "at"
+          ],
+          "properties": {
+            "by": {
+              "type": "string"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "approved_hero": {
+              "description": "ADR-065: the hero comparison candidate this choice approved, referenced by SHA-256 (the comparison entry is the source of truth).",
+              "type": [
+                "object",
+                "null"
+              ]
+            }
+          }
+        },
+        "pending_asset": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": false,
+          "required": [
+            "index"
+          ],
+          "properties": {
+            "index": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10
+            }
+          }
+        },
+        "asset_ops": {
+          "type": "array",
+          "maxItems": 200,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "slide",
+              "op",
+              "at",
+              "by"
+            ],
+            "properties": {
+              "slide": {
+                "type": "string"
+              },
+              "op": {
+                "type": "string",
+                "enum": [
+                  "scene",
+                  "direction",
+                  "composite"
+                ]
+              },
+              "at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "by": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "comparison": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": false,
+          "required": [
+            "at",
+            "engines"
+          ],
+          "properties": {
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "engines": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "factory": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "image"
+                  ],
+                  "properties": {
+                    "image": {
+                      "type": "object",
+                      "additionalProperties": false,
+                      "required": [
+                        "file",
+                        "sha256"
+                      ],
+                      "properties": {
+                        "file": {
+                          "type": "string",
+                          "pattern": "^marketing/comparison/(factory|hybrid|ai-creative)/01-hero\\.png$"
+                        },
+                        "sha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        }
+                      }
+                    },
+                    "scene": {
+                      "type": [
+                        "object",
+                        "null"
+                      ],
+                      "additionalProperties": false,
+                      "required": [
+                        "file",
+                        "sha256",
+                        "prompt"
+                      ],
+                      "properties": {
+                        "file": {
+                          "type": "string",
+                          "pattern": "^marketing/engines/(factory|hybrid|ai-creative)/scenes/[0-9a-z-]+\\.png$"
+                        },
+                        "sha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        },
+                        "prompt": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "direction": {
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "campaign": {
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "route": {
+                      "description": "ADR-064: the structured route contract this hero followed (routes.mjs routeOf).",
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "brief": {
+                      "description": "ADR-064: the scene brief the hero environment was made from (compared by the pre-image route gate).",
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  }
+                },
+                "hybrid": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "image"
+                  ],
+                  "properties": {
+                    "image": {
+                      "type": "object",
+                      "additionalProperties": false,
+                      "required": [
+                        "file",
+                        "sha256"
+                      ],
+                      "properties": {
+                        "file": {
+                          "type": "string",
+                          "pattern": "^marketing/comparison/(factory|hybrid|ai-creative)/01-hero\\.png$"
+                        },
+                        "sha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        }
+                      }
+                    },
+                    "scene": {
+                      "type": [
+                        "object",
+                        "null"
+                      ],
+                      "additionalProperties": false,
+                      "required": [
+                        "file",
+                        "sha256",
+                        "prompt"
+                      ],
+                      "properties": {
+                        "file": {
+                          "type": "string",
+                          "pattern": "^marketing/engines/(factory|hybrid|ai-creative)/scenes/[0-9a-z-]+\\.png$"
+                        },
+                        "sha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        },
+                        "prompt": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "direction": {
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "campaign": {
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "route": {
+                      "description": "ADR-064: the structured route contract this hero followed (routes.mjs routeOf).",
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "brief": {
+                      "description": "ADR-064: the scene brief the hero environment was made from (compared by the pre-image route gate).",
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  }
+                },
+                "ai-creative": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "image"
+                  ],
+                  "properties": {
+                    "image": {
+                      "type": "object",
+                      "additionalProperties": false,
+                      "required": [
+                        "file",
+                        "sha256"
+                      ],
+                      "properties": {
+                        "file": {
+                          "type": "string",
+                          "pattern": "^marketing/comparison/(factory|hybrid|ai-creative)/01-hero\\.png$"
+                        },
+                        "sha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        }
+                      }
+                    },
+                    "scene": {
+                      "type": [
+                        "object",
+                        "null"
+                      ],
+                      "additionalProperties": false,
+                      "required": [
+                        "file",
+                        "sha256",
+                        "prompt"
+                      ],
+                      "properties": {
+                        "file": {
+                          "type": "string",
+                          "pattern": "^marketing/engines/(factory|hybrid|ai-creative)/scenes/[0-9a-z-]+\\.png$"
+                        },
+                        "sha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        },
+                        "prompt": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "direction": {
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "campaign": {
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "route": {
+                      "description": "ADR-064: the structured route contract this hero followed (routes.mjs routeOf).",
+                      "type": [
+                        "object",
+                        "null"
+                      ]
+                    },
+                    "brief": {
+                      "description": "ADR-064: the scene brief the hero environment was made from (compared by the pre-image route gate).",
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "etsy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "listing_id",
+        "shop_id",
+        "payload_sha256",
+        "verification",
+        "publish_request",
+        "published_at",
+        "listing_url"
+      ],
+      "description": "Stage 4 summary. Full records live in products/<id>/etsy/ (payload, draft, uploads, verification, publish-record, api-activity). Never holds credentials.",
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "dry-run",
+            "live"
+          ]
+        },
+        "listing_id": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "shop_id": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "payload_sha256": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "verification": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": false,
+          "required": [
+            "passed",
+            "fingerprint",
+            "at"
+          ],
+          "properties": {
+            "passed": {
+              "type": "boolean"
+            },
+            "fingerprint": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "publish_request": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": false,
+          "required": [
+            "fingerprint",
+            "requested_at"
+          ],
+          "properties": {
+            "fingerprint": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "requested_at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "published_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "listing_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "book": {
+      "type": "object",
+      "required": [
+        "version",
+        "manifest",
+        "size",
+        "model",
+        "quality",
+        "pages",
+        "generation",
+        "qc",
+        "pending_op",
+        "pending_page",
+        "direction_notes",
+        "reuse",
+        "approval"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "override_history": {
+          "description": "ADR-067: every owner-approved overflow exception accepted for this product (audit; never removed).",
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "version": {
+          "const": 1
+        },
+        "manifest": {
+          "type": "object",
+          "required": [
+            "file",
+            "sha256",
+            "created_at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "const": "book/manifest.json"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "created_at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "size": {
+          "type": "string",
+          "pattern": "^\\d+x\\d+$",
+          "description": "Requested pixel size (the largest the image model supports for the canvas orientation). Actual pixel sizes are recorded per page."
+        },
+        "model": {
+          "type": "string",
+          "minLength": 1
+        },
+        "quality": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "page_id",
+              "page_number",
+              "status",
+              "source",
+              "file",
+              "sha256",
+              "width",
+              "height",
+              "model",
+              "generated_at",
+              "revision",
+              "instruction",
+              "error"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "page_id": {
+                "type": "string",
+                "pattern": "^P\\d{3}$"
+              },
+              "page_number": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "status": {
+                "type": "string",
+                "enum": [
+                  "missing",
+                  "generated",
+                  "reused",
+                  "failed"
+                ]
+              },
+              "source": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "generated",
+                  "style-proof",
+                  null
+                ]
+              },
+              "proof_file": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "file": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^book/pages/P\\d{3}\\.png$"
+              },
+              "sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "width": {
+                "type": [
+                  "integer",
+                  "null"
+                ],
+                "minimum": 1
+              },
+              "height": {
+                "type": [
+                  "integer",
+                  "null"
+                ],
+                "minimum": 1
+              },
+              "size": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^\\d+x\\d+$"
+              },
+              "model": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "generated_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "revision": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "instruction": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "maxLength": 500
+              },
+              "error": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "maxLength": 500
+              },
+              "adopted_after_restart": {
+                "type": "boolean"
+              }
+            }
+          }
+        },
+        "generation": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "status",
+            "started_at",
+            "finished_at",
+            "error"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "generating",
+                "complete",
+                "failed",
+                "interrupted"
+              ]
+            },
+            "started_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "finished_at": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "error": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 500
+            }
+          }
+        },
+        "qc": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "passed",
+            "report",
+            "sha256",
+            "fingerprint",
+            "at",
+            "warnings",
+            "failed_pages"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "override": {
+              "description": "ADR-067: owner-approved exception for decorative artwork overflow (rule artwork-edge-overflow only), bound to the QC report SHA-256 and pages fingerprint.",
+              "type": [
+                "object",
+                "null"
+              ]
+            },
+            "passed": {
+              "type": "boolean"
+            },
+            "report": {
+              "const": "book/qc.json"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "fingerprint": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "warnings": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "failed_pages": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^P\\d{3}$"
+              }
+            }
+          }
+        },
+        "pending_op": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "page_number",
+            "op",
+            "instruction",
+            "at",
+            "by"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "page_number": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "op": {
+              "type": "string",
+              "enum": [
+                "regenerate",
+                "direction"
+              ]
+            },
+            "instruction": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 500
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "pending_page": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "page_number"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "page_number": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        },
+        "direction_notes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "text",
+              "at",
+              "by",
+              "archived_pages"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 500
+              },
+              "at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "by": {
+                "type": "string",
+                "minLength": 1
+              },
+              "archived_pages": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^P\\d{3}$"
+                }
+              }
+            }
+          }
+        },
+        "reuse": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "page_number",
+              "proof_file",
+              "reused",
+              "reason"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "page_number": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "proof_file": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reused": {
+                "type": "boolean"
+              },
+              "reason": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        },
+        "approval": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "approved_at",
+            "by",
+            "manifest_sha256",
+            "pages_sha256",
+            "qc_sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "override": {
+              "description": "ADR-067: owner-approved exception for decorative artwork overflow (rule artwork-edge-overflow only), bound to the QC report SHA-256 and pages fingerprint.",
+              "type": [
+                "object",
+                "null"
+              ]
+            },
+            "approved_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            },
+            "manifest_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "pages_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "qc_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        }
+      },
+      "description": "Stage 1 full-book artwork for full-book formats (colouring books, ADR-030). Stage 2 accepts the product only with approval bound to the manifest, page checksums and a passing QC report."
+    },
+    "crochet_visuals": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Crochet VISUAL SET (ADR-063): one collection hero + one finished-item preview per approved pattern, generated (paid, owner-confirmed, image by image, resumable) from code-built briefs bound to the approved patterns' fingerprints. Stage 2 requires approval bound to the visual manifest and every file's SHA-256 once a set exists. Illustrations, never photographs of test-crocheted items.",
+      "required": [
+        "version",
+        "briefs",
+        "patterns_sha256",
+        "model",
+        "quality",
+        "sizes",
+        "assets",
+        "generation",
+        "qc",
+        "manifest",
+        "pending_op",
+        "approval",
+        "history"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "version": {
+          "const": 1
+        },
+        "briefs": {
+          "type": "object",
+          "required": [
+            "file",
+            "sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        },
+        "patterns_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "model": {
+          "type": "string",
+          "minLength": 1
+        },
+        "quality": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sizes": {
+          "type": "object",
+          "required": [
+            "hero",
+            "pattern-preview"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "hero": {
+              "type": "string"
+            },
+            "pattern-preview": {
+              "type": "string"
+            }
+          }
+        },
+        "assets": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "role",
+              "pattern_id",
+              "file",
+              "status",
+              "sha256",
+              "width",
+              "height",
+              "model",
+              "generated_at",
+              "revision",
+              "prompt_sha256",
+              "error"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^crochet-(hero|preview-[a-z0-9-]+)$"
+              },
+              "role": {
+                "enum": [
+                  "hero",
+                  "pattern-preview"
+                ]
+              },
+              "pattern_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "file": {
+                "type": "string",
+                "pattern": "^visuals/crochet/"
+              },
+              "status": {
+                "enum": [
+                  "missing",
+                  "generated",
+                  "failed"
+                ]
+              },
+              "sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "width": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "height": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "size": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "model": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "generated_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "revision": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "prompt_sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "brief_sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "fingerprint_sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "error": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "maxLength": 600
+              },
+              "adopted_after_restart": {
+                "type": "boolean"
+              },
+              "archived": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "generation": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "status",
+            "started_at",
+            "finished_at",
+            "error"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "generating",
+                "complete",
+                "failed",
+                "interrupted"
+              ]
+            },
+            "started_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "finished_at": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "error": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 600
+            }
+          }
+        },
+        "qc": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "passed",
+            "at",
+            "problems",
+            "warnings"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "passed": {
+              "type": "boolean"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "problems": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "warnings": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "manifest": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "file",
+            "sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        },
+        "pending_op": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "op",
+            "targets",
+            "at",
+            "by"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "op": {
+              "enum": [
+                "restyle-hero",
+                "restyle-preview",
+                "restyle-all"
+              ]
+            },
+            "targets": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string"
+              }
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "approval": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "approved_at",
+            "by",
+            "manifest_sha256",
+            "assets_sha256",
+            "patterns_sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "approved_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            },
+            "manifest_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "assets_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "patterns_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        },
+        "history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "at",
+              "by",
+              "event"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "by": {
+                "type": "string",
+                "minLength": 1
+              },
+              "event": {
+                "enum": [
+                  "approved",
+                  "restyle-hero",
+                  "restyle-preview",
+                  "restyle-all",
+                  "stopped",
+                  "production-reopened"
+                ]
+              },
+              "targets": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "archived": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "restyles": {
+      "type": "array",
+      "description": "Crochet RESTYLE records (ADR-044): each one cleared the creative (style) approval and archived the previous direction, pages and approval record. Pattern approval is never changed by a restyle.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["at", "by", "reason", "archive", "previous", "direction_version", "patterns_sha256"],
+        "properties": {
+          "at": { "type": "string", "format": "date-time" },
+          "by": { "type": "string", "minLength": 1 },
+          "reason": { "type": "string", "minLength": 1 },
+          "archive": { "type": "string", "pattern": "^creative/history/restyle-[0-9TZ-]+$" },
+          "previous": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["creative_approved_at", "direction_version", "approved_attempt"],
+            "properties": {
+              "creative_approved_at": { "type": ["string", "null"] },
+              "direction_version": { "type": ["integer", "null"] },
+              "approved_attempt": { "type": ["integer", "null"] }
+            }
+          },
+          "direction_version": { "type": "integer", "minimum": 1 },
+          "patterns_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "visual_specs": { "const": "creative/visual-specs.json", "description": "Pattern-derived visual specs the restyled briefs were built from (ADR-046)." },
+          "visual_match_status": { "enum": ["derived", "internally_checked", "physically_verified"], "description": "physically_verified is never set by code: it needs a person to crochet the pattern and confirm the result." }
+        }
+      }
+    },
+    "crochet": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "version",
+        "brief",
+        "plan",
+        "source",
+        "patterns",
+        "validation",
+        "generation",
+        "pending",
+        "revision_notes",
+        "approval"
+      ],
+      "description": "Stage 1 crochet pattern content (ADR-041), a gate separate from creative approval. Candidate patterns (AI-assisted drafts, or an owner-supplied source) are validated by production/src/crochet/bundle.mjs and reviewed; APPROVE PATTERNS binds the approval to the exact SHA-256 of crochet/patterns.json. Approval for production is never testing or verification.",
+      "properties": {
+        "version": {
+          "const": 1
+        },
+        "brief": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "pattern_count",
+            "terminology",
+            "set_by",
+            "set_at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "pattern_count": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 60
+            },
+            "terminology": {
+              "enum": [
+                "US",
+                "UK"
+              ]
+            },
+            "set_by": {
+              "type": "string",
+              "minLength": 1
+            },
+            "set_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "guidance": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "maxLength": 1500,
+              "description": "The owner's collection guidance (e.g. flower families), passed to the plan call. Creative guidance only, not a requirement list."
+            }
+          }
+        },
+        "plan": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "file",
+            "sha256"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        },
+        "source": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "file",
+            "sha256",
+            "origin"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "file": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "origin": {
+              "enum": [
+                "owner-authored",
+                "commissioned",
+                "licensed",
+                "ai-assisted-draft"
+              ]
+            }
+          }
+        },
+        "patterns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "pattern_id",
+              "name",
+              "status",
+              "revision",
+              "file",
+              "sha256",
+              "errors",
+              "model",
+              "generated_at"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "pattern_id": {
+                "type": "string",
+                "pattern": "^[a-z0-9][a-z0-9-]{0,59}$"
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "status": {
+                "enum": [
+                  "planned",
+                  "generated",
+                  "invalid",
+                  "valid",
+                  "supplied"
+                ]
+              },
+              "revision": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "file": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sha256": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "errors": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "model": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "generated_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        },
+        "validation": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "ok",
+            "errors",
+            "source_sha256",
+            "at"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "ok": {
+              "type": "boolean"
+            },
+            "errors": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "source_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "unprintable": {
+              "type": "array",
+              "description": "Characters the document fonts cannot print (ADR-052), for the owner's concise review message.",
+              "items": {
+                "type": "object",
+                "required": [
+                  "path",
+                  "location",
+                  "char",
+                  "code"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "path": {
+                    "type": "string"
+                  },
+                  "location": {
+                    "type": "string"
+                  },
+                  "char": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "generation": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "status",
+            "mode",
+            "started_at",
+            "finished_at",
+            "error"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "generating",
+                "complete",
+                "failed",
+                "interrupted"
+              ]
+            },
+            "started_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "finished_at": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "error": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "mode": {
+              "enum": [
+                "generate",
+                "validate"
+              ]
+            }
+          }
+        },
+        "pending": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "op",
+            "pattern_id",
+            "instruction",
+            "at",
+            "by"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "op": {
+              "enum": [
+                "revise",
+                "regenerate-invalid"
+              ]
+            },
+            "pattern_id": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "instruction": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "revision_notes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "pattern_id",
+              "text",
+              "at",
+              "by"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "pattern_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "by": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "approval": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "required": [
+            "approved_at",
+            "by",
+            "source_sha256",
+            "pattern_count",
+            "origin",
+            "verification"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "approved_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "pattern_count": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "origin": {
+              "enum": [
+                "owner-authored",
+                "commissioned",
+                "licensed",
+                "ai-assisted-draft"
+              ]
+            },
+            "verification": {
+              "type": "object",
+              "required": [
+                "unverified",
+                "tested"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "unverified": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "tested": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              }
+            }
+          }
+        },
+        "approval_history": {
+          "type": "array",
+          "description": "Earlier pattern approvals superseded because crochet/patterns.json was edited after approval (ADR-052). Audit only; never used to approve.",
+          "items": {
+            "type": "object",
+            "required": [
+              "approved_at",
+              "by",
+              "source_sha256",
+              "superseded_at",
+              "superseded_by",
+              "reason"
+            ],
+            "properties": {
+              "approved_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "by": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_sha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "superseded_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "superseded_by": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

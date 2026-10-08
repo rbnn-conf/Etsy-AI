@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "listing_id": 4589590540,
+  "properties": [],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-stop-scroll.png",
+      "sha256": "a37f405735847608e18d3e78ad783c7bb31d03a949d6bdc478428af68d80914e",
+      "listing_image_id": 8679565695,
+      "uploaded_at": "2026-10-06T10:15:32.868Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-what-you-get.png",
+      "sha256": "796587c4097388bd7190d8d1e664c818fd7cd4dfdda492bbe54270b3620a4b42",
+      "listing_image_id": 8631742448,
+      "uploaded_at": "2026-10-06T10:15:35.604Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-quality.png",
+      "sha256": "dfe5b07d04a8c009acd919199a4ef9037dc678d7524df4dc0abf4d2247db8af9",
+      "listing_image_id": 8631742648,
+      "uploaded_at": "2026-10-06T10:15:38.666Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-variety.png",
+      "sha256": "b81d66246215745cd1ef9fb30ee4a1568caf88c7fee0ac3f940490c97e669ea5",
+      "listing_image_id": 8679566293,
+      "uploaded_at": "2026-10-06T10:15:41.921Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-useful.png",
+      "sha256": "63b0bc5055e12afa72a26cebb939cc1bda140f05b5c9a27f15b39d4c142e5297",
+      "listing_image_id": 8679566467,
+      "uploaded_at": "2026-10-06T10:15:44.150Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-how-it-works.png",
+      "sha256": "1b030213cf84084f95dcfa660f84c0df859d5ebf2d69af55252e1e6a9c781652",
+      "listing_image_id": 8679566649,
+      "uploaded_at": "2026-10-06T10:15:47.156Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-desire.png",
+      "sha256": "a4d2cf5ef3c7136bcc009452e93053f6132b402b8ef83bcfc111b3a30cbeb050",
+      "listing_image_id": 8679566869,
+      "uploaded_at": "2026-10-06T10:15:50.288Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-doubts.png",
+      "sha256": "e4d56a1abfa9e031f3f1ea29a2ad4922ad51cdce33708f7d739c6a318fd77a12",
+      "listing_image_id": 8631743600,
+      "uploaded_at": "2026-10-06T10:15:53.072Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip",
+      "sha256": "6056913be43f18539d8607f440a1225ec90e7fca3bfc1b57a4e3d806259ca433",
+      "bytes": 10573752,
+      "listing_file_id": 1520684083288,
+      "uploaded_at": "2026-10-06T10:15:57.911Z"
+    },
+    {
+      "rank": 2,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip",
+      "sha256": "f0be8ad32e23889ceeac978a9b8436a9d1eaf18fbecfebc70dae651528eb04e7",
+      "bytes": 4317366,
+      "listing_file_id": 1520684091260,
+      "uploaded_at": "2026-10-06T10:16:00.740Z"
+    },
+    {
+      "rank": 3,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip",
+      "sha256": "973a9d05ffc43dcdbec03ad087607534a8309affc2751d105814e97b405f6f9f",
+      "bytes": 10557575,
+      "listing_file_id": 1521931184505,
+      "uploaded_at": "2026-10-06T10:16:04.959Z"
+    },
+    {
+      "rank": 4,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip",
+      "sha256": "b5d5cdffab8de83156b99dead342333559b464803f4151ea3e46309f5ba119e3",
+      "bytes": 4330987,
+      "listing_file_id": 1521931189417,
+      "uploaded_at": "2026-10-06T10:16:07.229Z"
+    }
+  ],
+  "pending": null
+}

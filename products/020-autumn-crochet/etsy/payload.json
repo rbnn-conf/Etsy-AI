@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "product_id": "020",
+  "product_name": "Falling Leaves Crochet Table Set",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Crochet Pattern Bundle | Autumn Table Decor, 6 Patterns, Instant Digital Download",
+    "description": "Bring a little crisp autumn warmth to your crochet time and make seasonal pieces for the table. 🍂 This Falling Leaves Crochet Table Set brings together six patterns with a romantic, cosy, tactile feel.\n\nFrom a maple leaf placemat in burnt orange to a warm oatmeal or natural falling-leaves table runner, the collection centres on foliage-inspired table décor. The pieces can be worked individually or brought together for an autumnal table arrangement.\n\nPattern highlights\n\nThe Maple Leaf Placemat is a foliage piece measuring about 38 cm wide by 35 cm long. The Falling Leaves Table Runner measures about 100 cm long by 28 cm wide. Add smaller details with the Beech Leaf Coaster, about 12 cm long including its stem, or the Acorn Napkin Ring with its rust-brown body and textured dark-brown cap. The Chestnut Cutlery Pocket offers another seasonal element for the table.\n\nWhat you receive\n\n• 6 crochet patterns\n• 24-page complete collection PDF\n• Each pattern as its own PDF\n• Step-by-step written instructions\n• US crochet terms\n• A4 and US Letter printing formats\n• Pattern index, materials and tools reference, and abbreviations reference\n• Printing and crochet guide\n• 3 Autumn Table Styling Ideas\n\nHow it works\n\nDownload the files instantly, choose the pattern you would like to make, print the relevant pages in A4 or US Letter, gather the materials listed in the reference, and start crocheting. Skill levels across the collection include Beginner, Easy and Intermediate.\n\nMake one seasonal detail or combine pieces for a layered table setting. It is a lovely way to enjoy unhurried hook-and-yarn time as autumn arrives. 🍁\n\nThis is a digital download delivered in 2 ZIP files of PDF files. No physical item is shipped. No yarn, hook or kit is included.",
+    "tags": [
+      "leaf placemat",
+      "table runner pattern",
+      "coaster crochet",
+      "acorn napkin ring",
+      "cutlery pocket",
+      "maple leaf crochet",
+      "oak leaf applique",
+      "beech leaf coaster",
+      "us terms crochet",
+      "a4 crochet pdf",
+      "us letter pattern",
+      "harvest table decor",
+      "intermediate crochet"
+    ],
+    "materials": [
+      "Digital PDF patterns",
+      "A4 PDF",
+      "US Letter PDF",
+      "Pattern index",
+      "Materials tools reference",
+      "Abbreviations reference",
+      "Printing crochet guide",
+      "Autumn styling ideas"
+    ],
+    "price": {
+      "amount": 7.99,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 6343,
+      "path": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints",
+      "source": "owner-approved crochet-pattern-bundle mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints"
+    }
+  },
+  "properties": {
+    "apply": [],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Autumn",
+        "reason": "\"Autumn\" is not one of Etsy's values for Occasion"
+      },
+      {
+        "field": "primary_colour",
+        "value": "Orange",
+        "reason": "no such property for this category"
+      },
+      {
+        "field": "secondary_colour",
+        "value": "Brown",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-stop-scroll.png",
+      "sha256": "044104f4ec4bee9dbe7c15e424afbe5d418f78c43b05fee649569f43f61745f7",
+      "bytes": 3601452,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-what-you-get.png",
+      "sha256": "b18cb5de90fcf95dc77cd741a7298e15aa9bf2cd76d6b0514fb924b1001c6e40",
+      "bytes": 3580681,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-quality.png",
+      "sha256": "6388a216cf81e6f9f836afce43882ecbe3bfe7a0dac1f0ea8bcf05dcb7d7129c",
+      "bytes": 4527074,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-variety.png",
+      "sha256": "59e6326ce4ce8e79dfaa0b86833f17985d87410416e11260dbfe1af60bc3dc10",
+      "bytes": 4581340,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-useful.png",
+      "sha256": "c9dc968c4bb78469d73f7961770fe124a9a82ec50826d1747cbc15d6e87d88e9",
+      "bytes": 3194947,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-how-it-works.png",
+      "sha256": "745d8d56d22c8820d0d429155f873299f0e65416a55331ec5c906d2b07508f27",
+      "bytes": 4151740,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-desire.png",
+      "sha256": "0288d9f4bf1e53c3252ca384dd712aaf8064c6dc63ad46f4dc4f636f507d72e2",
+      "bytes": 3998247,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-doubts.png",
+      "sha256": "1d6244eb04bcc7d16b9814bf349b8da688a31c6a38a031a69749c6f5a94e8287",
+      "bytes": 4096494,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Falling-Leaves-Crochet-Table-Set-A4.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-A4.zip",
+      "sha256": "674eccc7c1bcf9488383fa7c66095bc7f526cb47f4186cb45251054f92139908",
+      "bytes": 9939445
+    },
+    {
+      "rank": 2,
+      "name": "Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip",
+      "sha256": "4bff41a936e9e2db9936f0c229f3dd9de64fbb97ba01ab4746fbfb14550ce265",
+      "bytes": 3335233
+    },
+    {
+      "rank": 3,
+      "name": "Falling-Leaves-Crochet-Table-Set-US-Letter.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-US-Letter.zip",
+      "sha256": "84c116256d88bb69e7c3d77bbe509f6df6baaddf957c8a6fd7a313aa124ca5c4",
+      "bytes": 9912627
+    },
+    {
+      "rank": 4,
+      "name": "Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip",
+      "sha256": "0162413c03a7cef75185f1e90a3a346536cf8c736f00c03ebe3cf668d2a9d148",
+      "bytes": 3337413
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "06e595e932919b774a91979186d3ae723c9b1ef0d3d1dcc711409b195381bb49",
+    "stage3_fingerprint": "d409abe0a85d8919cc2de6448323a2edc6c9c3417f34010fe1857e1c0404c735",
+    "listing_sha256": "785b267c909100413e7da00c71533c8528f1dd4726a89e62e7fa59abe633ca55",
+    "delivery_sha256": "5d5e99a2d4591739a4929ebee64dda0f32a53609e7886e5aefe62dec16c938c2",
+    "marketing_approved_at": "2026-10-06T21:51:23.869Z"
+  },
+  "payload_sha256": "72d570de596ca3044f6a16880b8468e7c8ea12345a96f1072cf203440175de93",
+  "prepared_at": "2026-10-06T21:51:31.617Z"
+}

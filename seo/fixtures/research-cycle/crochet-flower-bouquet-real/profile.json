@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "profile_id": "crochet-flower-bouquet-pattern-bundle",
+  "describes": {
+    "mode": "NEW_PRODUCT",
+    "ref": "Crochet Flower Bouquet Pattern Bundle"
+  },
+  "source": "Derived from the owner-confirmed structured idea: themes → central themes; formats and their format family → formats; audiences; styles and delivery words → attributes. Nothing else inferred.",
+  "seasonality": null,
+  "notes": "Not used (one facet per word): crochet flowers (\"crochet\" is already a formats word); handmade gift makers (\"handmade\" is already a central themes word); premium handmade (\"handmade\" is already a central themes word).",
+  "central_themes": [
+    "flower bouquets",
+    "roses",
+    "sunflowers",
+    "daisies",
+    "lavender",
+    "wildflowers",
+    "floral stems",
+    "leaves",
+    "handmade gifts"
+  ],
+  "formats": [
+    "crochet pattern bundle",
+    "crochet pattern"
+  ],
+  "components": [],
+  "audiences": [
+    "adults",
+    "beginners",
+    "intermediate crocheters"
+  ],
+  "attributes": [
+    "romantic",
+    "botanical",
+    "cottagecore",
+    "soft pastel",
+    "digital",
+    "printable"
+  ],
+  "tangential": []
+}

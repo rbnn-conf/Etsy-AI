@@ -1,0 +1,318 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SEO research round (ADR-034). Round 1 = the research plan; rounds 2+ request discovered terms. DISCOVERY IS NOT EVIDENCE: a related Etsy term has no market value until its own Marketplace Insights data is captured.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "round_id",
+    "research_plan_id",
+    "round_number",
+    "kind",
+    "input_research_version",
+    "created_at",
+    "discovered_terms",
+    "requested_terms",
+    "rejected_terms",
+    "duplicates",
+    "unavailable_terms",
+    "not_requested",
+    "expansion_truncated",
+    "status"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "round_id": {
+      "type": "string"
+    },
+    "research_plan_id": {
+      "type": "string"
+    },
+    "round_number": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 4
+    },
+    "kind": {
+      "enum": [
+        "planned",
+        "expansion"
+      ]
+    },
+    "input_research_version": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "research_id, version, sha256 the round was derived from; null for round 1"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "discovered_terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "normalized_term"
+        ],
+        "properties": {
+          "term": {
+            "type": "string"
+          },
+          "normalized_term": {
+            "type": "string"
+          },
+          "relevance_class": {
+            "enum": [
+              "EXACT",
+              "STRONG",
+              "SUPPORTING",
+              "WEAK",
+              "IRRELEVANT",
+              null
+            ]
+          },
+          "discovered_from": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "discovered_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "metrics_supplied": {
+            "enum": [
+              "none",
+              "partial",
+              "all",
+              null
+            ]
+          },
+          "decision": {
+            "type": "string"
+          },
+          "decision_reason": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "requested_terms": {
+      "type": "array",
+      "maxItems": 40,
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "normalized_term",
+          "reason",
+          "required",
+          "observation_status"
+        ],
+        "properties": {
+          "term": {
+            "type": "string"
+          },
+          "normalized_term": {
+            "type": "string"
+          },
+          "relevance_class": {
+            "enum": [
+              "EXACT",
+              "STRONG",
+              "SUPPORTING",
+              "WEAK",
+              "IRRELEVANT",
+              null
+            ]
+          },
+          "discovered_from": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "discovered_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "metrics_supplied": {
+            "enum": [
+              "none",
+              "partial",
+              "all",
+              null
+            ]
+          },
+          "decision": {
+            "type": "string"
+          },
+          "decision_reason": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "required": {
+            "type": "boolean"
+          },
+          "priority": {
+            "enum": [
+              "P1",
+              "P2",
+              "P3"
+            ]
+          },
+          "observation_status": {
+            "enum": [
+              "not_researched",
+              "unavailable",
+              "owner_stopped"
+            ]
+          }
+        }
+      }
+    },
+    "rejected_terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "normalized_term",
+          "reason"
+        ],
+        "properties": {
+          "term": {
+            "type": "string"
+          },
+          "normalized_term": {
+            "type": "string"
+          },
+          "relevance_class": {
+            "enum": [
+              "EXACT",
+              "STRONG",
+              "SUPPORTING",
+              "WEAK",
+              "IRRELEVANT",
+              null
+            ]
+          },
+          "discovered_from": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "discovered_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "metrics_supplied": {
+            "enum": [
+              "none",
+              "partial",
+              "all",
+              null
+            ]
+          },
+          "decision": {
+            "type": "string"
+          },
+          "decision_reason": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "duplicates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "normalized_term",
+          "duplicate_of",
+          "reason"
+        ]
+      }
+    },
+    "unavailable_terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "term"
+        ]
+      }
+    },
+    "not_requested": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "reason"
+        ]
+      }
+    },
+    "expansion_truncated": {
+      "type": "boolean"
+    },
+    "status": {
+      "enum": [
+        "pending_capture",
+        "complete",
+        "truncated",
+        "owner_stopped"
+      ],
+      "description": "recorded at creation (pending_capture); researchState reports the live status"
+    },
+    "owner_finished": {
+      "type": "object",
+      "required": [
+        "action",
+        "decided_by",
+        "at",
+        "terms_not_researched"
+      ],
+      "properties": {
+        "action": {
+          "const": "FINISH_WITH_CURRENT_EVIDENCE"
+        },
+        "decided_by": {
+          "type": "string"
+        },
+        "at": {
+          "type": "string"
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "terms_not_researched": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "description": "Present only when the owner finished research with current evidence on this round"
+    }
+  }
+}

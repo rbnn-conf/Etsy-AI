@@ -1,0 +1,350 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages",
+  "source_fingerprint": "78e3c77150f935f193dc73a61d0117b7d288da84887165065bd7ec1b63479e87",
+  "build_record_sha256": "35dd820e26d791937955636dbb69643a7dbc54cca38aa20e913b5217ceb76546",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "8953eface110b6098e888ec0ee40c346f94f7f78afd1fb3248a0a6f245df2b67",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip",
+      "sha256": "9f3e544f66c50ebbe8e54b158657b93c668ab42f8afc357218041dd28fdbe1ef",
+      "bytes": 16846597,
+      "size": "16.85 MB",
+      "purpose": "2 files (guide, pdf), pages 1-10",
+      "label": "A4-Pages-01-10",
+      "contents": [
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/START-HERE-Printing-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/START-HERE-Printing-Guide.pdf",
+          "sha256": "84aeedb02725fcb6216eb550203f0e5f1192d54a70584ddeb799fd2f4120617c",
+          "bytes": 2345
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+          "sha256": "6c539ce0824270e027d002acca284e0f086722f9ecb9b0e3a69104678fcaf2b5",
+          "bytes": 16870844
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip",
+      "sha256": "05dd0a43553238c5926dcb295cb6d7fd2bc488370894802aa5d3f1c35b0e7a08",
+      "bytes": 16844164,
+      "size": "16.84 MB",
+      "purpose": "1 file (pdf), pages 1-10",
+      "label": "US-Letter-Pages-01-10",
+      "contents": [
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-1-Pages-01-10.pdf",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-1-Pages-01-10.pdf",
+          "sha256": "bf87a4ee4039a33354c5f81dd3e004b115e1ea018603d6f8d99f3f354e75b725",
+          "bytes": 16870875
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip",
+      "sha256": "ec68f0fcec04ceadb748aec500f108818c7c1cd905f50156c045e60fc0585f6a",
+      "bytes": 6412919,
+      "size": "6.41 MB",
+      "purpose": "2 files (pdf), pages 11-12",
+      "label": "A4-and-US-Letter-Pages-11-12",
+      "contents": [
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf",
+          "sha256": "699bda7ca084c7458060ba8ccc4c8a9deee878f5495acfd8cd2f083952e74791",
+          "bytes": 3209763
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-2-Pages-11-12.pdf",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-2-Pages-11-12.pdf",
+          "sha256": "d35867fb8d23b1a7a5b7ee591c77ec0ed9b274feacab338169fd0035875ab2bc",
+          "bytes": 3209763
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip",
+      "sha256": "8a8bebdf63c854bb698512a8a77b0d69973735a301cd254313c5384951808853",
+      "bytes": 10340238,
+      "size": "10.34 MB",
+      "purpose": "6 files (page-png), pages 1-6",
+      "label": "PNG-Pages-01-06",
+      "contents": [
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png",
+          "sha256": "35bb97468f10008a509ae2309611bdbd722549031cfb8ccfc08baedf969694d8",
+          "bytes": 1797302
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png",
+          "sha256": "f68e78028424ba671cf8af671109ba4fad5896753b58818e5a72690c45b68ca5",
+          "bytes": 1684759
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png",
+          "sha256": "cef56ebe32590deb17d1c66c5be43d7c389e462dfc2637ffb903606d4479d7a3",
+          "bytes": 1500914
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png",
+          "sha256": "b335734edd7740928a841038bcea331e015888808fe6b5ab4c9eb495821c000d",
+          "bytes": 1753033
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png",
+          "sha256": "52a9136d7da43b5aa05f37ffd1a59cc746aa597ab225871a661489ffaa283db5",
+          "bytes": 1904850
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png",
+          "sha256": "7a49ee9fb4d7fa36df9592c6b18181a9533116611bffbada459693b37f1828d6",
+          "bytes": 1749404
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip",
+      "sha256": "673e6b1bed8895ff5d67e4b3e670f9a358f2ea817a9b8855b3ed2d8cf9d1b92b",
+      "bytes": 9905094,
+      "size": "9.91 MB",
+      "purpose": "6 files (page-png), pages 7-12",
+      "label": "PNG-Pages-07-12",
+      "contents": [
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png",
+          "sha256": "ed7055bd7c9ec86a83ca45a266f0016af26b745d5bae4f1471b6fffe8fd01e7e",
+          "bytes": 1425032
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png",
+          "sha256": "b9e59bd90c30913f9f79db73523fde0bffdb2512163bb476d8ca8650d0147eae",
+          "bytes": 1820870
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png",
+          "sha256": "42c836bc013e146b4d1b33d1fa7448bbcb288f1d36781708532b7db0cf4cbae7",
+          "bytes": 1531671
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png",
+          "sha256": "947e52988ec1d6c482517ee812fd863aa517f4ea64230888a1a46153187e8444",
+          "bytes": 1952909
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png",
+          "sha256": "8c464aba632e723bb4be6feac4ec89f2008410a72148db3a6ce631c1765ba038",
+          "bytes": 1734741
+        },
+        {
+          "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png",
+          "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png",
+          "sha256": "aa2765c8180d0c4a6a817b174056862f828fbce6f61aa2ee61a9c40e8edba9e5",
+          "bytes": 1486875
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/START-HERE-Printing-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/START-HERE-Printing-Guide.pdf",
+      "sha256": "84aeedb02725fcb6216eb550203f0e5f1192d54a70584ddeb799fd2f4120617c",
+      "bytes": 2345
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+      "sha256": "6c539ce0824270e027d002acca284e0f086722f9ecb9b0e3a69104678fcaf2b5",
+      "bytes": 16870844
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf",
+      "sha256": "699bda7ca084c7458060ba8ccc4c8a9deee878f5495acfd8cd2f083952e74791",
+      "bytes": 3209763
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-1-Pages-01-10.pdf",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-1-Pages-01-10.pdf",
+      "sha256": "bf87a4ee4039a33354c5f81dd3e004b115e1ea018603d6f8d99f3f354e75b725",
+      "bytes": 16870875
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-2-Pages-11-12.pdf",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-2-Pages-11-12.pdf",
+      "sha256": "d35867fb8d23b1a7a5b7ee591c77ec0ed9b274feacab338169fd0035875ab2bc",
+      "bytes": 3209763
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png",
+      "sha256": "35bb97468f10008a509ae2309611bdbd722549031cfb8ccfc08baedf969694d8",
+      "bytes": 1797302
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png",
+      "sha256": "f68e78028424ba671cf8af671109ba4fad5896753b58818e5a72690c45b68ca5",
+      "bytes": 1684759
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png",
+      "sha256": "cef56ebe32590deb17d1c66c5be43d7c389e462dfc2637ffb903606d4479d7a3",
+      "bytes": 1500914
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png",
+      "sha256": "b335734edd7740928a841038bcea331e015888808fe6b5ab4c9eb495821c000d",
+      "bytes": 1753033
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png",
+      "sha256": "52a9136d7da43b5aa05f37ffd1a59cc746aa597ab225871a661489ffaa283db5",
+      "bytes": 1904850
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png",
+      "sha256": "7a49ee9fb4d7fa36df9592c6b18181a9533116611bffbada459693b37f1828d6",
+      "bytes": 1749404
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png",
+      "sha256": "ed7055bd7c9ec86a83ca45a266f0016af26b745d5bae4f1471b6fffe8fd01e7e",
+      "bytes": 1425032
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png",
+      "sha256": "b9e59bd90c30913f9f79db73523fde0bffdb2512163bb476d8ca8650d0147eae",
+      "bytes": 1820870
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png",
+      "sha256": "42c836bc013e146b4d1b33d1fa7448bbcb288f1d36781708532b7db0cf4cbae7",
+      "bytes": 1531671
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png",
+      "sha256": "947e52988ec1d6c482517ee812fd863aa517f4ea64230888a1a46153187e8444",
+      "bytes": 1952909
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png",
+      "sha256": "8c464aba632e723bb4be6feac4ec89f2008410a72148db3a6ce631c1765ba038",
+      "bytes": 1734741
+    },
+    {
+      "entry": "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png",
+      "source": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png",
+      "sha256": "aa2765c8180d0c4a6a817b174056862f828fbce6f61aa2ee61a9c40e8edba9e5",
+      "bytes": 1486875
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip 16846597 bytes, Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip 16844164 bytes, Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip 6412919 bytes, Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip 10340238 bytes, Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip 9905094 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip 16.85 MB, Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip 16.84 MB, Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip 6.41 MB, Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip 10.34 MB, Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip 9.91 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "5 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip, Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip, Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip, Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip, Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip"
+      }
+    ]
+  },
+  "built_at": "2026-09-29T15:03:05.012Z"
+}

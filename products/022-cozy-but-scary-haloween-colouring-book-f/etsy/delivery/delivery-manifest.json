@@ -1,0 +1,482 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade",
+  "source_fingerprint": "8c8185e5c6f9d742b61fb653ad780cc001e767748a47ee7df65bdb3ab8a91a8c",
+  "build_record_sha256": "148d830e17333afa8ea2017fcb3f4812c2d89aa7081b32c9947b022dfae5d5fa",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "production-parts",
+  "plan_sha256": "53e8a30942e417b5265c58081d4db92810ae2ebefc15015e98d9593dd4be2aa9",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Hollowbone-Manor-Masquerade-A4.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-A4.zip",
+      "sha256": "168744358f0cfaca6df967ab7b8efb79cee47a0b0549917f6018309d12749021",
+      "bytes": 13900347,
+      "size": "13.90 MB",
+      "purpose": "2 files (guide, pdf), pages 1-25",
+      "label": "A4",
+      "contents": [
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/START-HERE-Printing-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/START-HERE-Printing-Guide.pdf",
+          "sha256": "fe6389eb5ab104edb91f77e4b2273c6a0a7357254636935f8d3d4a953e3dacda",
+          "bytes": 2262
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+          "sha256": "e6abe82f570764dff1bb15bfa169b95b5906a810fb0ae0f3b11186430b2b8c97",
+          "bytes": 13950901
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip",
+      "sha256": "6706e051d5ec132a8baf5ca67271b233958e1a6d18cdec50ade23837a6632f5c",
+      "bytes": 18820448,
+      "size": "18.82 MB",
+      "purpose": "3 files (pdf, page-png), pages 1-25",
+      "label": "US-Letter-and-Colouring-Pages-PNG-01-02",
+      "contents": [
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/US-Letter/LumiumX-Hollowbone-Manor-Masquerade-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/US-Letter/LumiumX-Hollowbone-Manor-Masquerade-US-Letter.pdf",
+          "sha256": "3d5e152594fa1a3d98a1adbd29f2e82f40823d5c4ed0195092335f4c7e54653f",
+          "bytes": 13950994
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png",
+          "sha256": "bb4e9bc1231fff86675f9dee76e3be1c4de2ff04d30d5963e836c54cf42f51f4",
+          "bytes": 2616164
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png",
+          "sha256": "342df7332a14e1f5bc505f2558c4dd8b22bbd67ac435ba35ba5b0d765d23eee9",
+          "bytes": 2331411
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip",
+      "sha256": "f1ea7421fc16098474d19ed3f801ee6493ef987a1544e33938e2a68ab426e7cb",
+      "bytes": 18416857,
+      "size": "18.42 MB",
+      "purpose": "8 files (page-png), pages 3-10",
+      "label": "Colouring-Pages-PNG-03-10",
+      "contents": [
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png",
+          "sha256": "26f1680bc0c73af51254cbeea8980bba275510bf367745f312e65dc3b2a2f88f",
+          "bytes": 2664471
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png",
+          "sha256": "2710e336b23a56cf6fccd2435316352b4a7fd8ed887892849ee2a1a053f8eaaf",
+          "bytes": 2067156
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png",
+          "sha256": "a8f7208c85e35a06734ff385a149cb173dd4ebed83a4775ff297cf69605ced22",
+          "bytes": 2445495
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png",
+          "sha256": "1caddabb2a20786ca790d23d82f86670f80f68e8a045f18b7d488523ce998e58",
+          "bytes": 2220465
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png",
+          "sha256": "5818c4c5df24333e9955b6ffcc37ca0cde70982118612ad4d6118ed39cedaf55",
+          "bytes": 2371486
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png",
+          "sha256": "bb6b28cfb4a13da96bde9c1118316f56be575c6bff77d38c86aebae51c0e5fff",
+          "bytes": 2351862
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png",
+          "sha256": "eccdf02d5b867023985f58ac2c0143ccad40fbb1b9f91f7ec14fbeacc75e3b63",
+          "bytes": 2430573
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png",
+          "sha256": "ef7b0f293827a6e63a4d8eb6afb8f71eaa34a508da53904292f23d07c05ddb75",
+          "bytes": 1960892
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip",
+      "sha256": "c5d2b81ba9e830cb0a2ee676873b4e17332973b9de49172328322c2300777e0d",
+      "bytes": 18841736,
+      "size": "18.84 MB",
+      "purpose": "8 files (page-png), pages 11-18",
+      "label": "Colouring-Pages-PNG-11-18",
+      "contents": [
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png",
+          "sha256": "ea39a3bd0d9e8f05e2bda71856ede8f53b25d659c010be5994dcb2681df98fec",
+          "bytes": 2496541
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png",
+          "sha256": "87e770c21f0c94d97c27bd8bce11961d141ed7106709274fc1e4e1d8a2251211",
+          "bytes": 2365530
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png",
+          "sha256": "7b072aba690bd4e4c5fd5ccc0b5a9b992ddf0a794339d02a2f78c0e8f66347d0",
+          "bytes": 1870447
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png",
+          "sha256": "c6396d8e879724527f929e814e1196f399850c499fb54258e05072dc77f011ba",
+          "bytes": 2564660
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png",
+          "sha256": "5f0d350b50e170513f7a6b13644355346d4279230dd8f067f242c925dbb20f93",
+          "bytes": 2591558
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png",
+          "sha256": "425376620639fae98aed0851a21ffa9647b0389df044597b107ff5e17ba33265",
+          "bytes": 2215518
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png",
+          "sha256": "3d69d56219b554e3703921fefbb40395d90747c7341e9edfa717bea3dd6db326",
+          "bytes": 2581008
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png",
+          "sha256": "dddd054f7df317c98ced5dfd52cf8c3e53208c7c4cf095cc8f05ad1e643d9ae4",
+          "bytes": 2253553
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip",
+      "sha256": "9fa53507e3d69e5c4053f95f78b543cf39bdd547a2bba6cf2981a2a3e3bca20e",
+      "bytes": 15293480,
+      "size": "15.29 MB",
+      "purpose": "7 files (page-png), pages 19-25",
+      "label": "Colouring-Pages-PNG-19-25",
+      "contents": [
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png",
+          "sha256": "0d8c653249ccbbf908b6286e79388ed3893cb2392515a364098c7dfebd96158e",
+          "bytes": 2146101
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png",
+          "sha256": "2717a09f9a7c32077641dd8d5d8846f79ae2d830b32d1bdd144f7c1954e7af3c",
+          "bytes": 1878734
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png",
+          "sha256": "56f1f51b66ad92f6a25998ebe8947dd7305c4511670f2ef15a8a684afdd88147",
+          "bytes": 2235035
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png",
+          "sha256": "d98c515229897253ba29ad4a1af8c304386762b403fd59a46f0b5680d844ba96",
+          "bytes": 2002074
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png",
+          "sha256": "e29f765cb3e6209390500197fdd383ba3e0395f486d3f24d5009ac44e6db7441",
+          "bytes": 2265872
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png",
+          "sha256": "f25b3ab9b95df308cf0dc2f1d7dc4b66442b8f06476dbdd827722f24155ae366",
+          "bytes": 2419547
+        },
+        {
+          "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png",
+          "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png",
+          "sha256": "408c9d63cefc6f8baea7a1c1fa61df1bc787b1b547a4f49d11f86daa74107bfa",
+          "bytes": 2418135
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/START-HERE-Printing-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/START-HERE-Printing-Guide.pdf",
+      "sha256": "fe6389eb5ab104edb91f77e4b2273c6a0a7357254636935f8d3d4a953e3dacda",
+      "bytes": 2262
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "sha256": "e6abe82f570764dff1bb15bfa169b95b5906a810fb0ae0f3b11186430b2b8c97",
+      "bytes": 13950901
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/US-Letter/LumiumX-Hollowbone-Manor-Masquerade-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/US-Letter/LumiumX-Hollowbone-Manor-Masquerade-US-Letter.pdf",
+      "sha256": "3d5e152594fa1a3d98a1adbd29f2e82f40823d5c4ed0195092335f4c7e54653f",
+      "bytes": 13950994
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png",
+      "sha256": "bb4e9bc1231fff86675f9dee76e3be1c4de2ff04d30d5963e836c54cf42f51f4",
+      "bytes": 2616164
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png",
+      "sha256": "342df7332a14e1f5bc505f2558c4dd8b22bbd67ac435ba35ba5b0d765d23eee9",
+      "bytes": 2331411
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png",
+      "sha256": "26f1680bc0c73af51254cbeea8980bba275510bf367745f312e65dc3b2a2f88f",
+      "bytes": 2664471
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png",
+      "sha256": "2710e336b23a56cf6fccd2435316352b4a7fd8ed887892849ee2a1a053f8eaaf",
+      "bytes": 2067156
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png",
+      "sha256": "a8f7208c85e35a06734ff385a149cb173dd4ebed83a4775ff297cf69605ced22",
+      "bytes": 2445495
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png",
+      "sha256": "1caddabb2a20786ca790d23d82f86670f80f68e8a045f18b7d488523ce998e58",
+      "bytes": 2220465
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png",
+      "sha256": "5818c4c5df24333e9955b6ffcc37ca0cde70982118612ad4d6118ed39cedaf55",
+      "bytes": 2371486
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png",
+      "sha256": "bb6b28cfb4a13da96bde9c1118316f56be575c6bff77d38c86aebae51c0e5fff",
+      "bytes": 2351862
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png",
+      "sha256": "eccdf02d5b867023985f58ac2c0143ccad40fbb1b9f91f7ec14fbeacc75e3b63",
+      "bytes": 2430573
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png",
+      "sha256": "ef7b0f293827a6e63a4d8eb6afb8f71eaa34a508da53904292f23d07c05ddb75",
+      "bytes": 1960892
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png",
+      "sha256": "ea39a3bd0d9e8f05e2bda71856ede8f53b25d659c010be5994dcb2681df98fec",
+      "bytes": 2496541
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png",
+      "sha256": "87e770c21f0c94d97c27bd8bce11961d141ed7106709274fc1e4e1d8a2251211",
+      "bytes": 2365530
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png",
+      "sha256": "7b072aba690bd4e4c5fd5ccc0b5a9b992ddf0a794339d02a2f78c0e8f66347d0",
+      "bytes": 1870447
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png",
+      "sha256": "c6396d8e879724527f929e814e1196f399850c499fb54258e05072dc77f011ba",
+      "bytes": 2564660
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png",
+      "sha256": "5f0d350b50e170513f7a6b13644355346d4279230dd8f067f242c925dbb20f93",
+      "bytes": 2591558
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png",
+      "sha256": "425376620639fae98aed0851a21ffa9647b0389df044597b107ff5e17ba33265",
+      "bytes": 2215518
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png",
+      "sha256": "3d69d56219b554e3703921fefbb40395d90747c7341e9edfa717bea3dd6db326",
+      "bytes": 2581008
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png",
+      "sha256": "dddd054f7df317c98ced5dfd52cf8c3e53208c7c4cf095cc8f05ad1e643d9ae4",
+      "bytes": 2253553
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png",
+      "sha256": "0d8c653249ccbbf908b6286e79388ed3893cb2392515a364098c7dfebd96158e",
+      "bytes": 2146101
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png",
+      "sha256": "2717a09f9a7c32077641dd8d5d8846f79ae2d830b32d1bdd144f7c1954e7af3c",
+      "bytes": 1878734
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png",
+      "sha256": "56f1f51b66ad92f6a25998ebe8947dd7305c4511670f2ef15a8a684afdd88147",
+      "bytes": 2235035
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png",
+      "sha256": "d98c515229897253ba29ad4a1af8c304386762b403fd59a46f0b5680d844ba96",
+      "bytes": 2002074
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png",
+      "sha256": "e29f765cb3e6209390500197fdd383ba3e0395f486d3f24d5009ac44e6db7441",
+      "bytes": 2265872
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png",
+      "sha256": "f25b3ab9b95df308cf0dc2f1d7dc4b66442b8f06476dbdd827722f24155ae366",
+      "bytes": 2419547
+    },
+    {
+      "entry": "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png",
+      "source": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png",
+      "sha256": "408c9d63cefc6f8baea7a1c1fa61df1bc787b1b547a4f49d11f86daa74107bfa",
+      "bytes": 2418135
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Hollowbone-Manor-Masquerade-A4.zip 13900347 bytes, Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip 18820448 bytes, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip 18416857 bytes, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip 18841736 bytes, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip 15293480 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Hollowbone-Manor-Masquerade-A4.zip 13.90 MB, Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip 18.82 MB, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip 18.42 MB, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip 18.84 MB, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip 15.29 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "5 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Hollowbone-Manor-Masquerade-A4.zip, Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip, Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-07T21:40:53.235Z"
+}

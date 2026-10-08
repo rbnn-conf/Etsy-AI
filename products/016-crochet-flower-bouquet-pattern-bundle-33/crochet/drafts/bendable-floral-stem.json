@@ -1,0 +1,95 @@
+{
+  "pattern_id": "bendable-floral-stem",
+  "name": "Bendable Floral Stem",
+  "category": "Bendable floral stem",
+  "difficulty": "beginner",
+  "finished_size": "About 25 cm long",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn for the stem cover",
+      "colour": "Leaf green",
+      "amount": "About 10 m"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "24-gauge paper-covered floral wire, 24 cm long",
+    "Tapestry needle",
+    "Stitch marker",
+    "Needle-nose pliers",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "rnds": "rounds",
+    "MR": "magic ring",
+    "FO": "fasten off"
+  },
+  "gauge": "4 sc around and 5 rnds measure about 1 centimetre in the joined tube. Work firmly so the wire does not show through.",
+  "instructions": [
+    {
+      "heading": "Stem Tube",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 4 sc in MR; sl st in first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 4
+        },
+        {
+          "label": "Rnds 2-125",
+          "text": "Ch 1, sc in each st around; sl st in first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 4
+        },
+        {
+          "label": "After Rnd 125",
+          "text": "FO, leaving a 10-centimetre tail for weaving in.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Top End Cap",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 4 sc in MR; sl st in first sc to join. The ch 1 does not count as a st. FO, leaving a 15-centimetre sewing tail.",
+          "stitch_count": 4
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Use wire cutters to cut the floral wire to 24 cm. With needle-nose pliers, turn each cut end back into a small, tight loop.",
+    "Insert the wire through the open end of the stem tube until the lower loop rests inside the closed base. Keep the upper loop below the open rim.",
+    "Place the top end cap over the open rim. Align each of its 4 sts with one rim st of the tube, then whipstitch through the outer loops of each matched pair using the cap tail.",
+    "To support a bloom, bud, or foliage piece, sew its base securely to the capped end with matching yarn. Take stitches through the crochet cover only and do not pierce the wire."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the stem tube after its final rnd and weave its tail into the inside of the tube before inserting the wire.",
+    "After attaching the cap, weave its sewing tail through the cap and upper tube, then trim it close to the crochet.",
+    "Gently bend the covered wire to create a natural stem curve or a pose for the attached floral piece.",
+    "Check that both wire loops remain fully enclosed and cannot press through the crochet cover."
+  ],
+  "notes": [
+    "The stem is worked in joined rnds; use a stitch marker if needed to identify the first sc of each rnd.",
+    "For a shorter stem, omit whole rnds from the Stem Tube before fastening off. For a longer stem, add whole rnds and use a wire that is slightly shorter than the completed tube."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

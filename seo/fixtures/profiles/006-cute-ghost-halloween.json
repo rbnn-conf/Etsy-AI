@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "profile_id": "006-cute-ghost-halloween",
+  "describes": { "mode": "EXISTING_LISTING", "ref": "fixtures/listings/006-cute-ghost-halloween.json" },
+  "source": "Words from the Cute Ghost Halloween listing title, tags and description (owner #006; products/007-cute-ghost-halloween-activity-book/listing/listing.json). The product is an activity book of printable pages; colouring, mazes, puzzles and games are parts of it (components).",
+  "seasonality": null,
+  "notes": "Seasonality was not supplied.",
+  "central_themes": ["halloween", "ghost"],
+  "formats": ["activity book", "printable pages"],
+  "components": ["colouring", "mazes", "i spy", "puzzles", "games", "spot the differences", "matching", "counting", "tracing", "word search", "word scramble", "patterns", "worksheet"],
+  "audiences": ["kids", "family"],
+  "attributes": ["cute", "cozy", "not-scary", "friendly", "digital", "pdf", "png", "a4", "us letter", "classroom", "quiet time", "screen-free", "fun", "parties"],
+  "tangential": ["pumpkins", "black cats", "bats", "candy", "autumn leaves", "haunted house", "costume", "jack-o-lantern", "certificate"]
+}

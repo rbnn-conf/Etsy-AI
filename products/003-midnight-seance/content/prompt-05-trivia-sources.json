@@ -1,0 +1,10 @@
+{
+  "checked":"2026-09-19",
+  "policy":"Questions are original paraphrases. Answers and notes were checked against the linked institutional primary sources.",
+  "sources":[
+    {"publisher":"Library of Congress","url":"https://guides.loc.gov/halloween","usedFor":[1,3]},
+    {"publisher":"Library of Congress","url":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/","usedFor":[2,4,5,6,7,8]},
+    {"publisher":"NASA Science","url":"https://science.nasa.gov/moon/moon-phases/","usedFor":[9,10,11,12]},
+    {"publisher":"NASA Science","url":"https://science.nasa.gov/moon/facts/","usedFor":[13,14,15]}
+  ]
+}

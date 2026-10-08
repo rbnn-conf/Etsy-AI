@@ -1,0 +1,33 @@
+{
+  "illustration_style": "Premium editorial product-photography system paired with restrained Moonlit Meadow branding: delicate watercolour botanical ornaments and crescent details appear only as secondary graphic accents, never within the crocheted product imagery.",
+  "line_weight": "Fine hairline rules and delicate ornamental strokes in the branding layer; no drawn outlines on product photography.",
+  "line_quality": "Precise, graceful and lightly organic in branding ornaments; not applicable to photographic product elements.",
+  "detail_level": "Crisp macro-level material detail for crochet visualisations, balanced with sparse, finely finished branding accents and generous calm space.",
+  "character_language": "not applicable",
+  "background_density": "Minimal and airy, using softly styled neutral interior or linen surfaces; branding ornaments remain sparse and peripheral.",
+  "composition": "Clear editorial hierarchy with a single product focal point, generous breathing room for refined typography, and discreet ornamental framing that never competes with the crochet detail.",
+  "palette": "Moonlit Meadow neutrals of cream, warm ivory and oat, with soft blush, dusty lavender and muted sage accents; charcoal-grey type used sparingly for elegant contrast.",
+  "colour_mode": "full colour",
+  "shading": "Soft natural side lighting, realistic dimensional shadows and gentle tonal fall-off on yarn; subtle watercolour wash only in branding ornaments.",
+  "texture": "Clearly visible yarn fibres, stitch loops, handmade irregularity and tactile linen or plaster texture; lightly textured watercolour paper feel confined to branding details.",
+  "mood": "Romantic, restful and premium, with a quiet handmade botanical sensibility.",
+  "age_suitability": "adults",
+  "print_considerations": "Use pale, low-coverage backgrounds and preserve strong tonal separation for home printing. Keep fine ornaments and typography clear at A4 and US Letter scale; avoid edge-dependent details and overly faint pastel text.",
+  "shared_prompt": "Premium Moonlit Meadow crochet-pattern branding with elegant serif typography, cream and warm-ivory neutrals, soft blush, dusty lavender and sage accents, and sparse crescent-moon and fine botanical watercolour ornaments used only in the branding layer. Every crochet visualisation is high-end photorealistic editorial product photography: genuine yarn fibres, distinct crochet stitches and loops, believable handmade depth and tiny irregularities, soft natural light, dimensional shadows and tactile neutral linen or interior styling. Calm romantic mood, crisp material detail, generous negative space, polished printable PDF design.",
+  "avoid": [
+    "Watercolour, illustration, vector rendering or painted effects on any crocheted piece",
+    "Plastic, porcelain, flat, CGI-smooth or biologically realistic floral forms",
+    "Generic floral clipart and dense decorative borders",
+    "Overcrowded layouts or excessive props",
+    "Harsh flash, deep black shadows or artificial-looking yarn texture",
+    "Misspelled text, illegible fine type or low-contrast lettering",
+    "Named flower species, fixed petal counts or specific pattern claims before patterns are approved",
+    "Logos, trademarks, copied brand styling or distinctive existing compositions"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-10-06T21:57:35.777Z"
+}

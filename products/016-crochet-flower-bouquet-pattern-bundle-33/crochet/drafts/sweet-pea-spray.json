@@ -1,0 +1,139 @@
+{
+  "pattern_id": "sweet-pea-spray",
+  "name": "Sweet Pea Spray",
+  "category": "flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 14 cm long.",
+  "yarn": [
+    {
+      "description": "Cotton yarn for flowers and buds",
+      "colour": "dusty lilac",
+      "amount": "About 8 g"
+    },
+    {
+      "description": "Cotton yarn for stem, leaves, and tendril",
+      "colour": "sage green",
+      "amount": "About 6 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "14 cm length of 0.8 mm floral wire",
+    "Tapestry needle",
+    "Scissors",
+    "Wire cutters or pliers"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "MR": "magic ring",
+    "BLO": "back loop only"
+  },
+  "gauge": "Gauge is not critical; use a firm tension so the small petals hold their fluttering shape.",
+  "instructions": [
+    {
+      "heading": "Flower (make 2)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With dusty lilac yarn, make an MR, work 5 sc in the ring, then join with a sl st to the first sc.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "In first sc, work (ch 3, dc, tr, dc, ch 3, sl st). In each of next 2 sc, work (ch 2, dc, hdc, dc, ch 2, sl st). In each of last 2 sc, work (ch 2, 2 dc, ch 2, sl st). Cut yarn and leave a 15 cm sewing tail.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Bud (make 2)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage green yarn, make an MR and work 5 sc in the ring.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Change to dusty lilac yarn. Work BLO sc in each st.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Work sc in each st. Cut dusty lilac yarn and leave a 12 cm sewing tail.",
+          "stitch_count": 5
+        }
+      ]
+    },
+    {
+      "heading": "Leaf (make 2)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage green yarn, ch 10. Work sc in second ch from hook, hdc in next ch, dc in next 4 ch, hdc in next ch, then (sc, ch 2, sc) in last ch. Work along the opposite side of the foundation ch: hdc in next ch, dc in next 4 ch, hdc in next ch, sc in final ch. Cut yarn and leave a 12 cm sewing tail.",
+          "stitch_count": 16
+        }
+      ]
+    },
+    {
+      "heading": "Curled Tendril (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage green yarn, ch 28. Work 2 sc in second ch from hook and 2 sc in each remaining ch. The increases will coil the tendril. Cut yarn and leave a 12 cm sewing tail.",
+          "stitch_count": 54
+        }
+      ]
+    },
+    {
+      "heading": "Stem (make 1)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With sage green yarn, leaving a 20 cm starting tail, ch 33. Work sc in second ch from hook and in each remaining ch. Leave the working loop on the hook for finishing.",
+          "stitch_count": 32
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Lay the 14 cm wire along the wrong side of the stem strip. Fold the strip lengthwise around the wire and use the 20 cm starting tail to whipstitch the long edges together from the lower end to the upper end.",
+    "Sew one flower 2 cm below the upper end of the stem and the second flower 4.5 cm below the upper end. Place them on opposite sides, with the larger ch-3 petal facing outward.",
+    "Sew one bud 0.8 cm below the upper end and the second bud 3.2 cm below the upper end, placing each on the side opposite its nearest flower.",
+    "Sew the tendril 6 cm below the upper end of the stem, allowing its coiled length to hang freely to one side.",
+    "Sew one leaf 7.5 cm below the upper end and the second leaf 10 cm below the upper end, positioning them on opposite sides of the stem."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the working loop remaining at the lower end of the stem after the wire cover is sewn closed.",
+    "Weave in the remaining yarn tails on the reverse side of the flowers, buds, leaves, and stem.",
+    "Gently curve the wire-backed stem into a soft climbing line without sharply bending the wire.",
+    "Shape the flower petals with your fingers, spreading the two larger wing petals slightly wider than the smaller petals."
+  ],
+  "notes": [
+    "For a fuller spray, make additional flowers and buds using the same instructions, then distribute them along a longer wire-covered stem.",
+    "Keep the tendril's increased edge facing outward when attaching it so the coil remains visible."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

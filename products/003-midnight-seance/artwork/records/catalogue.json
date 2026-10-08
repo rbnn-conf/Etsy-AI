@@ -1,0 +1,317 @@
+[
+  {
+    "id": "A01",
+    "name": "rose-thorn-top-left",
+    "subject": "Large top-left L-shaped corner: three oxblood roses with thorned stems, black foliage, tiny plum berries and discreet engraved gold tendrils; open interior toward lower-right.",
+    "maxWidthMm": 35,
+    "maxHeightMm": 50,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A02",
+    "name": "rose-thorn-top-right",
+    "subject": "Large top-right L-shaped corner: three oxblood roses and thorned black foliage, plum berries and engraved gold tendrils; open interior toward lower-left. Independently composed, not identical petals.",
+    "maxWidthMm": 35,
+    "maxHeightMm": 50,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A03",
+    "name": "rose-foliage-bottom-left",
+    "subject": "Bottom-left floral corner: two open oxblood roses, one closed bud, delicate upward black thorned foliage and horizontal trailing engraved leaves along bottom; open center toward upper-right.",
+    "maxWidthMm": 35,
+    "maxHeightMm": 50,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A04",
+    "name": "rose-foliage-bottom-right",
+    "subject": "Bottom-right floral corner: two oxblood roses, one bud, thorned foliage rising on right edge, bottom foliage trailing left; open center toward upper-left.",
+    "maxWidthMm": 35,
+    "maxHeightMm": 50,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A05",
+    "name": "botanical-divider",
+    "subject": "Horizontal shallow symmetric floral divider: compact central oxblood rose, black thorned stems and finely engraved leaves extending left and right. Wide 4:1 silhouette, entire illustration fits canvas with margin.",
+    "maxWidthMm": 70,
+    "maxHeightMm": 18,
+    "minWidthMm": 20,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A06",
+    "name": "compact-floral-cluster",
+    "subject": "Compact diagonally composed cluster of two oxblood roses, a tiny plum berry branch and black engraved leaves, botanical stationery ornament.",
+    "maxWidthMm": 24,
+    "maxHeightMm": 25,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A07",
+    "name": "individual-oxblood-rose",
+    "subject": "One richly detailed open oxblood rose viewed three-quarter front, short connected stem and two engraved dark leaves. Clean identifiable rose silhouette.",
+    "maxWidthMm": 22,
+    "maxHeightMm": 28,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A08",
+    "name": "individual-thorn-sprig",
+    "subject": "One slender curved thorned rose stem with sparse near-black engraved leaves and a small oxblood rosebud; vertically flowing sprig.",
+    "maxWidthMm": 15,
+    "maxHeightMm": 45,
+    "minWidthMm": 8,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "A09",
+    "name": "small-leaf-flourishes",
+    "subject": "One balanced horizontal flourish of two connected mirrored black leafy branches, tiny gold vein accents, no flower; delicate shallow composition.",
+    "maxWidthMm": 35,
+    "maxHeightMm": 10,
+    "minWidthMm": 20,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "B01",
+    "name": "deaths-head-moth",
+    "subject": "Detailed anatomically plausible death's-head hawkmoth, symmetrical spread patterned wings, subtle natural skull-shaped thorax markings, six fine legs and two antennae, near-black engraved linework with oxblood/plum/gold touches. Romantic occult natural-history plate, not gore.",
+    "maxWidthMm": 38,
+    "maxHeightMm": 22,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "B02",
+    "name": "inward-facing-ravens",
+    "subject": "Two anatomically coherent antique engraved ravens perched on a single fine curved branch, facing inward with a generous open central gap. Complete feet/tails/beaks. Near-black feathers with muted gold contour accents.",
+    "maxWidthMm": 55,
+    "maxHeightMm": 30,
+    "minWidthMm": 24,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "B03",
+    "name": "crescent-crystal-ball",
+    "subject": "Original antique crystal ball on a small carved black-and-muted-gold pedestal, crescent reflection and tiny reflected stars inside transparent-looking sphere; hand engraved, no photographic glass or ground shadow.",
+    "maxWidthMm": 30,
+    "maxHeightMm": 38,
+    "minWidthMm": 18,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "B04",
+    "name": "paired-black-candles",
+    "subject": "Two antique black wax taper candles, one taller, in engraved antique-gold holders, restrained ivory/gold flames, elegant small wax drips, complete bases. No photographic glow background.",
+    "maxWidthMm": 25,
+    "maxHeightMm": 35,
+    "minWidthMm": 15,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "B05",
+    "name": "antique-key",
+    "subject": "Single ornate antique skeleton key, elegant pierced bow with botanical detail, muted antique-gold engraving and near-black hatch shadows; upright slightly diagonal, correct joined shaft and teeth.",
+    "maxWidthMm": 15,
+    "maxHeightMm": 35,
+    "minWidthMm": 8,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "B06",
+    "name": "wax-seal-emblem",
+    "subject": "Round oxblood ornamental wax-seal emblem with embossed crescent, tiny star and refined botanical rim; engraving interpretation, no letters/monogram, subtle tonal relief without photographic shadow.",
+    "maxWidthMm": 20,
+    "maxHeightMm": 20,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "C01",
+    "name": "crescent-moon",
+    "subject": "One large antique engraved waxing crescent moon with fine crater detail, muted antique-gold surface and near-black hatch contours; no face. Complete crescent silhouette.",
+    "maxWidthMm": 32,
+    "maxHeightMm": 35,
+    "minWidthMm": 18,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "C02",
+    "name": "moon-phase-divider",
+    "subject": "Complete horizontal moon-phase divider, seven distinct accurately progressing phases from thin crescent through quarters/gibbous to full disc and mirrored waning phases; near-black and muted antique-gold engraving, crisp separated circles, no stars or text.",
+    "maxWidthMm": 55,
+    "maxHeightMm": 10,
+    "minWidthMm": 30,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "C03",
+    "name": "starburst",
+    "subject": "One refined eight-ray celestial compass-like starburst, antique-gold rays with near-black engraved contours, balanced long cardinal and short diagonal points, no letters.",
+    "maxWidthMm": 15,
+    "maxHeightMm": 15,
+    "minWidthMm": 3,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "C04",
+    "name": "small-star-cluster",
+    "subject": "Small asymmetrical cluster of five separated antique engraved stars with mixed tiny dots and delicate eight-point starbursts, near-black and antique-gold, airy but crisp.",
+    "maxWidthMm": 20,
+    "maxHeightMm": 20,
+    "minWidthMm": 8,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "C05",
+    "name": "celestial-corner",
+    "subject": "Celestial top-right corner accent: curved antique-gold crescent, three tiny near-black starbursts and delicate arcing engraved constellation line; open interior lower-left.",
+    "maxWidthMm": 22,
+    "maxHeightMm": 25,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "C06",
+    "name": "constellation-filler",
+    "subject": "Airy horizontal original constellation-like filler: seven tiny points linked by delicate muted-gold engraved lines, two tiny near-black starbursts, no recognizable copyrighted emblem, no labels.",
+    "maxWidthMm": 30,
+    "maxHeightMm": 12,
+    "minWidthMm": 20,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D01",
+    "name": "potion-bottle-round",
+    "subject": "One antique round-bellied apothecary bottle, short neck, cork stopper, near-black engraved glass, oxblood liquid suggested only by sparse hatching, blank oval decorative label with transparent center, no writing.",
+    "maxWidthMm": 22,
+    "maxHeightMm": 32,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D02",
+    "name": "potion-bottle-square",
+    "subject": "One distinct tall square-shouldered antique apothecary bottle with black ribbed stopper, plum shaded glass engraving, empty gold-framed rectangle label, no writing.",
+    "maxWidthMm": 22,
+    "maxHeightMm": 35,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D03",
+    "name": "potion-bottle-teardrop",
+    "subject": "One distinct teardrop-shaped antique elixir flask, long thin neck and cork, near-black engraving with muted antique-gold stopper details, empty crescent-shaped ornamental label, no writing.",
+    "maxWidthMm": 20,
+    "maxHeightMm": 35,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D04",
+    "name": "potion-bottle-hexagonal",
+    "subject": "One distinct faceted hexagonal antique medicine bottle, short black stopper, restrained oxblood linework, empty ornate shield-shaped label, no writing.",
+    "maxWidthMm": 23,
+    "maxHeightMm": 32,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D05",
+    "name": "potion-bottle-urn",
+    "subject": "One distinct small urn-shaped antique apothecary bottle with scalloped shoulders and round finial stopper, plum and near-black engraving, empty round gold-bordered label, no writing.",
+    "maxWidthMm": 22,
+    "maxHeightMm": 30,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D06",
+    "name": "potion-bottle-slim",
+    "subject": "One distinct slim cylindrical antique tincture bottle with elongated neck and cork, black glass fine engraving, tiny botanical gold neck ornament, empty narrow label, no writing.",
+    "maxWidthMm": 17,
+    "maxHeightMm": 35,
+    "minWidthMm": 10,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D07",
+    "name": "empty-bottle-label-frame",
+    "subject": "One empty ornate antique bottle-label frame, oval central transparent opening, oxblood tiny rose at top, fine black engraved scrolls and thorn border, gold hairline accents; no bottle, no text.",
+    "maxWidthMm": 28,
+    "maxHeightMm": 35,
+    "minWidthMm": 18,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D08",
+    "name": "snake-ornament",
+    "subject": "One elegant anatomically coherent slender snake curled in an S-shaped botanical ornament, detailed connected scales, near-black engraving with sparse gold accents, small closed mouth, no aggressive pose or gore.",
+    "maxWidthMm": 20,
+    "maxHeightMm": 38,
+    "minWidthMm": 14,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "D09",
+    "name": "apothecary-sprig",
+    "subject": "One original fine botanical apothecary herb sprig, connected branching black stems, small ovate engraved leaves, sparse plum berries and tiny oxblood buds; upright airy silhouette.",
+    "maxWidthMm": 18,
+    "maxHeightMm": 38,
+    "minWidthMm": 10,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "E01",
+    "name": "black-lace-divider",
+    "subject": "One horizontal narrow black floral lace divider, intricate but printable connected openwork with scalloped edges, botanical gothic pattern, flat engraved ornament, transparent holes, no fabric photograph. Wide 5:1 silhouette.",
+    "maxWidthMm": 65,
+    "maxHeightMm": 12,
+    "minWidthMm": 30,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "E02",
+    "name": "lace-corner",
+    "subject": "One compact L-shaped black lace corner with intricate floral openwork and tiny scalloped edging; coherent connected pattern, open interior lower-right, no paper.",
+    "maxWidthMm": 22,
+    "maxHeightMm": 22,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "E03",
+    "name": "engraved-flourish",
+    "subject": "One ornate horizontal engraved flourish, near-black acanthus scrolls with tiny oxblood rosebud center and muted antique-gold accents, balanced curves with clean open spaces.",
+    "maxWidthMm": 40,
+    "maxHeightMm": 14,
+    "minWidthMm": 20,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "E04",
+    "name": "thin-separator",
+    "subject": "One very thin horizontal antique-gold engraved ornamental separator with small central black diamond and delicate curled endpoints, elegant crisp linework, complete endpoints.",
+    "maxWidthMm": 55,
+    "maxHeightMm": 6,
+    "minWidthMm": 25,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  },
+  {
+    "id": "E05",
+    "name": "footer-emblem",
+    "subject": "One small original footer emblem combining engraved antique-gold crescent with two black thorned leaves and tiny oxblood rosebud, compact clear silhouette, no seal disk or writing.",
+    "maxWidthMm": 18,
+    "maxHeightMm": 15,
+    "minWidthMm": 12,
+    "status": "PAIR_QC_ACCEPTED_OWNER_APPROVAL_PENDING"
+  }
+]

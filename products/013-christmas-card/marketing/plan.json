@@ -1,0 +1,216 @@
+{
+  "format": "greeting-card",
+  "campaign": "cozy-premium-christmas",
+  "strategy": {
+    "family": "greeting_card",
+    "theme": "christmas",
+    "visual_marketing_mood": "premium cosy traditional Christmas"
+  },
+  "slides": [
+    {
+      "template": "hero",
+      "scene": "tabletop",
+      "density": "rich lifestyle",
+      "purpose": "Stop the scroll: both real card fronts on a festive tabletop.",
+      "min_product_share": 0.4,
+      "id": "01-hero",
+      "copy": {
+        "headline": {
+          "text": "Printable Christmas \nCards"
+        },
+        "subline": {
+          "text": "A beautiful design to print at home",
+          "claim": [
+            "digital",
+            "Print at home"
+          ]
+        }
+      }
+    },
+    {
+      "template": "inside",
+      "inside": 0,
+      "scene": "inside",
+      "density": "lifestyle / detail",
+      "purpose": "The real inside, shown as an open card.",
+      "min_product_share": 0.18,
+      "id": "02-inside",
+      "copy": {
+        "headline": {
+          "text": "A beautiful\ninside message",
+          "claim": [
+            "inside",
+            "Inside message"
+          ]
+        },
+        "subline": {
+          "text": "An illustrated inside message.",
+          "claim": [
+            "inside",
+            "Illustrated inside message"
+          ]
+        }
+      }
+    },
+    {
+      "template": "included",
+      "density": "structured information",
+      "purpose": "Everything in the download, as real miniatures.",
+      "min_product_share": 0.12,
+      "id": "03-included",
+      "copy": {
+        "headline": {
+          "text": "What’s included?"
+        }
+      }
+    },
+    {
+      "template": "design",
+      "design": "A",
+      "side": "left",
+      "env": "forest",
+      "density": "artwork hero",
+      "purpose": "Design A (Father Christmas on the Night Shift) at near full size.",
+      "min_product_share": 0.45,
+      "id": "04-design-a",
+      "copy": {
+        "headline": {
+          "text": "Father\nChristmas\non\nthe\nNight\nShift",
+          "claim": [
+            "design-name",
+            "Father Christmas on the Night Shift"
+          ]
+        },
+        "kicker": {
+          "text": "Design A",
+          "claim": [
+            "design-name",
+            "Design A"
+          ]
+        }
+      }
+    },
+    {
+      "template": "print",
+      "scene": "print",
+      "density": "lifestyle / process",
+      "purpose": "Print at home: the real sheet and the four steps.",
+      "min_product_share": 0.18,
+      "id": "05-print",
+      "copy": {
+        "headline": {
+          "text": "Print at home",
+          "claim": [
+            "digital",
+            "Print at home"
+          ]
+        },
+        "subline": {
+          "text": "Create beautiful cards\nin a few simple steps."
+        }
+      }
+    },
+    {
+      "template": "sizes",
+      "density": "stationery / information",
+      "purpose": "Paper sizes produced, shown as real renders.",
+      "min_product_share": 0.28,
+      "id": "06-sizes",
+      "copy": {
+        "headline": {
+          "text": "Multiple sizes\nfor easy printing"
+        }
+      }
+    },
+    {
+      "template": "gift",
+      "scene": "gift",
+      "tone": true,
+      "density": "emotional lifestyle",
+      "purpose": "A finished card in a warm gifting moment.",
+      "min_product_share": 0.2,
+      "id": "07-gift",
+      "copy": {
+        "headline": {
+          "text": "A thoughtful card\nfor loved ones"
+        },
+        "subline": {
+          "text": "A cheerful festive wish for family, friends and neighbours alike.",
+          "by": "model"
+        }
+      }
+    },
+    {
+      "template": "digital",
+      "density": "clean information",
+      "purpose": "Digital download: what you get, nothing shipped.",
+      "min_product_share": 0.12,
+      "id": "08-digital",
+      "copy": {
+        "headline": {
+          "text": "Digital download",
+          "claim": [
+            "digital",
+            "Digital download"
+          ]
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "tabletop",
+      "purpose": "Hero and two-design tabletop.",
+      "used_by": [
+        "01-hero"
+      ],
+      "brief": "Deep spruce-painted wood with a soft cream linen runner, scattered pine sprigs and a few matte cranberry baubles. Golden fairy-light bokeh and gentle side light create a rich, nostalgic evening glow.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nPremium cosy Christmas product-photography environment: warm walnut tabletop seen from slightly above, evergreen branches, red holly berries and subtle pinecones along the top and side edges, a lit candle, soft golden Christmas-light bokeh in the background, shallow depth of field, elegant traditional British Christmas mood. Keep a large clear tabletop area in the centre and lower middle, reserved for products added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: Deep spruce-painted wood with a soft cream linen runner, scattered pine sprigs and a few matte cranberry baubles. Golden fairy-light bokeh and gentle side light create a rich, nostalgic evening glow.\nMood: Joyful, brisk, cosy and warmly nostalgic.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, Father Christmas, any other animal, people, hands.",
+      "file": "marketing/scenes/tabletop.png",
+      "sha256": "41f1730eaf9caa158c10af76242db72026ac2721bc6c43f2c9bf557b3ee4cf63",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "gift",
+      "purpose": "A warm Christmas gifting moment.",
+      "used_by": [
+        "07-gift"
+      ],
+      "brief": "A cosy oak surface with loosely curled cranberry velvet ribbon, a spruce clipping and a small gold bauble nearby. Warm amber lamplight, soft shadows and a palette of cream, cranberry and deep green.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nChristmas gifting still life: a wrapped present with kraft paper and red velvet ribbon and one blank, unmarked kraft envelope placed at the left edge, evergreen and berries, a candle, warm golden bokeh from a blurred Christmas tree behind, rich and cosy. Keep the centre and right of the tabletop clear for a product added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: A cosy oak surface with loosely curled cranberry velvet ribbon, a spruce clipping and a small gold bauble nearby. Warm amber lamplight, soft shadows and a palette of cream, cranberry and deep green.\nMood: Joyful, brisk, cosy and warmly nostalgic.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, Father Christmas, any other animal, people, hands.\nThe only paper item allowed is the one blank, unmarked kraft envelope described above, with nothing written or printed on it.",
+      "file": "marketing/scenes/gift.png",
+      "sha256": "64fb6786101556ce782b5bb2adb6746d8540ed0e4d60a4dd89e43dfbd82d78c2",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "print",
+      "purpose": "A home printing corner.",
+      "used_by": [
+        "05-print"
+      ],
+      "brief": "A tidy painted-wood desk in warm cream, with a brass desk lamp casting a gentle pool of light. Add a restrained spruce sprig, a ceramic mug and one cranberry ribbon off to the side; calm, practical and festive.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nWarm, tidy home desk at Christmas: a modern white home printer on the far left of the desk with an empty paper tray, a small potted fir sprig, a mug, warm window light and golden fairy-light bokeh behind. Keep the right half and the whole foreground of the desk clear and empty for products added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: A tidy painted-wood desk in warm cream, with a brass desk lamp casting a gentle pool of light. Add a restrained spruce sprig, a ceramic mug and one cranberry ribbon off to the side; calm, practical and festive.\nMood: Joyful, brisk, cosy and warmly nostalgic.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, Father Christmas, any other animal, people, hands.\nThe printer must be empty: no paper in it or near it.",
+      "file": "marketing/scenes/print.png",
+      "sha256": "1ae0f47134e0724f3a7e9a1cddc6f3ca5b6a2bc158bef83d90ca0e8d638e3d0b",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "inside",
+      "purpose": "An open card on a calm festive surface.",
+      "used_by": [
+        "02-inside"
+      ],
+      "brief": "A quiet cream linen surface with a narrow spruce clipping, a tiny gold bell and a few scattered pine needles. Diffused window light with a subtle blue-grey shadow, balanced by warm candlelike highlights.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nClose, calm Christmas tabletop in warm candlelight: cream linen runner over dark wood, a few sprigs of fir and holly with berries at the right and top edges, soft warm bokeh behind, gentle shadows, quiet and intimate. Keep the centre and left two-thirds clear and even for a product added later.\nCampaign mood: premium cosy traditional Christmas.\nAdditional art direction: A quiet cream linen surface with a narrow spruce clipping, a tiny gold bell and a few scattered pine needles. Diffused window light with a subtle blue-grey shadow, balanced by warm candlelike highlights.\nMood: Joyful, brisk, cosy and warmly nostalgic.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: cards, greeting cards, postcards, paper artwork, printed artwork, sheets of paper, books, posters, frames, screens, text, letters, numbers, words, logos, watermarks, birds, robins, Father Christmas, any other animal, people, hands.",
+      "file": "marketing/scenes/inside.png",
+      "sha256": "514f46225aa74e8c8d12ed9dd14eab6c082adaa1eb51756d301cf2c681c015da",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-09-28T19:56:25.643Z"
+}

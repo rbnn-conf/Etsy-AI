@@ -1,0 +1,125 @@
+{
+  "specVersion": "1.0.0",
+  "productId": "006",
+  "title": "Minimalist Budget & Goals Planner — Workbook",
+  "primaryExport": { "type": "xlsx" },
+  "exports": ["xlsx"],
+  "sourceOfTruth": "products/006-minimalist-budget-and-goals-planner/product-spec.json",
+  "note": "v5 (owner request 2026-09-15): reskinned to the LumiumX house register (warm ivory / terracotta / sage — the same brand palette and layout language as Product #001), replacing v4's third-party rose/sage recreation. Structure/formulas/categories/data model are UNCHANGED from v4 — this is a visual pass only. See ADR-022. The reference workbook is still never modified or redistributed; its category lists and mechanisms remain the functional basis. Not carried over (unchanged from v4): shop branding/hyperlinks/decorative photos, the live '$'-symbol-fanout mechanism (this shop is GBP-hard), and the reference's full ~500-row/30-row-per-table blank-row padding.",
+  "theme": {
+    "currency": "GBP",
+    "font": { "family": "Calibri", "display": "Georgia", "fallback": "Arial" },
+    "color": {
+      "ink": "1F1F1F",
+      "subtleInk": "3A3A3A",
+      "accent": "C4644A",
+      "sage": "7E8A7B",
+      "accentSoft": "F2E6E1",
+      "sageSoft": "E8ECE7",
+      "band": "F6F3EC",
+      "canvas": "FAF7F2",
+      "rule": "E6E1D9",
+      "ruleStrong": "D8D2C6",
+      "inputFill": "FFFDF4",
+      "inputRule": "E7DCC2",
+      "altRow": "FFFCF9",
+      "positive": "3B7A4B",
+      "negative": "B4402F",
+      "warning": "B5852F"
+    },
+    "note": "LumiumX house register (same hexes as Product #001, ADR-022): warm ivory canvas FAF7F2, ink 1F1F1F, terracotta accent C4644A (Expected/primary), sage 7E8A7B (Actual/secondary), pale terracotta wash F2E6E1 and pale sage wash E8ECE7 for KPI-card tints. Georgia (display) + Calibri (body) — the same Excel-safe stand-in for Spectral/Inter that Product #001 uses; Cambria/Quattrocento Sans (v4, matched the third-party reference file's own fonts) are dropped now that the design target is this LumiumX mockup, not that file's own typography."
+  },
+  "phaseTabColor": { "instructions": "7E8A7B", "budget": "C4644A", "goals": "7E8A7B" },
+  "goalStatusPalette": {
+    "Achieved": { "fill": "E8ECE7", "font": "1F1F1F" },
+    "In Progress": { "fill": "F2E6E1", "font": "3A3A3A" },
+    "Not Started": { "fill": "FFFFFF", "font": "3A3A3A" }
+  },
+  "print": { "orientation": "portrait", "paperSize": 9, "fitToWidth": 1, "fitToHeight": 0 },
+  "preview": { "dpi": 150, "sheets": "all", "variant": "xlsx", "fullSheetPaperSize": 8 },
+  "categories": {
+    "income": ["Paycheck", "Business", "Side Hustle", "Dividends", "Interest Income", "Commission"],
+    "incomeCapacity": 12,
+    "expense": ["Food", "Social Life", "Transportation", "Household", "Apparel", "Beauty", "Health", "Education", "Gift", "Pet", "Self-development"],
+    "expenseCapacity": 20,
+    "bill": ["Internet", "Electricity", "Water", "Mobile", "Life Insurance", "Health Insurance", "City Garbage", "Gas"],
+    "billCapacity": 15,
+    "savings": ["Travel Fund", "Wedding Fund", "Car Fund", "Stocks", "Mutual Funds", "Cryptocurrency"],
+    "savingsCapacity": 12,
+    "debt": ["Student Loans", "Mortgage", "Car Payments"],
+    "debtCapacity": 8,
+    "whereMoneyWentTopN": 20,
+    "transactionsCapacity": 100,
+    "lifeAreas": ["Finances", "Career", "Personal Growth", "Health & Wellness", "Relationships"]
+  },
+  "charts": {
+    "cashFlowSummary": { "title": "Cash Flow", "type": "bar", "expectedColor": "C4644A", "actualColor": "7E8A7B" },
+    "whereMoneyWent": { "title": "Where My Money Went" },
+    "sliceColors": ["C4644A", "7E8A7B", "E0B9AA", "B7C2B4", "8C6B5C", "D8D2C6"],
+    "goalProgressRing": { "achievedColor": "C4644A", "remainingColor": "EFEAE4" }
+  },
+  "sheets": [
+    {
+      "name": "Instructions",
+      "slug": "instructions",
+      "title": "Instructions",
+      "order": 1,
+      "kind": "instructions",
+      "sections": {
+        "howItWorks": [
+          "1. On the Budget tab, pick the month, enter your budget period (reference only) and set your rollover from last month.",
+          "2. Fill in Expected amounts across Income, Expense Summary, Bill Tracker, Savings Tracker and Debt Payments Tracker.",
+          "3. Log every transaction once in the Transactions List — pick a Type, then a Category (the list depends on the Type), then an Amount. Every 'Actual' column above adds itself up from this one list — you never type an Actual by hand.",
+          "4. Tick off Bills and Debt payments as you pay them. Watch the Dashboard band and Cash Flow Summary update automatically.",
+          "5. On the Goal Tracker tab, log a handful of life goals and update Steps Done as you make progress."
+        ],
+        "key": [
+          "Cream-filled cell = you type here.",
+          "Plain cell with no fill = calculated for you; leave it alone (the sheet is protected).",
+          "TOTAL / TOTAL LEFTOVER rows add themselves up.",
+          "The Transactions List is the only place you type an amount more than once — every table's Actual column is a live total pulled from it.",
+          "Green text on a Difference/Leftover = under budget or on track; terracotta = over budget.",
+          "A progress bar or ring fills in as Actuals, Paid ticks or Steps Done come in."
+        ],
+        "transactionTypes": [
+          "Income (+) — money coming in: paycheck, business, side hustle, dividends, interest, commission.",
+          "Expenses (-) — everyday spending that isn't a recurring bill: food, transport, household, apparel and the like.",
+          "Bills (-) — recurring, fixed-due-date payments: internet, electricity, water, mobile, insurance. A credit-card statement itself is not a Bill — the purchases on it are already logged as Expenses, so logging the statement too would double-count them.",
+          "Debt (-) — loan and finance payments: student loans, mortgage, car payments.",
+          "Savings (-) — money set aside or invested: a travel fund, stocks, mutual funds, crypto."
+        ],
+        "workedExample": "Example — Transactions List: Date today, Type 'Expense', Category 'Food', Amount £42.50, Description 'Weekly shop'. Food's Actual on Expense Summary updates to £42.50 automatically — nothing else to fill in. Example — Goal Tracker: Life Area 'Finances', Goal 'Emergency fund', Steps Done 3, Steps Total 6 → Progress shows 50%.",
+        "printing": "File > Print. Each sheet has a print area and is scaled to fit one page wide. Choose Actual size / 100% scaling; A4 or US Letter both work."
+      }
+    },
+    {
+      "name": "Budget",
+      "slug": "budget",
+      "title": "Budget",
+      "order": 2,
+      "kind": "workspace"
+    },
+    {
+      "name": "BONUS - Goal Tracker",
+      "slug": "goal-tracker",
+      "title": "Goal Tracker",
+      "order": 3,
+      "kind": "goals",
+      "sections": {
+        "lifeAreasFrom": "lifeAreas",
+        "goalCapacity": 8,
+        "columns": [
+          { "header": "Life Area", "key": "lifeArea", "kind": "text", "width": 16 },
+          { "header": "Goal", "key": "goal", "kind": "text", "width": 26 },
+          { "header": "Reward", "key": "reward", "kind": "text", "width": 24 },
+          { "header": "Deadline", "key": "deadline", "kind": "date", "width": 12 },
+          { "header": "Status", "key": "status", "kind": "text", "width": 13 },
+          { "header": "Steps Done", "key": "stepsDone", "kind": "int", "width": 10 },
+          { "header": "Steps Total", "key": "stepsTotal", "kind": "int", "width": 10 },
+          { "header": "Progress", "key": "progress", "kind": "progress", "fractionFormula": "IFERROR({stepsDone}/{stepsTotal},0)", "width": 20 }
+        ],
+        "statusOptions": ["Not Started", "In Progress", "Achieved"]
+      }
+    }
+  ]
+}

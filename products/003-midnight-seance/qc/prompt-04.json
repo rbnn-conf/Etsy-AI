@@ -1,0 +1,17 @@
+{
+  "milestone": 4,
+  "expectedStationeryMasters": 18,
+  "expectedDefaultPdfCount": 106,
+  "expectedDefaultPdfPages": 140,
+  "expectedMaximumPdfCount": 18,
+  "expectedMaximumPdfPages": 45,
+  "expectedEditorBrowserChecks": 36,
+  "previewDpi": 300,
+  "minimumPlacedArtworkPpi": 300,
+  "minimumTextPt": 8.5,
+  "carrierMarginMm": 10,
+  "minimumMultiUpGapMm": 4,
+  "dimensionToleranceMm": 0.25,
+  "maximumEconomyAverageInkFraction": 0.15,
+  "finalVisualApproval": "owner"
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "listing_id": 4590778612,
+  "properties": [
+    {
+      "property_id": 200,
+      "values": [
+        "Black"
+      ],
+      "at": "2026-10-07T22:19:29.060Z"
+    },
+    {
+      "property_id": 52047899002,
+      "values": [
+        "White"
+      ],
+      "at": "2026-10-07T22:19:29.442Z"
+    }
+  ],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "d05f6a201fe3117d104ed6e2b047151f3d5f59253bad15fee88e5aa4f5cfbca3",
+      "listing_image_id": 8688635557,
+      "uploaded_at": "2026-10-07T22:19:34.290Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "290c6b38be8b49ce7da8493d821ce3da71012b15d00261526eb4ddcf66f19faf",
+      "listing_image_id": 8688635757,
+      "uploaded_at": "2026-10-07T22:19:36.314Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "a5fbab26bfbf151a60ab99462d08b7e988279327203ab0df53596fc61942f742",
+      "listing_image_id": 8688635863,
+      "uploaded_at": "2026-10-07T22:19:38.911Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "f2609e8c5f10319c4a03a8f3d21a059dd7d408828e921c6ad3c61f73987bf09d",
+      "listing_image_id": 8640818984,
+      "uploaded_at": "2026-10-07T22:19:41.418Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "0bcf29a2531ce6a32108623015815ca6bced0083fc06433157684ab6ebe16a7c",
+      "listing_image_id": 8688636147,
+      "uploaded_at": "2026-10-07T22:19:43.863Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-included.png",
+      "sha256": "37bd9024e64b931bef47ffe027ba6cd0684d2793ce9105caca9d34018d14cb16",
+      "listing_image_id": 8688636265,
+      "uploaded_at": "2026-10-07T22:19:45.678Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-printable.png",
+      "sha256": "a4c4361f88f30cfc6ea9ef1ea3d97502fcf87c8ff619443374fd30b7cfc1e31c",
+      "listing_image_id": 8640819296,
+      "uploaded_at": "2026-10-07T22:19:47.179Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-features.png",
+      "sha256": "5ddda72e5be9f8aa3d79477b5711f981564c9c0a7f57fe7e6af47e5c52d84140",
+      "listing_image_id": 8688636457,
+      "uploaded_at": "2026-10-07T22:19:49.109Z"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-lifestyle.png",
+      "sha256": "fd79f41595609e0fbd0a36454a507128a14e660e8b5f6650048ad22b0f003bcb",
+      "listing_image_id": 8688636589,
+      "uploaded_at": "2026-10-07T22:19:51.692Z"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "6255ce1c9d58d8503c7f98324e2ecb6277a40b6177f9c737b893851c3f45144d",
+      "listing_image_id": 8688636727,
+      "uploaded_at": "2026-10-07T22:19:54.382Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Midnight-Monster-Diner-Colouring-Book-A4.zip",
+      "sha256": "c83569b903fa025d2b5277f0f28a4205b8a7ae684fa9edf48d1cf4a7e79a3ce4",
+      "bytes": 7650657,
+      "listing_file_id": 1521143757186,
+      "uploaded_at": "2026-10-07T22:19:57.886Z"
+    },
+    {
+      "rank": 2,
+      "name": "Midnight-Monster-Diner-Colouring-Book-US-Letter.zip",
+      "sha256": "9f42657bb7fbf3c695dda2ce8be24c21ec3a95ccbf9968a74bb7ba26d67830aa",
+      "bytes": 7648334,
+      "listing_file_id": 1521143772018,
+      "uploaded_at": "2026-10-07T22:20:01.514Z"
+    },
+    {
+      "rank": 3,
+      "name": "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip",
+      "sha256": "b9a4653f9903f49fc7d976448cee94b8ad1c1f3a79ad80d7bdc2e49008f9f9bc",
+      "bytes": 14258185,
+      "listing_file_id": 1521143792590,
+      "uploaded_at": "2026-10-07T22:20:07.435Z"
+    },
+    {
+      "rank": 4,
+      "name": "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip",
+      "sha256": "e9c4673632206cdb25c1dceeef643a09f4bb8ba05639e6c49becd69533e4b2ce",
+      "bytes": 12968965,
+      "listing_file_id": 1522390514621,
+      "uploaded_at": "2026-10-07T22:20:13.181Z"
+    }
+  ],
+  "pending": null
+}

@@ -1,0 +1,43 @@
+{
+  "themeSlug": "warm-peach",
+  "themeName": "Warm Peach",
+  "mood": "Default theme. Warm cream ground with peach-tinted card surfaces and a rich terracotta-coral primary - friendly, appetising, still premium. Successor to the old 'Warm Editorial' theme, rebuilt for the v3.0 digital-stationery system (ADR-018) rather than an editorial-document one.",
+  "rationale": "Peach/cream reads warm and approachable without tipping into pastel-childish; the coral primary carries enough saturation to anchor KPI cards and progress bars as real colour, not a hairline accent.",
+  "colour": {
+    "background": "#FDF6ED",
+    "surface": "#FFFFFF",
+    "surfaceAlt": "#FBEDDD",
+    "cardSurface": "#FFFFFF",
+    "cardSurfaceAlt": "#FFF1E3",
+    "inputFill": "#FFF8EE",
+    "text": "#2B211B",
+    "textMuted": "#6B5C4E",
+    "border": "#EDE0D0",
+    "primary": "#E2653D",
+    "secondary": "#F0A05A",
+    "accent": "#E2653D",
+    "highlight": "#FFD9A8",
+    "progress": "#E2653D",
+    "navActive": "#E2653D",
+    "badgeBg": "#FCE6D2",
+    "badgeText": "#8A4A24",
+    "success": "#3E8E58",
+    "warning": "#D1483A",
+    "shadowColour": "rgba(120,72,40,0.16)"
+  },
+  "categoryPalette": {
+    "groceries": "#4F9D69",
+    "dining": "#D8577E",
+    "transport": "#4B84C4",
+    "entertainment": "#9B6BC7",
+    "personal": "#E2A33E",
+    "household": "#8A6A4E"
+  },
+  "accentPlacements": [
+    "hero header band + KPI icon badges",
+    "Leftover metric card (emphasis card, filled not just bordered)",
+    "progress-bar fill on Savings/Debt cards",
+    "Dashboard nav pill-tabs + active section indicator",
+    "numbered step badges (Quick Start)"
+  ]
+}

@@ -1,0 +1,2542 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "022",
+  "workspace": "022-cozy-but-scary-haloween-colouring-book-f",
+  "name": "Hollowbone Manor Masquerade",
+  "slug": "hollowbone-manor-masquerade",
+  "season": "Halloween",
+  "product_type": "Adult Halloween colouring book",
+  "target_customer": "Adults who enjoy elegant spooky Halloween colouring",
+  "page_count": 25,
+  "status": "AWAITING_ETSY_PUBLISH_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-10-07T18:14:40.885Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-10-07T18:15:51.169Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-10-07T18:16:28.219Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-10-07T18:17:47.031Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-10-07T18:19:01.720Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-10-07T18:20:44.969Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-07T18:20:46.127Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-07T18:21:35.264Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-07T18:34:42.475Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T18:34:53.949Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T18:46:07.912Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T18:51:15.664Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T18:51:44.787Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T18:55:10.887Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T18:55:30.615Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "book_approved",
+      "at": "2026-10-07T18:55:42.001Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-10-07T18:55:57.936Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-07T18:55:57.957Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-07T18:57:23.411Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-10-07T18:57:46.810Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-10-07T18:58:03.142Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-07T19:03:59.188Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-07T19:04:26.095Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-10-07T21:17:26.867Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-07T21:17:27.161Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-07T21:18:21.248Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-07T21:19:19.546Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-07T21:19:21.515Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_APPROVED",
+      "event": "marketing_approved",
+      "at": "2026-10-07T21:19:45.794Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_APPROVED",
+      "to": "ETSY_PREPARING",
+      "event": "etsy_started",
+      "at": "2026-10-07T21:19:50.843Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-07T21:19:51.406Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "ETSY_PREPARING",
+      "event": "retry",
+      "at": "2026-10-07T21:40:52.336Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "ETSY_DRAFT_CREATED",
+      "event": "etsy_draft_created",
+      "at": "2026-10-07T21:41:04.130Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_CREATED",
+      "to": "ETSY_ASSETS_UPLOADING",
+      "event": "etsy_uploading",
+      "at": "2026-10-07T21:41:04.327Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_ASSETS_UPLOADING",
+      "to": "ETSY_DRAFT_VERIFYING",
+      "event": "etsy_verifying",
+      "at": "2026-10-07T21:42:14.036Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_VERIFYING",
+      "to": "AWAITING_ETSY_PUBLISH_APPROVAL",
+      "event": "etsy_draft_ready",
+      "at": "2026-10-07T21:42:15.158Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Cozy but scary haloween colouring book for adults",
+    "requested_at": "2026-10-07T18:14:40.885Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "concept",
+    "summary": {
+      "style": "Sophisticated monochrome pen-and-ink colouring-book illustration with a gothic storybook sensibility, designed for leisurely adult colouring.",
+      "linework": "Crisp confident outer contours with medium interior outlines and selectively fine ornamental linework.; Clean, controlled hand-inked linework; elegant curves, precise hatching and clearly separated enclosed shapes.",
+      "detail": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "palette": "Monochrome black ink on a pure white ground, with all tonal richness created through line density and optional colourer-led choices. (black-and-white line art)",
+      "mood": "Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-10-07T18:15:51.168Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "The Lanternkeeper’s Haunted Lighthouse",
+            "tagline": "Coastal chills for grown-up colourists",
+            "product_type": "Adult Halloween colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy cosy gothic Halloween colouring",
+            "page_count": 25,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated front cover",
+              "24 single-sided colouring pages",
+              "A4 print-ready PDF",
+              "US Letter print-ready PDF",
+              "Printing notes"
+            ],
+            "short_description": "A cosy-but-eerie adult Halloween colouring book set around an isolated lighthouse, where storm lanterns, sea-worn rooms and ghostly maritime details create atmospheric pages for quiet autumn evenings.",
+            "key_features": [
+              "24 detailed single-sided adult colouring pages",
+              "Cosy gothic maritime Halloween theme",
+              "Clean, printer-friendly black line art",
+              "A4 and US Letter PDF versions",
+              "Varied interiors, coastal views and decorative scenes"
+            ],
+            "visual_direction_summary": "Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.",
+            "visual_route": {
+              "primary_subject": "Haunted lighthouse",
+              "scene": "Rocky autumn coastline beneath rolling storm clouds",
+              "focal_object": "Glowing storm lantern",
+              "composition": "Tall central lighthouse with layered coastal details",
+              "lighting": "Moonlit storm glow",
+              "palette_emphasis": "Black ink linework with open white colouring space",
+              "emotional_tone": "Salt-air suspense and fireside comfort",
+              "typography_approach": "Ornate hand-lettered cover title in a framed cartouche",
+              "distinguishing_visual_hook": "Ghostly beacon sweeping across a restless sea"
+            },
+            "preview_brief": "Portrait cover preview of a weathered haunted lighthouse rising from a rocky coast, with a large storm lantern and curling waves framed by bats, rope and seaweed motifs. An ornate title cartouche sits above the beacon in crisp black line art, creating a cosy maritime chill."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "The Witching Hour Bookshop",
+            "tagline": "Cosy shelves, cursed stories and candlelight",
+            "product_type": "Adult Halloween colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy bookish, cosy gothic Halloween colouring",
+            "page_count": 25,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated front cover",
+              "24 single-sided colouring pages",
+              "A4 print-ready PDF",
+              "US Letter print-ready PDF",
+              "Printing notes"
+            ],
+            "short_description": "An adult Halloween colouring book set in an after-hours bookshop, filled with bewitched books, secret staircases, reading nooks and quiet supernatural surprises.",
+            "key_features": [
+              "24 detailed single-sided adult colouring pages",
+              "Bookshop-centred cosy horror theme",
+              "Clean, printer-friendly black line art",
+              "A4 and US Letter PDF versions",
+              "Mix of full scenes, shelves and decorative bookish pages"
+            ],
+            "visual_direction_summary": "Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.",
+            "visual_route": {
+              "primary_subject": "Enchanted bookshop",
+              "scene": "After-hours rambling shop of towering shelves",
+              "focal_object": "Open spellbook",
+              "composition": "Deep aisle perspective leading to a central reading table",
+              "lighting": "Candlelit midnight interior",
+              "palette_emphasis": "Black ink linework with open white colouring space",
+              "emotional_tone": "Bookish warmth and creeping curiosity",
+              "typography_approach": "Vintage bookplate title with flourished serif lettering",
+              "distinguishing_visual_hook": "Books fluttering from shelves around a sleeping cat"
+            },
+            "preview_brief": "Portrait cover preview of a narrow, towering bookshop aisle leading to an open spellbook on a central table, surrounded by candles, crooked shelves and floating books. A vintage bookplate title crowns the scene in richly detailed black line art."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Hollowbone Manor Masquerade",
+            "tagline": "A candlelit costume ball with a dark secret",
+            "product_type": "Adult Halloween colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy elegant spooky Halloween colouring",
+            "page_count": 25,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated front cover",
+              "24 single-sided colouring pages",
+              "A4 print-ready PDF",
+              "US Letter print-ready PDF",
+              "Printing notes"
+            ],
+            "short_description": "A sophisticated adult Halloween colouring book following a candlelit masquerade inside a crumbling manor, where velvet finery, skeletal guests and shadowy ballroom rituals meet warm seasonal splendour.",
+            "key_features": [
+              "24 detailed single-sided adult colouring pages",
+              "Elegant haunted-manor masquerade theme",
+              "Clean, printer-friendly black line art",
+              "A4 and US Letter PDF versions",
+              "Decorative costumes, ballroom scenes and gothic interiors"
+            ],
+            "visual_direction_summary": "Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.",
+            "visual_route": {
+              "primary_subject": "Skeleton masqueraders",
+              "scene": "Decaying manor ballroom draped in autumn garlands",
+              "focal_object": "Jeweled skull mask",
+              "composition": "Symmetrical ballroom vista beneath a grand chandelier",
+              "lighting": "Warm candlelight against deep window shadows",
+              "palette_emphasis": "Black ink linework with open white colouring space",
+              "emotional_tone": "Elegant revelry and unsettling mystery",
+              "typography_approach": "Formal Victorian serif title beneath a chandelier crest",
+              "distinguishing_visual_hook": "Skeleton dancers circling an empty velvet throne"
+            },
+            "preview_brief": "Portrait cover preview of a grand, slightly decayed ballroom with skeleton masqueraders dancing beneath an elaborate chandelier. A jeweled skull mask rests in the foreground while a formal Victorian title is framed by autumn garlands and candlelight details."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "C",
+      "selected_at": "2026-10-07T18:19:01.720Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-10-07T18:16:28.187Z",
+        "finished_at": "2026-10-07T18:17:38.384Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Cozy but scary haloween colouring book for adults\".\nConcept \"The Lanternkeeper’s Haunted Lighthouse\": a colouring book for Adults who enjoy cosy gothic Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Haunted lighthouse\n- Scene: Rocky autumn coastline beneath rolling storm clouds\n- Focal object: Glowing storm lantern\n- Composition: Tall central lighthouse with layered coastal details\n- Lighting: Moonlit storm glow\n- Palette emphasis: Black ink linework with open white colouring space\n- Mood: Salt-air suspense and fireside comfort\n- Typography: Ornate hand-lettered cover title in a framed cartouche\n- Distinguishing hook: Ghostly beacon sweeping across a restless sea\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Enchanted bookshop / After-hours rambling shop of towering shelves / Open spellbook / Candlelit midnight interior\n- C: Skeleton masqueraders / Decaying manor ballroom draped in autumn garlands / Jeweled skull mask / Warm candlelight against deep window shadows\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T18:16:40.913Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Cozy but scary haloween colouring book for adults\".\nConcept \"The Witching Hour Bookshop\": a colouring book for Adults who enjoy bookish, cosy gothic Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Enchanted bookshop\n- Scene: After-hours rambling shop of towering shelves\n- Focal object: Open spellbook\n- Composition: Deep aisle perspective leading to a central reading table\n- Lighting: Candlelit midnight interior\n- Palette emphasis: Black ink linework with open white colouring space\n- Mood: Bookish warmth and creeping curiosity\n- Typography: Vintage bookplate title with flourished serif lettering\n- Distinguishing hook: Books fluttering from shelves around a sleeping cat\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Haunted lighthouse / Rocky autumn coastline beneath rolling storm clouds / Glowing storm lantern / Moonlit storm glow\n- C: Skeleton masqueraders / Decaying manor ballroom draped in autumn garlands / Jeweled skull mask / Warm candlelight against deep window shadows\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T18:17:14.642Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Cozy but scary haloween colouring book for adults\".\nConcept \"Hollowbone Manor Masquerade\": a colouring book for Adults who enjoy elegant spooky Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Skeleton masqueraders\n- Scene: Decaying manor ballroom draped in autumn garlands\n- Focal object: Jeweled skull mask\n- Composition: Symmetrical ballroom vista beneath a grand chandelier\n- Lighting: Warm candlelight against deep window shadows\n- Palette emphasis: Black ink linework with open white colouring space\n- Mood: Elegant revelry and unsettling mystery\n- Typography: Formal Victorian serif title beneath a chandelier crest\n- Distinguishing hook: Skeleton dancers circling an empty velvet throne\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Haunted lighthouse / Rocky autumn coastline beneath rolling storm clouds / Glowing storm lantern / Moonlit storm glow\n- B: Enchanted bookshop / After-hours rambling shop of towering shelves / Open spellbook / Candlelit midnight interior\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T18:17:35.401Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Hollowbone Manor Masquerade",
+      "concept": "An elegant front cover introducing the candlelit haunted-manor ball.",
+      "instructions": null,
+      "artwork_description": "A formal symmetrical ballroom vista beneath an elaborate chandelier, with skeleton masqueraders dancing in the middle distance around an empty velvet throne. Autumn garlands frame the room; a jewelled skull mask rests prominently in the foreground. The title sits beneath a small chandelier crest in a Victorian serif treatment.",
+      "generation_prompt": "Front cover composition: grand decaying manor ballroom, elaborate chandelier at top centre, skeleton masqueraders dancing around an empty velvet throne, jewelled skull mask in the foreground, autumn garlands and tall shadowed windows. Include exact readable title text: “HOLLOWBONE MANOR MASQUERADE”. Formal Victorian serif title beneath a small chandelier crest.",
+      "production_notes": "Verify the title is fully legible and correctly spelled. Keep the cover line-art-only so it can be coloured, while retaining a polished premium cover hierarchy. No barcode or author name required."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "The Iron Gate",
+      "concept": "Guests arrive at the manor at twilight.",
+      "instructions": null,
+      "artwork_description": "Tall wrought-iron gates stand open before a weathered Gothic manor. Two elegant skeletal guests in cloaks and feathered masks approach along a cobbled path bordered by pumpkins, curling ivy and bare-branched trees. A crescent moon and small bats appear above distant turrets.",
+      "generation_prompt": "Open wrought-iron gates before a weathered Gothic manor, two elegant skeletal masked guests arriving on a cobbled path, ornate pumpkins, curling ivy, bare trees, distant manor turrets, crescent moon and a few bats.",
+      "production_notes": "Keep gate scrollwork detailed but with generous enclosed sections. Ensure the approaching figures remain visually separate from the path and manor."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "The Maskmaker's Chamber",
+      "concept": "A mysterious host prepares masks before the ball.",
+      "instructions": null,
+      "artwork_description": "A poised skeletal maskmaker sits at an antique worktable, threading jewels onto a skull mask. Shelves hold labelled-looking but text-free masks shaped like ravens, moons, roses and antlers; candles, scissors, ribbon spools and folded velvet complete the chamber.",
+      "generation_prompt": "Elegant skeletal maskmaker at an antique worktable threading jewels onto a skull-shaped masquerade mask; surrounding shelves of ornate raven, moon, rose and antler masks; candles, scissors, ribbon spools, folded velvet and carved wooden drawers; no readable labels.",
+      "production_notes": "Do not include tiny or illegible shelf labels. Make scissors safe-looking decorative tailoring scissors, not a focal threat."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Velvet Invitation",
+      "concept": "An invitation waits on a richly dressed hall table.",
+      "instructions": null,
+      "artwork_description": "A sealed invitation envelope lies centred on a damask-covered console table, flanked by taper candles in ornate holders. A raven feather, a wax seal bearing a simple skull-and-rose emblem, scattered autumn leaves and an antique key surround it; a framed portrait looms subtly behind.",
+      "generation_prompt": "Still life of a sealed invitation envelope on a damask-covered Gothic console table, wax seal with simple skull-and-rose emblem, raven feather, antique key, taper candles, scattered autumn leaves and a subtle shadowy ancestral portrait in the background; no readable invitation wording.",
+      "production_notes": "No lengthy text on the invitation. Preserve large colourable sections in the damask fabric, envelope and leaves."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "The Grand Stair",
+      "concept": "Guests make a theatrical entrance.",
+      "instructions": null,
+      "artwork_description": "A sweeping double staircase rises to a landing beneath carved arches. Three skeleton guests descend in different elaborate costumes: a rose-trimmed gown, a cloak with constellation motifs and a high-collared tailcoat. Jack-o'-lanterns, urns of autumn foliage and candle sconces decorate the stairs.",
+      "generation_prompt": "Sweeping double staircase inside a Gothic manor, three elegant skeleton masqueraders descending in a rose-trimmed gown, constellation-pattern cloak and high-collared tailcoat; carved arches, candle sconces, urns of autumn foliage and decorative jack-o'-lanterns.",
+      "production_notes": "Separate each costume silhouette clearly. Use repeatable but non-muddy textile patterns and broad stair treads for colouring."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "The Candle Corridor",
+      "concept": "A quiet passage hints that the manor itself is watching.",
+      "instructions": null,
+      "artwork_description": "A long corridor recedes beneath ribbed arches, its walls filled with oval portraits of masked ancestors. A lone skeletal guest carries a candelabrum towards a partly open door; trailing vines, fallen leaves and tiny moths add seasonal detail.",
+      "generation_prompt": "Long Gothic manor corridor beneath ribbed arches, oval portraits of masked ancestors along the walls, lone elegant skeletal guest carrying a candelabrum toward a partly open door, trailing ivy, fallen autumn leaves and small moths.",
+      "production_notes": "Maintain a clear perspective path and avoid dense linework in the far distance. Portrait faces should be varied, stylised and non-graphic."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "The Ballroom Waltz",
+      "concept": "The masquerade reaches its most magnificent moment.",
+      "instructions": null,
+      "artwork_description": "A formal symmetrical ballroom scene shows four pairs of skeleton dancers waltzing beneath a chandelier. Tall windows, draped autumn garlands, candlelit columns and patterned floor tiles frame the dancers, while the empty velvet throne remains visible at the far end.",
+      "generation_prompt": "Formal symmetrical Gothic ballroom with four pairs of skeleton masqueraders waltzing beneath a huge ornate chandelier; tall windows, autumn garlands, candlelit columns, patterned floor tiles and an empty velvet throne at the far end.",
+      "production_notes": "Exactly eight dancing figures arranged as four readable pairs. Keep the chandelier ornate but not ink-heavy; preserve the throne as a clear visual clue."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Raven's Toast",
+      "concept": "A masked guest raises a glass in the conservatory.",
+      "instructions": null,
+      "artwork_description": "A sophisticated skeletal guest in a raven-beak mask stands at a small table in a moonlit conservatory, lifting a patterned goblet. A raven perches on the chair back; curling vines, potted chrysanthemums, leaded glass and a tray of pear-shaped treats fill the scene.",
+      "generation_prompt": "Moonlit Gothic conservatory with an elegant skeletal guest in a raven-beak masquerade mask raising a patterned goblet at a small table; raven on chair back, curling vines, potted chrysanthemums, leaded glass windows and a tray of pear-shaped treats.",
+      "production_notes": "Ensure there is no implied drinking brand or modern glassware. Give the goblet and greenhouse panes open colourable regions."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Pumpkin Parlour",
+      "concept": "The manor's cosy sitting room hides playful supernatural company.",
+      "instructions": null,
+      "artwork_description": "A carved fireplace is framed by pumpkins, acorns and dried flower garlands. Two small friendly ghosts in lace-edged sheets hover above a velvet settee while a skeletal cat curls on a patterned rug. A tea tray and stacked old books sit nearby.",
+      "generation_prompt": "Cosy Gothic parlour with a carved fireplace, pumpkins, acorns and dried-flower garlands; two small elegant ghosts with lace-edged sheet forms hovering above a velvet settee; skeletal cat curled on a patterned rug, antique tea tray and stacked old books.",
+      "production_notes": "Keep ghost forms tasteful and adult-gothic rather than childish. Do not depict flames as solid black; use outlined stylised fire shapes."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "The Moonlit Terrace",
+      "concept": "Dancers take the night air beneath the autumn sky.",
+      "instructions": null,
+      "artwork_description": "A skeletal couple in elaborate capes stands at a stone balustrade overlooking a formal garden. The taller figure wears a crescent mask; the other holds a small lantern. Beyond them, clipped hedges form labyrinthine shapes around a fountain, with a large moon behind wispy clouds.",
+      "generation_prompt": "Stone terrace overlooking a formal Gothic garden at night, elegant skeletal masked couple at a carved balustrade, one wearing a crescent-moon mask and one holding a small lantern; hedge maze, fountain, autumn trees, large moon and wispy clouds.",
+      "production_notes": "Use outlined moon and clouds only, with sparse hatching. Keep railing spaces sufficiently broad for comfortable colouring."
+    },
+    {
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "The Midnight Supper",
+      "concept": "The banquet is sumptuous, ornate and unsettlingly unattended.",
+      "instructions": null,
+      "artwork_description": "A long banquet table is set with pumpkins, pomegranates, pears, decorative pies and ornate covered dishes. Empty high-backed chairs line either side, while a single skeletal butler presents a silver cloche at the head of the table. Candelabra and tapestries frame the dining hall.",
+      "generation_prompt": "Long Gothic banquet table dressed with pumpkins, pomegranates, pears, decorative pies and ornate covered dishes; empty high-backed chairs, one elegant skeletal butler presenting a silver cloche, candelabra, tapestries and carved dining hall architecture.",
+      "production_notes": "Avoid food details so small that they become muddy. Keep the feast recognisable and entirely non-gory."
+    },
+    {
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "The Clock Strikes Twelve",
+      "concept": "The manor's great clock signals a change in the evening.",
+      "instructions": null,
+      "artwork_description": "An enormous ornate grandfather clock stands at the centre, its hands clearly set to 12:00. Skeleton guests pause around it in surprised poses; candle flames curl upwards and moths circle the clock's carved moon-and-bat crest.",
+      "generation_prompt": "Huge ornate Gothic grandfather clock centred in a manor hall, clock hands clearly showing 12:00; several elegant skeleton masqueraders pausing in theatrical surprise around it, candle sconces, swirling moths and a carved moon-and-bat crest.",
+      "production_notes": "Clock must unambiguously show twelve o'clock: both hands pointing straight up. Verify dial numerals are optional; if used, ensure they are correct and legible."
+    },
+    {
+      "page_number": 13,
+      "page_type": "colouring",
+      "title": "The Hidden Door",
+      "concept": "A rose-carved panel opens behind the ballroom drapery.",
+      "instructions": null,
+      "artwork_description": "A skeletal guest pulls aside heavy curtains to reveal a narrow secret door hidden within wall panelling. The door is decorated with a large keyhole and rose carvings; a trail of fallen rose petals leads through it, and a candleholder illuminates the discovery.",
+      "generation_prompt": "Heavy Gothic ballroom curtains being drawn aside by an elegant skeletal masquerader, revealing a narrow secret door concealed in carved wall panelling; large decorative keyhole, rose carvings, trail of fallen rose petals and an ornate candleholder.",
+      "production_notes": "Make the secret door's outline obvious and the keyhole centrally readable. Keep curtain folds bold and colourable."
+    },
+    {
+      "page_number": 14,
+      "page_type": "colouring",
+      "title": "The Portrait Gallery",
+      "concept": "The previous hosts appear to join the festivities.",
+      "instructions": null,
+      "artwork_description": "A richly ornamented gallery contains seven framed ancestor portraits. In each portrait, a different masked skeletal figure poses in period finery; one figure steps partly out of its frame while a living-looking candlelit reflection appears in a gilt mirror opposite.",
+      "generation_prompt": "Gothic portrait gallery containing exactly seven framed portraits of different masked skeleton ancestors in period finery; one skeletal portrait figure stepping partly out of its frame, gilt mirror with an eerie candlelit reflection, ornate wallpaper and small console tables.",
+      "production_notes": "Exactly seven portrait frames, each clearly countable. Keep the emerging figure non-gory and make the mirror reflection decorative rather than visually confusing."
+    },
+    {
+      "page_number": 15,
+      "page_type": "colouring",
+      "title": "The Conservatory Oracle",
+      "concept": "A floral spirit reveals a clue about the empty throne.",
+      "instructions": null,
+      "artwork_description": "In a glass conservatory, a graceful skeletal oracle sits within a high-backed wicker chair formed from twisting vines. She holds a crystal ball containing a simple outline of a crown above an empty chair. Ferns, chrysanthemums, moths and hanging lanterns surround her.",
+      "generation_prompt": "Gothic glass conservatory with graceful skeletal oracle seated in a high-backed wicker chair made of twisting vines, holding a crystal ball that contains a simple crown above an empty chair symbol; ferns, chrysanthemums, moths and hanging lanterns.",
+      "production_notes": "The crystal ball image should be limited to the simple crown-and-empty-chair symbol, with clear interior lines and no grey fill."
+    },
+    {
+      "page_number": 16,
+      "page_type": "colouring",
+      "title": "The Costume Wardrobe",
+      "concept": "A dressing room overflows with masquerade finery.",
+      "instructions": null,
+      "artwork_description": "Open wardrobe doors reveal neatly hung capes, gowns and tailcoats. A full-length oval mirror reflects a skeleton trying on an antlered mask, while gloves, fans, boots and brooches are arranged on an upholstered stool and dressing table.",
+      "generation_prompt": "Grand open wardrobe filled with ornate capes, gowns and tailcoats; full-length oval mirror reflecting an elegant skeleton trying on an antlered masquerade mask; gloves, fans, boots and brooches arranged on an upholstered stool and Gothic dressing table.",
+      "production_notes": "Avoid tiny repeated garment buttons. The mirror reflection must be anatomically and pose-consistent with the main figure."
+    },
+    {
+      "page_number": 17,
+      "page_type": "colouring",
+      "title": "The Garden Labyrinth",
+      "concept": "The guests follow lanterns through an autumn hedge maze.",
+      "instructions": null,
+      "artwork_description": "A high-view but still portrait-friendly scene shows a clearly navigable hedge maze with a continuous visible path from a lower entrance to a central fountain. Along the route, three masked skeleton guests carry lanterns; sculpted pumpkins, ravens and autumn trees decorate the maze edges.",
+      "generation_prompt": "Portrait-friendly high view of a formal Gothic hedge maze with one clearly visible continuous winding path from a lower entrance to a central fountain; exactly three elegant masked skeleton guests carrying lanterns along the route, sculpted pumpkins, ravens and autumn trees around the maze.",
+      "production_notes": "This is scenic, not a maze activity; ensure the path is visually continuous and does not accidentally create impossible crossings. Exactly three guest figures."
+    },
+    {
+      "page_number": 18,
+      "page_type": "colouring",
+      "title": "The Raven Key",
+      "concept": "A raven delivers the key to the locked throne room.",
+      "instructions": null,
+      "artwork_description": "A large raven in ornate feather patterns perches on a carved stone hand, holding a long antique key in its beak. Behind it, a circular rose window, trailing ivy and hanging bells create a dramatic vertical composition; small skeleton hands reach up from the lower edge.",
+      "generation_prompt": "Dramatic vertical composition of a large ornate raven perched on a carved stone hand, holding a long antique key in its beak; circular Gothic rose window behind, trailing ivy, hanging bells and a few elegant skeletal hands reaching upward from below.",
+      "production_notes": "Key must be fully visible, unbroken and clearly distinguishable from the raven. Keep feather detail patterned in grouped sections rather than micro-lines."
+    },
+    {
+      "page_number": 19,
+      "page_type": "colouring",
+      "title": "The Throne Room",
+      "concept": "The locked room reveals the centre of the manor's secret.",
+      "instructions": null,
+      "artwork_description": "Tall doors stand open onto a circular throne room. The empty velvet throne is elevated on a small dais and surrounded by eight tall candles, two stone gargoyle statues and a mosaic floor featuring a skull-and-rose medallion. The jewelled skull mask rests on the throne seat.",
+      "generation_prompt": "Circular Gothic throne room revealed through tall open doors, empty velvet throne raised on a small dais with a jewelled skull mask resting on its seat; exactly eight tall candles around the dais, two stone gargoyle statues, skull-and-rose mosaic floor medallion and vaulted architecture.",
+      "production_notes": "Exactly eight freestanding candles and two gargoyles. Ensure the mask is prominent, centred and separated from upholstery patterns."
+    },
+    {
+      "page_number": 20,
+      "page_type": "colouring",
+      "title": "The Crown of Bones",
+      "concept": "The hidden regalia waits to choose the next host.",
+      "instructions": null,
+      "artwork_description": "A ceremonial crown constructed from elegant carved bone-like motifs, roses and tiny gemstone settings sits on a velvet cushion. It is framed by a scalloped canopy, candles and long strands of beads, while four moths orbit the crown in a balanced arrangement.",
+      "generation_prompt": "Ceremonial Gothic crown made from elegant bone-like carved motifs, roses and tiny gemstone settings resting on a velvet cushion; scalloped canopy, candles, long bead strands and exactly four moths in balanced positions around the crown.",
+      "production_notes": "Exactly four moths. Keep the crown ornamental rather than grotesque, with clear individual sections for colouring."
+    },
+    {
+      "page_number": 21,
+      "page_type": "colouring",
+      "title": "The Unmasking",
+      "concept": "The host finally appears from behind the throne.",
+      "instructions": null,
+      "artwork_description": "A tall skeletal host rises gracefully behind the velvet throne, holding the jewelled skull mask before their face. The other dancers form a respectful semicircle, bowing or curtsying beneath floating autumn leaves and high arched windows.",
+      "generation_prompt": "Tall regal skeletal host standing behind a velvet throne, holding a jewelled skull mask before their face; elegant skeleton dancers in a respectful semicircle bowing and curtsying, floating autumn leaves, tall arched windows and candlelit Gothic architecture.",
+      "production_notes": "Retain an elegant, non-threatening expression through pose. The host, throne and skull mask must remain the primary focal hierarchy."
+    },
+    {
+      "page_number": 22,
+      "page_type": "colouring",
+      "title": "The Skeleton Orchestra",
+      "concept": "Music swells as the ritual becomes a celebration.",
+      "instructions": null,
+      "artwork_description": "Five skeleton musicians perform from a carved balcony: violin, cello, flute, harp and hand drum. Music notes are represented only as decorative floating swirls, not printed notation; bats, garlands and small lanterns decorate the balcony rail.",
+      "generation_prompt": "Carved Gothic balcony holding exactly five skeletal musicians: one violinist, one cellist, one flautist, one harpist and one hand-drum player; decorative floating music swirls, autumn garlands, small lanterns and a few bats.",
+      "production_notes": "Exactly five musicians and the specified five instruments, all clearly identifiable. Do not use dense real musical notation or readable lyrics."
+    },
+    {
+      "page_number": 23,
+      "page_type": "colouring",
+      "title": "The Final Procession",
+      "concept": "The masked guests move through the manor in a ceremonial line.",
+      "instructions": null,
+      "artwork_description": "A winding procession of six masked skeleton guests moves through an arched manor hall, each carrying either a lantern, rose, fan or candle. The central host carries the crown on a cushion; autumn garlands and portrait medallions fill the walls.",
+      "generation_prompt": "Ceremonial procession of exactly six elegant masked skeleton guests winding through an arched Gothic manor hall; one central host carries a crown on a cushion, others carry lanterns, roses, fans or candles; autumn garlands and ancestor portrait medallions decorate the walls.",
+      "production_notes": "Exactly six procession figures. Ensure the crown-bearer is visually central, and do not overcrowd the hall with extra character silhouettes."
+    },
+    {
+      "page_number": 24,
+      "page_type": "colouring",
+      "title": "Dawn at Hollowbone Manor",
+      "concept": "The ball fades as the first light reaches the garden.",
+      "instructions": null,
+      "artwork_description": "Viewed from the manor steps, skeleton guests in rumpled elegant costumes drift towards open gates at dawn. The ballroom windows glow with candle shapes, while pumpkins, bare trees, ravens and a carriage wait beyond the path. The empty throne is faintly visible through one tall window.",
+      "generation_prompt": "View from Gothic manor steps at dawn, elegant skeleton masqueraders in gently rumpled finery departing through open gates; glowing ballroom windows with candle shapes, pumpkins, bare trees, ravens, waiting horse-drawn carriage and a faint empty throne visible through one tall window.",
+      "production_notes": "Dawn is conveyed with open linework only, never grey or coloured sky. Keep carriage details readable and avoid obscuring the departing guests."
+    },
+    {
+      "page_number": 25,
+      "page_type": "colouring",
+      "title": "The Manor Sleeps",
+      "concept": "A final exterior closes the story, with its secret safely inside.",
+      "instructions": null,
+      "artwork_description": "A full portrait exterior of Hollowbone Manor sits beneath a crescent moon, with its gate closed and autumn vines climbing the façade. One upper window contains the small silhouette of the jewelled skull mask; the foreground features a stone urn of chrysanthemums, curled leaves and a sleeping skeletal cat.",
+      "generation_prompt": "Final portrait exterior of Hollowbone Manor beneath a crescent moon, closed wrought-iron gate, autumn vines climbing the Gothic façade, one upper window containing a small jewelled skull-mask silhouette; foreground stone urn of chrysanthemums, curled leaves and a sleeping skeletal cat.",
+      "production_notes": "End without printed text so the final page remains a full colouring design. Keep the skull-mask silhouette small but clearly recognisable; preserve ample white space in the sky and façade."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 2,
+        "role": "main-style",
+        "reason": "First illustration-led page (colouring): sets the core illustration style."
+      },
+      {
+        "page_number": 3,
+        "role": "different-composition",
+        "reason": "A different page type (colouring) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 25,
+        "role": "consistency-check",
+        "reason": "A later page (colouring, p25) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-10-07T18:20:46.127Z",
+        "finished_at": "2026-10-07T18:21:34.657Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 2,
+            "prompt": "Sophisticated adult gothic colouring-book artwork in crisp black pen-and-ink on pure white, with confident clean contours, medium interior outlines, precise ornamental linework, delicate crosshatching and sparse stippling. Create elegant theatrical stylisation, high detail in decorative textures and open colourable areas, with no grey fills, gradients or solid black masses. Maintain a cosy yet ominous candlelit storybook mood, clear focal hierarchy, refined engraving-like texture and printer-friendly line clarity.\n\nSTYLE PARAMETERS: illustration style: Sophisticated monochrome pen-and-ink colouring-book illustration with a gothic storybook sensibility, designed for leisurely adult colouring.; line weight: Crisp confident outer contours with medium interior outlines and selectively fine ornamental linework.; line quality: Clean, controlled hand-inked linework; elegant curves, precise hatching and clearly separated enclosed shapes.; detail level: High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.; character language: Expressive stylised figures with graceful, theatrical silhouettes, readable gestures and refined period-inspired costume detailing rather than realistic anatomy.; background density: Layered and immersive, with ornamental background detail kept lighter and more open than the principal forms to maintain clear focal hierarchy.; composition: Strong central focal hierarchy, balanced asymmetry or formal symmetry where appropriate, clear depth layers, and deliberate breathing room around intricate motifs.; palette: Monochrome black ink on a pure white ground, with all tonal richness created through line density and optional colourer-led choices.; colour mode: black-and-white line art; shading: No grey fills, gradients or solid black shading; use sparse crosshatching, contour hatching and patterned shadow marks only where needed for depth.; texture: Fine engraved-paper feel conveyed through crosshatching, stippling accents, ornamental motifs and varied textile-inspired patterns.; mood: Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease..\n\nPAGE 2 of \"Hollowbone Manor Masquerade\" (colouring): Open wrought-iron gates before a weathered Gothic manor, two elegant skeletal masked guests arriving on a cobbled path, ornate pumpkins, curling ivy, bare trees, distant manor turrets, crescent moon and a few bats.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each single-sided page uses a practical inner safety margin, a strong central scene and clearly enclosed colourable spaces for A4 and US Letter home printing. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media; Photorealism or realistic horror gore; Grey shading, colour, gradients or large solid-black ink areas; Muddy micro-detail, tangled lines or unclear colouring spaces; Childish cartoon styling or overly cute expressions; Modern objects or incongruous contemporary visual language; Misspelled, distorted or illegible text.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T18:20:59.762Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 3,
+            "prompt": "Sophisticated adult gothic colouring-book artwork in crisp black pen-and-ink on pure white, with confident clean contours, medium interior outlines, precise ornamental linework, delicate crosshatching and sparse stippling. Create elegant theatrical stylisation, high detail in decorative textures and open colourable areas, with no grey fills, gradients or solid black masses. Maintain a cosy yet ominous candlelit storybook mood, clear focal hierarchy, refined engraving-like texture and printer-friendly line clarity.\n\nSTYLE PARAMETERS: illustration style: Sophisticated monochrome pen-and-ink colouring-book illustration with a gothic storybook sensibility, designed for leisurely adult colouring.; line weight: Crisp confident outer contours with medium interior outlines and selectively fine ornamental linework.; line quality: Clean, controlled hand-inked linework; elegant curves, precise hatching and clearly separated enclosed shapes.; detail level: High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.; character language: Expressive stylised figures with graceful, theatrical silhouettes, readable gestures and refined period-inspired costume detailing rather than realistic anatomy.; background density: Layered and immersive, with ornamental background detail kept lighter and more open than the principal forms to maintain clear focal hierarchy.; composition: Strong central focal hierarchy, balanced asymmetry or formal symmetry where appropriate, clear depth layers, and deliberate breathing room around intricate motifs.; palette: Monochrome black ink on a pure white ground, with all tonal richness created through line density and optional colourer-led choices.; colour mode: black-and-white line art; shading: No grey fills, gradients or solid black shading; use sparse crosshatching, contour hatching and patterned shadow marks only where needed for depth.; texture: Fine engraved-paper feel conveyed through crosshatching, stippling accents, ornamental motifs and varied textile-inspired patterns.; mood: Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease..\n\nPAGE 3 of \"Hollowbone Manor Masquerade\" (colouring): Elegant skeletal maskmaker at an antique worktable threading jewels onto a skull-shaped masquerade mask; surrounding shelves of ornate raven, moon, rose and antler masks; candles, scissors, ribbon spools, folded velvet and carved wooden drawers; no readable labels.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each single-sided page uses a practical inner safety margin, a strong central scene and clearly enclosed colourable spaces for A4 and US Letter home printing. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media; Photorealism or realistic horror gore; Grey shading, colour, gradients or large solid-black ink areas; Muddy micro-detail, tangled lines or unclear colouring spaces; Childish cartoon styling or overly cute expressions; Modern objects or incongruous contemporary visual language; Misspelled, distorted or illegible text.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T18:21:17.590Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 25,
+            "prompt": "Sophisticated adult gothic colouring-book artwork in crisp black pen-and-ink on pure white, with confident clean contours, medium interior outlines, precise ornamental linework, delicate crosshatching and sparse stippling. Create elegant theatrical stylisation, high detail in decorative textures and open colourable areas, with no grey fills, gradients or solid black masses. Maintain a cosy yet ominous candlelit storybook mood, clear focal hierarchy, refined engraving-like texture and printer-friendly line clarity.\n\nSTYLE PARAMETERS: illustration style: Sophisticated monochrome pen-and-ink colouring-book illustration with a gothic storybook sensibility, designed for leisurely adult colouring.; line weight: Crisp confident outer contours with medium interior outlines and selectively fine ornamental linework.; line quality: Clean, controlled hand-inked linework; elegant curves, precise hatching and clearly separated enclosed shapes.; detail level: High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.; character language: Expressive stylised figures with graceful, theatrical silhouettes, readable gestures and refined period-inspired costume detailing rather than realistic anatomy.; background density: Layered and immersive, with ornamental background detail kept lighter and more open than the principal forms to maintain clear focal hierarchy.; composition: Strong central focal hierarchy, balanced asymmetry or formal symmetry where appropriate, clear depth layers, and deliberate breathing room around intricate motifs.; palette: Monochrome black ink on a pure white ground, with all tonal richness created through line density and optional colourer-led choices.; colour mode: black-and-white line art; shading: No grey fills, gradients or solid black shading; use sparse crosshatching, contour hatching and patterned shadow marks only where needed for depth.; texture: Fine engraved-paper feel conveyed through crosshatching, stippling accents, ornamental motifs and varied textile-inspired patterns.; mood: Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease..\n\nPAGE 25 of \"Hollowbone Manor Masquerade\" (colouring): Final portrait exterior of Hollowbone Manor beneath a crescent moon, closed wrought-iron gate, autumn vines climbing the Gothic façade, one upper window containing a small jewelled skull-mask silhouette; foreground stone urn of chrysanthemums, curled leaves and a sleeping skeletal cat.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each single-sided page uses a practical inner safety margin, a strong central scene and clearly enclosed colourable spaces for A4 and US Letter home printing. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media; Photorealism or realistic horror gore; Grey shading, colour, gradients or large solid-black ink areas; Muddy micro-detail, tangled lines or unclear colouring spaces; Childish cartoon styling or overly cute expressions; Modern objects or incongruous contemporary visual language; Misspelled, distorted or illegible text.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T18:21:31.192Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "fd5c56ed3d62",
+    "keyboard_message_ids": [
+      701,
+      707,
+      716,
+      719,
+      722,
+      731,
+      737,
+      740,
+      756,
+      760,
+      763
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2790,
+        "input_tokens_details": {
+          "cache_write_tokens": 2787,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1540,
+        "output_tokens_details": {
+          "reasoning_tokens": 302
+        },
+        "total_tokens": 4330
+      },
+      "at": "2026-10-07T18:15:29.797Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 428,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 428
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 586
+      },
+      "at": "2026-10-07T18:16:28.387Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 430,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 430
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 588
+      },
+      "at": "2026-10-07T18:16:41.541Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 425,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 425
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 583
+      },
+      "at": "2026-10-07T18:17:20.138Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2802,
+        "input_tokens_details": {
+          "cache_write_tokens": 2799,
+          "cached_tokens": 0
+        },
+        "output_tokens": 616,
+        "output_tokens_details": {
+          "reasoning_tokens": 61
+        },
+        "total_tokens": 3418
+      },
+      "at": "2026-10-07T18:19:02.513Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2423,
+        "input_tokens_details": {
+          "cache_write_tokens": 2420,
+          "cached_tokens": 0
+        },
+        "output_tokens": 4708,
+        "output_tokens_details": {
+          "reasoning_tokens": 167
+        },
+        "total_tokens": 7131
+      },
+      "at": "2026-10-07T18:19:40.090Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 649,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 649
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 992
+      },
+      "at": "2026-10-07T18:20:46.190Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 655,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 655
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 998
+      },
+      "at": "2026-10-07T18:20:59.982Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 655,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 655
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 998
+      },
+      "at": "2026-10-07T18:21:18.021Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 864,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 864
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1207
+      },
+      "at": "2026-10-07T18:34:53.964Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 832,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 832
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1175
+      },
+      "at": "2026-10-07T18:35:21.084Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 839,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 839
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1182
+      },
+      "at": "2026-10-07T18:35:40.758Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 821,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 821
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1164
+      },
+      "at": "2026-10-07T18:38:02.611Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 821,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 821
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1164
+      },
+      "at": "2026-10-07T18:38:21.650Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 833,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 833
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1176
+      },
+      "at": "2026-10-07T18:38:49.493Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 832,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 832
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1175
+      },
+      "at": "2026-10-07T18:39:09.826Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 829,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 829
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1172
+      },
+      "at": "2026-10-07T18:39:29.994Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 828,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 828
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1171
+      },
+      "at": "2026-10-07T18:39:49.676Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 829,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 829
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1172
+      },
+      "at": "2026-10-07T18:40:12.229Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 819,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 819
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1162
+      },
+      "at": "2026-10-07T18:40:31.022Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 820,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 820
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1163
+      },
+      "at": "2026-10-07T18:40:51.772Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 824,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 824
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1167
+      },
+      "at": "2026-10-07T18:41:13.678Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 824,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 824
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1167
+      },
+      "at": "2026-10-07T18:41:33.427Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 834,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 834
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1177
+      },
+      "at": "2026-10-07T18:41:51.703Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 829,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 829
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1172
+      },
+      "at": "2026-10-07T18:42:16.282Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 836,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 836
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1179
+      },
+      "at": "2026-10-07T18:42:33.392Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 815,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 815
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1158
+      },
+      "at": "2026-10-07T18:44:27.892Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 819,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 819
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1162
+      },
+      "at": "2026-10-07T18:44:45.200Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 822,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 822
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1165
+      },
+      "at": "2026-10-07T18:45:03.607Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 830,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 830
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1173
+      },
+      "at": "2026-10-07T18:45:20.078Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 836,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 836
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1179
+      },
+      "at": "2026-10-07T18:45:42.904Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 824,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 824
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1167
+      },
+      "at": "2026-10-07T18:51:15.691Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 834,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 834
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1177
+      },
+      "at": "2026-10-07T18:55:10.911Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 201,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 201
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 640
+      },
+      "at": "2026-10-07T18:58:22.561Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 6944,
+        "input_tokens_details": {
+          "cache_write_tokens": 6941,
+          "cached_tokens": 0
+        },
+        "output_tokens": 935,
+        "output_tokens_details": {
+          "reasoning_tokens": 248
+        },
+        "total_tokens": 7879
+      },
+      "at": "2026-10-07T18:58:40.428Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 487,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 487
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 926
+      },
+      "at": "2026-10-07T18:58:52.953Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 6947,
+        "input_tokens_details": {
+          "cache_write_tokens": 4782,
+          "cached_tokens": 2162
+        },
+        "output_tokens": 813,
+        "output_tokens_details": {
+          "reasoning_tokens": 161
+        },
+        "total_tokens": 7760
+      },
+      "at": "2026-10-07T18:59:09.787Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 473,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 473
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 912
+      },
+      "at": "2026-10-07T18:59:20.942Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 5607,
+        "input_tokens_details": {
+          "cache_write_tokens": 5604,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1912,
+        "output_tokens_details": {
+          "reasoning_tokens": 893
+        },
+        "total_tokens": 7519
+      },
+      "at": "2026-10-07T19:03:59.913Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: listing: rejected: description: \"editable\" (editable files are not delivered); disclaimer: \"editable\" (editable files are not delivered)"
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 5754,
+        "input_tokens_details": {
+          "cache_write_tokens": 5751,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1975,
+        "output_tokens_details": {
+          "reasoning_tokens": 1034
+        },
+        "total_tokens": 7729
+      },
+      "at": "2026-10-07T21:17:27.707Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 9058,
+        "input_tokens_details": {
+          "cache_write_tokens": 9055,
+          "cached_tokens": 0
+        },
+        "output_tokens": 3076,
+        "output_tokens_details": {
+          "reasoning_tokens": 516
+        },
+        "total_tokens": 12134
+      },
+      "at": "2026-10-07T21:17:54.020Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 450,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 450
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 889
+      },
+      "at": "2026-10-07T21:18:21.411Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 445,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 445
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 884
+      },
+      "at": "2026-10-07T21:18:32.918Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-example",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1793,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 257
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 2136
+      },
+      "at": "2026-10-07T21:18:43.319Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-10-07T18:34:42.475Z",
+  "created_at": "2026-10-07T18:14:40.885Z",
+  "updated_at": "2026-10-07T21:42:15.158Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Each single-sided page uses a practical inner safety margin, a strong central scene and clearly enclosed colourable spaces for A4 and US Letter home printing."
+  },
+  "book": {
+    "version": 1,
+    "manifest": {
+      "file": "book/manifest.json",
+      "sha256": "943feec099bfd520052857887a59c3b430138c6f15deeb2377b09ad844c36dd7",
+      "created_at": "2026-10-07T18:34:53.896Z"
+    },
+    "size": "1024x1536",
+    "model": "gpt-image-2.5-flare",
+    "quality": "medium",
+    "pages": [
+      {
+        "page_id": "P001",
+        "page_number": 1,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P001.png",
+        "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:35:18.064Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P002",
+        "page_number": 2,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "file": "book/pages/P002.png",
+        "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:20:59.762Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P003",
+        "page_number": 3,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "file": "book/pages/P003.png",
+        "sha256": "295835e0f56c6875e0737aa49317444076a42d93c7b4bc80265d6d2ba52920e9",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:21:17.590Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P004",
+        "page_number": 4,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P004.png",
+        "sha256": "ddaa865c774a070c0e335923a9568397f4873e5eff33d68d07d0f34919bea78b",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:35:39.614Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P005",
+        "page_number": 5,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P005.png",
+        "sha256": "96b38cac3ccfb2f721924bf4db158f3879f76b8bfcdafdf36dc8145933b8ff0a",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:38:02.263Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P006",
+        "page_number": 6,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P006.png",
+        "sha256": "d08083399473894e788f7ad9937aa28db71f89f49d307669113802ccd9f68c45",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:38:21.307Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P007",
+        "page_number": 7,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P007.png",
+        "sha256": "18a893a5429d02e6a1f792517b3009f62c31e8c84ccf9a3c039fb5ad1c919989",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:38:48.994Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P008",
+        "page_number": 8,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P008.png",
+        "sha256": "3b569c47efa4161a24282bd1c2ae637d7ec881a3756fa69e1a702f73fcf157fe",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:39:09.634Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P009",
+        "page_number": 9,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P009.png",
+        "sha256": "4c46d19e06580c16c4bd6f1a3282e14fe012b4ea704f89c1eacf85d05778e9a5",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:39:29.619Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P010",
+        "page_number": 10,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P010.png",
+        "sha256": "a3be98a843bee7ae2435b103ab6ee05c7e0eaa3dd3b32b3af64c0283803149a2",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:39:49.100Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P011",
+        "page_number": 11,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P011.png",
+        "sha256": "3775eafc65395bc965ef7e1b0f994844e72fcd5d9e7a0b1bb1d5a43d065c5303",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:40:11.810Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P012",
+        "page_number": 12,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P012.png",
+        "sha256": "eace2267fc4f3604dd2ab54982df126a12af7c022218b3e05c980743163c38f0",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:40:30.583Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P013",
+        "page_number": 13,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P013.png",
+        "sha256": "c0d51a72b26cc6b6eed219635d6828b7a855646306714a933672a6ebdf260c03",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:40:50.872Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P014",
+        "page_number": 14,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P014.png",
+        "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:41:13.375Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P015",
+        "page_number": 15,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P015.png",
+        "sha256": "694983a72a23c8f093e833d3b571d28de2f58c4a8c43b8aff13d4a9fe3a35629",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:41:32.867Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P016",
+        "page_number": 16,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P016.png",
+        "sha256": "aa65dfc3cb991e7216b7a78290f7caf33775c9887624cd171a18d386e4e7b28b",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:51:39.868Z",
+        "revision": 1,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P017",
+        "page_number": 17,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P017.png",
+        "sha256": "4cd4703584140c29ad0559db5051c9a97ba8d829638943fe442553530350ca36",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:55:26.356Z",
+        "revision": 1,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P018",
+        "page_number": 18,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P018.png",
+        "sha256": "8d5df88de3bd385f051ddc10fb7ba1457ed077431e7af90b3b329087a64d51e7",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:42:33.090Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P019",
+        "page_number": 19,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P019.png",
+        "sha256": "d94ea386b635e2fb7908718110d6450052be06c6e9a6bff28a8d42da26dcead9",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:44:27.670Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P020",
+        "page_number": 20,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P020.png",
+        "sha256": "2e50d424b0b901c4cd626b4f6efefa56b65f48b8a3a7eec5407f22725c6dcb5c",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:44:44.673Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P021",
+        "page_number": 21,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P021.png",
+        "sha256": "c95f703c4c10e010eb68407ecf2ad0b41e617c671beb6741cef8c3a3b6155fe9",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:45:03.113Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P022",
+        "page_number": 22,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P022.png",
+        "sha256": "c37268c9a8b5f2a0c49b981e1be6065b79ff1fc707363be7bc3e6fa6981932f2",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:45:19.890Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P023",
+        "page_number": 23,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P023.png",
+        "sha256": "a3c7ba89e28f72a448faeec1677f9412eb7cd7b3f35abb12a46e5f2341c93953",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:45:42.504Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P024",
+        "page_number": 24,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P024.png",
+        "sha256": "26a7e87b2f806045a746990457084a6ae38e4fc8b7ad1593b38fccb6c82465e3",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:46:03.392Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P025",
+        "page_number": 25,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "file": "book/pages/P025.png",
+        "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T18:21:31.192Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      }
+    ],
+    "generation": {
+      "status": "complete",
+      "started_at": "2026-10-07T18:55:10.887Z",
+      "finished_at": "2026-10-07T18:55:30.603Z",
+      "error": null
+    },
+    "qc": {
+      "passed": true,
+      "report": "book/qc.json",
+      "sha256": "a63526b8fb83c40bde307e250280cba600c39334989e137df09c18a88d3cc6ee",
+      "fingerprint": "23c700652fcb3d243972260c785ea6630c01d4cbdb92f99ce5f15955c5b10fe8",
+      "at": "2026-10-07T18:55:30.603Z",
+      "warnings": 1,
+      "failed_pages": []
+    },
+    "pending_op": null,
+    "pending_page": null,
+    "direction_notes": [],
+    "reuse": [
+      {
+        "page_number": 2,
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 3,
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 25,
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "reused": true,
+        "reason": null
+      }
+    ],
+    "approval": {
+      "approved_at": "2026-10-07T18:55:42.001Z",
+      "by": "@romg_o",
+      "manifest_sha256": "943feec099bfd520052857887a59c3b430138c6f15deeb2377b09ad844c36dd7",
+      "pages_sha256": "23c700652fcb3d243972260c785ea6630c01d4cbdb92f99ce5f15955c5b10fe8",
+      "qc_sha256": "a63526b8fb83c40bde307e250280cba600c39334989e137df09c18a88d3cc6ee"
+    }
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "c33ba584ee7ad38eb96238c3be0b7c3ae3721fed6bc982c6ac6b7200700840fc"
+    },
+    "adapter": {
+      "format": "colouring-book",
+      "version": 1
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "148d830e17333afa8ea2017fcb3f4812c2d89aa7081b32c9947b022dfae5d5fa",
+      "built_at": "2026-10-07T18:57:23.411Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-10-07T18:57:23.457Z"
+    },
+    "approved_at": "2026-10-07T18:58:03.142Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "04d71a5aa6eb2ec01a22e52e93041347068f92a29937fd905650a3df876b8740"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "79b2b83a9d4d3d65defcfc784c636db5f552e2067f8954f96cf3caef54f76735"
+    },
+    "images": {
+      "count": 10,
+      "dir": "marketing/images",
+      "digest": "74ac55b89164a757aa07b3fae40e6238de63615b1a1300943bae409099169ac7"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-10-07T21:19:21.512Z"
+    },
+    "pending_scope": null,
+    "approved_at": "2026-10-07T21:19:45.794Z",
+    "comparison": {
+      "at": "2026-10-07T18:59:34.803Z",
+      "engines": {
+        "factory": {
+          "image": {
+            "file": "marketing/comparison/factory/01-hero.png",
+            "sha256": "dd0c10364d6d673586ae3cbf118d1080bf15cddb6832f62e63e633304d178fdb"
+          },
+          "scene": {
+            "file": "marketing/engines/factory/scenes/01-hero.png",
+            "sha256": "e5e5a90d27ec5e4ef04c23ed4715b6ee08edf15cf2f5825f447907eb1a64a0a9",
+            "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nPremium overhead-angled photograph of a calm creative desk: a few coloured pencils and fine-liner pens in a cup, a small ceramic mug, a sprig of seasonal greenery, soft natural window light and gentle shadows, shallow depth of field. Keep the right-hand two thirds of the desk clear, even and softly lit, reserved for products added later.\nCampaign mood: playful cosy-spooky Halloween.\nMood: Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals."
+          }
+        },
+        "hybrid": {
+          "image": {
+            "file": "marketing/comparison/hybrid/01-hero.png",
+            "sha256": "fb1f8c9811bac83ca584d25e69c404eb67daf8983839109f1b39a2b5ec35de9b"
+          },
+          "scene": {
+            "file": "marketing/engines/hybrid/scenes/01-hero.png",
+            "sha256": "710d7a228f49bcb904242e9dfd767a6420ffd6a58454da116833a92cb51fb8f1",
+            "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Cosy, elegant and ominous Halloween revelry with a refined gothic storybook atmosphere..\nPalette: Ink black, antique ivory, walnut brown, muted pumpkin, oxblood, tarnished gold and soft candle amber..\nLighting: Warm cinematic lamp light with amber glow, gentle shadows and distant golden bokeh..\nScene: Rich walnut tabletop under warm amber lamp light, with a chunky cream knitted throw at one edge, a ceramic mug of tea, scattered autumn leaves and soft string-light bokeh in the distance. Create deep, calm seasonal atmosphere with an even, softly lit lower surface and an uncluttered upper-left area.\nProps (plain materials only): knitted throw, mug of tea, wooden desk, scattered leaves, string lights.\nVisual world: palette Ink black, antique ivory, walnut brown, muted pumpkin, oxblood, tarnished gold and soft candle amber.; materials walnut wood, linen, tea, knit, brass, glass; lighting Warm amber lamp light, deep soft shadows and a subtle candlelit glow.; Premium editorial tabletop still life with tactile seasonal depth, restrained styling and cinematic warmth..\nFeeling: A quiet autumn colouring moment that opens onto an elegant, mysterious masquerade.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface with a smaller empty stretch at its lower corner. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product."
+          },
+          "direction": {
+            "id": "01-hero",
+            "job": "stop-scroll",
+            "purpose": "Stop the scroll by presenting an inviting, elegant Halloween colouring ritual centred on the manor masquerade artwork.",
+            "buyer_message": "Step into a cosy-spooky masquerade scene waiting for your colour.",
+            "emotional_goal": "Cosy anticipation and creative desire.",
+            "headline": "Colour the Masquerade",
+            "supporting_copy": "24 pages to print and colour",
+            "composition": "cb-lifestyle-hero",
+            "focal_asset": "page-2",
+            "supporting_assets": [
+              "page-1"
+            ],
+            "hierarchy": {
+              "primary": "A clearly labelled coloured Example of page-2, large and warmly illuminated.",
+              "secondary": "The real black-and-white page-2 and page-5, layered at gentle angles beside the Example.",
+              "tertiary": "Elegant serif headline and a quiet supporting line in the uncluttered upper-left."
+            },
+            "background": "environment",
+            "props": [
+              "knitted throw",
+              "mug of tea",
+              "wooden desk",
+              "scattered leaves",
+              "string lights"
+            ],
+            "crop": {
+              "asset": "page-2",
+              "focus": [
+                0.5,
+                0.55
+              ],
+              "zoom": 1.15
+            },
+            "text_zone": "top-left",
+            "scene_brief": "Rich walnut tabletop under warm amber lamp light, with a chunky cream knitted throw at one edge, a ceramic mug of tea, scattered autumn leaves and soft string-light bokeh in the distance. Create deep, calm seasonal atmosphere with an even, softly lit lower surface and an uncluttered upper-left area.",
+            "claims_used": [
+              "product-title",
+              "page-count",
+              "example"
+            ],
+            "avoid": [
+              "a fake page in the scene",
+              "text in the scene",
+              "fake artwork in the environment",
+              "text or lettering in the environment",
+              "flat overhead catalogue styling",
+              "crowded seasonal props",
+              "covering the focal illustration detail",
+              "unlabelled coloured artwork"
+            ],
+            "allowed_props": [
+              "coloured pencils",
+              "fine-liner pens",
+              "mug of tea",
+              "knitted throw",
+              "wooden desk",
+              "warm lamp",
+              "window light",
+              "candle",
+              "linen cloth",
+              "plant sprig",
+              "scattered leaves",
+              "string lights"
+            ],
+            "allowed_compositions": [
+              "cb-lifestyle-hero"
+            ],
+            "support": null,
+            "source": "model",
+            "fallbacks": [
+              "support"
+            ]
+          },
+          "campaign": {
+            "mood": "Cosy, elegant and ominous Halloween revelry with a refined gothic storybook atmosphere.",
+            "palette": "Ink black, antique ivory, walnut brown, muted pumpkin, oxblood, tarnished gold and soft candle amber.",
+            "lighting": "Warm cinematic lamp light with amber glow, gentle shadows and distant golden bokeh.",
+            "concept": {
+              "campaign_concept": "An Evening at Hollowbone Manor",
+              "emotional_hook": "A quiet autumn colouring moment that opens onto an elegant, mysterious masquerade.",
+              "buyer_feeling": [
+                "cosy",
+                "intrigued",
+                "creative",
+                "relaxed",
+                "ready for Halloween"
+              ],
+              "visual_world": {
+                "palette": "Ink black, antique ivory, walnut brown, muted pumpkin, oxblood, tarnished gold and soft candle amber.",
+                "materials": [
+                  "walnut wood",
+                  "linen",
+                  "tea",
+                  "knit",
+                  "brass",
+                  "glass"
+                ],
+                "lighting": "Warm amber lamp light, deep soft shadows and a subtle candlelit glow.",
+                "photography_style": "Premium editorial tabletop still life with tactile seasonal depth, restrained styling and cinematic warmth."
+              },
+              "hero_subject": "The Iron Gate opens into the gothic masquerade world, with elegant skeletal guests arriving at Hollowbone Manor.",
+              "strongest_pages": [
+                "page-2",
+                "page-5",
+                "page-8",
+                "page-14",
+                "page-19",
+                "page-25"
+              ],
+              "transformation_story": "Intricate black-and-white manor scenes invite personal colour choices, shown beside a clearly labelled coloured Example of the same page.",
+              "marketing_priority": "The atmospheric colouring experience and elegant Halloween artwork lead before file details.",
+              "avoid": [
+                "bright cartoon styling",
+                "generic printable layouts",
+                "tiny artwork previews",
+                "cluttered prop arrangements",
+                "fake photographic claims",
+                "text over detailed artwork",
+                "large empty cream areas"
+              ],
+              "source": "model",
+              "fallbacks": []
+            }
+          }
+        },
+        "ai-creative": {
+          "image": {
+            "file": "marketing/comparison/ai-creative/01-hero.png",
+            "sha256": "6b603a162d7cabda55ac150ac33d80b9af19664d8a11a203dbade600c08450a2"
+          },
+          "scene": {
+            "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+            "sha256": "831e9fc2834177468eccc110d0e7bdbb5e232749847b304436d6820f31fa56be",
+            "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Cosy, elegant and ominous Halloween revelry with a warm candlelit hush..\nPalette: Amber candlelight, walnut brown, parchment ivory, muted rust, deep charcoal and antique gold..\nLighting: Warm cinematic lamp light with soft golden bokeh and gentle dusk shadow..\nScene: Rich walnut desk in warm amber lamp light, with a chunky cream knit at one edge and a ceramic mug of tea nearby. A few scattered autumn leaves and soft string-light bokeh recede into a dusky, cinematic background; maintain an even, clear lower surface and a calm upper-left area.\nProps (plain materials only): knitted throw, mug of tea, wooden desk, scattered leaves, string lights.\nVisual world: palette Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.; materials wood, linen, tea, knit; lighting Low amber lamp glow with soft bokeh, shaped shadows and a quiet dusk undertone.; Premium editorial tabletop still life with tactile seasonal layers and intimate cinematic depth..\nFeeling: Step into a candlelit masquerade where ornate gothic scenes invite a slow, cosy colouring ritual.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface with a smaller empty stretch at its lower corner. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product."
+          },
+          "direction": {
+            "id": "01-hero",
+            "job": "stop-scroll",
+            "purpose": "Stop the scroll with an immersive, candlelit colouring moment centred on the elegant Halloween artwork.",
+            "buyer_message": "Enter a cosy-spooky masquerade and colour an ornate gothic scene.",
+            "emotional_goal": "Warm anticipation, creative desire and elegant Halloween escapism.",
+            "headline": "A Masquerade To Colour",
+            "supporting_copy": "24 pages to print and colour",
+            "composition": "cb-lifestyle-hero",
+            "focal_asset": "page-2",
+            "supporting_assets": [
+              "page-1"
+            ],
+            "hierarchy": {
+              "primary": "A warmly coloured, clearly labelled Example of The Iron Gate, large and visually dominant.",
+              "secondary": "The real black-and-white Iron Gate page layered beside the example, with the cover tucked behind.",
+              "tertiary": "Elegant serif headline and a brief invitation in the quiet upper-left area."
+            },
+            "background": "environment",
+            "props": [
+              "knitted throw",
+              "mug of tea",
+              "wooden desk",
+              "scattered leaves",
+              "string lights"
+            ],
+            "crop": {
+              "asset": "page-2",
+              "focus": [
+                0.5,
+                0.54
+              ],
+              "zoom": 1
+            },
+            "text_zone": "top-left",
+            "scene_brief": "Rich walnut desk in warm amber lamp light, with a chunky cream knit at one edge and a ceramic mug of tea nearby. A few scattered autumn leaves and soft string-light bokeh recede into a dusky, cinematic background; maintain an even, clear lower surface and a calm upper-left area.",
+            "claims_used": [
+              "product-title",
+              "page-count",
+              "example"
+            ],
+            "avoid": [
+              "a fake page in the scene",
+              "text in the scene",
+              "fake artwork in the environment",
+              "text within the environment",
+              "flat overhead lighting",
+              "crowded props",
+              "covering the gate or masked figures"
+            ],
+            "allowed_props": [
+              "coloured pencils",
+              "fine-liner pens",
+              "mug of tea",
+              "knitted throw",
+              "wooden desk",
+              "warm lamp",
+              "window light",
+              "candle",
+              "linen cloth",
+              "plant sprig",
+              "scattered leaves",
+              "string lights"
+            ],
+            "allowed_compositions": [
+              "cb-lifestyle-hero"
+            ],
+            "support": "Settle into a cosy evening of colouring.",
+            "source": "model",
+            "fallbacks": []
+          },
+          "campaign": {
+            "mood": "Cosy, elegant and ominous Halloween revelry with a warm candlelit hush.",
+            "palette": "Amber candlelight, walnut brown, parchment ivory, muted rust, deep charcoal and antique gold.",
+            "lighting": "Warm cinematic lamp light with soft golden bokeh and gentle dusk shadow.",
+            "concept": {
+              "campaign_concept": "An Evening at Hollowbone Manor",
+              "emotional_hook": "Step into a candlelit masquerade where ornate gothic scenes invite a slow, cosy colouring ritual.",
+              "buyer_feeling": [
+                "cosy",
+                "intrigued",
+                "creative",
+                "relaxed",
+                "delightfully spooky"
+              ],
+              "visual_world": {
+                "palette": "Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.",
+                "materials": [
+                  "wood",
+                  "linen",
+                  "tea",
+                  "knit"
+                ],
+                "lighting": "Low amber lamp glow with soft bokeh, shaped shadows and a quiet dusk undertone.",
+                "photography_style": "Premium editorial tabletop still life with tactile seasonal layers and intimate cinematic depth."
+              },
+              "hero_subject": "A masked skeletal pair approaches Hollowbone Manor through open wrought-iron gates.",
+              "strongest_pages": [
+                "page-2",
+                "page-5",
+                "page-14",
+                "page-16",
+                "page-19",
+                "page-25"
+              ],
+              "transformation_story": "The intricate monochrome gate scene is shown beside its warmly coloured example, preserving every line while bringing the masquerade mood to life.",
+              "marketing_priority": "The richly detailed, cosy-spooky colouring experience leads before file information.",
+              "avoid": [
+                "flat cream templates",
+                "tiny artwork previews",
+                "bright childish colours",
+                "cluttered collages",
+                "text over key illustration details",
+                "fake photographic claims"
+              ],
+              "source": "model",
+              "fallbacks": []
+            }
+          }
+        }
+      }
+    },
+    "engine": "ai-creative",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-10-07T19:03:59.867Z"
+    }
+  },
+  "etsy": {
+    "mode": "live",
+    "listing_id": 4590759428,
+    "shop_id": 46520279,
+    "payload_sha256": "7c4ab749e59173e105f6b5e57f81d208eea9075714b6b69a3fa5f8257fced498",
+    "verification": {
+      "passed": true,
+      "fingerprint": "5adaace14d24d6ee713218a430d5e73cf43c74ae428f532344478879faa96c0f",
+      "at": "2026-10-07T21:42:15.155Z"
+    },
+    "publish_request": null,
+    "published_at": null,
+    "listing_url": null
+  }
+}

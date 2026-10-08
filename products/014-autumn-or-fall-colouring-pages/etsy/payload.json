@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "product_id": "014",
+  "product_name": "Harvest Market: Autumn Colouring Pages",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Adult Autumn Colouring Book | Harvest Produce Market, Instant Digital Download",
+    "description": "Settle into a cosy autumn colouring session with harvest produce, leafy details and the gentle charm of a market display. These pages invite a calm, creative pause as the season turns. 🍂\n\nHarvest Market is an adult harvest market colouring book filled with clean monochrome illustrations. Graceful organic contours, botanical accents and broad open areas give you room to colour at an unhurried pace, while selected textures in foliage, woodgrain and natural surfaces add satisfying detail.\n\nPages to enjoy\n\nApple Crate Abundance centres on a slatted crate piled with apples, pears, small squash and herb bundles, framed by branches and leaves. Pumpkin and Squash Stall brings a tiered wooden stand of varied squash to life with curling vines and blossoms.\n\nFor a garden-inspired scene, Root Vegetable Barrow combines a vintage wheelbarrow of vegetables with a trowel, gloves and a quiet scatter of leaves. Late Harvest Table gathers bread, fruit, honey, dried wheat and grapes on a lightly patterned runner. 🌻\n\nMushroom and Woodland Basket offers mushrooms, chestnuts, linen, ferns, oak leaves and acorns in a natural decorative arrangement. Cornucopia of Garden Bounty spills apples, pears, corn, carrots and more from a woven horn, while Harvest Market Stall presents a symmetrical open-air display of produce in wooden crates.\n\nWhat you receive\n• 11 colouring pages\n• 12 pages including the cover\n• Black-and-white line art to colour in\n• A4 and US Letter PDF files\n• PNG pages for every page\n• Printing guide\n• 5 ZIP files of PDF and PNG files\n\nHow it works\n\nDownload the files, choose your preferred format, print the pages, and begin colouring. Each design has its own page, so you can print one page at a time or enjoy the book as a collection. 🖍️\n\nBring a little harvest warmth to a quiet creative afternoon, with wholesome market scenes ready for your own colour choices. Make a cup of something warm and enjoy the pages at your own pace.\n\nThis is an instant digital download. No physical item is shipped.",
+    "tags": [
+      "adult colouring",
+      "autumn colouring",
+      "colouring book",
+      "harvest colouring",
+      "fall colouring pages",
+      "seasonal colouring",
+      "garden colouring",
+      "food colouring",
+      "produce colouring",
+      "botanical line art",
+      "cosy colouring",
+      "relaxing activity",
+      "print at home"
+    ],
+    "materials": [
+      "Digital PDF",
+      "PNG pages",
+      "Printing guide",
+      "ZIP files"
+    ],
+    "price": {
+      "amount": 4.95,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 339,
+      "path": "Books, Movies & Music > Books > Coloring Books",
+      "source": "owner setting (etsy/settings.json), verified in Etsy seller taxonomy",
+      "approved_category": "Books Movies & Music > Books > Coloring Books"
+    }
+  },
+  "properties": {
+    "apply": [
+      {
+        "field": "primary_colour",
+        "property_id": 200,
+        "property_name": "Primary color",
+        "value_ids": [
+          1
+        ],
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "field": "secondary_colour",
+        "property_id": 52047899002,
+        "property_name": "Secondary color",
+        "value_ids": [
+          10
+        ],
+        "values": [
+          "White"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Autumn",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "1a68bc028dbe9915d287e1184482ae10af252f833f4f365d4fa9ecf0306595d3",
+      "bytes": 4361201,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "e03775a617e762a1935425b3d955dd0a21a5fc284cd9ade3024f55a10c2e5f3f",
+      "bytes": 2631787,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "c93b88563fedaac728d024399bee30420bb8ac65643bae47f7d0447ef67ce6dd",
+      "bytes": 2862233,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "35466f704261a097ff955fc414d419fc4fbf706424a362fe2763377f52c5f973",
+      "bytes": 3635520,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "0f2b57509895135df06c5bc1ac434d8491246a020dfd519b7a728d6c35c2764b",
+      "bytes": 3349708,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-included.png",
+      "sha256": "d82ce31364c38e16230b31119a7b08a3214d2c860bd3255af3ade8a169f40bc6",
+      "bytes": 1517849,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-printable.png",
+      "sha256": "50e6f7d82335d0faa17c49f14cb4dc260212a66514669147780d822269ff982e",
+      "bytes": 1204106,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-features.png",
+      "sha256": "c452ed6c9cf5ff1f0742b709b63667fb5ea181288d6c06cbd3284f299c9872c9",
+      "bytes": 2292969,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-lifestyle.png",
+      "sha256": "aa8ee31eb42395553d39ff2a7eebaca54565c95fc06e5591b62a0acbee8d0a28",
+      "bytes": 4250382,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "620b44eefc7561ace99be5a07f3bd86fe8a24f97e6e179895baf6accc1e48180",
+      "bytes": 2476965,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip",
+      "sha256": "9f3e544f66c50ebbe8e54b158657b93c668ab42f8afc357218041dd28fdbe1ef",
+      "bytes": 16846597
+    },
+    {
+      "rank": 2,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip",
+      "sha256": "05dd0a43553238c5926dcb295cb6d7fd2bc488370894802aa5d3f1c35b0e7a08",
+      "bytes": 16844164
+    },
+    {
+      "rank": 3,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip",
+      "sha256": "ec68f0fcec04ceadb748aec500f108818c7c1cd905f50156c045e60fc0585f6a",
+      "bytes": 6412919
+    },
+    {
+      "rank": 4,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip",
+      "sha256": "8a8bebdf63c854bb698512a8a77b0d69973735a301cd254313c5384951808853",
+      "bytes": 10340238
+    },
+    {
+      "rank": 5,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip",
+      "file": "etsy/delivery/Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip",
+      "sha256": "673e6b1bed8895ff5d67e4b3e670f9a358f2ea817a9b8855b3ed2d8cf9d1b92b",
+      "bytes": 9905094
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "78e3c77150f935f193dc73a61d0117b7d288da84887165065bd7ec1b63479e87",
+    "stage3_fingerprint": "08d21318a7218bd80a3a0c42e30e66604c766c04a969e882180382cf4fd905ed",
+    "listing_sha256": "74201cfe6f9c3b9b6abc2440b247208ca55e7ab1595edacf57cb3053f1d45df9",
+    "delivery_sha256": "745f5f83baac862876caeb86c46ea6f544d0452419f4d484c350b8eecaad81ff",
+    "marketing_approved_at": "2026-09-29T14:31:59.035Z"
+  },
+  "payload_sha256": "da93e7f9b6c41d540d1beca164ed377fbe46c227f893a632ed14c7faea3007e2",
+  "prepared_at": "2026-09-29T15:20:48.418Z"
+}

@@ -1,0 +1,326 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book",
+  "source_fingerprint": "a44f0e3ec8517e8e088143d44453564da4d720a87127f13a10c1973eaa22d009",
+  "build_record_sha256": "507362f67e509d39221b2a4d8d2a13a59761995e0be373e82e78ea845ae20089",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "14ce3d70b5b4c2ac34c2756dbedb5087308697a5b4be838d463108126b3db5b7",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip",
+      "sha256": "82e1180b6b96ca146279125a9aa117f7a447a4addd8e101707966ef8341e254b",
+      "bytes": 17160824,
+      "size": "17.16 MB",
+      "purpose": "2 files (guide, pdf), pages 1-8",
+      "label": "A4-Pages-01-08",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/START-HERE-Printing-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/START-HERE-Printing-Guide.pdf",
+          "sha256": "2ded6081d97add57ef6d7634cec7a9ba1c95288e7930e2af6d4a85e4e0201657",
+          "bytes": 2369
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+          "sha256": "5e525383702ab637c1403ffcf3cd4cfe9ff828a98915e54642f5a168655dd0b7",
+          "bytes": 17198845
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip",
+      "sha256": "9a4d5f3ef32d217a923aceb04606c3f6dce7f407a9b8d93b8d9e54bc21fb872c",
+      "bytes": 17158339,
+      "size": "17.16 MB",
+      "purpose": "1 file (pdf), pages 1-8",
+      "label": "US-Letter-Pages-01-08",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-1-Pages-01-08.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-1-Pages-01-08.pdf",
+          "sha256": "abfcb0adee18ceba2228da62d605f2b1f77348b1e6c4ed23f3ad475f5628fbbf",
+          "bytes": 17198866
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip",
+      "sha256": "92871b3bbc13bdf02232023199ad2a56bdfa89c515496f2802bbfb90c6ad78bf",
+      "bytes": 8618762,
+      "size": "8.62 MB",
+      "purpose": "2 files (pdf), pages 9-10",
+      "label": "A4-and-US-Letter-Pages-09-10",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf",
+          "sha256": "8b410d998f9b69818b74cb66ef8c27869c8ada9d69a4d722d6892d9240813c3e",
+          "bytes": 4314629
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-2-Pages-09-10.pdf",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-2-Pages-09-10.pdf",
+          "sha256": "bf798573ccda8b4819b73dbb437a5cdc714524c8ac06d964e51eee59c15cdd54",
+          "bytes": 4314629
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip",
+      "sha256": "457dd4662c341f5c8db6efece6cdea2197368f7748d2deac6ef1657492d9c804",
+      "bytes": 10939487,
+      "size": "10.94 MB",
+      "purpose": "5 files (page-png), pages 1-5",
+      "label": "Pages-PNG-Pages-01-05",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png",
+          "sha256": "e19a27e1a2bcc8d81072649240453aa3830d05a54e5ae1e9632b8d10839d4b92",
+          "bytes": 2371397
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png",
+          "sha256": "0d54bf06aa2ff94eb8a54e991ccbe240b0212f0392c6be61ee4868edc4b99218",
+          "bytes": 1913159
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png",
+          "sha256": "d4b92212274fd4d466919501eadc6168a0f98d4d950b9f75839d9a0d173e02c9",
+          "bytes": 2138033
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png",
+          "sha256": "c9532d5f31198817e61bdcb7a6ba6c606ba934450578284a54c0cc6352d212af",
+          "bytes": 2593113
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png",
+          "sha256": "9d27293f7388d30559a2908a611bce13b630db63b4aad5636e025b011283ca9b",
+          "bytes": 1972388
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip",
+      "sha256": "4b4641e822095f06301233364a476a38287bcd16da08891f836ea117cefc919c",
+      "bytes": 10559056,
+      "size": "10.56 MB",
+      "purpose": "5 files (page-png), pages 6-10",
+      "label": "Pages-PNG-Pages-06-10",
+      "contents": [
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png",
+          "sha256": "f0f099d3dc4a964c17dc62739d95a04a10ab74d1846e2f5b4c5338e33bdfabbe",
+          "bytes": 1902277
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png",
+          "sha256": "e2c73f229eeaacb675ae5b71326c136830c28de686bdea3fe4d3d4a54aedde22",
+          "bytes": 2216879
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png",
+          "sha256": "2101513780c70bb7c2a98e110c975314b82780114c4ff237974070dd3a3d6177",
+          "bytes": 2060895
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png",
+          "sha256": "1aab2b663183b0747deff813111422c71c1046e37da0172ca0705df5394d9185",
+          "bytes": 1918671
+        },
+        {
+          "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png",
+          "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png",
+          "sha256": "44893fa0b8c4973b15bd9ed82bf8d587af84752c05cc79f4e439f387671e54b6",
+          "bytes": 2510906
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/START-HERE-Printing-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/START-HERE-Printing-Guide.pdf",
+      "sha256": "2ded6081d97add57ef6d7634cec7a9ba1c95288e7930e2af6d4a85e4e0201657",
+      "bytes": 2369
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+      "sha256": "5e525383702ab637c1403ffcf3cd4cfe9ff828a98915e54642f5a168655dd0b7",
+      "bytes": 17198845
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf",
+      "sha256": "8b410d998f9b69818b74cb66ef8c27869c8ada9d69a4d722d6892d9240813c3e",
+      "bytes": 4314629
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-1-Pages-01-08.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-1-Pages-01-08.pdf",
+      "sha256": "abfcb0adee18ceba2228da62d605f2b1f77348b1e6c4ed23f3ad475f5628fbbf",
+      "bytes": 17198866
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-2-Pages-09-10.pdf",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-2-Pages-09-10.pdf",
+      "sha256": "bf798573ccda8b4819b73dbb437a5cdc714524c8ac06d964e51eee59c15cdd54",
+      "bytes": 4314629
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png",
+      "sha256": "e19a27e1a2bcc8d81072649240453aa3830d05a54e5ae1e9632b8d10839d4b92",
+      "bytes": 2371397
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png",
+      "sha256": "0d54bf06aa2ff94eb8a54e991ccbe240b0212f0392c6be61ee4868edc4b99218",
+      "bytes": 1913159
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png",
+      "sha256": "d4b92212274fd4d466919501eadc6168a0f98d4d950b9f75839d9a0d173e02c9",
+      "bytes": 2138033
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png",
+      "sha256": "c9532d5f31198817e61bdcb7a6ba6c606ba934450578284a54c0cc6352d212af",
+      "bytes": 2593113
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png",
+      "sha256": "9d27293f7388d30559a2908a611bce13b630db63b4aad5636e025b011283ca9b",
+      "bytes": 1972388
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png",
+      "sha256": "f0f099d3dc4a964c17dc62739d95a04a10ab74d1846e2f5b4c5338e33bdfabbe",
+      "bytes": 1902277
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png",
+      "sha256": "e2c73f229eeaacb675ae5b71326c136830c28de686bdea3fe4d3d4a54aedde22",
+      "bytes": 2216879
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png",
+      "sha256": "2101513780c70bb7c2a98e110c975314b82780114c4ff237974070dd3a3d6177",
+      "bytes": 2060895
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png",
+      "sha256": "1aab2b663183b0747deff813111422c71c1046e37da0172ca0705df5394d9185",
+      "bytes": 1918671
+    },
+    {
+      "entry": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png",
+      "source": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png",
+      "sha256": "44893fa0b8c4973b15bd9ed82bf8d587af84752c05cc79f4e439f387671e54b6",
+      "bytes": 2510906
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip 17160824 bytes, Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip 17158339 bytes, Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip 8618762 bytes, Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip 10939487 bytes, Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip 10559056 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip 17.16 MB, Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip 17.16 MB, Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip 8.62 MB, Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip 10.94 MB, Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip 10.56 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "5 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip, Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip, Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip, Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip, Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-06T15:00:21.537Z"
+}

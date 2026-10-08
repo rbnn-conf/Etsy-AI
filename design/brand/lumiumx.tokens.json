@@ -1,0 +1,134 @@
+{
+  "$schema": "../schemas/DESIGN_SPEC.schema.json#/$defs/tokenLibrary",
+  "token_library_version": "1.0.0",
+  "brand": "LumiumX",
+  "design_category": "Premium Editorial Finance",
+  "one_line_brief": "Premium editorial stationery brand meets modern digital productivity tools. Minimal + Warm + Editorial + Functional + Premium. Not Colourful + Cluttered + Generic + Over-designed.",
+  "note": "This is the CANONICAL machine-readable LumiumX design foundation. It consolidates docs/LUMIUMX_ETSY_DESIGN_SYSTEM.md (the brand), docs/design/COLOUR.md, docs/design/TYPOGRAPHY.md and docs/design/LAYOUT.md. Where earlier files disagreed on exact hex values, the values here win (see design/brand/LUMIUMX_DESIGN_SYSTEM.md section 'Resolved conflicts'). A product DESIGN_SPEC inherits these and overrides only with a stated reason.",
+
+  "colour": {
+    "background": "#FAF7F2",
+    "background_alt": "#F2ECE1",
+    "surface": "#FFFFFF",
+    "primary_ink": "#1F1F1F",
+    "secondary_ink": "#3A3A3A",
+    "border": "#E6E1D9",
+    "accent": {
+      "finance": "#C4644A",
+      "planning": "#C4644A",
+      "productivity": "#7E8A7B",
+      "wellness": "#7E8A7B",
+      "bundles": ["#1F1F1F", "#C4644A"]
+    },
+    "semantic_workbook_only": {
+      "positive": "#2F7A3F",
+      "warning": "#B23B3B"
+    },
+    "ratio_target": {
+      "background": 0.60,
+      "surface": 0.20,
+      "ink": 0.15,
+      "accent": 0.05
+    },
+    "rules": [
+      "One accent per asset, 3-5 deliberate placements. Count before shipping; >6 is a failure.",
+      "Never pure black (#000000).",
+      "Accent is never body text, never a currency value, never a table grid line, never a large fill.",
+      "Semantic colours exist ONLY inside the functional workbook (conditional formatting), never in marketing or print."
+    ]
+  },
+
+  "typography": {
+    "display": {
+      "family": "Spectral",
+      "fallback": "Playfair Display, 'Iowan Old Style', Georgia, serif",
+      "weights": [400, 600],
+      "roles": ["brand wordmark", "product / page titles", "editorial statements", "one emphasised feature figure"]
+    },
+    "body": {
+      "family": "Inter",
+      "fallback": "-apple-system, 'Segoe UI', Roboto, sans-serif",
+      "weights": [400, 600],
+      "roles": ["body", "labels", "meta", "numbers", "UI-style text"]
+    },
+    "rules": [
+      "Two families maximum. A reader must be able to name the register from the typeface alone.",
+      "No display line set in Inter Bold - that is the #1 tell of template design in this category.",
+      "Hierarchy from size (>=1.5x jumps), then weight (400 vs 600), then case+tracking, then space. Never colour.",
+      "Avoid weights above 600.",
+      "Negative tracking on large display (-0.005 to -0.02em); positive tracking on small uppercase labels (0.08-0.22em); zero on body.",
+      "Never letter-space lowercase body text."
+    ],
+    "scale_listing_px": {
+      "hero_title": [108, 140],
+      "section_heading": [56, 72],
+      "kicker": [24, 30],
+      "lead": [34, 40],
+      "body": [28, 34],
+      "label": [22, 26],
+      "kpi_figure": [72, 110],
+      "footnote": [20, 24]
+    },
+    "scale_print_pt": {
+      "page_title": [16, 20],
+      "section_label": [10, 12],
+      "body": 10,
+      "label": [8, 9],
+      "footer": 8
+    }
+  },
+
+  "layout": {
+    "listing_canvas_px": [2000, 2000],
+    "listing_grid": { "columns": 12, "margin_px": 140, "gutter_px": 40, "baseline_px": 8 },
+    "print_formats": ["a4", "us_letter"],
+    "print_margin_floor_mm": 10,
+    "spacing_scale_mm": [2, 4, 8, 12, 16],
+    "rules": [
+      "Start from the grid, then break it on purpose - asymmetry creates energy, dead-centred everything reads as a template.",
+      "Every asset has ONE focal point, unambiguously dominant via size + contrast + isolation.",
+      "Structure from hairline rules and whitespace, not from bordered cards. No boxes.",
+      "Hold a small number of alignment edges ruthlessly.",
+      "Vary composition and density across a listing set; keep margins, type scale, palette, kicker motif and mockup lighting constant.",
+      "Whitespace frames a focal point or separates groups - never an undesigned void between a heading and centred content."
+    ]
+  },
+
+  "components": {
+    "kicker": "Small accent mark (2px rule or a dot) + tracked UPPERCASE label. The recurring motif that ties a page/asset together.",
+    "section_divider": "Tracked-caps label on a full-width Stone hairline. No fill.",
+    "hairline_table": "Horizontal rules only; vertical rules only between semantically distinct column groups. Stone or ink hairline, never accent.",
+    "kpi_figure": "Large tabular figure + small label + one hairline. No boxed tint.",
+    "feature_panel": "One number that reads as the headline result: top accent rule + serif label + value + italic caption.",
+    "input_cell": "Faint warm fill (#FFFDF4) distinct from calculated cells; black ink on it must clear 12:1.",
+    "checkbox": "Square, ~4mm, 0.75pt stroke. Never circular, never accent-filled.",
+    "progress_strip": "Hand-shaded strip; the only permitted accent fill, and only because it encodes user data.",
+    "brand_mark": "Small 'LX' monogram or 'LUMIUMX' wordmark, one corner, quiet.",
+    "mockup_frame": "Thin Stone border, one soft warm directional shadow, slight tilt (~-1.6deg). No browser chrome, no traffic-light dots."
+  },
+
+  "avoid": [
+    "generic SaaS dashboard aesthetics",
+    "generic spreadsheet appearance / looks like an Excel template",
+    "excessive rounded cards",
+    "icon glyphs in tinted rounded squares",
+    "emoji, cartoon illustrations, clipart, childish visuals",
+    "rainbow palettes, excessive pastels, loud gradients, neon",
+    "excessive shadows / glassmorphism",
+    "fake browser chrome around a screenshot",
+    "the same block repeated down the page (heading -> card -> card -> card -> footer)",
+    "accent sprinkled on every component",
+    "a big heading then a dead vertical gap then centred content",
+    "body copy that is a raw spec sentence with mid-word line breaks",
+    "overly dense layouts"
+  ],
+
+  "family_accents": {
+    "finance": "#C4644A",
+    "planning": "#C4644A",
+    "productivity": "#7E8A7B",
+    "wellness": "#7E8A7B",
+    "bundles": "ink + terracotta",
+    "seasonal": "one controlled seasonal accent; background and type unchanged"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "fixture": "REAL completed research cycle (Cozy Autumn, 2026-09-29), capture 2 of 2: the two outstanding P1 queries. related_terms are discovery metadata only (ADR-034), never evidence; their figures are Etsy-rounded.",
+  "recorded_at": "2026-09-29T00:00:00.000Z",
+  "recorded_by": "owner",
+  "note": "Real P1 captures 2026-09-29",
+  "rows": [
+    {
+      "keyword": "autumn coloring pages",
+      "searches_30d": 641,
+      "search_results": 12900,
+      "conversion_label": "very_high",
+      "trend_percent": 18.5,
+      "captured_at": "2026-09-29",
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Window 30 Aug-28 Sep. searches_30d = Etsy headline 641 = exact sum of the 30 daily counts. search_results: Etsy displayed the rounded value \"12.9k\". Conversion 'Very high'. Trend +18.5%."
+      },
+      "related_terms": [
+        {
+          "term": "halloween coloring pages",
+          "searches_30d": 5000,
+          "search_results": 25500,
+          "conversion_label": "high"
+        },
+        {
+          "term": "fall coloring pages",
+          "searches_30d": 2300,
+          "search_results": 31200,
+          "conversion_label": "very_high"
+        },
+        {
+          "term": "fall digital download",
+          "searches_30d": 1900,
+          "search_results": 794100,
+          "conversion_label": "high"
+        },
+        {
+          "term": "fall crafts for kids",
+          "searches_30d": 1300,
+          "search_results": 311700,
+          "conversion_label": "typical"
+        },
+        {
+          "term": "autumn coloring book",
+          "searches_30d": 673,
+          "search_results": 8500,
+          "conversion_label": "typical"
+        },
+        {
+          "term": "thanksgiving coloring pages",
+          "searches_30d": 623,
+          "search_results": 10400,
+          "conversion_label": "very_high"
+        },
+        {
+          "term": "fall digital art",
+          "searches_30d": 609,
+          "search_results": 854900,
+          "conversion_label": "high"
+        },
+        {
+          "term": "fall craft ideas",
+          "searches_30d": 564,
+          "search_results": 208500,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "autumn digital download",
+          "searches_30d": 542,
+          "search_results": 430200,
+          "conversion_label": "high"
+        }
+      ]
+    },
+    {
+      "keyword": "cozy coloring pages",
+      "searches_30d": 1359,
+      "search_results": 38400,
+      "conversion_label": "high",
+      "trend_percent": 3.8,
+      "captured_at": "2026-09-29",
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Window 30 Aug-28 Sep. searches_30d = exact sum of the 30 daily counts as pasted (1359); Etsy headline displayed \"1.4k\" (consistent: 1350-1449). The owner's message stated the sum as 1330, which does not match the pasted daily values; recorded the verified sum. search_results: Etsy displayed the rounded value \"38.4k\". Conversion 'High'. Trend +3.8%."
+      },
+      "related_terms": [
+        {
+          "term": "craft supplies",
+          "searches_30d": 44300,
+          "search_results": 2600000,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "printable wall art",
+          "searches_30d": 20100,
+          "search_results": 2300000,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "seasonal decor",
+          "searches_30d": 7700,
+          "search_results": 1900000,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "adult coloring pages",
+          "searches_30d": 4300,
+          "search_results": 138500,
+          "conversion_label": "high"
+        },
+        {
+          "term": "black and white art",
+          "searches_30d": 4100,
+          "search_results": 1200000,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "cozy home decor",
+          "searches_30d": 3200,
+          "search_results": 531000,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "downloadable art",
+          "searches_30d": 2900,
+          "search_results": 695700,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "kids coloring pages",
+          "searches_30d": 2600,
+          "search_results": 231200,
+          "conversion_label": "high"
+        },
+        {
+          "term": "digital art prints",
+          "searches_30d": 2300,
+          "search_results": 3900000,
+          "conversion_label": "very_low"
+        }
+      ]
+    }
+  ]
+}

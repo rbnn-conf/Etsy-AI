@@ -1,0 +1,31 @@
+{
+  "illustration_style": "Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.",
+  "line_weight": "Branding ornaments and dividers only, never the crochet product: Fine, delicate linework for branding ornaments only; no drawn outlines on crocheted products.",
+  "line_quality": "Branding ornaments and dividers only, never the crochet product: Graceful botanical ink accents with softly feathered watercolour edges; not applicable to product photography.",
+  "detail_level": "Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.",
+  "character_language": "not applicable",
+  "background_density": "Minimal neutral linen or softly styled interior surfaces, with sparse botanical framing and generous visual breathing room.",
+  "composition": "Clear editorial hierarchy with one large product focal point, quiet supporting details and reserved space for elegant cover or section typography.",
+  "palette": "Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.",
+  "colour_mode": "full colour",
+  "shading": "Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.",
+  "texture": "Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.",
+  "mood": "Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel.",
+  "age_suitability": "adults",
+  "print_considerations": "Portrait PDF artwork designed for home printing on A4 or US Letter. Keep typography high contrast, use light cream backgrounds to limit ink coverage, and retain comfortable safe areas away from trim edges.",
+  "shared_prompt": "Premium crochet pattern collection: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography. Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.",
+  "avoid": [
+    "Copying recognisable characters, logos, trademarks or distinctive existing product layouts",
+    "Watercolour, vector, flat illustration or digitally painted treatment on crocheted pieces",
+    "Cluttered props, harsh flash lighting, heavy shadows or busy backgrounds",
+    "Unreadable, misspelled or overly decorative text",
+    "Claims that rendered pieces are test-made physical items or included physical goods",
+    "Stitch diagrams, charts or written instructions inside the artwork"
+  ],
+  "version": 2,
+  "scope": "shared-style",
+  "source": "restyle",
+  "based_on_references": [],
+  "feedback_applied": "Restyle: realistic crochet product, illustrated branding only (ADR-043).",
+  "created_at": "2026-10-07T23:46:15.105Z"
+}

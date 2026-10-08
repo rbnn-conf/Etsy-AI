@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "product_id": "017",
+  "product_name": "Autumn Railway Journey Colouring Book",
+  "product_type": "Autumn colouring book",
+  "product_format": "colouring-book",
+  "season": "Autumn",
+  "target_customer": "Families and children ages 6+ who enjoy transport and storybook colouring",
+  "book": {
+    "page_count": 10,
+    "colouring_pages": 9,
+    "cover": true,
+    "orientation": "landscape",
+    "page_px": [
+      1536,
+      1024
+    ],
+    "non_colouring_pages": [
+      {
+        "page_number": 1,
+        "kind": "cover",
+        "title": "Autumn Railway Journey"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "title": "Autumn Railway Journey",
+      "role": "cover",
+      "page_type": "cover",
+      "asset": "P001",
+      "file": "book/pages/P001.png",
+      "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-01-Cover.png"
+    },
+    {
+      "page_number": 2,
+      "title": "Ticket Booth Arrival",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P002",
+      "file": "book/pages/P002.png",
+      "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-02.png"
+    },
+    {
+      "page_number": 3,
+      "title": "Luggage Trolley",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P003",
+      "file": "book/pages/P003.png",
+      "sha256": "d86e4bc37c0a3b9adafac2f0b33c73f19be1a3ceb6d3889443cccce555906611",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-03.png"
+    },
+    {
+      "page_number": 4,
+      "title": "Platform Farewell",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P004",
+      "file": "book/pages/P004.png",
+      "sha256": "9a3beaefd6ccf3f380a388db616ef67677d5b3347c3f4e4eebda39a173e07733",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-04.png"
+    },
+    {
+      "page_number": 5,
+      "title": "Dining Carriage Picnic",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P005",
+      "file": "book/pages/P005.png",
+      "sha256": "546f55d575485e38c45351e543e452297a874620049c22692bb8c8dad442a00d",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-05.png"
+    },
+    {
+      "page_number": 6,
+      "title": "Woodland Tunnel",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P006",
+      "file": "book/pages/P006.png",
+      "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-06.png"
+    },
+    {
+      "page_number": 7,
+      "title": "Signal Box Wave",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P007",
+      "file": "book/pages/P007.png",
+      "sha256": "d26b9320dd4a877b587458aa9927025210cc737db862c7d54ff47dc7b7109ae2",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-07.png"
+    },
+    {
+      "page_number": 8,
+      "title": "Lakeside Stop",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P008",
+      "file": "book/pages/P008.png",
+      "sha256": "50eb03236472062b6278425035d2ab695e24685db7d8aceed346b0ebf7b65deb",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-08.png"
+    },
+    {
+      "page_number": 9,
+      "title": "Apple Orchard Station",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P009",
+      "file": "book/pages/P009.png",
+      "sha256": "0dbfeb72529b3bbef4b76f865dbc56f15ca81f31dd4469ea60938e96a16dca85",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-09.png"
+    },
+    {
+      "page_number": 10,
+      "title": "Evening Journey Home",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P010",
+      "file": "book/pages/P010.png",
+      "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745",
+      "width": 1536,
+      "height": 1024,
+      "delivered": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-10.png"
+    }
+  ],
+  "selection": {
+    "cover": 1,
+    "lead": 1,
+    "showcase": [
+      2,
+      6,
+      10
+    ],
+    "collage": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "example": 2,
+    "pages_used": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 1,
+      "pages": 10,
+      "page_size_mm": [
+        297,
+        210
+      ],
+      "artwork_size_mm": [
+        277,
+        184.7
+      ]
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 1,
+      "pages": 10,
+      "page_size_mm": [
+        279.4,
+        215.9
+      ],
+      "artwork_size_mm": [
+        259.4,
+        172.9
+      ]
+    },
+    {
+      "key": "Colouring-Pages-PNG",
+      "label": "PNG pages",
+      "files": 10,
+      "pages": 10
+    }
+  ],
+  "png_pages": true,
+  "png_page_files": 10,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Autumn-Railway-Journey-Colouring-Book/START-HERE-Printing-Guide.pdf",
+    "sha256": "9c36967fd8aad911e07bdea6b7e5528cc12c681ec500661dfea94604d53eac01"
+  },
+  "sheet_preview": {
+    "file": "production/previews/preview-01-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p1.png",
+    "sha256": "3a4d35991859e03d0746695f14da6cbf03b3090d4e309bdd25978b3594b2212f",
+    "label": "Cover (A4)"
+  },
+  "line_art": true,
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book",
+    "parts": 3,
+    "zip_mb": 39.6
+  },
+  "effective_ppi": {
+    "A4": 141,
+    "US-Letter": 150
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 1,
+      "sha256": "3a4d35991859e03d0746695f14da6cbf03b3090d4e309bdd25978b3594b2212f"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p2.png",
+      "label": "Page 2 of 10 (A4)",
+      "source": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 2,
+      "sha256": "d4d645f1bceb25b36ec30b58d90f86cfcc2f1c9724165deadae705a7f16bae47"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p10.png",
+      "label": "Page 10 of 10 (A4)",
+      "source": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 10,
+      "sha256": "684254ed0289305f83ecaded3760bcb31fcb651a99efd945728949a41603aee2"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "label": "Contact sheet: all 10 pages in order",
+      "source": null,
+      "page": null,
+      "sha256": "0bc4ff508e9154ea2f289b3cb30a202be4d780256d62d62e39242cd58575c19f"
+    }
+  ],
+  "page_quantity": {
+    "total_pages": 10,
+    "content_pages": 9,
+    "content": "colouring"
+  },
+  "style": {
+    "subject": "Train travellers",
+    "palette": "Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.",
+    "mood": "Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "615f9c02617333b92254f4f8b77911c10e4fcb3305f9d06064ae3adb51a94c7d"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "e1a6d6cc6bf931d051bd58a49c02704c0cee7cda360aaa9d0819254a3d0cd166"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "dabb07393f0c9c3fdaf19aed206f4fd31c814b50c682429582939fba7858cbe3"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Train travellers",
+      "scene": "Autumn countryside railway",
+      "emotional_tone": "Adventurous, nostalgic and peaceful",
+      "illustration_style": "Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.",
+      "mood": "Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.",
+      "detail": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures."
+    },
+    "pages": {
+      "2": {
+        "title": "Ticket Booth Arrival",
+        "description": "A child traveller and an adult stand beside a simple ticket-booth window holding two plain tickets. A friendly station helper leans from the booth, while a small steam locomotive waits in the background beside a platform lamp, suitcase and two rounded autumn trees.",
+        "source": "approved page brief (page 2)"
+      },
+      "3": {
+        "title": "Luggage Trolley",
+        "description": "A smiling porter pushes a sturdy trolley carrying exactly four clearly separate pieces of luggage: one trunk, one round hatbox, one rectangular suitcase and one small travel bag. A child walks alongside holding a leaf, with the train carriage, platform edge and a few autumn shrubs behind them.",
+        "source": "approved page brief (page 3)"
+      },
+      "4": {
+        "title": "Platform Farewell",
+        "description": "The vintage steam train pauses at a country platform. A child leans from an open carriage window waving to two relatives on the platform, while another traveller stands at the carriage door with a small bag. A station clock without numbers, a bench, fallen leaves and a low hedge complete the scene.",
+        "source": "approved page brief (page 4)"
+      },
+      "5": {
+        "title": "Dining Carriage Picnic",
+        "description": "Inside a dining carriage, two child travellers sit at a table looking out of a large window at passing autumn trees. On the table are exactly three simple food items: a round apple, a sandwich triangle and a small cup. A friendly conductor walks down the aisle carrying a plain teapot.",
+        "source": "approved page brief (page 5)"
+      },
+      "6": {
+        "title": "Woodland Tunnel",
+        "description": "The locomotive emerges from a rounded brick tunnel portal surrounded by tall woodland trees. Large falling leaves swirl above the track, a rabbit watches from a grassy bank, and the train’s puffing steam forms three large cloud shapes in the open sky area.",
+        "source": "approved page brief (page 6)"
+      },
+      "7": {
+        "title": "Signal Box Wave",
+        "description": "A friendly signal worker waves from the doorway of a small raised signal box as the steam train passes below. Beside the track stands a semaphore signal with its arm angled upward, while a cat sits on the signal-box steps and autumn fields stretch into the distance.",
+        "source": "approved page brief (page 7)"
+      },
+      "8": {
+        "title": "Lakeside Stop",
+        "description": "The train stops at a tiny lakeside platform while three ducks float on the water. Two travellers stand beside the carriage looking across the lake towards a small rowboat and distant hills. Reeds, a wooden bench and a large maple tree frame the open water.",
+        "source": "approved page brief (page 8)"
+      },
+      "9": {
+        "title": "Apple Orchard Station",
+        "description": "At a small rural station, a child traveller carries a basket containing exactly five large apples. Behind the platform are three apple trees with simple rounded canopies, while the waiting train and a friendly farmer waving from an orchard gate create a gentle layered scene.",
+        "source": "approved page brief (page 9)"
+      },
+      "10": {
+        "title": "Evening Journey Home",
+        "description": "The vintage steam train curves through gentle hills towards a small distant station in the evening. Three travellers wave from large carriage windows, while a crescent moon, five simple stars and a line of autumn trees sit above the tracks. A fox watches from the foreground grass.",
+        "source": "approved page brief (page 10)"
+      }
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Autumn Railway Journey Colouring Book"
+    ],
+    "page-count": [
+      "10 pages",
+      "10 printable pages",
+      "10-page",
+      "9 colouring pages",
+      "9 printable colouring pages",
+      "9 pages",
+      "9 designs",
+      "9 illustrations",
+      "9 colouring pages + cover",
+      "9 colouring pages and a cover",
+      "ten pages",
+      "nine colouring pages",
+      "10",
+      "9"
+    ],
+    "page-number": [
+      "Page 1 of 10",
+      "Page 2 of 10",
+      "Page 3 of 10",
+      "Page 4 of 10",
+      "Page 5 of 10",
+      "Page 6 of 10",
+      "Page 7 of 10",
+      "Page 8 of 10",
+      "Page 9 of 10",
+      "Page 10 of 10"
+    ],
+    "page-title": [
+      "Autumn Railway Journey",
+      "Ticket Booth Arrival",
+      "Luggage Trolley",
+      "Platform Farewell",
+      "Dining Carriage Picnic",
+      "Woodland Tunnel",
+      "Signal Box Wave",
+      "Lakeside Stop",
+      "Apple Orchard Station",
+      "Evening Journey Home"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "PNG pages",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "PDF",
+      "PNG pages",
+      "Every page as a PNG",
+      "PDF and PNG files",
+      "Individual PNG pages"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Colour",
+      "Print at home or use a print shop",
+      "One design per page",
+      "Print single-sided",
+      "Print as many copies as you need for personal use"
+    ],
+    "example": [
+      "Coloured example",
+      "Coloured example for inspiration",
+      "Colours shown are an example only"
+    ],
+    "cover": [
+      "Cover page",
+      "Cover included",
+      "Illustrated cover"
+    ],
+    "line-art": [
+      "Black-and-white line art",
+      "Black and white line art",
+      "Line art"
+    ]
+  }
+}

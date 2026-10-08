@@ -1,0 +1,1149 @@
+{
+  "schema_version": 2,
+  "product_id": "017",
+  "handoff_sha256": "615f9c02617333b92254f4f8b77911c10e4fcb3305f9d06064ae3adb51a94c7d",
+  "adapter": {
+    "format": "colouring-book",
+    "design": "standard",
+    "design_name": "Standard",
+    "version": 1
+  },
+  "image_encoding": {
+    "pdf": "lossless",
+    "pages_png": true
+  },
+  "package": "LumiumX-Autumn-Railway-Journey-Colouring-Book",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Colouring-Pages-PNG",
+    "Guide"
+  ],
+  "card_variants": null,
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 2,
+      "label": "Page 2 of 10 (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 10,
+      "label": "Page 10 of 10 (A4)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "9c36967fd8aad911e07bdea6b7e5528cc12c681ec500661dfea94604d53eac01",
+      "bytes": 2273,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "5d938393a8e12934063c808fde371d3e472eb2995a4aff95b8b8923c8e39936d",
+      "bytes": 13222633,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "d86e4bc37c0a3b9adafac2f0b33c73f19be1a3ceb6d3889443cccce555906611"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "9a3beaefd6ccf3f380a388db616ef67677d5b3347c3f4e4eebda39a173e07733"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "546f55d575485e38c45351e543e452297a874620049c22692bb8c8dad442a00d"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "d26b9320dd4a877b587458aa9927025210cc737db862c7d54ff47dc7b7109ae2"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "50eb03236472062b6278425035d2ab695e24685db7d8aceed346b0ebf7b65deb"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "0dbfeb72529b3bbef4b76f865dbc56f15ca81f31dd4469ea60938e96a16dca85"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745"
+        }
+      ],
+      "expect": {
+        "pages": 10,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            297,
+            210
+          ],
+          "box_mm": [
+            277,
+            184.67
+          ],
+          "placed_mm": [
+            277,
+            184.67
+          ],
+          "offset_mm": [
+            10,
+            12.67
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Autumn-Railway-Journey-Colouring-Book-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "b6b0b338829eba1fcf4fd0bedab92343b408fbfb4f4de8c863fbd05a5d90293d",
+      "bytes": 13222653,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "d86e4bc37c0a3b9adafac2f0b33c73f19be1a3ceb6d3889443cccce555906611"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "9a3beaefd6ccf3f380a388db616ef67677d5b3347c3f4e4eebda39a173e07733"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "546f55d575485e38c45351e543e452297a874620049c22692bb8c8dad442a00d"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "d26b9320dd4a877b587458aa9927025210cc737db862c7d54ff47dc7b7109ae2"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "50eb03236472062b6278425035d2ab695e24685db7d8aceed346b0ebf7b65deb"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "0dbfeb72529b3bbef4b76f865dbc56f15ca81f31dd4469ea60938e96a16dca85"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745"
+        }
+      ],
+      "expect": {
+        "pages": 10,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            279.4,
+            215.9
+          ],
+          "box_mm": [
+            259.4,
+            172.93
+          ],
+          "placed_mm": [
+            259.4,
+            172.93
+          ],
+          "offset_mm": [
+            10,
+            21.48
+          ],
+          "source_px": [
+            1536,
+            1024
+          ],
+          "source_aspect": 1.5,
+          "placed_aspect": 1.5,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-01-Cover.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 1,
+      "sha256": "b15297eadbf0b68bdcd63391bbf9d30e984ca70f9a2174415f0b5ff6354b4d59",
+      "bytes": 1336137,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P001"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-02.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 2,
+      "sha256": "21c69965c366eaf8a09df3d92004fa6b2cfaa02a969430b57b391d71640dab15",
+      "bytes": 1292192,
+      "sources": [
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P002"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-03.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 3,
+      "sha256": "cd07a09d25591c59a34d0e31348477d73772a90614d1f97068ab0d565650d677",
+      "bytes": 1274886,
+      "sources": [
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "d86e4bc37c0a3b9adafac2f0b33c73f19be1a3ceb6d3889443cccce555906611"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P003"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-04.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 4,
+      "sha256": "275226da6f6fbe2a0dff08c591afff3e55c03a0d4a712dc6441ecd50595ecda9",
+      "bytes": 1307736,
+      "sources": [
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "9a3beaefd6ccf3f380a388db616ef67677d5b3347c3f4e4eebda39a173e07733"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P004"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-05.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 5,
+      "sha256": "8d44b3902f425cef06c987e9db975db37f9fbbbf2b451d4d6ba37326d83c8fd7",
+      "bytes": 1303762,
+      "sources": [
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "546f55d575485e38c45351e543e452297a874620049c22692bb8c8dad442a00d"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P005"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-06.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 6,
+      "sha256": "c15242d72c09a15323289264b7ef788261251345f52f353fb8cd66b1fefe10cd",
+      "bytes": 1369942,
+      "sources": [
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P006"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-07.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 7,
+      "sha256": "bb25b6c2785e9606e52853b46b40a0bdbc76fbf54ef141dfa2f5e74cedd959eb",
+      "bytes": 1379249,
+      "sources": [
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "d26b9320dd4a877b587458aa9927025210cc737db862c7d54ff47dc7b7109ae2"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P007"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-08.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 8,
+      "sha256": "c06d678cfcdec8d8b3833c6b49e742cfdc362ff89b1f58a1ba3580f1b8b2dd2a",
+      "bytes": 1298837,
+      "sources": [
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "50eb03236472062b6278425035d2ab695e24685db7d8aceed346b0ebf7b65deb"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P008"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-09.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 9,
+      "sha256": "36d9fc7611290caba34e13757bd41aae373f3cde07a41e25d5711b8a1de36afd",
+      "bytes": 1327757,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "0dbfeb72529b3bbef4b76f865dbc56f15ca81f31dd4469ea60938e96a16dca85"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P009"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-10.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 10,
+      "sha256": "473580b3f18be263d21dd9d94d0be4c13dc34ddbc625d5bbb1ef21e7561de5b2",
+      "bytes": 1342794,
+      "sources": [
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P010"
+      },
+      "placements": []
+    }
+  },
+  "zip": null,
+  "book": {
+    "pages": 10,
+    "pages_png": true,
+    "pdf_encoding": "lossless"
+  },
+  "volumes": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  ],
+  "stage3_handoff": {
+    "product_format": "colouring-book",
+    "product_type": "Autumn colouring book",
+    "page_count": 10,
+    "cover": true,
+    "colouring_pages": 9,
+    "page_px": [
+      1536,
+      1024
+    ],
+    "orientation": "landscape",
+    "formats": [
+      {
+        "key": "A4",
+        "label": "A4",
+        "files": 1,
+        "pages": 10,
+        "page_size_mm": [
+          297,
+          210
+        ],
+        "artwork_size_mm": [
+          277,
+          184.7
+        ]
+      },
+      {
+        "key": "US-Letter",
+        "label": "US Letter",
+        "files": 1,
+        "pages": 10,
+        "page_size_mm": [
+          279.4,
+          215.9
+        ],
+        "artwork_size_mm": [
+          259.4,
+          172.9
+        ]
+      },
+      {
+        "key": "Colouring-Pages-PNG",
+        "label": "PNG pages",
+        "files": 10,
+        "pages": 10
+      }
+    ],
+    "representative_pages": [
+      {
+        "page_number": 1,
+        "title": "Autumn Railway Journey",
+        "role": "cover",
+        "asset": "P001",
+        "file": "book/pages/P001.png",
+        "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893",
+        "width": 1536,
+        "height": 1024,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-01-Cover.png"
+      },
+      {
+        "page_number": 2,
+        "title": "Ticket Booth Arrival",
+        "role": "page",
+        "asset": "P002",
+        "file": "book/pages/P002.png",
+        "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351",
+        "width": 1536,
+        "height": 1024,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-02.png"
+      },
+      {
+        "page_number": 6,
+        "title": "Woodland Tunnel",
+        "role": "page",
+        "asset": "P006",
+        "file": "book/pages/P006.png",
+        "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9",
+        "width": 1536,
+        "height": 1024,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-06.png"
+      },
+      {
+        "page_number": 10,
+        "title": "Evening Journey Home",
+        "role": "page",
+        "asset": "P010",
+        "file": "book/pages/P010.png",
+        "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745",
+        "width": 1536,
+        "height": 1024,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-10.png"
+      }
+    ],
+    "package_contents": [
+      {
+        "item": "START-HERE-Printing-Guide.pdf",
+        "files": 1
+      },
+      {
+        "item": "A4",
+        "files": 1
+      },
+      {
+        "item": "US-Letter",
+        "files": 1
+      },
+      {
+        "item": "Colouring-Pages-PNG",
+        "files": 10
+      }
+    ],
+    "note": "Real product imagery for marketing must be these approved page files (or true renders of the customer PDFs); never a redrawn page."
+  },
+  "zip_parts": [
+    {
+      "part": 1,
+      "of": 3,
+      "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-1.zip",
+      "file": "production/package/LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-1.zip",
+      "sha256": "7009b528b26f739069e6cce78afd471108fd3865b1fee677c0d8e4838d1cbf45",
+      "bytes": 13217279,
+      "entries_digest": "12a511151ec7dcf3067658d7387e74c4eb7ff01aadbd974c92ebb9eff6760f51",
+      "entries": [
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/START-HERE-Printing-Guide.pdf",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf"
+      ]
+    },
+    {
+      "part": 2,
+      "of": 3,
+      "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-2.zip",
+      "file": "production/package/LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-2.zip",
+      "sha256": "cd5c349e41be22faa5e4a65a61e9404f7d04be29df1e50a2623ba91acf2e7899",
+      "bytes": 18413514,
+      "entries_digest": "e631093a72a872e9a1589e8a3a78ced803e6f8f28f31f510d9c165074b36c0ac",
+      "entries": [
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/US-Letter/LumiumX-Autumn-Railway-Journey-Colouring-Book-US-Letter.pdf",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-01-Cover.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-02.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-03.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-04.png"
+      ]
+    },
+    {
+      "part": 3,
+      "of": 3,
+      "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-3.zip",
+      "file": "production/package/LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-3.zip",
+      "sha256": "05dba92f38e147cc14700ee68b51b312a46e1d2f373bfb3211091a2a91de7339",
+      "bytes": 8004858,
+      "entries_digest": "7a79bfe0edf5682c0c808243f9cb00a217cae45d16645ead0ed52c4bc6659bd6",
+      "entries": [
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-05.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-06.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-07.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-08.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-09.png",
+        "LumiumX-Autumn-Railway-Journey-Colouring-Book/Colouring-Pages-PNG/LumiumX-Autumn-Railway-Journey-Colouring-Book-Page-10.png"
+      ]
+    }
+  ]
+}

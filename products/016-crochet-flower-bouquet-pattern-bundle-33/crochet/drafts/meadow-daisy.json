@@ -1,0 +1,78 @@
+{
+  "pattern_id": "meadow-daisy",
+  "name": "Meadow Daisy",
+  "category": "flower",
+  "difficulty": "beginner",
+  "finished_size": "About 5 cm across",
+  "yarn": [
+    {
+      "description": "Cotton yarn for the sunny centre",
+      "colour": "yellow",
+      "amount": "About 2 m"
+    },
+    {
+      "description": "Cotton yarn for the petals",
+      "colour": "white",
+      "amount": "About 4 m"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "rnd": "round",
+    "MR": "magic ring"
+  },
+  "gauge": "Gauge is not critical; use a firm tension so the small centre is neat and the petals hold their shape.",
+  "instructions": [
+    {
+      "heading": "Daisy",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With yellow yarn, make an MR. Ch 1, which does not count as a st, work 6 sc in the MR; join with a sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, which does not count as a st, work 2 sc in each st around; join with a sl st to the first sc. Fasten off the yellow yarn.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Petals",
+          "text": "Join white yarn with a sl st in any centre st. Make this petal sequence 6 times total: sl st in next centre st, ch 7, sc in second ch from hook, hdc in next ch, dc in each of next 3 ch, hdc in last ch; sl st in next centre st.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "After the sixth petal, fasten off the white yarn, leaving a 10 cm tail.",
+    "Weave in all yarn tails on the reverse side, taking care not to pull the centre out of shape.",
+    "Lightly steam block the daisy and arrange the petals evenly. Let it dry completely."
+  ],
+  "notes": [
+    "The petals are worked around the 12 stitches of the yellow centre; the white joining slip stitch is not a petal anchor."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

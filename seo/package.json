@@ -1,0 +1,15 @@
+{
+  "name": "@dpf/seo",
+  "private": true,
+  "type": "module",
+  "description": "SEO / Discovery Engine: manually captured Etsy Marketplace Insights, product ideas, transparent LumiumX opportunity scoring (not the Etsy algorithm), owner-approved SEO briefs, existing-listing recommendations and the SEO to Production handoff document. No network, no model, no production code.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "report": "node scripts/opportunity-report.mjs",
+    "plan": "node scripts/research-plan.mjs",
+    "research": "node scripts/research.mjs"
+  }
+}

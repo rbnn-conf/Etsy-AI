@@ -1,0 +1,93 @@
+{
+  "pattern_id": "ruscus-spray",
+  "name": "Ruscus Spray",
+  "category": "foliage",
+  "difficulty": "easy",
+  "finished_size": "About 19 cm long",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for leaves and stems",
+      "colour": "Deep moss green",
+      "amount": "About 15 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "0.4 mm green floral wire",
+    "Tapestry needle",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "rnd": "round"
+  },
+  "gauge": "Gauge is not critical; use a firm tension so the leaves hold their sleek shape.",
+  "instructions": [
+    {
+      "heading": "Main Stem",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 52. Sc in second ch from hook and in each remaining ch across.",
+          "stitch_count": 51
+        }
+      ]
+    },
+    {
+      "heading": "Side Branches (make 4)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 22. Sc in second ch from hook and in each remaining ch across.",
+          "stitch_count": 21
+        }
+      ]
+    },
+    {
+      "heading": "Leaves (make 9)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Ch 20. Sc in second ch from hook, hdc in next 17 ch, 3 sc in last ch; working into the underside of the foundation ch, hdc in next 17 ch, sc in final ch, sl st to first sc.",
+          "stitch_count": 39
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Cut one 20 cm length of floral wire for the main stem. Centre it along the main stem strip, leaving about 1 cm extending beyond each end. Fold the strip lengthwise around the wire and whipstitch its long edges together with matching yarn.",
+    "Cut four 9 cm wire lengths. Centre one wire in each side branch strip, leaving about 1 cm extending at each end. Fold each strip lengthwise around its wire and whipstitch the long edges together.",
+    "Starting at the base of the main stem, place the side branches at 4 cm, 8 cm, 12 cm and 15 cm. Alternate branches from left to right. Hold each branch at an upward angle, overlap its covered end by 1 cm against the stem, and stitch it securely in place with matching yarn.",
+    "Use the remaining exposed wire at each branch base to lie flat against the main stem. Cover it with several tight yarn stitches so the wire is concealed and the branch is stable.",
+    "Attach one leaf by its narrow tip at the free end of each side branch, with the leaf pointing upward and outward. Attach a second leaf 3 cm from the base of each branch, pointing outward on the opposite side.",
+    "Attach the ninth leaf by its narrow tip to the top of the main stem, directly below the upper wire end. Stitch firmly so it continues the upright line of the spray."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off each crocheted piece after its final row or round, leaving a 15 cm yarn tail on every leaf for attachment.",
+    "Weave the stem and branch yarn tails into their stitched seams, keeping the tubes neat and firm around the wire.",
+    "Weave leaf attachment tails through the reverse side of the leaves after sewing, then trim closely.",
+    "Bend the wired stem and branches gently into a natural, open spray shape. Curve the leaves slightly along their centre lines.",
+    "Cover or bend the lower wire end inward so no sharp wire is exposed."
+  ],
+  "notes": [
+    "The leaf begins with a narrow tip at the final sc and sl st; use this end for attachment.",
+    "For a fuller bouquet filler, make several sprays and vary the bend of each wired stem."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

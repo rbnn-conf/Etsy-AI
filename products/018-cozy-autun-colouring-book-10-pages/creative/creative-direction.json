@@ -1,0 +1,35 @@
+{
+  "illustration_style": "Cosy seasonal colouring-book line art with original storybook charm, using playful rounded forms and inviting domestic-scale detail.",
+  "line_weight": "Bold black outer contours with medium-weight interior detail lines; maintain generous enclosed colouring areas.",
+  "line_quality": "Smooth, gently imperfect hand-inked curves with softened corners and clear, steady joins.",
+  "detail_level": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+  "character_language": "Friendly, softly stylised cartoon characters with rounded proportions, simple expressive faces, and readable clothing or feature shapes.",
+  "background_density": "Moderately full scenic backgrounds built in shallow layers, with enough open space inside forms for relaxed colouring.",
+  "composition": "Use one immediately readable focal area per page, balanced supporting details, varied page rhythms, and clear visual separation between overlapping forms.",
+  "palette": "Monochrome black ink on white paper; designs should suggest a warm autumn atmosphere through motif and linework rather than filled colour.",
+  "colour_mode": "black-and-white line art",
+  "shading": "No solid shading or grey fills; use sparse contour accents, simple texture lines, and occasional small pattern details only.",
+  "texture": "Light hand-drawn texture through wood grain, leaf veins, fabric seams, masonry marks, and natural surface accents, always kept broad and colourable.",
+  "mood": "Warm, peaceful, whimsical and gently festive, with an unhurried cosy feel.",
+  "age_suitability": "ages 6-12",
+  "print_considerations": "A4 and US Letter friendly portrait pages with clean white backgrounds, no full-bleed ink areas, strong line contrast, and details large enough to reproduce clearly on typical home printers.",
+  "shared_prompt": "Original cosy autumn colouring-book line art in clean black ink on white paper; bold rounded outer contours, smooth subtly hand-drawn linework, medium-weight interior details, broad colourable enclosed shapes, friendly softly stylised cartoon expressions, sparse natural and handmade texture marks, no filled shading, calm storybook warmth and home-printer-friendly clarity.",
+  "avoid": [
+    "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+    "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+    "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+    "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+    "Frightening imagery, harsh horror styling, or menacing facial expressions",
+    "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "references",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": null,
+  "created_at": "2026-10-06T14:19:22.872Z"
+}

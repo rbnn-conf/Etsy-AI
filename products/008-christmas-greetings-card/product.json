@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "008",
+  "workspace": "008-christmas-greetings-card",
+  "name": null,
+  "slug": null,
+  "season": null,
+  "product_type": null,
+  "target_customer": null,
+  "page_count": null,
+  "status": "REJECTED",
+  "resume_state": "REFERENCES_RECEIVED",
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-27T14:39:40.646Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-09-27T14:48:04.038Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-09-27T14:48:04.223Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-09-27T14:48:04.410Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T14:48:09.384Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "retry",
+      "at": "2026-09-27T14:48:31.062Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T14:48:31.631Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "retry",
+      "at": "2026-09-27T14:48:36.952Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T14:48:37.666Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "REJECTED",
+      "event": "rejected",
+      "at": "2026-09-27T14:48:40.209Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Christmas Greetings card",
+    "requested_at": "2026-09-27T14:39:40.646Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [
+    {
+      "file": "references/reference-01.jpg",
+      "telegram_file_unique_id": "AQADShFrG8_J0FF9",
+      "mime_type": "image/jpeg",
+      "bytes": 88783,
+      "sha256": "5649f340c6dba8d0a6461d485db83f7b61a1bc9b3b2e9cdaac0f5edbb5ee8bfd",
+      "received_at": "2026-09-27T14:48:04.038Z"
+    },
+    {
+      "file": "references/reference-02.jpg",
+      "telegram_file_unique_id": "AQADTBFrG8_J0FF9",
+      "mime_type": "image/jpeg",
+      "bytes": 104300,
+      "sha256": "eb62dc3c37423208939f42b4602b44b0f212892a527c75433475b54e952c9c86",
+      "received_at": "2026-09-27T14:48:04.223Z"
+    },
+    {
+      "file": "references/reference-03.jpg",
+      "telegram_file_unique_id": "AQADSxFrG8_J0FF9",
+      "mime_type": "image/jpeg",
+      "bytes": 120473,
+      "sha256": "eca3d4fabaa47d596ac836ceb64286d93a9baef61ec4888c518b45219b98b5f1",
+      "received_at": "2026-09-27T14:48:04.410Z"
+    }
+  ],
+  "visual_direction": null,
+  "concepts": {
+    "batches": [],
+    "selected": null
+  },
+  "pages": [],
+  "proofs": {
+    "selected_pages": [],
+    "attempts": []
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "ae8a8ed87788",
+    "keyboard_message_ids": [
+      14,
+      15,
+      16
+    ]
+  },
+  "lock": null,
+  "last_error": {
+    "step": "ideation",
+    "message": "OpenAIError: OpenAI /responses failed (HTTP 401): Incorrect API key provided: Ysk-proj*********************************************************************************************************************************************************rGQA. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "at": "2026-09-27T14:48:37.666Z",
+    "retryable": false
+  },
+  "api_usage": [],
+  "creative_approved_at": null,
+  "created_at": "2026-09-27T14:39:40.646Z",
+  "updated_at": "2026-09-27T14:48:40.209Z"
+}

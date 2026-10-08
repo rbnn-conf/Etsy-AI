@@ -1,0 +1,166 @@
+{
+  "pattern_id": "meadow-ranunculus",
+  "name": "Meadow Ranunculus",
+  "category": "Flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 6 centimetres across, with an optional 20-centimetre wired stem.",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn for layered petals",
+      "colour": "Pale blush pink",
+      "amount": "About 8 grams"
+    },
+    {
+      "description": "Fine cotton yarn for rounded centre",
+      "colour": "Warm golden yellow",
+      "amount": "About 2 grams"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Polyester fibre fill",
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors",
+    "One 20-centimetre length of 22-gauge floral wire",
+    "Floral tape"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "Rnd": "round",
+    "MR": "magic ring",
+    "inc": "work 2 sc in the same st",
+    "dec": "single crochet decrease over 2 sts",
+    "FO": "fasten off"
+  },
+  "gauge": "Gauge is not critical. Fine yarn and the stated hook create delicate petals; finished size varies with wrapping tension.",
+  "instructions": [
+    {
+      "heading": "Rounded Centre",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With golden yellow yarn, make an MR. Ch 1, work 6 sc in the MR, then sl st to the first sc to join. Pull the MR tight. The ch 1 does not count as a st.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, work an inc in every st around, then sl st to the first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1; six times, work sc in the next st and an inc in the next st. Sl st to the first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Ch 1, sc in every st around, then sl st to the first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Ch 1; six times, work sc in the next st and a dec over the following 2 sts. Sl st to the first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 12
+        },
+        {
+          "label": "After Rnd 5",
+          "text": "Stuff the centre firmly with small pieces of polyester fibre fill, keeping the shape rounded.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Ch 1; six times, work a dec over the next 2 sts. Sl st to the first sc to join. The ch 1 does not count as a st.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Close",
+          "text": "FO, leaving a 25-centimetre tail. Thread the tail through the front loops of the 6 remaining sts, pull closed, and secure with one small stitch.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Inner Petal Strip",
+      "steps": [
+        {
+          "label": "Preparation",
+          "text": "With pale blush pink yarn, leave a 25-centimetre starting tail before making the slip knot.",
+          "stitch_count": null
+        },
+        {
+          "label": "Row 1",
+          "text": "Ch 21. Starting in the second ch from the hook, work this sequence four times: sc in the next ch, hdc in the next ch, dc in the next ch, hdc in the next ch, sc in the next ch. FO, leaving a 25-centimetre tail.",
+          "stitch_count": 20
+        }
+      ]
+    },
+    {
+      "heading": "Middle Petal Strip",
+      "steps": [
+        {
+          "label": "Preparation",
+          "text": "With pale blush pink yarn, leave a 25-centimetre starting tail before making the slip knot.",
+          "stitch_count": null
+        },
+        {
+          "label": "Row 1",
+          "text": "Ch 31. Starting in the second ch from the hook, work this sequence six times: sc in the next ch, hdc in the next ch, 2 dc in the next ch, hdc in the next ch, sc in the next ch. FO, leaving a 25-centimetre tail.",
+          "stitch_count": 36
+        }
+      ]
+    },
+    {
+      "heading": "Outer Petal Strip",
+      "steps": [
+        {
+          "label": "Preparation",
+          "text": "With pale blush pink yarn, leave a 25-centimetre starting tail before making the slip knot.",
+          "stitch_count": null
+        },
+        {
+          "label": "Row 1",
+          "text": "Ch 41. Starting in the second ch from the hook, work this sequence eight times: sc in the next ch, hdc in the next ch, 3 dc in the next ch, hdc in the next ch, sc in the next ch. FO, leaving a 25-centimetre tail.",
+          "stitch_count": 56
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Bend the upper 1 centimetre of the floral wire into a narrow U-shaped hook. Centre this hook over the closed end of the rounded centre. With the centre tail, sew through the 6 sts of Rnd 6 and around the wire hook six times; pull firmly and knot securely.",
+    "Place the Inner Petal Strip with its scalloped edge facing upwards and its chain edge against Rnd 5 of the centre. Sew the starting edge to Rnd 5, then wrap the strip once around the centre. Tack the chain edge to Rnd 5 after petal 2 and petal 4, then sew the final edge to the starting edge.",
+    "Position the Middle Petal Strip around the inner layer, beginning one petal to the left of the inner-strip seam. Keep its chain edge at the base. Wrap it once, then tack through its chain edge, Rnd 5, and the inner strip after petals 2, 4, and 6. Sew its final edge to its starting edge.",
+    "Position the Outer Petal Strip around the previous layers, with its starting edge one petal to the left of the middle-strip seam. Wrap it once with the chain edge at the base. Tack through all layers after petals 2, 4, 6, and 8, then sew the final edge to its starting edge.",
+    "Stretch floral tape slightly and wrap it from the flower base down the wire in overlapping turns. Cover the wire completely and press the tape end firmly in place."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any yarn still attached by cutting the yarn, pulling the tail through the final loop, and tightening it securely.",
+    "Weave in all remaining yarn tails on the underside of the flower, taking care not to pull the petal layers out of position.",
+    "Cup the petals upwards around the centre with your fingers, arranging the outer petals slightly more open than the inner petals.",
+    "Bend the lower wire tip back on itself and cover it with floral tape so that no sharp end is exposed."
+  ],
+  "notes": [
+    "The five- or six-chain foundation section forming each repeated sequence is one petal. The repeated dc stitches make the petal edges naturally ruffled.",
+    "For a fuller bloom, overlap neighbouring petals slightly while making the tacking stitches; for a more open flower, space the tacking stitches around the base more evenly."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

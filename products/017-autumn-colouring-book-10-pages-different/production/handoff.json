@@ -1,0 +1,367 @@
+{
+  "schema_version": 2,
+  "product_id": "017",
+  "product_name": "Autumn Railway Journey Colouring Book",
+  "slug": "autumn-railway-journey-colouring-book",
+  "product_type": "Autumn colouring book",
+  "product_format": "colouring-book",
+  "page_count": 10,
+  "orientation": "landscape",
+  "canvas": {
+    "orientation": "landscape",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Each landscape page uses a wide, fully contained railway scene with generous closed colouring areas and all essential artwork comfortably inside the safe margins."
+  },
+  "approved": {
+    "creative_approved_at": "2026-10-06T10:32:46.013Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "C",
+      "proposed_name": "Autumn Railway Journey Colouring Book"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    },
+    "full_artwork": {
+      "approved_at": "2026-10-06T10:34:53.666Z",
+      "approved_by": "@romg_o",
+      "manifest_sha256": "e97cfd190e65b10a2d25fcc8d4c53d8d8c22b3c69c3683047d023f18c28b17f9",
+      "pages_sha256": "642205acd12ba542d5e808bfe8bdc49107ad41aa0494cd6251d9f4e1c15347c3",
+      "qc_sha256": "9f2eb3549af6cb8e644a3f555c51799d6898a81470463dff6384e8a14206baf3"
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "635855ebbc2766e86d84f85bdcf5e7c8e85dc0ac63517b17639fb6c945758254"
+    },
+    "book_manifest": {
+      "file": "book/manifest.json",
+      "sha256": "e97cfd190e65b10a2d25fcc8d4c53d8d8c22b3c69c3683047d023f18c28b17f9"
+    },
+    "book_qc": {
+      "file": "book/qc.json",
+      "sha256": "9f2eb3549af6cb8e644a3f555c51799d6898a81470463dff6384e8a14206baf3"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "a73f9ce410b59455aa78a467ea313042d843e48fd08cd1f5f0f66635de152a57"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "P001",
+      "file": "book/pages/P001.png",
+      "page_number": 1,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P002",
+      "file": "book/pages/P002.png",
+      "page_number": 2,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P003",
+      "file": "book/pages/P003.png",
+      "page_number": 3,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "d86e4bc37c0a3b9adafac2f0b33c73f19be1a3ceb6d3889443cccce555906611",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P004",
+      "file": "book/pages/P004.png",
+      "page_number": 4,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "9a3beaefd6ccf3f380a388db616ef67677d5b3347c3f4e4eebda39a173e07733",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P005",
+      "file": "book/pages/P005.png",
+      "page_number": 5,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "546f55d575485e38c45351e543e452297a874620049c22692bb8c8dad442a00d",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P006",
+      "file": "book/pages/P006.png",
+      "page_number": 6,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P007",
+      "file": "book/pages/P007.png",
+      "page_number": 7,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "d26b9320dd4a877b587458aa9927025210cc737db862c7d54ff47dc7b7109ae2",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P008",
+      "file": "book/pages/P008.png",
+      "page_number": 8,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "50eb03236472062b6278425035d2ab695e24685db7d8aceed346b0ebf7b65deb",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P009",
+      "file": "book/pages/P009.png",
+      "page_number": 9,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "0dbfeb72529b3bbef4b76f865dbc56f15ca81f31dd4469ea60938e96a16dca85",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P010",
+      "file": "book/pages/P010.png",
+      "page_number": 10,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": "1536x1024",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Autumn Railway Journey",
+      "asset": "P001",
+      "approved_text": [],
+      "production_notes": "Cover must contain no title, lettering, badges or creator marks. Keep the locomotive, carriages, viaduct arches, hills and tree canopies as large closed shapes; ensure the full composition remains within landscape safe margins."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Ticket Booth Arrival",
+      "asset": "P002",
+      "approved_text": [],
+      "production_notes": "The two tickets must be visibly plain with no text. Avoid station signs and timetable text. Keep faces simple and ticket, suitcase, booth and locomotive shapes easy to colour."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Luggage Trolley",
+      "asset": "P003",
+      "approved_text": [],
+      "production_notes": "Solvability/check: trolley contains exactly 4 distinct luggage items, with no additional bags elsewhere on the page. Do not add text labels, luggage tags with writing, or busy platform clutter."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Platform Farewell",
+      "asset": "P004",
+      "approved_text": [],
+      "production_notes": "Check that exactly two farewell relatives stand on the platform and that the clock face has no numerals or lettering. Keep the carriage windows large and uncluttered."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Dining Carriage Picnic",
+      "asset": "P005",
+      "approved_text": [],
+      "production_notes": "Check that the table has exactly 3 food items: 1 apple, 1 sandwich triangle, 1 cup. No menu, newspaper, labels or text. Use broad window view and large tableware outlines."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Woodland Tunnel",
+      "asset": "P006",
+      "approved_text": [],
+      "production_notes": "Check for exactly 3 separate steam-cloud shapes and one rabbit. Keep tunnel brick detail sparse and sizeable, without dense masonry texture or tiny leaves."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Signal Box Wave",
+      "asset": "P007",
+      "approved_text": [],
+      "production_notes": "Ensure the semaphore has one clear raised arm and no lettering. Keep the signal box, worker, cat and passing train readable as separate focal elements; use simple field bands rather than dense crops."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Lakeside Stop",
+      "asset": "P008",
+      "approved_text": [],
+      "production_notes": "Solvability/check: exactly 3 ducks on the lake and exactly 1 rowboat. Keep water mostly open for colouring, using only a few broad ripple contours; no additional birds or boats."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Apple Orchard Station",
+      "asset": "P009",
+      "approved_text": [],
+      "production_notes": "Check that the basket contains exactly 5 large distinct apples. There must be exactly 3 apple trees; apples on the trees may be omitted to prevent count confusion. No text on gates, train or platform."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Evening Journey Home",
+      "asset": "P010",
+      "approved_text": [],
+      "production_notes": "Check that exactly 3 travellers wave from windows, exactly 5 stars appear, and exactly 1 fox is present. Use an unfilled moon and stars with no black night sky or shading; keep the scene within safe margins."
+    }
+  ],
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "book": {
+    "pages": [
+      {
+        "page_number": 1,
+        "title": "Autumn Railway Journey",
+        "page_type": "cover",
+        "role": "cover",
+        "asset": "P001"
+      },
+      {
+        "page_number": 2,
+        "title": "Ticket Booth Arrival",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P002"
+      },
+      {
+        "page_number": 3,
+        "title": "Luggage Trolley",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P003"
+      },
+      {
+        "page_number": 4,
+        "title": "Platform Farewell",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P004"
+      },
+      {
+        "page_number": 5,
+        "title": "Dining Carriage Picnic",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P005"
+      },
+      {
+        "page_number": 6,
+        "title": "Woodland Tunnel",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P006"
+      },
+      {
+        "page_number": 7,
+        "title": "Signal Box Wave",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P007"
+      },
+      {
+        "page_number": 8,
+        "title": "Lakeside Stop",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P008"
+      },
+      {
+        "page_number": 9,
+        "title": "Apple Orchard Station",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P009"
+      },
+      {
+        "page_number": 10,
+        "title": "Evening Journey Home",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P010"
+      }
+    ],
+    "page_px": [
+      1536,
+      1024
+    ],
+    "orientation": "landscape",
+    "cover": true
+  },
+  "review_notes": []
+}

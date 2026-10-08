@@ -1,0 +1,846 @@
+{
+  "milestone": 3,
+  "method": "Individual native artwork inspection, white/ivory backdrop evidence and integrated PDF-derived proof inspection recorded separately.",
+  "assets": [
+    {
+      "id": "A01",
+      "treatment": "signature",
+      "sourceSha256": "993cf0ae34f04a9b09023dfff39fe892f12ce6b6267f9053861cd32d7b72892e",
+      "productionSha256": "727a3b026698d88e8b5f4111a1aae17fb4b99fdcf9b5b728e74ffcacdcc4cd15",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A01-signature-ivory.png",
+        "review/A01-signature-white.png"
+      ]
+    },
+    {
+      "id": "A01",
+      "treatment": "economy",
+      "sourceSha256": "44c5fd2cc7360c4bb9d9ec20bde7c755c9891db985ef25df898d7e6cc88aa083",
+      "productionSha256": "1e361f74e767ab87bfe067d2c9d8f5c6c8d26fb20f5bde0ba1f6f063ee156571",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A01-economy-ivory.png",
+        "review/A01-economy-white.png"
+      ]
+    },
+    {
+      "id": "A02",
+      "treatment": "signature",
+      "sourceSha256": "7c76428b9a2b4c636dc55356f53eb98f470645eb7afb59b8c88172f75a99e8d0",
+      "productionSha256": "ecb7c5999ea2aac1b08fad74396c92f79068541436780c4ea7ce41049f4a886b",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A02-signature-ivory.png",
+        "review/A02-signature-white.png"
+      ]
+    },
+    {
+      "id": "A02",
+      "treatment": "economy",
+      "sourceSha256": "44fea1ead6671b9ea17659eb9509ed75575d873d86ede93c8ed71b6cecfd05ef",
+      "productionSha256": "cbc1a9b61e3d6cf2ea56ade79fe919ae59cde307cb38da347da0ed5e911d65fc",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A02-economy-ivory.png",
+        "review/A02-economy-white.png"
+      ]
+    },
+    {
+      "id": "A03",
+      "treatment": "signature",
+      "sourceSha256": "de8be70ea3623d1021167e6c7307d02f833167a065654e46d279c932bf4b5374",
+      "productionSha256": "95e014860b4e254e208ee04df0012798d03ca8efcdd3220bf519d27dda7dc40f",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A03-signature-ivory.png",
+        "review/A03-signature-white.png"
+      ]
+    },
+    {
+      "id": "A03",
+      "treatment": "economy",
+      "sourceSha256": "fa9be91d89a6ffa3c579e99d438f1f03c3c5a5265f27558c6f2a4a0f6eb66ebf",
+      "productionSha256": "685ccddec3fb2f397d65416ec1d4ad90a8e826c4176d3d6d641b455ea27c1176",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A03-economy-ivory.png",
+        "review/A03-economy-white.png"
+      ]
+    },
+    {
+      "id": "A04",
+      "treatment": "signature",
+      "sourceSha256": "9ebebdb60a86b8a310966fbcf072799a6934f5c1df82325792f87fa9fda8972e",
+      "productionSha256": "8ea24680ed4ad2fdfa1d71d6de7738cac4d78b2d4f9410d34715f76a03ea78d0",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A04-signature-ivory.png",
+        "review/A04-signature-white.png"
+      ]
+    },
+    {
+      "id": "A04",
+      "treatment": "economy",
+      "sourceSha256": "f82f8e6e20064a37e299b33fcdc9cb0798a47af11ac98beebfc0df87400418b5",
+      "productionSha256": "59f7ea8c3b3e526e18fbb26d42a786ca305f45e8aa70e62155b2a5208ba7d6f6",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A04-economy-ivory.png",
+        "review/A04-economy-white.png"
+      ]
+    },
+    {
+      "id": "A05",
+      "treatment": "signature",
+      "sourceSha256": "5a88e7fbc38cac4fda121da8715ff838978c65cbe518e1dd22a0e950a4bd8351",
+      "productionSha256": "dccb51cecec02ee97a039815139d99f482c0d9d83fb2a29f9f489f0e50fb5ddf",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A05-signature-ivory.png",
+        "review/A05-signature-white.png"
+      ]
+    },
+    {
+      "id": "A05",
+      "treatment": "economy",
+      "sourceSha256": "1e4f3c9c81d1a15e644fe45c76d2c3b6fd1edf712e5db182d77d36f0ec44d28d",
+      "productionSha256": "cbece906ffa68414e8b258af397f93cd5cd5aff7d2e1a0f3bb8cf6fb295e0581",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A05-economy-ivory.png",
+        "review/A05-economy-white.png"
+      ]
+    },
+    {
+      "id": "A06",
+      "treatment": "signature",
+      "sourceSha256": "eca3057457fd84a805b32046c1f6bfe5c3bb8c63b482724f4ce2af3b10095e8c",
+      "productionSha256": "0539c88cde037e97b53138945df4d382be4ca53edb16f8bce42c95aa655b2cb1",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A06-signature-ivory.png",
+        "review/A06-signature-white.png"
+      ]
+    },
+    {
+      "id": "A06",
+      "treatment": "economy",
+      "sourceSha256": "819570a995d23fbef689cdcbb71aee6451a1bde0e972d35e8a50400c3afca57b",
+      "productionSha256": "435c057f2bb9305af96a9e425dfd375b668309902564e8b5199258b73271b2e8",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A06-economy-ivory.png",
+        "review/A06-economy-white.png"
+      ]
+    },
+    {
+      "id": "A07",
+      "treatment": "signature",
+      "sourceSha256": "931e277b659a3fb6d49313f1559a25583eafcedd62325cb5b962b7de8a414b68",
+      "productionSha256": "6885d2febd011ed44dde4fc052c624146abbb5913f0785358de7f427e3284d97",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A07-signature-ivory.png",
+        "review/A07-signature-white.png"
+      ]
+    },
+    {
+      "id": "A07",
+      "treatment": "economy",
+      "sourceSha256": "ae41b5ceeee624d088445d0d04978ab9ea30abad77e12533bcbf6588747776cd",
+      "productionSha256": "e00dd25e5b53cfb34da1784f8194223a96e22a3f3ed3ccb9599e9beaa4bf2986",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A07-economy-ivory.png",
+        "review/A07-economy-white.png"
+      ]
+    },
+    {
+      "id": "A08",
+      "treatment": "signature",
+      "sourceSha256": "7b48ff84c87c7b6ad979a4f09e8dc09fe02712f5829db5282fec53992f0d7feb",
+      "productionSha256": "c8566e65ec8fee53ca2309af6ac5748f0a7d2e1482c6a04b63cb2a606c50491a",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A08-signature-ivory.png",
+        "review/A08-signature-white.png"
+      ]
+    },
+    {
+      "id": "A08",
+      "treatment": "economy",
+      "sourceSha256": "2306b1c1e43fcb1f725145a23d1f2e0344f1f9dba1e657add8606a2893726269",
+      "productionSha256": "6c795757f3f3e74cf36b0408c42c231d69a490c10be83d501f1d3fb814b871ee",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A08-economy-ivory.png",
+        "review/A08-economy-white.png"
+      ]
+    },
+    {
+      "id": "A09",
+      "treatment": "signature",
+      "sourceSha256": "6316a716c8bb610874fab9906d389bb590da06d48b67cf30e408fe976ebe49b3",
+      "productionSha256": "083ac3cdaad4c0cb6d2c7b561a1cadd027191ca672c25d75083ce164ccc50a47",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/A09-signature-ivory.png",
+        "review/A09-signature-white.png"
+      ]
+    },
+    {
+      "id": "A09",
+      "treatment": "economy",
+      "sourceSha256": "b653971d13d43d4510cb5bf278e7e3d56c40d49d092487d6990caf44675983b2",
+      "productionSha256": "4f0d052abeba57a9a75fef42b9abff8f7d181ae21e00062d88da306555e3b346",
+      "result": "pass",
+      "finding": "Connected rose, leaf and thorn engraving; complete corner/divider silhouette, deliberate negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/A09-economy-ivory.png",
+        "review/A09-economy-white.png"
+      ]
+    },
+    {
+      "id": "B01",
+      "treatment": "signature",
+      "sourceSha256": "8f6203468e3ee50fbfc88b377fa9aa93d57e30a32ab292b8525f8fa03a81cd75",
+      "productionSha256": "469c35ebd5dec6878bf27ea6b5173e22015d7ad30b0ce74bf0edd681951615df",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/B01-signature-ivory.png",
+        "review/B01-signature-white.png"
+      ]
+    },
+    {
+      "id": "B01",
+      "treatment": "economy",
+      "sourceSha256": "52feeb2f841e1481c5c032b4004d174b9b7e86659e5967d2ad1f4c0492985394",
+      "productionSha256": "e7a5019e5cc39849a00f1600eff1e0e59f0ee46bc92dc375a779988b0ae33f18",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/B01-economy-ivory.png",
+        "review/B01-economy-white.png"
+      ]
+    },
+    {
+      "id": "B02",
+      "treatment": "signature",
+      "sourceSha256": "76d5fee6bf03d00698a61348d05110d8657c23b2dcca8efdd13e20718df5088f",
+      "productionSha256": "012999d40e5054bf69e2592cbf5b994122816ee1fc200a168454bbfa9b408787",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/B02-signature-ivory.png",
+        "review/B02-signature-white.png"
+      ]
+    },
+    {
+      "id": "B02",
+      "treatment": "economy",
+      "sourceSha256": "a2c7df8ab172839c5c403a5211bad68afa9cf35a26af129097590528306cbe1e",
+      "productionSha256": "78f23d2ef81a035794ff15379646ee9c490b9400caf2177e32ff03d0d40d14d3",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/B02-economy-ivory.png",
+        "review/B02-economy-white.png"
+      ]
+    },
+    {
+      "id": "B03",
+      "treatment": "signature",
+      "sourceSha256": "200b1a1f90affb61f10b9625ee4972898389c066613e6ff84b1e5716981043a2",
+      "productionSha256": "35afc0791dfe12e011d440532974c7f5c30bfb7cf5760d313f1546599fb37faf",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/B03-signature-ivory.png",
+        "review/B03-signature-white.png"
+      ]
+    },
+    {
+      "id": "B03",
+      "treatment": "economy",
+      "sourceSha256": "b6da3a86fcdb24fb04dd41491b577d4e00376e23f05b26db46501dc5195fbda5",
+      "productionSha256": "be2d992d88623627680fa11fcf824fae8eb8212b466ad93f560bb029c31f915d",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/B03-economy-ivory.png",
+        "review/B03-economy-white.png"
+      ]
+    },
+    {
+      "id": "B04",
+      "treatment": "signature",
+      "sourceSha256": "e87667ac128ac6b7abd5750f3f982e47a93c2621be34705bf4321e0cacd68d13",
+      "productionSha256": "8e5c76d4b0ac34868e9ade574a4b8ee0b23da112545573e2d674a8ec930d93dd",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/B04-signature-ivory.png",
+        "review/B04-signature-white.png"
+      ]
+    },
+    {
+      "id": "B04",
+      "treatment": "economy",
+      "sourceSha256": "6df640657a8a14f81936fdede9a771f90c948e8e69f056826ae7241ae6b35218",
+      "productionSha256": "a74c33cf2400aa88c75fee3a0fea7abdfcf4ab6558e07707e41454f818099ba9",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/B04-economy-ivory.png",
+        "review/B04-economy-white.png"
+      ]
+    },
+    {
+      "id": "B05",
+      "treatment": "signature",
+      "sourceSha256": "509046f9c76546222c52adebb3f81fbdf71c670a954de2ec0f8cfe68c8d2affd",
+      "productionSha256": "ece6ac6c6aa8ee4cbfa0ddc853d2f1c68cad6eda978bc78805504dc11f4cb15e",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/B05-signature-ivory.png",
+        "review/B05-signature-white.png"
+      ]
+    },
+    {
+      "id": "B05",
+      "treatment": "economy",
+      "sourceSha256": "fe37b53b9a7c01cb49599b5a4ffafa8d9a99ab25c2ab47714a5b6859d2bec2cb",
+      "productionSha256": "1faa3b4ddd53e272d12d3a2d7e53f6830efc29865ebc44122979a202a58c0f9b",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/B05-economy-ivory.png",
+        "review/B05-economy-white.png"
+      ]
+    },
+    {
+      "id": "B06",
+      "treatment": "signature",
+      "sourceSha256": "166b97a4eeec1088949fb7ce83247c62544370a15ee6c88f1748a8d06187eaf8",
+      "productionSha256": "34d1c77dc67cc6e85c497bd68a08474b3d835c3c92cd22f295a0b8c1b496d048",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/B06-signature-ivory.png",
+        "review/B06-signature-white.png"
+      ]
+    },
+    {
+      "id": "B06",
+      "treatment": "economy",
+      "sourceSha256": "4925111bcd0f525d278a957b9755750353a232e1d7e4f2eadaf3145e9bd77d80",
+      "productionSha256": "e653e44ea797c732728e2c0ccabc7348d02970fdec63057d41b9590602661fb7",
+      "result": "pass",
+      "finding": "Moth, ravens and occult objects have coherent anatomy and legible silhouettes; no text or malformed extra limbs. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/B06-economy-ivory.png",
+        "review/B06-economy-white.png"
+      ]
+    },
+    {
+      "id": "C01",
+      "treatment": "signature",
+      "sourceSha256": "57a3be206a45d6fa2d42433790c44296110a87ed206bc16949312e56ff0c815b",
+      "productionSha256": "a0989f74cfb06346897d283247ae0e820e71c6957ccf042f72d182ab76a0e907",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/C01-signature-ivory.png",
+        "review/C01-signature-white.png"
+      ]
+    },
+    {
+      "id": "C01",
+      "treatment": "economy",
+      "sourceSha256": "2f16473b0b95aeee1e5a1ad736d4cf144c38cf1e55e13b46e3882537270ff522",
+      "productionSha256": "0fabec6e5dc4883d6b6abcdb029cfcdfc9fab71df17b59bce96e5cc9cd56ec21",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/C01-economy-ivory.png",
+        "review/C01-economy-white.png"
+      ]
+    },
+    {
+      "id": "C02",
+      "treatment": "signature",
+      "sourceSha256": "034ecfe59a2c218555c0a5202f5db53fb074039b4958ed55935b4a6901446f21",
+      "productionSha256": "7839e73db1d107cce3d7d1273bd380796c62ccd51c170c7993a1b9719ba905e1",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/C02-signature-ivory.png",
+        "review/C02-signature-white.png"
+      ]
+    },
+    {
+      "id": "C02",
+      "treatment": "economy",
+      "sourceSha256": "dcf8d65bd47ea17c665d1e8d69de23cf2455edcb20ee0a15ffa2267d3509de0d",
+      "productionSha256": "79df920c7b621955763bc3c5e88e98cfbd35efb09e5b90b237fd6d9441d5a714",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/C02-economy-ivory.png",
+        "review/C02-economy-white.png"
+      ]
+    },
+    {
+      "id": "C03",
+      "treatment": "signature",
+      "sourceSha256": "36742bb9367d352805edc8ab0e48957e65f91ae39270d44a487f2ff35f824322",
+      "productionSha256": "317f282a67c9e5b29e5b3905ec360a96bd66b90ff94844bfbbb6b644499cd03b",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/C03-signature-ivory.png",
+        "review/C03-signature-white.png"
+      ]
+    },
+    {
+      "id": "C03",
+      "treatment": "economy",
+      "sourceSha256": "3d44ccb027a69a4bc5a4381b2d9582d3a9bce890f382aa82ac1df743e73a164a",
+      "productionSha256": "edf298fb6c77b394f451eba191d5ff6ea55d94b26e3a8110ee9b4ada68ffeb71",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/C03-economy-ivory.png",
+        "review/C03-economy-white.png"
+      ]
+    },
+    {
+      "id": "C04",
+      "treatment": "signature",
+      "sourceSha256": "dcc4077fc5040397c6262140f767637cf48d30e0b214ab8cf3c60fcd5a0d9564",
+      "productionSha256": "bf4dfabfc87d334e4b8e5e48db29499a107088e38902af89ec2b7c8422d0f9db",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/C04-signature-ivory.png",
+        "review/C04-signature-white.png"
+      ]
+    },
+    {
+      "id": "C04",
+      "treatment": "economy",
+      "sourceSha256": "8534dd94eb3fc2f87dcf2273b44d5739bffc07a94fe0f56ce6ca93af8b9a796b",
+      "productionSha256": "8dd043645cfe6f68e9691ea4b6d27a0eb977bd85921a8ffd3e4ce46a772aed23",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/C04-economy-ivory.png",
+        "review/C04-economy-white.png"
+      ]
+    },
+    {
+      "id": "C05",
+      "treatment": "signature",
+      "sourceSha256": "9f6d3c98085c42d6bfc61200e856cca8cc01e01acd65e56c580675a97b3a5f21",
+      "productionSha256": "8c867ef67acfd1d9008ed56d45e1290e02d8cd1a316e7e7b89bcecd56b1d0da9",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/C05-signature-ivory.png",
+        "review/C05-signature-white.png"
+      ]
+    },
+    {
+      "id": "C05",
+      "treatment": "economy",
+      "sourceSha256": "43eb55ef93cfb520c9871f21644f4dbb9d62ae36349f332160cd67040c98dccc",
+      "productionSha256": "84f8d0c34a8a927161ef297e522619514147468842fefa2d6628d576ee7384bb",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/C05-economy-ivory.png",
+        "review/C05-economy-white.png"
+      ]
+    },
+    {
+      "id": "C06",
+      "treatment": "signature",
+      "sourceSha256": "7e10fc965177ebf5cc923e8c2102e4279c2f698648fd95812aa578ee1e015ceb",
+      "productionSha256": "6c2e40cc73eddb65298e35b57072479714e20118917f7f628fc091f7e52ee937",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/C06-signature-ivory.png",
+        "review/C06-signature-white.png"
+      ]
+    },
+    {
+      "id": "C06",
+      "treatment": "economy",
+      "sourceSha256": "2c9c14e7376be9100d20fbabb4b61aec53d07d3a16d1e589dd1c699de730273b",
+      "productionSha256": "a97cd23dd03ced99473f77f307419baa4da395189fd047d1a3b167f211e5c13a",
+      "result": "pass",
+      "finding": "Celestial engraving is clean; C02 consistently waxes with right illumination and wanes with left illumination. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/C06-economy-ivory.png",
+        "review/C06-economy-white.png"
+      ]
+    },
+    {
+      "id": "D01",
+      "treatment": "signature",
+      "sourceSha256": "db4b4960c2736baf12a70574f4cb3f8d4b0c76b232a0a6d3cce59b6147fe0e2b",
+      "productionSha256": "ef1b234db52513a080e19729fedbc4025bff373b2d4b5f277e643dbc28ac171d",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D01-signature-ivory.png",
+        "review/D01-signature-white.png"
+      ]
+    },
+    {
+      "id": "D01",
+      "treatment": "economy",
+      "sourceSha256": "4192b92efb08e8b316b9a63e969ec3e953b85516a09e620bdaea24a08f1104ff",
+      "productionSha256": "86fd9311dfe8263480cb0cf36b1fd39661a7406dc0c55edf56cd0cac378cb391",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D01-economy-ivory.png",
+        "review/D01-economy-white.png"
+      ]
+    },
+    {
+      "id": "D02",
+      "treatment": "signature",
+      "sourceSha256": "099fc5ee62fa2ac00e610e06c9e7f3f9ed0269c950e1a641392930c449859ba4",
+      "productionSha256": "21a9628175f6fcd908ee313d66769cb3c7f02a30007cd9f4086e5c73c1577200",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D02-signature-ivory.png",
+        "review/D02-signature-white.png"
+      ]
+    },
+    {
+      "id": "D02",
+      "treatment": "economy",
+      "sourceSha256": "938874d40bb00d3bbaab814e856f4fdcf68beddea9de16e76dd7de18eeb2051c",
+      "productionSha256": "bfbb35a215aff8918598ce2d93f643d37f912cd1b4d9a3c50b2273ca4af3c6af",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D02-economy-ivory.png",
+        "review/D02-economy-white.png"
+      ]
+    },
+    {
+      "id": "D03",
+      "treatment": "signature",
+      "sourceSha256": "102f9d7279370fef95d7dac032b3bdb8c61d69e6e1b58eef5c7049d30459f31e",
+      "productionSha256": "0bdf02f25738791f7b5a43edfdb88987bef72bcf35ae8741dd112d865db861e3",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D03-signature-ivory.png",
+        "review/D03-signature-white.png"
+      ]
+    },
+    {
+      "id": "D03",
+      "treatment": "economy",
+      "sourceSha256": "8f1c7f0116b21d79513595b6f44584f5bdeef4b39ba87797c9a2cfb92fef9f6b",
+      "productionSha256": "08d49e485dd661efdccdc444c8afc095cdeff9551a501624976a74bede6643ff",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D03-economy-ivory.png",
+        "review/D03-economy-white.png"
+      ]
+    },
+    {
+      "id": "D04",
+      "treatment": "signature",
+      "sourceSha256": "2fe09e20d8b4b34e3ca749c639a2c8d2125b7a71ec52910c6ac6126ccd6fe7f2",
+      "productionSha256": "a4eda10fae9df5073043b517ddae06d1d34d73388d9a94facee570ed1f0e3a72",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D04-signature-ivory.png",
+        "review/D04-signature-white.png"
+      ]
+    },
+    {
+      "id": "D04",
+      "treatment": "economy",
+      "sourceSha256": "07e347db733a005f880e66d1014fe95a508585040e0890bd3fb8edfcec33baab",
+      "productionSha256": "c0f0827754acb55b03120d047f620874794cb72a55a09d361fe0a9f4dd6d13b0",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D04-economy-ivory.png",
+        "review/D04-economy-white.png"
+      ]
+    },
+    {
+      "id": "D05",
+      "treatment": "signature",
+      "sourceSha256": "a704106750e1cedd6425b3aa88d5ba77d026e7e6b51d6d395283422f86717549",
+      "productionSha256": "6459a3ba01b516417bbbb904d6e05dce6c5b7908663dd176f9fca0a0288eec2d",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D05-signature-ivory.png",
+        "review/D05-signature-white.png"
+      ]
+    },
+    {
+      "id": "D05",
+      "treatment": "economy",
+      "sourceSha256": "7482ef258906ed5c3b58cbb97f4abd47728817368c80ef99fe4b927039501be5",
+      "productionSha256": "2de2d8ea5a0ec82cecd277fb005e0113ee58e6a0c1f3e65350641352859f67dd",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D05-economy-ivory.png",
+        "review/D05-economy-white.png"
+      ]
+    },
+    {
+      "id": "D06",
+      "treatment": "signature",
+      "sourceSha256": "d9c5327060a54c2f3b197fd580031ad312dd7a6c172d0d18bb098e4a0293b14e",
+      "productionSha256": "ff4ec805d38506e566ba7f4fb6fee610a37a1af9b1ba36035f7d4de4bf659468",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D06-signature-ivory.png",
+        "review/D06-signature-white.png"
+      ]
+    },
+    {
+      "id": "D06",
+      "treatment": "economy",
+      "sourceSha256": "7a507748c58a7da091bacadd70bc3a2168c56cb0660fd1e1429343df93fb502c",
+      "productionSha256": "42a5d31fc015af73204a14ad50c9d28a84a25d556f6f1e8f14a2551747cf7b10",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D06-economy-ivory.png",
+        "review/D06-economy-white.png"
+      ]
+    },
+    {
+      "id": "D07",
+      "treatment": "signature",
+      "sourceSha256": "b7e4efe7cc6872014eaf685df04f8b2cdb4e884306d390971b52b4eec57b0e87",
+      "productionSha256": "a15a609529e593c06cd5c6014c4479157be889f8e93aa6c12ab573c51bc0e7e4",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D07-signature-ivory.png",
+        "review/D07-signature-white.png"
+      ]
+    },
+    {
+      "id": "D07",
+      "treatment": "economy",
+      "sourceSha256": "95e364b50f185ff5daf0cc7a2ea7f236f7c54a7bbc50a1d0289d91fb613a4bc8",
+      "productionSha256": "1ea8f395ca684a5b08147bd8d0fc45ffdb53bcca55d5adc507326fb5cfbd791d",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D07-economy-ivory.png",
+        "review/D07-economy-white.png"
+      ]
+    },
+    {
+      "id": "D08",
+      "treatment": "signature",
+      "sourceSha256": "735998e8a8b122eba29bdef26f5d92575a61c54bbd6028b83d9d2d5b32fb8c07",
+      "productionSha256": "4dde3c455292703400498ab5c93aefa6b50492f126a78d68702ddc26298b5a84",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D08-signature-ivory.png",
+        "review/D08-signature-white.png"
+      ]
+    },
+    {
+      "id": "D08",
+      "treatment": "economy",
+      "sourceSha256": "5e5b74db194967b413a357795e335cc259fe27090fe57c24ec832bc4e150f984",
+      "productionSha256": "edb003cde52f2331ed2f2563001b29784d1dce6451eda5383449cb4efd310526",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D08-economy-ivory.png",
+        "review/D08-economy-white.png"
+      ]
+    },
+    {
+      "id": "D09",
+      "treatment": "signature",
+      "sourceSha256": "4701349257845dfccbf8c842f331cb56c9ea1a6125f198e1d7409fa2156205f9",
+      "productionSha256": "d33325ba52abb413f725888d974c6fcb7c958cb5bc89d12ec6abf63bcbd0e750",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/D09-signature-ivory.png",
+        "review/D09-signature-white.png"
+      ]
+    },
+    {
+      "id": "D09",
+      "treatment": "economy",
+      "sourceSha256": "e67f60da65693071d4e426accec16a990ad6ae7ed236b64104e85d38577373cd",
+      "productionSha256": "58d23c914b871dc7fcc098ea7b66d3f6836faac94191f931db0c1d63190a2e36",
+      "result": "pass",
+      "finding": "Distinct apothecary shapes, blank typeset-label interiors and coherent snake/sprig contours. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/D09-economy-ivory.png",
+        "review/D09-economy-white.png"
+      ]
+    },
+    {
+      "id": "E01",
+      "treatment": "signature",
+      "sourceSha256": "fca788a7627ea57ed6ed512938a046a7b1e158fa1597e69f7b910c3ac5f93cbb",
+      "productionSha256": "41b0a3fce7c68b7a979db1ce1e260af1cbcefb520df59a74ccc832cd5fc0e5ba",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/E01-signature-ivory.png",
+        "review/E01-signature-white.png"
+      ]
+    },
+    {
+      "id": "E01",
+      "treatment": "economy",
+      "sourceSha256": "130825780635f67fd46865360858c88ddac9888c59d0386b7c642bbbe096bcee",
+      "productionSha256": "84534a11cb6900a85457b7d3079f3a3d1eadb325a48c14b31233f4602eabe8db",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/E01-economy-ivory.png",
+        "review/E01-economy-white.png"
+      ]
+    },
+    {
+      "id": "E02",
+      "treatment": "signature",
+      "sourceSha256": "1f88d34cec76a1957a6242d2e220fe004191b65a197bbe39aaff19508e5401e3",
+      "productionSha256": "4dda70125f06496fd5a57962a89171cd6be20d17d445a0884733a909ef2a12de",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/E02-signature-ivory.png",
+        "review/E02-signature-white.png"
+      ]
+    },
+    {
+      "id": "E02",
+      "treatment": "economy",
+      "sourceSha256": "ab7663100e0cd085920bde15a3af15960a7bb6e3c63f15a773456ee6796012d2",
+      "productionSha256": "120ef5c834166f9e11fe81bee154bf581d70ba00d7bbcaa30f4c1ed340c2c434",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/E02-economy-ivory.png",
+        "review/E02-economy-white.png"
+      ]
+    },
+    {
+      "id": "E03",
+      "treatment": "signature",
+      "sourceSha256": "4b6629545dd5c767ac304da439bc099ccc7a3aeb8eda6aa7a43af5269b0069ec",
+      "productionSha256": "1f19c576b89261586bcfe7ff47c0948121b2de48e52c96cd739f7b014d0386b6",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/E03-signature-ivory.png",
+        "review/E03-signature-white.png"
+      ]
+    },
+    {
+      "id": "E03",
+      "treatment": "economy",
+      "sourceSha256": "7ca0f9a4b9e250b6f2068868b68dad6c7acf1565ebf157ee39204f6f25dadc6b",
+      "productionSha256": "34743a4121703838eef7f3239f5bfdbc0c69c8bc65b570f4dc5e6ae4591ae01f",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/E03-economy-ivory.png",
+        "review/E03-economy-white.png"
+      ]
+    },
+    {
+      "id": "E04",
+      "treatment": "signature",
+      "sourceSha256": "012c14491a3db47a8a8c6e4a45f98a7203f92ac0b7ad588bafbdab83f6f83382",
+      "productionSha256": "bae05a4b46f62b17d1d9a2fb3e1811ad7ec5d07f90423ec0e63fd1386cd979c2",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/E04-signature-ivory.png",
+        "review/E04-signature-white.png"
+      ]
+    },
+    {
+      "id": "E04",
+      "treatment": "economy",
+      "sourceSha256": "8876acb8f9edf1bb957c04663317be2379f2b9cbb148763febb0a441e25262f9",
+      "productionSha256": "80dd01395d50d0c32c4ede93c2361f05bd1182a8732de9015b07aeaa739fdd52",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/E04-economy-ivory.png",
+        "review/E04-economy-white.png"
+      ]
+    },
+    {
+      "id": "E05",
+      "treatment": "signature",
+      "sourceSha256": "62f3b8bbb014b2f0f9db36108374881f6814c76db0b37488da876ffe47d74507",
+      "productionSha256": "1fa99bb1341f516bf26805301ea3440f0f78517088f8d49d73b040855662c97b",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Restricted oxblood, plum, charcoal and antique-gold engraving checked individually.",
+      "backdropEvidence": [
+        "review/E05-signature-ivory.png",
+        "review/E05-signature-white.png"
+      ]
+    },
+    {
+      "id": "E05",
+      "treatment": "economy",
+      "sourceSha256": "e507850ea9ee43aa296ffc6f5a4f1e28758c900286a11cd84f68e9c48c04db66",
+      "productionSha256": "eb22a08349bb14f349ca34bd6c84a0dc000e79076076bbd6045682c5a79c9ee6",
+      "result": "pass",
+      "finding": "Open lace and engraved flourishes retain clear outer contours and intentional negative space. Purpose-drawn neutral engraving checked on white; no colour wash or paper rectangle.",
+      "backdropEvidence": [
+        "review/E05-economy-ivory.png",
+        "review/E05-economy-white.png"
+      ]
+    }
+  ]
+}

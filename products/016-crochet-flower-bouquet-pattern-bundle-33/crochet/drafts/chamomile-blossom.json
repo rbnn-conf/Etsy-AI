@@ -1,0 +1,80 @@
+{
+  "pattern_id": "chamomile-blossom",
+  "name": "Chamomile Blossom",
+  "category": "flower accent",
+  "difficulty": "beginner",
+  "finished_size": "About 3 cm across",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn for the raised centre",
+      "colour": "warm yellow",
+      "amount": "About 2 m"
+    },
+    {
+      "description": "Fine cotton yarn for the petals",
+      "colour": "white",
+      "amount": "About 3 m"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Small scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "puff"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "puff": "puff stitch",
+    "MR": "magic ring",
+    "rnd": "round",
+    "st": "stitch",
+    "rep": "repeat"
+  },
+  "gauge": "Gauge is not critical; use a firm tension so the centre remains rounded and the petals hold their shape.",
+  "instructions": [
+    {
+      "heading": "Chamomile Blossom",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With yellow, make an MR; work 8 sc in MR. Join with sl st to first sc.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1; work 1 puff in each st around. Join with sl st to first puff. Fasten off yellow.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Petal rnd",
+          "text": "Join white with sl st in the top of any puff. Ch 5, hdc in second ch from hook, hdc in next ch, sc in next ch, sl st in next ch, sl st in next puff; rep this petal sequence 7 times to make 8 petals.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off the white yarn, leaving a short tail.",
+    "Weave in the white and yellow yarn tails on the back of the flower.",
+    "Gently spread the petals evenly around the raised centre."
+  ],
+  "notes": [
+    "puff: Yarn over, insert hook in the indicated stitch, yarn over and draw up a loop to hdc height; repeat twice more, yarn over and draw through all 7 loops on hook.",
+    "For a slightly more rounded centre, pull the magic ring closed firmly before working Rnd 2."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

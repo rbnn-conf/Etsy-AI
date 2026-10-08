@@ -1,0 +1,371 @@
+{
+  "schema_version": 2,
+  "product_id": "018",
+  "product_name": "The Apple Pie Kitchen Colouring Book",
+  "slug": "apple-pie-kitchen-colouring-book",
+  "product_type": "Autumn colouring book",
+  "product_format": "colouring-book",
+  "page_count": 10,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Portrait black-and-white colouring pages with generous clear margins and broad, easy-to-colour kitchen and autumn motifs."
+  },
+  "approved": {
+    "creative_approved_at": "2026-10-06T14:22:13.931Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "B",
+      "proposed_name": "The Apple Pie Kitchen Colouring Book"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    },
+    "full_artwork": {
+      "approved_at": "2026-10-06T14:29:16.096Z",
+      "approved_by": "@romg_o",
+      "manifest_sha256": "f09f85ebfb6a8e0d069a120de73f744b8fb112749a85b7bd558872e9cfd39a57",
+      "pages_sha256": "7ac36edf08b5bfb04d4100f9363eb07227bb749fd810f2e156a939f2ac2152ef",
+      "qc_sha256": "bea342d6d080c2f99270bbbf84333dba7a68073b430612361ae6e767b1616307"
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "20fb4a0940f8b67163e6fe71cdf4388c8cddee85240cd8fb1ff91491d493202e"
+    },
+    "book_manifest": {
+      "file": "book/manifest.json",
+      "sha256": "f09f85ebfb6a8e0d069a120de73f744b8fb112749a85b7bd558872e9cfd39a57"
+    },
+    "book_qc": {
+      "file": "book/qc.json",
+      "sha256": "bea342d6d080c2f99270bbbf84333dba7a68073b430612361ae6e767b1616307"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "fc4864769cc2851bc7c454ada02f90d32f639617dc86974210785f42a0c702cb"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "P001",
+      "file": "book/pages/P001.png",
+      "page_number": 1,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "616bbffcc862d31c3e9d1c03194bf9a2a473f4378234a8f5764b94d64bc9fefd",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P002",
+      "file": "book/pages/P002.png",
+      "page_number": 2,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P003",
+      "file": "book/pages/P003.png",
+      "page_number": 3,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "cce54f97381e349f3b9676ae4214e76b262ce4e40d75e7987ca965adc0c24570",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P004",
+      "file": "book/pages/P004.png",
+      "page_number": 4,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "8836f6bb7d64cd5ec47ace70c918e4c7809db3d76bd11cbb3d0e9b054581fe24",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P005",
+      "file": "book/pages/P005.png",
+      "page_number": 5,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "816b503517d016864ac3fab62eba51899baeccd8408169638106b996eafb6113",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P006",
+      "file": "book/pages/P006.png",
+      "page_number": 6,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a929b2430421a34b0b77f92b7dc53a5badce9ae7af051a51ba00f80fa567ed61",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P007",
+      "file": "book/pages/P007.png",
+      "page_number": 7,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "d16df90ec4e3831c69eef9df8f3d4feaba6490eb354ff40bd528d07fc6be9a3d",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P008",
+      "file": "book/pages/P008.png",
+      "page_number": 8,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "aa0159f1db0ab40f1e8fd6c7c0aa75ffbd4e7c7e10f8354ba9e90c17f51ce1bb",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P009",
+      "file": "book/pages/P009.png",
+      "page_number": 9,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "3a841398f4122397ec1ab83b7dff20a76454525a06d09b54bc87d5c8d9b778a6",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P010",
+      "file": "book/pages/P010.png",
+      "page_number": 10,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "0d449e72307a2847e9252aa49aa32998f817f20b1204936c2bcec94097986e69",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "The Apple Pie Kitchen Colouring Book",
+      "asset": "P001",
+      "approved_text": [
+        "The Apple Pie Kitchen Colouring Book"
+      ],
+      "production_notes": "Verify the cover title exactly, including British spelling of “Colouring”. Keep lettering large, legible and separate from the illustration. This is the only page with printed title text; do not add a byline, logo, badge or page count."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Apple Picking",
+      "asset": "P002",
+      "approved_text": [],
+      "production_notes": "Check exact item count: six apples in the basket, one apple being reached for on the branch, and three apples on the ground. Ensure every apple is a distinct, colourable enclosed shape."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Mixing the Filling",
+      "asset": "P003",
+      "approved_text": [],
+      "production_notes": "Ensure exactly four apple slices are visible and large enough to colour. Keep any flour sack unlabelled to avoid unintended text. Do not add recipe wording."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Rolling Pastry",
+      "asset": "P004",
+      "approved_text": [],
+      "production_notes": "Check exact count of three leaf-shaped pastry cut-outs and one apple carried by the mouse. Keep the pastry circle broad and free of dense texture so it is colourable."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Pie in the Oven",
+      "asset": "P005",
+      "approved_text": [],
+      "production_notes": "There must be exactly one pie inside the oven. Make oven bars and lattice strips bold and widely spaced, avoiding narrow, difficult-to-colour gaps."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Cinnamon Bun Swirls",
+      "asset": "P006",
+      "approved_text": [],
+      "production_notes": "Verify tray count: exactly five buns. The two loose dough spirals must be clearly distinct from the buns. Use broad spiral lines with open colouring spaces."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Cooling Rack Treats",
+      "asset": "P007",
+      "approved_text": [],
+      "production_notes": "Check fixed counts: two hand pies, three cinnamon buns and five leaves on the outside branch. Preserve open spaces between rack bars and baked goods."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Setting the Tea Table",
+      "asset": "P008",
+      "approved_text": [],
+      "production_notes": "Verify exactly three cups, three plates and three pie slices. Characters should have clear, friendly expressions and not overlap tableware confusingly."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Sharing Apple Pie",
+      "asset": "P009",
+      "approved_text": [],
+      "production_notes": "Check there are exactly three seated characters, three individual pie slices and one whole pie on the sideboard. Keep faces and forks distinct, with no tiny food details."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "A Cosy Kitchen Goodbye",
+      "asset": "P010",
+      "approved_text": [],
+      "production_notes": "Check exact counts: one whole pie, four cinnamon buns, three stacked dishes and two stars. Keep the moon and stars simple and modest, with no dark night fill. Include A4 and US Letter printing guidance as separate unillustrated deliverable files, not as book pages."
+    }
+  ],
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "book": {
+    "pages": [
+      {
+        "page_number": 1,
+        "title": "The Apple Pie Kitchen Colouring Book",
+        "page_type": "cover",
+        "role": "cover",
+        "asset": "P001"
+      },
+      {
+        "page_number": 2,
+        "title": "Apple Picking",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P002"
+      },
+      {
+        "page_number": 3,
+        "title": "Mixing the Filling",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P003"
+      },
+      {
+        "page_number": 4,
+        "title": "Rolling Pastry",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P004"
+      },
+      {
+        "page_number": 5,
+        "title": "Pie in the Oven",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P005"
+      },
+      {
+        "page_number": 6,
+        "title": "Cinnamon Bun Swirls",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P006"
+      },
+      {
+        "page_number": 7,
+        "title": "Cooling Rack Treats",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P007"
+      },
+      {
+        "page_number": 8,
+        "title": "Setting the Tea Table",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P008"
+      },
+      {
+        "page_number": 9,
+        "title": "Sharing Apple Pie",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P009"
+      },
+      {
+        "page_number": 10,
+        "title": "A Cosy Kitchen Goodbye",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P010"
+      }
+    ],
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "cover": true
+  },
+  "review_notes": [
+    "Page 1 (cover, P001): check the baked-in text reads exactly \"The Apple Pie Kitchen Colouring Book\"."
+  ]
+}

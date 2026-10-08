@@ -1,0 +1,464 @@
+{
+  "version": 1,
+  "product_id": "024",
+  "product_name": "Little Halloween Costume Accessories",
+  "created_at": "2026-10-07T23:45:16.605Z",
+  "generator": {
+    "stage": "Stage 1 crochet visual set (ADR-063)",
+    "code": "visual-set v1",
+    "provider": "openai",
+    "model": "gpt-image-2.5-flare",
+    "quality": "medium",
+    "sizes": {
+      "hero": "1536x1024",
+      "pattern-preview": "1024x1024"
+    }
+  },
+  "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+  "patterns": {
+    "file": "crochet/patterns.json",
+    "sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+  },
+  "fingerprints": {
+    "bat-hair-clip": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5",
+    "witch-hat-brooch": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91",
+    "candy-corn-bag-charm": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886"
+  },
+  "briefs": {
+    "file": "visuals/crochet/briefs.json",
+    "sha256": "2080338a7376639cb4176ba602faf56632635cfd0ebc87115c4f0725754913be",
+    "hero": {
+      "version": 1,
+      "kind": "hero",
+      "product_id": "024",
+      "title": "Little Halloween Costume Accessories",
+      "theme": "Little Halloween costume accessories",
+      "season": "Halloween",
+      "scene_type": "editorial lifestyle styled scene",
+      "hero_subject": {
+        "pattern_id": "bat-hair-clip",
+        "pattern_name": "Moonlit Bat Hair Clip",
+        "object_type": "hair accessory",
+        "quantity": 1,
+        "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5",
+        "staging": "placed naturally where it is clearly visible"
+      },
+      "supporting_subjects": [
+        {
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "object_type": "hat",
+          "quantity": 1,
+          "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91",
+          "staging": "resting naturally"
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "object_type": "bag",
+          "quantity": 1,
+          "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886",
+          "staging": "resting naturally on the surface"
+        }
+      ],
+      "environment": "a calm, softly lit home interior",
+      "surface": "plain natural linen over warm wood",
+      "lighting": "warm late-afternoon autumn light from one side, soft realistic shadows",
+      "camera": "eye-level three-quarter view from slightly above, 50 mm lens, gentle depth of field with the hero piece in sharp focus",
+      "composition": "asymmetrical but balanced editorial composition with layered depth (foreground, middle ground, background); the hero piece is the dominant focal point; each supporting approved piece is used naturally and stays clearly readable; generous breathing room; never a flat catalogue grid",
+      "palette": [
+        "Black",
+        "White",
+        "Lavender",
+        "Orange",
+        "Yellow",
+        "warm walnut",
+        "natural linen",
+        "cream stoneware"
+      ],
+      "props": [
+        "a few dried berries",
+        "small pinecones",
+        "a lit pillar candle",
+        "a sprig of real dried autumn leaves"
+      ],
+      "must_show": [
+        "Moonlit Bat Hair Clip [bat-hair-clip]: placed naturally where it is clearly visible",
+        "Lavender Witch-Hat Brooch [witch-hat-brooch]: resting naturally",
+        "Candy-Corn Bag Charm [candy-corn-bag-charm]: resting naturally on the surface"
+      ],
+      "may_show": [
+        "a few dried berries",
+        "small pinecones",
+        "a lit pillar candle",
+        "a sprig of real dried autumn leaves"
+      ],
+      "must_not_show": [
+        "crochet placemats",
+        "crochet table runners",
+        "crochet coasters",
+        "crochet napkin rings",
+        "crochet cutlery pockets or pouches",
+        "crochet appliqués",
+        "crochet garlands or bunting",
+        "crochet baskets",
+        "crochet cushions",
+        "crochet blankets or throws",
+        "crochet scarves",
+        "crochet ornaments",
+        "crochet toys or amigurumi",
+        "crochet doilies",
+        "crochet flowers",
+        "loose crochet leaves",
+        "loose or extra crochet leaves, flowers or motifs",
+        "a second copy of any approved piece",
+        "any crochet, knitted or yarn item not listed under APPROVED CROCHET OBJECTS",
+        "text, lettering, labels, logos, watermarks, price tags or packaging",
+        "hands or people"
+      ],
+      "crochet_objects": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "object_type": "hair accessory",
+          "quantity": 1,
+          "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5"
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "object_type": "hat",
+          "quantity": 1,
+          "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91"
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "object_type": "bag",
+          "quantity": 1,
+          "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886"
+        }
+      ],
+      "not_pictured": []
+    },
+    "previews": [
+      {
+        "version": 1,
+        "kind": "pattern-preview",
+        "product_id": "024",
+        "pattern_number": 1,
+        "pattern_id": "bat-hair-clip",
+        "pattern_name": "Moonlit Bat Hair Clip",
+        "object_type": "hair accessory",
+        "primary_subject": "the finished Moonlit Bat Hair Clip, one piece, whole and clearly visible",
+        "finished_dimensions": "About 7 cm wide, excluding the clip",
+        "colour_direction": "Black, White",
+        "construction": "worked in the round, worked in rows",
+        "view": "the whole piece visible",
+        "styling_context": "on plain natural linen",
+        "background": "a warm wood table or plain natural linen, softly out of focus, uncluttered",
+        "lighting": "soft natural window light from one side, gentle contact shadows",
+        "props": [],
+        "must_show": [
+          "Moonlit Bat Hair Clip [bat-hair-clip]: the whole finished piece, its shape easy to read",
+          "realistic crochet stitches and yarn texture"
+        ],
+        "must_not_show": [
+          "the Lavender Witch-Hat Brooch (another pattern in this collection)",
+          "the Candy-Corn Bag Charm (another pattern in this collection)",
+          "crochet placemats",
+          "crochet table runners",
+          "crochet coasters",
+          "crochet napkin rings",
+          "crochet cutlery pockets or pouches",
+          "crochet appliqués",
+          "crochet garlands or bunting",
+          "crochet baskets",
+          "crochet cushions",
+          "crochet blankets or throws",
+          "crochet bags or purses",
+          "crochet hats",
+          "crochet scarves",
+          "crochet ornaments",
+          "crochet toys or amigurumi",
+          "crochet doilies",
+          "crochet flowers",
+          "loose crochet leaves",
+          "loose or extra crochet leaves, flowers or motifs",
+          "a second copy of any approved piece",
+          "any crochet, knitted or yarn item not listed under APPROVED CROCHET OBJECTS",
+          "text, lettering, labels, logos, watermarks, price tags or packaging",
+          "hands or people"
+        ],
+        "crochet_objects": [
+          {
+            "pattern_id": "bat-hair-clip",
+            "pattern_name": "Moonlit Bat Hair Clip",
+            "object_type": "hair accessory",
+            "quantity": 1,
+            "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5"
+          }
+        ],
+        "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5"
+      },
+      {
+        "version": 1,
+        "kind": "pattern-preview",
+        "product_id": "024",
+        "pattern_number": 2,
+        "pattern_id": "witch-hat-brooch",
+        "pattern_name": "Lavender Witch-Hat Brooch",
+        "object_type": "hat",
+        "primary_subject": "the finished Lavender Witch-Hat Brooch, one piece, whole and clearly visible",
+        "finished_dimensions": "About 6 cm wide and 6 cm tall",
+        "colour_direction": "Lavender",
+        "construction": "as written in the pattern",
+        "view": "a three-quarter view showing crown and brim",
+        "styling_context": "resting on a plain surface",
+        "background": "a warm wood table or plain natural linen, softly out of focus, uncluttered",
+        "lighting": "soft natural window light from one side, gentle contact shadows",
+        "props": [],
+        "must_show": [
+          "Lavender Witch-Hat Brooch [witch-hat-brooch]: the whole finished piece, its shape easy to read",
+          "realistic crochet stitches and yarn texture"
+        ],
+        "must_not_show": [
+          "the Moonlit Bat Hair Clip (another pattern in this collection)",
+          "the Candy-Corn Bag Charm (another pattern in this collection)",
+          "crochet placemats",
+          "crochet table runners",
+          "crochet coasters",
+          "crochet napkin rings",
+          "crochet cutlery pockets or pouches",
+          "crochet appliqués",
+          "crochet garlands or bunting",
+          "crochet baskets",
+          "crochet cushions",
+          "crochet blankets or throws",
+          "crochet bags or purses",
+          "crochet scarves",
+          "crochet ornaments",
+          "crochet toys or amigurumi",
+          "crochet doilies",
+          "crochet flowers",
+          "loose crochet leaves",
+          "loose or extra crochet leaves, flowers or motifs",
+          "a second copy of any approved piece",
+          "any crochet, knitted or yarn item not listed under APPROVED CROCHET OBJECTS",
+          "text, lettering, labels, logos, watermarks, price tags or packaging",
+          "hands or people"
+        ],
+        "crochet_objects": [
+          {
+            "pattern_id": "witch-hat-brooch",
+            "pattern_name": "Lavender Witch-Hat Brooch",
+            "object_type": "hat",
+            "quantity": 1,
+            "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91"
+          }
+        ],
+        "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91"
+      },
+      {
+        "version": 1,
+        "kind": "pattern-preview",
+        "product_id": "024",
+        "pattern_number": 3,
+        "pattern_id": "candy-corn-bag-charm",
+        "pattern_name": "Candy-Corn Bag Charm",
+        "object_type": "bag",
+        "primary_subject": "the finished Candy-Corn Bag Charm, one piece, whole and clearly visible",
+        "finished_dimensions": "About 6 cm tall, excluding the hanging loop.",
+        "colour_direction": "White, Orange, Yellow",
+        "construction": "worked in rows",
+        "view": "a front view showing its shape and opening",
+        "styling_context": "resting on a plain surface",
+        "background": "a warm wood table or plain natural linen, softly out of focus, uncluttered",
+        "lighting": "soft natural window light from one side, gentle contact shadows",
+        "props": [],
+        "must_show": [
+          "Candy-Corn Bag Charm [candy-corn-bag-charm]: the whole finished piece, its shape easy to read",
+          "realistic crochet stitches and yarn texture"
+        ],
+        "must_not_show": [
+          "the Moonlit Bat Hair Clip (another pattern in this collection)",
+          "the Lavender Witch-Hat Brooch (another pattern in this collection)",
+          "crochet placemats",
+          "crochet table runners",
+          "crochet coasters",
+          "crochet napkin rings",
+          "crochet cutlery pockets or pouches",
+          "crochet appliqués",
+          "crochet garlands or bunting",
+          "crochet baskets",
+          "crochet cushions",
+          "crochet blankets or throws",
+          "crochet hats",
+          "crochet scarves",
+          "crochet ornaments",
+          "crochet toys or amigurumi",
+          "crochet doilies",
+          "crochet flowers",
+          "loose crochet leaves",
+          "loose or extra crochet leaves, flowers or motifs",
+          "a second copy of any approved piece",
+          "any crochet, knitted or yarn item not listed under APPROVED CROCHET OBJECTS",
+          "text, lettering, labels, logos, watermarks, price tags or packaging",
+          "hands or people"
+        ],
+        "crochet_objects": [
+          {
+            "pattern_id": "candy-corn-bag-charm",
+            "pattern_name": "Candy-Corn Bag Charm",
+            "object_type": "bag",
+            "quantity": 1,
+            "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886"
+          }
+        ],
+        "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "id": "crochet-hero",
+      "role": "hero",
+      "pattern_id": null,
+      "pattern_name": null,
+      "file": "visuals/crochet/hero/hero.png",
+      "sha256": "4eb6bf01552179a4ad3fe4ef9d90c9f76621919e19f038da884466bdf48c4c58",
+      "width": 1536,
+      "height": 1024,
+      "size": "1536x1024",
+      "model": "gpt-image-2.5-flare",
+      "generated_at": "2026-10-07T23:44:48.258Z",
+      "revision": 0,
+      "brief_sha256": "c9c1269d8dcf27c01349e2f7f91504e4b41f741777e4d0a3158169eaa61dfe0e",
+      "prompt_sha256": "58aeedb05b85f7e00f7c52f9e299c20df60324996ccd8d87c315ef2ce50cd9b0",
+      "fingerprint_sha256": "200810d92292f65a6d4327b6989f944d69a046753789b9b4dc53021bbf0e2c41"
+    },
+    {
+      "id": "crochet-preview-bat-hair-clip",
+      "role": "pattern-preview",
+      "pattern_id": "bat-hair-clip",
+      "pattern_name": "Moonlit Bat Hair Clip",
+      "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+      "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01",
+      "width": 1024,
+      "height": 1024,
+      "size": "1024x1024",
+      "model": "gpt-image-2.5-flare",
+      "generated_at": "2026-10-07T23:44:57.347Z",
+      "revision": 0,
+      "brief_sha256": "9e580da4db3d71619eb25a22fe89d009c84a775f75681c3caa77475d7fee659d",
+      "prompt_sha256": "0867422a75c656e6a6d4ead737431fa10f7926105048a26ef2bbec416a5cca93",
+      "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5"
+    },
+    {
+      "id": "crochet-preview-witch-hat-brooch",
+      "role": "pattern-preview",
+      "pattern_id": "witch-hat-brooch",
+      "pattern_name": "Lavender Witch-Hat Brooch",
+      "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+      "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a",
+      "width": 1024,
+      "height": 1024,
+      "size": "1024x1024",
+      "model": "gpt-image-2.5-flare",
+      "generated_at": "2026-10-07T23:45:06.294Z",
+      "revision": 0,
+      "brief_sha256": "50d697990df560ec9a6a9c745c661bc13313a2eee1b8d686a7705e250aaed0e0",
+      "prompt_sha256": "b9452ffab889e3afaf981c4362a605bcf57be7c19c7f58943e71450cd914e47a",
+      "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91"
+    },
+    {
+      "id": "crochet-preview-candy-corn-bag-charm",
+      "role": "pattern-preview",
+      "pattern_id": "candy-corn-bag-charm",
+      "pattern_name": "Candy-Corn Bag Charm",
+      "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+      "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f",
+      "width": 1024,
+      "height": 1024,
+      "size": "1024x1024",
+      "model": "gpt-image-2.5-flare",
+      "generated_at": "2026-10-07T23:45:16.198Z",
+      "revision": 0,
+      "brief_sha256": "2b67fcff8d777d8436a01da94710ecdfdf6e39b1bda8da8726781835cbeecf10",
+      "prompt_sha256": "45553cb7a84b2e1767535d81665ed62dc2468e1ccba572357a83c877ce774fa0",
+      "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886"
+    }
+  ],
+  "qc": {
+    "version": 1,
+    "passed": true,
+    "checks": [
+      {
+        "name": "every crochet object maps to an approved pattern and its current fingerprint",
+        "ok": true
+      },
+      {
+        "name": "one hero and exactly one preview per approved pattern, each mapped to its own pattern",
+        "ok": true
+      },
+      {
+        "name": "props and staging never name a crochet item; no vague product wording",
+        "ok": true
+      },
+      {
+        "name": "files present, unchanged, decodable, not blank",
+        "ok": true
+      },
+      {
+        "name": "previews print at >= 200 ppi in the fixed slot with a safe crop; hero large enough",
+        "ok": true
+      }
+    ],
+    "problems": [],
+    "warnings": [],
+    "fit": {
+      "crochet-preview-bat-hair-clip": {
+        "ppi": 372,
+        "visible": 0.8
+      },
+      "crochet-preview-witch-hat-brooch": {
+        "ppi": 372,
+        "visible": 0.8
+      },
+      "crochet-preview-candy-corn-bag-charm": {
+        "ppi": 372,
+        "visible": 0.8
+      }
+    },
+    "not_checked": "What each image shows is not machine-checked: the owner reviews every image for wrong or extra crochet items. No stitch-level correctness is claimed.",
+    "at": "2026-10-07T23:45:16.605Z"
+  },
+  "provenance": {
+    "kind": "illustration",
+    "photographic_evidence": false,
+    "note": "AI-generated illustrative renderings of finished items made from the patterns. Not photographs, not test-crocheted. The pattern instructions remain AI-assisted and unverified unless separately test-crocheted."
+  },
+  "approval": {
+    "approved_at": "2026-10-07T23:45:30.516Z",
+    "by": "@romg_o",
+    "assets": [
+      {
+        "id": "crochet-hero",
+        "sha256": "4eb6bf01552179a4ad3fe4ef9d90c9f76621919e19f038da884466bdf48c4c58"
+      },
+      {
+        "id": "crochet-preview-bat-hair-clip",
+        "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01"
+      },
+      {
+        "id": "crochet-preview-witch-hat-brooch",
+        "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a"
+      },
+      {
+        "id": "crochet-preview-candy-corn-bag-charm",
+        "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f"
+      }
+    ],
+    "note": "Owner approval of these illustrative images for production. Not a statement that any item was test-crocheted."
+  }
+}

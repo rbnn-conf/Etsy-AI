@@ -1,0 +1,2128 @@
+{
+  "schema_version": 2,
+  "product_id": "023",
+  "handoff_sha256": "fc79392b4190b582a054efe8bb64f5d6f14b6c721aa13d040134b9e22c11dd94",
+  "adapter": {
+    "format": "colouring-book",
+    "design": "standard",
+    "design_name": "Standard",
+    "version": 1
+  },
+  "image_encoding": {
+    "pdf": 95,
+    "pages_png": true
+  },
+  "package": "LumiumX-Midnight-Monster-Diner-Colouring-Book",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Colouring-Pages-PNG",
+    "Guide"
+  ],
+  "card_variants": null,
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "page": 2,
+      "label": "Page 2 of 21 (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "page": 21,
+      "label": "Page 21 of 21 (A4)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "259904be46e8d53027f14d65409468ea7adf03193851f0f797216164322382a3",
+      "bytes": 2265,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "797c59a8b05d5bf9ad52f06127c79a8b963cbbb2cd824575ae0a883f463dbe7e",
+      "bytes": 7689223,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "02f70c16dbfdbeee2c877c2ecec83243de294072e2ba85489f280c27d32cd963"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "e1ff3cc429bb984c7cfe32fb4eb3781334500a7b5616d7c75e24346100f2d00d"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "28ef7d9762837c38da58b77bfda335fb187d007897f5a2cac0ebbca0846c11f8"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "bf438e2cef75e0f5069705f21f67968d2048e091cd76710886ac7ec55d69de84"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "4b78d4adf029cb7d53b64d7f1edb5228e0bd559ef41dafaabfcdf2d4a9be25ca"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "73ad8bb255977b87df05796c5adbcbb899db7ef4e75c7a2f24463f749eca4133"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "63a630f8236da4d147b02ff1c99fcef4301fbf428f30d27dd076b42d9d4195f2"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "4424b0519801fe6d35ac587dcaff43936df5017ed467e1506dfec04fa8695092"
+        },
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "a9572d0a145fc7a460c475202b5f0d2ca80230e755310cd6b38cbbef0fa0d7d5"
+        },
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059"
+        },
+        {
+          "asset": "P013",
+          "file": "book/pages/P013.png",
+          "sha256": "ab056a6461e3095162ac31a9fe5f34a99760643b42e770926db891d6d923ba1d"
+        },
+        {
+          "asset": "P014",
+          "file": "book/pages/P014.png",
+          "sha256": "24f5cb5e145a7bd505df7fd11ac524959f4496ff45c0b9a2cf9eb21b94323789"
+        },
+        {
+          "asset": "P015",
+          "file": "book/pages/P015.png",
+          "sha256": "0c3dc43d89415565e4461285c57564738f11ea0fcfcecb680371538d8712ab5c"
+        },
+        {
+          "asset": "P016",
+          "file": "book/pages/P016.png",
+          "sha256": "a41977fc55cab82555f840249a1c84e8e25a445b9459658a1b9e81d83e09bc47"
+        },
+        {
+          "asset": "P017",
+          "file": "book/pages/P017.png",
+          "sha256": "b7d56c00d450fb65cd951cc72f7a19466318a68e6adf1c8c5d58c11fc4592a03"
+        },
+        {
+          "asset": "P018",
+          "file": "book/pages/P018.png",
+          "sha256": "c38b86a77b7392dd3aa22e2a3bd972dfd4c50be42877a4309907acc0ab9c5eb6"
+        },
+        {
+          "asset": "P019",
+          "file": "book/pages/P019.png",
+          "sha256": "5d2e4a0fcad01c33ff21dd22fca1fe58d3b53726ad2d161afc1beed7423362db"
+        },
+        {
+          "asset": "P020",
+          "file": "book/pages/P020.png",
+          "sha256": "a427fba1949a7d20e12e6aa23594c482955481ecd52c8438e3b2825a8c6a7f91"
+        },
+        {
+          "asset": "P021",
+          "file": "book/pages/P021.png",
+          "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96"
+        }
+      ],
+      "expect": {
+        "pages": 21,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 11",
+          "role": "page",
+          "page_number": 11,
+          "asset": "P011",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 12",
+          "role": "page",
+          "page_number": 12,
+          "asset": "P012",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 13",
+          "role": "page",
+          "page_number": 13,
+          "asset": "P013",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 14",
+          "role": "page",
+          "page_number": 14,
+          "asset": "P014",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 15",
+          "role": "page",
+          "page_number": 15,
+          "asset": "P015",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 16",
+          "role": "page",
+          "page_number": 16,
+          "asset": "P016",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 17",
+          "role": "page",
+          "page_number": 17,
+          "asset": "P017",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 18",
+          "role": "page",
+          "page_number": 18,
+          "asset": "P018",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 19",
+          "role": "page",
+          "page_number": 19,
+          "asset": "P019",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 20",
+          "role": "page",
+          "page_number": 20,
+          "asset": "P020",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 21",
+          "role": "page",
+          "page_number": 21,
+          "asset": "P021",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Midnight-Monster-Diner-Colouring-Book-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "a2387d0fa19fd89889afe8cfbc8a60da1aa99c95de4a9ffffa6c61f33b8f7ebc",
+      "bytes": 7689297,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "02f70c16dbfdbeee2c877c2ecec83243de294072e2ba85489f280c27d32cd963"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "e1ff3cc429bb984c7cfe32fb4eb3781334500a7b5616d7c75e24346100f2d00d"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "28ef7d9762837c38da58b77bfda335fb187d007897f5a2cac0ebbca0846c11f8"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "bf438e2cef75e0f5069705f21f67968d2048e091cd76710886ac7ec55d69de84"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "4b78d4adf029cb7d53b64d7f1edb5228e0bd559ef41dafaabfcdf2d4a9be25ca"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "73ad8bb255977b87df05796c5adbcbb899db7ef4e75c7a2f24463f749eca4133"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "63a630f8236da4d147b02ff1c99fcef4301fbf428f30d27dd076b42d9d4195f2"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "4424b0519801fe6d35ac587dcaff43936df5017ed467e1506dfec04fa8695092"
+        },
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "a9572d0a145fc7a460c475202b5f0d2ca80230e755310cd6b38cbbef0fa0d7d5"
+        },
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059"
+        },
+        {
+          "asset": "P013",
+          "file": "book/pages/P013.png",
+          "sha256": "ab056a6461e3095162ac31a9fe5f34a99760643b42e770926db891d6d923ba1d"
+        },
+        {
+          "asset": "P014",
+          "file": "book/pages/P014.png",
+          "sha256": "24f5cb5e145a7bd505df7fd11ac524959f4496ff45c0b9a2cf9eb21b94323789"
+        },
+        {
+          "asset": "P015",
+          "file": "book/pages/P015.png",
+          "sha256": "0c3dc43d89415565e4461285c57564738f11ea0fcfcecb680371538d8712ab5c"
+        },
+        {
+          "asset": "P016",
+          "file": "book/pages/P016.png",
+          "sha256": "a41977fc55cab82555f840249a1c84e8e25a445b9459658a1b9e81d83e09bc47"
+        },
+        {
+          "asset": "P017",
+          "file": "book/pages/P017.png",
+          "sha256": "b7d56c00d450fb65cd951cc72f7a19466318a68e6adf1c8c5d58c11fc4592a03"
+        },
+        {
+          "asset": "P018",
+          "file": "book/pages/P018.png",
+          "sha256": "c38b86a77b7392dd3aa22e2a3bd972dfd4c50be42877a4309907acc0ab9c5eb6"
+        },
+        {
+          "asset": "P019",
+          "file": "book/pages/P019.png",
+          "sha256": "5d2e4a0fcad01c33ff21dd22fca1fe58d3b53726ad2d161afc1beed7423362db"
+        },
+        {
+          "asset": "P020",
+          "file": "book/pages/P020.png",
+          "sha256": "a427fba1949a7d20e12e6aa23594c482955481ecd52c8438e3b2825a8c6a7f91"
+        },
+        {
+          "asset": "P021",
+          "file": "book/pages/P021.png",
+          "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96"
+        }
+      ],
+      "expect": {
+        "pages": 21,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 11",
+          "role": "page",
+          "page_number": 11,
+          "asset": "P011",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 12",
+          "role": "page",
+          "page_number": 12,
+          "asset": "P012",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 13",
+          "role": "page",
+          "page_number": 13,
+          "asset": "P013",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 14",
+          "role": "page",
+          "page_number": 14,
+          "asset": "P014",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 15",
+          "role": "page",
+          "page_number": 15,
+          "asset": "P015",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 16",
+          "role": "page",
+          "page_number": 16,
+          "asset": "P016",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 17",
+          "role": "page",
+          "page_number": 17,
+          "asset": "P017",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 18",
+          "role": "page",
+          "page_number": 18,
+          "asset": "P018",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 19",
+          "role": "page",
+          "page_number": 19,
+          "asset": "P019",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 20",
+          "role": "page",
+          "page_number": 20,
+          "asset": "P020",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 21",
+          "role": "page",
+          "page_number": 21,
+          "asset": "P021",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 1,
+      "sha256": "8b7d657d6d241c77e94ca70b08b4ca80e8c1569390f82953784ae310228496bf",
+      "bytes": 1420965,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P001"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 2,
+      "sha256": "ed7cabdc7a0aabd4c831bc269bda69c81c512beb35d83ca14d6df7233ba4b393",
+      "bytes": 1236450,
+      "sources": [
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P002"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 3,
+      "sha256": "28c16076515c19bbde61ae86b9a865ab6e4db40453a21e471d6375f54961cd14",
+      "bytes": 1293381,
+      "sources": [
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "02f70c16dbfdbeee2c877c2ecec83243de294072e2ba85489f280c27d32cd963"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P003"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 4,
+      "sha256": "fa4eb55c5512931b267cb2ba582e09691ae5cb70de0bdaa9d4f0a00197a1a699",
+      "bytes": 1198556,
+      "sources": [
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "e1ff3cc429bb984c7cfe32fb4eb3781334500a7b5616d7c75e24346100f2d00d"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P004"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 5,
+      "sha256": "5eef889ad7162d84dc663eead62695c74632ea2343069df436bb791357617971",
+      "bytes": 1216541,
+      "sources": [
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "28ef7d9762837c38da58b77bfda335fb187d007897f5a2cac0ebbca0846c11f8"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P005"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 6,
+      "sha256": "b76b574afa31e70d1d23e6dcb8c8e5d6d41e993774fe1624518ce5675e0e9cfd",
+      "bytes": 1282326,
+      "sources": [
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "bf438e2cef75e0f5069705f21f67968d2048e091cd76710886ac7ec55d69de84"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P006"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 7,
+      "sha256": "7b7f188e67b03f63b89499be0032226de6fdeabd493a5b9347864c82e90cc7d4",
+      "bytes": 1297386,
+      "sources": [
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "4b78d4adf029cb7d53b64d7f1edb5228e0bd559ef41dafaabfcdf2d4a9be25ca"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P007"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 8,
+      "sha256": "6cdd78224698e176637febb32b3b5233d750c182f74d86969d73d46e0049baad",
+      "bytes": 1464186,
+      "sources": [
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "73ad8bb255977b87df05796c5adbcbb899db7ef4e75c7a2f24463f749eca4133"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P008"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 9,
+      "sha256": "ae99699d0688cc3fa53fa786471f13d513ebba42c7adde8d688780e785be6dcf",
+      "bytes": 1228854,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "63a630f8236da4d147b02ff1c99fcef4301fbf428f30d27dd076b42d9d4195f2"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P009"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 10,
+      "sha256": "fdbf12e63bfeee7d0bdc500ac9f46336fed8ae77fb04d230e74a35faa117c1c7",
+      "bytes": 1313338,
+      "sources": [
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "4424b0519801fe6d35ac587dcaff43936df5017ed467e1506dfec04fa8695092"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P010"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 11,
+      "sha256": "975b0614a5f1271c4234d758338b49852e2c129b4b2ecab2d78b9f39130d9620",
+      "bytes": 1328508,
+      "sources": [
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "a9572d0a145fc7a460c475202b5f0d2ca80230e755310cd6b38cbbef0fa0d7d5"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P011"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 12,
+      "sha256": "4d9cb8917071720aee931c16382b42ae4355d4d2bee779bf48b6233dc6c8150e",
+      "bytes": 1269683,
+      "sources": [
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P012"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 13,
+      "sha256": "20a48a5e3bb2a081161e9bf9df7b6aec9b7c30f3b897de69a28f3990deae9851",
+      "bytes": 1332785,
+      "sources": [
+        {
+          "asset": "P013",
+          "file": "book/pages/P013.png",
+          "sha256": "ab056a6461e3095162ac31a9fe5f34a99760643b42e770926db891d6d923ba1d"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P013"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 14,
+      "sha256": "ebab1c05a3d4e2e122d7623235a213decb3b5954e92e314bc877a78a0f782bf0",
+      "bytes": 1252598,
+      "sources": [
+        {
+          "asset": "P014",
+          "file": "book/pages/P014.png",
+          "sha256": "24f5cb5e145a7bd505df7fd11ac524959f4496ff45c0b9a2cf9eb21b94323789"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P014"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 15,
+      "sha256": "605a8338ead4868cb047d5dc3220e2531a34288f72c3ed30ae221fceb5d684cc",
+      "bytes": 1204113,
+      "sources": [
+        {
+          "asset": "P015",
+          "file": "book/pages/P015.png",
+          "sha256": "0c3dc43d89415565e4461285c57564738f11ea0fcfcecb680371538d8712ab5c"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P015"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 16,
+      "sha256": "6b2facc4c0df6501138d946bb0682c4fdf5d5eda9f63a0c3230457084699b13a",
+      "bytes": 1373981,
+      "sources": [
+        {
+          "asset": "P016",
+          "file": "book/pages/P016.png",
+          "sha256": "a41977fc55cab82555f840249a1c84e8e25a445b9459658a1b9e81d83e09bc47"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P016"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 17,
+      "sha256": "03f9f1e05d460e2b430a883d6f679da6505bb4a537c206e8ff882bfbb61fd866",
+      "bytes": 1460931,
+      "sources": [
+        {
+          "asset": "P017",
+          "file": "book/pages/P017.png",
+          "sha256": "b7d56c00d450fb65cd951cc72f7a19466318a68e6adf1c8c5d58c11fc4592a03"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P017"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 18,
+      "sha256": "fe88122d2c090758e5a13f2d1ef5ebf3e95140039c5f12e792a570132f6af770",
+      "bytes": 1233516,
+      "sources": [
+        {
+          "asset": "P018",
+          "file": "book/pages/P018.png",
+          "sha256": "c38b86a77b7392dd3aa22e2a3bd972dfd4c50be42877a4309907acc0ab9c5eb6"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P018"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 19,
+      "sha256": "0fef82b9d4f231d6107777f863db88e624d571fe03d0630e3ef0e204de7cafb4",
+      "bytes": 1267724,
+      "sources": [
+        {
+          "asset": "P019",
+          "file": "book/pages/P019.png",
+          "sha256": "5d2e4a0fcad01c33ff21dd22fca1fe58d3b53726ad2d161afc1beed7423362db"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P019"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 20,
+      "sha256": "472c7d68249ea68cfbe3e43f2ce7f2e65ed532e68cc931c89f0f7ed68c14ea1a",
+      "bytes": 1380556,
+      "sources": [
+        {
+          "asset": "P020",
+          "file": "book/pages/P020.png",
+          "sha256": "a427fba1949a7d20e12e6aa23594c482955481ecd52c8438e3b2825a8c6a7f91"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P020"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 21,
+      "sha256": "1b8f41346023c30fcb8d4cb320de1f81f576311bd9d26ede72f09a47465384d9",
+      "bytes": 1214698,
+      "sources": [
+        {
+          "asset": "P021",
+          "file": "book/pages/P021.png",
+          "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P021"
+      },
+      "placements": []
+    }
+  },
+  "zip": null,
+  "book": {
+    "pages": 21,
+    "pages_png": true,
+    "pdf_encoding": 95
+  },
+  "volumes": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  ],
+  "stage3_handoff": {
+    "product_format": "colouring-book",
+    "product_type": "Adult spooky cartoon colouring book",
+    "page_count": 21,
+    "cover": true,
+    "colouring_pages": 20,
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "formats": [
+      {
+        "key": "A4",
+        "label": "A4",
+        "files": 1,
+        "pages": 21,
+        "page_size_mm": [
+          210,
+          297
+        ],
+        "artwork_size_mm": [
+          184.7,
+          277
+        ]
+      },
+      {
+        "key": "US-Letter",
+        "label": "US Letter",
+        "files": 1,
+        "pages": 21,
+        "page_size_mm": [
+          215.9,
+          279.4
+        ],
+        "artwork_size_mm": [
+          172.9,
+          259.4
+        ]
+      },
+      {
+        "key": "Colouring-Pages-PNG",
+        "label": "PNG pages",
+        "files": 21,
+        "pages": 21
+      }
+    ],
+    "representative_pages": [
+      {
+        "page_number": 1,
+        "title": "Midnight Monster Diner",
+        "role": "cover",
+        "asset": "P001",
+        "file": "book/pages/P001.png",
+        "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png"
+      },
+      {
+        "page_number": 2,
+        "title": "Graveyard Shift",
+        "role": "page",
+        "asset": "P002",
+        "file": "book/pages/P002.png",
+        "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png"
+      },
+      {
+        "page_number": 12,
+        "title": "Shake, Rattle and Ghoul",
+        "role": "page",
+        "asset": "P012",
+        "file": "book/pages/P012.png",
+        "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png"
+      },
+      {
+        "page_number": 21,
+        "title": "See You at Midnight",
+        "role": "page",
+        "asset": "P021",
+        "file": "book/pages/P021.png",
+        "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png"
+      }
+    ],
+    "package_contents": [
+      {
+        "item": "START-HERE-Printing-Guide.pdf",
+        "files": 1
+      },
+      {
+        "item": "A4",
+        "files": 1
+      },
+      {
+        "item": "US-Letter",
+        "files": 1
+      },
+      {
+        "item": "Colouring-Pages-PNG",
+        "files": 21
+      }
+    ],
+    "note": "Real product imagery for marketing must be these approved page files (or true renders of the customer PDFs); never a redrawn page."
+  },
+  "zip_parts": [
+    {
+      "part": 1,
+      "of": 3,
+      "name": "LumiumX-Midnight-Monster-Diner-Colouring-Book-Part-1.zip",
+      "file": "production/package/LumiumX-Midnight-Monster-Diner-Colouring-Book-Part-1.zip",
+      "sha256": "71fde2663711bab7a59b0686e1711a8b44130e314238180a4eefedcd67af40cc",
+      "bytes": 17952305,
+      "entries_digest": "5fd86f321ddab64296710de121464bf4f60162f739a7e6a940debbf7552e3727",
+      "entries": [
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/START-HERE-Printing-Guide.pdf",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/US-Letter/LumiumX-Midnight-Monster-Diner-Colouring-Book-US-Letter.pdf",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png"
+      ]
+    },
+    {
+      "part": 2,
+      "of": 3,
+      "name": "LumiumX-Midnight-Monster-Diner-Colouring-Book-Part-2.zip",
+      "file": "production/package/LumiumX-Midnight-Monster-Diner-Colouring-Book-Part-2.zip",
+      "sha256": "61d9f3aa9d4005cbec6a669062ef833847714cff72030d4e7bbe8348a0d28275",
+      "bytes": 18027636,
+      "entries_digest": "3bcdc0c1906e72a319131eeb4ec19755065f1861ebf8cc5c71e49a9bfe820469",
+      "entries": [
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png"
+      ]
+    },
+    {
+      "part": 3,
+      "of": 3,
+      "name": "LumiumX-Midnight-Monster-Diner-Colouring-Book-Part-3.zip",
+      "file": "production/package/LumiumX-Midnight-Monster-Diner-Colouring-Book-Part-3.zip",
+      "sha256": "63cc19b753f34a6ce80b8f46b21c98686b657f99adbb814b9849c70f72872b5f",
+      "bytes": 6546178,
+      "entries_digest": "675b66f6be2df6f8e0589877b8c967d91690d0a82d651a307f4b13d4501b2d8b",
+      "entries": [
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png",
+        "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "theme": "Falling Leaves Crochet Table Set",
+  "audience": [
+    "Adult crocheters making seasonal table décor",
+    "Beginner-friendly home décor makers",
+    "Crocheters who enjoy modern autumn styling"
+  ],
+  "style": [
+    "cosy tactile texture",
+    "modern seasonal décor",
+    "earthy autumn palette",
+    "polished craft-market finish"
+  ],
+  "patterns": [
+    {
+      "pattern_id": "maple-leaf-placemat",
+      "name": "Maple Leaf Placemat",
+      "category": "placemat",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 38 cm wide by 35 cm long",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "Worked flat from a central stem area, with shaped lobes and a neat edging worked around the outer leaf.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "inc",
+        "dec"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A generously sized, textured maple-leaf placemat that creates the focal layer of an autumn place setting."
+    },
+    {
+      "pattern_id": "oak-leaf-applique",
+      "name": "Oak Leaf Appliqué",
+      "category": "applique",
+      "role": "foliage",
+      "difficulty": "easy",
+      "approx_size": "about 13 cm long",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "Worked flat along a foundation chain with rounded oak-leaf lobes, a central vein and a short stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A slim oak-leaf motif for stitching onto the runner or layering across placemats, pockets and table displays."
+    },
+    {
+      "pattern_id": "beech-leaf-coaster",
+      "name": "Beech Leaf Coaster",
+      "category": "coaster",
+      "role": "secondary",
+      "difficulty": "beginner",
+      "approx_size": "about 12 cm long",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "Worked flat from a central chain with softly pointed sides, a defined vein and a compact stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A small beech-leaf coaster with a smooth pointed silhouette, sized for mugs, small glasses or candle holders."
+    },
+    {
+      "pattern_id": "acorn-napkin-ring",
+      "name": "Acorn Napkin Ring",
+      "category": "napkin ring",
+      "role": "accent",
+      "difficulty": "easy",
+      "approx_size": "about 6 cm across with 5 cm acorn",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "A narrow ring is worked in the round, with a separate textured acorn cap and acorn body sewn together and attached.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "sc2tog"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A reusable crochet napkin ring decorated with one small textured acorn for a warm autumnal place-setting accent."
+    },
+    {
+      "pattern_id": "falling-leaves-table-runner",
+      "name": "Falling Leaves Table Runner",
+      "category": "table runner",
+      "role": "structural",
+      "difficulty": "intermediate",
+      "approx_size": "about 100 cm long by 28 cm wide",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "Worked flat in textured rows with tapered ends and spaced eyelet channels for positioning sewn-on leaf appliqués.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "dc2tog"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A long, lightly textured table runner with tapered ends, designed as the grounding centrepiece for layered leaf appliqués."
+    },
+    {
+      "pattern_id": "chestnut-cutlery-pocket",
+      "name": "Chestnut Cutlery Pocket",
+      "category": "cutlery pocket",
+      "role": "filler",
+      "difficulty": "beginner",
+      "approx_size": "about 10 cm wide by 18 cm long",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "A simple rectangle is worked flat, folded into a pocket and seamed along the sides, with a curved chestnut-inspired flap.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A compact chestnut-shaped cutlery pocket for holding a fork, knife and spoon beside each autumn place setting."
+    }
+  ],
+  "combinations": {
+    "title": "Autumn Table Styling Ideas",
+    "intro": "Use terracotta, ochre, moss, mulberry, warm cream and oatmeal shades across the pieces, allowing soft stone neutrals to keep the table setting refined.",
+    "items": [
+      {
+        "name": "Layered Maple Place Setting",
+        "patterns": [
+          {
+            "pattern_id": "maple-leaf-placemat",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "beech-leaf-coaster",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "acorn-napkin-ring",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "chestnut-cutlery-pocket",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Place the coaster near the upper leaf lobes and tuck the napkin ring through a folded linen napkin.",
+          "Use related earth tones rather than matching every item exactly."
+        ]
+      },
+      {
+        "name": "Falling Leaves Centre Runner",
+        "patterns": [
+          {
+            "pattern_id": "falling-leaves-table-runner",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "oak-leaf-applique",
+            "quantity": 7
+          },
+          {
+            "pattern_id": "maple-leaf-placemat",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Sew the oak leaves along the runner's eyelet channels, varying their direction for a scattered-leaf effect.",
+          "Place the maple placemat at one end as a focal serving mat, joining the focal piece visually with the foliage-covered runner."
+        ]
+      },
+      {
+        "name": "Four-Place Harvest Table",
+        "patterns": [
+          {
+            "pattern_id": "maple-leaf-placemat",
+            "quantity": 4
+          },
+          {
+            "pattern_id": "beech-leaf-coaster",
+            "quantity": 4
+          },
+          {
+            "pattern_id": "acorn-napkin-ring",
+            "quantity": 4
+          },
+          {
+            "pattern_id": "chestnut-cutlery-pocket",
+            "quantity": 4
+          },
+          {
+            "pattern_id": "falling-leaves-table-runner",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "oak-leaf-applique",
+            "quantity": 10
+          }
+        ],
+        "notes": [
+          "Choose two or three repeating yarn colours for an abundant but calm coordinated table."
+        ]
+      }
+    ]
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-06T19:54:13.147Z"
+}

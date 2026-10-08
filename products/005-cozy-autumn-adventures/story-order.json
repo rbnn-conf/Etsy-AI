@@ -1,0 +1,145 @@
+{
+  "pageCount": 20,
+  "pages": [
+    {
+      "id": "P001",
+      "sourceId": "P001",
+      "title": "Autumn village lane",
+      "approvedSha256": "549acb4ec79a28b89a5d9030fa79dcaef3a63542e866f664a719167e216001e3",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P002",
+      "sourceId": "P002",
+      "title": "Pumpkin patch",
+      "approvedSha256": "42f32749bf569a042d8735751b50d191672cc80cb133f4b395b8bb277e6cd6bc",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P003",
+      "sourceId": "P003",
+      "title": "Pumpkin porch",
+      "approvedSha256": "8b0cfbef48e0f180d57a13028c6a6bced4fc2b3069a2bf94e79bc750458041e4",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P004",
+      "sourceId": "P004",
+      "title": "Village sweet shop",
+      "approvedSha256": "7e50901ebcfae44b408e16aa7b997ae924edaabf78acbbec05ed02667cc9a1d4",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P005",
+      "sourceId": "P005",
+      "title": "Autumn baking",
+      "approvedSha256": "75c160c8d392669e5606810a4d99309fac3376db2cc04473cc4d4141aeab9591",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P006",
+      "sourceId": "P006",
+      "title": "Garden greenhouse",
+      "approvedSha256": "befebb17b975d505d31aa3088aa4eadf6d5eb9c5116081079658f814c4681b4f",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P007",
+      "sourceId": "P007",
+      "title": "Woodland bridge",
+      "approvedSha256": "1717826cf1b75eb72ea536b743cf038633cbbf8a72bf17efac9ee1f8029e1e47",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P008",
+      "sourceId": "P008",
+      "title": "Costume boutique",
+      "approvedSha256": "5a6431bfce26da02c2e7ed1602ae133af836c4a6cd0331f6dfe779fce0577091",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P009",
+      "sourceId": "P009",
+      "title": "Harvest market",
+      "approvedSha256": "1e70b4c960006443451e8bcf3fc35d01896fd238d58837466a5f63ac8c21e4d5",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P010",
+      "sourceId": "P010",
+      "title": "Reading nook",
+      "approvedSha256": "9a8fe5cd22ffef035926536dee6d18f7b53320e209919863ee40fd2a31f97f65",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P011",
+      "sourceId": "P011",
+      "title": "Harvest barn",
+      "approvedSha256": "d86f0bd6563dd563e0d5ec145ec9af73cded119824d3c66711755317d6397ba0",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P012",
+      "sourceId": "P012",
+      "title": "Corn maze",
+      "approvedSha256": "d06b5c2cd27caf5c2f4da7fcef1107d5cacb79065f8d52f48004d09e3c08a520",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P013",
+      "sourceId": "P013",
+      "title": "Mushroom woodland",
+      "approvedSha256": "0ddeb0d18e8ad77870a6f38a48583498d3fc40b6a7805e5dadeb6ac4004b24db",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P014",
+      "sourceId": "P014",
+      "title": "Autumn railway",
+      "approvedSha256": "d80ab64204341879e1df7d80bdb97b5966d85d1dd5bd13f1488a1e181cfa81a8",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P015",
+      "sourceId": "P015",
+      "title": "Rooftop evening",
+      "approvedSha256": "242d677175a87d4c08cd555ba4acef7623f346cb097ee86b72e9616a435bb151",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P016",
+      "sourceId": "P016",
+      "title": "Country kitchen",
+      "approvedSha256": "f364ae0f40be8d5dbc306b1984fe243464d59a391bbf08a28326d0d89194530b",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P017",
+      "sourceId": "P017",
+      "title": "Fireside afternoon",
+      "approvedSha256": "0cc484d7f08a66d3bced54f4a3607ee222ca61e4185d9fa239a8adac792d2de6",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P018",
+      "sourceId": "P018",
+      "title": "Orchard cider press",
+      "approvedSha256": "6ef26c5f86e37537de40abfd398aa5b1fac9a6ba235075635c21b3f9ebc36d2c",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P019",
+      "sourceId": "P019",
+      "title": "Lakeside cabin",
+      "approvedSha256": "6eb69698c72fc2bc82fe5731ad7d4eb753912d010136958583f74dc9d76d54f6",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    },
+    {
+      "id": "P020",
+      "sourceId": "P020",
+      "title": "Village celebration",
+      "approvedSha256": "f93540850e33f8c7972290171de7411e31d0d8ef59167eee4774a9a3cb953fa7",
+      "sourceEdgeReview": "User-approved square illustration. Contact sheet visually inspected: scene details intentionally reach source edges; full source canvas will be retained without cropping."
+    }
+  ]
+}

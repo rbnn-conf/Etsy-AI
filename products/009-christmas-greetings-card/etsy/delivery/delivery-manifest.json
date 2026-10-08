@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate",
+  "source_fingerprint": "2fe6174d8078d3c518d94d66221b3214c3a11ce515327dfe629f7a992e16c8c8",
+  "build_record_sha256": "036584b94f13a90061759d628a60ed790bd3d979b272d1ce66a325c15e9fabb1",
+  "zip": {
+    "file": "etsy/delivery/LumiumX-Robin-at-the-Frosted-Gate.zip",
+    "name": "LumiumX-Robin-at-the-Frosted-Gate.zip",
+    "sha256": "47e563db3fa08c2fe4929e4b4b8074a1ee788c1d448aefe44230aa5412820f2b",
+    "bytes": 16942543,
+    "timestamp_in_zip": "2000-01-01T00:00:00 (fixed)"
+  },
+  "entries": [
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/START-HERE-Printing-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/START-HERE-Printing-Guide.pdf",
+      "sha256": "185e1a6f4dabd2c82950d6b0b63fa7c2e0ed2e6270191d1e54292c5fb240f00f",
+      "bytes": 2940
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "sha256": "4067392f31d376bb2253a1226d3b1c4b03cd69fe60499e9c8dacf0120d69fbeb",
+      "bytes": 1269665
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-US-Letter.pdf",
+      "sha256": "987e3556d4700512e9dda6bf4c17f6d2204fe7726d58b48e14f36818dbdafdf5",
+      "bytes": 1269638
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/A4/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/A4/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4.pdf",
+      "sha256": "a7891007906365586a68f52095d25fd60815e08c18e29d8cc62d1c44bbdd4b7d",
+      "bytes": 1262874
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/US-Letter/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-US-Letter.pdf",
+      "sha256": "22a7cafa94944ce8baebdb66a43f376c15fe366e7c04ebcf92f028f443f6ddc3",
+      "bytes": 1262851
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-Card-Panels-4x6in.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-Card-Panels-4x6in.pdf",
+      "sha256": "52cf076b5755d6c3fcc9b233d889e0b44e4ddb7c35b8052d931fd6d24f1e5f6c",
+      "bytes": 1269506
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-Card-Panels-4x6in.pdf",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/Card-Panels-4x6in/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-Card-Panels-4x6in.pdf",
+      "sha256": "8d2b9be7ae004d3893d50ed4b7bc78f943cb19d780f09e409dec13ae3cd8817b",
+      "bytes": 1262715
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-A-Merry-Christmas.png",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-A-Merry-Christmas.png",
+      "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+      "bytes": 3338019
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Inside.png",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Inside.png",
+      "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+      "bytes": 3056683
+    },
+    {
+      "entry": "LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-B-Christmas-Wishes.png",
+      "source": "production/deliverables/LumiumX-Robin-at-the-Frosted-Gate/Card-Artwork/LumiumX-Robin-at-the-Frosted-Gate-Front-B-Christmas-Wishes.png",
+      "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+      "bytes": 3328916
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "16942543 bytes"
+      }
+    ]
+  },
+  "built_at": "2026-09-28T15:15:19.475Z"
+}

@@ -1,0 +1,813 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "011",
+  "workspace": "011-christmas-invite",
+  "name": "Alpine Après-Ski Christmas Party Invitation",
+  "slug": "alpine-apres-ski-christmas-party-invitation",
+  "season": "Christmas",
+  "product_type": "Christmas party invitation",
+  "target_customer": "Adults hosting a Christmas party, winter drinks night or après-ski themed gathering",
+  "page_count": 1,
+  "status": "CREATIVE_APPROVED",
+  "resume_state": "CREATIVE_APPROVED",
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-28T16:24:07.364Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-28T16:24:31.771Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-28T16:24:31.780Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-28T16:25:05.778Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-09-28T16:25:58.847Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-09-28T16:26:21.740Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-28T16:26:21.749Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-28T16:26:58.778Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-28T16:29:13.968Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-28T16:29:50.657Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-28T16:30:20.206Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-28T16:31:00.074Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-09-28T16:31:20.873Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-28T16:31:49.166Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "CREATIVE_APPROVED",
+      "event": "production_cancelled",
+      "at": "2026-09-28T16:31:55.537Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Christmas invite",
+    "requested_at": "2026-09-28T16:24:07.364Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 2,
+    "source": "feedback",
+    "summary": {
+      "style": "Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.",
+      "linework": "Fine to medium outlines with occasional heavier contour accents.; Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.",
+      "detail": "Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.",
+      "palette": "Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents. (full colour)",
+      "mood": "Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-09-28T16:24:31.771Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Candlelit Christmas Supper Invitation",
+            "tagline": "Elegant invitation for a festive dinner party",
+            "product_type": "Christmas dinner party invitation",
+            "product_format": "invitation",
+            "target_customer": "Adults hosting an intimate Christmas supper or seasonal dinner party",
+            "page_count": 1,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Single-sided printable invitation design",
+              "Personalised event-details area",
+              "Printing guide"
+            ],
+            "short_description": "A refined Christmas supper invitation with a warm, painterly tablescape and clear space for hosts to add dinner details, date, time and RSVP information.",
+            "key_features": [
+              "Single printable invitation page",
+              "Editable-style blank fields for party details",
+              "A4 and US Letter home-printing friendly layout",
+              "Suitable for Christmas dinners, drinks and seasonal gatherings"
+            ],
+            "visual_direction_summary": "Luxurious hand-painted gouache stationery style with softly textured paper grain, layered brushwork, gentle candlelit shading and restrained festive colour. Elegant high-contrast serif typography pairs with small handwritten accents; generous negative space keeps event details highly legible.",
+            "visual_route": {
+              "primary_subject": "Christmas tablescape",
+              "scene": "Candlelit dining room with winter greenery",
+              "focal_object": "Taper candles",
+              "composition": "Tall central tablescape, invitation wording in upper half",
+              "lighting": "Golden evening candlelight",
+              "palette_emphasis": "Burgundy, antique gold, evergreen and warm ivory",
+              "emotional_tone": "Intimate, elegant and welcoming",
+              "typography_approach": "Classic serif heading with delicate script accents",
+              "distinguishing_visual_hook": "Glowing candles rising through a wreath-like table arrangement"
+            },
+            "preview_brief": "A portrait invitation front shows a candlelit festive dinner table rising from the lower third, with evergreen foliage and deep red accents. ‘Christmas Supper’ appears in an elegant serif at the top, while a clean ivory panel holds the event details in the centre."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Alpine Après-Ski Christmas Party Invitation",
+            "tagline": "Playful invitation for a festive winter party",
+            "product_type": "Christmas party invitation",
+            "product_format": "invitation",
+            "target_customer": "Adults hosting a Christmas party, winter drinks night or après-ski themed gathering",
+            "page_count": 1,
+            "orientation": "landscape",
+            "deliverable_components": [
+              "Single-sided printable invitation design",
+              "Personalised event-details area",
+              "Printing guide"
+            ],
+            "short_description": "A spirited winter-party invitation inspired by a cosy mountain lodge, with bold hand-painted shapes and room for all celebration details.",
+            "key_features": [
+              "Landscape printable invitation page",
+              "Clear event-details hierarchy",
+              "Home-printable on A4 or US Letter paper",
+              "Ideal for festive drinks, office gatherings and house parties"
+            ],
+            "visual_direction_summary": "Bold mid-century-inspired gouache illustration with visible dry-brush texture, simplified graphic forms and softly imperfect ink outlines. Festive colours are rich but limited, with flat colour blocks, small painted highlights and lively display lettering balanced by crisp sans-serif event details.",
+            "visual_route": {
+              "primary_subject": "Mountain lodge",
+              "scene": "Snowy alpine village at dusk",
+              "focal_object": "Striped ski sign",
+              "composition": "Wide lodge silhouette, details framed in open snowy sky",
+              "lighting": "Crisp blue-hour glow with warm windows",
+              "palette_emphasis": "Cobalt, tomato red, cream and spruce green",
+              "emotional_tone": "Lively, cosy and celebratory",
+              "typography_approach": "Bold retro display title with clean sans-serif details",
+              "distinguishing_visual_hook": "Festive ski sign pointing towards the party"
+            },
+            "preview_brief": "A landscape invitation features a cheerful alpine lodge against a snowy blue-hour sky, its glowing windows contrasting with bold red and cream details. A retro ‘Christmas Party’ title spans the sky, with event information neatly arranged beneath the illustrated lodge."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Winter Disco Christmas Invitation",
+            "tagline": "Sparkling invitation for a modern festive bash",
+            "product_type": "Christmas disco party invitation",
+            "product_format": "invitation",
+            "target_customer": "Adults hosting a modern Christmas party, festive disco or New Year-adjacent celebration",
+            "page_count": 1,
+            "orientation": "square",
+            "deliverable_components": [
+              "Square printable invitation design",
+              "Personalised event-details area",
+              "Printing guide"
+            ],
+            "short_description": "A joyful modern Christmas party invitation combining graphic festive sparkle with a playful disco mood and easy-to-complete event details.",
+            "key_features": [
+              "Square invitation layout for digital sharing or home printing",
+              "Blank fields for date, time, location and RSVP",
+              "Graphic festive design with strong readability",
+              "Suitable for Christmas discos and colourful holiday parties"
+            ],
+            "visual_direction_summary": "Contemporary risograph-inspired print design with grainy ink texture, offset colour layers, bold geometric shapes and imperfect registration. Flat high-energy colour, scattered starbursts and chunky expressive lettering create a playful printed-poster feel, while details sit in orderly sans-serif type.",
+            "visual_route": {
+              "primary_subject": "Disco bauble",
+              "scene": "Abstract festive dance floor",
+              "focal_object": "Mirrored ornament",
+              "composition": "Oversized central ornament, circular text and details below",
+              "lighting": "Radiant coloured party glow",
+              "palette_emphasis": "Hot pink, cobalt, silver-grey and fir green",
+              "emotional_tone": "Joyful, bold and energetic",
+              "typography_approach": "Chunky curved display lettering with compact sans-serif details",
+              "distinguishing_visual_hook": "Mirror-ball ornament scattering graphic starbursts"
+            },
+            "preview_brief": "A square invitation centres an oversized mirrored Christmas ornament above a field of lively graphic starbursts. ‘Christmas Disco’ curves around the bauble in bold lettering, while the lower section presents party details in crisp, compact type."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "B",
+      "selected_at": "2026-09-28T16:25:58.847Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-28T16:24:31.780Z",
+        "finished_at": "2026-09-28T16:25:05.775Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Luxurious hand-painted gouache stationery style with softly textured paper grain, layered brushwork, gentle candlelit shading and restrained festive colour. Elegant high-contrast serif typography pairs with small handwritten accents; generous negative space keeps event details highly legible.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas invite\".\nConcept \"Candlelit Christmas Supper Invitation\": a invitation for Adults hosting an intimate Christmas supper or seasonal dinner party.\nShow the invitation front, using THIS concept's own content:\n- Subject: Christmas tablescape\n- Scene: Candlelit dining room with winter greenery\n- Focal object: Taper candles\n- Composition: Tall central tablescape, invitation wording in upper half\n- Lighting: Golden evening candlelight\n- Palette emphasis: Burgundy, antique gold, evergreen and warm ivory\n- Mood: Intimate, elegant and welcoming\n- Typography: Classic serif heading with delicate script accents\n- Distinguishing hook: Glowing candles rising through a wreath-like table arrangement\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Mountain lodge / Snowy alpine village at dusk / Striped ski sign / Crisp blue-hour glow with warm windows\n- C: Disco bauble / Abstract festive dance floor / Mirrored ornament / Radiant coloured party glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-28T16:24:43.120Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Bold mid-century-inspired gouache illustration with visible dry-brush texture, simplified graphic forms and softly imperfect ink outlines. Festive colours are rich but limited, with flat colour blocks, small painted highlights and lively display lettering balanced by crisp sans-serif event details.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas invite\".\nConcept \"Alpine Après-Ski Christmas Party Invitation\": a invitation for Adults hosting a Christmas party, winter drinks night or après-ski themed gathering.\nShow the invitation front, using THIS concept's own content:\n- Subject: Mountain lodge\n- Scene: Snowy alpine village at dusk\n- Focal object: Striped ski sign\n- Composition: Wide lodge silhouette, details framed in open snowy sky\n- Lighting: Crisp blue-hour glow with warm windows\n- Palette emphasis: Cobalt, tomato red, cream and spruce green\n- Mood: Lively, cosy and celebratory\n- Typography: Bold retro display title with clean sans-serif details\n- Distinguishing hook: Festive ski sign pointing towards the party\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Christmas tablescape / Candlelit dining room with winter greenery / Taper candles / Golden evening candlelight\n- C: Disco bauble / Abstract festive dance floor / Mirrored ornament / Radiant coloured party glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "quality": "low",
+            "generated_at": "2026-09-28T16:24:55.326Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Contemporary risograph-inspired print design with grainy ink texture, offset colour layers, bold geometric shapes and imperfect registration. Flat high-energy colour, scattered starbursts and chunky expressive lettering create a playful printed-poster feel, while details sit in orderly sans-serif type.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas invite\".\nConcept \"Winter Disco Christmas Invitation\": a invitation for Adults hosting a modern Christmas party, festive disco or New Year-adjacent celebration.\nShow the invitation front, using THIS concept's own content:\n- Subject: Disco bauble\n- Scene: Abstract festive dance floor\n- Focal object: Mirrored ornament\n- Composition: Oversized central ornament, circular text and details below\n- Lighting: Radiant coloured party glow\n- Palette emphasis: Hot pink, cobalt, silver-grey and fir green\n- Mood: Joyful, bold and energetic\n- Typography: Chunky curved display lettering with compact sans-serif details\n- Distinguishing hook: Mirror-ball ornament scattering graphic starbursts\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Christmas tablescape / Candlelit dining room with winter greenery / Taper candles / Golden evening candlelight\n- B: Mountain lodge / Snowy alpine village at dusk / Striped ski sign / Crisp blue-hour glow with warm windows\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1024",
+            "quality": "low",
+            "generated_at": "2026-09-28T16:25:05.770Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "invitation",
+      "title": "Christmas Party",
+      "concept": "A single-sided alpine après-ski Christmas party invitation with editable event details, centred around a snowy mountain lodge at blue hour and a festive striped ski sign pointing guests towards the celebration.",
+      "instructions": null,
+      "artwork_description": "A wide snowy alpine village scene at dusk. A simplified spruce-green mountain lodge spans the lower third, with a snow-capped roof, warmly glowing golden windows and small spruce trees at either side. Above, an airy cobalt sky holds a bold retro display headline reading “CHRISTMAS PARTY”. A tomato-red and warm-cream striped ski sign at one side points inward towards the lodge and reads “APRÈS SKI”. Beneath the lodge, a calm warm-cream panel provides a crisp, neatly centred editable hierarchy: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, and “RSVP: [CONTACT]”. Small snowflakes, stars and painted snowdrifts decorate only the edges.",
+      "generation_prompt": "Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.",
+      "production_notes": "Single designed invitation page; supply the printing guide as a separate non-artwork deliverable. Verify all text exactly, especially the accented “APRÈS”. Keep bracketed fields editable in the final template and replace sample date/details only if a non-editable preview version is needed. Ensure the cream details panel remains clear of dry-brush texture and maintains strong contrast. Check that the ski-sign lettering is readable at home-print size, the full-bleed artwork has adequate printer-tolerance trimming allowance, and all essential words remain inside the trim-safe perimeter."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "primary",
+        "reason": "Primary proposed design (page 1, invitation)."
+      },
+      {
+        "page_number": 1,
+        "role": "composition-variation",
+        "reason": "Same page, alternative composition: a real choice of layout within the same direction."
+      },
+      {
+        "page_number": 1,
+        "role": "treatment-variation",
+        "reason": "Same page, alternative treatment (colour emphasis, background, texture) within the same direction."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-09-28T16:26:21.749Z",
+        "finished_at": "2026-09-28T16:26:58.775Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:26:34.125Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCREATIVE VARIATION: an alternative composition of this same page, not an additional page. Keep the same content, message and art direction; clearly change the arrangement, framing and focal placement.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:26:45.508Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCREATIVE VARIATION: an alternative treatment of this same page, not an additional page. Keep the same content and art direction; vary the treatment within the palette and canvas: colour emphasis, background treatment, texture or lettering placement.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:26:58.770Z"
+          }
+        ],
+        "error": null
+      },
+      {
+        "attempt": 2,
+        "dir": "proofs/attempt-02",
+        "reason": "direction-change",
+        "direction_version": 2,
+        "started_at": "2026-09-28T16:29:13.968Z",
+        "finished_at": "2026-09-28T16:29:50.654Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-02/proof-01.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:29:26.132Z"
+          },
+          {
+            "file": "proofs/attempt-02/proof-02.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCREATIVE VARIATION: an alternative composition of this same page, not an additional page. Keep the same content, message and art direction; clearly change the arrangement, framing and focal placement.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:29:37.690Z"
+          },
+          {
+            "file": "proofs/attempt-02/proof-03.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCREATIVE VARIATION: an alternative treatment of this same page, not an additional page. Keep the same content and art direction; vary the treatment within the palette and canvas: colour emphasis, background treatment, texture or lettering placement.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:29:50.648Z"
+          }
+        ],
+        "error": null
+      },
+      {
+        "attempt": 3,
+        "dir": "proofs/attempt-03",
+        "reason": "regenerate",
+        "direction_version": 2,
+        "started_at": "2026-09-28T16:30:20.206Z",
+        "finished_at": "2026-09-28T16:31:00.071Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-03/proof-01.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:30:35.354Z"
+          },
+          {
+            "file": "proofs/attempt-03/proof-02.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCREATIVE VARIATION: an alternative composition of this same page, not an additional page. Keep the same content, message and art direction; clearly change the arrangement, framing and focal placement.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:30:47.253Z"
+          },
+          {
+            "file": "proofs/attempt-03/proof-03.png",
+            "page_number": 1,
+            "prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.; line weight: Fine to medium outlines with occasional heavier contour accents.; line quality: Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.; detail level: Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.; background density: Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.; composition: Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.; palette: Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.; colour mode: full colour; shading: Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.; texture: Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.; mood: Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere..\n\nPAGE 1 of \"Alpine Après-Ski Christmas Party Invitation\" (invitation): Single-sided landscape Christmas party invitation. Exact headline text: “CHRISTMAS PARTY”. Snowy alpine village at blue hour with a wide mountain lodge silhouette across the lower third, snow-capped roof, glowing warm windows, small flanking spruce trees and snowdrifts. Add one tomato-red and cream striped ski sign pointing inward, exact sign text: “APRÈS SKI”. Place a large uncluttered warm-cream event-details panel beneath the lodge with these exact editable lines: “JOIN US FOR”, “[HOST / VENUE]”, “SATURDAY 14 DECEMBER · 7 PM”, “[ADDRESS]”, “RSVP: [CONTACT]”. Add sparse edge-only snowflakes and tiny stars; protect all wording areas.\n\nCREATIVE VARIATION: an alternative treatment of this same page, not an additional page. Keep the same content and art direction; vary the treatment within the palette and canvas: colour emphasis, background treatment, texture or lettering placement.\n\nCANVAS: A single landscape design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished invitation, with clear, well-proportioned space reserved for the event wording. Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs; Photorealism, glossy 3D rendering or hyper-detailed realism; Childish cartoon styling or juvenile novelty graphics; Overcrowded layouts, busy texture behind event details or weak information hierarchy; Misspelled text, illegible display lettering or placeholder-like event details; Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-09-28T16:31:00.066Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [
+    {
+      "text": "I liked option A insteainsteadd of",
+      "at": "2026-09-28T16:29:04.346Z",
+      "by": "@romg_o",
+      "applied_in_version": 2
+    }
+  ],
+  "pending_input": null,
+  "review": {
+    "nonce": "cc2f12954864",
+    "keyboard_message_ids": [
+      150,
+      155,
+      162,
+      166,
+      170
+    ]
+  },
+  "lock": null,
+  "last_error": {
+    "step": "production",
+    "message": "HandoffError: No Stage 2 production adapter for \"invitation\" yet (available: greeting-card).",
+    "at": "2026-09-28T16:31:49.165Z",
+    "retryable": false
+  },
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2557,
+        "input_tokens_details": {
+          "cache_write_tokens": 125,
+          "cached_tokens": 2429
+        },
+        "output_tokens": 1257,
+        "output_tokens_details": {
+          "reasoning_tokens": 122
+        },
+        "total_tokens": 3814
+      },
+      "at": "2026-09-28T16:24:10.006Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 399,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 399
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 557
+      },
+      "at": "2026-09-28T16:24:31.785Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 409,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 409
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 567
+      },
+      "at": "2026-09-28T16:24:43.125Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 408,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 408
+        },
+        "output_tokens": 196,
+        "output_tokens_details": {
+          "image_tokens": 196,
+          "text_tokens": 0
+        },
+        "total_tokens": 604
+      },
+      "at": "2026-09-28T16:24:55.332Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2651,
+        "input_tokens_details": {
+          "cache_write_tokens": 488,
+          "cached_tokens": 2160
+        },
+        "output_tokens": 530,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3181
+      },
+      "at": "2026-09-28T16:25:59.335Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2292,
+        "input_tokens_details": {
+          "cache_write_tokens": 1137,
+          "cached_tokens": 1152
+        },
+        "output_tokens": 614,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2906
+      },
+      "at": "2026-09-28T16:26:09.431Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 734,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 734
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1077
+      },
+      "at": "2026-09-28T16:26:21.752Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 773,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 773
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1116
+      },
+      "at": "2026-09-28T16:26:34.132Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 781,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 781
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1124
+      },
+      "at": "2026-09-28T16:26:45.515Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3264,
+        "input_tokens_details": {
+          "cache_write_tokens": 1101,
+          "cached_tokens": 2160
+        },
+        "output_tokens": 837,
+        "output_tokens_details": {
+          "reasoning_tokens": 305
+        },
+        "total_tokens": 4101
+      },
+      "at": "2026-09-28T16:29:04.350Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 734,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 734
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1077
+      },
+      "at": "2026-09-28T16:29:13.972Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 773,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 773
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1116
+      },
+      "at": "2026-09-28T16:29:26.138Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 781,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 781
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1124
+      },
+      "at": "2026-09-28T16:29:37.696Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 734,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 734
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1077
+      },
+      "at": "2026-09-28T16:30:20.210Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 773,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 773
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1116
+      },
+      "at": "2026-09-28T16:30:35.359Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 781,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 781
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1124
+      },
+      "at": "2026-09-28T16:30:47.259Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-09-28T16:31:20.873Z",
+  "created_at": "2026-09-28T16:24:07.364Z",
+  "updated_at": "2026-09-28T16:31:55.537Z",
+  "canvas": {
+    "orientation": "landscape",
+    "background": "illustrated",
+    "edge": "full-bleed",
+    "format_notes": "Keep a large calm cream event-details panel centrally beneath the lodge, with all editable wording set in high-contrast type and a clean trim-safe perimeter."
+  }
+}

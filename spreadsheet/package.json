@@ -1,0 +1,26 @@
+{
+  "name": "@dpf/spreadsheet",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Reusable XLSX generation engine + 'Etsy Spreadsheet Design System v1' + headless PNG preview (LibreOffice -> PDF -> pdftoppm) + workbook QC. Product-agnostic: per-product build logic lives under products/<id>/xlsx/, never here. Introduced by ADR-010.",
+  "engines": {
+    "node": ">=22.6.0"
+  },
+  "exports": {
+    ".": "./src/index.mjs",
+    "./engine": "./src/engine/index.mjs",
+    "./design-system": "./src/design-system/index.mjs",
+    "./preview": "./src/preview/render-preview.mjs",
+    "./qc": "./src/qc/index.mjs",
+    "./spec": "./src/spec/spreadsheet-spec.mjs"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "demo": "node examples/demo.mjs"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "jszip": "^3.10.1"
+  }
+}

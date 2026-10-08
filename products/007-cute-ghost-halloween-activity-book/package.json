@@ -1,0 +1,13 @@
+{
+  "name": "product-007-cute-ghost-halloween-activity-book",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "marketing": "node src/marketing.mjs && node src/marketing-layout.mjs",
+    "qc": "node src/qc.mjs",
+    "test": "node --test test/*.test.mjs",
+    "review": "node --env-file-if-exists=../../.env src/review.mjs"
+  }
+}

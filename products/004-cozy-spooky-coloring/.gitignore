@@ -1,0 +1,7 @@
+output/
+qc/*
+!qc/.gitkeep
+listing/source-previews/*
+!listing/source-previews/.gitkeep
+.build-*/
+.build.lock

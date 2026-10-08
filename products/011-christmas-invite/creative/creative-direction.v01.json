@@ -1,0 +1,31 @@
+{
+  "illustration_style": "Bold mid-century-inspired gouache illustration for an adult Christmas party invitation, combining simplified graphic forms with an energetic handcrafted print feel.",
+  "line_weight": "Fine to medium outlines with occasional heavier contour accents.",
+  "line_quality": "Softly imperfect dark-ink contours, dry-brush edges and lightly irregular hand-drawn marks.",
+  "detail_level": "Moderate detail: strong simplified silhouettes and large colour fields, with selective small decorative accents and clearly protected event-information space.",
+  "character_language": "not applicable",
+  "background_density": "Airy, graphic backgrounds with broad calm areas; decorative detail stays at the edges so wording remains highly legible.",
+  "composition": "Clear visual hierarchy led by an expressive headline, one strong central illustration and a well-defined event-details block; use generous negative space and balanced asymmetry.",
+  "palette": "Rich, limited festive palette of cobalt blue, tomato red, warm cream and spruce green, supported by small deep-ink and warm golden accents.",
+  "colour_mode": "full colour",
+  "shading": "Mostly flat gouache colour blocks with sparse painted highlights, subtle tonal variation and minimal dimensional shading.",
+  "texture": "Visible dry-brush gouache grain, lightly mottled pigment and a tactile uncoated-paper print character.",
+  "mood": "Lively, cosy, stylish and celebratory, with an adult winter-party atmosphere.",
+  "age_suitability": "adults",
+  "print_considerations": "Use solid but not overly saturated colour areas, high-contrast type and comfortably sized detail fields for reliable A4 and US Letter home printing; retain a clean trim-safe perimeter and avoid fine low-contrast texture behind text.",
+  "shared_prompt": "Bold mid-century-inspired gouache illustration with simplified graphic forms, visible dry-brush pigment, softly imperfect dark-ink contours and a tactile uncoated-paper print feel. Use a rich limited palette of cobalt, tomato red, warm cream and spruce green, with small warm-gold accents, flat painted colour blocks, sparse highlights and crisp blue-hour contrast. Maintain lively adult festive energy, elegant balanced asymmetry, generous breathing room and highly legible typography areas; pair expressive retro display lettering with clean modern sans-serif details.",
+  "avoid": [
+    "Any copied or recognisable composition, lettering, logo, artwork or branding from existing ski, alpine or Christmas designs",
+    "Photorealism, glossy 3D rendering or hyper-detailed realism",
+    "Childish cartoon styling or juvenile novelty graphics",
+    "Overcrowded layouts, busy texture behind event details or weak information hierarchy",
+    "Misspelled text, illegible display lettering or placeholder-like event details",
+    "Neon-heavy colour schemes, excessive gradients or metallic effects that reproduce poorly at home"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-09-28T16:26:09.421Z"
+}

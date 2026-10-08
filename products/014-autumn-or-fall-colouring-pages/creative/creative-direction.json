@@ -1,0 +1,33 @@
+{
+  "illustration_style": "Adult colouring-book ink illustration with an artisanal harvest-market feel; clean monochrome drawings built from graceful organic contours and decorative botanical styling.",
+  "line_weight": "Fine-to-medium black outlines with a restrained variation in weight; slightly bolder exterior silhouettes and focal contours.",
+  "line_quality": "Crisp, confident hand-inked strokes with gently irregular handmade character; smooth curves, tidy joins and clearly enclosed colourable areas.",
+  "detail_level": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+  "character_language": "not applicable",
+  "background_density": "Light to moderate. Supporting details form airy frames, borders or small clusters around the central motif, never filling every gap or competing with the focal area.",
+  "composition": "Clear central hierarchy with one immediately readable focal grouping; balanced, stable arrangements; decorative elements guide the eye inward; purposeful white space and optional calm header space for titles.",
+  "palette": "Monochrome black ink on bright white paper only.",
+  "colour_mode": "black-and-white line art",
+  "shading": "No grey fills, gradients or solid black shadow masses. Suggest depth through sparse contour lines, selective hatching and simple repeating textures only.",
+  "texture": "Subtle hand-drawn organic texture through vein lines, woodgrain-like marks, gentle stippling and small repeat motifs; keep all textures open and colourable.",
+  "mood": "Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment.",
+  "age_suitability": "adults",
+  "print_considerations": "High-contrast black-only line art designed for home printing on A4 and US Letter. Use clean enclosed shapes, avoid hairline details and large ink-heavy fills, and retain a comfortable unillustrated safety margin around page edges.",
+  "shared_prompt": "Original adult colouring-book illustration in crisp hand-inked black line art on clean white paper; elegant organic contours, fine-to-medium varied outlines, slightly bolder focal silhouettes, and softly handmade yet precise line quality. Use moderately detailed, open colourable forms with selective botanical texture, sparse hatching and delicate repeat patterns; no grey shading, gradients or solid fills. Maintain a calm central hierarchy, balanced decorative framing, generous breathing room and an artisanal, abundant seasonal mood. High-contrast, home-print-friendly monochrome artwork.",
+  "avoid": [
+    "Any Halloween, spooky, occult or horror imagery",
+    "Characters, faces or anthropomorphic objects",
+    "Photorealism, colour, grey wash, gradients or painted shading",
+    "Dense clutter, tiny inaccessible details or heavily inked black areas",
+    "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+    "Copied compositions or distinctive artwork from existing colouring books",
+    "Misspelled, distorted or illegible text",
+    "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-09-29T13:12:55.577Z"
+}

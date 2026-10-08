@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "product_id": "010",
+  "product_name": "Christmas Conservatory",
+  "slug": "christmas-conservatory-card",
+  "product_type": "Christmas greetings card",
+  "product_format": "greeting-card",
+  "page_count": 3,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "coloured",
+    "edge": "safe-margin",
+    "format_notes": "Design three coordinated portrait panels for an A4 or US Letter folded card, with a warm-white ground, broad safe margins, and no essential artwork near folds or trim."
+  },
+  "approved": {
+    "creative_approved_at": "2026-09-28T16:21:15.351Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "A",
+      "proposed_name": "Christmas Conservatory"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "cf380930b549bde88835b1d39e08a6c12139f82a13745798f66648b622c3b065"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "33b8563e3f7eb4e29e2d8f403dda9d600931867187dc2696d4056af1e1bc7908"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "proof-01",
+      "file": "proofs/attempt-01/proof-01.png",
+      "page_number": 1,
+      "proof_role": "main-style",
+      "sha256": "f5d933f1834a70d0575cbf0e0842268bef9d0f83c4f641bf70fc638fc67776a7",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-02",
+      "file": "proofs/attempt-01/proof-02.png",
+      "page_number": 2,
+      "proof_role": "different-composition",
+      "sha256": "b5acecc2922fb23c53e69f332a96c73cbc91a9727363df93e856291f0a45c881",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-03",
+      "file": "proofs/attempt-01/proof-03.png",
+      "page_number": 3,
+      "proof_role": "consistency-check",
+      "sha256": "5af74bba78ca96fb1631e01640cc23caa07c839be7448afd65fe2edfd5ffde4d",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "card-front",
+      "title": "Christmas Conservatory",
+      "asset": "proof-01",
+      "approved_text": [
+        "Merry Christmas"
+      ],
+      "production_notes": "Verify the greeting is spelled exactly “Merry Christmas” and remains high-contrast and legible. Keep all focal artwork inside broad safe margins; retain open warm-white space in the upper centre. Use moderate pigment coverage for home printing."
+    },
+    {
+      "page_number": 2,
+      "page_type": "card-inside",
+      "title": "Inside Greeting",
+      "asset": "proof-02",
+      "approved_text": [
+        "Wishing you a peaceful Christmas"
+      ],
+      "production_notes": "Verify the exact message spelling and ensure it is short, centred and clearly readable. Keep at least two-thirds of the panel open for handwriting. Decorative accents must not approach the fold or trim."
+    },
+    {
+      "page_number": 3,
+      "page_type": "card-back",
+      "title": "Christmas Conservatory Back",
+      "asset": "proof-03",
+      "approved_text": [
+        "Christmas Conservatory"
+      ],
+      "production_notes": "Verify the product-name spelling exactly. Do not add logos, URLs, trademarks or extra text. Keep the posy compact and safely clear of folds and trim. Include the separate printing and folding guide as a non-artwork deliverable, explaining duplex print settings and folding after trimming if required."
+    }
+  ],
+  "adapter": {
+    "format": "greeting-card",
+    "version": 2
+  },
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Christmas Conservatory",
+      "source": "specification",
+      "front": {
+        "asset": "proof-01"
+      },
+      "inside": {
+        "asset": "proof-02"
+      },
+      "inside_left": null,
+      "back": {
+        "type": "approved",
+        "asset": "proof-03"
+      }
+    }
+  ],
+  "review_notes": [
+    "Page 1 (front, proof-01): check the baked-in text reads exactly \"Merry Christmas\".",
+    "Page 2 (inside, proof-02): check the baked-in text reads exactly \"Wishing you a peaceful Christmas\".",
+    "Page 3 (back, proof-03): check the baked-in text reads exactly \"Christmas Conservatory\"."
+  ]
+}

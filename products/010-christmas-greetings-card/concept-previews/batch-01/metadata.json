@@ -1,0 +1,152 @@
+{
+  "product_id": "010",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-28T16:18:32.426Z",
+  "finished_at": "2026-09-28T16:19:07.943Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "Original hand-painted festive watercolour stationery illustration on subtly textured warm-white paper, with transparent layered pigment, gentle dry-brush marks and fine selective charcoal-pencil detail rather than bold outlines. Use moderate focal detail, generous breathing room, soft wintery light, muted evergreen, sage, cranberry, warm brown, cream and blue-grey hues, delicate cool shadows and a warm nostalgic handmade mood. Characters, where present, are softly naturalistic and storybook-like, with rounded forms, subtle faces and restrained gestures; preserve clear hierarchy and home-print-friendly tonal contrast.\n\nSHARED STYLE (style only): illustration style: Hand-painted festive watercolour stationery with original botanical and winter storytelling motifs, balancing a refined handmade feel with clear card-front readability.; line weight: Very fine, selective charcoal-pencil or ink accents; no heavy outlines.; line quality: Gently irregular, organic and hand-rendered, used sparingly to define small details.; detail level: Moderate detail concentrated in one clear focal illustration, with secondary marks kept airy and restrained for reliable home printing.; character language: Softly naturalistic storybook characters with rounded silhouettes, subtle facial features and understated expressive gestures.; background density: Predominantly clean warm-white space; any scenic detail is contained, lightly layered and allowed to recede behind the focal point.; palette: Muted heritage Christmas palette of evergreen, sage, olive, cranberry, brick red, warm brown, cream, soft grey and frosty blue-grey; red used as a restrained accent.; colour mode: full colour; shading: Transparent layered washes with gentle wet-on-dry modelling, soft cool winter shadows and occasional warm accents; never glossy or digitally airbrushed.; texture: Fine cold-pressed paper grain, mottled watercolour pigment, delicate dry-brush foliage marks and subtle hand-painted variation.; mood: Warm, nostalgic, peaceful and quietly celebratory.; print considerations: Designed for an A4 or US Letter folded-card layout with light warm backgrounds, broad safe margins and no essential detail near folds or trim lines. Keep dark pigment coverage moderate and preserve sufficient tonal separation so fine details reproduce clearly on home printers..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Earthy, vintage-leaning and cohesive: evergreen and sage greens, cranberry or brick reds, natural kraft/wood browns, cream, warm grey, and occasional subdued blue-grey. Bright red acts as a sparing focal accent.; linework: Reference 01 has delicate, irregular painted edges with only occasional fine pen-like detail; reference 02 uses very fine, soft dark outlines around tiny icons and figures; reference 03 relies mainly on painterly edges and extremely fine naturalistic detail rather than bold contour lines.; texture: Visible paper-like and watercolour texture is suggested through mottled washes, uneven pigment, fine foliage marks and, in the winter scene, detailed fur, knit, woodgrain and snow texture. The actual reference images also show physical card stock and styled-photo textures, which need not be reproduced in printable artwork.; composition density: The set ranges from low-density, centred or wreath-framed motifs with generous margins (reference 01), to an airy structured grid of small motifs and captions (reference 02), to one dense square narrative illustration held inside a wide clean border (reference 03).; background: The designed card faces use clean off-white paper backgrounds. Reference 03 contains a complex snowy outdoor scene only within its framed central illustration. The surrounding photographic tabletop props, black mobile-screen areas and checkout interface are presentation imagery, not elements of the card designs.; mood: Warm, gentle, nostalgic and intimate. The first two feel handmade and affectionate; the third is cosy, storybook-like and quietly wintry..\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas greetings card\".\nConcept \"Christmas Conservatory\": a greeting card for Adults seeking a refined, non-character festive card.\nShow the card front, using THIS concept's own content:\n- Subject: Winter botanical arrangement\n- Scene: Warm-white paper with airy seasonal foliage vignette\n- Focal object: Ribbon-tied citrus cluster\n- Composition: Asymmetrical lower-corner arrangement with greeting space above\n- Lighting: Soft diffuse winter morning light\n- Palette emphasis: Evergreen, cream, warm brown, citrus gold and cranberry\n- Mood: Refined, welcoming and quietly festive\n- Typography: Classic serif greeting in spacious upper centre\n- Distinguishing hook: Clementines nestled among cedar, pinecones and velvet ribbon\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Snowy village / Rolling hills beneath a pale winter evening sky / Glowing chapel lantern / Blue-hour snowlight with warm window glow\n- C: Mute swan / Frozen woodland lake with snowy reeds / Evergreen wreath afloat on water / Pale pearl daylight after fresh snowfall\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied reference-card artwork, layouts, icon grids, motifs, characters, message wording or drawn lettering; The reference mouse potting-bench scene, its props, clothing, staging or composition; Logos, trademarks, interfaces, product-photography props, hands, envelopes and mock-up elements; Photorealism, glossy 3D rendering, harsh black outlines or neon seasonal colours; Overcrowded card fronts, full-bleed dark backgrounds and detail too fine for home printing; Misspelled text, illegible greetings or unlicensed fonts.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:18:45.581Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Christmas Conservatory",
+        "tagline": "Elegant botanical Christmas greeting",
+        "product_type": "Christmas greetings card",
+        "product_format": "greeting-card",
+        "target_customer": "Adults seeking a refined, non-character festive card",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Front card design",
+          "Inside greeting panel",
+          "Back panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded printable Christmas card centred on an abundant winter citrus and evergreen arrangement, ideal for sending polished seasonal wishes to friends, family, neighbours or colleagues.",
+        "key_features": [
+          "Folded A4 or US Letter home-print layout",
+          "Three coordinated card panels",
+          "Refined botanical focal illustration",
+          "Warm-white background with generous writing space",
+          "Suitable for personal Christmas correspondence",
+          "Printing and folding guide included"
+        ],
+        "visual_direction_summary": "A light, elegant botanical route with an old-fashioned Christmas larder feel: winter greenery, citrus and restrained cranberry accents form a softly asymmetrical watercolour arrangement around a clean greeting.",
+        "visual_route": {
+          "primary_subject": "Winter botanical arrangement",
+          "scene": "Warm-white paper with airy seasonal foliage vignette",
+          "focal_object": "Ribbon-tied citrus cluster",
+          "composition": "Asymmetrical lower-corner arrangement with greeting space above",
+          "lighting": "Soft diffuse winter morning light",
+          "palette_emphasis": "Evergreen, cream, warm brown, citrus gold and cranberry",
+          "emotional_tone": "Refined, welcoming and quietly festive",
+          "typography_approach": "Classic serif greeting in spacious upper centre",
+          "distinguishing_visual_hook": "Clementines nestled among cedar, pinecones and velvet ribbon"
+        },
+        "preview_brief": "Portrait card front with a ribbon-tied cluster of clementines, cedar sprigs and pinecones rising softly from one lower corner on warm-white paper. An original classic serif Christmas greeting sits in the open upper centre, with a refined, peaceful handmade mood."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "Original hand-painted festive watercolour stationery illustration on subtly textured warm-white paper, with transparent layered pigment, gentle dry-brush marks and fine selective charcoal-pencil detail rather than bold outlines. Use moderate focal detail, generous breathing room, soft wintery light, muted evergreen, sage, cranberry, warm brown, cream and blue-grey hues, delicate cool shadows and a warm nostalgic handmade mood. Characters, where present, are softly naturalistic and storybook-like, with rounded forms, subtle faces and restrained gestures; preserve clear hierarchy and home-print-friendly tonal contrast.\n\nSHARED STYLE (style only): illustration style: Hand-painted festive watercolour stationery with original botanical and winter storytelling motifs, balancing a refined handmade feel with clear card-front readability.; line weight: Very fine, selective charcoal-pencil or ink accents; no heavy outlines.; line quality: Gently irregular, organic and hand-rendered, used sparingly to define small details.; detail level: Moderate detail concentrated in one clear focal illustration, with secondary marks kept airy and restrained for reliable home printing.; character language: Softly naturalistic storybook characters with rounded silhouettes, subtle facial features and understated expressive gestures.; background density: Predominantly clean warm-white space; any scenic detail is contained, lightly layered and allowed to recede behind the focal point.; palette: Muted heritage Christmas palette of evergreen, sage, olive, cranberry, brick red, warm brown, cream, soft grey and frosty blue-grey; red used as a restrained accent.; colour mode: full colour; shading: Transparent layered washes with gentle wet-on-dry modelling, soft cool winter shadows and occasional warm accents; never glossy or digitally airbrushed.; texture: Fine cold-pressed paper grain, mottled watercolour pigment, delicate dry-brush foliage marks and subtle hand-painted variation.; mood: Warm, nostalgic, peaceful and quietly celebratory.; print considerations: Designed for an A4 or US Letter folded-card layout with light warm backgrounds, broad safe margins and no essential detail near folds or trim lines. Keep dark pigment coverage moderate and preserve sufficient tonal separation so fine details reproduce clearly on home printers..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Earthy, vintage-leaning and cohesive: evergreen and sage greens, cranberry or brick reds, natural kraft/wood browns, cream, warm grey, and occasional subdued blue-grey. Bright red acts as a sparing focal accent.; linework: Reference 01 has delicate, irregular painted edges with only occasional fine pen-like detail; reference 02 uses very fine, soft dark outlines around tiny icons and figures; reference 03 relies mainly on painterly edges and extremely fine naturalistic detail rather than bold contour lines.; texture: Visible paper-like and watercolour texture is suggested through mottled washes, uneven pigment, fine foliage marks and, in the winter scene, detailed fur, knit, woodgrain and snow texture. The actual reference images also show physical card stock and styled-photo textures, which need not be reproduced in printable artwork.; composition density: The set ranges from low-density, centred or wreath-framed motifs with generous margins (reference 01), to an airy structured grid of small motifs and captions (reference 02), to one dense square narrative illustration held inside a wide clean border (reference 03).; background: The designed card faces use clean off-white paper backgrounds. Reference 03 contains a complex snowy outdoor scene only within its framed central illustration. The surrounding photographic tabletop props, black mobile-screen areas and checkout interface are presentation imagery, not elements of the card designs.; mood: Warm, gentle, nostalgic and intimate. The first two feel handmade and affectionate; the third is cosy, storybook-like and quietly wintry..\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas greetings card\".\nConcept \"Lanterns on Christmas Eve\": a greeting card for Families and adults who enjoy nostalgic Christmas scenes.\nShow the card front, using THIS concept's own content:\n- Subject: Snowy village\n- Scene: Rolling hills beneath a pale winter evening sky\n- Focal object: Glowing chapel lantern\n- Composition: Low panoramic village band with open sky for greeting\n- Lighting: Blue-hour snowlight with warm window glow\n- Palette emphasis: Blue-grey, cream, evergreen and small amber accents\n- Mood: Cosy, calm and nostalgic\n- Typography: Delicate handwritten greeting across open evening sky\n- Distinguishing hook: Winding snow path leading to a tiny lantern-lit chapel\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Winter botanical arrangement / Warm-white paper with airy seasonal foliage vignette / Ribbon-tied citrus cluster / Soft diffuse winter morning light\n- C: Mute swan / Frozen woodland lake with snowy reeds / Evergreen wreath afloat on water / Pale pearl daylight after fresh snowfall\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied reference-card artwork, layouts, icon grids, motifs, characters, message wording or drawn lettering; The reference mouse potting-bench scene, its props, clothing, staging or composition; Logos, trademarks, interfaces, product-photography props, hands, envelopes and mock-up elements; Photorealism, glossy 3D rendering, harsh black outlines or neon seasonal colours; Overcrowded card fronts, full-bleed dark backgrounds and detail too fine for home printing; Misspelled text, illegible greetings or unlicensed fonts.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:18:57.261Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Lanterns on Christmas Eve",
+        "tagline": "Cosy winter village Christmas card",
+        "product_type": "Christmas greetings card",
+        "product_format": "greeting-card",
+        "target_customer": "Families and adults who enjoy nostalgic Christmas scenes",
+        "page_count": 3,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "Front card design",
+          "Inside greeting panel",
+          "Back panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded printable Christmas card featuring a peaceful snowy village at dusk, made for sending warm seasonal wishes with a nostalgic storybook atmosphere.",
+        "key_features": [
+          "Folded A4 or US Letter home-print layout",
+          "Three coordinated card panels",
+          "Cosy dusk village illustration",
+          "Clear front greeting and uncluttered interior",
+          "General family festive design",
+          "Printing and folding guide included"
+        ],
+        "visual_direction_summary": "A wide, storybook winter route using a tiny illuminated village beneath a pale evening sky. The panoramic scene is quiet and spacious, with warm window light providing a gentle festive counterpoint to cool snow.",
+        "visual_route": {
+          "primary_subject": "Snowy village",
+          "scene": "Rolling hills beneath a pale winter evening sky",
+          "focal_object": "Glowing chapel lantern",
+          "composition": "Low panoramic village band with open sky for greeting",
+          "lighting": "Blue-hour snowlight with warm window glow",
+          "palette_emphasis": "Blue-grey, cream, evergreen and small amber accents",
+          "emotional_tone": "Cosy, calm and nostalgic",
+          "typography_approach": "Delicate handwritten greeting across open evening sky",
+          "distinguishing_visual_hook": "Winding snow path leading to a tiny lantern-lit chapel"
+        },
+        "preview_brief": "Landscape card front showing a small snow-covered village along the lower edge, with a winding path leading towards a warmly lit chapel lantern. The pale blue-grey dusk sky leaves ample room for an original delicate handwritten greeting, creating a calm Christmas Eve mood."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "Original hand-painted festive watercolour stationery illustration on subtly textured warm-white paper, with transparent layered pigment, gentle dry-brush marks and fine selective charcoal-pencil detail rather than bold outlines. Use moderate focal detail, generous breathing room, soft wintery light, muted evergreen, sage, cranberry, warm brown, cream and blue-grey hues, delicate cool shadows and a warm nostalgic handmade mood. Characters, where present, are softly naturalistic and storybook-like, with rounded forms, subtle faces and restrained gestures; preserve clear hierarchy and home-print-friendly tonal contrast.\n\nSHARED STYLE (style only): illustration style: Hand-painted festive watercolour stationery with original botanical and winter storytelling motifs, balancing a refined handmade feel with clear card-front readability.; line weight: Very fine, selective charcoal-pencil or ink accents; no heavy outlines.; line quality: Gently irregular, organic and hand-rendered, used sparingly to define small details.; detail level: Moderate detail concentrated in one clear focal illustration, with secondary marks kept airy and restrained for reliable home printing.; character language: Softly naturalistic storybook characters with rounded silhouettes, subtle facial features and understated expressive gestures.; background density: Predominantly clean warm-white space; any scenic detail is contained, lightly layered and allowed to recede behind the focal point.; palette: Muted heritage Christmas palette of evergreen, sage, olive, cranberry, brick red, warm brown, cream, soft grey and frosty blue-grey; red used as a restrained accent.; colour mode: full colour; shading: Transparent layered washes with gentle wet-on-dry modelling, soft cool winter shadows and occasional warm accents; never glossy or digitally airbrushed.; texture: Fine cold-pressed paper grain, mottled watercolour pigment, delicate dry-brush foliage marks and subtle hand-painted variation.; mood: Warm, nostalgic, peaceful and quietly celebratory.; print considerations: Designed for an A4 or US Letter folded-card layout with light warm backgrounds, broad safe margins and no essential detail near folds or trim lines. Keep dark pigment coverage moderate and preserve sufficient tonal separation so fine details reproduce clearly on home printers..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Earthy, vintage-leaning and cohesive: evergreen and sage greens, cranberry or brick reds, natural kraft/wood browns, cream, warm grey, and occasional subdued blue-grey. Bright red acts as a sparing focal accent.; linework: Reference 01 has delicate, irregular painted edges with only occasional fine pen-like detail; reference 02 uses very fine, soft dark outlines around tiny icons and figures; reference 03 relies mainly on painterly edges and extremely fine naturalistic detail rather than bold contour lines.; texture: Visible paper-like and watercolour texture is suggested through mottled washes, uneven pigment, fine foliage marks and, in the winter scene, detailed fur, knit, woodgrain and snow texture. The actual reference images also show physical card stock and styled-photo textures, which need not be reproduced in printable artwork.; composition density: The set ranges from low-density, centred or wreath-framed motifs with generous margins (reference 01), to an airy structured grid of small motifs and captions (reference 02), to one dense square narrative illustration held inside a wide clean border (reference 03).; background: The designed card faces use clean off-white paper backgrounds. Reference 03 contains a complex snowy outdoor scene only within its framed central illustration. The surrounding photographic tabletop props, black mobile-screen areas and checkout interface are presentation imagery, not elements of the card designs.; mood: Warm, gentle, nostalgic and intimate. The first two feel handmade and affectionate; the third is cosy, storybook-like and quietly wintry..\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas greetings card\".\nConcept \"Christmas Swan Lake\": a greeting card for Adults and families who favour serene nature-led cards.\nShow the card front, using THIS concept's own content:\n- Subject: Mute swan\n- Scene: Frozen woodland lake with snowy reeds\n- Focal object: Evergreen wreath afloat on water\n- Composition: Swan centred on reflective water with tall clear upper space\n- Lighting: Pale pearl daylight after fresh snowfall\n- Palette emphasis: Cream, frosty blue-grey, sage and restrained cranberry\n- Mood: Graceful, peaceful and hopeful\n- Typography: Small elegant serif greeting in upper third\n- Distinguishing hook: Swan gliding past a floating evergreen wreath\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Winter botanical arrangement / Warm-white paper with airy seasonal foliage vignette / Ribbon-tied citrus cluster / Soft diffuse winter morning light\n- B: Snowy village / Rolling hills beneath a pale winter evening sky / Glowing chapel lantern / Blue-hour snowlight with warm window glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied reference-card artwork, layouts, icon grids, motifs, characters, message wording or drawn lettering; The reference mouse potting-bench scene, its props, clothing, staging or composition; Logos, trademarks, interfaces, product-photography props, hands, envelopes and mock-up elements; Photorealism, glossy 3D rendering, harsh black outlines or neon seasonal colours; Overcrowded card fronts, full-bleed dark backgrounds and detail too fine for home printing; Misspelled text, illegible greetings or unlicensed fonts.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:19:07.938Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Christmas Swan Lake",
+        "tagline": "Peaceful woodland Christmas greeting",
+        "product_type": "Christmas greetings card",
+        "product_format": "greeting-card",
+        "target_customer": "Adults and families who favour serene nature-led cards",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Front card design",
+          "Inside greeting panel",
+          "Back panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded printable Christmas card with a graceful swan gliding across a wintry woodland lake, offering a serene alternative to traditional festive characters and busy holiday scenes.",
+        "key_features": [
+          "Folded A4 or US Letter home-print layout",
+          "Three coordinated card panels",
+          "Graceful nature-led winter illustration",
+          "Restrained festive colour accents",
+          "Ample room for a personal handwritten message",
+          "Printing and folding guide included"
+        ],
+        "visual_direction_summary": "A serene nature route centred on still water, snowy reeds and one graceful bird. Minimal cranberry berries and evergreen reflections introduce Christmas colour while preserving a spacious, quietly celebratory card front.",
+        "visual_route": {
+          "primary_subject": "Mute swan",
+          "scene": "Frozen woodland lake with snowy reeds",
+          "focal_object": "Evergreen wreath afloat on water",
+          "composition": "Swan centred on reflective water with tall clear upper space",
+          "lighting": "Pale pearl daylight after fresh snowfall",
+          "palette_emphasis": "Cream, frosty blue-grey, sage and restrained cranberry",
+          "emotional_tone": "Graceful, peaceful and hopeful",
+          "typography_approach": "Small elegant serif greeting in upper third",
+          "distinguishing_visual_hook": "Swan gliding past a floating evergreen wreath"
+        },
+        "preview_brief": "Portrait card front with a graceful mute swan gliding over a pale reflective lake, passing a small floating evergreen wreath amid snowy reeds. A compact original serif greeting rests in the clear upper third, giving the scene a peaceful and hopeful Christmas feel."
+      }
+    }
+  ]
+}

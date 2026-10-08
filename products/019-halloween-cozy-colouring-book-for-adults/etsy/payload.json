@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "product_id": "019",
+  "product_name": "Moonlit Potting Shed: Adult Halloween Colouring Book",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Adult Halloween Colouring Book | Moonlit Garden Pages, Instant Digital Download",
+    "description": "Settle into a moonlit garden where pumpkins glow, herbs hang quietly, and every page invites a little peaceful Halloween colouring. 🌙 Let the mysterious, cosy atmosphere unfold at your own pace.\n\nMoonlit Potting Shed is an adult Halloween colouring book filled with black-and-white line art to colour in. Its portrait illustrations pair a potting bench and walled kitchen garden with botanical engraving influences, intricate details and open areas for a relaxed creative session. The mood is gently mysterious and warmly seasonal, never frightening. 🪴\n\nPage highlights\n\nThe Lantern Bench gathers a carved pumpkin lantern, herb jars, seed packets and well-used gardening tools beneath a moonlit arched window.\n\nHerbs by Moonlight brings rosemary, sage, thyme, lavender, mint and chamomile together on an ornate rail, with ribbons, ceramic jars and climbing ivy.\n\nPumpkin Patch Gate opens onto a winding path through a wrought-iron gate, where pumpkins, hollyhocks and curling vines sit beneath the full moon.\n\nFor a quieter indoor moment, Harvest Tea in the Shed centres on a teapot, mismatched cups, biscuits and an open gardening journal, with a sleeping cat tucked under the table. The Friendly Scarecrow and Garden Ghost's Delivery add a welcoming touch of Halloween character. ✨\n\nWhat you receive\n• 9 colouring pages\n• 10 pages including the cover\n• Portrait book layout, with each design on its own page\n• PDF files in A4 and US Letter formats\n• PNG pages\n• Printing guide included\n\nHow it works\nDownload, print and colour. Choose the page that suits your mood, follow the included printing guide, then bring the moonlit garden scenes to life in your own way.\n\nA lovely choice for an unhurried autumn evening, when you want a small creative escape into a peaceful garden after dark. Let the next page reveal its quiet Halloween atmosphere.\n\nThis is an instant digital download. No physical item is shipped.",
+    "tags": [
+      "adult colouring",
+      "halloween printable",
+      "garden colouring",
+      "spooky garden",
+      "autumn colouring",
+      "cosy gothic",
+      "moonlit garden",
+      "relaxing activity",
+      "botanical line art",
+      "potting shed",
+      "pumpkin colouring",
+      "ghost colouring",
+      "scarecrow colouring"
+    ],
+    "materials": [
+      "Digital PDF files",
+      "PNG pages",
+      "Printing guide",
+      "A4 format",
+      "US Letter format"
+    ],
+    "price": {
+      "amount": 4.95,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 339,
+      "path": "Books, Movies & Music > Books > Coloring Books",
+      "source": "owner-approved mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Books, Movies & Music > Books > Coloring Books"
+    }
+  },
+  "properties": {
+    "apply": [
+      {
+        "field": "primary_colour",
+        "property_id": 200,
+        "property_name": "Primary color",
+        "value_ids": [
+          1
+        ],
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "field": "secondary_colour",
+        "property_id": 52047899002,
+        "property_name": "Secondary color",
+        "value_ids": [
+          10
+        ],
+        "values": [
+          "White"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Halloween",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "6032ae384320a4bed9a87af8e2004e918f0449b74f4584a5018f7f58ba31cb01",
+      "bytes": 4558730,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "e8d7cc3d070fbd4c434372134d8e0d3e100d86d9919afa4f8567ebb404d9df32",
+      "bytes": 2880439,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "ed1c12157e54c1a6a5e81607696f14fa3ee85373e5dd9858bb110f8b2d2a1fef",
+      "bytes": 3245844,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "4ae7866dfff53bc94511ecbc5f2125bc85cb64f0ebb666469dfe716882c34d65",
+      "bytes": 3734015,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "166ae1f3dd1b4226a0ce8d45e915d66fa2cb9dd54cc1969bede7bf361ff58c7e",
+      "bytes": 3489070,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-included.png",
+      "sha256": "128395e2d65bae89c07307fdb92887e7a52437c66051923da3e72b2f1243e3ce",
+      "bytes": 1605070,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-printable.png",
+      "sha256": "b94772a3a8d1e1329f6b10f0feb51e9b1bba8028c76ef84472256275d36148a3",
+      "bytes": 1276366,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-features.png",
+      "sha256": "324a5414dae081d64dfe215977ae8bf24bd02bef3c5e618719e83e1e2af7367f",
+      "bytes": 2611848,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-lifestyle.png",
+      "sha256": "0edd136113c837e9083624a88678fa568495851bd743a77add234329045b816b",
+      "bytes": 4580150,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "75a77d8f58c54d8ca9bcb7b0cfdfb9aacd0220f6db14f07941744f592322ac35",
+      "bytes": 2768457,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip",
+      "sha256": "82e1180b6b96ca146279125a9aa117f7a447a4addd8e101707966ef8341e254b",
+      "bytes": 17160824
+    },
+    {
+      "rank": 2,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip",
+      "sha256": "9a4d5f3ef32d217a923aceb04606c3f6dce7f407a9b8d93b8d9e54bc21fb872c",
+      "bytes": 17158339
+    },
+    {
+      "rank": 3,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip",
+      "sha256": "92871b3bbc13bdf02232023199ad2a56bdfa89c515496f2802bbfb90c6ad78bf",
+      "bytes": 8618762
+    },
+    {
+      "rank": 4,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip",
+      "sha256": "457dd4662c341f5c8db6efece6cdea2197368f7748d2deac6ef1657492d9c804",
+      "bytes": 10939487
+    },
+    {
+      "rank": 5,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip",
+      "file": "etsy/delivery/Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip",
+      "sha256": "4b4641e822095f06301233364a476a38287bcd16da08891f836ea117cefc919c",
+      "bytes": 10559056
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "a44f0e3ec8517e8e088143d44453564da4d720a87127f13a10c1973eaa22d009",
+    "stage3_fingerprint": "c85bbb24a615e6e58daf7d6fe76bbbca63a8473897ad9d1aa86917929602868f",
+    "listing_sha256": "7205916626f3dddb351d5cbdecdcb2ef0d34bf342b4324f4abf1cf7f50af9958",
+    "delivery_sha256": "b3fc09a3a6bb08b2c9f743431962fece8a5a90c614f138dd4624ca24e41b9252",
+    "marketing_approved_at": "2026-10-06T15:00:11.175Z"
+  },
+  "payload_sha256": "af317232c6dd8ee86f58b4bfbd077bb6343293cb371aaea2b26d20d0d6f7aef2",
+  "prepared_at": "2026-10-06T15:00:31.295Z"
+}

@@ -1,0 +1,1215 @@
+{
+  "schema_version": 2,
+  "product_id": "019",
+  "handoff_sha256": "915969bbf82a31b612e2b6effb7313f0bd4ea02014ae2b252394f56c6bd1f098",
+  "adapter": {
+    "format": "colouring-book",
+    "design": "standard",
+    "design_name": "Standard",
+    "version": 1
+  },
+  "image_encoding": {
+    "pdf": "lossless",
+    "pages_png": true
+  },
+  "package": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Colouring-Pages-PNG",
+    "Guide"
+  ],
+  "card_variants": null,
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+      "page": 2,
+      "label": "Page 2 of 10 (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf",
+      "page": 2,
+      "label": "Page 10 of 10 (A4)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "2ded6081d97add57ef6d7634cec7a9ba1c95288e7930e2af6d4a85e4e0201657",
+      "bytes": 2369,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "5e525383702ab637c1403ffcf3cd4cfe9ff828a98915e54642f5a168655dd0b7",
+      "bytes": 17198845,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "77e6c920adb31a7115eaac5db4fba4b203d07a6035958af1f248e093aca79768"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "605b4e006e070ed64a880ac9c5706e7c35c69eade5ec6d46294286e636c9aa75"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "4d2b990f088118b16eb34b6ab7db1e9f77feee2a4562c96df24ea8047d94f8e2"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "c69881c3c5c17de7cc2a6512faadb75ef9873f515f6d3983eff99ec8283226ad"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "74319833c5b433f546003d0a654781d641db6ae1b92530ee8479ab269796bb00"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "f024579b9c5e6b9f603ff6c9b95dcfbffefcd3769a15915c1c8c23248e9ae631"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "84f73e8c5b3c1881c5647318fa3e5c3e5734f71cda6c65743a4572b367e1154c"
+        }
+      ],
+      "expect": {
+        "pages": 8,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 2,
+      "sha256": "8b410d998f9b69818b74cb66ef8c27869c8ada9d69a4d722d6892d9240813c3e",
+      "bytes": 4314629,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "e0bf159a1af2beb160e2c047214790f9b0ccfabc8cc3377d26c5228d95cdee89"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "cebfbe3a9e7b57f3d1f0c02d47f64ee2ae7a9034a60b66fc6fda986a357d3ecd"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-1-Pages-01-08.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "abfcb0adee18ceba2228da62d605f2b1f77348b1e6c4ed23f3ad475f5628fbbf",
+      "bytes": 17198866,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "77e6c920adb31a7115eaac5db4fba4b203d07a6035958af1f248e093aca79768"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "605b4e006e070ed64a880ac9c5706e7c35c69eade5ec6d46294286e636c9aa75"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "4d2b990f088118b16eb34b6ab7db1e9f77feee2a4562c96df24ea8047d94f8e2"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "c69881c3c5c17de7cc2a6512faadb75ef9873f515f6d3983eff99ec8283226ad"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "74319833c5b433f546003d0a654781d641db6ae1b92530ee8479ab269796bb00"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "f024579b9c5e6b9f603ff6c9b95dcfbffefcd3769a15915c1c8c23248e9ae631"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "84f73e8c5b3c1881c5647318fa3e5c3e5734f71cda6c65743a4572b367e1154c"
+        }
+      ],
+      "expect": {
+        "pages": 8,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-2-Pages-09-10.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 2,
+      "sha256": "bf798573ccda8b4819b73dbb437a5cdc714524c8ac06d964e51eee59c15cdd54",
+      "bytes": 4314629,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "e0bf159a1af2beb160e2c047214790f9b0ccfabc8cc3377d26c5228d95cdee89"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "cebfbe3a9e7b57f3d1f0c02d47f64ee2ae7a9034a60b66fc6fda986a357d3ecd"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 1,
+      "sha256": "e19a27e1a2bcc8d81072649240453aa3830d05a54e5ae1e9632b8d10839d4b92",
+      "bytes": 2371397,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "77e6c920adb31a7115eaac5db4fba4b203d07a6035958af1f248e093aca79768"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P001"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 2,
+      "sha256": "0d54bf06aa2ff94eb8a54e991ccbe240b0212f0392c6be61ee4868edc4b99218",
+      "bytes": 1913159,
+      "sources": [
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P002"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 3,
+      "sha256": "d4b92212274fd4d466919501eadc6168a0f98d4d950b9f75839d9a0d173e02c9",
+      "bytes": 2138033,
+      "sources": [
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "605b4e006e070ed64a880ac9c5706e7c35c69eade5ec6d46294286e636c9aa75"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P003"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 4,
+      "sha256": "c9532d5f31198817e61bdcb7a6ba6c606ba934450578284a54c0cc6352d212af",
+      "bytes": 2593113,
+      "sources": [
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "4d2b990f088118b16eb34b6ab7db1e9f77feee2a4562c96df24ea8047d94f8e2"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P004"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 5,
+      "sha256": "9d27293f7388d30559a2908a611bce13b630db63b4aad5636e025b011283ca9b",
+      "bytes": 1972388,
+      "sources": [
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "c69881c3c5c17de7cc2a6512faadb75ef9873f515f6d3983eff99ec8283226ad"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P005"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 6,
+      "sha256": "f0f099d3dc4a964c17dc62739d95a04a10ab74d1846e2f5b4c5338e33bdfabbe",
+      "bytes": 1902277,
+      "sources": [
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "74319833c5b433f546003d0a654781d641db6ae1b92530ee8479ab269796bb00"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P006"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 7,
+      "sha256": "e2c73f229eeaacb675ae5b71326c136830c28de686bdea3fe4d3d4a54aedde22",
+      "bytes": 2216879,
+      "sources": [
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "f024579b9c5e6b9f603ff6c9b95dcfbffefcd3769a15915c1c8c23248e9ae631"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P007"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 8,
+      "sha256": "2101513780c70bb7c2a98e110c975314b82780114c4ff237974070dd3a3d6177",
+      "bytes": 2060895,
+      "sources": [
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "84f73e8c5b3c1881c5647318fa3e5c3e5734f71cda6c65743a4572b367e1154c"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P008"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 9,
+      "sha256": "1aab2b663183b0747deff813111422c71c1046e37da0172ca0705df5394d9185",
+      "bytes": 1918671,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "e0bf159a1af2beb160e2c047214790f9b0ccfabc8cc3377d26c5228d95cdee89"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P009"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 10,
+      "sha256": "44893fa0b8c4973b15bd9ed82bf8d587af84752c05cc79f4e439f387671e54b6",
+      "bytes": 2510906,
+      "sources": [
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "cebfbe3a9e7b57f3d1f0c02d47f64ee2ae7a9034a60b66fc6fda986a357d3ecd"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P010"
+      },
+      "placements": []
+    }
+  },
+  "zip": null,
+  "book": {
+    "pages": 10,
+    "pages_png": true,
+    "pdf_encoding": "lossless"
+  },
+  "volumes": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "stage3_handoff": {
+    "product_format": "colouring-book",
+    "product_type": "Adult Halloween colouring book",
+    "page_count": 10,
+    "cover": true,
+    "colouring_pages": 9,
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "formats": [
+      {
+        "key": "A4",
+        "label": "A4",
+        "files": 2,
+        "pages": 10,
+        "page_size_mm": [
+          210,
+          297
+        ],
+        "artwork_size_mm": [
+          184.7,
+          277
+        ]
+      },
+      {
+        "key": "US-Letter",
+        "label": "US Letter",
+        "files": 2,
+        "pages": 10,
+        "page_size_mm": [
+          215.9,
+          279.4
+        ],
+        "artwork_size_mm": [
+          172.9,
+          259.4
+        ]
+      },
+      {
+        "key": "Colouring-Pages-PNG",
+        "label": "PNG pages",
+        "files": 10,
+        "pages": 10
+      }
+    ],
+    "representative_pages": [
+      {
+        "page_number": 1,
+        "title": "Moonlit Potting Shed",
+        "role": "cover",
+        "asset": "P001",
+        "file": "book/pages/P001.png",
+        "sha256": "77e6c920adb31a7115eaac5db4fba4b203d07a6035958af1f248e093aca79768",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png"
+      },
+      {
+        "page_number": 2,
+        "title": "The Lantern Bench",
+        "role": "page",
+        "asset": "P002",
+        "file": "book/pages/P002.png",
+        "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png"
+      },
+      {
+        "page_number": 6,
+        "title": "Moonflower Trellis",
+        "role": "page",
+        "asset": "P006",
+        "file": "book/pages/P006.png",
+        "sha256": "74319833c5b433f546003d0a654781d641db6ae1b92530ee8479ab269796bb00",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png"
+      },
+      {
+        "page_number": 10,
+        "title": "Full Moon Garden Finale",
+        "role": "page",
+        "asset": "P010",
+        "file": "book/pages/P010.png",
+        "sha256": "cebfbe3a9e7b57f3d1f0c02d47f64ee2ae7a9034a60b66fc6fda986a357d3ecd",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png"
+      }
+    ],
+    "package_contents": [
+      {
+        "item": "START-HERE-Printing-Guide.pdf",
+        "files": 1
+      },
+      {
+        "item": "A4",
+        "files": 2
+      },
+      {
+        "item": "US-Letter",
+        "files": 2
+      },
+      {
+        "item": "Colouring-Pages-PNG",
+        "files": 10
+      }
+    ],
+    "note": "Real product imagery for marketing must be these approved page files (or true renders of the customer PDFs); never a redrawn page."
+  },
+  "zip_parts": [
+    {
+      "part": 1,
+      "of": 5,
+      "name": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-1.zip",
+      "file": "production/package/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-1.zip",
+      "sha256": "21f2e2e47ab1ce15d6f81e1158466413403be297504b103a444dbdd10aeb4a63",
+      "bytes": 17160824,
+      "entries_digest": "a8ba84dfa782027343b231debb4ee5650478f6f509b410934ae35a3da2528767",
+      "entries": [
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/START-HERE-Printing-Guide.pdf",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf"
+      ]
+    },
+    {
+      "part": 2,
+      "of": 5,
+      "name": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-2.zip",
+      "file": "production/package/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-2.zip",
+      "sha256": "37f10eabc716f672e963a794dc4a24cf8d0d48ecc7b207e639124f64993b959d",
+      "bytes": 4309377,
+      "entries_digest": "8d8beddd89fcf24d7b3478ca462d4ce542dd9a114ee9956daccc6225aea31cd4",
+      "entries": [
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf"
+      ]
+    },
+    {
+      "part": 3,
+      "of": 5,
+      "name": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-3.zip",
+      "file": "production/package/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-3.zip",
+      "sha256": "d19a4afc679e18d465e3f47f535c0dca76510559485df72492f602c703c82cd1",
+      "bytes": 17158339,
+      "entries_digest": "1ac9d23c41015a4b4a426de1d573d9df428b12dcbe030f3da80900d52192f03e",
+      "entries": [
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-1-Pages-01-08.pdf"
+      ]
+    },
+    {
+      "part": 4,
+      "of": 5,
+      "name": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-4.zip",
+      "file": "production/package/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-4.zip",
+      "sha256": "caa42335dfcf4ee159f8d31db8050881f6b636baa702221d54c7cf2e1f56f7c6",
+      "bytes": 19351254,
+      "entries_digest": "537452e4ec037ad47a96e79fe26039f4359ea8ac6cc5daabe6c6a1572b355ed8",
+      "entries": [
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/US-Letter/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-US-Letter-Part-2-Pages-09-10.pdf",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png"
+      ]
+    },
+    {
+      "part": 5,
+      "of": 5,
+      "name": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-5.zip",
+      "file": "production/package/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Part-5.zip",
+      "sha256": "768d5e40b10c7507904a7c9b6786db8acefae89ef5ac5d060823148155021120",
+      "bytes": 6456674,
+      "entries_digest": "eb1e4fdf7c528563a6b92904386a390ed30c4e198f5e6bb1725c81c0b0b2d5ec",
+      "entries": [
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png",
+        "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png"
+      ]
+    }
+  ]
+}

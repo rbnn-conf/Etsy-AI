@@ -1,0 +1,812 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "021",
+  "workspace": "021-flower-crochet-simple-decorative",
+  "name": "Lavender Bloom Wall Hoop Crochet Pattern Bundle",
+  "slug": "lavender-bloom-wall-hoop-crochet-pattern",
+  "season": "Year-round",
+  "product_type": "Crochet pattern bundle",
+  "target_customer": "Confident beginners making gentle botanical wall décor and handmade gifts",
+  "page_count": 3,
+  "status": "CREATIVE_APPROVED",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-10-06T21:55:54.319Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-10-06T21:56:18.576Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-10-06T21:56:18.739Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-10-06T21:56:52.124Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-10-06T21:57:24.949Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-10-06T21:57:49.699Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-06T21:57:49.848Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-06T21:58:21.715Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-06T21:58:36.774Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PATTERNS_GENERATING",
+      "event": "patterns_started",
+      "at": "2026-10-06T21:58:54.967Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PATTERNS_GENERATING",
+      "to": "AWAITING_PATTERN_APPROVAL",
+      "event": "patterns_ready",
+      "at": "2026-10-06T22:03:37.653Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PATTERN_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "patterns_approved",
+      "at": "2026-10-06T22:04:18.682Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Flower crochet simple decorative",
+    "requested_at": "2026-10-06T21:55:54.319Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "concept",
+    "summary": {
+      "style": "Premium editorial product-photography system paired with restrained Moonlit Meadow branding: delicate watercolour botanical ornaments and crescent details appear only as secondary graphic accents, never within the crocheted product imagery.",
+      "linework": "Fine hairline rules and delicate ornamental strokes in the branding layer; no drawn outlines on product photography.; Precise, graceful and lightly organic in branding ornaments; not applicable to photographic product elements.",
+      "detail": "Crisp macro-level material detail for crochet visualisations, balanced with sparse, finely finished branding accents and generous calm space.",
+      "palette": "Moonlit Meadow neutrals of cream, warm ivory and oat, with soft blush, dusty lavender and muted sage accents; charcoal-grey type used sparingly for elegant contrast. (full colour)",
+      "mood": "Romantic, restful and premium, with a quiet handmade botanical sensibility."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-10-06T21:56:18.576Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Sunny Daisy Garland Crochet Pattern Bundle",
+            "tagline": "Cheerful beginner-friendly floral home décor",
+            "product_type": "Crochet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Beginner and confident beginner crocheters decorating a nursery, kitchen or craft room",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover page",
+              "Finished daisy garland photograph page",
+              "Detail photograph page",
+              "Digital crochet pattern instructions for daisies, leaves and assembly",
+              "Materials and abbreviations list"
+            ],
+            "short_description": "A simple decorative crochet pattern bundle for a fresh daisy-and-leaf garland. Designed as an approachable make for brightening shelves, windows, party tables or handmade gifts.",
+            "key_features": [
+              "Simple repeating flower motif",
+              "Decorative garland assembly instructions",
+              "Clear materials and abbreviations list",
+              "Beginner-friendly construction",
+              "Printable digital PDF download"
+            ],
+            "visual_direction_summary": "Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.",
+            "visual_route": {
+              "primary_subject": "Crocheted daisies",
+              "scene": "Sunlit white shelf vignette",
+              "focal_object": "Daisy garland",
+              "composition": "Curved garland sweep with airy title space",
+              "lighting": "Soft morning window light",
+              "palette_emphasis": "Cream, butter yellow, leaf green and warm white",
+              "emotional_tone": "Fresh, cheerful and handmade",
+              "typography_approach": "Clean rounded sans serif with small serif accents",
+              "distinguishing_visual_hook": "Daisies looping around a painted wooden peg rail"
+            },
+            "preview_brief": "A portrait cover showing a realistic crocheted daisy garland looping across a bright white peg rail, with a few leaves falling naturally between blooms. The title sits in clear space above the garland in a clean, cheerful editorial layout."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Poppy Picnic Coasters Crochet Pattern Bundle",
+            "tagline": "Bold floral coasters for sunny tables",
+            "product_type": "Crochet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Beginner crocheters seeking a quick handmade table décor project",
+            "page_count": 3,
+            "orientation": "square",
+            "deliverable_components": [
+              "Illustrated cover page",
+              "Finished coaster set photograph page",
+              "Close-up stitch-detail photograph page",
+              "Digital crochet pattern instructions for flower coasters",
+              "Materials, gauge and abbreviations list"
+            ],
+            "short_description": "A simple crochet pattern bundle for a set of bold poppy-style flower coasters. A quick decorative make for everyday tea breaks, garden lunches and handmade housewarming gifts.",
+            "key_features": [
+              "Quick floral coaster project",
+              "Coordinated set styling ideas",
+              "Simple round-based construction",
+              "Materials, gauge and abbreviations list",
+              "Printable digital PDF download"
+            ],
+            "visual_direction_summary": "Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.",
+            "visual_route": {
+              "primary_subject": "Crocheted poppies",
+              "scene": "Garden picnic table",
+              "focal_object": "Flower coaster set",
+              "composition": "Overhead clustered arrangement with centred title space",
+              "lighting": "Dappled midday garden light",
+              "palette_emphasis": "Poppy red, charcoal, sage green and linen beige",
+              "emotional_tone": "Lively, sunny and welcoming",
+              "typography_approach": "Bold compact serif with neat sans serif details",
+              "distinguishing_visual_hook": "Tea glasses resting on oversized poppy coasters"
+            },
+            "preview_brief": "A square cover with realistic crocheted poppy coasters arranged around chilled lemonade glasses on a linen-covered garden table. A compact title is centred in the open middle of the floral arrangement, with lively dappled sunlight across the yarn."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Lavender Bloom Wall Hoop Crochet Pattern Bundle",
+            "tagline": "Calm botanical décor for quiet corners",
+            "product_type": "Crochet pattern bundle",
+            "product_format": "crochet-pattern-bundle",
+            "target_customer": "Confident beginners making gentle botanical wall décor and handmade gifts",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover page",
+              "Finished wall hoop photograph page",
+              "Close-up flower and leaf detail photograph page",
+              "Digital crochet pattern instructions for floral hoop motifs",
+              "Materials and abbreviations list"
+            ],
+            "short_description": "A simple decorative crochet pattern bundle for a botanical wall hoop with lavender-inspired flowers and leafy sprigs. An elegant handmade accent for bedrooms, reading nooks and thoughtful gifts.",
+            "key_features": [
+              "Compact botanical wall décor project",
+              "Simple flower and leaf motifs",
+              "Easy hoop assembly guidance",
+              "Materials and abbreviations list",
+              "Printable digital PDF download"
+            ],
+            "visual_direction_summary": "Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.",
+            "visual_route": {
+              "primary_subject": "Crocheted lavender sprigs",
+              "scene": "Plaster wall reading nook",
+              "focal_object": "Botanical wall hoop",
+              "composition": "Centred hoop with vertical title space below",
+              "lighting": "Gentle late-afternoon side light",
+              "palette_emphasis": "Dusty lavender, eucalyptus green, oat and soft grey",
+              "emotional_tone": "Calm, delicate and restful",
+              "typography_approach": "Refined light serif with spaced small caps",
+              "distinguishing_visual_hook": "Lavender sprigs spilling asymmetrically from a wooden hoop"
+            },
+            "preview_brief": "A portrait cover featuring a realistic wooden embroidery hoop dressed with crocheted lavender sprigs and soft green leaves against a pale plaster wall. Gentle side light reveals the yarn stitch texture, while the title sits neatly below the centred hoop."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "C",
+      "selected_at": "2026-10-06T21:57:24.949Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-10-06T21:56:18.739Z",
+        "finished_at": "2026-10-06T21:56:52.122Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Flower crochet simple decorative\".\nConcept \"Sunny Daisy Garland Crochet Pattern Bundle\": a crochet pattern bundle for Beginner and confident beginner crocheters decorating a nursery, kitchen or craft room.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crocheted daisies\n- Scene: Sunlit white shelf vignette\n- Focal object: Daisy garland\n- Composition: Curved garland sweep with airy title space\n- Lighting: Soft morning window light\n- Palette emphasis: Cream, butter yellow, leaf green and warm white\n- Mood: Fresh, cheerful and handmade\n- Typography: Clean rounded sans serif with small serif accents\n- Distinguishing hook: Daisies looping around a painted wooden peg rail\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Crocheted poppies / Garden picnic table / Flower coaster set / Dappled midday garden light\n- C: Crocheted lavender sprigs / Plaster wall reading nook / Botanical wall hoop / Gentle late-afternoon side light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-06T21:56:29.492Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Flower crochet simple decorative\".\nConcept \"Poppy Picnic Coasters Crochet Pattern Bundle\": a crochet pattern bundle for Beginner crocheters seeking a quick handmade table décor project.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crocheted poppies\n- Scene: Garden picnic table\n- Focal object: Flower coaster set\n- Composition: Overhead clustered arrangement with centred title space\n- Lighting: Dappled midday garden light\n- Palette emphasis: Poppy red, charcoal, sage green and linen beige\n- Mood: Lively, sunny and welcoming\n- Typography: Bold compact serif with neat sans serif details\n- Distinguishing hook: Tea glasses resting on oversized poppy coasters\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Crocheted daisies / Sunlit white shelf vignette / Daisy garland / Soft morning window light\n- C: Crocheted lavender sprigs / Plaster wall reading nook / Botanical wall hoop / Gentle late-afternoon side light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1024",
+            "quality": "low",
+            "generated_at": "2026-10-06T21:56:39.477Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Flower crochet simple decorative\".\nConcept \"Lavender Bloom Wall Hoop Crochet Pattern Bundle\": a crochet pattern bundle for Confident beginners making gentle botanical wall décor and handmade gifts.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crocheted lavender sprigs\n- Scene: Plaster wall reading nook\n- Focal object: Botanical wall hoop\n- Composition: Centred hoop with vertical title space below\n- Lighting: Gentle late-afternoon side light\n- Palette emphasis: Dusty lavender, eucalyptus green, oat and soft grey\n- Mood: Calm, delicate and restful\n- Typography: Refined light serif with spaced small caps\n- Distinguishing hook: Lavender sprigs spilling asymmetrically from a wooden hoop\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Crocheted daisies / Sunlit white shelf vignette / Daisy garland / Soft morning window light\n- B: Crocheted poppies / Garden picnic table / Flower coaster set / Dappled midday garden light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-06T21:56:51.965Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Lavender Bloom",
+      "concept": "Premium illustrated cover concept for a botanical crochet wall-hoop pattern bundle.",
+      "instructions": null,
+      "artwork_description": "A large photorealistic visualisation of a wooden embroidery hoop adorned asymmetrically with generic crocheted botanical sprigs and soft green leaves, set against a pale plaster reading-nook wall. The hoop is centred in the upper area, with clear title space below. Sparse crescent and delicate watercolour botanical branding ornaments sit only at the periphery.",
+      "generation_prompt": "Centred wooden embroidery hoop dressed with an asymmetrical arrangement of realistic crocheted botanical sprigs and leafy accents, pale plaster reading-nook wall, gentle late-afternoon side light, title text “LAVENDER BLOOM” with subtitle “WALL HOOP CROCHET PATTERN”, vertical clear title area below hoop, tiny peripheral crescent and botanical branding accents only.",
+      "production_notes": "Concept/style proof only: the crochet hoop is a rendered visualisation, not a photograph of a test-made item or a physical item included with purchase. Do not identify a flower species, specify motif counts, or imply approved construction details. Verify title spelling and retain strong contrast for home printing. Include the digital-PDF-only statement in the final pattern document, not as a separate artwork page."
+    },
+    {
+      "page_number": 2,
+      "page_type": "showcase",
+      "title": "A Quiet Botanical Accent",
+      "concept": "Finished-project mood page showing how the generic crochet wall hoop could sit within a calm home interior.",
+      "instructions": null,
+      "artwork_description": "A photorealistic editorial interior visualisation of the completed generic crocheted botanical hoop hanging on a softly textured plaster wall in a quiet reading nook. A restrained linen-covered surface and one or two understated neutral styling objects may appear low in frame, while the hoop remains the single focal point. A short caption area is reserved beneath the image.",
+      "generation_prompt": "Realistic crocheted botanical wall hoop displayed on a softly textured pale plaster wall in a serene reading nook, hoop as the single centred focal point, subtle oat linen surface at the bottom of frame with minimal neutral styling, soft side-lit shadows, short caption text “A QUIET BOTANICAL ACCENT” beneath image, sparse peripheral Moonlit Meadow ornaments only.",
+      "production_notes": "Concept/style proof only; do not describe this as a test-made sample or a delivered wall hanging. Keep props minimal and non-branded. Avoid named flower species, motif totals, stitch claims and assembly claims until patterns are approved. Final PDF may place concise hoop-assembly guidance and written pattern instructions after this visual-led section without adding artwork pages."
+    },
+    {
+      "page_number": 3,
+      "page_type": "detail",
+      "title": "Stitch & Texture Detail",
+      "concept": "Close-up material-detail page establishing the realistic yarn quality and botanical motif finish for the bundle.",
+      "instructions": null,
+      "artwork_description": "A crisp macro product-photography visualisation of generic crocheted floral and leaf elements resting on warm ivory linen. Visible stitch loops, softly twisted yarn fibres, dimensional layers and gentle natural shadows are the focus. The composition leaves a small clean area for a short detail heading and discreet crescent branding accent.",
+      "generation_prompt": "Macro close-up of generic crocheted botanical motifs and leafy elements resting on warm ivory linen, sharply visible yarn fibres, stitch loops, believable handmade irregularity and dimensional construction, gentle natural side light and soft shadows, small heading text “STITCH & TEXTURE DETAIL”, one tiny peripheral crescent branding accent.",
+      "production_notes": "Concept/style proof only; motifs must remain generic and must not establish named flower species, petal numbers, leaf numbers, stitch totals or final pattern construction. Confirm that yarn fibres and loops read as genuinely crocheted rather than painted, plastic or biological. Materials list, abbreviations and complete written instructions are supplied as document content in the final PDF; they require no additional designed artwork page."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "main-style",
+        "reason": "First content page (cover): sets the core illustration style."
+      },
+      {
+        "page_number": 2,
+        "role": "different-composition",
+        "reason": "A different page type (showcase) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 3,
+        "role": "consistency-check",
+        "reason": "A later page (detail, p3) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "purpose": "concept-style",
+        "started_at": "2026-10-06T21:57:49.848Z",
+        "finished_at": "2026-10-06T21:58:21.713Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Premium Moonlit Meadow crochet-pattern branding with elegant serif typography, cream and warm-ivory neutrals, soft blush, dusty lavender and sage accents, and sparse crescent-moon and fine botanical watercolour ornaments used only in the branding layer. Every crochet visualisation is high-end photorealistic editorial product photography: genuine yarn fibres, distinct crochet stitches and loops, believable handmade depth and tiny irregularities, soft natural light, dimensional shadows and tactile neutral linen or interior styling. Calm romantic mood, crisp material detail, generous negative space, polished printable PDF design.\n\nSTYLE PARAMETERS: illustration style: Premium editorial product-photography system paired with restrained Moonlit Meadow branding: delicate watercolour botanical ornaments and crescent details appear only as secondary graphic accents, never within the crocheted product imagery.; line weight: Fine hairline rules and delicate ornamental strokes in the branding layer; no drawn outlines on product photography.; line quality: Precise, graceful and lightly organic in branding ornaments; not applicable to photographic product elements.; detail level: Crisp macro-level material detail for crochet visualisations, balanced with sparse, finely finished branding accents and generous calm space.; background density: Minimal and airy, using softly styled neutral interior or linen surfaces; branding ornaments remain sparse and peripheral.; composition: Clear editorial hierarchy with a single product focal point, generous breathing room for refined typography, and discreet ornamental framing that never competes with the crochet detail.; palette: Moonlit Meadow neutrals of cream, warm ivory and oat, with soft blush, dusty lavender and muted sage accents; charcoal-grey type used sparingly for elegant contrast.; colour mode: full colour; shading: Soft natural side lighting, realistic dimensional shadows and gentle tonal fall-off on yarn; subtle watercolour wash only in branding ornaments.; texture: Clearly visible yarn fibres, stitch loops, handmade irregularity and tactile linen or plaster texture; lightly textured watercolour paper feel confined to branding details.; mood: Romantic, restful and premium, with a quiet handmade botanical sensibility..\n\nPAGE 1 of \"Lavender Bloom Wall Hoop Crochet Pattern Bundle\" (cover): Centred wooden embroidery hoop dressed with an asymmetrical arrangement of realistic crocheted botanical sprigs and leafy accents, pale plaster reading-nook wall, gentle late-afternoon side light, title text “LAVENDER BLOOM” with subtitle “WALL HOOP CROCHET PATTERN”, vertical clear title area below hoop, tiny peripheral crescent and botanical branding accents only.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use an airy printable A4 and US Letter-safe editorial layout with generous space for refined typography and unobtrusive pattern-document text. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Watercolour, illustration, vector rendering or painted effects on any crocheted piece; Generic floral clipart and dense decorative borders; Overcrowded layouts or excessive props; Misspelled text, illegible fine type or low-contrast lettering; Named flower species, fixed petal counts or specific pattern claims before patterns are approved; Logos, trademarks, copied brand styling or distinctive existing compositions; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-06T21:57:59.882Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 2,
+            "prompt": "Premium Moonlit Meadow crochet-pattern branding with elegant serif typography, cream and warm-ivory neutrals, soft blush, dusty lavender and sage accents, and sparse crescent-moon and fine botanical watercolour ornaments used only in the branding layer. Every crochet visualisation is high-end photorealistic editorial product photography: genuine yarn fibres, distinct crochet stitches and loops, believable handmade depth and tiny irregularities, soft natural light, dimensional shadows and tactile neutral linen or interior styling. Calm romantic mood, crisp material detail, generous negative space, polished printable PDF design.\n\nSTYLE PARAMETERS: illustration style: Premium editorial product-photography system paired with restrained Moonlit Meadow branding: delicate watercolour botanical ornaments and crescent details appear only as secondary graphic accents, never within the crocheted product imagery.; line weight: Fine hairline rules and delicate ornamental strokes in the branding layer; no drawn outlines on product photography.; line quality: Precise, graceful and lightly organic in branding ornaments; not applicable to photographic product elements.; detail level: Crisp macro-level material detail for crochet visualisations, balanced with sparse, finely finished branding accents and generous calm space.; background density: Minimal and airy, using softly styled neutral interior or linen surfaces; branding ornaments remain sparse and peripheral.; composition: Clear editorial hierarchy with a single product focal point, generous breathing room for refined typography, and discreet ornamental framing that never competes with the crochet detail.; palette: Moonlit Meadow neutrals of cream, warm ivory and oat, with soft blush, dusty lavender and muted sage accents; charcoal-grey type used sparingly for elegant contrast.; colour mode: full colour; shading: Soft natural side lighting, realistic dimensional shadows and gentle tonal fall-off on yarn; subtle watercolour wash only in branding ornaments.; texture: Clearly visible yarn fibres, stitch loops, handmade irregularity and tactile linen or plaster texture; lightly textured watercolour paper feel confined to branding details.; mood: Romantic, restful and premium, with a quiet handmade botanical sensibility..\n\nPAGE 2 of \"Lavender Bloom Wall Hoop Crochet Pattern Bundle\" (showcase): Realistic crocheted botanical wall hoop displayed on a softly textured pale plaster wall in a serene reading nook, hoop as the single centred focal point, subtle oat linen surface at the bottom of frame with minimal neutral styling, soft side-lit shadows, short caption text “A QUIET BOTANICAL ACCENT” beneath image, sparse peripheral Moonlit Meadow ornaments only.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use an airy printable A4 and US Letter-safe editorial layout with generous space for refined typography and unobtrusive pattern-document text. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Watercolour, illustration, vector rendering or painted effects on any crocheted piece; Generic floral clipart and dense decorative borders; Overcrowded layouts or excessive props; Misspelled text, illegible fine type or low-contrast lettering; Named flower species, fixed petal counts or specific pattern claims before patterns are approved; Logos, trademarks, copied brand styling or distinctive existing compositions; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-06T21:58:11.004Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 3,
+            "prompt": "Premium Moonlit Meadow crochet-pattern branding with elegant serif typography, cream and warm-ivory neutrals, soft blush, dusty lavender and sage accents, and sparse crescent-moon and fine botanical watercolour ornaments used only in the branding layer. Every crochet visualisation is high-end photorealistic editorial product photography: genuine yarn fibres, distinct crochet stitches and loops, believable handmade depth and tiny irregularities, soft natural light, dimensional shadows and tactile neutral linen or interior styling. Calm romantic mood, crisp material detail, generous negative space, polished printable PDF design.\n\nSTYLE PARAMETERS: illustration style: Premium editorial product-photography system paired with restrained Moonlit Meadow branding: delicate watercolour botanical ornaments and crescent details appear only as secondary graphic accents, never within the crocheted product imagery.; line weight: Fine hairline rules and delicate ornamental strokes in the branding layer; no drawn outlines on product photography.; line quality: Precise, graceful and lightly organic in branding ornaments; not applicable to photographic product elements.; detail level: Crisp macro-level material detail for crochet visualisations, balanced with sparse, finely finished branding accents and generous calm space.; background density: Minimal and airy, using softly styled neutral interior or linen surfaces; branding ornaments remain sparse and peripheral.; composition: Clear editorial hierarchy with a single product focal point, generous breathing room for refined typography, and discreet ornamental framing that never competes with the crochet detail.; palette: Moonlit Meadow neutrals of cream, warm ivory and oat, with soft blush, dusty lavender and muted sage accents; charcoal-grey type used sparingly for elegant contrast.; colour mode: full colour; shading: Soft natural side lighting, realistic dimensional shadows and gentle tonal fall-off on yarn; subtle watercolour wash only in branding ornaments.; texture: Clearly visible yarn fibres, stitch loops, handmade irregularity and tactile linen or plaster texture; lightly textured watercolour paper feel confined to branding details.; mood: Romantic, restful and premium, with a quiet handmade botanical sensibility..\n\nPAGE 3 of \"Lavender Bloom Wall Hoop Crochet Pattern Bundle\" (detail): Macro close-up of generic crocheted botanical motifs and leafy elements resting on warm ivory linen, sharply visible yarn fibres, stitch loops, believable handmade irregularity and dimensional construction, gentle natural side light and soft shadows, small heading text “STITCH & TEXTURE DETAIL”, one tiny peripheral crescent branding accent.\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is artwork for a printable crochet pattern collection (the cover or a representative page), following the CROCHET PRODUCT DIRECTION, and contains no written instructions, stitch diagrams, charts or step text. Use an airy printable A4 and US Letter-safe editorial layout with generous space for refined typography and unobtrusive pattern-document text. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Watercolour, illustration, vector rendering or painted effects on any crocheted piece; Generic floral clipart and dense decorative borders; Overcrowded layouts or excessive props; Misspelled text, illegible fine type or low-contrast lettering; Named flower species, fixed petal counts or specific pattern claims before patterns are approved; Logos, trademarks, copied brand styling or distinctive existing compositions; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-06T21:58:21.567Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "ce6db6e3bc4b",
+    "keyboard_message_ids": [
+      666,
+      672,
+      681
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2768,
+        "input_tokens_details": {
+          "cache_write_tokens": 2765,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1421,
+        "output_tokens_details": {
+          "reasoning_tokens": 244
+        },
+        "total_tokens": 4189
+      },
+      "at": "2026-10-06T21:55:57.512Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 874,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 874
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1032
+      },
+      "at": "2026-10-06T21:56:18.747Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 872,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 872
+        },
+        "output_tokens": 196,
+        "output_tokens_details": {
+          "image_tokens": 196,
+          "text_tokens": 0
+        },
+        "total_tokens": 1068
+      },
+      "at": "2026-10-06T21:56:29.622Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 874,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 874
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1032
+      },
+      "at": "2026-10-06T21:56:39.611Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3212,
+        "input_tokens_details": {
+          "cache_write_tokens": 3209,
+          "cached_tokens": 0
+        },
+        "output_tokens": 632,
+        "output_tokens_details": {
+          "reasoning_tokens": 47
+        },
+        "total_tokens": 3844
+      },
+      "at": "2026-10-06T21:57:25.288Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2871,
+        "input_tokens_details": {
+          "cache_write_tokens": 2868,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1031,
+        "output_tokens_details": {
+          "reasoning_tokens": 124
+        },
+        "total_tokens": 3902
+      },
+      "at": "2026-10-06T21:57:35.787Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1172,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1172
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1515
+      },
+      "at": "2026-10-06T21:57:49.856Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1170,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1170
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1513
+      },
+      "at": "2026-10-06T21:58:00.096Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1158,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1158
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1501
+      },
+      "at": "2026-10-06T21:58:11.146Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-plan",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1707,
+        "input_tokens_details": {
+          "cache_write_tokens": 1704,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1370,
+        "output_tokens_details": {
+          "reasoning_tokens": 342
+        },
+        "total_tokens": 3077
+      },
+      "at": "2026-10-06T21:58:54.976Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2678,
+        "input_tokens_details": {
+          "cache_write_tokens": 2675,
+          "cached_tokens": 0
+        },
+        "output_tokens": 4426,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 7104
+      },
+      "at": "2026-10-06T21:59:12.177Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2659,
+        "input_tokens_details": {
+          "cache_write_tokens": 2656,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2873,
+        "output_tokens_details": {
+          "reasoning_tokens": 2373
+        },
+        "total_tokens": 5532
+      },
+      "at": "2026-10-06T22:00:08.783Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2674,
+        "input_tokens_details": {
+          "cache_write_tokens": 606,
+          "cached_tokens": 2065
+        },
+        "output_tokens": 3075,
+        "output_tokens_details": {
+          "reasoning_tokens": 2333
+        },
+        "total_tokens": 5749
+      },
+      "at": "2026-10-06T22:00:44.790Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2680,
+        "input_tokens_details": {
+          "cache_write_tokens": 611,
+          "cached_tokens": 2066
+        },
+        "output_tokens": 4349,
+        "output_tokens_details": {
+          "reasoning_tokens": 3417
+        },
+        "total_tokens": 7029
+      },
+      "at": "2026-10-06T22:01:31.627Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "crochet-pattern",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2686,
+        "input_tokens_details": {
+          "cache_write_tokens": 2683,
+          "cached_tokens": 0
+        },
+        "output_tokens": 4904,
+        "output_tokens_details": {
+          "reasoning_tokens": 4142
+        },
+        "total_tokens": 7590
+      },
+      "at": "2026-10-06T22:02:28.306Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-10-06T21:58:36.774Z",
+  "created_at": "2026-10-06T21:55:54.319Z",
+  "updated_at": "2026-10-06T22:04:25.621Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Use an airy printable A4 and US Letter-safe editorial layout with generous space for refined typography and unobtrusive pattern-document text."
+  },
+  "crochet": {
+    "version": 1,
+    "brief": {
+      "pattern_count": 5,
+      "terminology": "US",
+      "guidance": null,
+      "set_by": "@romg_o",
+      "set_at": "2026-10-06T21:58:50.744Z"
+    },
+    "plan": {
+      "file": "crochet/plan.json",
+      "sha256": "2d1f6d8eb7369d82cfbb33f196975b232cea4cc9eea9ac12217134fe2b601060"
+    },
+    "source": {
+      "file": "crochet/patterns.json",
+      "sha256": "53683fe2fc2838bbda9a8b383e8ba162a7792fe185609d67067a491b4f498d20",
+      "origin": "ai-assisted-draft"
+    },
+    "patterns": [
+      {
+        "pattern_id": "lavender-bloom-spray",
+        "name": "Lavender Bloom Spray",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/lavender-bloom-spray.json",
+        "sha256": "2bbd5424713591f721bd1493d572e37f070883d7fed4d052d28dc15fd2cb1388",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-06T22:00:08.775Z"
+      },
+      {
+        "pattern_id": "five-petal-wildflower",
+        "name": "Five-Petal Wildflower",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/five-petal-wildflower.json",
+        "sha256": "a2a98aa6363c1d78b5bd0cacad80b4df1374faeec190799debbd4ed2c35f878e",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-06T22:00:44.588Z"
+      },
+      {
+        "pattern_id": "meadow-bud-cluster",
+        "name": "Meadow Bud Cluster",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/meadow-bud-cluster.json",
+        "sha256": "630ffdf7e3ce4f9de746bbdad0351fed8571c8594759d172158679a8fb45d06f",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-06T22:01:31.468Z"
+      },
+      {
+        "pattern_id": "sage-leaf-sprig",
+        "name": "Sage Leaf Sprig",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/sage-leaf-sprig.json",
+        "sha256": "52361813f5e49f6e4dfd78244f2cb2d52092ca5165eee7b7902c05365ba99849",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-06T22:02:28.147Z"
+      },
+      {
+        "pattern_id": "crochet-hoop-band",
+        "name": "Crochet Hoop Band",
+        "status": "valid",
+        "revision": 1,
+        "file": "crochet/drafts/crochet-hoop-band.json",
+        "sha256": "f6496a55d0a905092a805ad1fff506b6677e522020dbd7bdc045bef6b992bdcf",
+        "errors": [],
+        "model": "gpt-5.6-terra",
+        "generated_at": "2026-10-06T22:03:37.477Z"
+      }
+    ],
+    "validation": {
+      "ok": true,
+      "errors": [],
+      "source_sha256": "53683fe2fc2838bbda9a8b383e8ba162a7792fe185609d67067a491b4f498d20",
+      "at": "2026-10-06T22:03:37.650Z"
+    },
+    "generation": {
+      "status": "complete",
+      "mode": "generate",
+      "started_at": "2026-10-06T21:58:54.967Z",
+      "finished_at": "2026-10-06T22:03:37.653Z",
+      "error": null
+    },
+    "pending": null,
+    "revision_notes": [],
+    "approval": {
+      "approved_at": "2026-10-06T22:04:18.681Z",
+      "by": "@romg_o",
+      "source_sha256": "53683fe2fc2838bbda9a8b383e8ba162a7792fe185609d67067a491b4f498d20",
+      "pattern_count": 5,
+      "origin": "ai-assisted-draft",
+      "verification": {
+        "unverified": 5,
+        "tested": 0
+      }
+    }
+  }
+}

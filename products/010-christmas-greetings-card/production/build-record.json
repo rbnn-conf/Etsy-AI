@@ -1,0 +1,410 @@
+{
+  "schema_version": 2,
+  "product_id": "010",
+  "handoff_sha256": "5123ed55da5990add8c0ea014be97d9cf15db6f5c77466f7a58459388aa70e49",
+  "adapter": {
+    "format": "greeting-card",
+    "version": 2
+  },
+  "image_encoding": 95,
+  "package": "LumiumX-Christmas-Conservatory",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Card-Panels-4x6in",
+    "Card-Artwork",
+    "Guide"
+  ],
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Christmas Conservatory",
+      "front": "proof-01",
+      "inside": "proof-02",
+      "inside_left": null,
+      "back": "approved proof-03",
+      "stem": "LumiumX-Christmas-Conservatory-Folded-Card"
+    }
+  ],
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Christmas-Conservatory-Folded-Card-A4.pdf",
+      "page": 1,
+      "label": "Outside (print first)"
+    },
+    {
+      "rel": "A4/LumiumX-Christmas-Conservatory-Folded-Card-A4.pdf",
+      "page": 2,
+      "label": "Inside (print on the back)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "a80cac4b5f5e66be3bae10a13ca182dde0fcbb245a65566b7e8852149778fe3f",
+      "bytes": 2862,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Christmas-Conservatory-Folded-Card-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": "A",
+      "sha256": "725e6b055bdbe781a55c0c7e5465e324d762edf9db390f5ee63a4c242811ee02",
+      "bytes": 1188791,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "f5d933f1834a70d0575cbf0e0842268bef9d0f83c4f641bf70fc638fc67776a7"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "b5acecc2922fb23c53e69f332a96c73cbc91a9727363df93e856291f0a45c881"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "5af74bba78ca96fb1631e01640cc23caa07c839be7448afd65fe2edfd5ffde4d"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          297,
+          210
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "asset": "proof-03",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Christmas-Conservatory-Folded-Card-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": "A",
+      "sha256": "e0012ab6b5f6fd207bc5558b4137211176a2e6d4c13aa3416c9c7ae614e275f2",
+      "bytes": 1188774,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "f5d933f1834a70d0575cbf0e0842268bef9d0f83c4f641bf70fc638fc67776a7"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "b5acecc2922fb23c53e69f332a96c73cbc91a9727363df93e856291f0a45c881"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "5af74bba78ca96fb1631e01640cc23caa07c839be7448afd65fe2edfd5ffde4d"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          279.4,
+          215.9
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "asset": "proof-03",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        }
+      ]
+    },
+    "Card-Panels-4x6in/LumiumX-Christmas-Conservatory-Card-Panels-4x6in.pdf": {
+      "kind": "pdf",
+      "variant": "Card-Panels-4x6in",
+      "card_variant": "A",
+      "sha256": "b46c6584306951b5fff8fba5957421c06881cfcfb851ed3a87e92e45e7f34d31",
+      "bytes": 1188675,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "f5d933f1834a70d0575cbf0e0842268bef9d0f83c4f641bf70fc638fc67776a7"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "b5acecc2922fb23c53e69f332a96c73cbc91a9727363df93e856291f0a45c881"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "5af74bba78ca96fb1631e01640cc23caa07c839be7448afd65fe2edfd5ffde4d"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          101.6,
+          152.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "panel front",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel inside",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel back",
+          "role": "back",
+          "asset": "proof-03",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        }
+      ]
+    },
+    "Card-Artwork/LumiumX-Christmas-Conservatory-Front.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "f5d933f1834a70d0575cbf0e0842268bef9d0f83c4f641bf70fc638fc67776a7",
+      "bytes": 2508795,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "f5d933f1834a70d0575cbf0e0842268bef9d0f83c4f641bf70fc638fc67776a7"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-01"
+      },
+      "placements": []
+    },
+    "Card-Artwork/LumiumX-Christmas-Conservatory-Inside.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "b5acecc2922fb23c53e69f332a96c73cbc91a9727363df93e856291f0a45c881",
+      "bytes": 2188462,
+      "sources": [
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "b5acecc2922fb23c53e69f332a96c73cbc91a9727363df93e856291f0a45c881"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-02"
+      },
+      "placements": []
+    },
+    "Card-Artwork/LumiumX-Christmas-Conservatory-Back.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "5af74bba78ca96fb1631e01640cc23caa07c839be7448afd65fe2edfd5ffde4d",
+      "bytes": 2373480,
+      "sources": [
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "5af74bba78ca96fb1631e01640cc23caa07c839be7448afd65fe2edfd5ffde4d"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-03"
+      },
+      "placements": []
+    }
+  },
+  "zip": {
+    "file": "production/package/LumiumX-Christmas-Conservatory.zip",
+    "sha256": "6d58c6daa235b2289f9061b4b82c1677fb94b44f056cf2ce6dd507136fff4271",
+    "bytes": 10069144,
+    "entries_digest": "2ba0853405f5bb728cdc3b64089a80702434d401eec27d381cd9311a25b3673d",
+    "entries": [
+      "LumiumX-Christmas-Conservatory/START-HERE-Printing-Guide.pdf",
+      "LumiumX-Christmas-Conservatory/A4/LumiumX-Christmas-Conservatory-Folded-Card-A4.pdf",
+      "LumiumX-Christmas-Conservatory/US-Letter/LumiumX-Christmas-Conservatory-Folded-Card-US-Letter.pdf",
+      "LumiumX-Christmas-Conservatory/Card-Panels-4x6in/LumiumX-Christmas-Conservatory-Card-Panels-4x6in.pdf",
+      "LumiumX-Christmas-Conservatory/Card-Artwork/LumiumX-Christmas-Conservatory-Front.png",
+      "LumiumX-Christmas-Conservatory/Card-Artwork/LumiumX-Christmas-Conservatory-Inside.png",
+      "LumiumX-Christmas-Conservatory/Card-Artwork/LumiumX-Christmas-Conservatory-Back.png"
+    ]
+  }
+}

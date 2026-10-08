@@ -1,0 +1,43 @@
+{
+  "themeSlug": "midnight-dark",
+  "themeName": "Midnight Dark",
+  "mood": "Deep navy-charcoal ground with warm gold accent pops - a genuine dark-mode premium planner edition, not a black-and-white 'monochrome' document. Replaces the v2.0 'Midnight Finance' theme (renamed + fully redesigned for ADR-018; the v2.0 'Monochrome' theme is dropped from the lineup entirely).",
+  "rationale": "On a dark ground, shadows barely read - elevation here comes primarily from cardSurface being a full step lighter than the page background plus a quiet border, with box-shadow kept as a secondary cue. Gold accent (rather than the light-theme coral/rose/green/blue) reads as premium/night-mode rather than desaturated.",
+  "colour": {
+    "background": "#171B24",
+    "surface": "#1F2430",
+    "surfaceAlt": "#262C3A",
+    "cardSurface": "#1F2430",
+    "cardSurfaceAlt": "#2A3040",
+    "inputFill": "#242A38",
+    "text": "#F3F1EC",
+    "textMuted": "#A8ACB8",
+    "border": "#333A4A",
+    "primary": "#E8A34D",
+    "secondary": "#E2653D",
+    "accent": "#E8A34D",
+    "highlight": "#3A3220",
+    "progress": "#E8A34D",
+    "navActive": "#E8A34D",
+    "badgeBg": "#3A3220",
+    "badgeText": "#E8C27E",
+    "success": "#5FBE84",
+    "warning": "#E2653D",
+    "shadowColour": "rgba(0,0,0,0.5)"
+  },
+  "categoryPalette": {
+    "groceries": "#6FBE86",
+    "dining": "#E8895F",
+    "transport": "#6FA8DE",
+    "entertainment": "#B18AE0",
+    "personal": "#E88FAE",
+    "household": "#D9C46F"
+  },
+  "accentPlacements": [
+    "hero header band + KPI icon badges",
+    "Leftover metric card (emphasis card, filled not just bordered)",
+    "progress-bar fill on Savings/Debt cards",
+    "Dashboard nav pill-tabs + active section indicator",
+    "numbered step badges (Quick Start)"
+  ]
+}

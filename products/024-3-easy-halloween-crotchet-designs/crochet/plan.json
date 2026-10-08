@@ -1,0 +1,116 @@
+{
+  "theme": "Little Halloween costume accessories",
+  "audience": [
+    "Crocheters making Halloween accessories",
+    "Beginner and easy-level crocheters",
+    "Children's and adults' costume makers"
+  ],
+  "style": [
+    "romantic",
+    "premium handmade",
+    "calm moonlit",
+    "gentle seasonal",
+    "lightweight accessories"
+  ],
+  "collection_type": "coordinated-set",
+  "role_plan": {
+    "focal": 1,
+    "secondary": 1,
+    "filler": 0,
+    "accent": 1,
+    "foliage": 0,
+    "structural": 0
+  },
+  "patterns": [
+    {
+      "pattern_id": "bat-hair-clip",
+      "name": "Moonlit Bat Hair Clip",
+      "category": "hair accessory",
+      "role": "focal",
+      "difficulty": "easy",
+      "approx_size": "about 7 cm wide, excluding the clip",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "A flat bat silhouette is crocheted in one piece, lightly shaped, then sewn securely onto a snap hair clip.",
+      "main_stitches": [
+        "ch",
+        "sc",
+        "hdc",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A lightweight dark bat appliqué mounted on a hair clip, creating a gentle Halloween finishing touch for children or adults."
+    },
+    {
+      "pattern_id": "witch-hat-brooch",
+      "name": "Lavender Witch-Hat Brooch",
+      "category": "brooch",
+      "role": "secondary",
+      "difficulty": "easy",
+      "approx_size": "about 6 cm tall",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "A small pointed hat and curved brim are crocheted separately, joined together, and finished with a brooch fastening on the back.",
+      "main_stitches": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A petite witch-hat brooch with a soft curved brim, designed to pin onto a cardigan, scarf, costume, or treat bag."
+    },
+    {
+      "pattern_id": "candy-corn-bag-charm",
+      "name": "Candy-Corn Bag Charm",
+      "category": "bag charm",
+      "role": "accent",
+      "difficulty": "easy",
+      "approx_size": "about 6 cm tall, excluding the loop",
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "construction": "A small tapered candy-corn charm is worked in stacked colour sections with a hanging loop made as part of the final edge.",
+      "main_stitches": [
+        "ch",
+        "sc",
+        "hdc",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A small striped candy-corn charm with a hanging loop for clipping to a treat bag, zip pull, or key ring."
+    }
+  ],
+  "combinations": {
+    "title": "Little Halloween Accessory Set",
+    "intro": "Use the three separate accessories together to add coordinated moonlit Halloween details to a costume, outerwear, or trick-or-treat bag.",
+    "items": [
+      {
+        "name": "Costume and Treat-Bag Trio",
+        "patterns": [
+          {
+            "pattern_id": "bat-hair-clip",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "witch-hat-brooch",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "candy-corn-bag-charm",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Wear the bat hair clip and witch-hat brooch as lightweight costume accents.",
+          "Attach the candy-corn charm to a treat bag or zip pull for a matching seasonal detail."
+        ]
+      }
+    ]
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-07T23:42:11.275Z"
+}

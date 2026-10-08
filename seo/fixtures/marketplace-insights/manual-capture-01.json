@@ -1,0 +1,21 @@
+{
+  "fixture": "MANUALLY CAPTURED Etsy Marketplace Insights observations (supplied by the owner). Not scraped, not from the Etsy API, not estimated.",
+  "research_id": "etsy-insights-seed",
+  "recorded_at": "2026-09-29T00:00:00.000Z",
+  "recorded_by": "owner",
+  "note": "Values exactly as supplied. The original capture date and the 30-day trend were not supplied, so captured_at and trend_percent are null (unknown), never guessed.",
+  "rows": [
+    {"keyword": "halloween coloring pages", "searches_30d": 4800, "search_results": 24700, "conversion_label": "high", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "fall coloring pages", "searches_30d": 2300, "search_results": 29100, "conversion_label": "very_high", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "adult coloring pages", "searches_30d": 4400, "search_results": 138700, "conversion_label": "very_high", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "halloween coloring pages printable", "searches_30d": 534, "search_results": 22000, "conversion_label": "very_high", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "digital coloring book", "searches_30d": 3800, "search_results": 157600, "conversion_label": "high", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "cozy coloring book", "searches_30d": 3200, "search_results": 33600, "conversion_label": "typical", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "halloween coloring book", "searches_30d": 3400, "search_results": 19400, "conversion_label": "low", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "halloween activity book", "searches_30d": 663, "search_results": 16700, "conversion_label": "very_low", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "cute ghost coloring", "searches_30d": 15, "search_results": 5200, "conversion_label": "very_low", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "traditional christmas card", "searches_30d": 98, "search_results": 10500, "conversion_label": "typical", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "christmas robin card", "searches_30d": 14, "search_results": 4500, "conversion_label": "very_low", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}},
+    {"keyword": "christmas printable card", "searches_30d": 12, "search_results": 192900, "conversion_label": "very_low", "trend_percent": null, "captured_at": null, "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Seed fixture"}}
+  ]
+}

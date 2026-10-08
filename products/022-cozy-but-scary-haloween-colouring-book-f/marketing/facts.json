@@ -1,0 +1,660 @@
+{
+  "schema_version": 1,
+  "product_id": "022",
+  "product_name": "Hollowbone Manor Masquerade",
+  "product_type": "Adult Halloween colouring book",
+  "product_format": "colouring-book",
+  "season": "Halloween",
+  "target_customer": "Adults who enjoy elegant spooky Halloween colouring",
+  "book": {
+    "page_count": 25,
+    "colouring_pages": 24,
+    "cover": true,
+    "orientation": "portrait",
+    "page_px": [
+      1024,
+      1536
+    ],
+    "non_colouring_pages": [
+      {
+        "page_number": 1,
+        "kind": "cover",
+        "title": "Hollowbone Manor Masquerade"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "title": "Hollowbone Manor Masquerade",
+      "role": "cover",
+      "page_type": "cover",
+      "asset": "P001",
+      "file": "book/pages/P001.png",
+      "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png"
+    },
+    {
+      "page_number": 2,
+      "title": "The Iron Gate",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P002",
+      "file": "book/pages/P002.png",
+      "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png"
+    },
+    {
+      "page_number": 3,
+      "title": "The Maskmaker's Chamber",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P003",
+      "file": "book/pages/P003.png",
+      "sha256": "295835e0f56c6875e0737aa49317444076a42d93c7b4bc80265d6d2ba52920e9",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png"
+    },
+    {
+      "page_number": 4,
+      "title": "Velvet Invitation",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P004",
+      "file": "book/pages/P004.png",
+      "sha256": "ddaa865c774a070c0e335923a9568397f4873e5eff33d68d07d0f34919bea78b",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png"
+    },
+    {
+      "page_number": 5,
+      "title": "The Grand Stair",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P005",
+      "file": "book/pages/P005.png",
+      "sha256": "96b38cac3ccfb2f721924bf4db158f3879f76b8bfcdafdf36dc8145933b8ff0a",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png"
+    },
+    {
+      "page_number": 6,
+      "title": "The Candle Corridor",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P006",
+      "file": "book/pages/P006.png",
+      "sha256": "d08083399473894e788f7ad9937aa28db71f89f49d307669113802ccd9f68c45",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png"
+    },
+    {
+      "page_number": 7,
+      "title": "The Ballroom Waltz",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P007",
+      "file": "book/pages/P007.png",
+      "sha256": "18a893a5429d02e6a1f792517b3009f62c31e8c84ccf9a3c039fb5ad1c919989",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png"
+    },
+    {
+      "page_number": 8,
+      "title": "Raven's Toast",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P008",
+      "file": "book/pages/P008.png",
+      "sha256": "3b569c47efa4161a24282bd1c2ae637d7ec881a3756fa69e1a702f73fcf157fe",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png"
+    },
+    {
+      "page_number": 9,
+      "title": "Pumpkin Parlour",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P009",
+      "file": "book/pages/P009.png",
+      "sha256": "4c46d19e06580c16c4bd6f1a3282e14fe012b4ea704f89c1eacf85d05778e9a5",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png"
+    },
+    {
+      "page_number": 10,
+      "title": "The Moonlit Terrace",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P010",
+      "file": "book/pages/P010.png",
+      "sha256": "a3be98a843bee7ae2435b103ab6ee05c7e0eaa3dd3b32b3af64c0283803149a2",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png"
+    },
+    {
+      "page_number": 11,
+      "title": "The Midnight Supper",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P011",
+      "file": "book/pages/P011.png",
+      "sha256": "3775eafc65395bc965ef7e1b0f994844e72fcd5d9e7a0b1bb1d5a43d065c5303",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png"
+    },
+    {
+      "page_number": 12,
+      "title": "The Clock Strikes Twelve",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P012",
+      "file": "book/pages/P012.png",
+      "sha256": "eace2267fc4f3604dd2ab54982df126a12af7c022218b3e05c980743163c38f0",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png"
+    },
+    {
+      "page_number": 13,
+      "title": "The Hidden Door",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P013",
+      "file": "book/pages/P013.png",
+      "sha256": "c0d51a72b26cc6b6eed219635d6828b7a855646306714a933672a6ebdf260c03",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png"
+    },
+    {
+      "page_number": 14,
+      "title": "The Portrait Gallery",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P014",
+      "file": "book/pages/P014.png",
+      "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png"
+    },
+    {
+      "page_number": 15,
+      "title": "The Conservatory Oracle",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P015",
+      "file": "book/pages/P015.png",
+      "sha256": "694983a72a23c8f093e833d3b571d28de2f58c4a8c43b8aff13d4a9fe3a35629",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png"
+    },
+    {
+      "page_number": 16,
+      "title": "The Costume Wardrobe",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P016",
+      "file": "book/pages/P016.png",
+      "sha256": "aa65dfc3cb991e7216b7a78290f7caf33775c9887624cd171a18d386e4e7b28b",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png"
+    },
+    {
+      "page_number": 17,
+      "title": "The Garden Labyrinth",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P017",
+      "file": "book/pages/P017.png",
+      "sha256": "4cd4703584140c29ad0559db5051c9a97ba8d829638943fe442553530350ca36",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png"
+    },
+    {
+      "page_number": 18,
+      "title": "The Raven Key",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P018",
+      "file": "book/pages/P018.png",
+      "sha256": "8d5df88de3bd385f051ddc10fb7ba1457ed077431e7af90b3b329087a64d51e7",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png"
+    },
+    {
+      "page_number": 19,
+      "title": "The Throne Room",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P019",
+      "file": "book/pages/P019.png",
+      "sha256": "d94ea386b635e2fb7908718110d6450052be06c6e9a6bff28a8d42da26dcead9",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png"
+    },
+    {
+      "page_number": 20,
+      "title": "The Crown of Bones",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P020",
+      "file": "book/pages/P020.png",
+      "sha256": "2e50d424b0b901c4cd626b4f6efefa56b65f48b8a3a7eec5407f22725c6dcb5c",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png"
+    },
+    {
+      "page_number": 21,
+      "title": "The Unmasking",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P021",
+      "file": "book/pages/P021.png",
+      "sha256": "c95f703c4c10e010eb68407ecf2ad0b41e617c671beb6741cef8c3a3b6155fe9",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png"
+    },
+    {
+      "page_number": 22,
+      "title": "The Skeleton Orchestra",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P022",
+      "file": "book/pages/P022.png",
+      "sha256": "c37268c9a8b5f2a0c49b981e1be6065b79ff1fc707363be7bc3e6fa6981932f2",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png"
+    },
+    {
+      "page_number": 23,
+      "title": "The Final Procession",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P023",
+      "file": "book/pages/P023.png",
+      "sha256": "a3c7ba89e28f72a448faeec1677f9412eb7cd7b3f35abb12a46e5f2341c93953",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png"
+    },
+    {
+      "page_number": 24,
+      "title": "Dawn at Hollowbone Manor",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P024",
+      "file": "book/pages/P024.png",
+      "sha256": "26a7e87b2f806045a746990457084a6ae38e4fc8b7ad1593b38fccb6c82465e3",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png"
+    },
+    {
+      "page_number": 25,
+      "title": "The Manor Sleeps",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P025",
+      "file": "book/pages/P025.png",
+      "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png"
+    }
+  ],
+  "selection": {
+    "cover": 1,
+    "lead": 1,
+    "showcase": [
+      2,
+      14,
+      25
+    ],
+    "collage": [
+      2,
+      5,
+      8,
+      11,
+      14,
+      16,
+      19,
+      22,
+      25
+    ],
+    "example": 2,
+    "pages_used": [
+      1,
+      2,
+      5,
+      8,
+      11,
+      14,
+      16,
+      19,
+      22,
+      25
+    ]
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 1,
+      "pages": 25,
+      "page_size_mm": [
+        210,
+        297
+      ],
+      "artwork_size_mm": [
+        184.7,
+        277
+      ]
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 1,
+      "pages": 25,
+      "page_size_mm": [
+        215.9,
+        279.4
+      ],
+      "artwork_size_mm": [
+        172.9,
+        259.4
+      ]
+    },
+    {
+      "key": "Colouring-Pages-PNG",
+      "label": "PNG pages",
+      "files": 25,
+      "pages": 25
+    }
+  ],
+  "png_pages": true,
+  "png_page_files": 25,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Hollowbone-Manor-Masquerade/START-HERE-Printing-Guide.pdf",
+    "sha256": "fe6389eb5ab104edb91f77e4b2273c6a0a7357254636935f8d3d4a953e3dacda"
+  },
+  "sheet_preview": {
+    "file": "production/previews/preview-01-LumiumX-Hollowbone-Manor-Masquerade-A4-p1.png",
+    "sha256": "3b26755520e88ee5d02e6d61f5e2042d6e3e9f1fe3a6bf71c3ff16c3621b6455",
+    "label": "Cover (A4)"
+  },
+  "line_art": true,
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Hollowbone-Manor-Masquerade",
+    "parts": 5,
+    "zip_mb": 85.3
+  },
+  "effective_ppi": {
+    "A4": 141,
+    "US-Letter": 150
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Hollowbone-Manor-Masquerade-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "page": 1,
+      "sha256": "3b26755520e88ee5d02e6d61f5e2042d6e3e9f1fe3a6bf71c3ff16c3621b6455"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Hollowbone-Manor-Masquerade-A4-p2.png",
+      "label": "Page 2 of 25 (A4)",
+      "source": "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "page": 2,
+      "sha256": "34d7c76d914747ebcf0295b1320e74f4757431a18294f02a35b3ec5115a2882e"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Hollowbone-Manor-Masquerade-A4-p25.png",
+      "label": "Page 25 of 25 (A4)",
+      "source": "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "page": 25,
+      "sha256": "e23b8dca9763feccb0e882c15cc99df7fc6649254416f6391a6e1e61eaaeb651"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "label": "Contact sheet: all 25 pages in order",
+      "source": null,
+      "page": null,
+      "sha256": "c66536d21d29bfa4776ac2e369c3a26eb238ab7953a6ebc25544fed292a3e73c"
+    }
+  ],
+  "page_quantity": {
+    "total_pages": 25,
+    "content_pages": 24,
+    "content": "colouring"
+  },
+  "style": {
+    "subject": "Skeleton masqueraders",
+    "palette": "Monochrome black ink on a pure white ground, with all tonal richness created through line density and optional colourer-led choices.",
+    "mood": "Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "c33ba584ee7ad38eb96238c3be0b7c3ae3721fed6bc982c6ac6b7200700840fc"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "148d830e17333afa8ea2017fcb3f4812c2d89aa7081b32c9947b022dfae5d5fa"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "625656ce484af5ce5558aabe6cdab68a6681318f6e2ef37b62fce4c7b9f2e26c"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Skeleton masqueraders",
+      "scene": "Decaying manor ballroom draped in autumn garlands",
+      "emotional_tone": "Elegant revelry and unsettling mystery",
+      "illustration_style": "Sophisticated monochrome pen-and-ink colouring-book illustration with a gothic storybook sensibility, designed for leisurely adult colouring.",
+      "mood": "Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease.",
+      "detail": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail."
+    },
+    "pages": {
+      "2": {
+        "title": "The Iron Gate",
+        "description": "Tall wrought-iron gates stand open before a weathered Gothic manor. Two elegant skeletal guests in cloaks and feathered masks approach along a cobbled path bordered by pumpkins, curling ivy and bare-branched trees. A crescent moon and small bats appear above distant turrets.",
+        "source": "approved page brief (page 2)"
+      },
+      "5": {
+        "title": "The Grand Stair",
+        "description": "A sweeping double staircase rises to a landing beneath carved arches. Three skeleton guests descend in different elaborate costumes: a rose-trimmed gown, a cloak with constellation motifs and a high-collared tailcoat. Jack-o'-lanterns, urns of autumn foliage and candle sconces decorate the stairs.",
+        "source": "approved page brief (page 5)"
+      },
+      "8": {
+        "title": "Raven's Toast",
+        "description": "A sophisticated skeletal guest in a raven-beak mask stands at a small table in a moonlit conservatory, lifting a patterned goblet. A raven perches on the chair back; curling vines, potted chrysanthemums, leaded glass and a tray of pear-shaped treats fill the scene.",
+        "source": "approved page brief (page 8)"
+      },
+      "11": {
+        "title": "The Midnight Supper",
+        "description": "A long banquet table is set with pumpkins, pomegranates, pears, decorative pies and ornate covered dishes. Empty high-backed chairs line either side, while a single skeletal butler presents a silver cloche at the head of the table. Candelabra and tapestries frame the dining hall.",
+        "source": "approved page brief (page 11)"
+      },
+      "14": {
+        "title": "The Portrait Gallery",
+        "description": "A richly ornamented gallery contains seven framed ancestor portraits. In each portrait, a different masked skeletal figure poses in period finery; one figure steps partly out of its frame while a living-looking candlelit reflection appears in a gilt mirror opposite.",
+        "source": "approved page brief (page 14)"
+      },
+      "16": {
+        "title": "The Costume Wardrobe",
+        "description": "Open wardrobe doors reveal neatly hung capes, gowns and tailcoats. A full-length oval mirror reflects a skeleton trying on an antlered mask, while gloves, fans, boots and brooches are arranged on an upholstered stool and dressing table.",
+        "source": "approved page brief (page 16)"
+      },
+      "19": {
+        "title": "The Throne Room",
+        "description": "Tall doors stand open onto a circular throne room. The empty velvet throne is elevated on a small dais and surrounded by eight tall candles, two stone gargoyle statues and a mosaic floor featuring a skull-and-rose medallion. The jewelled skull mask rests on the throne seat.",
+        "source": "approved page brief (page 19)"
+      },
+      "22": {
+        "title": "The Skeleton Orchestra",
+        "description": "Five skeleton musicians perform from a carved balcony: violin, cello, flute, harp and hand drum. Music notes are represented only as decorative floating swirls, not printed notation; bats, garlands and small lanterns decorate the balcony rail.",
+        "source": "approved page brief (page 22)"
+      },
+      "25": {
+        "title": "The Manor Sleeps",
+        "description": "A full portrait exterior of Hollowbone Manor sits beneath a crescent moon, with its gate closed and autumn vines climbing the façade. One upper window contains the small silhouette of the jewelled skull mask; the foreground features a stone urn of chrysanthemums, curled leaves and a sleeping skeletal cat.",
+        "source": "approved page brief (page 25)"
+      }
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Hollowbone Manor Masquerade"
+    ],
+    "page-count": [
+      "25 pages",
+      "25 printable pages",
+      "25-page",
+      "24 colouring pages",
+      "24 printable colouring pages",
+      "24 pages",
+      "24 designs",
+      "24 illustrations",
+      "24 colouring pages + cover",
+      "24 colouring pages and a cover",
+      "25",
+      "24"
+    ],
+    "page-number": [
+      "Page 1 of 25",
+      "Page 2 of 25",
+      "Page 3 of 25",
+      "Page 4 of 25",
+      "Page 5 of 25",
+      "Page 6 of 25",
+      "Page 7 of 25",
+      "Page 8 of 25",
+      "Page 9 of 25",
+      "Page 10 of 25",
+      "Page 11 of 25",
+      "Page 12 of 25",
+      "Page 13 of 25",
+      "Page 14 of 25",
+      "Page 15 of 25",
+      "Page 16 of 25",
+      "Page 17 of 25",
+      "Page 18 of 25",
+      "Page 19 of 25",
+      "Page 20 of 25",
+      "Page 21 of 25",
+      "Page 22 of 25",
+      "Page 23 of 25",
+      "Page 24 of 25",
+      "Page 25 of 25"
+    ],
+    "page-title": [
+      "Hollowbone Manor Masquerade",
+      "The Iron Gate",
+      "The Maskmaker's Chamber",
+      "Velvet Invitation",
+      "The Grand Stair",
+      "The Candle Corridor",
+      "The Ballroom Waltz",
+      "Raven's Toast",
+      "Pumpkin Parlour",
+      "The Moonlit Terrace",
+      "The Midnight Supper",
+      "The Clock Strikes Twelve",
+      "The Hidden Door",
+      "The Portrait Gallery",
+      "The Conservatory Oracle",
+      "The Costume Wardrobe",
+      "The Garden Labyrinth",
+      "The Raven Key",
+      "The Throne Room",
+      "The Crown of Bones",
+      "The Unmasking",
+      "The Skeleton Orchestra",
+      "The Final Procession",
+      "Dawn at Hollowbone Manor",
+      "The Manor Sleeps"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "PNG pages",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "PDF",
+      "PNG pages",
+      "Every page as a PNG",
+      "PDF and PNG files",
+      "Individual PNG pages"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Colour",
+      "Print at home or use a print shop",
+      "One design per page",
+      "Print single-sided",
+      "Print as many copies as you need for personal use"
+    ],
+    "example": [
+      "Coloured example",
+      "Coloured example for inspiration",
+      "Colours shown are an example only"
+    ],
+    "cover": [
+      "Cover page",
+      "Cover included",
+      "Illustrated cover"
+    ],
+    "line-art": [
+      "Black-and-white line art",
+      "Black and white line art",
+      "Line art"
+    ]
+  }
+}

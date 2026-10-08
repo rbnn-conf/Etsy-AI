@@ -1,0 +1,678 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "015",
+  "workspace": "015-christmas-greeting-card",
+  "name": "Starlit Village Post",
+  "slug": "starlit-village-post",
+  "season": "Christmas",
+  "product_type": "Christmas greeting card",
+  "target_customer": "Adults seeking a warm, traditional festive card",
+  "page_count": 3,
+  "status": "PRODUCTION_APPROVED",
+  "resume_state": "PRODUCTION_APPROVED",
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-29T20:18:15.970Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-29T20:18:50.147Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-29T20:18:50.156Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-29T20:19:19.584Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-09-29T20:19:33.467Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-09-29T20:20:00.717Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-29T20:20:00.727Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-29T20:20:38.350Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-09-29T20:21:22.260Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-09-29T20:21:24.492Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-09-29T20:21:24.496Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-09-29T20:21:34.501Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-09-29T20:21:38.879Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-09-29T20:21:43.514Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-29T20:21:55.286Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-29T20:22:16.549Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "marketing_cancelled",
+      "at": "2026-09-29T20:31:12.081Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Christmas greeting card",
+    "requested_at": "2026-09-29T20:18:15.970Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "concept",
+    "summary": {
+      "style": "Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.",
+      "linework": "Fine selective pencil outlines, softened by opaque gouache edges.; Gently imperfect, hand-drawn and crisp in small decorative details.",
+      "detail": "Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.",
+      "palette": "Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals. (full colour)",
+      "mood": "Cosy, hopeful, intimate and quietly nostalgic."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-09-29T20:18:50.147Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Starlit Village Post",
+            "tagline": "Cosy Christmas card for friends and family",
+            "product_type": "Christmas greeting card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults seeking a warm, traditional festive card",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Front design",
+              "Inside greeting panel",
+              "Back panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded Christmas card with a tiny snowy village post office beneath a wide, star-filled sky. A glowing letter box and drifting envelopes create a gentle send-a-seasonal-wishes story.",
+            "key_features": [
+              "Printable folded card for home printing",
+              "Front, inside and back artwork",
+              "All-purpose seasonal wording",
+              "A4 and US Letter printing guide"
+            ],
+            "visual_direction_summary": "Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.",
+            "visual_route": {
+              "primary_subject": "Snowy village post office",
+              "scene": "Hillside village beneath a star-filled winter sky",
+              "focal_object": "Glowing red letter box",
+              "composition": "Small building in lower centre, expansive sky for greeting",
+              "lighting": "Amber window glow against cobalt night",
+              "palette_emphasis": "Cobalt, cream, muted berry red and warm amber",
+              "emotional_tone": "Hopeful, intimate and nostalgic",
+              "typography_approach": "Refined serif greeting in open upper sky",
+              "distinguishing_visual_hook": "Flying envelopes becoming tiny golden stars"
+            },
+            "preview_brief": "Portrait card front showing a small snow-covered village post office at the base of a vast cobalt sky. A glowing letter box anchors the scene while envelopes lift into star shapes beneath an elegant upper-sky Christmas greeting."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Winter Citrus Wreath",
+            "tagline": "Elegant botanical Christmas card",
+            "product_type": "Christmas greeting card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults seeking an elegant non-character festive card",
+            "page_count": 3,
+            "orientation": "square",
+            "deliverable_components": [
+              "Front design",
+              "Inside greeting panel",
+              "Back panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded Christmas card centred on a lush winter wreath of evergreen sprigs, citrus slices and velvet ribbon. It offers a fresh, sophisticated alternative to traditional snowy scenes.",
+            "key_features": [
+              "Printable square folded card",
+              "Front, inside and back artwork",
+              "Non-character botanical design",
+              "A4 and US Letter printing guide"
+            ],
+            "visual_direction_summary": "Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.",
+            "visual_route": {
+              "primary_subject": "Winter botanical wreath",
+              "scene": "Softly speckled cream paper field",
+              "focal_object": "Velvet ribbon bow",
+              "composition": "Circular wreath framing centred greeting",
+              "lighting": "Soft studio-like winter illumination",
+              "palette_emphasis": "Evergreen, ochre citrus, cream and muted cranberry",
+              "emotional_tone": "Fresh, graceful and celebratory",
+              "typography_approach": "Classic serif greeting within wreath centre",
+              "distinguishing_visual_hook": "Dried citrus slices nested among frosted foliage"
+            },
+            "preview_brief": "Square card front with a generous circular evergreen wreath on softly textured cream, framing a centred Christmas greeting. Ochre citrus slices and a muted cranberry velvet bow give the botanical composition a polished festive lift."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Candlelit Winter Table",
+            "tagline": "Peaceful festive card for a quiet Christmas",
+            "product_type": "Christmas greeting card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults who appreciate quiet, atmospheric Christmas stationery",
+            "page_count": 3,
+            "orientation": "landscape",
+            "deliverable_components": [
+              "Front design",
+              "Inside greeting panel",
+              "Back panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded Christmas card celebrating a calm winter evening: candlelight, a steaming cup and a frost-edged window create a restful seasonal moment for sending thoughtful wishes.",
+            "key_features": [
+              "Printable landscape folded card",
+              "Front, inside and back artwork",
+              "Quiet winter evening theme",
+              "A4 and US Letter printing guide"
+            ],
+            "visual_direction_summary": "Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.",
+            "visual_route": {
+              "primary_subject": "Candlelit winter table",
+              "scene": "Frost-edged window at a quiet evening interior",
+              "focal_object": "Steaming ceramic cup",
+              "composition": "Tabletop still life across lower half, greeting in window glow",
+              "lighting": "Golden candlelight and blue moonlit frost",
+              "palette_emphasis": "Ink blue, honey gold, cream and cinnamon brown",
+              "emotional_tone": "Restful, tender and contemplative",
+              "typography_approach": "Small elegant serif greeting in luminous window area",
+              "distinguishing_visual_hook": "Steam curling into a subtle star garland"
+            },
+            "preview_brief": "Landscape card front showing a candlelit tabletop with a steaming ceramic cup before a frosted blue window. The warm candle glow meets cool moonlit glass, with a delicate Christmas greeting placed in the clear luminous window area."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "A",
+      "selected_at": "2026-09-29T20:19:33.467Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-29T20:18:50.156Z",
+        "finished_at": "2026-09-29T20:19:19.578Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas greeting card\".\nConcept \"Starlit Village Post\": a greeting card for Adults seeking a warm, traditional festive card.\nShow the card front, using THIS concept's own content:\n- Subject: Snowy village post office\n- Scene: Hillside village beneath a star-filled winter sky\n- Focal object: Glowing red letter box\n- Composition: Small building in lower centre, expansive sky for greeting\n- Lighting: Amber window glow against cobalt night\n- Palette emphasis: Cobalt, cream, muted berry red and warm amber\n- Mood: Hopeful, intimate and nostalgic\n- Typography: Refined serif greeting in open upper sky\n- Distinguishing hook: Flying envelopes becoming tiny golden stars\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Winter botanical wreath / Softly speckled cream paper field / Velvet ribbon bow / Soft studio-like winter illumination\n- C: Candlelit winter table / Frost-edged window at a quiet evening interior / Steaming ceramic cup / Golden candlelight and blue moonlit frost\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T20:19:01.380Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas greeting card\".\nConcept \"Winter Citrus Wreath\": a greeting card for Adults seeking an elegant non-character festive card.\nShow the card front, using THIS concept's own content:\n- Subject: Winter botanical wreath\n- Scene: Softly speckled cream paper field\n- Focal object: Velvet ribbon bow\n- Composition: Circular wreath framing centred greeting\n- Lighting: Soft studio-like winter illumination\n- Palette emphasis: Evergreen, ochre citrus, cream and muted cranberry\n- Mood: Fresh, graceful and celebratory\n- Typography: Classic serif greeting within wreath centre\n- Distinguishing hook: Dried citrus slices nested among frosted foliage\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Snowy village post office / Hillside village beneath a star-filled winter sky / Glowing red letter box / Amber window glow against cobalt night\n- C: Candlelit winter table / Frost-edged window at a quiet evening interior / Steaming ceramic cup / Golden candlelight and blue moonlit frost\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1024",
+            "quality": "low",
+            "generated_at": "2026-09-29T20:19:09.773Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas greeting card\".\nConcept \"Candlelit Winter Table\": a greeting card for Adults who appreciate quiet, atmospheric Christmas stationery.\nShow the card front, using THIS concept's own content:\n- Subject: Candlelit winter table\n- Scene: Frost-edged window at a quiet evening interior\n- Focal object: Steaming ceramic cup\n- Composition: Tabletop still life across lower half, greeting in window glow\n- Lighting: Golden candlelight and blue moonlit frost\n- Palette emphasis: Ink blue, honey gold, cream and cinnamon brown\n- Mood: Restful, tender and contemplative\n- Typography: Small elegant serif greeting in luminous window area\n- Distinguishing hook: Steam curling into a subtle star garland\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Snowy village post office / Hillside village beneath a star-filled winter sky / Glowing red letter box / Amber window glow against cobalt night\n- B: Winter botanical wreath / Softly speckled cream paper field / Velvet ribbon bow / Soft studio-like winter illumination\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "quality": "low",
+            "generated_at": "2026-09-29T20:19:19.573Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "card-front",
+      "title": "Starlit Village Post Front",
+      "concept": "A tiny snow-covered village post office sits beneath a vast starlit winter sky, with a glowing berry-red letter box and envelopes transforming into golden stars.",
+      "instructions": null,
+      "artwork_description": "Portrait front cover with the small post office in the lower centre, its amber-lit windows and snow-laden roof nestled among softly receding blue-grey hills. A glowing muted berry-red letter box forms the focal point in front of the building. Three small cream envelopes rise from the letter box and gradually become tiny golden stars across the open cobalt upper sky. Refined serif text in the upper sky reads: “Christmas Wishes”.",
+      "generation_prompt": "Card front: small snow-covered village post office in the lower centre beneath an expansive cobalt winter sky; glowing muted berry-red letter box in the foreground, warm amber windows, softly layered snowy hills, three cream envelopes lifting upward and changing into tiny golden stars. Keep broad open upper-sky space for refined serif title text exactly: “Christmas Wishes”.",
+      "production_notes": "Verify title spelling and use a refined serif typeface rather than relying on generated lettering if necessary. Keep the letter box, building and envelopes clear at finished card size. Retain printable midtone sky values despite full-bleed artwork; allow bleed and keep title away from trim edges."
+    },
+    {
+      "page_number": 2,
+      "page_type": "card-inside",
+      "title": "Warm Wishes Inside",
+      "concept": "A quiet interior greeting panel that continues the postal-star motif while leaving generous space for the printed message and a handwritten note.",
+      "instructions": null,
+      "artwork_description": "Mostly soft cream interior panel with a delicate frosted blue-grey pencil-and-gouache border suggestion: tiny scattered stars at the top and a low snowy silhouette of village rooftops along the bottom. In the lower right, a miniature amber-lit red letter box with one small cream envelope adds a subtle echo of the cover. Centred refined serif message reads: “Wishing you a Christmas filled with warmth, peace and hope.” A calm blank area remains beneath for a personal message.",
+      "generation_prompt": "Card inside panel: soft cream ground with restrained decorative border details, tiny frosted blue-grey stars near the top and a low snowy village-rooftop silhouette along the bottom; miniature muted berry-red letter box with amber glow and one small cream envelope in the lower right. Centred refined serif greeting text exactly: “Wishing you a Christmas filled with warmth, peace and hope.” Leave generous uncluttered blank writing space beneath the greeting.",
+      "production_notes": "Verify exact UK-English message punctuation and typeset manually if image text is unreliable. Preserve ample blank writing area below the message. Keep all text and the lower-right illustration within fold and trim safety zones; coordinate placement with the chosen folded-card imposition."
+    },
+    {
+      "page_number": 3,
+      "page_type": "card-back",
+      "title": "Starlit Village Post Back",
+      "concept": "A discreet artistically coordinated back panel featuring a single posted envelope and star, with no branding required.",
+      "instructions": null,
+      "artwork_description": "A calm deep-but-print-safe cobalt and frosted blue-grey winter wash with a small snow drift at the base. Near the lower centre sits one tiny cream envelope bearing a muted berry-red seal, with a single golden star rising above it. No printed wording or logo.",
+      "generation_prompt": "Card back: restrained print-safe cobalt and frosted blue-grey winter wash with a small snow drift at the base; one tiny cream envelope with a muted berry-red seal near the lower centre, one small golden star floating above it; no wording, no logo.",
+      "production_notes": "Keep the back panel minimal and lighter than a solid dark ink field for home printing. No text to verify. Include printing and folding guide as a separate non-artwork deliverable covering A4 and US Letter paper, duplex settings, trim marks if supplied, and fold direction."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "main-style",
+        "reason": "First content page (card-front): sets the core illustration style."
+      },
+      {
+        "page_number": 2,
+        "role": "different-composition",
+        "reason": "A different page type (card-inside) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 3,
+        "role": "consistency-check",
+        "reason": "A later page (card-back, p3) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-09-29T20:20:00.727Z",
+        "finished_at": "2026-09-29T20:20:38.345Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.\n\nSTYLE PARAMETERS: illustration style: Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.; line weight: Fine selective pencil outlines, softened by opaque gouache edges.; line quality: Gently imperfect, hand-drawn and crisp in small decorative details.; detail level: Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.; background density: Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.; composition: Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.; palette: Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.; colour mode: full colour; shading: Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.; texture: Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.; mood: Cosy, hopeful, intimate and quietly nostalgic..\n\nPAGE 1 of \"Starlit Village Post\" (card-front): Card front: small snow-covered village post office in the lower centre beneath an expansive cobalt winter sky; glowing muted berry-red letter box in the foreground, warm amber windows, softly layered snowy hills, three cream envelopes lifting upward and changing into tiny golden stars. Keep broad open upper-sky space for refined serif title text exactly: “Christmas Wishes”.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions; Photorealism or glossy 3D rendering; Overly childish cartoon styling; Dense clutter that competes with the greeting; Harsh neon colours or heavy black shadows; Unreadable, misspelled or distorted typography; Dark full-bleed backgrounds likely to print poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T20:20:12.725Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 2,
+            "prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.\n\nSTYLE PARAMETERS: illustration style: Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.; line weight: Fine selective pencil outlines, softened by opaque gouache edges.; line quality: Gently imperfect, hand-drawn and crisp in small decorative details.; detail level: Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.; background density: Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.; composition: Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.; palette: Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.; colour mode: full colour; shading: Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.; texture: Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.; mood: Cosy, hopeful, intimate and quietly nostalgic..\n\nPAGE 2 of \"Starlit Village Post\" (card-inside): Card inside panel: soft cream ground with restrained decorative border details, tiny frosted blue-grey stars near the top and a low snowy village-rooftop silhouette along the bottom; miniature muted berry-red letter box with amber glow and one small cream envelope in the lower right. Centred refined serif greeting text exactly: “Wishing you a Christmas filled with warmth, peace and hope.” Leave generous uncluttered blank writing space beneath the greeting.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions; Photorealism or glossy 3D rendering; Overly childish cartoon styling; Dense clutter that competes with the greeting; Harsh neon colours or heavy black shadows; Unreadable, misspelled or distorted typography; Dark full-bleed backgrounds likely to print poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T20:20:25.443Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 3,
+            "prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.\n\nSTYLE PARAMETERS: illustration style: Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.; line weight: Fine selective pencil outlines, softened by opaque gouache edges.; line quality: Gently imperfect, hand-drawn and crisp in small decorative details.; detail level: Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.; background density: Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.; composition: Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.; palette: Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.; colour mode: full colour; shading: Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.; texture: Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.; mood: Cosy, hopeful, intimate and quietly nostalgic..\n\nPAGE 3 of \"Starlit Village Post\" (card-back): Card back: restrained print-safe cobalt and frosted blue-grey winter wash with a small snow drift at the base; one tiny cream envelope with a muted berry-red seal near the lower centre, one small golden star floating above it; no wording, no logo.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions; Photorealism or glossy 3D rendering; Overly childish cartoon styling; Dense clutter that competes with the greeting; Harsh neon colours or heavy black shadows; Unreadable, misspelled or distorted typography; Dark full-bleed backgrounds likely to print poorly at home.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T20:20:38.341Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "f2183f48760d",
+    "keyboard_message_ids": [
+      296,
+      301,
+      307,
+      310
+    ]
+  },
+  "lock": null,
+  "last_error": {
+    "step": "marketing",
+    "message": "InvalidModelOutputError: listing: rejected: tag candidates: \"four by six card\" (production has 1 card design)",
+    "at": "2026-09-29T20:22:16.549Z",
+    "retryable": true
+  },
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2651,
+        "input_tokens_details": {
+          "cache_write_tokens": 2648,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1302,
+        "output_tokens_details": {
+          "reasoning_tokens": 185
+        },
+        "total_tokens": 3953
+      },
+      "at": "2026-09-29T20:18:27.777Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 422,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 422
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 580
+      },
+      "at": "2026-09-29T20:18:50.160Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 416,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 416
+        },
+        "output_tokens": 196,
+        "output_tokens_details": {
+          "image_tokens": 196,
+          "text_tokens": 0
+        },
+        "total_tokens": 612
+      },
+      "at": "2026-09-29T20:19:01.390Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 426,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 426
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 584
+      },
+      "at": "2026-09-29T20:19:09.780Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2703,
+        "input_tokens_details": {
+          "cache_write_tokens": 2700,
+          "cached_tokens": 0
+        },
+        "output_tokens": 479,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3182
+      },
+      "at": "2026-09-29T20:19:33.732Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2247,
+        "input_tokens_details": {
+          "cache_write_tokens": 2244,
+          "cached_tokens": 0
+        },
+        "output_tokens": 900,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3147
+      },
+      "at": "2026-09-29T20:19:43.869Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 603,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 603
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 946
+      },
+      "at": "2026-09-29T20:20:00.731Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 623,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 623
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 966
+      },
+      "at": "2026-09-29T20:20:12.734Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 586,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 586
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 929
+      },
+      "at": "2026-09-29T20:20:25.449Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3863,
+        "input_tokens_details": {
+          "cache_write_tokens": 3860,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1371,
+        "output_tokens_details": {
+          "reasoning_tokens": 456
+        },
+        "total_tokens": 5234
+      },
+      "at": "2026-09-29T20:21:55.430Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: listing: rejected: tag candidates: \"four by six card\" (production has 1 card design)"
+    }
+  ],
+  "creative_approved_at": "2026-09-29T20:21:22.260Z",
+  "created_at": "2026-09-29T20:18:15.970Z",
+  "updated_at": "2026-09-29T20:31:12.081Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "illustrated",
+    "edge": "full-bleed",
+    "format_notes": "Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment."
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "3148a93aebff61ad5b062234efe76bb025c8d7f4e3b748e7658e53f6df3f0c02"
+    },
+    "adapter": {
+      "format": "greeting-card",
+      "version": 2
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "46d203c983b3bdb07c8caa9c0c534f637a862d8707d0883c52265874a635e850",
+      "built_at": "2026-09-29T20:21:34.501Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-09-29T20:21:34.505Z"
+    },
+    "approved_at": "2026-09-29T20:21:43.514Z"
+  },
+  "marketing": {
+    "listing": null,
+    "plan": null,
+    "images": null,
+    "qc": null,
+    "pending_scope": "all",
+    "approved_at": null,
+    "engine": "factory",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-09-29T20:21:55.412Z"
+    }
+  }
+}

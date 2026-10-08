@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "profile_id": "cozy-autumn-colouring-adults",
+  "describes": { "mode": "NEW_PRODUCT", "ref": "fixtures/ideas/cozy-autumn-colouring-adults.json" },
+  "source": "Words from the idea only: working_name, product_type, concept, audience, season, themes and format. Central theme = the season named in the working name; the other listed themes and concept motifs are tangential. The idea does not say printable or digital, so those words are not included.",
+  "seasonality": null,
+  "notes": "Seasonality was not supplied, so it is null (scored as neutral 50 and flagged); it is never inferred from the date.",
+  "central_themes": ["autumn", "fall"],
+  "formats": ["colouring pages", "colouring book"],
+  "components": [],
+  "audiences": ["adults"],
+  "attributes": ["cozy", "relax"],
+  "tangential": ["pumpkins", "warm", "homes", "cafés", "forest", "walks"]
+}

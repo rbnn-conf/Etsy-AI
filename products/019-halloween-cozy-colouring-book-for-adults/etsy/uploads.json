@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "listing_id": 4589750200,
+  "properties": [
+    {
+      "property_id": 200,
+      "values": [
+        "Black"
+      ],
+      "at": "2026-10-06T15:00:33.270Z"
+    },
+    {
+      "property_id": 52047899002,
+      "values": [
+        "White"
+      ],
+      "at": "2026-10-06T15:00:33.600Z"
+    }
+  ],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "6032ae384320a4bed9a87af8e2004e918f0449b74f4584a5018f7f58ba31cb01",
+      "listing_image_id": 8680810295,
+      "uploaded_at": "2026-10-06T15:00:37.078Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "e8d7cc3d070fbd4c434372134d8e0d3e100d86d9919afa4f8567ebb404d9df32",
+      "listing_image_id": 8680810537,
+      "uploaded_at": "2026-10-06T15:00:40.214Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "ed1c12157e54c1a6a5e81607696f14fa3ee85373e5dd9858bb110f8b2d2a1fef",
+      "listing_image_id": 8632989158,
+      "uploaded_at": "2026-10-06T15:00:42.527Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "4ae7866dfff53bc94511ecbc5f2125bc85cb64f0ebb666469dfe716882c34d65",
+      "listing_image_id": 8680811019,
+      "uploaded_at": "2026-10-06T15:00:46.220Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "166ae1f3dd1b4226a0ce8d45e915d66fa2cb9dd54cc1969bede7bf361ff58c7e",
+      "listing_image_id": 8632989740,
+      "uploaded_at": "2026-10-06T15:00:48.641Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-included.png",
+      "sha256": "128395e2d65bae89c07307fdb92887e7a52437c66051923da3e72b2f1243e3ce",
+      "listing_image_id": 8680811573,
+      "uploaded_at": "2026-10-06T15:00:50.879Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-printable.png",
+      "sha256": "b94772a3a8d1e1329f6b10f0feb51e9b1bba8028c76ef84472256275d36148a3",
+      "listing_image_id": 8632990108,
+      "uploaded_at": "2026-10-06T15:00:52.640Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-features.png",
+      "sha256": "324a5414dae081d64dfe215977ae8bf24bd02bef3c5e618719e83e1e2af7367f",
+      "listing_image_id": 8680812045,
+      "uploaded_at": "2026-10-06T15:00:54.683Z"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-lifestyle.png",
+      "sha256": "0edd136113c837e9083624a88678fa568495851bd743a77add234329045b816b",
+      "listing_image_id": 8680812319,
+      "uploaded_at": "2026-10-06T15:00:57.755Z"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "75a77d8f58c54d8ca9bcb7b0cfdfb9aacd0220f6db14f07941744f592322ac35",
+      "listing_image_id": 8632990754,
+      "uploaded_at": "2026-10-06T15:00:59.845Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip",
+      "sha256": "82e1180b6b96ca146279125a9aa117f7a447a4addd8e101707966ef8341e254b",
+      "bytes": 17160824,
+      "listing_file_id": 1521988304495,
+      "uploaded_at": "2026-10-06T15:01:06.918Z"
+    },
+    {
+      "rank": 2,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip",
+      "sha256": "9a4d5f3ef32d217a923aceb04606c3f6dce7f407a9b8d93b8d9e54bc21fb872c",
+      "bytes": 17158339,
+      "listing_file_id": 1520741363224,
+      "uploaded_at": "2026-10-06T15:01:14.238Z"
+    },
+    {
+      "rank": 3,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip",
+      "sha256": "92871b3bbc13bdf02232023199ad2a56bdfa89c515496f2802bbfb90c6ad78bf",
+      "bytes": 8618762,
+      "listing_file_id": 1521988354293,
+      "uploaded_at": "2026-10-06T15:01:19.433Z"
+    },
+    {
+      "rank": 4,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip",
+      "sha256": "457dd4662c341f5c8db6efece6cdea2197368f7748d2deac6ef1657492d9c804",
+      "bytes": 10939487,
+      "listing_file_id": 1521988372385,
+      "uploaded_at": "2026-10-06T15:01:23.847Z"
+    },
+    {
+      "rank": 5,
+      "name": "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip",
+      "sha256": "4b4641e822095f06301233364a476a38287bcd16da08891f836ea117cefc919c",
+      "bytes": 10559056,
+      "listing_file_id": 1520741418566,
+      "uploaded_at": "2026-10-06T15:01:28.243Z"
+    }
+  ],
+  "pending": null
+}

@@ -1,0 +1,165 @@
+{
+  "pageCount": 20,
+  "pages": [
+    {
+      "id": "P001",
+      "sourceId": "P001",
+      "sourceFile": "1.png",
+      "title": "Getting Ready for Halloween",
+      "approvedSha256": "7df0dc39b71a740d6ebf873fea6e636bedc6dc6c0d4bdf671b825ca6e45dc004",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P002",
+      "sourceId": "P002",
+      "sourceFile": "2.png",
+      "title": "Baking Spooky Treats",
+      "approvedSha256": "17ba5c87bc38f71c9868f0a30d219af1786d2b492f34169b326fec399835cef6",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P003",
+      "sourceId": "P004",
+      "sourceFile": "4.png",
+      "title": "A Little Kitchen Magic",
+      "approvedSha256": "962acc79ccbb6ed0fefb1809deb3b776fe72b001e9b7c89e0c1fb65f8c7a6ded",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P004",
+      "sourceId": "P005",
+      "sourceFile": "5.png",
+      "title": "Decorating the Pumpkin Garden",
+      "approvedSha256": "b7ed222d607f22427c6c4058712f412addd6a5b1a503100cd21223ab942ef634",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P005",
+      "sourceId": "P003",
+      "sourceFile": "3.png",
+      "title": "Into the Autumn Woods",
+      "approvedSha256": "660abc0fac663d781b65ae8d12400049783fcd27360bbd1c80d1bdb188da76fb",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P006",
+      "sourceId": "P006",
+      "sourceFile": "6.png",
+      "title": "The Forest Path",
+      "approvedSha256": "af55be26c67b7155b077e3b6b0f32c8b94262ccdc03cea6a4897723ba2dc0138",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P007",
+      "sourceId": "P007",
+      "sourceFile": "7.png",
+      "title": "Arriving in Halloween Village",
+      "approvedSha256": "098ac4d6371932ee1523baa54cabd5b86e9d87071b167dd93dbb86139fbd235f",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P008",
+      "sourceId": "P011",
+      "sourceFile": "11.png",
+      "title": "Exploring the Village Square",
+      "approvedSha256": "0018f9e9fa8bde9451cf572275df3883ef52bf72d419062f2e6191afc50702f8",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P009",
+      "sourceId": "P008",
+      "sourceFile": "8.png",
+      "title": "A Stop at the Halloween Cafe",
+      "approvedSha256": "2c530eb6ae69ce9b43f0339da4a7945fe1ae3d442122b98b93578ef0b3358168",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P010",
+      "sourceId": "P010",
+      "sourceFile": "10.png",
+      "title": "Visiting the Pumpkin Shop",
+      "approvedSha256": "64cca8567ba78c82a677e18a16016098d27ed888c85064b417024729dad26897",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P011",
+      "sourceId": "P012",
+      "sourceFile": "12.png",
+      "title": "The Pumpkin-Patch Adventure",
+      "approvedSha256": "95bf56449530a9d3d1cf3a68ec8daef9746046836575e08ff495e13cbb3f21e3",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P012",
+      "sourceId": "P014",
+      "sourceFile": "14.png",
+      "title": "A Magical Treehouse",
+      "approvedSha256": "32461bd75c89a0e3a9c81b8810a8363e75666af9f6655ee3f036828c484085b7",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P013",
+      "sourceId": "P015",
+      "sourceFile": "15.png",
+      "title": "The Enchanted Mirror",
+      "approvedSha256": "d1f5101a5fc32a8a60d1f7cf45662991172821010598d662875cd939b897482e",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P014",
+      "sourceId": "P018",
+      "sourceFile": "18.png",
+      "title": "A Woodland Picnic",
+      "approvedSha256": "8b739cfd07097bcb14ecf6e8a9c23ee1c9494a9c100bf136607de8b72e617dff",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P015",
+      "sourceId": "P017",
+      "sourceFile": "17.png",
+      "title": "Gathering for the Celebration",
+      "approvedSha256": "362e2a4a24d6c658849d009c5a7bbfd31f7e0366375009afe8daf2a8abd9d531",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P016",
+      "sourceId": "P019",
+      "sourceFile": "19.png",
+      "title": "Halloween Village Festivities",
+      "approvedSha256": "9384c8c607aefecad000764f5468d7af10dac4b3c946cc69f18ad410f1e47d3e",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P017",
+      "sourceId": "P009",
+      "sourceFile": "9.png",
+      "title": "The Halloween Feast",
+      "approvedSha256": "9d77559b2439a8756d3a443900da719145f5a2f8da44916434a1d70ce7bd35e0",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P018",
+      "sourceId": "P013",
+      "sourceFile": "13.png",
+      "title": "A Cozy Evening Soak",
+      "approvedSha256": "6d0c240f96d7552f507504672634f9d8a180a90670d1c677479a7816c52df524",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P019",
+      "sourceId": "P016",
+      "sourceFile": "16.png",
+      "title": "Sharing a Storybook",
+      "approvedSha256": "abd24a6262ad04c2541f9de9a6816fc589702ba71ea6306de00e9149260fa5e1",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    },
+    {
+      "id": "P020",
+      "sourceId": "P020",
+      "sourceFile": "20.png",
+      "title": "Bedtime Stories",
+      "approvedSha256": "0c54befbd11bb06c2659bb05753d31e7435346810697716abb3c64f2d00cb709",
+      "sourceEdgeReview": "Approved full-scene composition extends to image boundaries; preserve entire canvas without cropping."
+    }
+  ]
+}

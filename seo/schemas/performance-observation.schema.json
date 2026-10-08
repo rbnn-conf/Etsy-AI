@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FUTURE listing performance observation (foundation for SEO Engine v1.1). Not used by scoring in v1. null = not captured; derived metrics exist only when their raw inputs exist.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["listing_id", "period_start", "period_end", "views", "clicks", "orders", "revenue", "spend", "currency", "search_terms", "captured_at", "source"],
+  "properties": {
+    "listing_id": { "type": "string", "pattern": "^\\d{6,15}$" },
+    "period_start": { "type": "string" },
+    "period_end": { "type": "string" },
+    "views": { "type": ["integer", "null"], "minimum": 0 },
+    "clicks": { "type": ["integer", "null"], "minimum": 0 },
+    "orders": { "type": ["integer", "null"], "minimum": 0 },
+    "revenue": { "type": ["number", "null"], "minimum": 0 },
+    "spend": { "type": ["number", "null"], "minimum": 0 },
+    "currency": { "type": ["string", "null"], "pattern": "^[A-Z]{3}$", "description": "Required when revenue or spend is recorded" },
+    "ctr": { "type": ["number", "null"], "description": "Derived: clicks / views (views > 0)" },
+    "conversion_rate": { "type": ["number", "null"], "description": "Derived: orders / clicks (clicks > 0)" },
+    "roas": { "type": ["number", "null"], "description": "Derived: revenue / spend (spend > 0)" },
+    "search_terms": { "type": ["array", "null"], "items": { "type": "object", "required": ["term", "count"], "properties": { "term": { "type": "string" }, "count": { "type": ["integer", "null"], "minimum": 0 } } } },
+    "captured_at": { "type": ["string", "null"] },
+    "source": { "type": "object", "required": ["type", "captured_by"], "properties": { "type": { "enum": ["etsy_shop_stats", "etsy_ads", "manual"] }, "captured_by": { "type": "string" } } }
+  }
+}

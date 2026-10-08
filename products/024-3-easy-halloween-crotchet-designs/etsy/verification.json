@@ -1,0 +1,181 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4590824542,
+      "actual": 4590824542
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4590824542,
+      "actual": 4590824542
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Crochet Pattern Bundle | Halloween Accessories, 3 Easy Patterns, Instant Digital Download",
+      "actual": "Printable Crochet Pattern Bundle | Halloween Accessories, 3 Easy Patterns, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1929 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 6.99",
+      "actual": "GBP 6.99"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 6343,
+      "actual": 6343
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF patterns",
+        "ZIP download",
+        "A4 print format",
+        "US Letter format",
+        "US crochet terms",
+        "Printing crochet guide",
+        "Pattern index",
+        "Materials tools reference",
+        "Abbreviations reference"
+      ],
+      "actual": [
+        "Digital PDF patterns",
+        "ZIP download",
+        "A4 print format",
+        "US Letter format",
+        "US crochet terms",
+        "Printing crochet guide",
+        "Pattern index",
+        "Materials tools reference",
+        "Abbreviations reference"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8641159212,
+        8641159286,
+        8688976949,
+        8641159490,
+        8641159598,
+        8688977163,
+        8641159754,
+        8688977407
+      ],
+      "actual": [
+        8641159212,
+        8641159286,
+        8688976949,
+        8641159490,
+        8641159598,
+        8688977163,
+        8641159754,
+        8688977407
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Little-Halloween-Costume-Accessories-A4.zip (15289426 bytes)",
+        "Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip (6893904 bytes)",
+        "Little-Halloween-Costume-Accessories-US-Letter.zip (15262141 bytes)",
+        "Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip (6894835 bytes)"
+      ],
+      "actual": [
+        "Little-Halloween-Costume-Accessories-A4.zip (15289426 bytes)",
+        "Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip (6893904 bytes)",
+        "Little-Halloween-Costume-Accessories-US-Letter.zip (15262141 bytes)",
+        "Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip (6894835 bytes)"
+      ]
+    }
+  ],
+  "fingerprint": "08feaf8260d97d871979d24eba6edf6c63ef2fdcbb96f31c5762fb7a59621aae",
+  "listing_id": 4590824542,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "7ae566498e9f8e25125bba2eae8144ca81e95aeb4862bd5adcf98bbc3f879683",
+  "remote_url": "https://www.etsy.com/listing/4590824542/printable-crochet-pattern-bundle",
+  "at": "2026-10-08T00:01:23.239Z"
+}

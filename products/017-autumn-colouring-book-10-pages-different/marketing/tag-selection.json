@@ -1,0 +1,171 @@
+{
+  "tag_candidates": [
+    "railway colouring",
+    "steam train fun",
+    "country train scenes",
+    "cosy colouring time",
+    "fall activity kids",
+    "autumn family fun",
+    "storybook line art",
+    "landscape colouring",
+    "train journey art",
+    "print at home",
+    "childrens activity",
+    "quiet time activity",
+    "seasonal colouring",
+    "steam locomotive",
+    "travel colouring",
+    "family colouring",
+    "railway adventure",
+    "png colouring pages",
+    "us letter printable",
+    "black white line art"
+  ],
+  "tags": [
+    {
+      "candidate": "railway colouring",
+      "tag": "railway colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "steam train fun",
+      "tag": "steam train fun",
+      "result": "kept"
+    },
+    {
+      "candidate": "country train scenes",
+      "tag": "country train scenes",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy colouring time",
+      "tag": "cosy colouring time",
+      "result": "kept"
+    },
+    {
+      "candidate": "fall activity kids",
+      "tag": "fall activity kids",
+      "result": "kept"
+    },
+    {
+      "candidate": "autumn family fun",
+      "tag": "autumn family fun",
+      "result": "kept"
+    },
+    {
+      "candidate": "storybook line art",
+      "tag": "storybook line art",
+      "result": "kept"
+    },
+    {
+      "candidate": "landscape colouring",
+      "tag": "landscape colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "train journey art",
+      "tag": "train journey art",
+      "result": "kept"
+    },
+    {
+      "candidate": "print at home",
+      "tag": "print at home",
+      "result": "kept"
+    },
+    {
+      "candidate": "childrens activity",
+      "tag": "childrens activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "quiet time activity",
+      "tag": "quiet time activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "seasonal colouring",
+      "tag": "seasonal colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "steam locomotive",
+      "tag": "steam locomotive",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "travel colouring",
+      "tag": "travel colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "family colouring",
+      "tag": "family colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "railway adventure",
+      "tag": "railway adventure",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "png colouring pages",
+      "tag": "png colouring pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "us letter printable",
+      "tag": "us letter printable",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "black white line art",
+      "tag": "black white line art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF",
+      "material": "Digital PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG pages",
+      "material": "PNG pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 printable",
+      "material": "A4 printable",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter printable",
+      "material": "US Letter printable",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "Digital download",
+      "material": "Digital download",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Toys & Games > Games & Puzzles > Coloring Books",
+    "final": "Books, Movies & Music > Books > Coloring Books",
+    "source": "canonical colouring-book category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

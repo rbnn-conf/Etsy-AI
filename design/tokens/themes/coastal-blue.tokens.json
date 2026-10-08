@@ -1,0 +1,43 @@
+{
+  "themeSlug": "coastal-blue",
+  "themeName": "Coastal Blue",
+  "mood": "Powder-blue ground with an ocean-blue/teal primary - fresh, clear-headed, 'in control' rather than corporate-fintech blue. New theme for the v3.0 lineup (ADR-018); no v2.0 predecessor.",
+  "rationale": "The 5-theme lineup had no blue option in v2.0 (Monochrome occupied the 'cool/neutral' slot); Coastal Blue replaces it with a genuinely colourful option instead of a desaturated one, matching the brief's explicit 5-theme list.",
+  "colour": {
+    "background": "#EFF6F8",
+    "surface": "#FFFFFF",
+    "surfaceAlt": "#DCEBF0",
+    "cardSurface": "#FFFFFF",
+    "cardSurfaceAlt": "#E4F1F5",
+    "inputFill": "#F2F9FA",
+    "text": "#1D2B31",
+    "textMuted": "#52717D",
+    "border": "#D3E4EA",
+    "primary": "#2E7D9E",
+    "secondary": "#4FB3A9",
+    "accent": "#2E7D9E",
+    "highlight": "#BEE6E0",
+    "progress": "#2E7D9E",
+    "navActive": "#2E7D9E",
+    "badgeBg": "#DAEEF2",
+    "badgeText": "#1D5A72",
+    "success": "#3E8E6E",
+    "warning": "#C1583F",
+    "shadowColour": "rgba(20,60,80,0.15)"
+  },
+  "categoryPalette": {
+    "groceries": "#4F9D69",
+    "dining": "#E08A4A",
+    "transport": "#2E7D9E",
+    "entertainment": "#8A6BC0",
+    "personal": "#D8577E",
+    "household": "#C9A23E"
+  },
+  "accentPlacements": [
+    "hero header band + KPI icon badges",
+    "Leftover metric card (emphasis card, filled not just bordered)",
+    "progress-bar fill on Savings/Debt cards",
+    "Dashboard nav pill-tabs + active section indicator",
+    "numbered step badges (Quick Start)"
+  ]
+}

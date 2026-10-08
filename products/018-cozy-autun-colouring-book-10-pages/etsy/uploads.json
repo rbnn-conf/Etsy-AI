@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "listing_id": 4589734344,
+  "properties": [
+    {
+      "property_id": 200,
+      "values": [
+        "Orange"
+      ],
+      "at": "2026-10-06T14:33:55.011Z"
+    },
+    {
+      "property_id": 52047899002,
+      "values": [
+        "Brown"
+      ],
+      "at": "2026-10-06T14:33:55.389Z"
+    }
+  ],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "ed3f62b8d764b45b44445f0117f59fd4cc63b7b82b4043baa45be1a7a70eea38",
+      "listing_image_id": 8632865376,
+      "uploaded_at": "2026-10-06T14:33:58.329Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-preview.png",
+      "sha256": "6cddf40104fd6bf77f0827ade8ba1d572f6c4f0e207b532973921197a79ae3b4",
+      "listing_image_id": 8680686461,
+      "uploaded_at": "2026-10-06T14:34:00.744Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-contents.png",
+      "sha256": "05813ac50969e1778a37f90957c4bd4f6306f058cffbe97c0ebcb1ddaa155783",
+      "listing_image_id": 8632865706,
+      "uploaded_at": "2026-10-06T14:34:03.143Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "94854a4a845480052761d48b5492b5ece0876921d91b2226785ebb589f910b7d",
+      "listing_image_id": 8680686795,
+      "uploaded_at": "2026-10-06T14:34:05.626Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "e512e5aca29adb70e5eea6d4b9551a66d8688534d9f1f85261d202988895d475",
+      "listing_image_id": 8632866002,
+      "uploaded_at": "2026-10-06T14:34:08.087Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-lifestyle.png",
+      "sha256": "f92ca8b8016a457cb1805a957a67d38771e1832ddc9737fc53b348942867e8e8",
+      "listing_image_id": 8632866144,
+      "uploaded_at": "2026-10-06T14:34:10.589Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-showcase.png",
+      "sha256": "1c7246e2755e777f1368cc05be05269184d27cf2260c4040c1d32f9ecfa81dba",
+      "listing_image_id": 8680687401,
+      "uploaded_at": "2026-10-06T14:34:16.501Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-download.png",
+      "sha256": "f7e179aa829302c4a0e1103264fa82ef0fd4f5018418a1aeb434f488204b04df",
+      "listing_image_id": 8632866624,
+      "uploaded_at": "2026-10-06T14:34:18.633Z"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-cozy.png",
+      "sha256": "a56de6a6584aff29efb06d8edc6706b01a05c183bab58e8f5d44f76cd18cf101",
+      "listing_image_id": 8680687767,
+      "uploaded_at": "2026-10-06T14:34:21.230Z"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "ca8ba81f4e0c844932ba5cdedef71d4f66d7b15e61dbba01010e54c89ff63139",
+      "listing_image_id": 8632866978,
+      "uploaded_at": "2026-10-06T14:34:23.243Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip",
+      "sha256": "37e398902a6266dcf6ea46cdde57f58adc61d7702696194bdc0d893e5badaf5d",
+      "bytes": 13701135,
+      "listing_file_id": 1521982267921,
+      "uploaded_at": "2026-10-06T14:34:28.884Z"
+    },
+    {
+      "rank": 2,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip",
+      "sha256": "eea297566e5ccb1773a38742c9104049ef408ce7a0a7b6399766f44d55c5b8f0",
+      "bytes": 13698777,
+      "listing_file_id": 1521982285715,
+      "uploaded_at": "2026-10-06T14:34:34.800Z"
+    },
+    {
+      "rank": 3,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip",
+      "sha256": "e2f0c051774222a54441d4c794eb82ba569ffd9ddea13a570ed87934c70f665c",
+      "bytes": 13414704,
+      "listing_file_id": 1520735342374,
+      "uploaded_at": "2026-10-06T14:34:40.820Z"
+    }
+  ],
+  "pending": null
+}

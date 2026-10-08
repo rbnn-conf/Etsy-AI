@@ -1,0 +1,19 @@
+{
+  "product_id": null,
+  "working_name": "Cozy Autumn Colouring Pages for Adults",
+  "product_type": "coloring product",
+  "concept": "Cozy autumn colouring pages for adults: warm homes, pumpkins, cafés and forest walks.",
+  "audience": "Adults who colour to relax",
+  "season": "autumn",
+  "themes": ["autumn", "cozy"],
+  "format": "coloring pages",
+  "page_count": null,
+  "owner_notes": "Research-planner demonstration (ADR-033). Every structured field below was supplied explicitly by the owner.",
+  "candidate_keywords": [],
+  "status": "draft",
+  "audiences": ["adults"],
+  "delivery": ["digital", "printable"],
+  "formats": ["coloring pages"],
+  "styles": [],
+  "item_count": null
+}

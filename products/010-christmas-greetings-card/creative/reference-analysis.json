@@ -1,0 +1,66 @@
+{
+  "reference_summaries": [
+    {
+      "reference_file": "references/reference-01.jpg",
+      "summary": "A photographed set of five vertically folded Christmas cards, each on warm white stock with a compact hand-painted festive motif and ample unprinted margin. Motifs include botanical wreaths, a decorated tree, hanging ornaments, mistletoe with a bow, and a small tree with presents. The card designs use restrained evergreen, olive, muted red, brown and soft grey-green watercolour-like colour, paired with thin informal handwritten greeting lettering."
+    },
+    {
+      "reference_file": "references/reference-02.jpg",
+      "summary": "A photographed square Christmas card designed as a sentimental message grid. Small, simple coloured festive icons sit in an airy three-column arrangement, each paired with short uppercase caption text. The artwork uses tiny characterful figures, hearts, food and botanical accents in muted red, green, tan and brown, with substantial white space and a small centred heart below."
+    },
+    {
+      "reference_file": "references/reference-03.jpg",
+      "summary": "A photographed square card with a detailed painterly winter vignette inset within a broad white border. Anthropomorphic field mice in patterned knitwear gather around a rustic outdoor potting bench amid greenery, baskets, snow, a lantern, fence and distant wintry landscape. The illustration is densely textured, naturalistic and softly muted, with warm red accents against frosty grey-white and evergreen tones."
+    }
+  ],
+  "illustration_category": "A varied Christmas-card reference set spanning loose botanical watercolour motifs, small editorial-style spot illustrations with captions, and a detailed nostalgic storybook winter scene.",
+  "line_weight": "Reference 01 has delicate, irregular painted edges with only occasional fine pen-like detail; reference 02 uses very fine, soft dark outlines around tiny icons and figures; reference 03 relies mainly on painterly edges and extremely fine naturalistic detail rather than bold contour lines.",
+  "line_smoothness": "Organic and hand-rendered rather than mechanically uniform: gently wobbly botanical stems, sketch-like miniature icon outlines, and softly blended painterly contours.",
+  "level_of_detail": "Ranges from sparse, single-subject card fronts in reference 01 to moderately detailed miniature icons in reference 02 and highly detailed environmental storytelling in reference 03. A reusable greeting-card direction should retain clear focal hierarchy rather than combining all of this detail at once.",
+  "shape_language": "Natural, soft and slightly imperfect forms dominate: tapered leaves, rounded berries, bow loops, baubles, hearts, rounded animals and rustic wooden objects. Forms are more organic than geometric, aside from the neat grid structure in reference 02.",
+  "character_proportions": "Where characters appear, reference 02 uses tiny simplified, rounded gingerbread-like figures; reference 03 uses small naturalistic mice with human clothing and poses, proportioned for a whimsical storybook scene.",
+  "facial_simplicity": "Reference 02 gives miniature figures minimal dot-like facial features; reference 03 uses subtly rendered animal faces with small eyes, noses and fur detail; reference 01 has no faces.",
+  "composition_density": "The set ranges from low-density, centred or wreath-framed motifs with generous margins (reference 01), to an airy structured grid of small motifs and captions (reference 02), to one dense square narrative illustration held inside a wide clean border (reference 03).",
+  "whitespace": "Prominent on the card fronts: warm white negative space surrounds individual botanical motifs and lettering in reference 01, separates each message unit in reference 02, and creates a substantial mat-like border around the detailed central artwork in reference 03.",
+  "background_complexity": "The designed card faces use clean off-white paper backgrounds. Reference 03 contains a complex snowy outdoor scene only within its framed central illustration. The surrounding photographic tabletop props, black mobile-screen areas and checkout interface are presentation imagery, not elements of the card designs.",
+  "typography": "Reference 01 uses a thin, informal handwritten script beneath or within motifs. Reference 02 uses small, widely tracked uppercase sans-serif headline and caption lettering arranged as part of the grid. Reference 03 has no visible text on the card face. Any new card should use original wording and independently selected or licensed fonts rather than replicating the shown lettering.",
+  "orientation_layout": "Mostly portrait folded-card fronts in reference 01, a square card with a centred typographic icon grid in reference 02, and a square card with a centred framed illustration in reference 03. All favour a clearly centred, self-contained front-cover design.",
+  "perspective": "Reference 01 is largely flat front-facing decorative illustration; reference 02 is also flat and icon-like; reference 03 uses a gently eye-level storybook perspective with layered foreground, midground and distant snowy backdrop. The source images themselves are styled product photographs viewed from above or slightly obliquely.",
+  "colour_behaviour": "Muted, seasonal colour used selectively on off-white stock. Deep green/olive foliage and berry red recur, supported by warm browns, tan, dusty pink-red, pale blue-grey and snowy white. Colours read as layered watercolour or soft painted pigment, not high-saturation digital fills.",
+  "palette_characteristics": "Earthy, vintage-leaning and cohesive: evergreen and sage greens, cranberry or brick reds, natural kraft/wood browns, cream, warm grey, and occasional subdued blue-grey. Bright red acts as a sparing focal accent.",
+  "contrast": "Low to moderate overall contrast, with dark foliage, fine black/charcoal lettering, animal eyes or outlines providing definition against a pale background. Reference 03 adds gentle warm-versus-cool contrast between brown furnishings and snowy blue-grey surroundings.",
+  "shading_approach": "Soft, layered watercolour-style shading and subtle value variation. Reference 01 uses light washes with minimal depth; reference 02 employs small flat-to-lightly-shaded icon shapes; reference 03 uses extensive fine painterly modelling for fur, knit texture, wood, foliage and snow.",
+  "texture": "Visible paper-like and watercolour texture is suggested through mottled washes, uneven pigment, fine foliage marks and, in the winter scene, detailed fur, knit, woodgrain and snow texture. The actual reference images also show physical card stock and styled-photo textures, which need not be reproduced in printable artwork.",
+  "emotional_tone": "Warm, gentle, nostalgic and intimate. The first two feel handmade and affectionate; the third is cosy, storybook-like and quietly wintry.",
+  "apparent_audience": "General Christmas-card recipients, with references 01 and 03 especially suited to audiences drawn to handmade botanical or nostalgic stationery; reference 02 is specifically worded for a spouse, but its visual grid approach is broadly adaptable.",
+  "printable_suitability": "Well suited to home-printable Christmas cards when supplied with adequate margins and a light background. References 01 and 02 are particularly ink-conscious due to their sparse layouts. A scene inspired by reference 03 should be simplified or offered at high resolution because dense, low-contrast painterly detail can lose clarity on typical home printers; a white border avoids full-bleed trimming.",
+  "do_not_copy": [
+    {
+      "element": "The visible greeting phrases and relationship-specific message text, including the handwritten “Merry Christmas” wording and the spouse-focused heading/captions",
+      "reason": "These are source-card text and distinctive message content; use wholly original copy and independently licensed typography."
+    },
+    {
+      "element": "The exact five-card motif set and individual arrangements in reference 01, including the particular mistletoe wreath, tree, ornament cluster, bow and present layouts",
+      "reason": "These are specific card compositions from the reference set."
+    },
+    {
+      "element": "The precise icon-and-caption grid, its individual illustrated pairings, and the wording sequence in reference 02",
+      "reason": "This is a distinctive proprietary card concept and layout."
+    },
+    {
+      "element": "The exact mouse potting-bench scene in reference 03, including the clothed mice, bench, lantern, baskets, fence, sweaters and snowy garden arrangement",
+      "reason": "This is a highly distinctive narrative illustration and composition."
+    },
+    {
+      "element": "Any identifiable source-card artwork, lettering style as drawn, photographed props, hands, envelopes, styled tabletop scenes, mobile checkout interface, Apple Pay mark, close icon and pagination dots",
+      "reason": "These are either proprietary artwork, brand/interface assets, or incidental product-photography presentation rather than reusable card design elements."
+    }
+  ],
+  "analysed_at": "2026-09-28T16:17:59.465Z",
+  "model": "gpt-5.6-terra",
+  "reference_files": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ]
+}

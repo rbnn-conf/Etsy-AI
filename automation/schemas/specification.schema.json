@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Model output: full product specification",
+  "type": "object",
+  "required": [
+    "name",
+    "slug",
+    "season",
+    "product_type",
+    "target_customer",
+    "page_count",
+    "canvas",
+    "pages"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "slug": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 60
+    },
+    "season": {
+      "type": "string",
+      "minLength": 1
+    },
+    "product_type": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target_customer": {
+      "type": "string",
+      "minLength": 1
+    },
+    "page_count": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 60,
+      "description": "Number of distinct designed printable pages/panels that each need their own artwork. Not the number of files or deliverable components: a folded greeting card (front, inside, back) is 3."
+    },
+    "canvas": {
+      "type": "object",
+      "required": [
+        "orientation",
+        "background",
+        "edge",
+        "format_notes"
+      ],
+      "description": "Physical design of every page for this product format. Colouring/activity books: portrait, white, safe-margin. Planners, worksheets and crochet pattern bundles: safe-margin. Cards and invitations may be portrait, landscape or square, coloured or illustrated, and full-bleed.",
+      "properties": {
+        "orientation": {
+          "type": "string",
+          "enum": [
+            "portrait",
+            "landscape",
+            "square"
+          ]
+        },
+        "background": {
+          "type": "string",
+          "enum": [
+            "white",
+            "coloured",
+            "illustrated"
+          ]
+        },
+        "edge": {
+          "type": "string",
+          "enum": [
+            "safe-margin",
+            "full-bleed"
+          ],
+          "description": "safe-margin: clear margin on every side; full-bleed: artwork runs to the edges"
+        },
+        "format_notes": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300,
+          "description": "One sentence of format-specific composition guidance, e.g. space reserved for invitation wording, or writing space on a planner page"
+        }
+      },
+      "additionalProperties": false
+    },
+    "pages": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 60,
+      "items": {
+        "type": "object",
+        "required": [
+          "page_number",
+          "page_type",
+          "title",
+          "concept",
+          "instructions",
+          "artwork_description",
+          "generation_prompt",
+          "production_notes"
+        ],
+        "properties": {
+          "page_number": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "page_type": {
+            "type": "string",
+            "minLength": 1,
+            "description": "e.g. cover, colouring, maze, counting, tracing, matching, word-search, certificate"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "concept": {
+            "type": "string",
+            "minLength": 1
+          },
+          "instructions": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Short instructions printed on the page (child-facing for kids activities), or null"
+          },
+          "artwork_description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "generation_prompt": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Page-specific image prompt; the shared visual system is added by code"
+          },
+          "production_notes": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

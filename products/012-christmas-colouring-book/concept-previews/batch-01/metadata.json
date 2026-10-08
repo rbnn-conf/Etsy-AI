@@ -1,0 +1,146 @@
+{
+  "product_id": "012",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-28T16:33:35.804Z",
+  "finished_at": "2026-09-28T16:34:08.387Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Crisp black ink colouring-book line art with Scandinavian folk-art geometry, decorative borders and evenly weighted outlines. Moderate-to-detailed pattern work, clear enclosed shapes and calm, symmetrical page rhythm; no grey shading or colour fills.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas colouring book\".\nConcept \"Nordic Christmas Folk Colouring Book\": a colouring book for Adults and teens who enjoy detailed seasonal colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Nordic Christmas ornaments\n- Scene: Snowy cottages, fir trees and folk-patterned winter vignettes\n- Focal object: Decorated star ornament\n- Composition: Centred motifs with framing borders and balanced open colouring areas\n- Lighting: Not applicable; black line art\n- Palette emphasis: Colourist-led; suggested cranberry, spruce, navy and cream\n- Mood: Cosy, orderly and wintry\n- Typography: Simple hand-lettered title with restrained folk flourishes\n- Distinguishing hook: Intricate Scandinavian rosettes woven into every festive scene\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Festive windows / Moonlit village streets, homes and shopfronts / Glowing window wreath / Implied candlelit windows and moonlit snow; black line art\n- C: Christmas post parcels / Festive post office, snowy letterboxes and wrapping tables / Oversized airmail envelope / Not applicable; black line art\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:33:45.141Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Nordic Christmas Folk Colouring Book",
+        "tagline": "Cosy Scandinavian-inspired festive colouring",
+        "product_type": "Christmas colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults and teens who enjoy detailed seasonal colouring",
+        "page_count": 24,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "24 single-sided colouring pages",
+          "Cover page",
+          "Printing guide"
+        ],
+        "short_description": "A 24-page Christmas colouring book built around original Nordic folk motifs, winter homes and festive decorative scenes. Designed for relaxing seasonal colouring at home, with one detailed illustration per printable page.",
+        "key_features": [
+          "24 original single-sided colouring pages",
+          "Nordic folk-art inspired festive motifs",
+          "Balanced detail for coloured pencils, pens and markers",
+          "A4 and US Letter friendly layout",
+          "Cover page and home-printing guide"
+        ],
+        "visual_direction_summary": "Crisp black ink colouring-book line art with Scandinavian folk-art geometry, decorative borders and evenly weighted outlines. Moderate-to-detailed pattern work, clear enclosed shapes and calm, symmetrical page rhythm; no grey shading or colour fills.",
+        "visual_route": {
+          "primary_subject": "Nordic Christmas ornaments",
+          "scene": "Snowy cottages, fir trees and folk-patterned winter vignettes",
+          "focal_object": "Decorated star ornament",
+          "composition": "Centred motifs with framing borders and balanced open colouring areas",
+          "lighting": "Not applicable; black line art",
+          "palette_emphasis": "Colourist-led; suggested cranberry, spruce, navy and cream",
+          "emotional_tone": "Cosy, orderly and wintry",
+          "typography_approach": "Simple hand-lettered title with restrained folk flourishes",
+          "distinguishing_visual_hook": "Intricate Scandinavian rosettes woven into every festive scene"
+        },
+        "preview_brief": "A portrait cover preview shows a large decorated star ornament above a snow-dusted cottage, surrounded by Nordic rosettes, fir sprigs and geometric borders. Crisp monochrome line work creates a calm, richly colourable festive page."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Expressive black fineliner colouring-book art with story-rich interiors, architectural framing and varied line weight. Dense but readable detail, elegant hatching kept within contour areas, and generous enclosed sections for satisfying colouring; monochrome only.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas colouring book\".\nConcept \"Christmas Night Windows Colouring Book\": a colouring book for Adults and teens who enjoy atmospheric seasonal colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Festive windows\n- Scene: Moonlit village streets, homes and shopfronts\n- Focal object: Glowing window wreath\n- Composition: Framed viewpoint pages with layered foreground details and deep views\n- Lighting: Implied candlelit windows and moonlit snow; black line art\n- Palette emphasis: Colourist-led; suggested ink blue, gold, berry and evergreen\n- Mood: Magical, intimate and quietly festive\n- Typography: Small classic serif title within an illustrated window frame\n- Distinguishing hook: Each page reveals Christmas through a different window or doorway\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Nordic Christmas ornaments / Snowy cottages, fir trees and folk-patterned winter vignettes / Decorated star ornament / Not applicable; black line art\n- C: Christmas post parcels / Festive post office, snowy letterboxes and wrapping tables / Oversized airmail envelope / Not applicable; black line art\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:33:57.166Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Christmas Night Windows Colouring Book",
+        "tagline": "Magical festive scenes seen after dark",
+        "product_type": "Christmas colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults and teens who enjoy atmospheric seasonal colouring",
+        "page_count": 24,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "24 single-sided colouring pages",
+          "Cover page",
+          "Printing guide"
+        ],
+        "short_description": "A 24-page Christmas colouring book of original festive night scenes framed through glowing windows, doorways and shopfronts. Each page offers a new cosy view filled with seasonal details for unhurried holiday colouring.",
+        "key_features": [
+          "24 original single-sided colouring pages",
+          "Atmospheric Christmas night settings",
+          "Detailed interiors and outdoor village views",
+          "Single-page layouts suitable for home printing",
+          "Cover page and home-printing guide"
+        ],
+        "visual_direction_summary": "Expressive black fineliner colouring-book art with story-rich interiors, architectural framing and varied line weight. Dense but readable detail, elegant hatching kept within contour areas, and generous enclosed sections for satisfying colouring; monochrome only.",
+        "visual_route": {
+          "primary_subject": "Festive windows",
+          "scene": "Moonlit village streets, homes and shopfronts",
+          "focal_object": "Glowing window wreath",
+          "composition": "Framed viewpoint pages with layered foreground details and deep views",
+          "lighting": "Implied candlelit windows and moonlit snow; black line art",
+          "palette_emphasis": "Colourist-led; suggested ink blue, gold, berry and evergreen",
+          "emotional_tone": "Magical, intimate and quietly festive",
+          "typography_approach": "Small classic serif title within an illustrated window frame",
+          "distinguishing_visual_hook": "Each page reveals Christmas through a different window or doorway"
+        },
+        "preview_brief": "A portrait cover preview looks through an arched window onto a moonlit village street, with a wreath in the foreground, patterned curtains and tiny festive details throughout. Fine monochrome line art suggests warm indoor glow against snowy night."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Bold, clean black line art with cheerful mid-century stationery design, rounded shapes and stamp-like decorative panels. Friendly simplified characters, crisp contour lines and medium detail create accessible pages with ample colourable spaces; no tonal shading.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas colouring book\".\nConcept \"Christmas Post & Parcel Colouring Book\": a colouring book for Adults and older children who enjoy cheerful seasonal colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Christmas post parcels\n- Scene: Festive post office, snowy letterboxes and wrapping tables\n- Focal object: Oversized airmail envelope\n- Composition: Dynamic diagonal scenes with parcel clusters and stamp-panel accents\n- Lighting: Not applicable; black line art\n- Palette emphasis: Colourist-led; suggested red, teal, mustard and pine green\n- Mood: Playful, busy and celebratory\n- Typography: Bold retro lettering in a curved postal stamp badge\n- Distinguishing hook: Whimsical Christmas mail journey from writing desk to letterbox\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Nordic Christmas ornaments / Snowy cottages, fir trees and folk-patterned winter vignettes / Decorated star ornament / Not applicable; black line art\n- B: Festive windows / Moonlit village streets, homes and shopfronts / Glowing window wreath / Implied candlelit windows and moonlit snow; black line art\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:34:08.384Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Christmas Post & Parcel Colouring Book",
+        "tagline": "A playful festive mailroom adventure",
+        "product_type": "Christmas colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults and older children who enjoy cheerful seasonal colouring",
+        "page_count": 22,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "22 single-sided colouring pages",
+          "Cover page",
+          "Printing guide"
+        ],
+        "short_description": "A 22-page Christmas colouring book celebrating the joyful journey of festive post, handmade cards and wrapped parcels. Original postal scenes, decorative stamps and imaginative delivery moments create a playful seasonal colouring activity.",
+        "key_features": [
+          "22 original single-sided colouring pages",
+          "Christmas post, parcels and stationery theme",
+          "Playful scenes with decorative stamp-style details",
+          "Suitable for pencils, crayons and fine-tip pens",
+          "Cover page and home-printing guide"
+        ],
+        "visual_direction_summary": "Bold, clean black line art with cheerful mid-century stationery design, rounded shapes and stamp-like decorative panels. Friendly simplified characters, crisp contour lines and medium detail create accessible pages with ample colourable spaces; no tonal shading.",
+        "visual_route": {
+          "primary_subject": "Christmas post parcels",
+          "scene": "Festive post office, snowy letterboxes and wrapping tables",
+          "focal_object": "Oversized airmail envelope",
+          "composition": "Dynamic diagonal scenes with parcel clusters and stamp-panel accents",
+          "lighting": "Not applicable; black line art",
+          "palette_emphasis": "Colourist-led; suggested red, teal, mustard and pine green",
+          "emotional_tone": "Playful, busy and celebratory",
+          "typography_approach": "Bold retro lettering in a curved postal stamp badge",
+          "distinguishing_visual_hook": "Whimsical Christmas mail journey from writing desk to letterbox"
+        },
+        "preview_brief": "A portrait cover preview features an oversized airmail envelope surrounded by ribbon-tied parcels, postage stamps, holly and a snowy letterbox. Bold monochrome outlines and rounded mid-century details make the festive scene inviting and easy to colour."
+      }
+    }
+  ]
+}

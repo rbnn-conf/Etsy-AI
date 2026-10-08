@@ -1,0 +1,1007 @@
+{
+  "schema_version": 2,
+  "product_id": "024",
+  "product_name": "Little Halloween Costume Accessories",
+  "slug": "little-halloween-costume-accessories",
+  "product_type": "Crochet pattern bundle",
+  "product_format": "crochet-pattern-bundle",
+  "page_count": 3,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "coloured",
+    "edge": "safe-margin",
+    "format_notes": "Use a light cream printable document ground with generous safe areas for pattern copy, materials, stitch guidance and concise making notes."
+  },
+  "approved": {
+    "creative_approved_at": "2026-10-07T23:47:31.347Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "C",
+      "proposed_name": "Little Halloween Costume Accessories"
+    },
+    "proof_attempt": {
+      "attempt": 2,
+      "dir": "proofs/attempt-02",
+      "direction_version": 2
+    },
+    "patterns": {
+      "approved_at": "2026-10-07T23:44:26.537Z",
+      "approved_by": "@romg_o",
+      "source_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "pattern_count": 3,
+      "origin": "ai-assisted-draft",
+      "verification": {
+        "unverified": 3,
+        "tested": 0
+      }
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "819a1a363c8d9f8f7e3d5501f4e7ad96aafe086a86b30fa4a574da454ebd6762"
+    },
+    "crochet_patterns": {
+      "file": "crochet/patterns.json",
+      "sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 2,
+      "sha256": "244ac733d36a32bfb74537ddfe0d8ba49d6f4ec30daaf64f0b9add0355bc617f"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "content_sources": [
+    {
+      "file": "crochet/patterns.json",
+      "sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+    },
+    {
+      "file": "creative/visual-specs.json",
+      "sha256": "120a1e45c2ad7e22d283495915d5104b461312ef153732da5517409a36267952"
+    },
+    {
+      "file": "visuals/crochet/visual-manifest.json",
+      "sha256": "29f1d27c3e4d4f22e9392d4a08f7376249ddf1d41e41b56c33aad15c803b22ce"
+    }
+  ],
+  "crochet": {
+    "source": {
+      "file": "crochet/patterns.json",
+      "sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+    },
+    "bundle": {
+      "schema_version": 1,
+      "format": "crochet-pattern-bundle",
+      "title": "Little Halloween Costume Accessories",
+      "theme": "Little Halloween costume accessories",
+      "audience": [
+        "Crocheters making Halloween accessories",
+        "Beginner and easy-level crocheters",
+        "Children's and adults' costume makers"
+      ],
+      "skill_level": [
+        "easy"
+      ],
+      "delivery": [
+        "digital",
+        "printable"
+      ],
+      "style": [
+        "romantic",
+        "premium handmade",
+        "calm moonlit",
+        "gentle seasonal",
+        "lightweight accessories"
+      ],
+      "pattern_count": 3,
+      "terminology": "US",
+      "provenance": {
+        "author": "LumiumX, AI-assisted draft (gpt-5.6-terra)",
+        "origin": "ai-assisted-draft",
+        "notes": "Candidate instructions drafted with AI assistance for owner review. Unverified: not test-crocheted."
+      },
+      "combinations": {
+        "title": "Little Halloween Accessory Set",
+        "intro": "Use the three separate accessories together to add coordinated moonlit Halloween details to a costume, outerwear, or trick-or-treat bag.",
+        "items": [
+          {
+            "name": "Costume and Treat-Bag Trio",
+            "patterns": [
+              {
+                "pattern_id": "bat-hair-clip",
+                "quantity": 1
+              },
+              {
+                "pattern_id": "witch-hat-brooch",
+                "quantity": 1
+              },
+              {
+                "pattern_id": "candy-corn-bag-charm",
+                "quantity": 1
+              }
+            ],
+            "notes": [
+              "Wear the bat hair clip and witch-hat brooch as lightweight costume accents.",
+              "Attach the candy-corn charm to a treat bag or zip pull for a matching seasonal detail."
+            ]
+          }
+        ]
+      },
+      "patterns": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "name": "Moonlit Bat Hair Clip",
+          "category": "hair accessory",
+          "difficulty": "easy",
+          "finished_size": "About 7 cm wide, excluding the clip",
+          "yarn": [
+            {
+              "description": "Light yarn for bat, wings and ears",
+              "colour": "Black",
+              "amount": "About 8 m"
+            },
+            {
+              "description": "Light yarn for embroidered eyes",
+              "colour": "White",
+              "amount": "About 1 m"
+            }
+          ],
+          "yarn_weight": "3-light",
+          "hook_size": {
+            "mm": 3.5,
+            "us": "E/4"
+          },
+          "additional_materials": [
+            "One 5 centimetre metal snap hair clip",
+            "Tapestry needle",
+            "Stitch marker",
+            "Scissors"
+          ],
+          "stitches_used": [
+            "ch",
+            "sc",
+            "hdc",
+            "sl st",
+            "sc2tog"
+          ],
+          "abbreviations": {
+            "ch": "chain",
+            "sc": "single crochet",
+            "hdc": "half double crochet",
+            "sl st": "slip stitch",
+            "sc2tog": "single crochet two together",
+            "st": "stitch",
+            "sts": "stitches",
+            "rnd": "round",
+            "sk": "skip"
+          },
+          "gauge": "Gauge is not critical because this is a small appliqué. Choose a firm fabric so the bat holds its shape on the clip.",
+          "instructions": [
+            {
+              "heading": "Wings (make 2)",
+              "steps": [
+                {
+                  "label": "Row 1",
+                  "text": "With black yarn, ch 11. Sc in second ch from hook and in each remaining ch across; turn.",
+                  "stitch_count": 10
+                },
+                {
+                  "label": "Row 2",
+                  "text": "Ch 1, sc2tog, sc in each of next 6 sts, sc2tog; turn.",
+                  "stitch_count": 8
+                },
+                {
+                  "label": "Row 3",
+                  "text": "Ch 1, sc2tog, sc in each of next 4 sts, sc2tog; turn.",
+                  "stitch_count": 6
+                },
+                {
+                  "label": "Row 4",
+                  "text": "Ch 1, sc2tog, sc in each of next 2 sts, sc2tog; turn.",
+                  "stitch_count": 4
+                },
+                {
+                  "label": "Row 5",
+                  "text": "Ch 1, sc2tog, sc2tog; turn.",
+                  "stitch_count": 2
+                },
+                {
+                  "label": "Row 6",
+                  "text": "Ch 1, sc2tog. Do not turn.",
+                  "stitch_count": 1
+                },
+                {
+                  "label": "Edging",
+                  "text": "Ch 1. Along the nearest row-end edge, sl st in the end of Row 5, sc in the end of Row 4, hdc in the end of Row 3, sc in the end of Row 2, and sl st in the end of Row 1. Across the unused foundation loops, work (sc, ch 2, sc) in the first loop, sk 2 loops; make this sequence 2 more times; sc in the last loop. Work sl st, sc, hdc, sc and sl st up the opposite row-end edge, then sl st in the tip of Row 6 to join.",
+                  "stitch_count": 15
+                },
+                {
+                  "label": null,
+                  "text": "Fasten off, leaving a 15 centimetre tail for sewing. Make a second wing in the same way.",
+                  "stitch_count": null
+                }
+              ]
+            },
+            {
+              "heading": "Body",
+              "steps": [
+                {
+                  "label": "Rnd 1",
+                  "text": "With black yarn, ch 5. Work 2 sc in second ch from hook, sc in each of next 2 ch, and 4 sc in last ch. Working along the opposite side of the foundation ch, sc in each of next 2 ch and 2 sc in last ch. Place marker in first st.",
+                  "stitch_count": 12
+                },
+                {
+                  "label": "Rnd 2",
+                  "text": "Work (sc in next st, 2 sc in next st) 6 times. Move marker to first st of rnd.",
+                  "stitch_count": 18
+                },
+                {
+                  "label": null,
+                  "text": "Fasten off, leaving a 30 centimetre tail for assembly.",
+                  "stitch_count": null
+                }
+              ]
+            },
+            {
+              "heading": "Ears (make 2)",
+              "steps": [
+                {
+                  "label": "Row 1",
+                  "text": "With black yarn, ch 3. Sc in second ch from hook and in next ch; turn.",
+                  "stitch_count": 2
+                },
+                {
+                  "label": "Row 2",
+                  "text": "Ch 1, sc2tog.",
+                  "stitch_count": 1
+                },
+                {
+                  "label": null,
+                  "text": "Fasten off, leaving a 10 centimetre tail for sewing. Make a second ear in the same way.",
+                  "stitch_count": null
+                }
+              ]
+            }
+          ],
+          "assembly": [
+            "With the body positioned vertically, sew the pointed end of one wing to each side of the body. Keep the scalloped foundation edge facing down and outward, and overlap each wing tip slightly beneath the body.",
+            "Sew the straight lower edge of each ear to one rounded end of the body. Place the ears side by side, with their points directed away from the body.",
+            "Using black yarn, sew the bat centrally to the upper surface of the open snap clip. Stitch through the clip end holes and around its centre bar, taking several small stitches at each point.",
+            "With white yarn, embroider two short vertical straight stitches on the body for eyes. Secure the yarn on the reverse side of the body."
+          ],
+          "assembly_required": true,
+          "finishing": [
+            "Fasten off every remaining working loop by cutting the yarn and pulling the tail completely through the loop.",
+            "Weave in all yarn tails on the reverse side, using the assembly stitches to secure the wing and ear tails.",
+            "Lightly shape the wings so the scalloped edges curve downward. Do not block the metal hair clip.",
+            "Check that the clip opens and closes freely and that no stitches obstruct its mechanism."
+          ],
+          "notes": [
+            "The wing edging forms three small chain arches that create the bat's scalloped lower wing edge.",
+            "For a child’s accessory, supervise use and ensure the clip is attached securely before wearing."
+          ],
+          "origin": "ai-assisted-draft",
+          "verification_status": "unverified"
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "name": "Lavender Witch-Hat Brooch",
+          "category": "brooch",
+          "difficulty": "easy",
+          "finished_size": "About 6 cm wide and 6 cm tall",
+          "yarn": [
+            {
+              "description": "Light yarn for hat and brim",
+              "colour": "Lavender",
+              "amount": "About 10 g"
+            }
+          ],
+          "yarn_weight": "3-light",
+          "hook_size": {
+            "mm": 3.5,
+            "us": "E-4"
+          },
+          "additional_materials": [
+            "Tapestry needle",
+            "Scissors",
+            "25 mm brooch bar",
+            "Sewing needle and matching sewing thread",
+            "Stitch marker"
+          ],
+          "stitches_used": [
+            "ch",
+            "sc",
+            "hdc",
+            "dc",
+            "sl st"
+          ],
+          "abbreviations": {
+            "ch": "chain",
+            "sc": "single crochet",
+            "hdc": "half double crochet",
+            "dc": "double crochet",
+            "sl st": "slip stitch",
+            "st": "stitch",
+            "sts": "stitches",
+            "rnd": "round",
+            "MR": "magic ring",
+            "inc": "increase"
+          },
+          "gauge": "Gauge is not critical; use a firm fabric so the small hat keeps its shape.",
+          "instructions": [
+            {
+              "heading": "Pointed Hat",
+              "steps": [
+                {
+                  "label": "Rnd 1",
+                  "text": "Make a MR; work 4 sc in the MR. Place a stitch marker in the first st and work in continuous rnds.",
+                  "stitch_count": 4
+                },
+                {
+                  "label": "Rnd 2",
+                  "text": "Inc in each st around.",
+                  "stitch_count": 8
+                },
+                {
+                  "label": "Rnd 3",
+                  "text": "Sc in each st around.",
+                  "stitch_count": 8
+                },
+                {
+                  "label": "Rnd 4",
+                  "text": "Work [sc in next st, inc in next st] 4 times.",
+                  "stitch_count": 12
+                },
+                {
+                  "label": "Rnd 5",
+                  "text": "Sc in each st around.",
+                  "stitch_count": 12
+                },
+                {
+                  "label": "Rnd 6",
+                  "text": "Work [sc in next 2 sts, inc in next st] 4 times.",
+                  "stitch_count": 16
+                },
+                {
+                  "label": "Rnd 7",
+                  "text": "Sc in each st around.",
+                  "stitch_count": 16
+                },
+                {
+                  "label": "Rnd 8",
+                  "text": "Work [sc in next 3 sts, inc in next st] 4 times.",
+                  "stitch_count": 20
+                },
+                {
+                  "label": "Rnd 9",
+                  "text": "Sc in each st around. Cut yarn, leaving a 25 cm sewing tail.",
+                  "stitch_count": 20
+                }
+              ]
+            },
+            {
+              "heading": "Curved Brim",
+              "steps": [
+                {
+                  "label": "Rnd 1",
+                  "text": "Ch 13. Starting in the second ch from hook, sc in next 11 chs, work 3 sc in the last ch, sc in the underside of the next 10 chs, then work 2 sc in the underside of the final ch. Place a marker in the first st and work in continuous rnds.",
+                  "stitch_count": 26
+                },
+                {
+                  "label": "Rnd 2",
+                  "text": "Inc in first st, sc in next 10 sts, inc in each of next 3 sts, sc in next 10 sts, then inc in each of next 2 sts.",
+                  "stitch_count": 32
+                },
+                {
+                  "label": "Rnd 3",
+                  "text": "Sl st in next 2 sts, sc in next 4 sts, hdc in next 6 sts, dc in next 8 sts, hdc in next 6 sts, sc in next 4 sts, and sl st in next 2 sts. Cut yarn, leaving a 20 cm sewing tail.",
+                  "stitch_count": 32
+                }
+              ]
+            }
+          ],
+          "assembly": [
+            "Centre the hat's lower edge across the brim, placing it over the side with the sl st section and with the pointed tip facing upwards. The dc section forms the front of the brim.",
+            "Using the hat tail, whip stitch through the 20 lower hat sts and the central upper area of the brim. Keep the brim's dc edge visible below the hat.",
+            "Sew the brooch bar horizontally to the reverse of the brim with matching sewing thread. Position it just below the hat join and keep the pin catch clear of crochet stitches."
+          ],
+          "assembly_required": true,
+          "finishing": [
+            "Fasten off each yarn tail securely after assembly.",
+            "Weave yarn tails through the reverse of the crochet, avoiding the visible brim edge.",
+            "Gently shape the brim into a shallow upward curve at both sides.",
+            "Check that the brooch bar is firmly sewn on and that its clasp opens freely."
+          ],
+          "notes": [
+            "Keep the rounds firm and even; a tight fabric helps the hat hold its pointed silhouette.",
+            "For a flatter brim, lightly steam-block it under a pressing cloth, keeping the brooch bar dry."
+          ],
+          "origin": "ai-assisted-draft",
+          "verification_status": "unverified"
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "name": "Candy-Corn Bag Charm",
+          "category": "bag charm",
+          "difficulty": "easy",
+          "finished_size": "About 6 cm tall, excluding the hanging loop.",
+          "yarn": [
+            {
+              "description": "Light yarn for the pointed top",
+              "colour": "White",
+              "amount": "About 3 g"
+            },
+            {
+              "description": "Light yarn for the middle stripe",
+              "colour": "Orange",
+              "amount": "About 3 g"
+            },
+            {
+              "description": "Light yarn for the wide base",
+              "colour": "Yellow",
+              "amount": "About 3 g"
+            }
+          ],
+          "yarn_weight": "3-light",
+          "hook_size": {
+            "mm": 3.5,
+            "us": "E-4"
+          },
+          "additional_materials": [
+            "12 mm lobster clasp or key ring",
+            "Tapestry needle",
+            "Scissors"
+          ],
+          "stitches_used": [
+            "ch",
+            "sc",
+            "hdc",
+            "sl st"
+          ],
+          "abbreviations": {
+            "ch": "chain",
+            "sc": "single crochet",
+            "hdc": "half double crochet",
+            "sl st": "slip stitch",
+            "st": "stitch",
+            "sts": "stitches"
+          },
+          "gauge": "Gauge is not critical. Keep stitches firm so the charm holds its tapered candy-corn shape.",
+          "instructions": [
+            {
+              "heading": "Candy Corn Charm",
+              "steps": [
+                {
+                  "label": "Row 1",
+                  "text": "With white yarn, ch 2. Sc in the second ch from hook.",
+                  "stitch_count": 1
+                },
+                {
+                  "label": "Row 2",
+                  "text": "Ch 1, turn. Work 2 sc in the st.",
+                  "stitch_count": 2
+                },
+                {
+                  "label": "Row 3",
+                  "text": "Ch 1, turn. Work 2 sc in the first st, sc in the remaining st.",
+                  "stitch_count": 3
+                },
+                {
+                  "label": "Row 4",
+                  "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Change to orange in the final pull-through of the last sc.",
+                  "stitch_count": 4
+                },
+                {
+                  "label": "Row 5",
+                  "text": "With orange yarn, ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st.",
+                  "stitch_count": 5
+                },
+                {
+                  "label": "Row 6",
+                  "text": "Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st.",
+                  "stitch_count": 6
+                },
+                {
+                  "label": "Row 7",
+                  "text": "Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st. Change to yellow in the final pull-through of the last hdc.",
+                  "stitch_count": 7
+                },
+                {
+                  "label": "Row 8",
+                  "text": "With yellow yarn, ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+                  "stitch_count": 8
+                },
+                {
+                  "label": "Row 9",
+                  "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+                  "stitch_count": 9
+                },
+                {
+                  "label": "Row 10",
+                  "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+                  "stitch_count": 10
+                },
+                {
+                  "label": "Row 11",
+                  "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Do not fasten off.",
+                  "stitch_count": 11
+                },
+                {
+                  "label": "Edging",
+                  "text": "Ch 1. Work 10 sc down the sloping side, placing 1 sc in each row end from Row 11 through Row 2. Work (sc, ch 18, sl st in the same point) in the point of Row 1. Work 10 sc up the other sloping side, placing 1 sc in each row end from Row 2 through Row 11. Work 1 sc in each of the 11 sts across the top edge. Sl st to the first sc.",
+                  "stitch_count": 32
+                }
+              ]
+            }
+          ],
+          "assembly_required": false,
+          "finishing": [
+            "Fasten off after completing the edging, leaving a 10 cm yarn tail.",
+            "Weave in all yarn tails on the reverse side, taking care not to pull the colour stripes out of shape.",
+            "Gently flatten the charm with your fingers to define the pointed white tip and wide yellow base.",
+            "Clip a lobster clasp or attach a key ring through the chain loop at the pointed end."
+          ],
+          "notes": [
+            "Turning chains do not count as sts throughout.",
+            "To change colour, complete the final stitch until two loops remain on the hook, yarn over with the new colour, and pull through both loops.",
+            "The charm is a flat, single-layer accessory."
+          ],
+          "origin": "ai-assisted-draft",
+          "verification_status": "unverified"
+        }
+      ]
+    },
+    "visuals": {
+      "file": "creative/visual-specs.json",
+      "sha256": "120a1e45c2ad7e22d283495915d5104b461312ef153732da5517409a36267952",
+      "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "visual_match_status": "internally_checked",
+      "combination": "Costume and Treat-Bag Trio",
+      "fingerprints": {
+        "bat-hair-clip": {
+          "version": 1,
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "motif_type": "hair accessory",
+          "flower_type": null,
+          "petal_layer_count": null,
+          "petal_count": null,
+          "petal_counts_stated": [],
+          "petal_shape": null,
+          "centre": {
+            "present": true,
+            "type": null
+          },
+          "centre_colour_role": null,
+          "leaves": {
+            "present": false,
+            "count": 0,
+            "shape": null,
+            "attachment": null
+          },
+          "stem": {
+            "present": false,
+            "type": "none",
+            "length_cm": null,
+            "wired": false
+          },
+          "finished": {
+            "raw": "About 7 cm wide, excluding the clip",
+            "width_cm": 7,
+            "height_cm": null
+          },
+          "yarn_weight": "3-light",
+          "hook_mm": 3.5,
+          "fibres": [],
+          "colour_roles": [
+            {
+              "role": "Light yarn for bat, wings and ears",
+              "colour": "Black"
+            },
+            {
+              "role": "Light yarn for embroidered eyes",
+              "colour": "White"
+            }
+          ],
+          "pieces": [
+            "Wings (make 2)",
+            "Body",
+            "Ears (make 2)"
+          ],
+          "assembly": {
+            "required": true,
+            "steps": 4
+          },
+          "embellishments": [
+            "embroidery"
+          ],
+          "construction_details": [
+            "worked in the round",
+            "worked in rows"
+          ],
+          "evidence": {
+            "motif_type": "category/name",
+            "leaf_count": "no leaf section or leaf instruction",
+            "stem": "no stem section or stem instruction"
+          },
+          "unknown": []
+        },
+        "witch-hat-brooch": {
+          "version": 1,
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "motif_type": "flower",
+          "flower_type": "lavender",
+          "petal_layer_count": null,
+          "petal_count": null,
+          "petal_counts_stated": [],
+          "petal_shape": null,
+          "centre": {
+            "present": true,
+            "type": null
+          },
+          "centre_colour_role": null,
+          "leaves": {
+            "present": false,
+            "count": 0,
+            "shape": null,
+            "attachment": null
+          },
+          "stem": {
+            "present": false,
+            "type": "none",
+            "length_cm": null,
+            "wired": false
+          },
+          "finished": {
+            "raw": "About 6 cm wide and 6 cm tall",
+            "width_cm": 6,
+            "height_cm": 6
+          },
+          "yarn_weight": "3-light",
+          "hook_mm": 3.5,
+          "fibres": [],
+          "colour_roles": [
+            {
+              "role": "Light yarn for hat and brim",
+              "colour": "Lavender"
+            }
+          ],
+          "pieces": [
+            "Pointed Hat",
+            "Curved Brim"
+          ],
+          "assembly": {
+            "required": true,
+            "steps": 3
+          },
+          "embellishments": [],
+          "construction_details": [
+            "magic ring start"
+          ],
+          "evidence": {
+            "flower_type": "name",
+            "motif_type": "category/name",
+            "leaf_count": "no leaf section or leaf instruction",
+            "stem": "no stem section or stem instruction"
+          },
+          "unknown": [
+            "petal_count",
+            "petal_layer_count",
+            "petal_shape",
+            "centre_type"
+          ]
+        },
+        "candy-corn-bag-charm": {
+          "version": 1,
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "motif_type": "bag charm",
+          "flower_type": null,
+          "petal_layer_count": null,
+          "petal_count": null,
+          "petal_counts_stated": [],
+          "petal_shape": null,
+          "centre": {
+            "present": false,
+            "type": null
+          },
+          "centre_colour_role": null,
+          "leaves": {
+            "present": false,
+            "count": 0,
+            "shape": null,
+            "attachment": null
+          },
+          "stem": {
+            "present": false,
+            "type": "none",
+            "length_cm": null,
+            "wired": false
+          },
+          "finished": {
+            "raw": "About 6 cm tall, excluding the hanging loop.",
+            "width_cm": null,
+            "height_cm": 6
+          },
+          "yarn_weight": "3-light",
+          "hook_mm": 3.5,
+          "fibres": [],
+          "colour_roles": [
+            {
+              "role": "Light yarn for the pointed top",
+              "colour": "White"
+            },
+            {
+              "role": "Light yarn for the middle stripe",
+              "colour": "Orange"
+            },
+            {
+              "role": "Light yarn for the wide base",
+              "colour": "Yellow"
+            }
+          ],
+          "pieces": [
+            "Candy Corn Charm"
+          ],
+          "assembly": {
+            "required": false,
+            "steps": 0
+          },
+          "embellishments": [],
+          "construction_details": [
+            "worked in rows"
+          ],
+          "evidence": {
+            "motif_type": "category/name",
+            "leaf_count": "no leaf section or leaf instruction",
+            "stem": "no stem section or stem instruction"
+          },
+          "unknown": [
+            "finished_width"
+          ]
+        }
+      },
+      "specs": {
+        "cover": {
+          "kind": "bouquet",
+          "status": "internally_checked",
+          "items": [
+            {
+              "pattern_id": "bat-hair-clip",
+              "quantity": 1
+            },
+            {
+              "pattern_id": "witch-hat-brooch",
+              "quantity": 1
+            },
+            {
+              "pattern_id": "candy-corn-bag-charm",
+              "quantity": 1
+            }
+          ]
+        },
+        "overview": {
+          "kind": "overview",
+          "status": "internally_checked",
+          "items": [
+            {
+              "pattern_id": "bat-hair-clip",
+              "quantity": 1
+            },
+            {
+              "pattern_id": "witch-hat-brooch",
+              "quantity": 1
+            },
+            {
+              "pattern_id": "candy-corn-bag-charm",
+              "quantity": 1
+            }
+          ]
+        },
+        "detail": {
+          "kind": "detail",
+          "status": "internally_checked",
+          "items": [
+            {
+              "pattern_id": "bat-hair-clip",
+              "quantity": 1
+            }
+          ]
+        }
+      }
+    },
+    "visual_set": {
+      "manifest": {
+        "file": "visuals/crochet/visual-manifest.json",
+        "sha256": "29f1d27c3e4d4f22e9392d4a08f7376249ddf1d41e41b56c33aad15c803b22ce"
+      },
+      "approval": {
+        "approved_at": "2026-10-07T23:45:30.516Z",
+        "approved_by": "@romg_o",
+        "manifest_sha256": "29f1d27c3e4d4f22e9392d4a08f7376249ddf1d41e41b56c33aad15c803b22ce",
+        "assets_sha256": "769bdfd3afa604be842c3550cbe9f0f294d5c17392163952e6164cb0d217aa31",
+        "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+      },
+      "hero": "crochet-hero",
+      "previews": {
+        "bat-hair-clip": "crochet-preview-bat-hair-clip",
+        "witch-hat-brooch": "crochet-preview-witch-hat-brooch",
+        "candy-corn-bag-charm": "crochet-preview-candy-corn-bag-charm"
+      }
+    }
+  },
+  "assets": [
+    {
+      "id": "proof-01",
+      "file": "proofs/attempt-02/proof-01.png",
+      "page_number": 1,
+      "proof_role": "main-style",
+      "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-02",
+      "file": "proofs/attempt-02/proof-02.png",
+      "page_number": 2,
+      "proof_role": "different-composition",
+      "sha256": "2550059812bf33295aa625afe6e5264158874267903c4aea8670432912c3cfcd",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-03",
+      "file": "proofs/attempt-02/proof-03.png",
+      "page_number": 3,
+      "proof_role": "consistency-check",
+      "sha256": "d9ae9a6fb8fc1c7ce819029f02066e31116e8c976a1251fafe1bf2dd7e622b3b",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "crochet-hero",
+      "file": "visuals/crochet/hero/hero.png",
+      "page_number": null,
+      "proof_role": null,
+      "source": "crochet-visual-set",
+      "role": "hero",
+      "pattern_id": null,
+      "kind": "illustration",
+      "sha256": "4eb6bf01552179a4ad3fe4ef9d90c9f76621919e19f038da884466bdf48c4c58",
+      "width": 1536,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": null,
+      "model": "gpt-image-2.5-flare",
+      "fingerprint_sha256": "200810d92292f65a6d4327b6989f944d69a046753789b9b4dc53021bbf0e2c41"
+    },
+    {
+      "id": "crochet-preview-bat-hair-clip",
+      "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+      "page_number": null,
+      "proof_role": null,
+      "source": "crochet-visual-set",
+      "role": "pattern-preview",
+      "pattern_id": "bat-hair-clip",
+      "kind": "illustration",
+      "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01",
+      "width": 1024,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": null,
+      "model": "gpt-image-2.5-flare",
+      "fingerprint_sha256": "78ddc81bf0e3c3915851e40fda1d628bee0d606b1d487991d56a8bc446c0fac5"
+    },
+    {
+      "id": "crochet-preview-witch-hat-brooch",
+      "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+      "page_number": null,
+      "proof_role": null,
+      "source": "crochet-visual-set",
+      "role": "pattern-preview",
+      "pattern_id": "witch-hat-brooch",
+      "kind": "illustration",
+      "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a",
+      "width": 1024,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": null,
+      "model": "gpt-image-2.5-flare",
+      "fingerprint_sha256": "5f3c7d03fe9ee33ec75165e1df8b787b41dec5a2bc2e9ab20da6791d4932cf91"
+    },
+    {
+      "id": "crochet-preview-candy-corn-bag-charm",
+      "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+      "page_number": null,
+      "proof_role": null,
+      "source": "crochet-visual-set",
+      "role": "pattern-preview",
+      "pattern_id": "candy-corn-bag-charm",
+      "kind": "illustration",
+      "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f",
+      "width": 1024,
+      "height": 1024,
+      "density_metadata": 72,
+      "generated_size": null,
+      "model": "gpt-image-2.5-flare",
+      "fingerprint_sha256": "780b7070dc83e57f7e64f5909c2534d9b0f33199b193e8defb84de1293497886"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Little Halloween Costume Accessories",
+      "asset": "proof-01",
+      "approved_text": [
+        "Little Halloween Costume Accessories",
+        "Crochet Pattern Bundle",
+        "3 crochet patterns • US terms"
+      ],
+      "production_notes": "Verify the cover text exactly: “Little Halloween Costume Accessories”, “Crochet Pattern Bundle” and “3 crochet patterns • US terms” (from the approved pattern source). Crochet pieces: 1 × Moonlit Bat Hair Clip (bat-hair-clip), 1 × Lavender Witch-Hat Brooch (witch-hat-brooch), 1 × Candy-Corn Bag Charm (candy-corn-bag-charm), from creative/visual-specs.json. The crochet piece is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    },
+    {
+      "page_number": 2,
+      "page_type": "pattern-overview",
+      "title": "Pattern Overview",
+      "asset": "proof-02",
+      "approved_text": [],
+      "production_notes": "Shows 3 of the 3 approved patterns: 1 × Moonlit Bat Hair Clip (bat-hair-clip), 1 × Lavender Witch-Hat Brooch (witch-hat-brooch), 1 × Candy-Corn Bag Charm (candy-corn-bag-charm). The pattern index with every name is typeset by code in production, never drawn by the image model. The crochet piece is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    },
+    {
+      "page_number": 3,
+      "page_type": "detail-motif",
+      "title": "Stitch Detail",
+      "asset": "proof-03",
+      "approved_text": [],
+      "production_notes": "Used as the back-page motif. Crochet piece: 1 × Moonlit Bat Hair Clip (bat-hair-clip). The crochet piece is a rendered visualisation of the pattern outcome, not a photograph of an item supplied to the buyer."
+    }
+  ],
+  "adapter": {
+    "format": "crochet-pattern-bundle",
+    "version": 2
+  },
+  "crochet_layout": {
+    "hero": "proof-01",
+    "overview": "proof-02",
+    "motif": "proof-03",
+    "patterns": {},
+    "diagrams": {},
+    "previews": {
+      "bat-hair-clip": "crochet-preview-bat-hair-clip",
+      "witch-hat-brooch": "crochet-preview-witch-hat-brooch",
+      "candy-corn-bag-charm": "crochet-preview-candy-corn-bag-charm"
+    },
+    "visual_hero": "crochet-hero",
+    "used": [
+      "proof-01",
+      "proof-02",
+      "proof-03",
+      "crochet-preview-bat-hair-clip",
+      "crochet-preview-witch-hat-brooch",
+      "crochet-preview-candy-corn-bag-charm"
+    ],
+    "artwork_source": "specification page roles (default)"
+  },
+  "review_notes": [
+    "3 of 3 patterns are AI-assisted drafts (verification: 3 unverified, 0 tested). Owner approval for production is not testing: never market them as tested.",
+    "Each of the 3 pattern pages shows its owner-approved finished-item preview (top right), captioned \"Illustrative finished-item preview\": an AI-generated illustration, never a photograph of a test-crocheted item.",
+    "Cover artwork: proof-01; back page motif: proof-03. Artwork is an illustration from Stage 1, not a photograph of a crocheted item.",
+    "Artwork page 1 (cover, proof-01): check the baked-in text reads exactly \"Little Halloween Costume Accessories\", \"Crochet Pattern Bundle\", \"3 crochet patterns • US terms\"."
+  ]
+}

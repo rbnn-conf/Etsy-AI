@@ -1,0 +1,186 @@
+{
+  "theme": "Lavender-inspired botanical wall hoop décor",
+  "audience": [
+    "Confident beginners",
+    "Makers of botanical wall décor",
+    "Handmade gift makers"
+  ],
+  "style": [
+    "romantic",
+    "restful",
+    "botanical",
+    "softly textured",
+    "premium handmade"
+  ],
+  "patterns": [
+    {
+      "pattern_id": "lavender-bloom-spray",
+      "name": "Lavender Bloom Spray",
+      "category": "flower spray",
+      "role": "focal",
+      "difficulty": "easy",
+      "approx_size": "about 18 cm long including stem",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A wired stem is wrapped in crochet, then topped with a tapered cluster of small looped lavender florets worked directly around the upper stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A slender lavender-inspired flower spray with a softly tapered purple bloom, designed as the main vertical feature of a wall hoop."
+    },
+    {
+      "pattern_id": "five-petal-wildflower",
+      "name": "Five-Petal Wildflower",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "beginner",
+      "approx_size": "about 5 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A small circular centre is worked first, with five rounded petals made around its edge; it can be sewn onto a stem or directly to the hoop arrangement.",
+      "main_stitches": [
+        "mr",
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A simple five-petal blossom with a neat centre, suited to soft blush or cream accents in a botanical hoop."
+    },
+    {
+      "pattern_id": "meadow-bud-cluster",
+      "name": "Meadow Bud Cluster",
+      "category": "filler spray",
+      "role": "filler",
+      "difficulty": "easy",
+      "approx_size": "about 12 cm long including stem",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Tiny rounded buds are crocheted separately, secured to short wired branch stems, and gathered into one light, airy filler spray.",
+      "main_stitches": [
+        "mr",
+        "ch",
+        "sl st",
+        "sc",
+        "inc",
+        "dec"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "An airy branching spray of tiny cream or oat buds that fills open spaces between larger floral elements."
+    },
+    {
+      "pattern_id": "sage-leaf-sprig",
+      "name": "Sage Leaf Sprig",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "beginner",
+      "approx_size": "about 16 cm long including stem",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A wrapped central stem carries pairs of flat pointed leaves crocheted individually and sewn or wrapped in a gentle staggered line.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A muted-sage leafy sprig with paired pointed leaves, providing soft foliage behind lavender blooms and wildflowers."
+    },
+    {
+      "pattern_id": "crochet-hoop-band",
+      "name": "Crochet Hoop Band",
+      "category": "hoop cover",
+      "role": "structural",
+      "difficulty": "intermediate",
+      "approx_size": "fits a 20 cm embroidery hoop",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A narrow textured crochet band is worked to the circumference of an embroidery hoop, then laced or sewn around the outer ring to create a finished botanical base.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "blo"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A slim warm-ivory crochet cover for a 20 cm embroidery hoop, creating a polished base for the floral wall display."
+    }
+  ],
+  "combinations": {
+    "title": "Wall Hoop Arrangement Ideas",
+    "intro": "Use the covered hoop as a calm botanical frame, arranging sprays asymmetrically with the lavender bloom as the visual centre.",
+    "items": [
+      {
+        "name": "Lavender Meadow Hoop",
+        "patterns": [
+          {
+            "pattern_id": "crochet-hoop-band",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "lavender-bloom-spray",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "sage-leaf-sprig",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "meadow-bud-cluster",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "five-petal-wildflower",
+            "quantity": 3
+          }
+        ],
+        "notes": [
+          "Position the lavender sprays slightly off-centre and layer sage sprigs behind them.",
+          "Use wildflowers and bud clusters to soften the outer edges of the arrangement."
+        ]
+      },
+      {
+        "name": "Quiet Botanical Posy",
+        "patterns": [
+          {
+            "pattern_id": "lavender-bloom-spray",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "sage-leaf-sprig",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "meadow-bud-cluster",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "five-petal-wildflower",
+            "quantity": 2
+          }
+        ],
+        "notes": [
+          "Tie or sew the stems into a small posy for a gift topper, shelf accent or hoop centrepiece."
+        ]
+      }
+    ]
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-06T21:59:12.011Z"
+}

@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "product_id": "014",
+  "product_name": "Harvest Market: Autumn Colouring Pages",
+  "product_format": "colouring-book",
+  "page_count": 12,
+  "created_at": "2026-09-29T13:15:34.446Z",
+  "source": {
+    "specification_sha256": "c2662c5e51c436879781f1453682830a3926056a0b0acf2dd160c628ff1f5d7d",
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1
+    }
+  },
+  "style_reference": {
+    "direction_version": 1,
+    "proof_pages": [
+      2,
+      3,
+      12
+    ],
+    "shared_prompt": "Original adult colouring-book illustration in crisp hand-inked black line art on clean white paper; elegant organic contours, fine-to-medium varied outlines, slightly bolder focal silhouettes, and softly handmade yet precise line quality. Use moderately detailed, open colourable forms with selective botanical texture, sparse hatching and delicate repeat patterns; no grey shading, gradients or solid fills. Maintain a calm central hierarchy, balanced decorative framing, generous breathing room and an artisanal, abundant seasonal mood. High-contrast, home-print-friendly monochrome artwork.",
+    "line_weight": "Fine-to-medium black outlines with a restrained variation in weight; slightly bolder exterior silhouettes and focal contours.",
+    "line_quality": "Crisp, confident hand-inked strokes with gently irregular handmade character; smooth curves, tidy joins and clearly enclosed colourable areas.",
+    "detail_level": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+    "colour_mode": "black-and-white line art",
+    "shading": "No grey fills, gradients or solid black shadow masses. Suggest depth through sparse contour lines, selective hatching and simple repeating textures only.",
+    "background_density": "Light to moderate. Supporting details form airy frames, borders or small clusters around the central motif, never filling every gap or competing with the focal area.",
+    "canvas": {
+      "orientation": "portrait",
+      "background": "white",
+      "edge": "safe-margin",
+      "format_notes": "Each page uses a comfortable clear outer margin, with a single calm harvest-market focal composition and open enclosed areas for relaxed adult colouring."
+    }
+  },
+  "generation": {
+    "model": "gpt-image-2.5-flare",
+    "size": "1024x1536",
+    "quality": "medium",
+    "note": "Pixel size as generated. No DPI claim: Stage 2 calculates the effective print resolution."
+  },
+  "pages": [
+    {
+      "page_id": "P001",
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Harvest Market",
+      "scene": "A welcoming illustrated title cover centred on an abundant market crate.",
+      "composition": "A framed hand-lettered header reads “HARVEST MARKET” with the smaller subtitle “Autumn Colouring Pages”. Beneath it, a symmetrical wooden crate overflows with apples, pears, small squash, beetroot, carrots and tied herb bundles. Curving oak leaves, acorns and small berry sprigs create an airy border.",
+      "subject": "Colouring-book cover with exact header text “HARVEST MARKET” and smaller subtitle “Autumn Colouring Pages”; centred rustic wooden market crate overflowing with apples, pears, small squash, beetroot, carrots and tied herb bundles; symmetrical stable display; airy border of oak leaves, acorns, berry sprigs and small produce motifs; leave the title lettering clear, legible and spacious.",
+      "required_text": [
+        "HARVEST MARKET",
+        "Autumn Colouring Pages"
+      ],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Verify all cover text exactly: “HARVEST MARKET” and “Autumn Colouring Pages”. Keep the crate and each item fully enclosed for optional colouring; do not use logos, labels or Halloween motifs."
+    },
+    {
+      "page_id": "P002",
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Apple Crate Abundance",
+      "scene": "The signature overflowing apple crate market display.",
+      "composition": "A large slatted wooden crate is piled high with 18 clearly distinct apples, with three pears, two small squash and two herb bundles tucked around it. Apple branches and scattered leaves form a restrained decorative frame; woodgrain and leaf veins add colourable texture.",
+      "subject": "Centred slatted wooden market crate overflowing with exactly 18 distinct apples; exactly three pears, two small squash and two tied herb bundles arranged around the crate; sparse apple branches and fallen leaves framing the display; open woodgrain on crate slats, simple apple stems and leaf-vein details; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Count check: 18 apples, 3 pears, 2 squash and 2 herb bundles. Ensure each apple remains visually separate rather than merging into an indistinct pile."
+    },
+    {
+      "page_id": "P003",
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Pumpkin and Squash Stall",
+      "scene": "An orderly seasonal squash display with decorative variety.",
+      "composition": "A three-tier wooden market stand holds eight different pumpkins and squash: ribbed pumpkin, butternut squash, acorn squash, delicata squash, pattypan squash, spaghetti squash, kabocha squash and a small round gourd. Twining vine leaves and blossoms curl lightly around the stand.",
+      "subject": "Three-tier wooden market stand displaying exactly eight visibly different autumn pumpkins and squash: one ribbed pumpkin, one butternut squash, one acorn squash, one delicata squash, one pattypan squash, one spaghetti squash, one kabocha squash and one small round gourd; gentle curling vines, leaves and a few blossoms around the stand; each vegetable clearly separated; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Variety check: all 8 named squash types must have recognisably different silhouettes. Avoid an overcrowded stand and retain broad colourable sections on the vegetables."
+    },
+    {
+      "page_id": "P004",
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Orchard Harvest Basket",
+      "scene": "A woven basket of orchard fruit beneath a graceful apple branch.",
+      "composition": "A round woven basket filled with apples, pears and plums sits on a simple checked cloth. Above it, an arching apple branch bears fruit and leaves. Two small baskets of fallen fruit and a few meadow stems create a balanced low-density setting.",
+      "subject": "Large round woven orchard basket filled with apples, pears and plums resting on a simple checked cloth; one arching apple tree branch overhead bearing fruit and leaves; two small side baskets of fallen fruit, a few meadow stems and scattered leaves; woven texture should be open and colourable; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Keep the checked cloth pattern broad and regular, not dense. Confirm the central basket remains the immediate focal object."
+    },
+    {
+      "page_id": "P005",
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Herb Market Bundles",
+      "scene": "An elegant apothecary-style arrangement of kitchen herbs.",
+      "composition": "Five labelled-looking but blank paper-wrapped herb bundles—rosemary, sage, thyme, parsley and lavender—hang from a simple wooden rail. Small botanical sprigs, seed heads and a terracotta pot sit below; the paper tags are intentionally blank, without printed names.",
+      "subject": "Five distinct tied kitchen-herb bundles hanging from a simple wooden rail: rosemary, sage, thyme, parsley and lavender, each with a blank paper tag and visible characteristic leaf shapes; small terracotta pot, seed heads and botanical sprigs below; balanced vertical composition; no lettering on tags.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Use blank tags only to avoid illegible generated text. Ensure five distinct bundles and visually differentiable herb foliage; keep hanging strings and rail lines clean."
+    },
+    {
+      "page_id": "P006",
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Root Vegetable Barrow",
+      "scene": "A garden wheelbarrow brimming with freshly gathered roots.",
+      "composition": "A vintage garden wheelbarrow holds carrots, beetroot, parsnips, turnips and leeks, each with leafy tops. A small hand trowel and gardening gloves rest nearby, while loose leaves and tiny seedheads form a quiet ground-level frame.",
+      "subject": "Vintage garden wheelbarrow full of carrots, beetroot, parsnips, turnips and leeks with leafy tops; small hand trowel and pair of gardening gloves placed beside the wheelbarrow; a few loose autumn leaves and delicate seedheads around the base; root vegetables clearly distinguishable and enclosed; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Avoid solid dark areas inside the wheelbarrow. Keep the wheel, handles and vegetable contours well separated for easy colouring."
+    },
+    {
+      "page_id": "P007",
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Late Harvest Table",
+      "scene": "A refined still life of seasonal food laid for market tasting.",
+      "composition": "A rustic table holds a round loaf of bread, a small bowl of apples, a pitcher of dried wheat, a jar of honey with a dipper, two pears, a folded napkin and a cluster of grapes. A lightly patterned table runner anchors the composition, with a narrow leaf garland above.",
+      "subject": "Rustic harvest table still life: one round loaf of bread, one small bowl of apples, one pitcher holding dried wheat stems, one jar of honey with honey dipper, exactly two pears, folded napkin and one grape cluster; lightly patterned table runner; narrow leaf garland above; clear central arrangement; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Count check: exactly 2 pears. Honey jar must be unbranded and unlabelled. Keep the table runner pattern simple enough to colour."
+    },
+    {
+      "page_id": "P008",
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Sunflower Market Bucket",
+      "scene": "A bright flower-and-produce pairing for late autumn colour.",
+      "composition": "A tall ribbed market bucket holds seven sunflower heads, five small asters and leafy stems. Beside it are three mini pumpkins and a shallow woven tray of seed pods. A few petals and leaves make a gentle oval frame around the composition.",
+      "subject": "Tall ribbed market bucket holding exactly seven sunflower heads, exactly five small aster flowers and leafy stems; exactly three mini pumpkins beside the bucket; shallow woven tray of seed pods; scattered petals and leaves forming a gentle oval frame; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Count check: 7 sunflowers, 5 asters, 3 mini pumpkins. Show every sunflower face as a simple floral centre, not a face or character; keep seed-head texture open."
+    },
+    {
+      "page_id": "P009",
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Cider Press Harvest",
+      "scene": "A traditional hand cider press surrounded by orchard fruit.",
+      "composition": "A compact wooden hand cider press with a turning handle stands at centre, flanked by two open baskets of apples. A glass bottle and two plain tumblers sit in front, with apple branches and falling leaves creating a sparse arch overhead. No branding or written labels appear.",
+      "subject": "Compact traditional wooden hand cider press at centre with turning handle; two open baskets of apples, one on each side; plain glass bottle and exactly two unlabelled tumblers in front; apple branches and falling leaves forming a sparse arch overhead; no lettering, labels or branding.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Count check: exactly 2 tumblers. Make the cider press mechanically readable but not technical or cluttered; all bottle and glass outlines must be clear and closed."
+    },
+    {
+      "page_id": "P010",
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Mushroom and Woodland Basket",
+      "scene": "A restrained woodland-forage market basket without fantasy imagery.",
+      "composition": "A low wicker basket contains assorted edible-looking mushrooms with varied caps, chestnuts and a folded linen cloth. Fern fronds, oak leaves, acorns and a few tiny mushrooms create a botanical frame. The scene is naturalistic and decorative, with no creatures, faces or magical elements.",
+      "subject": "Low wicker forage basket containing assorted mushrooms with varied cap shapes, chestnuts and folded linen cloth; surrounding fern fronds, oak leaves, acorns and a few small mushrooms create a light botanical frame; natural harvest-market still life, no creatures, faces, fantasy symbols or wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Do not depict toxic-identification claims or labels. Keep mushroom gills, caps and basket weave moderately detailed with broad colourable spaces."
+    },
+    {
+      "page_id": "P011",
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "Cornucopia of Garden Bounty",
+      "scene": "A classic abundance arrangement with a calm, elegant profile.",
+      "composition": "A woven cornucopia lies on its side and spills out apples, pears, grapes, corn, carrots, beetroot, leaves and small squash. Tall wheat stems rise behind the horn, while a simple repeating leaf-and-berry border occupies only the lower corners.",
+      "subject": "Woven cornucopia lying on its side, spilling apples, pears, grape clusters, corn cobs, carrots, beetroot, leaves and small squash; tall wheat stems rising behind the horn; restrained repeating leaf-and-berry motifs only in the two lower corners; graceful balanced abundance arrangement; no wording.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Ensure the horn opening and every food item have unambiguous enclosed outlines. Lower-corner border must not crowd the spilled produce."
+    },
+    {
+      "page_id": "P012",
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "Harvest Market Stall",
+      "scene": "A grand closing market-stall scene with the full seasonal bounty.",
+      "composition": "A symmetrical open-air market stall with a striped canopy displays produce in six wooden crates: apples, pears, pumpkins, carrots, beetroot and leafy greens. Herb bundles hang at each side, and a simple blank oval sign hangs beneath the canopy. Leaves and wheat sprigs frame the upper corners.",
+      "subject": "Symmetrical open-air autumn market stall with a simple striped canopy; six clearly separate wooden produce crates displaying, from left to right, apples, pears, pumpkins, carrots, beetroot and leafy greens; one tied herb bundle hanging on each side; blank oval sign beneath canopy; leaves and wheat sprigs framing upper corners; no text on the sign.",
+      "required_text": [],
+      "complexity": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 12), creative direction v1",
+      "negative_constraints": [
+        "Any Halloween, spooky, occult or horror imagery",
+        "Characters, faces or anthropomorphic objects",
+        "Photorealism, colour, grey wash, gradients or painted shading",
+        "Dense clutter, tiny inaccessible details or heavily inked black areas",
+        "Trademarked packaging, recognisable logos, branded labels or copied market signage",
+        "Copied compositions or distinctive artwork from existing colouring books",
+        "Misspelled, distorted or illegible text",
+        "Uneven broken outlines, muddy intersections or unclosed colourable shapes"
+      ],
+      "production_notes": "Final-page composition check: exactly 6 distinct crates in the stated left-to-right order, plus 2 hanging herb bundles. Keep the oval sign blank to avoid generated misspellings. Include no people, characters, Halloween imagery or branded signage."
+    }
+  ]
+}

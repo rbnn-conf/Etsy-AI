@@ -1,0 +1,549 @@
+{
+  "schema_version": 1,
+  "product_id": "024",
+  "product_name": "Little Halloween Costume Accessories",
+  "product_type": "Crochet pattern bundle",
+  "product_format": "crochet-pattern-bundle",
+  "season": "Halloween",
+  "target_customer": "Crocheters making simple Halloween accessories for children and adults",
+  "theme": "Little Halloween costume accessories",
+  "patterns": {
+    "count": 3,
+    "list": [
+      {
+        "pattern_id": "bat-hair-clip",
+        "number": 1,
+        "name": "Moonlit Bat Hair Clip",
+        "category": "hair accessory",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+        "sha256": "6b37e40b512b4ba9d7670a12906c5d0f27ad08ba784c61c63458c8717c3f299c"
+      },
+      {
+        "pattern_id": "witch-hat-brooch",
+        "number": 2,
+        "name": "Lavender Witch-Hat Brooch",
+        "category": "brooch",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf",
+        "sha256": "304185524f707cf06b99769ae396fac9d8953d1c06200b6f15bf1bca2d04d8d9"
+      },
+      {
+        "pattern_id": "candy-corn-bag-charm",
+        "number": 3,
+        "name": "Candy-Corn Bag Charm",
+        "category": "bag charm",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf",
+        "sha256": "a93a61d7750a804ac11cd8d064b316d91f2a8a2184b2129af3eb5fbd405c0d41"
+      }
+    ],
+    "categories": [
+      "hair accessory",
+      "brooch",
+      "bag charm"
+    ]
+  },
+  "terminology": "US",
+  "skill_levels": [
+    "Easy"
+  ],
+  "skill_text": "Easy",
+  "combinations": "Little Halloween Accessory Set: 1 combination idea",
+  "documents": {
+    "bundle": {
+      "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+      "sha256": "a556dd6be834bfcb32c4a1962da681dd6f365ad8068304f4f45896508aab6f52",
+      "pages": 15
+    },
+    "index": {
+      "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+      "sha256": "ecab19d640a3d8b85033be6a0fa5609df33a7278ab04724dd8784349a7b2afc8",
+      "pages": 1
+    },
+    "materials": {
+      "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+      "sha256": "62ea3ac6c9b0fa99ea959a30351277a20d04cf4fb386026d82a6e8f4ddba039a",
+      "pages": 1
+    },
+    "abbreviations": {
+      "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf",
+      "sha256": "d7f9ce4c199ced1e319b2bb0afa5829ba70cb274a846464835e65dd25d8eb6b2",
+      "pages": 1
+    },
+    "guide": {
+      "file": "production/deliverables/LumiumX-Little-Halloween-Costume-Accessories/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "sha256": "958502359bd225a01f1d1a88949f3003a1c9697d9db399cfba89afd0a7050825",
+      "pages": 1
+    }
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 7
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 7
+    }
+  ],
+  "printing_guide": true,
+  "individual_pattern_pdfs": true,
+  "selection": {
+    "inside": "bat-hair-clip",
+    "collage": [
+      "bat-hair-clip",
+      "witch-hat-brooch",
+      "candy-corn-bag-charm"
+    ],
+    "detail": "bat-hair-clip",
+    "feature": "witch-hat-brooch"
+  },
+  "renders": [
+    {
+      "role": "bouquet",
+      "asset": "proof-01",
+      "file": "proofs/attempt-02/proof-01.png",
+      "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.235,
+        "w": 1,
+        "h": 0.765
+      }
+    },
+    {
+      "role": "overview",
+      "asset": "proof-02",
+      "file": "proofs/attempt-02/proof-02.png",
+      "sha256": "2550059812bf33295aa625afe6e5264158874267903c4aea8670432912c3cfcd",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.21,
+        "w": 1,
+        "h": 0.79
+      }
+    },
+    {
+      "role": "detail",
+      "asset": "proof-03",
+      "file": "proofs/attempt-02/proof-03.png",
+      "sha256": "d9ae9a6fb8fc1c7ce819029f02066e31116e8c976a1251fafe1bf2dd7e622b3b",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.27,
+        "w": 1,
+        "h": 0.73
+      }
+    }
+  ],
+  "stitch_counts": true,
+  "illustration": {
+    "asset": "proof-01",
+    "file": "proofs/attempt-02/proof-01.png",
+    "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b",
+    "width": 1024,
+    "height": 1536
+  },
+  "integrity": {
+    "origin": "ai-assisted-draft",
+    "origins": {
+      "ai-assisted-draft": 3
+    },
+    "verification": {
+      "unverified": 3,
+      "tested": 0
+    },
+    "all_tested": false,
+    "any_ai_assisted": true,
+    "tested_pattern_ids": [],
+    "approved_for_production": {
+      "approved_at": "2026-10-07T23:44:26.537Z",
+      "by": "@romg_o",
+      "source_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+    },
+    "marketing_rules": [
+      "Approved for production is not tested: say \"tested\" only when integrity.all_tested is true.",
+      "Artwork is an AI-generated illustration (Stage 1), never a photograph of an item made from these patterns.",
+      "Never claim professionally tested, guaranteed, error-free or pattern-tester approved."
+    ]
+  },
+  "artwork": {
+    "hero": {
+      "asset": "proof-01",
+      "file": "proofs/attempt-02/proof-01.png",
+      "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false
+    }
+  },
+  "deliverables": {
+    "papers": [
+      "A4",
+      "US Letter"
+    ],
+    "complete_bundle": true,
+    "individual_pattern_pdfs": 3,
+    "pattern_index": true,
+    "materials_reference": true,
+    "abbreviations_reference": true,
+    "step_by_step_instructions": true,
+    "printing_guide": true,
+    "pages_per_bundle": {
+      "A4": 15,
+      "US-Letter": 16
+    },
+    "files": 15
+  },
+  "visuals": {
+    "visual_match_status": "internally_checked",
+    "physically_verified": false,
+    "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+    "source": {
+      "file": "creative/visual-specs.json",
+      "sha256": "120a1e45c2ad7e22d283495915d5104b461312ef153732da5517409a36267952"
+    },
+    "pictured": {
+      "combination": "Costume and Treat-Bag Trio",
+      "items": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "quantity": 1
+        }
+      ]
+    },
+    "pattern_facts": [
+      {
+        "pattern_id": "bat-hair-clip",
+        "pattern_name": "Moonlit Bat Hair Clip",
+        "motif_type": "hair accessory",
+        "flower_type": null,
+        "finished_size": "About 7 cm wide, excluding the clip",
+        "finished_width_cm": 7,
+        "finished_height_cm": null,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [],
+        "colour_roles": [
+          {
+            "role": "Light yarn for bat, wings and ears",
+            "colour": "Black"
+          },
+          {
+            "role": "Light yarn for embroidered eyes",
+            "colour": "White"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [
+          "embroidery"
+        ],
+        "unknown": []
+      },
+      {
+        "pattern_id": "witch-hat-brooch",
+        "pattern_name": "Lavender Witch-Hat Brooch",
+        "motif_type": "flower",
+        "flower_type": "lavender",
+        "finished_size": "About 6 cm wide and 6 cm tall",
+        "finished_width_cm": 6,
+        "finished_height_cm": 6,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [],
+        "colour_roles": [
+          {
+            "role": "Light yarn for hat and brim",
+            "colour": "Lavender"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "candy-corn-bag-charm",
+        "pattern_name": "Candy-Corn Bag Charm",
+        "motif_type": "bag charm",
+        "flower_type": null,
+        "finished_size": "About 6 cm tall, excluding the hanging loop.",
+        "finished_width_cm": null,
+        "finished_height_cm": 6,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [],
+        "colour_roles": [
+          {
+            "role": "Light yarn for the pointed top",
+            "colour": "White"
+          },
+          {
+            "role": "Light yarn for the middle stripe",
+            "colour": "Orange"
+          },
+          {
+            "role": "Light yarn for the wide base",
+            "colour": "Yellow"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "finished_width"
+        ]
+      }
+    ]
+  },
+  "process_claims": [
+    "handmade",
+    "handcrafted",
+    "made by hand"
+  ],
+  "page_quantity": {
+    "total_pages": 15,
+    "content_pages": 3,
+    "content": "pattern"
+  },
+  "item_quantity": {
+    "count": 3,
+    "noun": "pattern"
+  },
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Little-Halloween-Costume-Accessories",
+    "parts": 4,
+    "zip_mb": 44.3
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+      "page": 1,
+      "sha256": "ebc1e92e87bd0c6cda2b647d2c3de920d2df0a75cfcaa8b747c02f3346db3cbe"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4-p1.png",
+      "label": "Pattern index (A4)",
+      "source": "A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+      "page": 1,
+      "sha256": "520fbd022d9dfcbad1ad0d2812720faf5651475a7158e1fd938d9d105d24cd53"
+    },
+    {
+      "file": "production/previews/preview-03-01-Moonlit-Bat-Hair-Clip-A4-p1.png",
+      "label": "First pattern (A4)",
+      "source": "A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+      "page": 1,
+      "sha256": "8d6e60fcbdc33b1a4f559503144bfd0cfe6f093af6df19a00ffe71989e2d3146"
+    },
+    {
+      "file": "production/previews/preview-04-LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4-p1.png",
+      "label": "Materials and tools (A4)",
+      "source": "A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+      "page": 1,
+      "sha256": "fb7ba5ba88d1d1383b4624d27559a37d41e80fb2b8fae7bd3671b306c3bc5e7e"
+    }
+  ],
+  "style": {
+    "subject": "Crochet accessory trio",
+    "palette": "Moonlit Meadow branding palette of cream, warm ivory, soft blush, lavender and sage, with restrained dark seasonal yarn accents where needed for definition.",
+    "mood": "Romantic, premium, calm and handmade, with a gentle moonlit seasonal feel."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "04e07960400ba5b670697cfd1e72d429aeb32d9369fe7cbe0202e83ad811996b"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "0b1e23829c8c10185fa6015590c2141101da3c25becf5cd91f300da0562d9d16"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "0b3fb22f20c005983cc3e54255b10c69603a4586e0b474d8923fc78df6e173f0"
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Little Halloween Costume Accessories"
+    ],
+    "pattern-count": [
+      "3 crochet patterns",
+      "3 patterns",
+      "3 crochet patterns in one collection",
+      "3"
+    ],
+    "pattern-number": [
+      "Pattern 01 of 3",
+      "Pattern 02 of 3",
+      "Pattern 03 of 3"
+    ],
+    "pattern-name": [
+      "Moonlit Bat Hair Clip",
+      "Lavender Witch-Hat Brooch",
+      "Candy-Corn Bag Charm"
+    ],
+    "skill": [
+      "Easy"
+    ],
+    "terms": [
+      "US crochet terms"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "A4 + US Letter PDFs",
+      "PDF",
+      "PDF patterns"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase",
+      "Instant download",
+      "Digital PDF pattern download"
+    ],
+    "render": [
+      "Illustrated example",
+      "Illustration",
+      "Illustrations, not photos",
+      "Rendered example of the finished crochet design"
+    ],
+    "delivery": [
+      "No yarn or hook included",
+      "No yarn, hook or kit included"
+    ],
+    "features": [
+      "Skill level on every pattern",
+      "Materials listed for every pattern",
+      "Stitch counts"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included"
+    ],
+    "included": [
+      "Complete pattern collection PDF"
+    ],
+    "individual": [
+      "Each pattern as its own PDF",
+      "Individual pattern PDFs"
+    ],
+    "references": [
+      "Materials and abbreviations reference",
+      "Materials and tools reference",
+      "Abbreviations reference"
+    ],
+    "pattern-index": [
+      "Pattern index"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Crochet",
+      "Print at home"
+    ],
+    "instructions": [
+      "Step-by-step instructions",
+      "Written step-by-step instructions"
+    ],
+    "combinations": [
+      "Little Halloween Accessory Set: 1 combination idea"
+    ]
+  }
+}

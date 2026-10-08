@@ -1,0 +1,147 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "production package unchanged",
+      "ok": true,
+      "detail": "Stage 2 records and deliverables re-verified"
+    },
+    {
+      "name": "listing meets Etsy constraints and claims",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image copy claims supported",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image count matches plan",
+      "ok": true,
+      "detail": "8 of 8"
+    },
+    {
+      "name": "image files present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank or corrupt images",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every image shows the real product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork traceable to Stage 2",
+      "ok": true,
+      "detail": "14 traced sources"
+    },
+    {
+      "name": "AI backgrounds never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork not stretched",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork dominates each image",
+      "ok": true,
+      "detail": "01-stop-scroll 70%, 02-what-you-get 54%, 03-quality 55%, 04-variety 50%, 05-useful 36%, 06-how-it-works 31%, 07-desire 24%, 08-doubts 27%"
+    },
+    {
+      "name": "headline legible at 300 px thumbnail",
+      "ok": true,
+      "detail": "every headline ≥ 87 px on the 2000 px canvas"
+    },
+    {
+      "name": "headline text rendered by code from the plan",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "300x300 thumbnails generated",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "visual QC and stamped claims",
+      "ok": true,
+      "detail": "51/51 checks; 41/41 stamped claims verified"
+    },
+    {
+      "name": "marketing engine recorded with the run",
+      "ok": true,
+      "detail": "ai-creative v1"
+    },
+    {
+      "name": "product region covered by real Stage 2 artwork",
+      "ok": true,
+      "detail": "every art-directed region holds the real artwork"
+    },
+    {
+      "name": "engine product visibility floor",
+      "ok": true,
+      "detail": "hero/design ≥ 45%, gift ≥ 35%, inside/print ≥ 30%"
+    },
+    {
+      "name": "creative variety: compositions",
+      "ok": true,
+      "detail": "8 compositions; most used \"editorial-hero\" 1× (max 3)"
+    },
+    {
+      "name": "creative variety: backgrounds",
+      "ok": true,
+      "detail": "8 backgrounds: render 1, linen 1, sage 1, blush 1, paper 1, ivory 1, environment 1, dusk 1"
+    },
+    {
+      "name": "creative variety: not only floating pages",
+      "ok": true,
+      "detail": "2 of 8 cards are pages only"
+    },
+    {
+      "name": "creative variety: headline placement",
+      "ok": true,
+      "detail": "6 text zones: top-left 2, top-centre 2, right-column 1, left-column 1, bottom-band 1, top-right 1"
+    },
+    {
+      "name": "creative variety: lifestyle / emotional storytelling",
+      "ok": true,
+      "detail": "07-desire"
+    },
+    {
+      "name": "creative variety: product presence across the campaign",
+      "ok": true,
+      "detail": "mean product share 43% (min 35%)"
+    },
+    {
+      "name": "approved renders shown only below their lettering",
+      "ok": true,
+      "detail": "6 crops inside their text-free region"
+    },
+    {
+      "name": "crops within the resolution floor (≤ 2×)",
+      "ok": true,
+      "detail": "every crop within the floor"
+    },
+    {
+      "name": "every pictured render tied to approved pattern IDs",
+      "ok": true,
+      "detail": "5 render placements"
+    }
+  ],
+  "warnings": [],
+  "at": "2026-10-06T09:00:15.206Z"
+}

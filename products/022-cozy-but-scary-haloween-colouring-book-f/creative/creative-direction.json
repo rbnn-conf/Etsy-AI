@@ -1,0 +1,32 @@
+{
+  "illustration_style": "Sophisticated monochrome pen-and-ink colouring-book illustration with a gothic storybook sensibility, designed for leisurely adult colouring.",
+  "line_weight": "Crisp confident outer contours with medium interior outlines and selectively fine ornamental linework.",
+  "line_quality": "Clean, controlled hand-inked linework; elegant curves, precise hatching and clearly separated enclosed shapes.",
+  "detail_level": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+  "character_language": "Expressive stylised figures with graceful, theatrical silhouettes, readable gestures and refined period-inspired costume detailing rather than realistic anatomy.",
+  "background_density": "Layered and immersive, with ornamental background detail kept lighter and more open than the principal forms to maintain clear focal hierarchy.",
+  "composition": "Strong central focal hierarchy, balanced asymmetry or formal symmetry where appropriate, clear depth layers, and deliberate breathing room around intricate motifs.",
+  "palette": "Monochrome black ink on a pure white ground, with all tonal richness created through line density and optional colourer-led choices.",
+  "colour_mode": "black-and-white line art",
+  "shading": "No grey fills, gradients or solid black shading; use sparse crosshatching, contour hatching and patterned shadow marks only where needed for depth.",
+  "texture": "Fine engraved-paper feel conveyed through crosshatching, stippling accents, ornamental motifs and varied textile-inspired patterns.",
+  "mood": "Cosy, elegant and ominous: candlelit seasonal warmth offset by refined supernatural unease.",
+  "age_suitability": "adults",
+  "print_considerations": "Pure black line art with a white background for economical home printing. Keep fine details legible at A4 and US Letter sizes, maintain clear closed colouring spaces, avoid large ink-heavy areas, and allow a practical inner safety margin for binding or trimming.",
+  "shared_prompt": "Sophisticated adult gothic colouring-book artwork in crisp black pen-and-ink on pure white, with confident clean contours, medium interior outlines, precise ornamental linework, delicate crosshatching and sparse stippling. Create elegant theatrical stylisation, high detail in decorative textures and open colourable areas, with no grey fills, gradients or solid black masses. Maintain a cosy yet ominous candlelit storybook mood, clear focal hierarchy, refined engraving-like texture and printer-friendly line clarity.",
+  "avoid": [
+    "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+    "Photorealism or realistic horror gore",
+    "Grey shading, colour, gradients or large solid-black ink areas",
+    "Muddy micro-detail, tangled lines or unclear colouring spaces",
+    "Childish cartoon styling or overly cute expressions",
+    "Modern objects or incongruous contemporary visual language",
+    "Misspelled, distorted or illegible text"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-10-07T18:19:13.997Z"
+}

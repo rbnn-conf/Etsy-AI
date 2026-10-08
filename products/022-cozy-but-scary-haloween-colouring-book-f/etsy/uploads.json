@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "listing_id": 4590759428,
+  "properties": [
+    {
+      "property_id": 200,
+      "values": [
+        "Black"
+      ],
+      "at": "2026-10-07T21:41:04.911Z"
+    },
+    {
+      "property_id": 52047899002,
+      "values": [
+        "White"
+      ],
+      "at": "2026-10-07T21:41:05.401Z"
+    }
+  ],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "4b129664d07c6096c722b48486bde6550c781957b4cd88bfdae8f6514cdcb801",
+      "listing_image_id": 8688488471,
+      "uploaded_at": "2026-10-07T21:41:08.747Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-preview.png",
+      "sha256": "2fd2e846c9c50292c9646c56d8d62497e88fac833829c51949176141c321f2e7",
+      "listing_image_id": 8688488691,
+      "uploaded_at": "2026-10-07T21:41:11.606Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-contents.png",
+      "sha256": "a96173cc94e53ebcb3bf2c63003e9a8356203a5145458ea4c5a81c67485b9529",
+      "listing_image_id": 8640671724,
+      "uploaded_at": "2026-10-07T21:41:14.705Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "8bbf38ddbc7e379f12e240dbffe9a25f113724b928a14fd087e4c99b5c0ce82f",
+      "listing_image_id": 8640671968,
+      "uploaded_at": "2026-10-07T21:41:17.420Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "52e70e9ffd2af70cf1c1268a88a1fa5578c294ad47854cf730f4777cc375682a",
+      "listing_image_id": 8688489333,
+      "uploaded_at": "2026-10-07T21:41:20.436Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-lifestyle.png",
+      "sha256": "253bbe73f9e80ed2d6e4e784bb3b42fbb5c5628c25d379334abef51c6cac4d66",
+      "listing_image_id": 8640672364,
+      "uploaded_at": "2026-10-07T21:41:23.454Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-showcase.png",
+      "sha256": "a6765388ef2f7e23679a87e3584f400865e143a8ce7d16205025233db63ffac5",
+      "listing_image_id": 8640672524,
+      "uploaded_at": "2026-10-07T21:41:25.890Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-download.png",
+      "sha256": "332bb0bb81fd8bf818c8801d56dd6e35e3097e9d8b2f3a73d1c5b75de8d2c709",
+      "listing_image_id": 8688489943,
+      "uploaded_at": "2026-10-07T21:41:28.746Z"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-cozy.png",
+      "sha256": "b97bcc71aee21c330f2b413e33e2de7cb15b0a45033eb778cc163cb09722c11c",
+      "listing_image_id": 8688490209,
+      "uploaded_at": "2026-10-07T21:41:33.143Z"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "fa232621dac0a1fda3129747a7d9f62b373c9ed45f26b082e1f241ad1d75d175",
+      "listing_image_id": 8688490375,
+      "uploaded_at": "2026-10-07T21:41:35.859Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Hollowbone-Manor-Masquerade-A4.zip",
+      "sha256": "168744358f0cfaca6df967ab7b8efb79cee47a0b0549917f6018309d12749021",
+      "bytes": 13900347,
+      "listing_file_id": 1522382012407,
+      "uploaded_at": "2026-10-07T21:41:42.860Z"
+    },
+    {
+      "rank": 2,
+      "name": "Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip",
+      "sha256": "6706e051d5ec132a8baf5ca67271b233958e1a6d18cdec50ade23837a6632f5c",
+      "bytes": 18820448,
+      "listing_file_id": 1522382043271,
+      "uploaded_at": "2026-10-07T21:41:51.440Z"
+    },
+    {
+      "rank": 3,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip",
+      "sha256": "f1ea7421fc16098474d19ed3f801ee6493ef987a1544e33938e2a68ab426e7cb",
+      "bytes": 18416857,
+      "listing_file_id": 1521135398882,
+      "uploaded_at": "2026-10-07T21:41:59.232Z"
+    },
+    {
+      "rank": 4,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip",
+      "sha256": "c5d2b81ba9e830cb0a2ee676873b4e17332973b9de49172328322c2300777e0d",
+      "bytes": 18841736,
+      "listing_file_id": 1522382099515,
+      "uploaded_at": "2026-10-07T21:42:07.314Z"
+    },
+    {
+      "rank": 5,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip",
+      "sha256": "9fa53507e3d69e5c4053f95f78b543cf39bdd547a2bba6cf2981a2a3e3bca20e",
+      "bytes": 15293480,
+      "listing_file_id": 1521135445840,
+      "uploaded_at": "2026-10-07T21:42:12.956Z"
+    }
+  ],
+  "pending": null
+}

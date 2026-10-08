@@ -1,0 +1,149 @@
+{
+  "product_id": "018",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-06T14:19:49.988Z",
+  "finished_at": "2026-10-06T14:20:27.341Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "Original cosy autumn colouring-book line art in clean black ink on white paper; bold rounded outer contours, smooth subtly hand-drawn linework, medium-weight interior details, broad colourable enclosed shapes, friendly softly stylised cartoon expressions, sparse natural and handmade texture marks, no filled shading, calm storybook warmth and home-printer-friendly clarity.\n\nSHARED STYLE (style only): illustration style: Cosy seasonal colouring-book line art with original storybook charm, using playful rounded forms and inviting domestic-scale detail.; line weight: Bold black outer contours with medium-weight interior detail lines; maintain generous enclosed colouring areas.; line quality: Smooth, gently imperfect hand-inked curves with softened corners and clear, steady joins.; detail level: Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.; character language: Friendly, softly stylised cartoon characters with rounded proportions, simple expressive faces, and readable clothing or feature shapes.; background density: Moderately full scenic backgrounds built in shallow layers, with enough open space inside forms for relaxed colouring.; palette: Monochrome black ink on white paper; designs should suggest a warm autumn atmosphere through motif and linework rather than filled colour.; colour mode: black-and-white line art; shading: No solid shading or grey fills; use sparse contour accents, simple texture lines, and occasional small pattern details only.; texture: Light hand-drawn texture through wood grain, leaf veins, fabric seams, masonry marks, and natural surface accents, always kept broad and colourable.; mood: Warm, peaceful, whimsical and gently festive, with an unhurried cosy feel.; print considerations: A4 and US Letter friendly portrait pages with clean white backgrounds, no full-bleed ink areas, strong line contrast, and details large enough to reproduce clearly on typical home printers..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Rich, cosy, slightly muted seasonal palette: pumpkin orange, burnt sienna, golden yellow, ochre, warm cream, walnut brown, moss/olive green, forest green, teal, slate blue, charcoal, and small luminous yellow highlights. The night design adds cool navy and blue-green contrast.; linework: Bold, near-black to dark-brown contour outlines, approximately 3–6 px at this display size. Outer silhouettes are heaviest; interior construction lines, seams, leaf veins, brick divisions, and wood grain are moderately thinner but remain clear. No delicate hatching.; texture: Subtle paper/grain or speckled overlay across fills, plus lightly irregular colour variation. Select objects include explicit decorative texture lines such as wood grain, brick joints, fabric ribs, roof scales, and leaf veins.; composition density: High but organised density. A large central focal subject anchors each cover, medium-sized supporting objects build a cosy environment, and small seasonal accents occupy gaps and borders. Foreground elements overlap the scene to create fullness without losing major silhouettes.; background: Fully illustrated scenic backgrounds, from dark moonlit woodland to café frontage and a garden patio. Backgrounds are layered with trees, shrubs, structures, props, and decorative seasonal elements; there is no plain or flat empty backdrop.; mood: Comforting, warm, whimsical, peaceful, and gently festive; the spooky elements are cute rather than frightening..\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Cozy Autun colouring book 10 pages\".\nConcept \"Autumn Little Makers Colouring Book\": a colouring book for Children ages 6–12 who enjoy cosy craft-themed colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Young craft maker\n- Scene: Warm cabin craft room\n- Focal object: Leaf garland\n- Composition: Large worktable focal point with shelves in shallow background\n- Lighting: Soft rainy-afternoon window light\n- Palette emphasis: Suggested amber, russet, cream and walnut tones\n- Mood: Creative, peaceful and snug\n- Typography: Simple hand-lettered cover title, text-free interiors\n- Distinguishing hook: Child assembling a long leaf garland\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Gentle hedgehog baker / Sunlit country kitchen / Apple pie / Golden late-morning kitchen light\n- C: Curious child gardener / Rainy backyard greenhouse / Seed packet / Bright overcast rain light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references; Inflated outlined title lettering or circular lower-corner count callouts resembling the references; Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas; Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps; Frightening imagery, harsh horror styling, or menacing facial expressions; Misspelled text, illegible lettering, logos, trademarks, or artist signatures.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T14:20:02.361Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Autumn Little Makers Colouring Book",
+        "tagline": "Cosy crafts and leaf-inspired makes",
+        "product_type": "Autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Children ages 6–12 who enjoy cosy craft-themed colouring",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "9 individual craft-themed colouring pages",
+          "A4 printing guide",
+          "US Letter printing guide"
+        ],
+        "short_description": "A 10-page autumn colouring book centred on a cheerful young maker creating seasonal decorations, gifts and keepsakes in a snug craft room. Each page offers one clear, colourable autumn project with friendly storybook detail.",
+        "key_features": [
+          "1 illustrated cover plus 9 colouring pages",
+          "Original autumn craft-room scenes",
+          "Large, relaxed colouring areas",
+          "Text-free interior pages",
+          "A4 and US Letter home-printing guidance"
+        ],
+        "visual_direction_summary": "A gentle indoor autumn route built around handmade seasonal projects, cosy furnishings and expressive child-friendly character moments. The pages move between simple makes such as garlands, lanterns, paper leaves and knitted accessories while retaining clear focal shapes.",
+        "visual_route": {
+          "primary_subject": "Young craft maker",
+          "scene": "Warm cabin craft room",
+          "focal_object": "Leaf garland",
+          "composition": "Large worktable focal point with shelves in shallow background",
+          "lighting": "Soft rainy-afternoon window light",
+          "palette_emphasis": "Suggested amber, russet, cream and walnut tones",
+          "emotional_tone": "Creative, peaceful and snug",
+          "typography_approach": "Simple hand-lettered cover title, text-free interiors",
+          "distinguishing_visual_hook": "Child assembling a long leaf garland"
+        },
+        "preview_brief": "Portrait cover showing a smiling young craft maker at a broad table, threading a leaf garland beneath a rounded window with raindrops outside. Craft shelves, jars and folded blankets create a cosy shallow background, with an open hand-lettered title area above."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "Original cosy autumn colouring-book line art in clean black ink on white paper; bold rounded outer contours, smooth subtly hand-drawn linework, medium-weight interior details, broad colourable enclosed shapes, friendly softly stylised cartoon expressions, sparse natural and handmade texture marks, no filled shading, calm storybook warmth and home-printer-friendly clarity.\n\nSHARED STYLE (style only): illustration style: Cosy seasonal colouring-book line art with original storybook charm, using playful rounded forms and inviting domestic-scale detail.; line weight: Bold black outer contours with medium-weight interior detail lines; maintain generous enclosed colouring areas.; line quality: Smooth, gently imperfect hand-inked curves with softened corners and clear, steady joins.; detail level: Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.; character language: Friendly, softly stylised cartoon characters with rounded proportions, simple expressive faces, and readable clothing or feature shapes.; background density: Moderately full scenic backgrounds built in shallow layers, with enough open space inside forms for relaxed colouring.; palette: Monochrome black ink on white paper; designs should suggest a warm autumn atmosphere through motif and linework rather than filled colour.; colour mode: black-and-white line art; shading: No solid shading or grey fills; use sparse contour accents, simple texture lines, and occasional small pattern details only.; texture: Light hand-drawn texture through wood grain, leaf veins, fabric seams, masonry marks, and natural surface accents, always kept broad and colourable.; mood: Warm, peaceful, whimsical and gently festive, with an unhurried cosy feel.; print considerations: A4 and US Letter friendly portrait pages with clean white backgrounds, no full-bleed ink areas, strong line contrast, and details large enough to reproduce clearly on typical home printers..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Rich, cosy, slightly muted seasonal palette: pumpkin orange, burnt sienna, golden yellow, ochre, warm cream, walnut brown, moss/olive green, forest green, teal, slate blue, charcoal, and small luminous yellow highlights. The night design adds cool navy and blue-green contrast.; linework: Bold, near-black to dark-brown contour outlines, approximately 3–6 px at this display size. Outer silhouettes are heaviest; interior construction lines, seams, leaf veins, brick divisions, and wood grain are moderately thinner but remain clear. No delicate hatching.; texture: Subtle paper/grain or speckled overlay across fills, plus lightly irregular colour variation. Select objects include explicit decorative texture lines such as wood grain, brick joints, fabric ribs, roof scales, and leaf veins.; composition density: High but organised density. A large central focal subject anchors each cover, medium-sized supporting objects build a cosy environment, and small seasonal accents occupy gaps and borders. Foreground elements overlap the scene to create fullness without losing major silhouettes.; background: Fully illustrated scenic backgrounds, from dark moonlit woodland to café frontage and a garden patio. Backgrounds are layered with trees, shrubs, structures, props, and decorative seasonal elements; there is no plain or flat empty backdrop.; mood: Comforting, warm, whimsical, peaceful, and gently festive; the spooky elements are cute rather than frightening..\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Cozy Autun colouring book 10 pages\".\nConcept \"The Apple Pie Kitchen Colouring Book\": a colouring book for Children ages 6–12 who enjoy food, animals and cosy home scenes.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Gentle hedgehog baker\n- Scene: Sunlit country kitchen\n- Focal object: Apple pie\n- Composition: Central baking counter with curved cupboards behind\n- Lighting: Golden late-morning kitchen light\n- Palette emphasis: Suggested apple red, cinnamon, cream and copper tones\n- Mood: Wholesome, cheerful and comforting\n- Typography: Rounded bakery-style cover title, text-free interiors\n- Distinguishing hook: Hedgehog lifting a steaming apple pie\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Young craft maker / Warm cabin craft room / Leaf garland / Soft rainy-afternoon window light\n- C: Curious child gardener / Rainy backyard greenhouse / Seed packet / Bright overcast rain light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references; Inflated outlined title lettering or circular lower-corner count callouts resembling the references; Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas; Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps; Frightening imagery, harsh horror styling, or menacing facial expressions; Misspelled text, illegible lettering, logos, trademarks, or artist signatures.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T14:20:15.121Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "The Apple Pie Kitchen Colouring Book",
+        "tagline": "Wholesome baking-day colouring fun",
+        "product_type": "Autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Children ages 6–12 who enjoy food, animals and cosy home scenes",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "9 individual baking-themed colouring pages",
+          "A4 printing guide",
+          "US Letter printing guide"
+        ],
+        "short_description": "A 10-page autumn colouring book following a gentle hedgehog baker through a warm day of apple pies, cinnamon buns and shared kitchen treats. Each scene uses broad food shapes, friendly animal expressions and welcoming home details.",
+        "key_features": [
+          "1 illustrated cover plus 9 colouring pages",
+          "Original animal-bakery storyline",
+          "Broad, colourable food and kitchen shapes",
+          "Cosy seasonal home details",
+          "A4 and US Letter home-printing guidance"
+        ],
+        "visual_direction_summary": "A food-led autumn route with a softly stylised hedgehog baker, rounded kitchenware and simple seasonal baking moments. The book focuses on mixing, rolling, cooling and sharing treats rather than market or travel scenes.",
+        "visual_route": {
+          "primary_subject": "Gentle hedgehog baker",
+          "scene": "Sunlit country kitchen",
+          "focal_object": "Apple pie",
+          "composition": "Central baking counter with curved cupboards behind",
+          "lighting": "Golden late-morning kitchen light",
+          "palette_emphasis": "Suggested apple red, cinnamon, cream and copper tones",
+          "emotional_tone": "Wholesome, cheerful and comforting",
+          "typography_approach": "Rounded bakery-style cover title, text-free interiors",
+          "distinguishing_visual_hook": "Hedgehog lifting a steaming apple pie"
+        },
+        "preview_brief": "Portrait cover showing a gentle hedgehog baker lifting a freshly baked apple pie from a low oven in a rounded country kitchen. Apples, a rolling pin and a cooling rack frame the scene, while a clear bakery-style title sits in the upper space."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "Original cosy autumn colouring-book line art in clean black ink on white paper; bold rounded outer contours, smooth subtly hand-drawn linework, medium-weight interior details, broad colourable enclosed shapes, friendly softly stylised cartoon expressions, sparse natural and handmade texture marks, no filled shading, calm storybook warmth and home-printer-friendly clarity.\n\nSHARED STYLE (style only): illustration style: Cosy seasonal colouring-book line art with original storybook charm, using playful rounded forms and inviting domestic-scale detail.; line weight: Bold black outer contours with medium-weight interior detail lines; maintain generous enclosed colouring areas.; line quality: Smooth, gently imperfect hand-inked curves with softened corners and clear, steady joins.; detail level: Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.; character language: Friendly, softly stylised cartoon characters with rounded proportions, simple expressive faces, and readable clothing or feature shapes.; background density: Moderately full scenic backgrounds built in shallow layers, with enough open space inside forms for relaxed colouring.; palette: Monochrome black ink on white paper; designs should suggest a warm autumn atmosphere through motif and linework rather than filled colour.; colour mode: black-and-white line art; shading: No solid shading or grey fills; use sparse contour accents, simple texture lines, and occasional small pattern details only.; texture: Light hand-drawn texture through wood grain, leaf veins, fabric seams, masonry marks, and natural surface accents, always kept broad and colourable.; mood: Warm, peaceful, whimsical and gently festive, with an unhurried cosy feel.; print considerations: A4 and US Letter friendly portrait pages with clean white backgrounds, no full-bleed ink areas, strong line contrast, and details large enough to reproduce clearly on typical home printers..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Rich, cosy, slightly muted seasonal palette: pumpkin orange, burnt sienna, golden yellow, ochre, warm cream, walnut brown, moss/olive green, forest green, teal, slate blue, charcoal, and small luminous yellow highlights. The night design adds cool navy and blue-green contrast.; linework: Bold, near-black to dark-brown contour outlines, approximately 3–6 px at this display size. Outer silhouettes are heaviest; interior construction lines, seams, leaf veins, brick divisions, and wood grain are moderately thinner but remain clear. No delicate hatching.; texture: Subtle paper/grain or speckled overlay across fills, plus lightly irregular colour variation. Select objects include explicit decorative texture lines such as wood grain, brick joints, fabric ribs, roof scales, and leaf veins.; composition density: High but organised density. A large central focal subject anchors each cover, medium-sized supporting objects build a cosy environment, and small seasonal accents occupy gaps and borders. Foreground elements overlap the scene to create fullness without losing major silhouettes.; background: Fully illustrated scenic backgrounds, from dark moonlit woodland to café frontage and a garden patio. Backgrounds are layered with trees, shrubs, structures, props, and decorative seasonal elements; there is no plain or flat empty backdrop.; mood: Comforting, warm, whimsical, peaceful, and gently festive; the spooky elements are cute rather than frightening..\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Cozy Autun colouring book 10 pages\".\nConcept \"Rainy Day Greenhouse Colouring Book\": a colouring book for Children ages 6–12 who enjoy gardens, nature and gentle characters.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Curious child gardener\n- Scene: Rainy backyard greenhouse\n- Focal object: Seed packet\n- Composition: Open greenhouse doorway framing gardener and potting bench\n- Lighting: Bright overcast rain light\n- Palette emphasis: Suggested moss green, pumpkin orange and misty blue tones\n- Mood: Fresh, gentle and quietly hopeful\n- Typography: Neat garden-label cover title, text-free interiors\n- Distinguishing hook: Child sorting seeds while rain taps the glass\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Young craft maker / Warm cabin craft room / Leaf garland / Soft rainy-afternoon window light\n- B: Gentle hedgehog baker / Sunlit country kitchen / Apple pie / Golden late-morning kitchen light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references; Inflated outlined title lettering or circular lower-corner count callouts resembling the references; Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas; Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps; Frightening imagery, harsh horror styling, or menacing facial expressions; Misspelled text, illegible lettering, logos, trademarks, or artist signatures.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T14:20:27.337Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Rainy Day Greenhouse Colouring Book",
+        "tagline": "Garden calm for cosy autumn days",
+        "product_type": "Autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Children ages 6–12 who enjoy gardens, nature and gentle characters",
+        "page_count": 10,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "9 individual greenhouse-themed colouring pages",
+          "A4 printing guide",
+          "US Letter printing guide"
+        ],
+        "short_description": "A 10-page autumn colouring book set in a welcoming backyard greenhouse, where a curious young gardener tends seedlings, gathers seeds and shelters from a gentle rain shower. Each page combines easy-to-colour plants, tools and cosy glasshouse details.",
+        "key_features": [
+          "1 illustrated cover plus 9 colouring pages",
+          "Original greenhouse and garden scenes",
+          "Nature-focused autumn activities",
+          "Clear plant shapes and open colouring spaces",
+          "A4 and US Letter home-printing guidance"
+        ],
+        "visual_direction_summary": "A rain-kissed garden route with a young gardener, rounded greenhouse architecture and autumn plant care. Pages feature seed saving, potting, watering, bird watching and rain shelter, with broad botanical forms rather than dense foliage.",
+        "visual_route": {
+          "primary_subject": "Curious child gardener",
+          "scene": "Rainy backyard greenhouse",
+          "focal_object": "Seed packet",
+          "composition": "Open greenhouse doorway framing gardener and potting bench",
+          "lighting": "Bright overcast rain light",
+          "palette_emphasis": "Suggested moss green, pumpkin orange and misty blue tones",
+          "emotional_tone": "Fresh, gentle and quietly hopeful",
+          "typography_approach": "Neat garden-label cover title, text-free interiors",
+          "distinguishing_visual_hook": "Child sorting seeds while rain taps the glass"
+        },
+        "preview_brief": "Portrait cover showing a curious child gardener at a potting bench inside an open greenhouse, sorting seed packets as rounded raindrops tap the glass panes. Pots, broad leaves and a small watering can frame the lower area, leaving airy title space overhead."
+      }
+    }
+  ]
+}

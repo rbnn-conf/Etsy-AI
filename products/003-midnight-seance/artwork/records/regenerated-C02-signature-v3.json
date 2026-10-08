@@ -1,0 +1,9 @@
+{
+  "id": "C02",
+  "treatment": "signature",
+  "prompt": "Create ONE original isolated high-resolution TRANSPARENT PNG asset: an accurately ordered SEVEN-PHASE MOON DIVIDER for luxury antique occult stationery. Wide shallow horizontal composition with seven equally sized, separated lunar disks. Illumination STRICTLY ordered from LEFT to RIGHT: (1) WAXING CRESCENT, a fine illuminated sliver ONLY on the RIGHT edge; (2) FIRST QUARTER, RIGHT HALF illuminated; (3) WAXING GIBBOUS, mostly illuminated with a narrow DARK sliver on LEFT edge; (4) FULL MOON, entire disk illuminated; (5) WANING GIBBOUS, mostly illuminated with a narrow DARK sliver on RIGHT edge; (6) LAST QUARTER, LEFT HALF illuminated; (7) WANING CRESCENT, fine illuminated sliver ONLY on LEFT edge. Light parts muted antique gold, dark parts near-black. Fine nineteenth-century copperplate crater stippling and engraving. Original coherent antique character, sophisticated and romantic. Plain actual transparent RGBA background, complete silhouettes with generous transparent margin, no text, letters, numerals, paper, stars, faces, floral patterns, shadow or watermark. NOT a printable page. Highest native resolution.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-fcd5bdcd-22d6-496a-8989-e75fa50affb1.png",
+  "reason": "v2 edit retained incorrect lunar lighting; new original generation required.",
+  "rejectedFile": "rejected/C02-signature-v2.png",
+  "visualQc": "pending"
+}

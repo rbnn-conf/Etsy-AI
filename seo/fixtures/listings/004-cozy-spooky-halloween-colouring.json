@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "mode": "EXISTING_LISTING",
+  "snapshot_id": "004-cozy-spooky-halloween-colouring",
+  "listing": {
+    "owner_reference": "#004",
+    "repo_product": "004-cozy-spooky-coloring",
+    "etsy_listing_id": null,
+    "live_state_read": false
+  },
+  "title": "Cozy Spooky Halloween Coloring Book — 20 Connected Adventures",
+  "tags": null,
+  "description_excerpt": "Follow a friendly ghost, a young witch, a black cat and their Halloween friends through 20 cozy storytelling colouring pages. Bake treats, explore an autumn forest and Halloween village, visit cafés and shops, join the celebrations, then settle in for bedtime stories.",
+  "product_type": "Halloween colouring book",
+  "page_count": 20,
+  "formats": [
+    "A4 PDF",
+    "US Letter PDF",
+    "PNG pages"
+  ],
+  "price": null,
+  "category": null,
+  "notes": "Title from the listing description heading. No tag list is recorded in the repository, so tags are null.",
+  "performance": {
+    "views": null,
+    "favourites": null,
+    "orders": null,
+    "revenue_minor": null
+  },
+  "source": {
+    "file": "products/004-cozy-spooky-coloring/listing/description.md",
+    "sha256": "e7e8e5b9659d5a23b9e269a3b0f2b63d7769d265c1ee970d6ceca723932b7b7b",
+    "kind": "repository listing file (non-live fixture)"
+  },
+  "captured_at": "2026-09-29T00:00:00.000Z"
+}

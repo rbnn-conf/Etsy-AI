@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "profile_id": "005-cozy-autumn-adventures",
+  "describes": { "mode": "EXISTING_LISTING", "ref": "fixtures/listings/005-cozy-autumn-adventures.json" },
+  "source": "Words from the #005 listing title, tags and description (products/005-cozy-autumn-adventures/listing/listing.json). The listing names 'family time' and never names adults, so the only audience is family. 'Activity' is how the listing describes the colouring (an attribute, not a product format).",
+  "seasonality": null,
+  "notes": "Seasonality was not supplied. If the owner confirms this book is aimed at adults, add \"adults\" to audiences: that is an owner decision, not something the listing says.",
+  "central_themes": ["autumn", "fall"],
+  "formats": ["colouring book", "colouring pages"],
+  "components": [],
+  "audiences": ["family"],
+  "attributes": ["cozy", "cute", "printable", "digital", "download", "instant", "activity", "a4", "us letter", "pdf", "png", "black-and-white"],
+  "tangential": ["pumpkin", "patches", "leafy", "village", "lanes", "kitchens", "woodland", "paths", "fireside", "reading", "jack-o-lanterns", "seasonal", "celebrations", "afternoons", "rainy days", "adventures", "scenes"]
+}

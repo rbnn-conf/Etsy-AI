@@ -1,0 +1,23 @@
+{
+  "product":"005",
+  "title":"Cozy Autumn Adventures",
+  "targetCustomer":"People seeking cozy autumn coloring scenes for creative afternoons and seasonal family activities",
+  "canvas":{"width":2000,"height":2000},
+  "palette":{"background":"#FAF7F2","paper":"#FFFFFF","ink":"#1F1F1F","stone":"#E6E1D9","seasonalAccent":"#C4644A"},
+  "type":{"display":"Spectral SemiBold","body":"Inter","titlePx":140,"leadPx":42,"minimumPx":24},
+  "marginsPx":140,
+  "source":"Approved P001-P020 black-and-white illustrations and actual delivered page previews",
+  "sequence":[
+    "Hero: large title and two contrasting autumn scenes",
+    "Included: numbered index with representative artwork",
+    "Page collage: five varied scenes",
+    "Autumn theme: dominant kitchen scene and orchard detail",
+    "Print at home: actual page with a simple pencil silhouette",
+    "Paper sizes: actual A4 and US Letter layouts at comparable scale",
+    "Perfect for: quiet typographic list and reading-corner illustration",
+    "Digital download: four numbered steps and no-physical-item message",
+    "More previews: two large scenes and a strip of four details",
+    "Brand: LumiumX display and final collection reminder"
+  ],
+  "rules":["No coloring-page recoloring","No generated illustrations","No DPI marketing claim","No medical claims","No physical-product promise","No new legal terms","Customer art is distinct from marketing presentation"]
+}

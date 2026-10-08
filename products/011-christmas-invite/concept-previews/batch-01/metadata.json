@@ -1,0 +1,143 @@
+{
+  "product_id": "011",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-28T16:24:31.780Z",
+  "finished_at": "2026-09-28T16:25:05.775Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Luxurious hand-painted gouache stationery style with softly textured paper grain, layered brushwork, gentle candlelit shading and restrained festive colour. Elegant high-contrast serif typography pairs with small handwritten accents; generous negative space keeps event details highly legible.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas invite\".\nConcept \"Candlelit Christmas Supper Invitation\": a invitation for Adults hosting an intimate Christmas supper or seasonal dinner party.\nShow the invitation front, using THIS concept's own content:\n- Subject: Christmas tablescape\n- Scene: Candlelit dining room with winter greenery\n- Focal object: Taper candles\n- Composition: Tall central tablescape, invitation wording in upper half\n- Lighting: Golden evening candlelight\n- Palette emphasis: Burgundy, antique gold, evergreen and warm ivory\n- Mood: Intimate, elegant and welcoming\n- Typography: Classic serif heading with delicate script accents\n- Distinguishing hook: Glowing candles rising through a wreath-like table arrangement\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Mountain lodge / Snowy alpine village at dusk / Striped ski sign / Crisp blue-hour glow with warm windows\n- C: Disco bauble / Abstract festive dance floor / Mirrored ornament / Radiant coloured party glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:24:43.120Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Candlelit Christmas Supper Invitation",
+        "tagline": "Elegant invitation for a festive dinner party",
+        "product_type": "Christmas dinner party invitation",
+        "product_format": "invitation",
+        "target_customer": "Adults hosting an intimate Christmas supper or seasonal dinner party",
+        "page_count": 1,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Single-sided printable invitation design",
+          "Personalised event-details area",
+          "Printing guide"
+        ],
+        "short_description": "A refined Christmas supper invitation with a warm, painterly tablescape and clear space for hosts to add dinner details, date, time and RSVP information.",
+        "key_features": [
+          "Single printable invitation page",
+          "Editable-style blank fields for party details",
+          "A4 and US Letter home-printing friendly layout",
+          "Suitable for Christmas dinners, drinks and seasonal gatherings"
+        ],
+        "visual_direction_summary": "Luxurious hand-painted gouache stationery style with softly textured paper grain, layered brushwork, gentle candlelit shading and restrained festive colour. Elegant high-contrast serif typography pairs with small handwritten accents; generous negative space keeps event details highly legible.",
+        "visual_route": {
+          "primary_subject": "Christmas tablescape",
+          "scene": "Candlelit dining room with winter greenery",
+          "focal_object": "Taper candles",
+          "composition": "Tall central tablescape, invitation wording in upper half",
+          "lighting": "Golden evening candlelight",
+          "palette_emphasis": "Burgundy, antique gold, evergreen and warm ivory",
+          "emotional_tone": "Intimate, elegant and welcoming",
+          "typography_approach": "Classic serif heading with delicate script accents",
+          "distinguishing_visual_hook": "Glowing candles rising through a wreath-like table arrangement"
+        },
+        "preview_brief": "A portrait invitation front shows a candlelit festive dinner table rising from the lower third, with evergreen foliage and deep red accents. ‘Christmas Supper’ appears in an elegant serif at the top, while a clean ivory panel holds the event details in the centre."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Bold mid-century-inspired gouache illustration with visible dry-brush texture, simplified graphic forms and softly imperfect ink outlines. Festive colours are rich but limited, with flat colour blocks, small painted highlights and lively display lettering balanced by crisp sans-serif event details.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas invite\".\nConcept \"Alpine Après-Ski Christmas Party Invitation\": a invitation for Adults hosting a Christmas party, winter drinks night or après-ski themed gathering.\nShow the invitation front, using THIS concept's own content:\n- Subject: Mountain lodge\n- Scene: Snowy alpine village at dusk\n- Focal object: Striped ski sign\n- Composition: Wide lodge silhouette, details framed in open snowy sky\n- Lighting: Crisp blue-hour glow with warm windows\n- Palette emphasis: Cobalt, tomato red, cream and spruce green\n- Mood: Lively, cosy and celebratory\n- Typography: Bold retro display title with clean sans-serif details\n- Distinguishing hook: Festive ski sign pointing towards the party\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Christmas tablescape / Candlelit dining room with winter greenery / Taper candles / Golden evening candlelight\n- C: Disco bauble / Abstract festive dance floor / Mirrored ornament / Radiant coloured party glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:24:55.326Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Alpine Après-Ski Christmas Party Invitation",
+        "tagline": "Playful invitation for a festive winter party",
+        "product_type": "Christmas party invitation",
+        "product_format": "invitation",
+        "target_customer": "Adults hosting a Christmas party, winter drinks night or après-ski themed gathering",
+        "page_count": 1,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "Single-sided printable invitation design",
+          "Personalised event-details area",
+          "Printing guide"
+        ],
+        "short_description": "A spirited winter-party invitation inspired by a cosy mountain lodge, with bold hand-painted shapes and room for all celebration details.",
+        "key_features": [
+          "Landscape printable invitation page",
+          "Clear event-details hierarchy",
+          "Home-printable on A4 or US Letter paper",
+          "Ideal for festive drinks, office gatherings and house parties"
+        ],
+        "visual_direction_summary": "Bold mid-century-inspired gouache illustration with visible dry-brush texture, simplified graphic forms and softly imperfect ink outlines. Festive colours are rich but limited, with flat colour blocks, small painted highlights and lively display lettering balanced by crisp sans-serif event details.",
+        "visual_route": {
+          "primary_subject": "Mountain lodge",
+          "scene": "Snowy alpine village at dusk",
+          "focal_object": "Striped ski sign",
+          "composition": "Wide lodge silhouette, details framed in open snowy sky",
+          "lighting": "Crisp blue-hour glow with warm windows",
+          "palette_emphasis": "Cobalt, tomato red, cream and spruce green",
+          "emotional_tone": "Lively, cosy and celebratory",
+          "typography_approach": "Bold retro display title with clean sans-serif details",
+          "distinguishing_visual_hook": "Festive ski sign pointing towards the party"
+        },
+        "preview_brief": "A landscape invitation features a cheerful alpine lodge against a snowy blue-hour sky, its glowing windows contrasting with bold red and cream details. A retro ‘Christmas Party’ title spans the sky, with event information neatly arranged beneath the illustrated lodge."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Contemporary risograph-inspired print design with grainy ink texture, offset colour layers, bold geometric shapes and imperfect registration. Flat high-energy colour, scattered starbursts and chunky expressive lettering create a playful printed-poster feel, while details sit in orderly sans-serif type.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas invite\".\nConcept \"Winter Disco Christmas Invitation\": a invitation for Adults hosting a modern Christmas party, festive disco or New Year-adjacent celebration.\nShow the invitation front, using THIS concept's own content:\n- Subject: Disco bauble\n- Scene: Abstract festive dance floor\n- Focal object: Mirrored ornament\n- Composition: Oversized central ornament, circular text and details below\n- Lighting: Radiant coloured party glow\n- Palette emphasis: Hot pink, cobalt, silver-grey and fir green\n- Mood: Joyful, bold and energetic\n- Typography: Chunky curved display lettering with compact sans-serif details\n- Distinguishing hook: Mirror-ball ornament scattering graphic starbursts\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Christmas tablescape / Candlelit dining room with winter greenery / Taper candles / Golden evening candlelight\n- B: Mountain lodge / Snowy alpine village at dusk / Striped ski sign / Crisp blue-hour glow with warm windows\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024",
+      "quality": "low",
+      "generated_at": "2026-09-28T16:25:05.770Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Winter Disco Christmas Invitation",
+        "tagline": "Sparkling invitation for a modern festive bash",
+        "product_type": "Christmas disco party invitation",
+        "product_format": "invitation",
+        "target_customer": "Adults hosting a modern Christmas party, festive disco or New Year-adjacent celebration",
+        "page_count": 1,
+        "orientation": "square",
+        "deliverable_components": [
+          "Square printable invitation design",
+          "Personalised event-details area",
+          "Printing guide"
+        ],
+        "short_description": "A joyful modern Christmas party invitation combining graphic festive sparkle with a playful disco mood and easy-to-complete event details.",
+        "key_features": [
+          "Square invitation layout for digital sharing or home printing",
+          "Blank fields for date, time, location and RSVP",
+          "Graphic festive design with strong readability",
+          "Suitable for Christmas discos and colourful holiday parties"
+        ],
+        "visual_direction_summary": "Contemporary risograph-inspired print design with grainy ink texture, offset colour layers, bold geometric shapes and imperfect registration. Flat high-energy colour, scattered starbursts and chunky expressive lettering create a playful printed-poster feel, while details sit in orderly sans-serif type.",
+        "visual_route": {
+          "primary_subject": "Disco bauble",
+          "scene": "Abstract festive dance floor",
+          "focal_object": "Mirrored ornament",
+          "composition": "Oversized central ornament, circular text and details below",
+          "lighting": "Radiant coloured party glow",
+          "palette_emphasis": "Hot pink, cobalt, silver-grey and fir green",
+          "emotional_tone": "Joyful, bold and energetic",
+          "typography_approach": "Chunky curved display lettering with compact sans-serif details",
+          "distinguishing_visual_hook": "Mirror-ball ornament scattering graphic starbursts"
+        },
+        "preview_brief": "A square invitation centres an oversized mirrored Christmas ornament above a field of lively graphic starbursts. ‘Christmas Disco’ curves around the bauble in bold lettering, while the lower section presents party details in crisp, compact type."
+      }
+    }
+  ]
+}

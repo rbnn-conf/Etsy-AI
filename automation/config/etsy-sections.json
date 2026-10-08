@@ -1,0 +1,71 @@
+{
+  "_comment": "Etsy shop sections (ADR-054). Deterministic: a product's section comes from its canonical product_format (product.json concept) plus its structured season (product.json season) or topic (product.json product_type), matched by whole word against the lists below. Keys: '<format>:<theme>' first, then '*:<theme>', then '<format>'. A listing belongs to ONE section, so a seasonal or topic section wins over the format section. A recognised season with no seasonal section (e.g. winter) is a warning, never filed under the generic format section. No match = no section (a warning, never a guess). Section names are the shop's canonical names; never generated.",
+  "version": 1,
+  "sections": [
+    "Budget & Finance",
+    "Autumn Printables",
+    "Halloween",
+    "Christmas",
+    "Colouring Books",
+    "Activity Books",
+    "Crochet Patterns",
+    "Greeting Cards"
+  ],
+  "seasons": {
+    "christmas": [
+      "christmas",
+      "xmas"
+    ],
+    "halloween": [
+      "halloween"
+    ],
+    "autumn": [
+      "autumn",
+      "fall"
+    ],
+    "winter": [
+      "winter"
+    ],
+    "spring": [
+      "spring"
+    ],
+    "summer": [
+      "summer"
+    ],
+    "easter": [
+      "easter"
+    ],
+    "valentines": [
+      "valentine",
+      "valentines"
+    ],
+    "thanksgiving": [
+      "thanksgiving"
+    ]
+  },
+  "topics": {
+    "budget": [
+      "budget",
+      "budgeting",
+      "finance",
+      "financial"
+    ]
+  },
+  "map": {
+    "colouring-book:autumn": "Autumn Printables",
+    "colouring-book:halloween": "Halloween",
+    "colouring-book:christmas": "Christmas",
+    "activity-book:halloween": "Halloween",
+    "activity-book:christmas": "Christmas",
+    "greeting-card:christmas": "Christmas",
+    "greeting-card:halloween": "Halloween",
+    "*:christmas": "Christmas",
+    "*:halloween": "Halloween",
+    "*:autumn": "Autumn Printables",
+    "*:budget": "Budget & Finance",
+    "colouring-book": "Colouring Books",
+    "activity-book": "Activity Books",
+    "greeting-card": "Greeting Cards",
+    "crochet-pattern-bundle": "Crochet Patterns"
+  }
+}

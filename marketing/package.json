@@ -1,0 +1,25 @@
+{
+  "name": "@dpf/marketing",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic Etsy listing-image engine: Stage 3 facts, claims, creative direction and route contracts (src/stage3/) rendered from real product artwork with Playwright/Chromium (network hard-blocked), plus Visual and Marketing-Claim QC. Introduced by ADR-011; Stage 3 by ADR-025.",
+  "engines": {
+    "node": ">=22.6.0"
+  },
+  "exports": {
+    ".": "./src/index.mjs",
+    "./design-system": "./src/design-system/index.mjs",
+    "./render": "./src/render.mjs",
+    "./compose": "./src/compose.mjs",
+    "./claims": "./src/claims.mjs",
+    "./qc": "./src/qc.mjs",
+    "./product-metadata": "./src/product-metadata.mjs"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\""
+  },
+  "dependencies": {
+    "playwright": "1.62.1"
+  }
+}

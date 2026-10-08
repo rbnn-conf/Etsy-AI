@@ -1,0 +1,156 @@
+{
+  "tag_candidates": [
+    "adult colouring",
+    "autumn colouring",
+    "colouring book",
+    "harvest colouring",
+    "fall colouring pages",
+    "seasonal colouring",
+    "garden colouring",
+    "food colouring",
+    "produce colouring",
+    "botanical line art",
+    "cosy colouring",
+    "relaxing activity",
+    "print at home",
+    "digital colouring",
+    "a4 colouring pages",
+    "us letter pages",
+    "market stall art",
+    "pumpkin colouring",
+    "apple colouring",
+    "nature colouring"
+  ],
+  "tags": [
+    {
+      "candidate": "adult colouring",
+      "tag": "adult colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "autumn colouring",
+      "tag": "autumn colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "colouring book",
+      "tag": "colouring book",
+      "result": "kept"
+    },
+    {
+      "candidate": "harvest colouring",
+      "tag": "harvest colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "fall colouring pages",
+      "tag": "fall colouring pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "seasonal colouring",
+      "tag": "seasonal colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "garden colouring",
+      "tag": "garden colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "food colouring",
+      "tag": "food colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "produce colouring",
+      "tag": "produce colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "botanical line art",
+      "tag": "botanical line art",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy colouring",
+      "tag": "cosy colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "relaxing activity",
+      "tag": "relaxing activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "print at home",
+      "tag": "print at home",
+      "result": "kept"
+    },
+    {
+      "candidate": "digital colouring",
+      "tag": "digital colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "a4 colouring pages",
+      "tag": "a4 colouring pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "us letter pages",
+      "tag": "us letter pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "market stall art",
+      "tag": "market stall art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "pumpkin colouring",
+      "tag": "pumpkin colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "apple colouring",
+      "tag": "apple colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "nature colouring",
+      "tag": "nature colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF",
+      "material": "Digital PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG pages",
+      "material": "PNG pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "ZIP files",
+      "material": "ZIP files",
+      "result": "kept"
+    }
+  ],
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

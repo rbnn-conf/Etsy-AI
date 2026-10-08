@@ -1,0 +1,147 @@
+{
+  "pattern_id": "starlit-anemone",
+  "name": "Starlit Anemone",
+  "category": "flower",
+  "difficulty": "easy",
+  "finished_size": "About 7 cm across",
+  "yarn": [
+    {
+      "description": "Fine cotton or cotton-blend yarn for petals",
+      "colour": "Dusky periwinkle",
+      "amount": "Approx. 4 g"
+    },
+    {
+      "description": "Fine cotton or cotton-blend yarn for centre",
+      "colour": "Midnight charcoal",
+      "amount": "Approx. 1 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Sharp scissors",
+    "Small pins and blocking mat, optional"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "hdc dec",
+    "bobble"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "hdc dec": "half double crochet decrease: work 2 hdc together",
+    "bobble": "4-dc bobble: work 4 partial dc in one stitch, then close all loops",
+    "MR": "magic ring",
+    "rnd": "round",
+    "rep": "repeat",
+    "inc": "increase: work 2 sc in the same stitch",
+    "yo": "yarn over"
+  },
+  "gauge": "Gauge is not critical because this is a decorative flower. Use a firm tension so the centre holds its shape.",
+  "instructions": [
+    {
+      "heading": "Textured Centre",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With centre yarn, make an MR. Ch 1, work 6 sc in the MR, then join with sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each sc around. Join with sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, *sc in next stitch, bobble in next stitch; rep from * 5 more times. Push each bobble to the right side. Join with sl st to the first sc.",
+          "stitch_count": 12
+        }
+      ]
+    },
+    {
+      "heading": "Petals (make 6)",
+      "steps": [
+        {
+          "label": "Foundation",
+          "text": "With petal yarn, ch 4.",
+          "stitch_count": null
+        },
+        {
+          "label": "Row 1",
+          "text": "Sc in second ch from hook, hdc in next ch, dc in last ch. Turn.",
+          "stitch_count": 3
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 2, work 2 dc in first stitch, dc in next stitch, 2 dc in last stitch. Turn.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 2, work 2 dc in first stitch, dc in each of the next 3 stitches, 2 dc in last stitch. Turn.",
+          "stitch_count": 7
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 2, work 2 dc in first stitch, dc in each of the next 5 stitches, 2 dc in last stitch. Turn.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 1, sc in each stitch across. Turn.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 2, hdc dec over first 2 stitches, hdc in each of the next 5 stitches, hdc dec over last 2 stitches. Turn.",
+          "stitch_count": 7
+        },
+        {
+          "label": "Row 7",
+          "text": "Ch 2, hdc dec over first 2 stitches, hdc in each of the next 3 stitches, hdc dec over last 2 stitches. Turn.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Row 8",
+          "text": "Ch 2, hdc dec over first 2 stitches, hdc in next stitch, hdc dec over last 2 stitches. Turn.",
+          "stitch_count": 3
+        },
+        {
+          "label": "Row 9",
+          "text": "Ch 1, sc in each stitch across. Leave the working loop in place for fastening off.",
+          "stitch_count": 3
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Fasten off each petal as described in Finishing, retaining its 20 cm yarn tail. Place the centre right side up, with the bobbles facing front.",
+    "Position one petal behind each sc from Rnd 3 of the centre. Arrange the 3-stitch Row 1 edge of every petal against the centre so the petals radiate evenly.",
+    "Using each petal's retained tail, sew through all 3 stitches of its Row 1 edge and through the corresponding sc of Rnd 3. Secure each petal with two small stitches on the reverse side."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the centre after Rnd 3, leaving a 10 cm tail. Fasten off each petal after Row 9, leaving a 20 cm tail: cut yarn, pull the tail through the final loop, and tighten.",
+    "After assembly, weave the centre tail and all petal sewing tails through nearby reverse-side stitches. Trim the tails close without cutting the fabric.",
+    "Lightly block the petals into a gentle open cup shape. Pin the petals evenly, mist lightly if suitable for the yarn, and allow them to dry completely."
+  ],
+  "notes": [
+    "Turning chains do not count as stitches throughout.",
+    "To make a bobble, yo, insert hook in the indicated stitch, yo and pull up a loop, yo and pull through 2 loops. Rep this partial dc 3 more times in the same stitch, then yo and pull through all 5 loops on the hook."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

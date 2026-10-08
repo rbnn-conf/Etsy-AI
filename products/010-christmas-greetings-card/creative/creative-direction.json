@@ -1,0 +1,35 @@
+{
+  "illustration_style": "Hand-painted festive watercolour stationery with original botanical and winter storytelling motifs, balancing a refined handmade feel with clear card-front readability.",
+  "line_weight": "Very fine, selective charcoal-pencil or ink accents; no heavy outlines.",
+  "line_quality": "Gently irregular, organic and hand-rendered, used sparingly to define small details.",
+  "detail_level": "Moderate detail concentrated in one clear focal illustration, with secondary marks kept airy and restrained for reliable home printing.",
+  "character_language": "Softly naturalistic storybook characters with rounded silhouettes, subtle facial features and understated expressive gestures.",
+  "background_density": "Predominantly clean warm-white space; any scenic detail is contained, lightly layered and allowed to recede behind the focal point.",
+  "composition": "Centred or softly asymmetrical focal hierarchy with generous breathing room and a clearly reserved area for an original greeting; framed vignettes may use broad unprinted borders.",
+  "palette": "Muted heritage Christmas palette of evergreen, sage, olive, cranberry, brick red, warm brown, cream, soft grey and frosty blue-grey; red used as a restrained accent.",
+  "colour_mode": "full colour",
+  "shading": "Transparent layered washes with gentle wet-on-dry modelling, soft cool winter shadows and occasional warm accents; never glossy or digitally airbrushed.",
+  "texture": "Fine cold-pressed paper grain, mottled watercolour pigment, delicate dry-brush foliage marks and subtle hand-painted variation.",
+  "mood": "Warm, nostalgic, peaceful and quietly celebratory.",
+  "age_suitability": "General family audience.",
+  "print_considerations": "Designed for an A4 or US Letter folded-card layout with light warm backgrounds, broad safe margins and no essential detail near folds or trim lines. Keep dark pigment coverage moderate and preserve sufficient tonal separation so fine details reproduce clearly on home printers.",
+  "shared_prompt": "Original hand-painted festive watercolour stationery illustration on subtly textured warm-white paper, with transparent layered pigment, gentle dry-brush marks and fine selective charcoal-pencil detail rather than bold outlines. Use moderate focal detail, generous breathing room, soft wintery light, muted evergreen, sage, cranberry, warm brown, cream and blue-grey hues, delicate cool shadows and a warm nostalgic handmade mood. Characters, where present, are softly naturalistic and storybook-like, with rounded forms, subtle faces and restrained gestures; preserve clear hierarchy and home-print-friendly tonal contrast.",
+  "avoid": [
+    "Any copied reference-card artwork, layouts, icon grids, motifs, characters, message wording or drawn lettering",
+    "The reference mouse potting-bench scene, its props, clothing, staging or composition",
+    "Logos, trademarks, interfaces, product-photography props, hands, envelopes and mock-up elements",
+    "Photorealism, glossy 3D rendering, harsh black outlines or neon seasonal colours",
+    "Overcrowded card fronts, full-bleed dark backgrounds and detail too fine for home printing",
+    "Misspelled text, illegible greetings or unlicensed fonts"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "references",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": null,
+  "created_at": "2026-09-28T16:18:10.869Z"
+}

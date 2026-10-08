@@ -1,0 +1,192 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stage 3 Etsy listing (model output; validated again locally)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "title",
+    "description",
+    "tag_candidates",
+    "materials",
+    "suggested_price_gbp",
+    "pricing_rationale",
+    "category_suggestion",
+    "occasion",
+    "primary_colour",
+    "secondary_colour",
+    "hook",
+    "customer_summary",
+    "what_you_receive",
+    "printing_summary",
+    "digital_download_disclaimer",
+    "listing_claims"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 140,
+      "description": "Etsy title, search intent first: primary search phrase, product type / subject, key differentiator, secondary search intent. Never the internal product name (it can appear in the description). Not all capitals, no emoji, no keyword lists."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 5000,
+      "description": "Warm Etsy description in plain text, in this order: emotional hook (never file types first), product experience, designs, what you receive (bullets), how it works, emotional use case with a soft closing line, digital product disclosure last. Short paragraphs, emoji per the strategy, no markdown symbols, no em dashes beyond two. Must say it is a digital download and no physical item is shipped."
+    },
+    "tag_candidates": {
+      "type": "array",
+      "minItems": 13,
+      "maxItems": 30,
+      "description": "A pool of 18-20 concise Etsy search phrases, best first, mixing product, occasion, style, recipient/use and format. Code, not you, picks the final 13 Etsy tags: it discards any candidate over 20 characters, with other characters, duplicated (ignoring case), or beyond 6 that use only title words. So prefer phrases of 20 characters or fewer, make them genuinely different, and give enough that some can be discarded. No keyword stuffing.",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "description": "One search phrase. Aim for 20 characters or fewer (Etsy counts every character, spaces included). Letters, numbers, spaces, apostrophes and hyphens only."
+      }
+    },
+    "materials": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 13,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "description": "One material, 45 characters or fewer; letters, numbers, spaces, apostrophes and hyphens only (code drops entries that are not)."
+      },
+      "description": "What the customer receives, e.g. \"Digital PDF\", \"PNG artwork files\". Keep each entry short and plain."
+    },
+    "suggested_price_gbp": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 100,
+      "description": "Advisory GBP price as a plain JSON number of pounds, with at most 2 decimals (e.g. 4.99, 6.5 or 12). Never a string: no £ sign, no range, no words. The owner decides the real price."
+    },
+    "pricing_rationale": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300,
+      "description": "One or two sentences."
+    },
+    "category_suggestion": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "description": "Suggested Etsy category path, e.g. \"Paper & Party Supplies > Paper > Greeting Cards\"."
+    },
+    "occasion": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 40
+    },
+    "primary_colour": {
+      "type": "string",
+      "enum": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Bronze",
+        "Brown",
+        "Clear",
+        "Copper",
+        "Gold",
+        "Grey",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Rainbow",
+        "Red",
+        "Rose gold",
+        "Silver",
+        "White",
+        "Yellow"
+      ]
+    },
+    "secondary_colour": {
+      "type": "string",
+      "enum": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Bronze",
+        "Brown",
+        "Clear",
+        "Copper",
+        "Gold",
+        "Grey",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Rainbow",
+        "Red",
+        "Rose gold",
+        "Silver",
+        "White",
+        "Yellow"
+      ]
+    },
+    "hook": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "description": "One short marketing line."
+    },
+    "customer_summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 400,
+      "description": "Two or three customer-facing sentences: what it is, why it is appealing, the main differentiator, how it is delivered. Not a compressed file list."
+    },
+    "what_you_receive": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 10,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 120
+      }
+    },
+    "printing_summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 500
+    },
+    "digital_download_disclaimer": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300,
+      "description": "States clearly that this is a digital download and that no physical item is shipped."
+    },
+    "listing_claims": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 12,
+      "description": "The key customer-facing factual claims the listing makes, each mapped to one allowed claim key. Target 6-10 strong claims; never more than 12. Prefer fewer strong claims over restating every production fact; no separate claims for trivial implementation details. Do not add claims just to fill capacity.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "key",
+          "text"
+        ],
+        "properties": {
+          "key": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40,
+            "description": "One of the allowed listing_claims keys given in the user message. Keys may repeat across claims."
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 120,
+            "description": "The short claim text exactly as used in the listing."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "product_id": "023",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-07T21:47:36.453Z",
+  "finished_at": "2026-10-07T21:49:28.097Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Spooky colouring book cartoon for adult NOT Fine LINE\".\nConcept \"Midnight Monster Diner Colouring Book\": a colouring book for Adults who enjoy bold, humorous Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Monster diners\n- Scene: All-night roadside diner\n- Focal object: Towering haunted milkshake\n- Composition: Wide counter scenes with bold central food props\n- Lighting: Neon-sign night glow\n- Palette emphasis: Monochrome black ink and white space\n- Mood: Cheeky, nostalgic and mischievous\n- Typography: Chunky retro diner lettering\n- Distinguishing hook: Monsters ordering bizarre midnight comfort food\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Cryptid travellers / Moonlit desert highway / Cursed camper van / Sharp moonlight and distant neon\n- C: Funfair fiends / Abandoned twilight carnival / Grinning ferris wheel / Twilight sky with carnival bulb glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T21:47:47.369Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Midnight Monster Diner Colouring Book",
+        "tagline": "Bold retro scares for grown-up colourists",
+        "product_type": "Adult spooky cartoon colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy bold, humorous Halloween colouring",
+        "page_count": 21,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "20 single-sided colouring pages",
+          "Printing and colouring guide"
+        ],
+        "short_description": "A 21-page adult colouring book set in a gloriously ghoulish all-night diner, with monster patrons, haunted desserts, bizarre jukeboxes and retro roadside details. Designed for relaxed colouring with satisfyingly bold spaces rather than delicate fine-line detail.",
+        "key_features": [
+          "Bold black cartoon outlines, not fine line art",
+          "20 distinct single-sided spooky diner scenes",
+          "Large, easy-to-colour areas with playful secondary details",
+          "Humorous retro horror atmosphere for adult colourists",
+          "Home-printable portrait pages for A4 and US Letter paper",
+          "Front cover and simple printing guide included"
+        ],
+        "visual_direction_summary": "Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.",
+        "visual_route": {
+          "primary_subject": "Monster diners",
+          "scene": "All-night roadside diner",
+          "focal_object": "Towering haunted milkshake",
+          "composition": "Wide counter scenes with bold central food props",
+          "lighting": "Neon-sign night glow",
+          "palette_emphasis": "Monochrome black ink and white space",
+          "emotional_tone": "Cheeky, nostalgic and mischievous",
+          "typography_approach": "Chunky retro diner lettering",
+          "distinguishing_visual_hook": "Monsters ordering bizarre midnight comfort food"
+        },
+        "preview_brief": "A bold black-and-white cover shows a lineup of eccentric monsters at a glowing roadside diner counter, centred around an enormous haunted milkshake. Chunky retro title lettering arches above, with broad colourable areas and playful menu-board details."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Spooky colouring book cartoon for adult NOT Fine LINE\".\nConcept \"Cryptid Road Trip Colouring Book\": a colouring book for Adults who enjoy cryptids, vintage travel and comic spooky art.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Cryptid travellers\n- Scene: Moonlit desert highway\n- Focal object: Cursed camper van\n- Composition: Winding road leading towards oversized roadside signs\n- Lighting: Sharp moonlight and distant neon\n- Palette emphasis: Monochrome black ink and white space\n- Mood: Odd, adventurous and wry\n- Typography: Distressed vintage travel lettering\n- Distinguishing hook: Cryptids touring supernatural roadside landmarks\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Monster diners / All-night roadside diner / Towering haunted milkshake / Neon-sign night glow\n- C: Funfair fiends / Abandoned twilight carnival / Grinning ferris wheel / Twilight sky with carnival bulb glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T21:49:18.451Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Cryptid Road Trip Colouring Book",
+        "tagline": "Offbeat roadside horror for adults",
+        "product_type": "Adult spooky cartoon colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy cryptids, vintage travel and comic spooky art",
+        "page_count": 21,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "20 single-sided colouring pages",
+          "Printing and colouring guide"
+        ],
+        "short_description": "A 21-page adult colouring book following oddball cryptids along strange moonlit highways, from alien petrol stations to cursed motels and giant roadside attractions. The bold cartoon artwork favours substantial colourable shapes and comic detail over intricate fine lines.",
+        "key_features": [
+          "Bold black cartoon outlines, not fine line art",
+          "20 distinct cryptid travel and roadside scenes",
+          "Large colourable shapes with medium-detail scenery",
+          "Vintage travel-poster energy with spooky humour",
+          "Home-printable portrait pages for A4 and US Letter paper",
+          "Front cover and simple printing guide included"
+        ],
+        "visual_direction_summary": "Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.",
+        "visual_route": {
+          "primary_subject": "Cryptid travellers",
+          "scene": "Moonlit desert highway",
+          "focal_object": "Cursed camper van",
+          "composition": "Winding road leading towards oversized roadside signs",
+          "lighting": "Sharp moonlight and distant neon",
+          "palette_emphasis": "Monochrome black ink and white space",
+          "emotional_tone": "Odd, adventurous and wry",
+          "typography_approach": "Distressed vintage travel lettering",
+          "distinguishing_visual_hook": "Cryptids touring supernatural roadside landmarks"
+        },
+        "preview_brief": "A black-and-white cover depicts a cursed camper van rolling along a moonlit desert highway, packed with cheerful cryptid travellers and framed by oversized eerie roadside signs. The title sits in bold distressed travel-poster lettering above the open night sky."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Spooky colouring book cartoon for adult NOT Fine LINE\".\nConcept \"Haunted Funfair After Dark Colouring Book\": a colouring book for Adults who like whimsical dark carnival art and bold colouring pages.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Funfair fiends\n- Scene: Abandoned twilight carnival\n- Focal object: Grinning ferris wheel\n- Composition: Towering ride silhouette above clustered midway stalls\n- Lighting: Twilight sky with carnival bulb glow\n- Palette emphasis: Monochrome black ink and white space\n- Mood: Eerie, theatrical and exuberant\n- Typography: Hand-drawn circus marquee lettering\n- Distinguishing hook: A ferris wheel with a mischievous face\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Monster diners / All-night roadside diner / Towering haunted milkshake / Neon-sign night glow\n- B: Cryptid travellers / Moonlit desert highway / Cursed camper van / Sharp moonlight and distant neon\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T21:49:27.931Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Haunted Funfair After Dark Colouring Book",
+        "tagline": "Big-top chills for adult colourists",
+        "product_type": "Adult spooky cartoon colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who like whimsical dark carnival art and bold colouring pages",
+        "page_count": 21,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "20 single-sided colouring pages",
+          "Printing and colouring guide"
+        ],
+        "short_description": "A 21-page adult colouring book exploring a delightfully sinister funfair after closing time, with mischievous ride operators, bewitched prizes, living arcade machines and spectacularly spooky attractions. Strong cartoon linework makes every page enjoyable to colour without fine-line fuss.",
+        "key_features": [
+          "Bold black cartoon outlines, not fine line art",
+          "20 distinct after-dark funfair scenes",
+          "Clear focal shapes and satisfying colourable pattern areas",
+          "Whimsical dark carnival theme without graphic horror",
+          "Home-printable portrait pages for A4 and US Letter paper",
+          "Front cover and simple printing guide included"
+        ],
+        "visual_direction_summary": "Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.",
+        "visual_route": {
+          "primary_subject": "Funfair fiends",
+          "scene": "Abandoned twilight carnival",
+          "focal_object": "Grinning ferris wheel",
+          "composition": "Towering ride silhouette above clustered midway stalls",
+          "lighting": "Twilight sky with carnival bulb glow",
+          "palette_emphasis": "Monochrome black ink and white space",
+          "emotional_tone": "Eerie, theatrical and exuberant",
+          "typography_approach": "Hand-drawn circus marquee lettering",
+          "distinguishing_visual_hook": "A ferris wheel with a mischievous face"
+        },
+        "preview_brief": "A high-contrast black-and-white cover features a towering grinning ferris wheel above a crooked twilight midway, where funfair fiends tend glowing stalls and peculiar prizes. Hand-drawn circus marquee lettering fills the upper space, leaving bold open areas for colouring."
+      }
+    }
+  ]
+}

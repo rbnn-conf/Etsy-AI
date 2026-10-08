@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "product_id": "022",
+  "product_name": "Hollowbone Manor Masquerade",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Adult Halloween Colouring Book | Gothic Skeleton Masquerade Line Art, Instant Digital Download",
+    "description": "Settle in for a cosy-spooky colouring session inside a manor where every masked guest has a secret. 🕯️ This elegant Halloween book brings a little playful mystery to your creative time.\n\nHollowbone Manor Masquerade is filled with sophisticated monochrome pen-and-ink illustrations of skeleton masqueraders in a decaying manor ballroom draped with autumn garlands. Decorative architecture and ornate surfaces offer satisfying detail, while generous open areas keep each page comfortable to colour. The result is candlelit seasonal warmth with a deliciously ominous twist. 🎃\n\nA few scenes from the masquerade\n\nThe Iron Gate opens on cloaked skeletal guests approaching a weathered Gothic manor, with pumpkins, ivy, bare branches and a crescent moon overhead.\n\nThe Grand Stair sweeps beneath carved arches as costumed skeletons descend among jack-o'-lanterns, autumn foliage and candle sconces.\n\nRaven's Toast brings a raven-beak-masked guest to a moonlit conservatory, complete with curling vines, leaded glass and a perched raven.\n\nThe Midnight Supper sets an elaborate banquet beneath candelabra and tapestries, while The Skeleton Orchestra fills a carved balcony with five skeletal musicians and decorative swirling music.\n\nWhat you receive\n• 24 colouring pages\n• 25 pages including the cover\n• Black-and-white line art to colour in\n• A4 PDF files\n• US Letter PDF files\n• PNG pages for every page\n• Printing guide included\n• Instant digital download in 5 ZIP files\n\nHow it works\n\nDownload your files, choose your preferred format, print the pages you would like to colour, then enjoy bringing the manor's masquerade to life in your own way.\n\nFor a calm Halloween evening, a seasonal creative break, or simply a little gothic storybook atmosphere, these pages invite you to linger in the mystery. Let the masked ball begin. 🖤\n\nThis is a digital download and no physical item is shipped.",
+    "tags": [
+      "adult colouring",
+      "gothic colouring",
+      "skeleton colouring",
+      "halloween activity",
+      "spooky line art",
+      "masquerade art",
+      "gothic manor",
+      "colouring pages",
+      "autumn colouring",
+      "pumpkin colouring",
+      "adult colouring pdf",
+      "print at home",
+      "instant download"
+    ],
+    "materials": [
+      "Digital PDF",
+      "PNG pages",
+      "A4 PDF",
+      "US Letter PDF",
+      "Printing guide",
+      "ZIP files"
+    ],
+    "price": {
+      "amount": 6.99,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 339,
+      "path": "Books, Movies & Music > Books > Coloring Books",
+      "source": "owner-approved mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Books, Movies & Music > Books > Coloring Books"
+    }
+  },
+  "properties": {
+    "apply": [
+      {
+        "field": "primary_colour",
+        "property_id": 200,
+        "property_name": "Primary color",
+        "value_ids": [
+          1
+        ],
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "field": "secondary_colour",
+        "property_id": 52047899002,
+        "property_name": "Secondary color",
+        "value_ids": [
+          10
+        ],
+        "values": [
+          "White"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Halloween",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "4b129664d07c6096c722b48486bde6550c781957b4cd88bfdae8f6514cdcb801",
+      "bytes": 5837706,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-preview.png",
+      "sha256": "2fd2e846c9c50292c9646c56d8d62497e88fac833829c51949176141c321f2e7",
+      "bytes": 4628352,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-contents.png",
+      "sha256": "a96173cc94e53ebcb3bf2c63003e9a8356203a5145458ea4c5a81c67485b9529",
+      "bytes": 4199585,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "8bbf38ddbc7e379f12e240dbffe9a25f113724b928a14fd087e4c99b5c0ce82f",
+      "bytes": 4269093,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "52e70e9ffd2af70cf1c1268a88a1fa5578c294ad47854cf730f4777cc375682a",
+      "bytes": 4381723,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-lifestyle.png",
+      "sha256": "253bbe73f9e80ed2d6e4e784bb3b42fbb5c5628c25d379334abef51c6cac4d66",
+      "bytes": 4836494,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-showcase.png",
+      "sha256": "a6765388ef2f7e23679a87e3584f400865e143a8ce7d16205025233db63ffac5",
+      "bytes": 3535983,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-download.png",
+      "sha256": "332bb0bb81fd8bf818c8801d56dd6e35e3097e9d8b2f3a73d1c5b75de8d2c709",
+      "bytes": 1563600,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-cozy.png",
+      "sha256": "b97bcc71aee21c330f2b413e33e2de7cb15b0a45033eb778cc163cb09722c11c",
+      "bytes": 4624002,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "fa232621dac0a1fda3129747a7d9f62b373c9ed45f26b082e1f241ad1d75d175",
+      "bytes": 3491487,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Hollowbone-Manor-Masquerade-A4.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-A4.zip",
+      "sha256": "168744358f0cfaca6df967ab7b8efb79cee47a0b0549917f6018309d12749021",
+      "bytes": 13900347
+    },
+    {
+      "rank": 2,
+      "name": "Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-US-Letter-and-Colouring-Pages-PNG-01-02.zip",
+      "sha256": "6706e051d5ec132a8baf5ca67271b233958e1a6d18cdec50ade23837a6632f5c",
+      "bytes": 18820448
+    },
+    {
+      "rank": 3,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-03-10.zip",
+      "sha256": "f1ea7421fc16098474d19ed3f801ee6493ef987a1544e33938e2a68ab426e7cb",
+      "bytes": 18416857
+    },
+    {
+      "rank": 4,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-11-18.zip",
+      "sha256": "c5d2b81ba9e830cb0a2ee676873b4e17332973b9de49172328322c2300777e0d",
+      "bytes": 18841736
+    },
+    {
+      "rank": 5,
+      "name": "Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip",
+      "file": "etsy/delivery/Hollowbone-Manor-Masquerade-Colouring-Pages-PNG-19-25.zip",
+      "sha256": "9fa53507e3d69e5c4053f95f78b543cf39bdd547a2bba6cf2981a2a3e3bca20e",
+      "bytes": 15293480
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "8c8185e5c6f9d742b61fb653ad780cc001e767748a47ee7df65bdb3ab8a91a8c",
+    "stage3_fingerprint": "19db94f34559a6d1b645094448475208f2dd87d62433f9ba482b4669c02bb7f1",
+    "listing_sha256": "04d71a5aa6eb2ec01a22e52e93041347068f92a29937fd905650a3df876b8740",
+    "delivery_sha256": "96737c3361b3e3d2b0c04b87f03c1cd417eab032952c76d00a532468d88b7a6f",
+    "marketing_approved_at": "2026-10-07T21:19:45.794Z"
+  },
+  "payload_sha256": "7c4ab749e59173e105f6b5e57f81d208eea9075714b6b69a3fa5f8257fced498",
+  "prepared_at": "2026-10-07T21:41:02.924Z"
+}

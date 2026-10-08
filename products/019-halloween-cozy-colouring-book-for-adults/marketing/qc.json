@@ -1,0 +1,101 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "production package unchanged",
+      "ok": true,
+      "detail": "Stage 2 records and deliverables re-verified"
+    },
+    {
+      "name": "listing meets Etsy constraints and claims",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image copy claims supported",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image count matches plan",
+      "ok": true,
+      "detail": "10 of 10"
+    },
+    {
+      "name": "image files present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank or corrupt images",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every image shows the real product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork traceable to Stage 2",
+      "ok": true,
+      "detail": "12 traced sources"
+    },
+    {
+      "name": "AI backgrounds never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coloured examples generated",
+      "ok": true,
+      "detail": "example-p2 ok"
+    },
+    {
+      "name": "coloured examples never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coloured examples labelled as examples",
+      "ok": true,
+      "detail": "every example slide states it is a coloured example"
+    },
+    {
+      "name": "product artwork not stretched",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork dominates each image",
+      "ok": true,
+      "detail": "01-hero 46%, 02-interior 47%, 03-collage 41%, 04-coloured 10%, 05-before-after 23%, 06-included 17%, 07-printable 9%, 08-features 32%, 09-lifestyle 33%, 10-bundle 33%"
+    },
+    {
+      "name": "headline legible at 300 px thumbnail",
+      "ok": true,
+      "detail": "every headline ≥ 87 px on the 2000 px canvas"
+    },
+    {
+      "name": "headline text rendered by code from the plan",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "300x300 thumbnails generated",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "visual QC and stamped claims",
+      "ok": true,
+      "detail": "63/63 checks; 36/36 stamped claims verified"
+    }
+  ],
+  "at": "2026-10-06T14:59:00.490Z"
+}

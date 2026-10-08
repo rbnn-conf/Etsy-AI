@@ -1,0 +1,166 @@
+{
+  "tag_candidates": [
+    "adult colouring",
+    "halloween printable",
+    "garden colouring",
+    "spooky garden",
+    "autumn colouring",
+    "cosy gothic",
+    "moonlit garden",
+    "relaxing activity",
+    "botanical line art",
+    "potting shed",
+    "pumpkin colouring",
+    "ghost colouring",
+    "scarecrow colouring",
+    "black cat art",
+    "herb garden art",
+    "A4 colouring pages",
+    "US letter printable",
+    "PNG colouring pages",
+    "printable PDF",
+    "halloween art"
+  ],
+  "tags": [
+    {
+      "candidate": "adult colouring",
+      "tag": "adult colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "halloween printable",
+      "tag": "halloween printable",
+      "result": "kept"
+    },
+    {
+      "candidate": "garden colouring",
+      "tag": "garden colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "spooky garden",
+      "tag": "spooky garden",
+      "result": "kept"
+    },
+    {
+      "candidate": "autumn colouring",
+      "tag": "autumn colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy gothic",
+      "tag": "cosy gothic",
+      "result": "kept"
+    },
+    {
+      "candidate": "moonlit garden",
+      "tag": "moonlit garden",
+      "result": "kept"
+    },
+    {
+      "candidate": "relaxing activity",
+      "tag": "relaxing activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "botanical line art",
+      "tag": "botanical line art",
+      "result": "kept"
+    },
+    {
+      "candidate": "potting shed",
+      "tag": "potting shed",
+      "result": "kept"
+    },
+    {
+      "candidate": "pumpkin colouring",
+      "tag": "pumpkin colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "ghost colouring",
+      "tag": "ghost colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "scarecrow colouring",
+      "tag": "scarecrow colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "black cat art",
+      "tag": "black cat art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "herb garden art",
+      "tag": "herb garden art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "A4 colouring pages",
+      "tag": "a4 colouring pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "US letter printable",
+      "tag": "us letter printable",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "PNG colouring pages",
+      "tag": "png colouring pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "printable PDF",
+      "tag": "printable pdf",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "halloween art",
+      "tag": "halloween art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF files",
+      "material": "Digital PDF files",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG pages",
+      "material": "PNG pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 format",
+      "material": "A4 format",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter format",
+      "material": "US Letter format",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Books, Movies & Music > Books > Coloring Books",
+    "final": "Books, Movies & Music > Books > Coloring Books",
+    "source": "canonical colouring-book category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

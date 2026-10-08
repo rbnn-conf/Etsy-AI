@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "mode": "EXISTING_LISTING",
+  "snapshot_id": "traditional-robin-christmas-card",
+  "listing": {
+    "owner_reference": "Traditional Robin Christmas Card",
+    "repo_product": "009-christmas-greetings-card",
+    "etsy_listing_id": "4584343288",
+    "live_state_read": false
+  },
+  "title": "Printable Christmas Cards | Robin Card Set, Traditional Christmas Card, Instant Digital Download",
+  "tags": [
+    "printable xmas card",
+    "robin winter card",
+    "cosy festive card",
+    "storybook card",
+    "garden gate robin",
+    "holly robin card",
+    "neighbour christmas",
+    "friend xmas card",
+    "family xmas card",
+    "winter sunrise card",
+    "nostalgic christmas",
+    "a4 christmas card",
+    "us letter card"
+  ],
+  "description_excerpt": "Send a little cosy Christmas warmth with a card that feels like a treasured winter greeting. These illustrated designs bring heartfelt festive wishes to someone special. ✨",
+  "product_type": "Christmas greeting card",
+  "page_count": 3,
+  "formats": [
+    "A4 PDF",
+    "US Letter PDF",
+    "4x6 in panels",
+    "PNG artwork"
+  ],
+  "price": {
+    "amount": 4.25,
+    "currency": "GBP"
+  },
+  "category": null,
+  "notes": "From the approved Stage 4 draft payload. The live Etsy listing is not read; the owner may have edited it on Etsy since.",
+  "performance": {
+    "views": null,
+    "favourites": null,
+    "orders": null,
+    "revenue_minor": null
+  },
+  "source": {
+    "file": "products/009-christmas-greetings-card/etsy/payload.json",
+    "sha256": "ac93a423c9cc8522b0e91204d32de5aaf7bb8771dae12af63ae80eaa4044fdd7",
+    "kind": "repository listing file (non-live fixture)"
+  },
+  "captured_at": "2026-09-29T00:00:00.000Z"
+}

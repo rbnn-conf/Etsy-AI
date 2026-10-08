@@ -1,0 +1,135 @@
+{
+  "pattern_id": "woodland-fern",
+  "name": "Woodland Fern",
+  "category": "foliage",
+  "difficulty": "intermediate",
+  "finished_size": "About 17 cm long and 7 cm wide",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn for the fern frond",
+      "colour": "Deep moss green",
+      "amount": "About 15 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Sharp scissors",
+    "Blocking pins and blocking mat"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "rep": "repeat"
+  },
+  "gauge": "Gauge is not critical. Keep the chain spine relaxed so the frond lies flat and reaches the stated approximate length.",
+  "instructions": [
+    {
+      "heading": "Fern Frond",
+      "steps": [
+        {
+          "label": "Foundation",
+          "text": "Ch 51. Do not turn.",
+          "stitch_count": 51
+        },
+        {
+          "label": "Leaflets 1-6",
+          "text": "Rep 6 times: In the top loop of the next foundation ch, sl st, ch 3, sc in 2nd ch from hook, sc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Leaflets 7-13",
+          "text": "Rep 7 times: In the top loop of the next foundation ch, sl st, ch 4, sc in 2nd ch from hook, hdc in next ch, sc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Leaflets 14-21",
+          "text": "Rep 8 times: In the top loop of the next foundation ch, sl st, ch 5, sc in 2nd ch from hook, hdc in next ch, dc in next ch, hdc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Leaflets 22-29",
+          "text": "Rep 8 times: In the top loop of the next foundation ch, sl st, ch 9, sc in 2nd ch from hook, hdc in next ch, dc in next ch, tr in each of the next 2 ch, dc in next ch, hdc in next ch, sc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Leaflets 30-36",
+          "text": "Rep 7 times: In the top loop of the next foundation ch, sl st, ch 5, sc in 2nd ch from hook, hdc in next ch, dc in next ch, hdc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Leaflets 37-43",
+          "text": "Rep 7 times: In the top loop of the next foundation ch, sl st, ch 4, sc in 2nd ch from hook, hdc in next ch, sc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Leaflets 44-50",
+          "text": "Rep 7 times: In the top loop of the next foundation ch, sl st, ch 3, sc in 2nd ch from hook, sc in next ch, sl st in the same foundation ch.",
+          "stitch_count": null
+        },
+        {
+          "label": "Second Side 1-7",
+          "text": "Working back towards the hook end in the unused back bumps of the foundation ch, rep 7 times: In the next unworked back bump, sl st, ch 3, sc in 2nd ch from hook, sc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        },
+        {
+          "label": "Second Side 8-14",
+          "text": "Rep 7 times: In the next unworked back bump, sl st, ch 4, sc in 2nd ch from hook, hdc in next ch, sc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        },
+        {
+          "label": "Step 11",
+          "text": "Rep 7 times: In the next unworked back bump, sl st, ch 5, sc in 2nd ch from hook, hdc in next ch, dc in next ch, hdc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        },
+        {
+          "label": "Step 12",
+          "text": "Rep 8 times: In the next unworked back bump, sl st, ch 9, sc in 2nd ch from hook, hdc in next ch, dc in next ch, tr in each of the next 2 ch, dc in next ch, hdc in next ch, sc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        },
+        {
+          "label": "Step 13",
+          "text": "Rep 8 times: In the next unworked back bump, sl st, ch 5, sc in 2nd ch from hook, hdc in next ch, dc in next ch, hdc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        },
+        {
+          "label": "Step 14",
+          "text": "Rep 7 times: In the next unworked back bump, sl st, ch 4, sc in 2nd ch from hook, hdc in next ch, sc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        },
+        {
+          "label": "Step 15",
+          "text": "Rep 6 times: In the next unworked back bump, sl st, ch 3, sc in 2nd ch from hook, sc in next ch, sl st in the same back bump.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off after the final leaflet, leaving a 10 cm tail.",
+    "Weave in both yarn tails along the central spine on the reverse side.",
+    "Lightly mist and pin the frond flat, arranging the leaflets evenly on both sides of the spine. Let it dry completely."
+  ],
+  "notes": [
+    "The top loops are worked on the first pass along the foundation chain; the unused back bumps form the attachment points for the second side.",
+    "For a fuller fern, gently curve alternate leaflets in opposite directions while blocking."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

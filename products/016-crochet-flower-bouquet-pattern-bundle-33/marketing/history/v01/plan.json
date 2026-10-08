@@ -1,0 +1,241 @@
+{
+  "format": "crochet-pattern-bundle",
+  "campaign": "crochet-botanical",
+  "strategy": {
+    "family": "crochet_pattern",
+    "theme": "none",
+    "visual_marketing_mood": "premium warm lifestyle"
+  },
+  "slides": [
+    {
+      "template": "hero",
+      "density": "rich lifestyle",
+      "purpose": "Stop the scroll: the real collection cover and a pattern page on a crafting table.",
+      "min_product_share": 0.45,
+      "id": "01-hero",
+      "copy": {
+        "headline": {
+          "text": "33 Crochet\nPatterns",
+          "claim": [
+            "pattern-count",
+            "33 crochet patterns"
+          ]
+        },
+        "subline": {
+          "text": "Moonlit meadow crochet flower bouquets"
+        }
+      },
+      "scene": "env-01-hero"
+    },
+    {
+      "template": "interior",
+      "pattern": "garden-rose",
+      "name_headline": true,
+      "density": "artwork hero",
+      "purpose": "Inside the collection: one real pattern page at near full size.",
+      "min_product_share": 0.45,
+      "id": "02-interior",
+      "copy": {
+        "headline": {
+          "text": "Garden Rose",
+          "claim": [
+            "pattern-name",
+            "Garden Rose"
+          ]
+        },
+        "kicker": {
+          "text": "Pattern 01 of 33",
+          "claim": [
+            "pattern-number",
+            "Pattern 01 of 33"
+          ]
+        }
+      },
+      "scene": "env-02-interior"
+    },
+    {
+      "template": "collage",
+      "patterns": [
+        "garden-rose",
+        "twilight-lily",
+        "winter-camellia",
+        "golden-billy-button",
+        "woodland-fern",
+        "meadow-vase"
+      ],
+      "density": "product grid",
+      "purpose": "Many real pattern pages at once: the size of the collection.",
+      "min_product_share": 0.3,
+      "id": "03-collage",
+      "copy": {
+        "headline": {
+          "text": "33 patterns\nto make",
+          "claim": [
+            "pattern-count",
+            "33 patterns"
+          ]
+        }
+      }
+    },
+    {
+      "template": "index",
+      "density": "information",
+      "purpose": "The real pattern index: every pattern at a glance.",
+      "min_product_share": 0.3,
+      "id": "04-index",
+      "copy": {
+        "headline": {
+          "text": "Every pattern\nat a glance"
+        }
+      }
+    },
+    {
+      "template": "included",
+      "density": "structured information",
+      "purpose": "Everything in the download, as real files.",
+      "min_product_share": 0.12,
+      "id": "05-included",
+      "copy": {
+        "headline": {
+          "text": "What’s included"
+        }
+      }
+    },
+    {
+      "template": "printable",
+      "density": "clean information",
+      "purpose": "Download and printing information: what you get, nothing shipped.",
+      "min_product_share": 0.08,
+      "id": "06-printable",
+      "copy": {
+        "headline": {
+          "text": "Instant digital\ndownload",
+          "claim": [
+            "digital",
+            "Instant digital download"
+          ]
+        }
+      }
+    },
+    {
+      "template": "lifestyle",
+      "tone": true,
+      "density": "emotional lifestyle",
+      "purpose": "The real collection in a quiet crafting moment.",
+      "min_product_share": 0.35,
+      "id": "07-lifestyle",
+      "copy": {
+        "headline": {
+          "text": "Your quiet\ncrafting hour"
+        },
+        "subline": {
+          "text": "A peaceful place to settle in with your crochet.",
+          "by": "model"
+        }
+      },
+      "scene": "env-07-lifestyle"
+    },
+    {
+      "template": "bundle",
+      "patterns": [
+        "garden-rose",
+        "twilight-lily",
+        "winter-camellia",
+        "golden-billy-button",
+        "woodland-fern"
+      ],
+      "tone": true,
+      "density": "summary",
+      "purpose": "Final summary: the collection at a glance.",
+      "min_product_share": 0.3,
+      "id": "08-bundle",
+      "copy": {
+        "headline": {
+          "text": "Download,\nprint & crochet"
+        },
+        "subline": {
+          "text": "33 crochet patterns gathered in one digital collection.",
+          "by": "model"
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "env-01-hero",
+      "slide": "01-hero",
+      "purpose": "Stop the scroll: the real collection cover and a pattern page on a crafting table.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Poetic, romantic twilight-meadow calm with heirloom craft-table intimacy; refined rather than whimsical, letting the crochet texture lead..\nPalette: Warm oat linen, parchment cream, dusty blush, sage green, muted mauve and antique brass, with soft shadowed plum accents to flatter the approved artwork..\nLighting: golden evening light; Low golden window light with gentle side shadows, creating a quiet late-afternoon studio glow..\nScene: A warmly lit oat-linen crafting table with an antique brass snip, a softly blurred ceramic vessel and a few loose sage-green yarn strands in deep background. Build cinematic depth with a warm cream foreground and muted plum shadows. Keep the entire right half clear, bright and uncluttered for the product composite; leave the left third calm for copy.\nComposition: keep the right-hand two thirds of the frame as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, cinematic warm light, restrained premium styling, no clutter.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+      "sha256": "37fc9ca0e638414dcccedd3a3f016362c7d14e40c191315c6ea384bb7bb0fac3",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-02-interior",
+      "slide": "02-interior",
+      "purpose": "Inside the collection: one real pattern page at near full size.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Poetic, romantic twilight-meadow calm with heirloom craft-table intimacy; refined rather than whimsical, letting the crochet texture lead..\nPalette: Warm oat linen, parchment cream, dusty blush, sage green, muted mauve and antique brass, with soft shadowed plum accents to flatter the approved artwork..\nLighting: warm window light from the left; Low golden window light with gentle side shadows, creating a quiet late-afternoon studio glow..\nScene: An intimate close crop of a natural flax linen work surface, softly worn and warmly textured, with a blurred blush yarn cake and small antique brass stitch markers far back at upper right. Maintain a clean, evenly lit central vertical area for the product, with restrained negative space at the top for copy.\nComposition: keep the right-hand two thirds of the frame as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, cinematic warm light, restrained premium styling, no clutter.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/02-interior.png",
+      "sha256": "9ea73dcdd622ee44e204b3b57544bad33933c84a4e2a426ce623b088877cd4f9",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-07-lifestyle",
+      "slide": "07-lifestyle",
+      "purpose": "The real collection in a quiet crafting moment.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Poetic, romantic twilight-meadow calm with heirloom craft-table intimacy; refined rather than whimsical, letting the crochet texture lead..\nPalette: Warm oat linen, parchment cream, dusty blush, sage green, muted mauve and antique brass, with soft shadowed plum accents to flatter the approved artwork..\nLighting: warm window light from the right; Low golden window light with gentle side shadows, creating a quiet late-afternoon studio glow..\nScene: A quiet cottage craft nook with a warm walnut tabletop, soft oatmeal curtain glow at right and a distant blurred meadow-green ceramic vase. Add gentle golden bokeh depth and a folded flax textile at the lower edge. Keep the left half open and softly illuminated for the product composite, with the right upper area clear for copy.\nComposition: keep the left-hand two thirds of the frame as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the right area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, cinematic warm light, restrained premium styling, no clutter.\nDo NOT include: flowers of any kind, bouquets, crocheted or knitted items, amigurumi, finished handmade objects, anything made of yarn except plain skeins, patterns, charts, printed pages, paper, books, notebooks, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/07-lifestyle.png",
+      "sha256": "a68fd022b2537b3b97b6b8a4400f892b54187c1dd30df85eff4da2a174f635aa",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "engine": {
+    "id": "ai-creative",
+    "version": 1
+  },
+  "campaign_direction": {
+    "mood": "Poetic, romantic twilight-meadow calm with heirloom craft-table intimacy; refined rather than whimsical, letting the crochet texture lead.",
+    "palette": "Warm oat linen, parchment cream, dusty blush, sage green, muted mauve and antique brass, with soft shadowed plum accents to flatter the approved artwork.",
+    "lighting": "Low golden window light with gentle side shadows, creating a quiet late-afternoon studio glow."
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-06T06:48:28.817Z",
+  "directions": {
+    "01-hero": {
+      "id": "01-hero",
+      "archetype": "editorial-right",
+      "product_scale": 0.7,
+      "rotation": -3,
+      "perspective": 4,
+      "lighting": "golden evening light",
+      "decor": "sprigs",
+      "scene_brief": "A warmly lit oat-linen crafting table with an antique brass snip, a softly blurred ceramic vessel and a few loose sage-green yarn strands in deep background. Build cinematic depth with a warm cream foreground and muted plum shadows. Keep the entire right half clear, bright and uncluttered for the product composite; leave the left third calm for copy.",
+      "source": "model"
+    },
+    "02-interior": {
+      "id": "02-interior",
+      "archetype": "close-up",
+      "product_scale": 0.68,
+      "rotation": 1,
+      "perspective": 2,
+      "lighting": "warm window light from the left",
+      "decor": "none",
+      "scene_brief": "An intimate close crop of a natural flax linen work surface, softly worn and warmly textured, with a blurred blush yarn cake and small antique brass stitch markers far back at upper right. Maintain a clean, evenly lit central vertical area for the product, with restrained negative space at the top for copy.",
+      "source": "model"
+    },
+    "07-lifestyle": {
+      "id": "07-lifestyle",
+      "archetype": "editorial-left",
+      "product_scale": 0.62,
+      "rotation": -5,
+      "perspective": 5,
+      "lighting": "warm window light from the right",
+      "decor": "bokeh",
+      "scene_brief": "A quiet cottage craft nook with a warm walnut tabletop, soft oatmeal curtain glow at right and a distant blurred meadow-green ceramic vase. Add gentle golden bokeh depth and a folded flax textile at the lower edge. Keep the left half open and softly illuminated for the product composite, with the right upper area clear for copy.",
+      "source": "model"
+    }
+  }
+}

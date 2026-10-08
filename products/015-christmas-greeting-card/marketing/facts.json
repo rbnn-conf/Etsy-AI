@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "product_id": "015",
+  "product_name": "Starlit Village Post",
+  "product_type": "Christmas greeting card",
+  "product_format": "greeting-card",
+  "season": "Christmas",
+  "target_customer": "Adults seeking a warm, traditional festive card",
+  "designs": [
+    {
+      "id": "A",
+      "name": "Starlit Village Post",
+      "front": {
+        "asset": "proof-01",
+        "file": "production/deliverables/LumiumX-Starlit-Village-Post/Card-Artwork/LumiumX-Starlit-Village-Post-Front.png",
+        "sha256": "85cbae929bbd7458e4bfbf4dc8cd5979eaf9a8575abe11679481953d2822c080",
+        "width": 1024,
+        "height": 1536
+      },
+      "text": [
+        "Christmas Wishes"
+      ],
+      "back": "approved",
+      "files": [
+        {
+          "variant": "A4",
+          "file": "production/deliverables/LumiumX-Starlit-Village-Post/A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf",
+          "sha256": "c935bb9e443c3f2a974a50685f5a64f6133cd3879ba13be6a3ccea28265a4df8"
+        },
+        {
+          "variant": "US-Letter",
+          "file": "production/deliverables/LumiumX-Starlit-Village-Post/US-Letter/LumiumX-Starlit-Village-Post-Folded-Card-US-Letter.pdf",
+          "sha256": "5ac2660fb32484e3127d5fa59d705050078d400444f0e0984063420b5e7bca65"
+        },
+        {
+          "variant": "Card-Panels-4x6in",
+          "file": "production/deliverables/LumiumX-Starlit-Village-Post/Card-Panels-4x6in/LumiumX-Starlit-Village-Post-Card-Panels-4x6in.pdf",
+          "sha256": "1a97b7440ae53e8be3fe3085bfe433afa1ecfa2ae9e69f01b73b17d0ece300f2"
+        }
+      ]
+    }
+  ],
+  "insides": [
+    {
+      "asset": "proof-02",
+      "file": "production/deliverables/LumiumX-Starlit-Village-Post/Card-Artwork/LumiumX-Starlit-Village-Post-Inside.png",
+      "sha256": "ea5be568fed64d157419bfcf3fd64baf66c90481a80db4dc6b00c5923d0d9003",
+      "width": 1024,
+      "height": 1536,
+      "text": [
+        "Wishing you a Christmas filled with warmth, peace and hope."
+      ],
+      "shared_by": [
+        "A"
+      ]
+    }
+  ],
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 1
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 1
+    },
+    {
+      "key": "Card-Panels-4x6in",
+      "label": "4×6 in card panels",
+      "files": 1
+    }
+  ],
+  "original_artwork_files": 3,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Starlit-Village-Post/START-HERE-Printing-Guide.pdf",
+    "sha256": "f370124ec410e7f851b4b48e6dfb272404d726c290df58dd2c1d49886e927cdc"
+  },
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Starlit-Village-Post",
+    "zip_mb": 17.4,
+    "zip_sha256": "fed45a48a307809a6d50db12494feffea6ffa6d4afd51f81a3f2d6d786286f30"
+  },
+  "card_size_mm": {
+    "A4": [
+      124,
+      186
+    ],
+    "US-Letter": [
+      128,
+      192
+    ]
+  },
+  "effective_ppi": {
+    "A4": 210,
+    "US-Letter": 204,
+    "Card-Panels-4x6in": 256
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Starlit-Village-Post-Folded-Card-A4-p1.png",
+      "label": "Outside (print first)",
+      "source": "A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf",
+      "page": 1,
+      "sha256": "b4af25a23d7af014801920c28296e4855f23ef124b78c30d1a658b7d5c4e3735"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Starlit-Village-Post-Folded-Card-A4-p2.png",
+      "label": "Inside (print on the back)",
+      "source": "A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf",
+      "page": 2,
+      "sha256": "75b090b0c431e8deda9f993a44a4045280558a73b48e5fbe4c02ca17eae65d62"
+    }
+  ],
+  "style": {
+    "subject": "Snowy village post office",
+    "palette": "Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.",
+    "mood": "Cosy, hopeful, intimate and quietly nostalgic."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "3148a93aebff61ad5b062234efe76bb025c8d7f4e3b748e7658e53f6df3f0c02"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "46d203c983b3bdb07c8caa9c0c534f637a862d8707d0883c52265874a635e850"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "9403b46b2b785ad889cb534dad916d643aad02bbf85f850b535ebea9909f05f4"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Snowy village post office",
+      "scene": "Hillside village beneath a star-filled winter sky",
+      "focal_object": "Glowing red letter box",
+      "lighting": "Amber window glow against cobalt night",
+      "palette": "Cobalt, cream, muted berry red and warm amber",
+      "emotional_tone": "Hopeful, intimate and nostalgic",
+      "illustration_style": "gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.",
+      "mood": "Cosy, hopeful, intimate and quietly nostalgic."
+    },
+    "designs": {
+      "A": {
+        "name": "Starlit Village Post",
+        "description": "Portrait front cover with the small post office in the lower centre, its amber-lit windows and snow-laden roof nestled among softly receding blue-grey hills. A glowing muted berry-red letter box forms the focal point in front of the building. Three small cream envelopes rise from the letter box and gradually become tiny golden stars across the open cobalt upper sky. Refined serif text in the upper sky reads: “Christmas Wishes”.",
+        "source": "approved card-front brief (page 1)"
+      }
+    },
+    "inside": {
+      "description": null,
+      "source": "none (owner notes only)"
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Starlit Village Post"
+    ],
+    "design-count": [
+      "1 card design",
+      "1 printable card design",
+      "1 design included",
+      "one designs",
+      "1"
+    ],
+    "design-name": [
+      "Starlit Village Post",
+      "A — Starlit Village Post",
+      "Design A"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "4×6 in card panels",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "4×6 in",
+      "4 × 6 in",
+      "Folded card"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "artwork-files": [
+      "3 original artwork files",
+      "3 PNG files",
+      "Original artwork files",
+      "PDF and original artwork PNG files"
+    ],
+    "process": [
+      "Print at home or use a print shop",
+      "Download",
+      "Print",
+      "Trim & fold",
+      "Trim and fold",
+      "Send",
+      "Give"
+    ],
+    "card-size": [
+      "124 × 186 mm",
+      "124 x 186 mm",
+      "128 × 192 mm",
+      "128 x 192 mm"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in",
+      "4 × 6 in"
+    ],
+    "inside": [
+      "Wishing you a Christmas filled with warmth, peace and hope.",
+      "Inside message",
+      "Illustrated inside message",
+      "Inside message"
+    ]
+  }
+}

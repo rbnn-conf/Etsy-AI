@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "live",
+  "shop_id": 46520279,
+  "payload_sha256": "7c4ab749e59173e105f6b5e57f81d208eea9075714b6b69a3fa5f8257fced498",
+  "create": {
+    "attempted": true,
+    "at": "2026-10-07T21:41:03.138Z"
+  },
+  "listing_id": 4590759428,
+  "created_at": "2026-10-07T21:41:04.126Z",
+  "state": "draft"
+}

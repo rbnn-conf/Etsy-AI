@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "format": "crochet-pattern-bundle",
+  "title": "Little Halloween Costume Accessories",
+  "theme": "Little Halloween costume accessories",
+  "audience": [
+    "Crocheters making Halloween accessories",
+    "Beginner and easy-level crocheters",
+    "Children's and adults' costume makers"
+  ],
+  "skill_level": [
+    "easy"
+  ],
+  "delivery": [
+    "digital",
+    "printable"
+  ],
+  "style": [
+    "romantic",
+    "premium handmade",
+    "calm moonlit",
+    "gentle seasonal",
+    "lightweight accessories"
+  ],
+  "pattern_count": 3,
+  "terminology": "US",
+  "provenance": {
+    "author": "LumiumX, AI-assisted draft (gpt-5.6-terra)",
+    "origin": "ai-assisted-draft",
+    "notes": "Candidate instructions drafted with AI assistance for owner review. Unverified: not test-crocheted."
+  },
+  "combinations": {
+    "title": "Little Halloween Accessory Set",
+    "intro": "Use the three separate accessories together to add coordinated moonlit Halloween details to a costume, outerwear, or trick-or-treat bag.",
+    "items": [
+      {
+        "name": "Costume and Treat-Bag Trio",
+        "patterns": [
+          {
+            "pattern_id": "bat-hair-clip",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "witch-hat-brooch",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "candy-corn-bag-charm",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Wear the bat hair clip and witch-hat brooch as lightweight costume accents.",
+          "Attach the candy-corn charm to a treat bag or zip pull for a matching seasonal detail."
+        ]
+      }
+    ]
+  },
+  "patterns": [
+    {
+      "pattern_id": "bat-hair-clip",
+      "name": "Moonlit Bat Hair Clip",
+      "category": "hair accessory",
+      "difficulty": "easy",
+      "finished_size": "About 7 cm wide, excluding the clip",
+      "yarn": [
+        {
+          "description": "Light yarn for bat, wings and ears",
+          "colour": "Black",
+          "amount": "About 8 m"
+        },
+        {
+          "description": "Light yarn for embroidered eyes",
+          "colour": "White",
+          "amount": "About 1 m"
+        }
+      ],
+      "yarn_weight": "3-light",
+      "hook_size": {
+        "mm": 3.5,
+        "us": "E/4"
+      },
+      "additional_materials": [
+        "One 5 centimetre metal snap hair clip",
+        "Tapestry needle",
+        "Stitch marker",
+        "Scissors"
+      ],
+      "stitches_used": [
+        "ch",
+        "sc",
+        "hdc",
+        "sl st",
+        "sc2tog"
+      ],
+      "abbreviations": {
+        "ch": "chain",
+        "sc": "single crochet",
+        "hdc": "half double crochet",
+        "sl st": "slip stitch",
+        "sc2tog": "single crochet two together",
+        "st": "stitch",
+        "sts": "stitches",
+        "rnd": "round",
+        "sk": "skip"
+      },
+      "gauge": "Gauge is not critical because this is a small appliqué. Choose a firm fabric so the bat holds its shape on the clip.",
+      "instructions": [
+        {
+          "heading": "Wings (make 2)",
+          "steps": [
+            {
+              "label": "Row 1",
+              "text": "With black yarn, ch 11. Sc in second ch from hook and in each remaining ch across; turn.",
+              "stitch_count": 10
+            },
+            {
+              "label": "Row 2",
+              "text": "Ch 1, sc2tog, sc in each of next 6 sts, sc2tog; turn.",
+              "stitch_count": 8
+            },
+            {
+              "label": "Row 3",
+              "text": "Ch 1, sc2tog, sc in each of next 4 sts, sc2tog; turn.",
+              "stitch_count": 6
+            },
+            {
+              "label": "Row 4",
+              "text": "Ch 1, sc2tog, sc in each of next 2 sts, sc2tog; turn.",
+              "stitch_count": 4
+            },
+            {
+              "label": "Row 5",
+              "text": "Ch 1, sc2tog, sc2tog; turn.",
+              "stitch_count": 2
+            },
+            {
+              "label": "Row 6",
+              "text": "Ch 1, sc2tog. Do not turn.",
+              "stitch_count": 1
+            },
+            {
+              "label": "Edging",
+              "text": "Ch 1. Along the nearest row-end edge, sl st in the end of Row 5, sc in the end of Row 4, hdc in the end of Row 3, sc in the end of Row 2, and sl st in the end of Row 1. Across the unused foundation loops, work (sc, ch 2, sc) in the first loop, sk 2 loops; make this sequence 2 more times; sc in the last loop. Work sl st, sc, hdc, sc and sl st up the opposite row-end edge, then sl st in the tip of Row 6 to join.",
+              "stitch_count": 15
+            },
+            {
+              "label": null,
+              "text": "Fasten off, leaving a 15 centimetre tail for sewing. Make a second wing in the same way.",
+              "stitch_count": null
+            }
+          ]
+        },
+        {
+          "heading": "Body",
+          "steps": [
+            {
+              "label": "Rnd 1",
+              "text": "With black yarn, ch 5. Work 2 sc in second ch from hook, sc in each of next 2 ch, and 4 sc in last ch. Working along the opposite side of the foundation ch, sc in each of next 2 ch and 2 sc in last ch. Place marker in first st.",
+              "stitch_count": 12
+            },
+            {
+              "label": "Rnd 2",
+              "text": "Work (sc in next st, 2 sc in next st) 6 times. Move marker to first st of rnd.",
+              "stitch_count": 18
+            },
+            {
+              "label": null,
+              "text": "Fasten off, leaving a 30 centimetre tail for assembly.",
+              "stitch_count": null
+            }
+          ]
+        },
+        {
+          "heading": "Ears (make 2)",
+          "steps": [
+            {
+              "label": "Row 1",
+              "text": "With black yarn, ch 3. Sc in second ch from hook and in next ch; turn.",
+              "stitch_count": 2
+            },
+            {
+              "label": "Row 2",
+              "text": "Ch 1, sc2tog.",
+              "stitch_count": 1
+            },
+            {
+              "label": null,
+              "text": "Fasten off, leaving a 10 centimetre tail for sewing. Make a second ear in the same way.",
+              "stitch_count": null
+            }
+          ]
+        }
+      ],
+      "assembly": [
+        "With the body positioned vertically, sew the pointed end of one wing to each side of the body. Keep the scalloped foundation edge facing down and outward, and overlap each wing tip slightly beneath the body.",
+        "Sew the straight lower edge of each ear to one rounded end of the body. Place the ears side by side, with their points directed away from the body.",
+        "Using black yarn, sew the bat centrally to the upper surface of the open snap clip. Stitch through the clip end holes and around its centre bar, taking several small stitches at each point.",
+        "With white yarn, embroider two short vertical straight stitches on the body for eyes. Secure the yarn on the reverse side of the body."
+      ],
+      "assembly_required": true,
+      "finishing": [
+        "Fasten off every remaining working loop by cutting the yarn and pulling the tail completely through the loop.",
+        "Weave in all yarn tails on the reverse side, using the assembly stitches to secure the wing and ear tails.",
+        "Lightly shape the wings so the scalloped edges curve downward. Do not block the metal hair clip.",
+        "Check that the clip opens and closes freely and that no stitches obstruct its mechanism."
+      ],
+      "notes": [
+        "The wing edging forms three small chain arches that create the bat's scalloped lower wing edge.",
+        "For a child’s accessory, supervise use and ensure the clip is attached securely before wearing."
+      ],
+      "origin": "ai-assisted-draft",
+      "verification_status": "unverified"
+    },
+    {
+      "pattern_id": "witch-hat-brooch",
+      "name": "Lavender Witch-Hat Brooch",
+      "category": "brooch",
+      "difficulty": "easy",
+      "finished_size": "About 6 cm wide and 6 cm tall",
+      "yarn": [
+        {
+          "description": "Light yarn for hat and brim",
+          "colour": "Lavender",
+          "amount": "About 10 g"
+        }
+      ],
+      "yarn_weight": "3-light",
+      "hook_size": {
+        "mm": 3.5,
+        "us": "E-4"
+      },
+      "additional_materials": [
+        "Tapestry needle",
+        "Scissors",
+        "25 mm brooch bar",
+        "Sewing needle and matching sewing thread",
+        "Stitch marker"
+      ],
+      "stitches_used": [
+        "ch",
+        "sc",
+        "hdc",
+        "dc",
+        "sl st"
+      ],
+      "abbreviations": {
+        "ch": "chain",
+        "sc": "single crochet",
+        "hdc": "half double crochet",
+        "dc": "double crochet",
+        "sl st": "slip stitch",
+        "st": "stitch",
+        "sts": "stitches",
+        "rnd": "round",
+        "MR": "magic ring",
+        "inc": "increase"
+      },
+      "gauge": "Gauge is not critical; use a firm fabric so the small hat keeps its shape.",
+      "instructions": [
+        {
+          "heading": "Pointed Hat",
+          "steps": [
+            {
+              "label": "Rnd 1",
+              "text": "Make a MR; work 4 sc in the MR. Place a stitch marker in the first st and work in continuous rnds.",
+              "stitch_count": 4
+            },
+            {
+              "label": "Rnd 2",
+              "text": "Inc in each st around.",
+              "stitch_count": 8
+            },
+            {
+              "label": "Rnd 3",
+              "text": "Sc in each st around.",
+              "stitch_count": 8
+            },
+            {
+              "label": "Rnd 4",
+              "text": "Work [sc in next st, inc in next st] 4 times.",
+              "stitch_count": 12
+            },
+            {
+              "label": "Rnd 5",
+              "text": "Sc in each st around.",
+              "stitch_count": 12
+            },
+            {
+              "label": "Rnd 6",
+              "text": "Work [sc in next 2 sts, inc in next st] 4 times.",
+              "stitch_count": 16
+            },
+            {
+              "label": "Rnd 7",
+              "text": "Sc in each st around.",
+              "stitch_count": 16
+            },
+            {
+              "label": "Rnd 8",
+              "text": "Work [sc in next 3 sts, inc in next st] 4 times.",
+              "stitch_count": 20
+            },
+            {
+              "label": "Rnd 9",
+              "text": "Sc in each st around. Cut yarn, leaving a 25 cm sewing tail.",
+              "stitch_count": 20
+            }
+          ]
+        },
+        {
+          "heading": "Curved Brim",
+          "steps": [
+            {
+              "label": "Rnd 1",
+              "text": "Ch 13. Starting in the second ch from hook, sc in next 11 chs, work 3 sc in the last ch, sc in the underside of the next 10 chs, then work 2 sc in the underside of the final ch. Place a marker in the first st and work in continuous rnds.",
+              "stitch_count": 26
+            },
+            {
+              "label": "Rnd 2",
+              "text": "Inc in first st, sc in next 10 sts, inc in each of next 3 sts, sc in next 10 sts, then inc in each of next 2 sts.",
+              "stitch_count": 32
+            },
+            {
+              "label": "Rnd 3",
+              "text": "Sl st in next 2 sts, sc in next 4 sts, hdc in next 6 sts, dc in next 8 sts, hdc in next 6 sts, sc in next 4 sts, and sl st in next 2 sts. Cut yarn, leaving a 20 cm sewing tail.",
+              "stitch_count": 32
+            }
+          ]
+        }
+      ],
+      "assembly": [
+        "Centre the hat's lower edge across the brim, placing it over the side with the sl st section and with the pointed tip facing upwards. The dc section forms the front of the brim.",
+        "Using the hat tail, whip stitch through the 20 lower hat sts and the central upper area of the brim. Keep the brim's dc edge visible below the hat.",
+        "Sew the brooch bar horizontally to the reverse of the brim with matching sewing thread. Position it just below the hat join and keep the pin catch clear of crochet stitches."
+      ],
+      "assembly_required": true,
+      "finishing": [
+        "Fasten off each yarn tail securely after assembly.",
+        "Weave yarn tails through the reverse of the crochet, avoiding the visible brim edge.",
+        "Gently shape the brim into a shallow upward curve at both sides.",
+        "Check that the brooch bar is firmly sewn on and that its clasp opens freely."
+      ],
+      "notes": [
+        "Keep the rounds firm and even; a tight fabric helps the hat hold its pointed silhouette.",
+        "For a flatter brim, lightly steam-block it under a pressing cloth, keeping the brooch bar dry."
+      ],
+      "origin": "ai-assisted-draft",
+      "verification_status": "unverified"
+    },
+    {
+      "pattern_id": "candy-corn-bag-charm",
+      "name": "Candy-Corn Bag Charm",
+      "category": "bag charm",
+      "difficulty": "easy",
+      "finished_size": "About 6 cm tall, excluding the hanging loop.",
+      "yarn": [
+        {
+          "description": "Light yarn for the pointed top",
+          "colour": "White",
+          "amount": "About 3 g"
+        },
+        {
+          "description": "Light yarn for the middle stripe",
+          "colour": "Orange",
+          "amount": "About 3 g"
+        },
+        {
+          "description": "Light yarn for the wide base",
+          "colour": "Yellow",
+          "amount": "About 3 g"
+        }
+      ],
+      "yarn_weight": "3-light",
+      "hook_size": {
+        "mm": 3.5,
+        "us": "E-4"
+      },
+      "additional_materials": [
+        "12 mm lobster clasp or key ring",
+        "Tapestry needle",
+        "Scissors"
+      ],
+      "stitches_used": [
+        "ch",
+        "sc",
+        "hdc",
+        "sl st"
+      ],
+      "abbreviations": {
+        "ch": "chain",
+        "sc": "single crochet",
+        "hdc": "half double crochet",
+        "sl st": "slip stitch",
+        "st": "stitch",
+        "sts": "stitches"
+      },
+      "gauge": "Gauge is not critical. Keep stitches firm so the charm holds its tapered candy-corn shape.",
+      "instructions": [
+        {
+          "heading": "Candy Corn Charm",
+          "steps": [
+            {
+              "label": "Row 1",
+              "text": "With white yarn, ch 2. Sc in the second ch from hook.",
+              "stitch_count": 1
+            },
+            {
+              "label": "Row 2",
+              "text": "Ch 1, turn. Work 2 sc in the st.",
+              "stitch_count": 2
+            },
+            {
+              "label": "Row 3",
+              "text": "Ch 1, turn. Work 2 sc in the first st, sc in the remaining st.",
+              "stitch_count": 3
+            },
+            {
+              "label": "Row 4",
+              "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Change to orange in the final pull-through of the last sc.",
+              "stitch_count": 4
+            },
+            {
+              "label": "Row 5",
+              "text": "With orange yarn, ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st.",
+              "stitch_count": 5
+            },
+            {
+              "label": "Row 6",
+              "text": "Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st.",
+              "stitch_count": 6
+            },
+            {
+              "label": "Row 7",
+              "text": "Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st. Change to yellow in the final pull-through of the last hdc.",
+              "stitch_count": 7
+            },
+            {
+              "label": "Row 8",
+              "text": "With yellow yarn, ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+              "stitch_count": 8
+            },
+            {
+              "label": "Row 9",
+              "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+              "stitch_count": 9
+            },
+            {
+              "label": "Row 10",
+              "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+              "stitch_count": 10
+            },
+            {
+              "label": "Row 11",
+              "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Do not fasten off.",
+              "stitch_count": 11
+            },
+            {
+              "label": "Edging",
+              "text": "Ch 1. Work 10 sc down the sloping side, placing 1 sc in each row end from Row 11 through Row 2. Work (sc, ch 18, sl st in the same point) in the point of Row 1. Work 10 sc up the other sloping side, placing 1 sc in each row end from Row 2 through Row 11. Work 1 sc in each of the 11 sts across the top edge. Sl st to the first sc.",
+              "stitch_count": 32
+            }
+          ]
+        }
+      ],
+      "assembly_required": false,
+      "finishing": [
+        "Fasten off after completing the edging, leaving a 10 cm yarn tail.",
+        "Weave in all yarn tails on the reverse side, taking care not to pull the colour stripes out of shape.",
+        "Gently flatten the charm with your fingers to define the pointed white tip and wide yellow base.",
+        "Clip a lobster clasp or attach a key ring through the chain loop at the pointed end."
+      ],
+      "notes": [
+        "Turning chains do not count as sts throughout.",
+        "To change colour, complete the final stitch until two loops remain on the hook, yarn over with the new colour, and pull through both loops.",
+        "The charm is a flat, single-layer accessory."
+      ],
+      "origin": "ai-assisted-draft",
+      "verification_status": "unverified"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "illustration_style": "Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.",
+  "line_weight": "Fine selective pencil outlines, softened by opaque gouache edges.",
+  "line_quality": "Gently imperfect, hand-drawn and crisp in small decorative details.",
+  "detail_level": "Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.",
+  "character_language": "not applicable",
+  "background_density": "Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.",
+  "composition": "Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.",
+  "palette": "Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.",
+  "colour_mode": "full colour",
+  "shading": "Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.",
+  "texture": "Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.",
+  "mood": "Cosy, hopeful, intimate and quietly nostalgic.",
+  "age_suitability": "adults",
+  "print_considerations": "Use print-safe midtone values and clear contrast for home printers; avoid very dark full-bleed areas, retain fine details at a readable scale, and allow for trimming and folded-card alignment.",
+  "shared_prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.",
+  "avoid": [
+    "Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions",
+    "Photorealism or glossy 3D rendering",
+    "Overly childish cartoon styling",
+    "Dense clutter that competes with the greeting",
+    "Harsh neon colours or heavy black shadows",
+    "Unreadable, misspelled or distorted typography",
+    "Dark full-bleed backgrounds likely to print poorly at home"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-09-29T20:19:43.861Z"
+}

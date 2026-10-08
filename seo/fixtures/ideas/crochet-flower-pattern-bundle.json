@@ -1,0 +1,19 @@
+{
+  "product_id": null,
+  "working_name": "Crochet Flower Bouquet Pattern Bundle",
+  "product_type": "crochet pattern bundle",
+  "concept": "A downloadable bundle of 33 crochet flower patterns for making bouquets: roses, sunflowers, daisies, lavender, wildflowers, floral stems and leaves.",
+  "audience": null,
+  "season": null,
+  "themes": ["crochet flowers", "flower bouquets", "roses", "sunflowers", "daisies", "lavender", "wildflowers", "floral stems", "leaves", "handmade gifts"],
+  "format": "crochet pattern bundle",
+  "page_count": null,
+  "owner_notes": "Example idea (fixture, ADR-040). An example product configuration, not a product and not a global default.",
+  "candidate_keywords": [],
+  "status": "draft",
+  "audiences": ["adults", "beginners", "intermediate crocheters", "handmade gift makers"],
+  "delivery": ["digital", "printable"],
+  "formats": ["crochet pattern bundle"],
+  "styles": ["romantic", "cottagecore", "botanical", "soft pastel", "realistic crochet"],
+  "item_count": 33
+}

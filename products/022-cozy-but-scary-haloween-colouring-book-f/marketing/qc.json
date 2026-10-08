@@ -1,0 +1,187 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "production package unchanged",
+      "ok": true,
+      "detail": "Stage 2 records and deliverables re-verified"
+    },
+    {
+      "name": "listing meets Etsy constraints and claims",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image copy claims supported",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image count matches plan",
+      "ok": true,
+      "detail": "10 of 10"
+    },
+    {
+      "name": "image files present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank or corrupt images",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every image shows the real product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork traceable to Stage 2",
+      "ok": true,
+      "detail": "12 traced sources"
+    },
+    {
+      "name": "AI backgrounds never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coloured examples generated",
+      "ok": true,
+      "detail": "example-p2 ok"
+    },
+    {
+      "name": "coloured examples never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coloured examples labelled as examples",
+      "ok": true,
+      "detail": "every example slide states it is a coloured example"
+    },
+    {
+      "name": "product artwork not stretched",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork dominates each image",
+      "ok": true,
+      "detail": "01-hero 42%, 02-preview 41%, 03-contents 58%, 04-coloured 22%, 05-before-after 26%, 06-lifestyle 41%, 07-showcase 45%, 08-download 14%, 09-cozy 41%, 10-bundle 43%"
+    },
+    {
+      "name": "headline legible at 300 px thumbnail",
+      "ok": true,
+      "detail": "every headline ≥ 87 px on the 2000 px canvas"
+    },
+    {
+      "name": "headline text rendered by code from the plan",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "300x300 thumbnails generated",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "visual QC and stamped claims",
+      "ok": true,
+      "detail": "63/63 checks; 27/27 stamped claims verified"
+    },
+    {
+      "name": "marketing engine recorded with the run",
+      "ok": true,
+      "detail": "ai-creative v1"
+    },
+    {
+      "name": "product region covered by real Stage 2 artwork",
+      "ok": true,
+      "detail": "every art-directed region holds the real artwork"
+    },
+    {
+      "name": "engine product visibility floor",
+      "ok": true,
+      "detail": "hero/design ≥ 45%, gift ≥ 35%, inside/print ≥ 30%"
+    },
+    {
+      "name": "creative variety: compositions",
+      "ok": true,
+      "detail": "8 compositions; most used \"cb-lifestyle-page\" 3× (max 4)"
+    },
+    {
+      "name": "creative variety: backgrounds",
+      "ok": true,
+      "detail": "3 backgrounds: environment 4, linen 4, dusk 2"
+    },
+    {
+      "name": "creative variety: not only floating pages",
+      "ok": true,
+      "detail": "0 of 10 cards are pages only"
+    },
+    {
+      "name": "creative variety: headline placement",
+      "ok": true,
+      "detail": "3 text zones: top-left 3, top-right 3, top-centre 4"
+    },
+    {
+      "name": "creative variety: lifestyle / emotional storytelling",
+      "ok": true,
+      "detail": "01-hero, 02-preview, 04-coloured, 06-lifestyle, 09-cozy"
+    },
+    {
+      "name": "creative variety: product presence across the campaign",
+      "ok": true,
+      "detail": "mean product share 37% (min 35%)"
+    },
+    {
+      "name": "approved renders shown only below their lettering",
+      "ok": true,
+      "detail": "3 crops inside their text-free region"
+    },
+    {
+      "name": "crops within the resolution floor (≤ 2×)",
+      "ok": true,
+      "detail": "every crop within the floor"
+    },
+    {
+      "name": "every pictured render tied to approved pattern IDs",
+      "ok": true,
+      "detail": "0 render placements"
+    },
+    {
+      "name": "hero is not mostly copy",
+      "ok": true,
+      "detail": "copy covers ≤ 35% of the hero"
+    },
+    {
+      "name": "every card shows its focal asset",
+      "ok": true,
+      "detail": "each directed focal page is rendered on its card"
+    },
+    {
+      "name": "cards sharing a backplate are composed differently",
+      "ok": true,
+      "detail": "shared-backplate cards use different compositions"
+    },
+    {
+      "name": "coloured example is still the same page",
+      "ok": true,
+      "detail": "example-p2 99% of the line structure preserved"
+    },
+    {
+      "name": "lifestyle backplates differ from each other",
+      "ok": true,
+      "detail": "env-01-hero / env-06-lifestyle: 41/64 bits; env-01-hero / env-09-cozy: 50/64 bits; env-06-lifestyle / env-09-cozy: 15/64 bits"
+    }
+  ],
+  "warnings": [],
+  "at": "2026-10-07T21:19:21.512Z"
+}

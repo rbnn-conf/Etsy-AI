@@ -1,0 +1,1447 @@
+{
+  "format": "colouring-book",
+  "campaign": "colouring-autumn",
+  "strategy": {
+    "family": "colouring_book",
+    "theme": "autumn",
+    "visual_marketing_mood": "warm cosy autumn"
+  },
+  "creative": {
+    "version": 1,
+    "composer": 2,
+    "source": "baseline",
+    "max_environments": 3
+  },
+  "slides": [
+    {
+      "id": "01-hero",
+      "template": "creative",
+      "job": "stop-scroll",
+      "purpose": "Stop the scroll: a real page and its coloured example in a warm creative moment.",
+      "density": "cb-lifestyle-hero",
+      "copy": {
+        "headline": {
+          "text": "A cosy scene to colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "A cosy apple-pie kitchen scene to colour.",
+          "by": "model"
+        },
+        "kicker": {
+          "text": "The Apple Pie Kitchen Colouring Book",
+          "claim": [
+            "product-title",
+            "The Apple Pie Kitchen Colouring Book"
+          ]
+        }
+      },
+      "min_product_share": 0.33,
+      "extras": {},
+      "example": "example-p2",
+      "creative": {
+        "id": "01-hero",
+        "job": "stop-scroll",
+        "purpose": "Stop the scroll: a real page and its coloured example in a warm creative moment.",
+        "buyer_message": "I can colour this, and it will look wonderful.",
+        "emotional_goal": "desire, calm",
+        "headline": "Autumn\nColouring\nPages",
+        "supporting_copy": "9 pages to print and colour",
+        "focal_asset": "page-2",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-hero",
+        "hierarchy": {
+          "primary": "the real page, large",
+          "secondary": "the coloured example and the headline",
+          "tertiary": "the page-count line"
+        },
+        "background": "environment",
+        "props": [
+          "coloured pencils",
+          "mug of tea",
+          "wooden desk",
+          "warm lamp",
+          "window light"
+        ],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "A warm, softly lit wooden desk with a few autumn touches: coloured pencils in a cup, a mug of tea and a lamp, shallow depth of field, a quiet premium creative mood. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.",
+        "claims_used": [
+          "product-title",
+          "page-count",
+          "example"
+        ],
+        "avoid": [
+          "a fake page in the scene",
+          "text in the scene"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-hero"
+        ]
+      },
+      "scene": "env-01-hero"
+    },
+    {
+      "id": "02-preview",
+      "template": "creative",
+      "job": "quality",
+      "purpose": "Show me the quality: one real page up close.",
+      "density": "cb-lifestyle-page",
+      "copy": {
+        "headline": {
+          "text": "Rolling pastry",
+          "by": "model"
+        },
+        "kicker": {
+          "text": "Page 4 of 10",
+          "claim": [
+            "page-number",
+            "Page 4 of 10"
+          ]
+        },
+        "subline": {
+          "text": "Clear kitchen details with a playful little helper.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.35,
+      "extras": {},
+      "creative": {
+        "id": "02-preview",
+        "job": "quality",
+        "purpose": "Show me the quality: one real page up close.",
+        "buyer_message": "The pages are detailed and a pleasure to colour.",
+        "emotional_goal": "trust, anticipation",
+        "headline": "Rolling Pastry",
+        "supporting_copy": null,
+        "focal_asset": "page-4",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-page",
+        "hierarchy": {
+          "primary": "one real page, cropped close",
+          "secondary": "the page title",
+          "tertiary": "the page number"
+        },
+        "background": "environment",
+        "props": [],
+        "crop": {
+          "asset": "page-4",
+          "focus": [
+            0.5,
+            0.5
+          ],
+          "zoom": 1.25
+        },
+        "text_zone": "top-right",
+        "scene_brief": "",
+        "claims_used": [
+          "page-title",
+          "page-number"
+        ],
+        "avoid": [
+          "a different backplate: it shares the hero backplate"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-page"
+        ],
+        "scene_of": "01-hero",
+        "scene_view": {
+          "zoom": 1.3,
+          "focus": [
+            0.28,
+            0.3
+          ]
+        }
+      },
+      "scene": "env-01-hero"
+    },
+    {
+      "id": "03-contents",
+      "template": "creative",
+      "job": "variety",
+      "purpose": "Show me the variety: many real pages at once.",
+      "density": "cb-collage",
+      "copy": {
+        "headline": {
+          "text": "9 pages\nto colour",
+          "claim": [
+            "page-count",
+            "9 colouring pages"
+          ]
+        },
+        "subline": {
+          "text": "Nine colouring pages, each with its own page.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "03-contents",
+        "job": "variety",
+        "purpose": "Show me the variety: many real pages at once.",
+        "buyer_message": "There is plenty to colour.",
+        "emotional_goal": "abundance",
+        "headline": "9 pages\nto colour",
+        "supporting_copy": null,
+        "focal_asset": "page-2",
+        "supporting_assets": [
+          "page-3",
+          "page-4",
+          "page-5",
+          "page-6",
+          "page-7",
+          "page-8",
+          "page-9",
+          "page-10"
+        ],
+        "composition": "cb-collage",
+        "hierarchy": {
+          "primary": "the grid of real pages",
+          "secondary": "the headline",
+          "tertiary": "none"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "page-count"
+        ],
+        "avoid": [
+          "tiny thumbnails"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-collage"
+        ]
+      }
+    },
+    {
+      "id": "04-coloured",
+      "template": "creative",
+      "job": "desire",
+      "purpose": "Make me want it: a coloured example beside the real page.",
+      "density": "cb-coloured",
+      "copy": {
+        "headline": {
+          "text": "Colour your own story",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Example: a coloured version of this page.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.08,
+      "extras": {},
+      "example": "example-p2",
+      "creative": {
+        "id": "04-coloured",
+        "job": "desire",
+        "purpose": "Make me want it: a coloured example beside the real page.",
+        "buyer_message": "This is what my page could look like.",
+        "emotional_goal": "inspiration",
+        "headline": "Colour it\nyour way",
+        "supporting_copy": null,
+        "focal_asset": "page-2",
+        "supporting_assets": [],
+        "composition": "cb-coloured",
+        "hierarchy": {
+          "primary": "the coloured example",
+          "secondary": "the real page",
+          "tertiary": "the label"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "",
+        "claims_used": [
+          "example",
+          "line-art"
+        ],
+        "avoid": [
+          "presenting the coloured example as the product"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-coloured"
+        ]
+      }
+    },
+    {
+      "id": "05-before-after",
+      "template": "creative",
+      "job": "how-it-works",
+      "purpose": "How does it work? The real page and its coloured result.",
+      "density": "cb-before-after",
+      "copy": {
+        "headline": {
+          "text": "From line to colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Print, then add your own colour.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.2,
+      "extras": {},
+      "example": "example-p2",
+      "creative": {
+        "id": "05-before-after",
+        "job": "how-it-works",
+        "purpose": "How does it work? The real page and its coloured result.",
+        "buyer_message": "I print the page and colour it in.",
+        "emotional_goal": "ease",
+        "headline": "Print it.\nColour it.",
+        "supporting_copy": null,
+        "focal_asset": "page-2",
+        "supporting_assets": [],
+        "composition": "cb-before-after",
+        "hierarchy": {
+          "primary": "the real page",
+          "secondary": "the coloured example",
+          "tertiary": "the captions"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "example",
+          "line-art"
+        ],
+        "avoid": [
+          "colour on the real page"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-before-after"
+        ]
+      }
+    },
+    {
+      "id": "06-lifestyle",
+      "template": "creative",
+      "job": "useful",
+      "purpose": "Why is this useful? A quiet, screen-free hour of colouring.",
+      "density": "cb-lifestyle-page",
+      "copy": {
+        "headline": {
+          "text": "A quiet creative pause",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Settle into a calm creative moment.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.35,
+      "extras": {},
+      "creative": {
+        "id": "06-lifestyle",
+        "job": "useful",
+        "purpose": "Why is this useful? A quiet, screen-free hour of colouring.",
+        "buyer_message": "This is how I could unwind.",
+        "emotional_goal": "relaxation",
+        "headline": "Your quiet\ncreative hour",
+        "supporting_copy": null,
+        "focal_asset": "page-10",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-page",
+        "hierarchy": {
+          "primary": "one real page",
+          "secondary": "the headline",
+          "tertiary": "none"
+        },
+        "background": "environment",
+        "props": [
+          "coloured pencils",
+          "knitted throw",
+          "mug of tea",
+          "window light"
+        ],
+        "crop": null,
+        "text_zone": "top-right",
+        "scene_brief": "A cosy corner at home with a few autumn touches: a knitted throw, a warm drink and coloured pencils in a jar, soft window light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.",
+        "claims_used": [],
+        "avoid": [
+          "a fake page in the scene"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-page"
+        ]
+      },
+      "scene": "env-06-lifestyle"
+    },
+    {
+      "id": "07-showcase",
+      "template": "creative",
+      "job": "what-you-get",
+      "purpose": "What am I getting? A real page, large, with the essentials.",
+      "density": "cb-features",
+      "copy": {
+        "headline": {
+          "text": "Kitchen scenes to colour",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "07-showcase",
+        "job": "what-you-get",
+        "purpose": "What am I getting? A real page, large, with the essentials.",
+        "buyer_message": "Every page is a full, printable design.",
+        "emotional_goal": "confidence",
+        "headline": "Made for\nrelaxed colouring",
+        "supporting_copy": null,
+        "focal_asset": "page-6",
+        "supporting_assets": [],
+        "composition": "cb-features",
+        "hierarchy": {
+          "primary": "one large real page",
+          "secondary": "the headline",
+          "tertiary": "short facts"
+        },
+        "background": "dusk",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "",
+        "claims_used": [
+          "process",
+          "line-art",
+          "printing-guide"
+        ],
+        "avoid": [
+          "a long list"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-features"
+        ]
+      }
+    },
+    {
+      "id": "08-download",
+      "template": "creative",
+      "job": "doubts",
+      "purpose": "Remove my doubts: a digital download, nothing shipped.",
+      "density": "cb-printable",
+      "copy": {
+        "headline": {
+          "text": "Digital download details",
+          "by": "model"
+        },
+        "subline": {
+          "text": "PDF and PNG files arrive in three ZIP files.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.08,
+      "extras": {},
+      "creative": {
+        "id": "08-download",
+        "job": "doubts",
+        "purpose": "Remove my doubts: a digital download, nothing shipped.",
+        "buyer_message": "It is a printable file; I know what I get.",
+        "emotional_goal": "clarity",
+        "headline": "Instant digital\ndownload",
+        "supporting_copy": null,
+        "focal_asset": "sheet",
+        "supporting_assets": [
+          "page-2"
+        ],
+        "composition": "cb-printable",
+        "hierarchy": {
+          "primary": "the printable sheet and a page",
+          "secondary": "the three steps",
+          "tertiary": "the facts"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "digital",
+          "process",
+          "format"
+        ],
+        "avoid": [
+          "claims beyond the facts"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-printable"
+        ]
+      }
+    },
+    {
+      "id": "09-cozy",
+      "template": "creative",
+      "job": "desire",
+      "purpose": "Make me want it: the evening you could have with it.",
+      "density": "cb-lifestyle-page",
+      "copy": {
+        "headline": {
+          "text": "Settle in and colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Cinnamon buns bring a gentle evening mood.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.35,
+      "extras": {},
+      "creative": {
+        "id": "09-cozy",
+        "job": "desire",
+        "purpose": "Make me want it: the evening you could have with it.",
+        "buyer_message": "I picture myself colouring this tonight.",
+        "emotional_goal": "cosy, nostalgic",
+        "headline": "Relax,\nthen colour",
+        "supporting_copy": null,
+        "focal_asset": "page-6",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-page",
+        "hierarchy": {
+          "primary": "one real page",
+          "secondary": "the headline",
+          "tertiary": "none"
+        },
+        "background": "environment",
+        "props": [
+          "candle",
+          "knitted throw",
+          "mug of tea",
+          "warm lamp"
+        ],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "An evening reading nook with a few autumn touches: a lamp glowing, a candle, a mug of tea and a soft throw, golden evening light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.",
+        "claims_used": [],
+        "avoid": [
+          "a fake page in the scene"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-page"
+        ]
+      },
+      "scene": "env-09-cozy"
+    },
+    {
+      "id": "10-bundle",
+      "template": "creative",
+      "job": "what-you-get",
+      "purpose": "Everything at a glance, and the way to get it.",
+      "density": "cb-bundle",
+      "copy": {
+        "headline": {
+          "text": "Download print and colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Includes a cover, guide, PDFs and PNG pages.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "10-bundle",
+        "job": "what-you-get",
+        "purpose": "Everything at a glance, and the way to get it.",
+        "buyer_message": "The whole collection, ready to download and print.",
+        "emotional_goal": "closure, confidence",
+        "headline": "Download,\nprint & colour",
+        "supporting_copy": "A4 + US Letter",
+        "focal_asset": "page-2",
+        "supporting_assets": [
+          "page-3",
+          "page-4",
+          "page-5",
+          "page-6"
+        ],
+        "composition": "cb-bundle",
+        "hierarchy": {
+          "primary": "the pages fanned large",
+          "secondary": "the headline",
+          "tertiary": "the format row"
+        },
+        "background": "dusk",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "page-count",
+          "format"
+        ],
+        "avoid": [
+          "tiny pages"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig"
+        ],
+        "allowed_compositions": [
+          "cb-bundle"
+        ]
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "env-01-hero",
+      "slide": "01-hero",
+      "purpose": "Stop the scroll: a real page and its coloured example in a warm creative moment.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Warm, peaceful autumn comfort with a storybook kitchen glow and a quiet invitation to colour..\nPalette: Baked apple red, cinnamon, oat, honey, walnut brown and soft cream, with gentle sage accents..\nLighting: Amber lamp glow and soft late-afternoon window light, kept calm and tactile..\nScene: A warm, softly lit wooden desk with a few autumn touches: coloured pencils in a cup, a mug of tea and a lamp, shallow depth of field, a quiet premium creative mood. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.\nProps (plain materials only): coloured pencils, mug of tea, wooden desk, warm lamp, window light.\nVisual world: palette Baked apple red, cinnamon, oat, honey, walnut brown, cream and soft sage.; materials walnut wood, linen, ceramic tea mug, knitted wool, brass; lighting Soft amber practical light balanced with hazy window glow and gentle autumnal shadow.; Premium tactile lifestyle still life with warm depth, editorial crops and quiet storybook charm..\nFeeling: A gentle hedgehog kitchen story invites a slow, cosy moment of colour and imagination.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface with a smaller empty stretch at its lower corner. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+      "sha256": "f47322a5d6520a1b675e9354d08e894f0c8a10b1dffcd43c66c733b1fe022d5b",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-06-lifestyle",
+      "slide": "06-lifestyle",
+      "purpose": "Why is this useful? A quiet, screen-free hour of colouring.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Warm, peaceful autumn comfort with a storybook kitchen glow and a quiet invitation to colour..\nPalette: Baked apple red, cinnamon, oat, honey, walnut brown and soft cream, with gentle sage accents..\nLighting: Amber lamp glow and soft late-afternoon window light, kept calm and tactile..\nScene: A cosy corner at home with a few autumn touches: a knitted throw, a warm drink and coloured pencils in a jar, soft window light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.\nVisual world: palette Baked apple red, cinnamon, oat, honey, walnut brown, cream and soft sage.; materials walnut wood, linen, ceramic tea mug, knitted wool, brass; lighting Soft amber practical light balanced with hazy window glow and gentle autumnal shadow.; Premium tactile lifestyle still life with warm depth, editorial crops and quiet storybook charm..\nFeeling: A gentle hedgehog kitchen story invites a slow, cosy moment of colour and imagination.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/06-lifestyle.png",
+      "sha256": "77904256c913ed91a4c673cd03ca584b2be803e5b13de737bf0110c3c33d09e1",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-09-cozy",
+      "slide": "09-cozy",
+      "purpose": "Make me want it: the evening you could have with it.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Warm, peaceful autumn comfort with a storybook kitchen glow and a quiet invitation to colour..\nPalette: Baked apple red, cinnamon, oat, honey, walnut brown and soft cream, with gentle sage accents..\nLighting: Amber lamp glow and soft late-afternoon window light, kept calm and tactile..\nScene: An evening reading nook with a few autumn touches: a lamp glowing, a candle, a mug of tea and a soft throw, golden evening light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.\nVisual world: palette Baked apple red, cinnamon, oat, honey, walnut brown, cream and soft sage.; materials walnut wood, linen, ceramic tea mug, knitted wool, brass; lighting Soft amber practical light balanced with hazy window glow and gentle autumnal shadow.; Premium tactile lifestyle still life with warm depth, editorial crops and quiet storybook charm..\nFeeling: A gentle hedgehog kitchen story invites a slow, cosy moment of colour and imagination.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/09-cozy.png",
+      "sha256": "098ce1e76ee337b866e0a0267e2ee0c9e1da8899741fcb72b3c0bac9e1e48cfb",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "examples": [
+    {
+      "id": "example-p2",
+      "page_number": 2,
+      "asset": "P002",
+      "source": {
+        "file": "book/pages/P002.png",
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "width": 1024,
+        "height": 1536
+      },
+      "purpose": "Coloured example of a real page (marketing illustration only; the product is black-and-white line art).",
+      "used_by": [
+        "01-hero",
+        "04-coloured",
+        "05-before-after"
+      ],
+      "file": "marketing/examples/example-p2.png",
+      "prompt": "Colour in this exact colouring-book page as a finished example for an Etsy listing image. This is a colour-only job on THIS page: colour this exact page, do not reimagine it.\nPRESERVE exactly: the composition, the source crop and framing with its white margins, every black line, every character, object and detail, the scene layout and the page proportions.\nDO NOT: add, remove, move or redraw any object, line, pattern or lettering; change proportions; turn the page into an unrelated illustration; add a background.\nFill the enclosed areas neatly, as if coloured with coloured pencils and felt-tip markers: harmonious, natural, plausible colours with gentle shading inside the shapes, achievable by a customer.\nColour palette: Baked apple red, cinnamon, oat, honey, walnut brown, cream and soft sage.. Mood: cosy, inspired, calm, playful, confident. Clear black-and-white kitchen scenes become warm, personal storybook moments when colour is added while every original line remains in place.\nOutput: a flat, straight-on image of the coloured page on white paper. No table, hands, pencils, shadows, frame, border, added text, signature or watermark.",
+      "sha256": "3f815a51665ab29b21b5759f4c5f6d2c11fde234a2335b94ff6bf5a52f6177e5",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "concept_sha": "0031bfbb7f1e648a"
+    }
+  ],
+  "engine": {
+    "id": "ai-creative",
+    "version": 1
+  },
+  "campaign_direction": {
+    "mood": "Warm, peaceful autumn comfort with a storybook kitchen glow and a quiet invitation to colour.",
+    "palette": "Baked apple red, cinnamon, oat, honey, walnut brown and soft cream, with gentle sage accents.",
+    "lighting": "Amber lamp glow and soft late-afternoon window light, kept calm and tactile.",
+    "concept": {
+      "campaign_concept": "Apple Pie Kitchen Evenings",
+      "emotional_hook": "A gentle hedgehog kitchen story invites a slow, cosy moment of colour and imagination.",
+      "buyer_feeling": [
+        "cosy",
+        "inspired",
+        "calm",
+        "playful",
+        "confident"
+      ],
+      "visual_world": {
+        "palette": "Baked apple red, cinnamon, oat, honey, walnut brown, cream and soft sage.",
+        "materials": [
+          "walnut wood",
+          "linen",
+          "ceramic tea mug",
+          "knitted wool",
+          "brass"
+        ],
+        "lighting": "Soft amber practical light balanced with hazy window glow and gentle autumnal shadow.",
+        "photography_style": "Premium tactile lifestyle still life with warm depth, editorial crops and quiet storybook charm."
+      },
+      "hero_subject": "The hedgehog baker reaches beneath an apple tree, paired with a coloured interpretation of the same scene.",
+      "strongest_pages": [
+        "page-2",
+        "page-4",
+        "page-5",
+        "page-6",
+        "page-8",
+        "page-9"
+      ],
+      "transformation_story": "Clear black-and-white kitchen scenes become warm, personal storybook moments when colour is added while every original line remains in place.",
+      "marketing_priority": "Lead with the cosy colouring experience and the characterful kitchen illustrations.",
+      "avoid": [
+        "generic office styling",
+        "tiny unreadable previews",
+        "cold white lighting",
+        "cluttered collages",
+        "fake photography claims",
+        "text over key illustration detail"
+      ],
+      "source": "model",
+      "fallbacks": []
+    }
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-06T14:31:16.568Z",
+  "directions": {
+    "01-hero": {
+      "id": "01-hero",
+      "job": "stop-scroll",
+      "purpose": "Stop the scroll with a large apple-picking scene and its clearly labelled coloured interpretation.",
+      "buyer_message": "I can bring this cosy autumn kitchen story to life with colour.",
+      "emotional_goal": "Cosy anticipation and creative desire.",
+      "headline": "A cosy scene to colour",
+      "supporting_copy": "9 pages to print and colour",
+      "composition": "cb-lifestyle-hero",
+      "focal_asset": "page-2",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "Large real Apple Picking page, angled naturally on the walnut surface.",
+        "secondary": "Coloured interpretation of the same page, with headline held in calm negative space.",
+        "tertiary": "Small page-count line and discreet Example label."
+      },
+      "background": "environment",
+      "props": [
+        "coloured pencils",
+        "mug of tea",
+        "wooden desk",
+        "warm lamp",
+        "window light"
+      ],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.58
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "A warm, softly lit wooden desk with a few autumn touches: coloured pencils in a cup, a mug of tea and a lamp, shallow depth of field, a quiet premium creative mood. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.",
+      "claims_used": [
+        "product-title",
+        "page-count",
+        "example"
+      ],
+      "avoid": [
+        "a fake page in the scene",
+        "text in the scene",
+        "text on the hedgehog",
+        "oversaturated colour",
+        "fake objects within the illustration",
+        "unlabelled coloured interpretation"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-hero"
+      ],
+      "support": "A cosy apple-pie kitchen scene to colour.",
+      "source": "model",
+      "fallbacks": [
+        "scene_brief"
+      ]
+    },
+    "02-preview": {
+      "id": "02-preview",
+      "job": "quality",
+      "purpose": "Show the approachable line quality and satisfying kitchen detail in one close real page.",
+      "buyer_message": "The illustration has clear, characterful details ready for colouring.",
+      "emotional_goal": "Trust and anticipation.",
+      "headline": "Rolling pastry",
+      "supporting_copy": null,
+      "composition": "cb-lifestyle-page",
+      "focal_asset": "page-4",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "Close crop of the real Rolling Pastry page, keeping hedgehog, pastry and mouse prominent.",
+        "secondary": "Quiet page-title headline in the open upper-right area.",
+        "tertiary": "A restrained page label only."
+      },
+      "background": "environment",
+      "props": [],
+      "crop": {
+        "asset": "page-4",
+        "focus": [
+          0.5,
+          0.6
+        ],
+        "zoom": 1.25
+      },
+      "text_zone": "top-right",
+      "scene_brief": "Warm walnut desk under soft amber lamp light with a hazy window glow beyond, gentle falloff at the edges and a calm, uncluttered upper-right area.",
+      "claims_used": [
+        "page-title",
+        "page-number"
+      ],
+      "avoid": [
+        "a different backplate: it shares the hero backplate",
+        "showing multiple pages",
+        "obscuring the rolling pin",
+        "busy props",
+        "overly tight crop"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-page"
+      ],
+      "support": "Clear kitchen details with a playful little helper.",
+      "scene_of": "01-hero",
+      "scene_view": {
+        "zoom": 1.3,
+        "focus": [
+          0.28,
+          0.3
+        ]
+      },
+      "source": "model",
+      "fallbacks": []
+    },
+    "03-contents": {
+      "id": "03-contents",
+      "job": "variety",
+      "purpose": "Show the breadth of the colouring book through a legible collection of real designs.",
+      "buyer_message": "There are nine different autumn kitchen scenes to colour.",
+      "emotional_goal": "Abundance and excitement.",
+      "headline": "9 pages\nto colour",
+      "supporting_copy": null,
+      "composition": "cb-collage",
+      "focal_asset": "page-2",
+      "supporting_assets": [
+        "page-3",
+        "page-4",
+        "page-5",
+        "page-6",
+        "page-7",
+        "page-8",
+        "page-9",
+        "page-10"
+      ],
+      "hierarchy": {
+        "primary": "A generous, overlapping collection of real pages, each large enough to recognise.",
+        "secondary": "The retained page-count headline at top centre.",
+        "tertiary": "No additional labels competing with the artwork."
+      },
+      "background": "linen",
+      "props": [],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.55
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "page-count"
+      ],
+      "avoid": [
+        "tiny thumbnails",
+        "rigid corporate grid",
+        "heavy drop shadows",
+        "extra decorative graphics"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-collage"
+      ],
+      "support": "Nine colouring pages, each with its own page.",
+      "source": "model",
+      "fallbacks": [
+        "supporting_assets"
+      ]
+    },
+    "04-coloured": {
+      "id": "04-coloured",
+      "job": "desire",
+      "purpose": "Create desire by showing the real Apple Picking line art beside an accurate coloured interpretation.",
+      "buyer_message": "I can make this exact scene feel like my own.",
+      "emotional_goal": "Inspiration and ownership.",
+      "headline": "Colour your own story",
+      "supporting_copy": null,
+      "composition": "cb-coloured",
+      "focal_asset": "page-2",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "Coloured interpretation of Apple Picking, larger than the real line-art page.",
+        "secondary": "The matching real page and the headline.",
+        "tertiary": "Clearly visible Example label."
+      },
+      "background": "linen",
+      "props": [],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.56
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "",
+      "claims_used": [
+        "example",
+        "line-art"
+      ],
+      "avoid": [
+        "presenting the coloured example as the product",
+        "changing any line or object",
+        "unlabelled coloured interpretation",
+        "rainbow clutter",
+        "cropping out the hedgehog"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-coloured"
+      ],
+      "support": "Example: a coloured version of this page.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "05-before-after": {
+      "id": "05-before-after",
+      "job": "how-it-works",
+      "purpose": "Make the simple print-and-colour journey immediately understandable.",
+      "buyer_message": "Start with the line art, then add colour in your own way.",
+      "emotional_goal": "Ease and confidence.",
+      "headline": "From line to colour",
+      "supporting_copy": null,
+      "composition": "cb-before-after",
+      "focal_asset": "page-2",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "Real Pie in the Oven page on the left, paired with its coloured interpretation on the right.",
+        "secondary": "The process headline and restrained before-and-after captions.",
+        "tertiary": "Small Example label beside the coloured version."
+      },
+      "background": "linen",
+      "props": [],
+      "crop": {
+        "asset": "page-5",
+        "focus": [
+          0.5,
+          0.57
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "example",
+        "line-art"
+      ],
+      "avoid": [
+        "colour on the real page",
+        "changed composition in the example",
+        "extra steps",
+        "unlabelled coloured interpretation"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-before-after"
+      ],
+      "support": "Print, then add your own colour.",
+      "source": "model",
+      "fallbacks": [
+        "focal_asset (aligned to the coloured example page)"
+      ]
+    },
+    "06-lifestyle": {
+      "id": "06-lifestyle",
+      "job": "useful",
+      "purpose": "Present colouring as a calm, screen-free creative pause through one peaceful closing scene.",
+      "buyer_message": "This is a gentle activity for a quiet creative moment.",
+      "emotional_goal": "Relaxation and comfort.",
+      "headline": "A quiet creative pause",
+      "supporting_copy": null,
+      "composition": "cb-lifestyle-page",
+      "focal_asset": "page-10",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "Large real A Cosy Kitchen Goodbye page with the waving hedgehog clearly visible.",
+        "secondary": "A short emotional headline and one quiet use cue.",
+        "tertiary": "Minimal format information."
+      },
+      "background": "environment",
+      "props": [],
+      "crop": {
+        "asset": "page-10",
+        "focus": [
+          0.5,
+          0.58
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "A cosy corner at home with a few autumn touches: a knitted throw, a warm drink and coloured pencils in a jar, soft window light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.",
+      "claims_used": [],
+      "avoid": [
+        "a fake page in the scene",
+        "long feature lists",
+        "dark unreadable artwork",
+        "busy icons",
+        "claims about outcomes"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-page"
+      ],
+      "support": "Settle into a calm creative moment.",
+      "source": "model",
+      "fallbacks": [
+        "composition",
+        "background"
+      ]
+    },
+    "07-showcase": {
+      "id": "07-showcase",
+      "job": "what-you-get",
+      "purpose": "Explain the practical contents through a single generous real design and concise facts.",
+      "buyer_message": "I receive nine printable colouring pages in useful file formats.",
+      "emotional_goal": "Confidence and clarity.",
+      "headline": "Kitchen scenes to colour",
+      "supporting_copy": null,
+      "composition": "cb-features",
+      "focal_asset": "page-6",
+      "supporting_assets": [
+        "guide"
+      ],
+      "hierarchy": {
+        "primary": "Large real Cinnamon Bun Swirls page, with the tray and hedgehog paws easy to read.",
+        "secondary": "Headline and compact format facts.",
+        "tertiary": "Small printing-guide visual cue."
+      },
+      "background": "dusk",
+      "props": [],
+      "crop": {
+        "asset": "page-6",
+        "focus": [
+          0.5,
+          0.57
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "",
+      "claims_used": [
+        "process",
+        "line-art",
+        "printing-guide"
+      ],
+      "avoid": [
+        "a long list",
+        "long list formatting",
+        "unsupported quality claims",
+        "small illegible guide",
+        "text over cinnamon buns"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-features"
+      ],
+      "support": null,
+      "source": "model",
+      "fallbacks": [
+        "support"
+      ]
+    },
+    "08-download": {
+      "id": "08-download",
+      "job": "doubts",
+      "purpose": "Remove uncertainty about the digital delivery and printable file contents.",
+      "buyer_message": "This is an instant digital download with PDF and PNG files.",
+      "emotional_goal": "Clarity and reassurance.",
+      "headline": "Digital download details",
+      "supporting_copy": null,
+      "composition": "cb-printable",
+      "focal_asset": "sheet",
+      "supporting_assets": [
+        "page-2",
+        "guide"
+      ],
+      "hierarchy": {
+        "primary": "Printable sheet as the central practical focal point.",
+        "secondary": "Apple Picking page and printing guide as supporting visual proof.",
+        "tertiary": "Short delivery and format line."
+      },
+      "background": "linen",
+      "props": [],
+      "crop": {
+        "asset": "sheet",
+        "focus": [
+          0.5,
+          0.55
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "digital",
+        "process",
+        "format"
+      ],
+      "avoid": [
+        "claims beyond the facts",
+        "shipping imagery",
+        "physical-product implication",
+        "extra file claims",
+        "dense instructions"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-printable"
+      ],
+      "support": "PDF and PNG files arrive in three ZIP files.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "09-cozy": {
+      "id": "09-cozy",
+      "job": "desire",
+      "purpose": "Make the buyer imagine an unhurried, warmly lit evening spent colouring.",
+      "buyer_message": "Cinnamon Bun Swirls offers a sweet, cosy scene to spend time with.",
+      "emotional_goal": "Cosy nostalgia and desire.",
+      "headline": "Settle in and colour",
+      "supporting_copy": null,
+      "composition": "cb-lifestyle-page",
+      "focal_asset": "page-6",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "Warm coloured interpretation of Cinnamon Bun Swirls, kept large and inviting.",
+        "secondary": "Matching real line-art page, slightly smaller, with the headline.",
+        "tertiary": "Clear Example label."
+      },
+      "background": "environment",
+      "props": [],
+      "crop": {
+        "asset": "page-6",
+        "focus": [
+          0.5,
+          0.58
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "An evening reading nook with a few autumn touches: a lamp glowing, a candle, a mug of tea and a soft throw, golden evening light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm for text.",
+      "claims_used": [],
+      "avoid": [
+        "a fake page in the scene",
+        "unlabelled coloured interpretation",
+        "nighttime effects over the artwork",
+        "excessive props",
+        "altered line art"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-page"
+      ],
+      "support": "Cinnamon buns bring a gentle evening mood.",
+      "source": "model",
+      "fallbacks": [
+        "composition",
+        "background"
+      ]
+    },
+    "10-bundle": {
+      "id": "10-bundle",
+      "job": "what-you-get",
+      "purpose": "Close with an at-a-glance view of the collection and the simple download-to-print route.",
+      "buyer_message": "The collection is ready to download, print and colour.",
+      "emotional_goal": "Closure and confidence.",
+      "headline": "Download print and colour",
+      "supporting_copy": "A4 + US Letter",
+      "composition": "cb-bundle",
+      "focal_asset": "page-2",
+      "supporting_assets": [
+        "page-3",
+        "page-4",
+        "page-5",
+        "page-6",
+        "page-8"
+      ],
+      "hierarchy": {
+        "primary": "Apple Picking leads a broad fan of large, recognisable real pages.",
+        "secondary": "Headline and restrained format row.",
+        "tertiary": "Small cover and printing-guide reference only if space permits."
+      },
+      "background": "dusk",
+      "props": [],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.56
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "page-count",
+        "format"
+      ],
+      "avoid": [
+        "tiny pages",
+        "overcrowded fan arrangement",
+        "physical delivery implication",
+        "duplicate facts"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig"
+      ],
+      "allowed_compositions": [
+        "cb-bundle"
+      ],
+      "support": "Includes a cover, guide, PDFs and PNG pages.",
+      "source": "model",
+      "fallbacks": []
+    }
+  }
+}

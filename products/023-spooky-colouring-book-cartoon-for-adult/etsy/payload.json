@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "product_id": "023",
+  "product_name": "Midnight Monster Diner Colouring Book",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Adult Spooky Cartoon Colouring Book | Halloween Diner Pages, Instant Digital Download",
+    "description": "Settle into a moonlit diner where the coffee is bottomless and the customers are delightfully monstrous. This cheeky Halloween colouring book brings a mysterious little escape to your creative time. 🌙\n\nMidnight Monster Diner is filled with bold mid-century horror-cartoon line art and playful retro roadside atmosphere. The all-night diner scenes are nostalgic, mischievous and lightly macabre, with satisfying shapes, simple patterns and readable props ready for colour. 🖍️\n\nA few stops on the midnight shift\n\nIn Graveyard Shift, a bow-tied vampire waiter carries pancakes and coffee while a mummy slumps in a booth beneath a moonlit window. Moon Pie Special heads behind the counter, where a witch flips crescent-moon pies beside a cauldron-shaped mixing bowl.\n\nBottomless Brew invites you to colour a friendly swamp creature pouring coffee into symbol-covered mugs, while Pie-Eyed Poltergeist captures a floating ghost facing an enormous pie amid whirling slices. For a lively kitchen scene, Pickle Panic follows a mummy chef chasing animated pickles across the floor.\n\nThe book closes with See You at Midnight: the diner façade beneath a huge crescent moon, with its monster regulars waving from the windows and doorway. 👻\n\nWhat you receive\n\n• 20 colouring pages of black-and-white line art to colour in\n• 21 pages including the Midnight Monster Diner cover\n• Portrait colouring book layout\n• Each colouring design has its own page\n• A4 PDF files\n• US Letter PDF files\n• PNG pages for every page\n• Printing guide\n\nHow it works\n\nDownload the book, choose A4 or US Letter PDF pages or PNG pages, then print and colour your chosen diner scenes. The included printing guide is there to help with your print-at-home process.\n\nFor a quiet Halloween activity with a playful eerie atmosphere, let the midnight diner keep you company for a while. There is always another strange little scene waiting behind the counter.\n\nThis is a digital download delivered instantly in 3 ZIP files of PDF and PNG files. No physical item is shipped.",
+    "tags": [
+      "spooky coloring book",
+      "halloween colouring",
+      "monster diner art",
+      "retro horror art",
+      "vampire colouring",
+      "witch colouring",
+      "ghost colouring",
+      "ghoul colouring",
+      "moonlit colouring",
+      "spooky relaxation",
+      "halloween activity",
+      "diner colouring",
+      "creepy cartoon art"
+    ],
+    "materials": [
+      "A4 PDF",
+      "US Letter PDF",
+      "PNG pages",
+      "Printing guide",
+      "Digital download"
+    ],
+    "price": {
+      "amount": 5.99,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 339,
+      "path": "Books, Movies & Music > Books > Coloring Books",
+      "source": "owner-approved mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Books, Movies & Music > Books > Coloring Books"
+    }
+  },
+  "properties": {
+    "apply": [
+      {
+        "field": "primary_colour",
+        "property_id": 200,
+        "property_name": "Primary color",
+        "value_ids": [
+          1
+        ],
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "field": "secondary_colour",
+        "property_id": 52047899002,
+        "property_name": "Secondary color",
+        "value_ids": [
+          10
+        ],
+        "values": [
+          "White"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Halloween",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "d05f6a201fe3117d104ed6e2b047151f3d5f59253bad15fee88e5aa4f5cfbca3",
+      "bytes": 3890921,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "290c6b38be8b49ce7da8493d821ce3da71012b15d00261526eb4ddcf66f19faf",
+      "bytes": 2053787,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "a5fbab26bfbf151a60ab99462d08b7e988279327203ab0df53596fc61942f742",
+      "bytes": 2656795,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "f2609e8c5f10319c4a03a8f3d21a059dd7d408828e921c6ad3c61f73987bf09d",
+      "bytes": 3424130,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "0bcf29a2531ce6a32108623015815ca6bced0083fc06433157684ab6ebe16a7c",
+      "bytes": 2982439,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-included.png",
+      "sha256": "37bd9024e64b931bef47ffe027ba6cd0684d2793ce9105caca9d34018d14cb16",
+      "bytes": 1437893,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-printable.png",
+      "sha256": "a4c4361f88f30cfc6ea9ef1ea3d97502fcf87c8ff619443374fd30b7cfc1e31c",
+      "bytes": 1077297,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-features.png",
+      "sha256": "5ddda72e5be9f8aa3d79477b5711f981564c9c0a7f57fe7e6af47e5c52d84140",
+      "bytes": 2137053,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-lifestyle.png",
+      "sha256": "fd79f41595609e0fbd0a36454a507128a14e660e8b5f6650048ad22b0f003bcb",
+      "bytes": 3784373,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "6255ce1c9d58d8503c7f98324e2ecb6277a40b6177f9c737b893851c3f45144d",
+      "bytes": 2276608,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Midnight-Monster-Diner-Colouring-Book-A4.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-A4.zip",
+      "sha256": "c83569b903fa025d2b5277f0f28a4205b8a7ae684fa9edf48d1cf4a7e79a3ce4",
+      "bytes": 7650657
+    },
+    {
+      "rank": 2,
+      "name": "Midnight-Monster-Diner-Colouring-Book-US-Letter.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-US-Letter.zip",
+      "sha256": "9f42657bb7fbf3c695dda2ce8be24c21ec3a95ccbf9968a74bb7ba26d67830aa",
+      "bytes": 7648334
+    },
+    {
+      "rank": 3,
+      "name": "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip",
+      "sha256": "b9a4653f9903f49fc7d976448cee94b8ad1c1f3a79ad80d7bdc2e49008f9f9bc",
+      "bytes": 14258185
+    },
+    {
+      "rank": 4,
+      "name": "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip",
+      "sha256": "e9c4673632206cdb25c1dceeef643a09f4bb8ba05639e6c49becd69533e4b2ce",
+      "bytes": 12968965
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "1417ee14005e7ad863bc59fe96681afe902ddef8e0d0f11fd8171f4f54a2e8fe",
+    "stage3_fingerprint": "1819acc5d03ab8ce11ed8ed477168cf8964b17359e087c2a7ea8d7f4690db131",
+    "listing_sha256": "8766eac148ff0b4eecf77e190e2f599f86ad31e5299b5d850e6cde295bfdf815",
+    "delivery_sha256": "863b2d3a58f6caec73eb75771bfbc42ec652b67fa3c1a1bb3822523e2f49a609",
+    "marketing_approved_at": "2026-10-07T22:19:08.252Z"
+  },
+  "payload_sha256": "c742227385501637f3993fbf7e3be2569772a46f39e3bbf1e5ea406724d85d3f",
+  "prepared_at": "2026-10-07T22:19:27.107Z"
+}

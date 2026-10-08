@@ -1,0 +1,175 @@
+{
+  "pattern_id": "heirloom-dahlia",
+  "name": "Heirloom Dahlia",
+  "category": "flower",
+  "difficulty": "experienced",
+  "finished_size": "About 10 cm across with a stem about 20 cm long.",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn for the layered dahlia petals",
+      "colour": "Deep plum, mauve, or moonlit pink",
+      "amount": "About 25 g"
+    },
+    {
+      "description": "Mercerised cotton yarn for calyx and stem",
+      "colour": "Leaf green",
+      "amount": "About 10 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1/C-2"
+  },
+  "additional_materials": [
+    "24-gauge floral wire, 24 cm long",
+    "Floral tape",
+    "Tapestry needle",
+    "Stitch marker",
+    "Wire cutters or strong pliers",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "rnds": "rounds",
+    "MR": "magic ring",
+    "FLO": "front loop only",
+    "BLO": "back loop only",
+    "inc": "work 2 sc in the same stitch"
+  },
+  "gauge": "Gauge is not critical. Using the stated yarn and hook gives a bloom about 10 cm across.",
+  "instructions": [
+    {
+      "heading": "Dahlia Bloom",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Ch 1, work 8 sc in an MR; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Working in the FLO of each Rnd 1 st, make 8 petals: sl st in FLO, ch 4, sl st in second ch from hook, sc in next ch, hdc in next ch, then sl st in the same FLO.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, working in the BLO of Rnd 1, inc in each st around; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 16
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Working in the FLO of each Rnd 3 st, make 16 petals: sl st in FLO, ch 5, sl st in second ch from hook, sc in next ch, hdc in next ch, dc in next ch, then sl st in the same FLO.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Ch 1, working in the BLO of Rnd 3, work sc in next st, inc in next st 8 times; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Working in the FLO of each Rnd 5 st, make 24 petals: sl st in FLO, ch 7, sl st in second ch from hook, sc in next 2 ch, hdc in next 2 ch, dc in next ch, then sl st in the same FLO.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Ch 1, working in the BLO of Rnd 5, work sc in each of next 2 sts, inc in next st 8 times; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 32
+        },
+        {
+          "label": "Rnd 8",
+          "text": "Working in the FLO of each Rnd 7 st, make 32 petals: sl st in FLO, ch 9, sl st in second ch from hook, sc in next 2 ch, hdc in next 2 ch, dc in next 3 ch, then sl st in the same FLO.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 9",
+          "text": "Ch 1, working in the BLO of Rnd 7, work sc in each of next 3 sts, inc in next st 8 times; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 40
+        },
+        {
+          "label": "Rnd 10",
+          "text": "Working in the FLO of each Rnd 9 st, make 40 petals: sl st in FLO, ch 12, sl st in second ch from hook, sc in next 2 ch, hdc in next 3 ch, dc in next 3 ch, tr in next 2 ch, then sl st in the same FLO.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Calyx",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With green yarn, ch 1, work 6 sc in an MR; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, work sc in next st, inc in next st 6 times; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Make 6 sepals: sl st in next st, ch 7, sl st in second ch from hook, sc in next 2 ch, hdc in next 2 ch, dc in next ch, sl st in the same st, then sl st in each of next 2 sts.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Stem",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With green yarn, ch 1, work 5 sc in an MR; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnds 2-100",
+          "text": "Ch 1, sc in each st around; join with sl st in first sc. The ch 1 does not count as a st.",
+          "stitch_count": 5
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Cut a 24 cm length of floral wire. Insert it through the stem tube, leaving 3 cm extending from the top. Trim any wire extending from the lower end flush with the tube, then bend the trimmed tip inward with pliers.",
+    "Bend the upper 3 cm of wire into a flat loop about 1 cm across. Use the stem fastening-off tail to lash the loop securely to the centre of the calyx with six passes through the calyx MR.",
+    "Place the wrong side of the bloom against the calyx, with the calyx centred beneath the bloom. Use the bloom tail to sew the calyx edge to the underside at the bases of the outer petals with 12 evenly spaced whipstitches.",
+    "Wrap floral tape from the calyx down the upper 3 cm of stem, covering the wire loop and securing the calyx neatly against the stem."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the bloom after Rnd 10, leaving a 35 cm yarn tail for attaching it to the calyx.",
+    "Fasten off the calyx after Rnd 4, leaving a 20 cm yarn tail for securing it to the wire loop.",
+    "Fasten off the stem after Rnd 100, leaving a 20 cm yarn tail for securing the wire loop.",
+    "Weave in the magic-ring tails and all remaining yarn tails on the reverse side after assembly, taking care not to distort the petals.",
+    "Gently spread the petal layers from the centre outward. Curve the outer petals slightly forward to create a full, rounded dahlia shape.",
+    "Check that all wire ends are enclosed or bent inward before displaying or gifting the flower."
+  ],
+  "notes": [
+    "The petal rounds are worked in the front loops of the preceding structural round. Each following structural round is worked in the unused back loops of the stated earlier round.",
+    "For a darker moonlit centre, work Rnds 1-4 in a deeper shade of the petal yarn, then change to the main petal shade at Rnd 5."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

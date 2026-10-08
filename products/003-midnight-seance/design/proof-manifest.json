@@ -1,0 +1,10 @@
+{
+  "milestone":2,"productId":"003","status":"PROOF_NOT_FINAL",
+  "masters":["S01","S03","G03","G04"],
+  "themes":["full-colour","economy"],
+  "defaultSizes":{"invitation":["5x7","a4","us-letter"],"welcome":["8x10","a4","us-letter"],"word-search":["a4","us-letter"]},
+  "stressScenarios":["maximum","maximum-wide","uk","us","special","optional-empty"],
+  "expectedPdfCount":36,"expectedRasterizedPageCount":40,"dpi":300,
+  "actualArtifactManifest":"storage/products/003/prompt-02-review/proof-manifest.json",
+  "scope":"Three proof types with a matching word-search answer page; no inventory expansion"
+}

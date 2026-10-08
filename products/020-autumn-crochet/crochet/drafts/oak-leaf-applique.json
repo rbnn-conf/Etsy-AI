@@ -1,0 +1,79 @@
+{
+  "pattern_id": "oak-leaf-applique",
+  "name": "Oak Leaf Appliqué",
+  "category": "applique",
+  "difficulty": "easy",
+  "finished_size": "About 13 cm long and 6 cm wide",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for the leaf",
+      "colour": "Burnt ochre",
+      "amount": "About 8 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E/4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet"
+  },
+  "gauge": "Gauge is not critical because this is an appliqué. A different gauge will alter the finished size.",
+  "instructions": [
+    {
+      "heading": "Leaf and Stem",
+      "steps": [
+        {
+          "label": null,
+          "text": "Ch 30.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Row 1",
+          "text": "Starting in the 2nd ch from hook and working 1 stitch in each successive ch, work: sl st, sc, hdc, dc, hdc, sc, sl st; then sc, hdc, dc, tr, dc, hdc, sc, sl st; then sc, hdc, dc, tr, dc, hdc, sc, sl st; then sc, hdc, dc, tr, dc. In the last ch, work (tr, ch 2, tr).",
+          "stitch_count": null
+        },
+        {
+          "label": "Row 1",
+          "text": "Working in the unused opposite loops of the foundation ch and working 1 stitch in each successive ch, work: dc, tr, dc, hdc, sc; then sl st, sc, hdc, dc, tr, dc, hdc, sc; then sl st, sc, hdc, dc, tr, dc, hdc, sc; then sl st, sc, hdc, dc, hdc, sc, sl st. Ch 7 for the stem, sl st in the 2nd ch from hook and in each of the next 5 ch, then sl st into the leaf base.",
+          "stitch_count": 65
+        },
+        {
+          "label": null,
+          "text": "Keeping the yarn behind the work, surface sl st from the leaf base to the tip over 29 foundation-chain links to make the central vein.",
+          "stitch_count": 29
+        }
+      ]
+    }
+  ],
+  "assembly_required": false,
+  "finishing": [
+    "Fasten off at the leaf tip after completing the central vein.",
+    "Weave in both yarn tails on the reverse side without pulling the outline out of shape.",
+    "Lightly steam-block the appliqué, shaping the rounded lobes and pointed tip. Let it dry flat."
+  ],
+  "notes": [
+    "Surface sl st: with yarn behind the work, insert the hook at the next point, yarn over, pull up a loop, and pull it through the loop on the hook.",
+    "For a smaller or larger appliqué, use a finer or thicker yarn and an appropriately sized hook."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

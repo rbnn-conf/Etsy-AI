@@ -1,0 +1,86 @@
+{
+  "pattern_id": "crochet-hoop-band",
+  "name": "Crochet Hoop Band",
+  "category": "hoop cover",
+  "difficulty": "intermediate",
+  "finished_size": "About 20 cm across, with a band about 2.8 cm wide",
+  "yarn": [
+    {
+      "description": "Cotton yarn for the textured hoop cover and lacing cord",
+      "colour": "Warm ivory",
+      "amount": "About 25 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1/C-2"
+  },
+  "additional_materials": [
+    "20 cm wooden embroidery hoop",
+    "Tapestry needle",
+    "Scissors",
+    "Measuring tape"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "hdc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "hdc": "half double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "BLO": "back loop only"
+  },
+  "gauge": "25 hdc and 28 hdc BLO rows = 10 cm. Match the row gauge so the band fits the hoop circumference.",
+  "instructions": [
+    {
+      "heading": "Textured Band",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 9. Hdc in the third ch from hook and in each remaining ch across; turn.",
+          "stitch_count": 7
+        },
+        {
+          "label": "Rows 2-176",
+          "text": "Ch 2, which does not count as a st; hdc BLO in each st across; turn. Repeat this row until 176 rows have been completed. Do not fasten off; retain the working yarn for sewing the seam.",
+          "stitch_count": 7
+        }
+      ]
+    },
+    {
+      "heading": "Lacing Cord",
+      "steps": [
+        {
+          "label": null,
+          "text": "Ch 450. Sl st in the second ch from hook and in each remaining ch across. Fasten off, leaving a 20 cm tail at the final end; retain the starting tail.",
+          "stitch_count": 449
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "With right sides facing, align the short ends of the band. Using the attached working yarn, whipstitch through both loops of each corresponding end st, making 7 seam stitches. Leave the working yarn attached until finishing.",
+    "Place the joined band around the outside edge of the fully tightened embroidery hoop, positioning the seam beside the hoop screw. Centre the band so its long edges extend evenly on both sides of the ring.",
+    "Fold both long edges towards the back of the hoop so they meet over the inner edge of the wooden ring.",
+    "Thread one end of the lacing cord onto the tapestry needle. Starting beside the seam, lace through matching row-end loops on both folded edges at every fourth row-end pair, beginning at Row 1 and ending at Row 173. Work through 44 pairs in total, alternating from one edge to the other, and pull the lacing snug without distorting the band.",
+    "Secure both ends of the lacing cord through nearby stitches on the back of the cover. Keep the lacing hidden on the wall-facing side of the hoop."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the band yarn after sewing the seam by cutting the yarn, pulling the tail through the final loop, and tightening it.",
+    "Weave the band seam tail into the reverse side of the textured stitches without pulling the seam tight.",
+    "Weave both lacing-cord tails through the back of the cover, trimming them close to the fabric.",
+    "Shape the cover evenly around the hoop, ensuring that the seam sits beside the screw and the lacing remains on the back."
+  ],
+  "notes": [
+    "The turning chain does not count as a stitch throughout the band.",
+    "The 176-row band is calculated for a 20 cm hoop at the stated row gauge."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

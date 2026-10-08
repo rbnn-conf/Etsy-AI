@@ -1,0 +1,37 @@
+{
+  "illustration_style": "Editorial fibre-craft product photography with an original cosy autumn studio aesthetic, presenting realistically crocheted handmade pieces as premium downloadable pattern visuals.",
+  "line_weight": "No drawn outlines",
+  "line_quality": "Not applicable; definition comes from clearly resolved yarn loops, stitch relief and softly irregular handmade contours.",
+  "detail_level": "High material detail in the hero makes, with legible individual stitches, yarn twist and dimensional construction; supporting surfaces remain restrained.",
+  "character_language": "When character motifs are used, render them as original compact crochet figures with rounded proportions, simple attached facial details and friendly restrained expressions.",
+  "background_density": "Low to medium; clean tactile studio surfaces with a few understated seasonal texture cues, kept secondary to the crochet work.",
+  "composition": "Clear single-product or small coordinated-group hierarchy, ample peripheral breathing room for optional pattern-cover titling, and uncluttered edges suitable for thumbnails.",
+  "palette": "Autumnal earth tones of terracotta, ochre, moss, mulberry and warm cream, grounded with oatmeal and soft stone neutrals; use a small cool accent only where it improves colour separation.",
+  "colour_mode": "full colour",
+  "shading": "Soft diffused daylight with gentle contact shadows that reveal stitch depth; natural tonal variation rather than dramatic contrast.",
+  "texture": "Central, authentic fibre texture: visible crochet loops, subtle yarn halo, soft fabric weave and lightly tactile paper-like surfaces.",
+  "mood": "Cosy, tactile, polished and quietly abundant; adult craft-market warmth with a modern seasonal feel.",
+  "age_suitability": "Adults",
+  "print_considerations": "Use pale or lightly textured backgrounds, preserve fine stitch contrast at home-print scale, avoid large solid dark fields, and keep any cover text high-contrast and well clear of trimming or folding zones.",
+  "shared_prompt": "Original editorial fibre-craft product photography, showing realistic handmade crochet with crisp visible loops, yarn twist, soft stitch relief and subtly irregular artisan contours. Use soft diffused daylight, gentle contact shadows and a pale tactile studio finish. Full-colour autumn earth palette of terracotta, ochre, moss, mulberry, warm cream, oatmeal and stone, with sparing cool accents; premium, cosy, modern adult craft-market mood, uncluttered hierarchy and ample breathing room. No illustrated outlines or glossy synthetic surfaces.",
+  "avoid": [
+    "Any exact pumpkin forms, stitch construction, stems, colour assignments or diagonal flat-lay from the references",
+    "Any woven-basket flower arrangement, stitched badge, label text or source typography from the references",
+    "Any held dark-wrapped spooky bouquet, white bow, figure pose or leaf-framed brown backdrop from the references",
+    "Photorealistic human models as the focal point",
+    "Large ink-heavy black or charcoal background fields",
+    "Cluttered props that obscure construction details",
+    "Misspelled text, faux brand marks, logos or copied promotional wording",
+    "Plastic-looking yarn, smooth CGI surfaces or illegible tiny stitches"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "references",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": null,
+  "created_at": "2026-10-06T19:17:29.487Z"
+}

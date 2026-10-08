@@ -1,0 +1,112 @@
+{
+  "pattern_id": "waxflower-spray",
+  "name": "Waxflower Spray",
+  "category": "flower",
+  "difficulty": "easy",
+  "finished_size": "About 15 cm long",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn for star-shaped flowers",
+      "colour": "Ivory or blush pink",
+      "amount": "About 8 g"
+    },
+    {
+      "description": "Fine cotton yarn for flower centres",
+      "colour": "Soft gold",
+      "amount": "About 2 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B/1"
+  },
+  "additional_materials": [
+    "24-gauge floral wire: one 15 cm and three 7 cm lengths",
+    "Green floral tape",
+    "Tapestry needle",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "MR": "magic ring",
+    "Rnd": "round",
+    "FO": "fasten off",
+    "cm": "centimetre"
+  },
+  "gauge": "Gauge is not critical because the flowers are decorative. Use a firm tension so the small petals hold their shape.",
+  "instructions": [
+    {
+      "heading": "Star Flowers (make 7)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With flower yarn, make an MR, ch 1, work 5 sc in MR, then sl st to the first sc to join. The ch 1 does not count as a stitch.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Work the following in each of the 5 sc around: ch 2, dc, hdc, ch 2, sl st. This forms 5 pointed petals.",
+          "stitch_count": 15
+        }
+      ]
+    },
+    {
+      "heading": "Centres (make 7)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With centre yarn, make an MR, ch 1, work 5 sc in MR, pull the ring closed, then sl st to the first sc to join. The ch 1 does not count as a stitch.",
+          "stitch_count": 5
+        }
+      ]
+    },
+    {
+      "heading": "Wire Spray",
+      "steps": [
+        {
+          "label": "Prepare",
+          "text": "Cut one 15 cm main wire and three 7 cm branch wires. Measure 3 cm, 6 cm and 9 cm upward from the base of the main wire; these are the branch joining points.",
+          "stitch_count": null
+        },
+        {
+          "label": "Branch layout",
+          "text": "At each joining point, place 2 cm of a branch wire against the main wire with its remaining length pointing upward. Arrange the branches alternately left, right and left at about a 30-degree angle from the main wire.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Sew one centre to the front of each star flower, covering the magic-ring opening. Take small stitches through the centre and the flower base, then secure the centre yarn on the reverse side.",
+    "Bind the 2 cm overlap of each branch wire to the main wire with green floral tape. Begin 1 cm below each joining point and wrap upward past the join by 1 cm.",
+    "Wrap floral tape from the base to the tip of the main wire, overlapping each wrap slightly. Wrap each branch from its join to its tip, covering all exposed wire.",
+    "Use the flower yarn tails to sew one flower 2 cm below the tip of each branch and one flower at each branch tip. Position the centres facing outward and wind each tail around the wire twice before securing it on the flower back.",
+    "Sew the remaining flower to the tip of the main wire with its centre facing forward. Bend the wire tips gently to give the spray a loose, natural shape."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "After the final slip stitch on every flower and centre, FO. Leave a 20 cm tail on flowers and a 12 cm tail on centres for sewing.",
+    "Weave in the centre yarn tails on the reverse side after the centres are attached.",
+    "Weave in the remaining flower yarn tails after securing the flowers to the wire.",
+    "Gently curve the main stem and branches by hand. Avoid sharp bends that could crease the floral tape."
+  ],
+  "notes": [
+    "The seven small flowers create a light filler spray: two flowers on each of three branches and one flower at the main stem tip.",
+    "Keep the floral tape under light tension while wrapping so it grips the wire and produces a neat green stem."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

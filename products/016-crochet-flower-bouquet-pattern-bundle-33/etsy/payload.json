@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "product_id": "016",
+  "product_name": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+  "mode": "live",
+  "listing": {
+    "title": "Crochet Flower Bouquet Patterns, 33 Printable PDF Designs in US Terms, Instant Digital Download",
+    "description": "Settle in with yarn and a hook, and let a moonlit meadow grow stitch by stitch. This crochet flower bouquet collection brings a gentle, poetic pause to your making time. 🌙\n\nThe Moonlit Meadow Crochet Bouquet Pattern Bundle gathers romantic blooms, delicate accents and leafy foliage in a tranquil, heirloom-inspired botanical mood. Mix flowers, stems and greenery into arrangements that feel entirely your own.\n\nA few meadow favourites\nGarden Rose creates a dusty blush pink bloom with two petal layers, while Moon Peony pairs layered moonlit ivory petals with a soft yellow centre on a crochet-covered wire stem. Twilight Lily brings pale lilac petals, soft gold stamens and deep violet throat markings. For smaller details, add the powder-blue Forget-Me-Not or the scalloped Sleeping Rosebud. Sage Eucalyptus, Woodland Fern and Trailing Ivy offer foliage for building out a bouquet. 🌿\n\nWhat you receive\n• 33 crochet patterns in US crochet terms\n• A complete 98-page collection PDF\n• Every pattern supplied as its own PDF\n• A pattern index\n• Materials and tools reference\n• Abbreviations reference\n• Printing and crochet guide\n• Step-by-step written instructions\n• Moonlit Meadow Arrangement Ideas with 5 combination ideas\n• Printable A4 and US Letter versions\n\nHow it works\nDownload the two ZIP files, choose a pattern, consult the materials and tools reference, then print your chosen pages if you wish. Gather your yarn and hook, follow the written instructions, and combine your chosen flowers, foliage and stems into a meadow-inspired arrangement.\n\nMake one small bloom for a quiet evening with your hook, or explore the collection gradually as your floral ideas unfold. A lovely way to spend calm creative time, one stitch at a time. ✨\n\nThis is a digital download containing PDF files. No physical item is shipped, and no yarn, hook or kit is included.",
+    "tags": [
+      "crochet bouquet",
+      "flower patterns",
+      "pdf patterns",
+      "us crochet terms",
+      "digital download",
+      "printable patterns",
+      "floral crochet",
+      "botanical crochet",
+      "crochet rose",
+      "crochet peony",
+      "crochet foliage",
+      "bouquet making",
+      "crochet decor"
+    ],
+    "materials": [
+      "Digital PDF patterns",
+      "A4 PDF patterns",
+      "US Letter PDF patterns",
+      "Complete collection PDF",
+      "Individual pattern PDFs",
+      "Pattern index",
+      "Materials reference",
+      "Abbreviations reference",
+      "Printing crochet guide",
+      "Arrangement ideas"
+    ],
+    "price": {
+      "amount": 14.95,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 6343,
+      "path": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints",
+      "source": "owner-approved crochet-pattern-bundle mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Craft Supplies & Tools > Patterns & How To > Crochet Patterns"
+    }
+  },
+  "properties": {
+    "apply": [],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "All season",
+        "reason": "\"All season\" is not one of Etsy's values for Occasion"
+      },
+      {
+        "field": "primary_colour",
+        "value": "Purple",
+        "reason": "no such property for this category"
+      },
+      {
+        "field": "secondary_colour",
+        "value": "Green",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-stop-scroll.png",
+      "sha256": "a37f405735847608e18d3e78ad783c7bb31d03a949d6bdc478428af68d80914e",
+      "bytes": 3748615,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-what-you-get.png",
+      "sha256": "796587c4097388bd7190d8d1e664c818fd7cd4dfdda492bbe54270b3620a4b42",
+      "bytes": 3648821,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-quality.png",
+      "sha256": "dfe5b07d04a8c009acd919199a4ef9037dc678d7524df4dc0abf4d2247db8af9",
+      "bytes": 4192529,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-variety.png",
+      "sha256": "b81d66246215745cd1ef9fb30ee4a1568caf88c7fee0ac3f940490c97e669ea5",
+      "bytes": 4564128,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-useful.png",
+      "sha256": "63b0bc5055e12afa72a26cebb939cc1bda140f05b5c9a27f15b39d4c142e5297",
+      "bytes": 3261791,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-how-it-works.png",
+      "sha256": "1b030213cf84084f95dcfa660f84c0df859d5ebf2d69af55252e1e6a9c781652",
+      "bytes": 4081194,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-desire.png",
+      "sha256": "a4d2cf5ef3c7136bcc009452e93053f6132b402b8ef83bcfc111b3a30cbeb050",
+      "bytes": 3923550,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-doubts.png",
+      "sha256": "e4d56a1abfa9e031f3f1ea29a2ad4922ad51cdce33708f7d739c6a318fd77a12",
+      "bytes": 4081869,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-Pattern-A4.zip",
+      "sha256": "6056913be43f18539d8607f440a1225ec90e7fca3bfc1b57a4e3d806259ca433",
+      "bytes": 10573752
+    },
+    {
+      "rank": 2,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-Pattern-A4-Individual-Patterns.zip",
+      "sha256": "f0be8ad32e23889ceeac978a9b8436a9d1eaf18fbecfebc70dae651528eb04e7",
+      "bytes": 4317366
+    },
+    {
+      "rank": 3,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-Pattern-US-Letter.zip",
+      "sha256": "973a9d05ffc43dcdbec03ad087607534a8309affc2751d105814e97b405f6f9f",
+      "bytes": 10557575
+    },
+    {
+      "rank": 4,
+      "name": "Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip",
+      "file": "etsy/delivery/Moonlit-Meadow-Crochet-Bouquet-US-Letter-Individual-Patterns.zip",
+      "sha256": "b5d5cdffab8de83156b99dead342333559b464803f4151ea3e46309f5ba119e3",
+      "bytes": 4330987
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "c704dd07b21912656292f71b36e9815ae388e1d77f7a2b2f8caaf928e3b46c7a",
+    "stage3_fingerprint": "3f447cb573b10fd9571883540dd1c4c9544eb9b6802be63716c7fe408255511a",
+    "listing_sha256": "08b8f5a7bfe43224faecc344a1f0c4baaeb21d506d634a594e1a0c166e6ab101",
+    "delivery_sha256": "a925dd01668be5e66593bcbccb1b0fe36d64b30c664debf9e865358d542411d9",
+    "marketing_approved_at": "2026-10-06T09:14:48.854Z"
+  },
+  "payload_sha256": "4521ff3cf8328e383335c9cca37cfdf7ae2afd81b5f5ccfcb6894cb370ffc127",
+  "prepared_at": "2026-10-06T10:15:28.407Z"
+}

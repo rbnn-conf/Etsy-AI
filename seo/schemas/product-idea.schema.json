@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Owner product idea (NEW_PRODUCT). Product-type agnostic. Optional structured intake fields (ADR-033): absent = unknown, never guessed.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "product_id",
+    "working_name",
+    "product_type",
+    "concept",
+    "audience",
+    "season",
+    "themes",
+    "format",
+    "page_count",
+    "owner_notes",
+    "candidate_keywords",
+    "status"
+  ],
+  "properties": {
+    "product_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{3}$"
+    },
+    "working_name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 140
+    },
+    "product_type": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 140,
+      "description": "Owner's words; not an enum"
+    },
+    "concept": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2000
+    },
+    "audience": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "season": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "themes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "format": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "page_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "owner_notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "candidate_keywords": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "researching",
+        "brief_ready",
+        "approved",
+        "rejected",
+        "handed_off"
+      ]
+    },
+    "audiences": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 60
+      },
+      "description": "adults | teens | kids | families | general, or a custom audience in the owner's words"
+    },
+    "delivery": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "enum": [
+          "digital",
+          "printable",
+          "physical",
+          "editable",
+          "other"
+        ]
+      }
+    },
+    "formats": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 60
+      },
+      "description": "What the product is, e.g. coloring pages, planner, greeting card. The first is the primary format."
+    },
+    "styles": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 60
+      },
+      "description": "Style / attributes, e.g. cute, minimalist, vintage"
+    },
+    "item_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "description": "For products counted in items rather than pages"
+    }
+  }
+}

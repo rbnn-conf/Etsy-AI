@@ -1,0 +1,130 @@
+{
+  "pattern_id": "candy-corn-bag-charm",
+  "name": "Candy-Corn Bag Charm",
+  "category": "bag charm",
+  "difficulty": "easy",
+  "finished_size": "About 6 cm tall, excluding the hanging loop.",
+  "yarn": [
+    {
+      "description": "Light yarn for the pointed top",
+      "colour": "White",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Light yarn for the middle stripe",
+      "colour": "Orange",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Light yarn for the wide base",
+      "colour": "Yellow",
+      "amount": "About 3 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E-4"
+  },
+  "additional_materials": [
+    "12 mm lobster clasp or key ring",
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sc",
+    "hdc",
+    "sl st"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "sl st": "slip stitch",
+    "st": "stitch",
+    "sts": "stitches"
+  },
+  "gauge": "Gauge is not critical. Keep stitches firm so the charm holds its tapered candy-corn shape.",
+  "instructions": [
+    {
+      "heading": "Candy Corn Charm",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With white yarn, ch 2. Sc in the second ch from hook.",
+          "stitch_count": 1
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, turn. Work 2 sc in the st.",
+          "stitch_count": 2
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, turn. Work 2 sc in the first st, sc in the remaining st.",
+          "stitch_count": 3
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Change to orange in the final pull-through of the last sc.",
+          "stitch_count": 4
+        },
+        {
+          "label": "Row 5",
+          "text": "With orange yarn, ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Row 7",
+          "text": "Ch 1, turn. Work 2 hdc in the first st, hdc in each remaining st. Change to yellow in the final pull-through of the last hdc.",
+          "stitch_count": 7
+        },
+        {
+          "label": "Row 8",
+          "text": "With yellow yarn, ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Row 9",
+          "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Row 10",
+          "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Row 11",
+          "text": "Ch 1, turn. Work 2 sc in the first st, sc in each remaining st. Do not fasten off.",
+          "stitch_count": 11
+        },
+        {
+          "label": "Edging",
+          "text": "Ch 1. Work 10 sc down the sloping side, placing 1 sc in each row end from Row 11 through Row 2. Work (sc, ch 18, sl st in the same point) in the point of Row 1. Work 10 sc up the other sloping side, placing 1 sc in each row end from Row 2 through Row 11. Work 1 sc in each of the 11 sts across the top edge. Sl st to the first sc.",
+          "stitch_count": 32
+        }
+      ]
+    }
+  ],
+  "assembly_required": false,
+  "finishing": [
+    "Fasten off after completing the edging, leaving a 10 cm yarn tail.",
+    "Weave in all yarn tails on the reverse side, taking care not to pull the colour stripes out of shape.",
+    "Gently flatten the charm with your fingers to define the pointed white tip and wide yellow base.",
+    "Clip a lobster clasp or attach a key ring through the chain loop at the pointed end."
+  ],
+  "notes": [
+    "Turning chains do not count as sts throughout.",
+    "To change colour, complete the final stitch until two loops remain on the hook, yarn over with the new colour, and pull through both loops.",
+    "The charm is a flat, single-layer accessory."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,370 @@
+{
+  "theme": "Moonlit meadow crochet flowers and bouquet components",
+  "audience": [
+    "Adult crocheters",
+    "Cottagecore home décor makers",
+    "Romantic botanical gift makers",
+    "Crocheters building everlasting bouquets"
+  ],
+  "style": [
+    "romantic cottagecore",
+    "twilight meadow",
+    "heirloom botanical",
+    "soft muted palette",
+    "elegant illustrations",
+    "UK crochet terms"
+  ],
+  "patterns": [
+    {
+      "pattern_id": "cottage-garden-rose",
+      "name": "Cottage Garden Rose",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 8 cm across",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A long petal-edged strip is worked flat, spiralled into a full rose bloom and sewn securely at the base.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A softly layered, rounded rose bloom for the centre of romantic bouquet stems, wreaths and vase arrangements."
+    },
+    {
+      "pattern_id": "moonlit-peony",
+      "name": "Moonlit Peony",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "experienced",
+      "approx_size": "about 11 cm across",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "Separate graduated petal rounds and a textured centre are made individually, layered around a base and joined into a generous open bloom.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "dtr",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A large, many-petalled peony with a softly cupped silhouette, designed as a luxurious bouquet centrepiece."
+    },
+    {
+      "pattern_id": "dusk-anemone",
+      "name": "Dusk Anemone",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 7 cm across",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A compact textured centre is worked separately, then joined to a single round of broad, gently shaped petals.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "bobble",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "An open six-petalled anemone with a contrasting raised centre for a moonlit meadow bouquet."
+    },
+    {
+      "pattern_id": "woodland-ranunculus",
+      "name": "Woodland Ranunculus",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "intermediate",
+      "approx_size": "about 6 cm across",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "Successive close-set petal rounds are worked from a small centre outward to create a cupped, layered bloom.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A densely layered, cup-shaped ranunculus that adds rounded texture between larger focal flowers."
+    },
+    {
+      "pattern_id": "meadow-cosmos",
+      "name": "Meadow Cosmos",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "beginner",
+      "approx_size": "about 6 cm across",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A simple circular centre is worked first, with eight airy petals formed directly around it in one piece.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A light, open-petalled cosmos bloom suited to delicate sprays, garlands and informal bouquet clusters."
+    },
+    {
+      "pattern_id": "lavender-sprig",
+      "name": "Lavender Sprig",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "easy",
+      "approx_size": "about 18 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Small clustered florets are made along a narrow stem, then paired with simple leaves to create a slender upright sprig.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "puff",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A tall lavender stem with clustered florets and narrow leaves, made to soften and lengthen bouquet outlines."
+    },
+    {
+      "pattern_id": "wild-waxflower-spray",
+      "name": "Wild Waxflower Spray",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "intermediate",
+      "approx_size": "about 16 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Tiny five-petalled blossoms are worked separately and attached along branching stems for an airy spray.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A branching spray of petite open flowers for adding fine, starry detail around fuller blooms."
+    },
+    {
+      "pattern_id": "blush-rosebud",
+      "name": "Blush Rosebud",
+      "category": "bud",
+      "role": "accent",
+      "difficulty": "easy",
+      "approx_size": "about 4 cm tall",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A small closed bud is shaped in rounds, then finished with a separate pointed calyx joined at its base.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A compact closed rosebud with a neat leafy calyx, intended for small accents and emerging side stems."
+    },
+    {
+      "pattern_id": "sage-eucalyptus-branch",
+      "name": "Sage Eucalyptus Branch",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "easy",
+      "approx_size": "about 20 cm long",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "Rounded leaves are worked individually and attached in alternating pairs along a flexible covered branch.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A long sage-green branch of rounded leaves that frames flowers and gives bouquets a relaxed trailing line."
+    },
+    {
+      "pattern_id": "maidenhair-fern",
+      "name": "Maidenhair Fern",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "intermediate",
+      "approx_size": "about 18 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A central spine is worked with repeated fine side leaflets, creating a lacy, fan-like fern frond in one continuous piece.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A delicate, lacy fern frond for filling negative space and adding a soft woodland texture to arrangements."
+    },
+    {
+      "pattern_id": "covered-floral-stem",
+      "name": "Covered Floral Stem",
+      "category": "stem",
+      "role": "structural",
+      "difficulty": "beginner",
+      "approx_size": "about 25 cm long",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A narrow crocheted cover is worked around a florist-wire core, with a shaped attachment point for a flower or foliage piece.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A flexible, covered stem component for mounting individual blooms, buds, foliage and filler sprigs into posies."
+    },
+    {
+      "pattern_id": "scalloped-bouquet-collar",
+      "name": "Scalloped Bouquet Collar",
+      "category": "bouquet wrap",
+      "role": "structural",
+      "difficulty": "beginner",
+      "approx_size": "about 12 cm across when flat",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A shallow circular lace collar is worked from the centre outward with soft scalloped edging and openings for tying around gathered stems.",
+      "main_stitches": [
+        "ch",
+        "dc",
+        "htr",
+        "tr",
+        "sl st"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A shallow scalloped crochet collar that gathers and prettily finishes the handles of small everlasting bouquets."
+    }
+  ],
+  "combinations": {
+    "title": "Moonlit Meadow Arrangement Ideas",
+    "intro": "Mix the blooms, meadow fillers and foliage into softly gathered arrangements, then secure the individual wired stems with the scalloped bouquet collar.",
+    "items": [
+      {
+        "name": "Moonlit Garden Posy",
+        "patterns": [
+          {
+            "pattern_id": "cottage-garden-rose",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "dusk-anemone",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "lavender-sprig",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "sage-eucalyptus-branch",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "covered-floral-stem",
+            "quantity": 6
+          },
+          {
+            "pattern_id": "scalloped-bouquet-collar",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "A balanced romantic posy with focal blooms clearly framed by foliage and upright lavender."
+        ]
+      },
+      {
+        "name": "Woodland Peony Bouquet",
+        "patterns": [
+          {
+            "pattern_id": "moonlit-peony",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "woodland-ranunculus",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "wild-waxflower-spray",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "maidenhair-fern",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "covered-floral-stem",
+            "quantity": 7
+          },
+          {
+            "pattern_id": "scalloped-bouquet-collar",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Use the fern as a soft outer halo around the larger peony and rounded ranunculus blooms."
+        ]
+      },
+      {
+        "name": "Twilight Meadow Jar Arrangement",
+        "patterns": [
+          {
+            "pattern_id": "meadow-cosmos",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "blush-rosebud",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "lavender-sprig",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "sage-eucalyptus-branch",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "covered-floral-stem",
+            "quantity": 9
+          }
+        ],
+        "notes": [
+          "Leave the stems loose in a small vase or jar for an informal wildflower effect."
+        ]
+      }
+    ]
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-02T06:49:18.566Z"
+}

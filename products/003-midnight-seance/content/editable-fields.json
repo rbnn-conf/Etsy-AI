@@ -1,0 +1,18 @@
+{
+  "invitation":{
+    "eventTitle":{"label":"Event title","max":36,"required":true},
+    "date":{"label":"Date","max":42,"required":true},
+    "time":{"label":"Time","max":40,"required":true},
+    "venue":{"label":"Venue","max":48,"required":true},
+    "address":{"label":"Address","max":80,"required":true},
+    "host":{"label":"Host","max":48,"required":true},
+    "rsvp":{"label":"RSVP details","max":88,"required":true},
+    "dressCode":{"label":"Dress code (optional)","max":60,"required":false}
+  },
+  "welcome":{
+    "eventTitle":{"label":"Event title","max":48,"required":true},
+    "host":{"label":"Host","max":64,"required":true},
+    "subtitle":{"label":"Welcome subtitle","max":80,"required":true},
+    "motto":{"label":"Closing line (optional)","max":80,"required":false}
+  }
+}

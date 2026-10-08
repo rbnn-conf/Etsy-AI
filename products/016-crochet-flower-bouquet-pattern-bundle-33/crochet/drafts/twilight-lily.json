@@ -1,0 +1,170 @@
+{
+  "pattern_id": "twilight-lily",
+  "name": "Twilight Lily",
+  "category": "Twilight Lily flower",
+  "difficulty": "experienced",
+  "finished_size": "About 12 cm long flower head, with a stem about 20 cm long.",
+  "yarn": [
+    {
+      "description": "Fine cotton or cotton-blend yarn for petals",
+      "colour": "Pale moonlit lilac",
+      "amount": "About 10 g"
+    },
+    {
+      "description": "Fine cotton or cotton-blend yarn for calyx and stem",
+      "colour": "Deep leaf green",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Fine cotton or cotton-blend yarn for stamens",
+      "colour": "Soft gold",
+      "amount": "About 1 g"
+    },
+    {
+      "description": "Fine cotton yarn for petal throat markings",
+      "colour": "Deep violet",
+      "amount": "Small amount"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "One 24 cm length of 20-gauge floral wire",
+    "Six 13 cm lengths of 28-gauge floral wire",
+    "Wire cutters",
+    "Green floral tape"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr",
+    "dtr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "dtr": "double treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "rnds": "rounds",
+    "MR": "magic ring",
+    "cm": "centimetre",
+    "mm": "millimetre"
+  },
+  "gauge": "Gauge is not critical. A looser gauge makes softer, wider petals; keep your tension even so all six petals match.",
+  "instructions": [
+    {
+      "heading": "Petals — make 6",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With petal yarn, ch 35. Starting in 2nd ch from hook, work sc in next ch, hdc in next ch, dc in each of next 3 ch, tr in each of next 9 ch, and dtr in each of next 20 ch. Ch 2 to turn the tip. Working along the opposite side of the foundation ch, work dtr in each of next 20 ch, tr in each of next 9 ch, dc in each of next 3 ch, hdc in next ch, and sc in next ch. Join with sl st to first sc.",
+          "stitch_count": 68
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving a 20 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Stamens — make 6",
+      "steps": [
+        {
+          "label": "Each stamen",
+          "text": "With gold yarn, ch 15. Work 3 sc in 2nd ch from hook to form the anther. Sl st in each of the next 13 ch to the base of the cord.",
+          "stitch_count": 16
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving an 8 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Calyx — make 1",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With green yarn, make an MR, ch 1, work 6 sc in MR, and join with sl st to first sc. The ch 1 does not count as a st.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Work the following sequence 6 times: ch 6, sl st in 2nd ch from hook, sc in next ch, hdc in next ch, dc in each of next 2 ch, sl st in next base st. This forms 6 pointed sepals.",
+          "stitch_count": null
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving a 20 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Floral Stem — make 1",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With green yarn, make an MR, ch 1, work 6 sc in MR, and join with sl st to first sc. The ch 1 does not count as a st.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnds 2-3",
+          "text": "Sc in each st around.",
+          "stitch_count": 6
+        },
+        {
+          "label": null,
+          "text": "Insert the straight end of the 24 cm stem wire into the open end of the tube and guide it down to the closed MR end. Keep about 4 cm of wire extending beyond the working end.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnds 4-44",
+          "text": "Holding the wire inside the tube, sc in each st around.",
+          "stitch_count": 6
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving a 20 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Lay one 13 cm petal wire along the centre underside of each petal, from its base join to its pointed tip. Use the petal yarn tail to sew the wire to the backs of the stitch posts, keeping the wire concealed.",
+    "Arrange the six petal base joins evenly around the exposed upper stem wire. Overlap neighbouring petal edges slightly and sew each base securely to the wire and to the adjacent petal base.",
+    "Sew the six stamen bases around the upper stem wire inside the petal ring. Position the gold anther clusters towards the petal tips and spread the cords evenly through the flower centre.",
+    "Place the calyx against the outside of the petal bases, with its six sepals radiating down over the stem. Sew the centre of the calyx securely around the petal bases and stem wire.",
+    "Wrap green floral tape from the calyx base down the stem for about 3 cm, stretching the tape slightly as you wrap to conceal the joins."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining live loops securely. Weave petal, stamen, calyx and stem yarn tails through nearby reverse-side stitches, then trim the excess.",
+    "Use deep violet yarn to embroider three short straight markings from the base up the centre of each petal. Keep the markings within the lower third of each petal.",
+    "Gently curve each wired petal outward and slightly backwards. Curl the pointed tips away from the flower centre to create the open trumpet shape.",
+    "Bend the lower exposed stem-wire tip inward with wire cutters so no sharp end is exposed."
+  ],
+  "notes": [
+    "For a more dramatic night-garden effect, make the petals in pale ivory and keep the deep violet throat markings.",
+    "The petal wires allow the bloom to be opened wide for a bouquet or curved closer together for a bud-like silhouette."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

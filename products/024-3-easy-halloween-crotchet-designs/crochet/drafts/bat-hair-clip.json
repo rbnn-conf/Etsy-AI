@@ -1,0 +1,155 @@
+{
+  "pattern_id": "bat-hair-clip",
+  "name": "Moonlit Bat Hair Clip",
+  "category": "hair accessory",
+  "difficulty": "easy",
+  "finished_size": "About 7 cm wide, excluding the clip",
+  "yarn": [
+    {
+      "description": "Light yarn for bat, wings and ears",
+      "colour": "Black",
+      "amount": "About 8 m"
+    },
+    {
+      "description": "Light yarn for embroidered eyes",
+      "colour": "White",
+      "amount": "About 1 m"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E/4"
+  },
+  "additional_materials": [
+    "One 5 centimetre metal snap hair clip",
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sc",
+    "hdc",
+    "sl st",
+    "sc2tog"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "sl st": "slip stitch",
+    "sc2tog": "single crochet two together",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "sk": "skip"
+  },
+  "gauge": "Gauge is not critical because this is a small appliqué. Choose a firm fabric so the bat holds its shape on the clip.",
+  "instructions": [
+    {
+      "heading": "Wings (make 2)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With black yarn, ch 11. Sc in second ch from hook and in each remaining ch across; turn.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, sc2tog, sc in each of next 6 sts, sc2tog; turn.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, sc2tog, sc in each of next 4 sts, sc2tog; turn.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 1, sc2tog, sc in each of next 2 sts, sc2tog; turn.",
+          "stitch_count": 4
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 1, sc2tog, sc2tog; turn.",
+          "stitch_count": 2
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 1, sc2tog. Do not turn.",
+          "stitch_count": 1
+        },
+        {
+          "label": "Edging",
+          "text": "Ch 1. Along the nearest row-end edge, sl st in the end of Row 5, sc in the end of Row 4, hdc in the end of Row 3, sc in the end of Row 2, and sl st in the end of Row 1. Across the unused foundation loops, work (sc, ch 2, sc) in the first loop, sk 2 loops; make this sequence 2 more times; sc in the last loop. Work sl st, sc, hdc, sc and sl st up the opposite row-end edge, then sl st in the tip of Row 6 to join.",
+          "stitch_count": 15
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving a 15 centimetre tail for sewing. Make a second wing in the same way.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Body",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With black yarn, ch 5. Work 2 sc in second ch from hook, sc in each of next 2 ch, and 4 sc in last ch. Working along the opposite side of the foundation ch, sc in each of next 2 ch and 2 sc in last ch. Place marker in first st.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Work (sc in next st, 2 sc in next st) 6 times. Move marker to first st of rnd.",
+          "stitch_count": 18
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving a 30 centimetre tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Ears (make 2)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With black yarn, ch 3. Sc in second ch from hook and in next ch; turn.",
+          "stitch_count": 2
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, sc2tog.",
+          "stitch_count": 1
+        },
+        {
+          "label": null,
+          "text": "Fasten off, leaving a 10 centimetre tail for sewing. Make a second ear in the same way.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "With the body positioned vertically, sew the pointed end of one wing to each side of the body. Keep the scalloped foundation edge facing down and outward, and overlap each wing tip slightly beneath the body.",
+    "Sew the straight lower edge of each ear to one rounded end of the body. Place the ears side by side, with their points directed away from the body.",
+    "Using black yarn, sew the bat centrally to the upper surface of the open snap clip. Stitch through the clip end holes and around its centre bar, taking several small stitches at each point.",
+    "With white yarn, embroider two short vertical straight stitches on the body for eyes. Secure the yarn on the reverse side of the body."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off every remaining working loop by cutting the yarn and pulling the tail completely through the loop.",
+    "Weave in all yarn tails on the reverse side, using the assembly stitches to secure the wing and ear tails.",
+    "Lightly shape the wings so the scalloped edges curve downward. Do not block the metal hair clip.",
+    "Check that the clip opens and closes freely and that no stitches obstruct its mechanism."
+  ],
+  "notes": [
+    "The wing edging forms three small chain arches that create the bat's scalloped lower wing edge.",
+    "For a child’s accessory, supervise use and ensure the clip is attached securely before wearing."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

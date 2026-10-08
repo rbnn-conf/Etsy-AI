@@ -1,0 +1,571 @@
+{
+  "schema_version": 1,
+  "product_id": "023",
+  "product_name": "Midnight Monster Diner Colouring Book",
+  "product_format": "colouring-book",
+  "page_count": 21,
+  "created_at": "2026-10-07T21:52:54.225Z",
+  "source": {
+    "specification_sha256": "4b1cff329f62417c01986a0bd00b534a730a074903249cf16fed55a24ed8342b",
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1
+    }
+  },
+  "style_reference": {
+    "direction_version": 1,
+    "proof_pages": [
+      2,
+      3,
+      21
+    ],
+    "shared_prompt": "Original bold mid-century horror-cartoon colouring-book ink art for adults: clean white paper, thick varied black contours, rounded expressive shape language and crisp closed colourable forms. Medium-detail retro graphic styling with roomy open areas, selective simple patterning, controlled spot-black shadows and sparse screen-print-like texture marks. Playful, nostalgic and lightly macabre mood; no colour, gradients, hatching, grey wash, fine-line rendering or realistic shading. High-contrast, home-printable monochrome line work.",
+    "line_weight": "Thick to very thick black outlines, with deliberate weight variation for emphasis; never fine line.",
+    "line_quality": "Smooth, confident, rounded ink contours with slightly bouncy hand-drawn energy; crisp closed shapes for easy colouring.",
+    "detail_level": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+    "colour_mode": "black-and-white line art",
+    "shading": "No realistic rendering, gradients or hatching. Use occasional solid black shadow masses, simple spot blacks and sparse graphic texture marks only where they strengthen contrast.",
+    "background_density": "Moderately populated scene dressing that frames the main action without filling every gap; preserve generous white areas and clear colour zones.",
+    "canvas": {
+      "orientation": "portrait",
+      "background": "white",
+      "edge": "safe-margin",
+      "format_notes": "Single-sided portrait colouring pages with generous colourable spaces, robust contours and practical breathing room for A4 and US Letter home printing."
+    }
+  },
+  "generation": {
+    "model": "gpt-image-2.5-flare",
+    "size": "1024x1536",
+    "quality": "medium",
+    "note": "Pixel size as generated. No DPI claim: Stage 2 calculates the effective print resolution."
+  },
+  "pages": [
+    {
+      "page_id": "P001",
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Midnight Monster Diner",
+      "scene": "An illustrated title cover introducing a mischievous all-night monster diner.",
+      "composition": "A roadside diner counter is packed with a vampire, a one-eyed cyclops, a shaggy werewolf and a glamorous ghost, all facing an enormous haunted milkshake with a crooked straw, whipped-cream ghost and cherry eyeball. A crescent moon, diner sign and small stars frame the scene. Chunky arched title lettering reads “MIDNIGHT MONSTER DINER”; a small subtitle reads “COLOURING BOOK”.",
+      "subject": "Illustrated colouring-book cover: eccentric monster lineup at a retro all-night roadside diner counter, centred on an enormous haunted milkshake with ghost-shaped whipped cream, crooked straw and cherry eyeball; vampire, cyclops, werewolf and elegant ghost patrons; moon and diner sign framing the composition; exact title text “MIDNIGHT MONSTER DINER” in chunky retro lettering, small subtitle “COLOURING BOOK”.",
+      "required_text": [
+        "MIDNIGHT MONSTER DINER",
+        "COLOURING BOOK"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify title spelling exactly. Keep the cover as uncoloured line art despite its illustrated-cover role. Ensure the milkshake is the clear focal point and all character silhouettes remain distinct."
+    },
+    {
+      "page_id": "P002",
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Graveyard Shift",
+      "scene": "A vampire waiter delivers a towering breakfast to a sleepy mummy customer.",
+      "composition": "Inside the diner, a bow-tied vampire waiter balances a tray holding a stack of six pancakes, a skull-shaped butter pat and a steaming coffee pot. A bandaged mummy slumps in a booth beneath a window showing a moon and three tiny bats. The table holds a ketchup bottle, salt shaker and folded napkin.",
+      "subject": "Diner interior scene titled “GRAVEYARD SHIFT”: bow-tied vampire waiter carrying a tray with exactly six stacked pancakes, skull-shaped butter pat and coffee pot toward a sleepy mummy in a booth; moonlit window with three bats; ketchup, salt shaker and napkin on table.",
+      "required_text": [
+        "GRAVEYARD SHIFT"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify exactly six pancakes and three bats. Leave broad areas on the mummy wraps, booth, tray and pancakes."
+    },
+    {
+      "page_id": "P003",
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Jukebox Jitters",
+      "scene": "A living jukebox performs for dancing monster customers.",
+      "composition": "A smiling retro jukebox with eyes, little arms and speaker-grille teeth plays music notes while Frankenstein-like dancer, ghost dancer and horned demon dancer twist nearby. A checkerboard floor uses large squares only; two simple wall records and a neon-style lightning bolt decorate the background.",
+      "subject": "Diner dance corner titled “JUKEBOX JITTERS”: anthropomorphic retro jukebox with eyes, arms and speaker-grille teeth playing music; three dancing monsters, a square-headed stitched monster, a floating ghost and a small horned demon; large checkerboard floor, two wall records and lightning-bolt decoration.",
+      "required_text": [
+        "JUKEBOX JITTERS"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Keep checkerboard squares large and countable, not dense. Use only three dancers and exactly two wall records."
+    },
+    {
+      "page_id": "P004",
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Moon Pie Special",
+      "scene": "A witch cooks magical pies on the diner griddle.",
+      "composition": "A witch in a curled hat flips three crescent-moon pies with a spatula behind the counter. A bubbling cauldron-shaped mixing bowl, flour tin, rolling pin and pie display sit nearby. Four small stars float above the griddle; the menu board has only decorative lines, no small wording.",
+      "subject": "Counter-kitchen scene titled “MOON PIE SPECIAL”: witch cook in curled hat flipping exactly three crescent-moon pies on a diner griddle; cauldron-shaped mixing bowl, flour tin, rolling pin and pie display; exactly four floating stars; menu board with blank decorative lines only.",
+      "required_text": [
+        "MOON PIE SPECIAL"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify three pies and four stars. No legible small menu text beyond the page title."
+    },
+    {
+      "page_id": "P005",
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Booth for Two",
+      "scene": "A romantic skeleton couple share a banana split.",
+      "composition": "Two stylish skeletons sit opposite one another in a high-backed diner booth, sharing one oversized banana split with three scoops, two spoons and a heart-shaped cherry. A small vase holds one wilted rose. The booth window shows a crescent moon and a single passing cloud.",
+      "subject": "Romantic diner booth scene titled “BOOTH FOR TWO”: two stylish skeletons sharing one oversized banana split with exactly three scoops, two spoons and a heart-shaped cherry; one wilted rose in a small vase; crescent moon and one cloud outside the booth window.",
+      "required_text": [
+        "BOOTH FOR TWO"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify the dessert has exactly three scoops and two spoons. Keep skeleton bones bold and separated into easy colour zones."
+    },
+    {
+      "page_id": "P006",
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Drive-Thru Doom",
+      "scene": "A nervous cyclops takes an order from a monster car.",
+      "composition": "At the drive-thru window, a cyclops server in a paper cap hands a bag marked with a simple skull icon to a smiling coffin-shaped hot rod. Inside the car are a tiny green alien driver and a pet bat in the passenger seat. A large speaker box, order arrow and two puffs of exhaust complete the scene.",
+      "subject": "Drive-thru scene titled “DRIVE-THRU DOOM”: one-eyed server in paper cap passing a skull-icon takeaway bag through a window to a smiling coffin-shaped hot rod; tiny alien driver and pet bat passenger; large speaker box, directional arrow and exactly two exhaust puffs.",
+      "required_text": [
+        "DRIVE-THRU DOOM"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify two vehicle occupants and two exhaust puffs. The bag uses a skull symbol only, not text."
+    },
+    {
+      "page_id": "P007",
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Bottomless Brew",
+      "scene": "A cheerful swamp creature pours bottomless coffee.",
+      "composition": "A friendly swamp creature with long arms pours coffee from a giant percolator into three mismatched mugs on a counter. The mugs show a moon, a bat and a skull symbol. A sugar dispenser, three doughnuts and a hanging lamp provide simple framing details.",
+      "subject": "Counter scene titled “BOTTOMLESS BREW”: cheerful swamp creature pouring from a giant retro percolator into exactly three mismatched mugs, decorated with a moon, bat and skull symbol; sugar dispenser, exactly three doughnuts and one hanging lamp.",
+      "required_text": [
+        "BOTTOMLESS BREW"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Check exactly three mugs, three distinct mug symbols and three doughnuts. Preserve broad open shapes on the creature and percolator."
+    },
+    {
+      "page_id": "P008",
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Creature Feature Feast",
+      "scene": "A lagoon creature enjoys a dramatic seafood platter.",
+      "composition": "A scaly lagoon monster in a diner bib sits before a platter containing a fish skeleton, two clam shells, lemon wedge and seaweed. A tiny octopus waiter carries a tray with a milkshake. Behind them, a porthole window reveals two fish and a crescent moon.",
+      "subject": "Diner table scene titled “CREATURE FEATURE FEAST”: scaly lagoon monster wearing a diner bib, seafood platter with one fish skeleton, exactly two clam shells, lemon wedge and seaweed; tiny octopus waiter holding a milkshake tray; porthole window with exactly two fish and crescent moon.",
+      "required_text": [
+        "CREATURE FEATURE FEAST"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify seafood platter components and exactly two fish in the porthole. Ensure the octopus has eight clearly readable arms, without tangled overlap."
+    },
+    {
+      "page_id": "P009",
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Pie-Eyed Poltergeist",
+      "scene": "A ghostly pie contest causes comic chaos.",
+      "composition": "A grinning floating ghost wears a diner bib and faces an enormous pie on a stand. Three pie slices hover around it, moved by ghostly swirls. A startled waiter drops one spoon, while a table tent displays a bold “1” for the contest table.",
+      "subject": "Comic pie-contest scene titled “PIE-EYED POLTERGEIST”: floating grinning ghost in diner bib confronting an enormous pie on a stand; exactly three pie slices levitating in swirls; startled waiter dropping one spoon; simple table tent with numeral “1”.",
+      "required_text": [
+        "PIE-EYED POLTERGEIST"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify exactly three floating slices, one spoon and one numeral 1. Avoid text other than the title and numeral."
+    },
+    {
+      "page_id": "P010",
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Monster Mash Hash",
+      "scene": "A cheerful kitchen crew makes a wild breakfast hash.",
+      "composition": "A stitched square-headed cook stirs a giant skillet of hash marked with chunky potato cubes, while a two-headed helper cracks two eggs into the pan. A bat-shaped timer, spatula and striped tea towel sit nearby. The background has simple tiled wall shapes with ample white gaps.",
+      "subject": "Diner kitchen scene titled “MONSTER MASH HASH”: square-headed stitched cook stirring giant skillet of chunky breakfast hash; two-headed helper cracking exactly two eggs into the skillet; bat-shaped timer, spatula and striped tea towel; simple large tile wall.",
+      "required_text": [
+        "MONSTER MASH HASH"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify exactly two eggs and two heads. Keep the food shapes large rather than realistically detailed."
+    },
+    {
+      "page_id": "P011",
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "Witch Way to the Restroom?",
+      "scene": "A witch asks a haunted sign for directions.",
+      "composition": "A witch holding a handbag studies a comically confused freestanding signpost with a crescent-moon restroom symbol and three arrows pointing in silly directions. A shy black cat peeks from her hat brim. The diner corridor has a framed portrait of a smiling ghost and a potted carnivorous plant.",
+      "subject": "Diner corridor scene titled “WITCH WAY TO THE RESTROOM?”: witch with handbag looking at a humorous freestanding signpost bearing a crescent-moon restroom symbol and exactly three directional arrows; black cat peeking from hat; framed smiling ghost portrait and potted carnivorous plant.",
+      "required_text": [
+        "WITCH WAY TO THE RESTROOM?"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Use the crescent symbol rather than extra restroom wording. Verify exactly three arrows; title punctuation must be correct."
+    },
+    {
+      "page_id": "P012",
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "Shake, Rattle and Ghoul",
+      "scene": "Three ghouls enjoy monstrous milkshakes at the counter.",
+      "composition": "Three distinct ghouls perched on diner stools sip from three extravagant milkshakes: one topped with a cherry eyeball, one with a tiny ghost biscuit, and one with a crescent cookie. A tipped sugar jar spills exactly seven large sugar cubes across the counter. A wall clock reads midnight with both hands pointing to twelve.",
+      "subject": "Counter scene titled “SHAKE, RATTLE AND GHOUL”: exactly three ghouls on stools drinking three extravagant milkshakes, topped respectively by a cherry eyeball, tiny ghost biscuit and crescent cookie; tipped sugar jar with exactly seven large sugar cubes; wall clock with both hands at twelve.",
+      "required_text": [
+        "SHAKE, RATTLE AND GHOUL"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify three characters, three distinct toppings, seven cubes, and clock hands at 12:00. Keep cube shapes separated and large."
+    },
+    {
+      "page_id": "P013",
+      "page_number": 13,
+      "page_type": "colouring",
+      "title": "Neon Night Shift",
+      "scene": "A giant neon diner sign comes alive after midnight.",
+      "composition": "Outside the diner, an oversized retro roadside sign with a toothy moon mascot grins above the building. A small mechanic goblin stands on a ladder changing one light bulb, while a vampire customer holds a takeaway cup below. Four stylised stars and a crescent moon fill the open night sky.",
+      "subject": "Exterior roadside scene titled “NEON NIGHT SHIFT”: oversized retro diner sign topped with a toothy moon mascot; small goblin mechanic on ladder changing one bulb; vampire customer holding takeaway cup; diner facade, exactly four stylised stars and one crescent moon.",
+      "required_text": [
+        "NEON NIGHT SHIFT"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Keep the sign lettering decorative and limited to the page title only. Verify four stars, one bulb and a secure readable ladder."
+    },
+    {
+      "page_id": "P014",
+      "page_number": 14,
+      "page_type": "colouring",
+      "title": "The Daily Scream",
+      "scene": "A werewolf reads the diner newspaper over breakfast.",
+      "composition": "A fluffy werewolf in a booth reads an oversized newspaper with the short masthead “DAILY SCREAM”. On the table are a full moon waffle, a mug and a jam pot. Outside the window, a delivery van shaped like a hearse passes under three rain clouds.",
+      "subject": "Diner booth scene titled “THE DAILY SCREAM”: fluffy werewolf reading oversized newspaper with exact masthead text “DAILY SCREAM”; breakfast table with full-moon waffle, mug and jam pot; window showing a hearse-shaped delivery van and exactly three rain clouds.",
+      "required_text": [
+        "THE DAILY SCREAM",
+        "DAILY SCREAM"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify masthead spelling exactly and no other newspaper text. Confirm one waffle, one mug, one jam pot and three clouds."
+    },
+    {
+      "page_id": "P015",
+      "page_number": 15,
+      "page_type": "colouring",
+      "title": "Coffin Break",
+      "scene": "A vampire takes a cosy break in a coffin-shaped booth.",
+      "composition": "A suave vampire lounges in a vertically propped open coffin converted into a diner booth, holding a mug labelled only with a simple bat icon. A plate holds a donut with two fang-shaped bites. A coat rack, umbrella and small wall moon decorate the corner.",
+      "subject": "Cosy diner corner titled “COFFIN BREAK”: suave vampire relaxing in an open coffin converted into a booth, holding mug with bat icon; plate with one donut bearing exactly two fang-shaped bites; coat rack, umbrella and small wall moon.",
+      "required_text": [
+        "COFFIN BREAK"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify exactly two bites in the donut. Make the coffin booth clearly humorous and non-graphic."
+    },
+    {
+      "page_id": "P016",
+      "page_number": 16,
+      "page_type": "colouring",
+      "title": "Pickle Panic",
+      "scene": "A mummy chef chases runaway monster pickles.",
+      "composition": "A mummy chef runs after five lively pickle creatures rolling across the diner kitchen floor. Each pickle has simple eyes and tiny arms. A toppled pickle jar, burger bun, ladle and open swinging kitchen door create a clear action path.",
+      "subject": "Comic kitchen chase titled “PICKLE PANIC”: mummy chef chasing exactly five rolling pickle creatures with simple eyes and tiny arms; toppled pickle jar, burger bun, ladle and open swinging kitchen door; clear uncluttered action path.",
+      "required_text": [
+        "PICKLE PANIC"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify exactly five pickle creatures. Keep their shapes separated so each can be coloured independently."
+    },
+    {
+      "page_id": "P017",
+      "page_number": 17,
+      "page_type": "colouring",
+      "title": "Table for Thirteen",
+      "scene": "Thirteen miniature monsters gather around one huge round table.",
+      "composition": "A grand circular diner table is surrounded by exactly thirteen tiny, clearly separated monster diners: ghosts, eyeballs, bats, horned creatures and blob monsters. The table centre holds one cake with thirteen candles. A large chandelier and curtain frame the scene without crowding the diners.",
+      "subject": "Grand diner gathering titled “TABLE FOR THIRTEEN”: exactly thirteen tiny but clearly separated cartoon monster diners around one huge round table; centre cake with exactly thirteen candles; chandelier overhead and simple curtains framing the room.",
+      "required_text": [
+        "TABLE FOR THIRTEEN"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Count carefully: exactly 13 diners and exactly 13 candles. Avoid overlap that makes monsters hard to count; use varied silhouettes."
+    },
+    {
+      "page_id": "P018",
+      "page_number": 18,
+      "page_type": "colouring",
+      "title": "Sundae Under the Stars",
+      "scene": "A giant monster family enjoys dessert on the diner roof.",
+      "composition": "On the flat diner roof, a tall friendly giant, a small cyclops and a floating ghost share a giant sundae bowl. The dessert has three scoops, one umbrella and two wafer sticks. The skyline is simple, with a crescent moon, four stars and the diner’s rooftop sign below.",
+      "subject": "Rooftop dessert scene titled “SUNDAE UNDER THE STARS”: friendly tall giant, small cyclops and floating ghost sharing giant sundae bowl with exactly three scoops, one umbrella and two wafer sticks; simple skyline, crescent moon, exactly four stars and rooftop diner sign.",
+      "required_text": [
+        "SUNDAE UNDER THE STARS"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify three characters, three scoops, one umbrella, two wafer sticks and four stars. Preserve wide open sky areas."
+    },
+    {
+      "page_id": "P019",
+      "page_number": 19,
+      "page_type": "colouring",
+      "title": "Last Call for Creeps",
+      "scene": "The diner staff prepares to close at dawn.",
+      "composition": "A sleepy zombie waiter flips a large door sign from an open circle to a closed crescent symbol while a witch sweeps and a vampire stacks three stools. Through the front window, the rising sun peeks behind two hills, but the scene stays playful rather than ominous. A single bat yawns from a ceiling beam.",
+      "subject": "Diner closing-time scene titled “LAST CALL FOR CREEPS”: sleepy zombie waiter flipping a large door sign from open circle symbol to closed crescent symbol; witch sweeping; vampire stacking exactly three stools; window with rising sun behind two hills; one yawning bat on ceiling beam.",
+      "required_text": [
+        "LAST CALL FOR CREEPS"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Use symbols, not extra open/closed wording. Verify exactly three stools, two hills and one bat."
+    },
+    {
+      "page_id": "P020",
+      "page_number": 20,
+      "page_type": "colouring",
+      "title": "Moonlight Takeaway",
+      "scene": "A monster delivery rider makes the final late-night delivery.",
+      "composition": "A helmeted skeleton rides a retro delivery scooter with a sidecar shaped like a takeaway carton. The carton is packed with a pizza marked by eight large slices and a milkshake. The road curves past a diner sign, three tombstones and a full moon; two bats fly above.",
+      "subject": "Roadside delivery scene titled “MOONLIGHT TAKEAWAY”: helmeted skeleton riding retro delivery scooter with takeaway-carton sidecar; carton carrying pizza divided into exactly eight large slices and one milkshake; curved road, diner sign, exactly three tombstones, full moon and two bats.",
+      "required_text": [
+        "MOONLIGHT TAKEAWAY"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify pizza is visibly divided into eight slices, plus exactly three tombstones and two bats. Keep delivery scooter outline robust and readable."
+    },
+    {
+      "page_id": "P021",
+      "page_number": 21,
+      "page_type": "colouring",
+      "title": "See You at Midnight",
+      "scene": "A final celebratory diner tableau and friendly end page.",
+      "composition": "The diner façade is seen front-on beneath a huge crescent moon, with the main monster cast waving from windows and doorway: vampire, mummy, witch, cyclops, werewolf and ghost. A large haunted milkshake sits on the roof like a sign topper. Six simple stars, two pumpkins and a blank banner provide a celebratory finale.",
+      "subject": "Finale colouring page titled “SEE YOU AT MIDNIGHT”: front-on retro diner facade beneath huge crescent moon; vampire, mummy, witch, cyclops, werewolf and ghost waving from windows and doorway; giant haunted milkshake roof topper; exactly six stars, two pumpkins and a blank celebratory banner.",
+      "required_text": [
+        "SEE YOU AT MIDNIGHT"
+      ],
+      "complexity": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 21), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands",
+        "Fine-line, fragile, faint or sketchy outlines",
+        "Photorealism, realistic anatomy, cinematic rendering or realistic shading",
+        "Dense hatching, gradients, grey washes or pre-coloured artwork",
+        "Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points",
+        "Excessive solid-black coverage that wastes home-printer ink",
+        "Childish babyish styling; retain witty adult humour",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify six named monster characters, six stars and two pumpkins. Keep banner blank for optional personalisation. Include the separate printing-and-colouring guide as an unillustrated supplementary PDF component, not a designed page in this 21-page artwork count; advise single-sided printing, fit-to-page disabled unless needed, and placing a spare sheet behind each page to prevent marker bleed."
+    }
+  ]
+}

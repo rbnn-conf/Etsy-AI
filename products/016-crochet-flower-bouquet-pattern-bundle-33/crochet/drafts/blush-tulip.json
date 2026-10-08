@@ -1,0 +1,215 @@
+{
+  "pattern_id": "blush-tulip",
+  "name": "Blush Tulip",
+  "category": "flower",
+  "difficulty": "easy",
+  "finished_size": "About 6 centimetres tall; about 20 centimetres tall with stem",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn for tulip cup and inner form",
+      "colour": "Blush pink",
+      "amount": "About 12 grams"
+    },
+    {
+      "description": "Fine cotton yarn for calyx",
+      "colour": "Leaf green",
+      "amount": "About 3 grams"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "18-centimetre length of 22-gauge floral wire",
+    "Green floral tape",
+    "Polyester fibrefill",
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "sc2tog"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "sc2tog": "single crochet two stitches together",
+    "MR": "magic ring",
+    "rnd": "round",
+    "rnds": "rounds",
+    "st": "stitch",
+    "sts": "stitches"
+  },
+  "gauge": "Gauge is not critical. Use a firm tension so the stuffed inner form does not show through the cup.",
+  "instructions": [
+    {
+      "heading": "Tulip Cup",
+      "steps": [
+        {
+          "label": null,
+          "text": "With blush pink, work joined rnds with the right side facing. Ch 1 at the start of each rnd does not count as a st.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 1",
+          "text": "Work 6 sc in an MR. Join with a sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, work 2 sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, *sc in each of the next 1 st, work 2 sc in the next st; repeat from * 5 times. Join with a sl st to the first sc.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Ch 1, *sc in each of the next 2 sts, work 2 sc in the next st; repeat from * 5 times. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Ch 1, sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Ch 1, sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Ch 1, sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 8",
+          "text": "Ch 1, sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 9",
+          "text": "Ch 1, sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 10",
+          "text": "Ch 1, *sc in the next st, hdc in the next st, dc in the next st, work 2 dc in the next st, dc in the next st, hdc in the next st; repeat from * 3 times. Join with a sl st to the first sc. Fasten off, leaving a 25-centimetre sewing tail.",
+          "stitch_count": 28
+        }
+      ]
+    },
+    {
+      "heading": "Inner Form",
+      "steps": [
+        {
+          "label": null,
+          "text": "With blush pink, work joined rnds with the right side facing. Ch 1 at the start of each rnd does not count as a st.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 1",
+          "text": "Work 6 sc in an MR. Join with a sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, work 2 sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, *sc in each of the next 1 st, work 2 sc in the next st; repeat from * 5 times. Join with a sl st to the first sc.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Ch 1, *sc in each of the next 2 sts, work 2 sc in the next st; repeat from * 5 times. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Ch 1, sc in each st around. Join with a sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Ch 1, *sc in each of the next 2 sts, sc2tog over the next 2 sts; repeat from * 5 times. Join with a sl st to the first sc.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Ch 1, *sc in the next st, sc2tog over the next 2 sts; repeat from * 5 times. Join with a sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": null,
+          "text": "Stuff the form firmly, adding enough fibrefill to make a smooth, rounded shape.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 8",
+          "text": "Ch 1, sc2tog over each pair of sts around. Join with a sl st to the first sc. Fasten off, leaving a 20-centimetre sewing tail.",
+          "stitch_count": 6
+        }
+      ]
+    },
+    {
+      "heading": "Calyx",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With leaf green, work 6 sc in an MR. Join with a sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "*Sc in the next st, ch 5, sl st in the second ch from hook, sc in each of the next 3 ch, sl st in the next st; repeat from * 2 times. Fasten off, leaving a 25-centimetre sewing tail.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Wire Stem",
+      "steps": [
+        {
+          "label": "Stem",
+          "text": "Cut an 18-centimetre length of floral wire. Bend 1 centimetre of one end into a narrow hook. Wrap the remaining wire tightly and evenly with green floral tape, overlapping the tape slightly as you work to the lower end.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Insert the stuffed inner form into the tulip cup with its closed Rnd 8 end facing the cup opening. Use the cup tail to tack the inner form to the inside of the cup at four evenly spaced points around cup Rnd 4.",
+    "Push the hooked wire end up through the centre of the calyx from the reverse side. Bend the hook flat across the calyx centre on the right side.",
+    "Centre the calyx beneath the cup base, with the wire pointing down. Sew the calyx edge to the first two rnds of the cup, catching the flattened wire hook securely with several stitches.",
+    "Arrange the three calyx points upward against the cup and secure the tip of each point with one small stitch."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining working yarn by cutting it, pulling the tail through the final loop, and tightening securely.",
+    "Weave in all yarn tails on the reverse side, taking care not to distort the cup or calyx.",
+    "Gently shape the four rounded rim sections with your fingers so the cup has a softly closed tulip silhouette.",
+    "Check that the wire is firmly trapped beneath the calyx before placing the flower in an arrangement."
+  ],
+  "notes": [
+    "The four raised dc groups on Rnd 10 form the rounded tulip petal edges.",
+    "Bend the floral wire only after the calyx is attached, holding it below the flower head to avoid stressing the sewn join."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

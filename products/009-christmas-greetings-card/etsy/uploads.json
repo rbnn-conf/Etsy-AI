@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "listing_id": 4584343288,
+  "properties": [
+    {
+      "property_id": 200,
+      "values": [
+        "White"
+      ],
+      "at": "2026-09-28T15:15:25.459Z"
+    },
+    {
+      "property_id": 52047899002,
+      "values": [
+        "Green"
+      ],
+      "at": "2026-09-28T15:15:25.833Z"
+    }
+  ],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "a59ed9d80c9f91d003583dbd81b71cd382d8efdb6cb365db58cb0682bb075a03",
+      "listing_image_id": 8639328273,
+      "uploaded_at": "2026-09-28T15:15:29.096Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-designs.png",
+      "sha256": "cefb7621f2ab9e7c492c4f4b4b805a78347160fe907f562cb714aacb97492b71",
+      "listing_image_id": 8591481186,
+      "uploaded_at": "2026-09-28T15:15:31.822Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-inside.png",
+      "sha256": "e8ce1933d3c09323a27884026379b5311974a8efe11cbe62e913c8212baba4de",
+      "listing_image_id": 8639328679,
+      "uploaded_at": "2026-09-28T15:15:34.540Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-included.png",
+      "sha256": "21410cc3947827784fe58bbbc217b14744f3ce96d68ab0cfbb288f5dd3920918",
+      "listing_image_id": 8639328929,
+      "uploaded_at": "2026-09-28T15:15:36.932Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-design-a.png",
+      "sha256": "cc28350ff5e69f0577dc1d840cc272614d2fd605274cb171584d9b76846a049c",
+      "listing_image_id": 8591481858,
+      "uploaded_at": "2026-09-28T15:15:39.784Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-design-b.png",
+      "sha256": "3fa9acf29289f14b657b452a45a2773ac7e6f6f4d3ac1fc1a3fac3aef57465a3",
+      "listing_image_id": 8639329303,
+      "uploaded_at": "2026-09-28T15:15:42.554Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-print.png",
+      "sha256": "f46d4c6f60be7eeaec74b0b42b863fd41972f9a08c13e597522ae8a9918e7a30",
+      "listing_image_id": 8591482214,
+      "uploaded_at": "2026-09-28T15:15:44.961Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-sizes.png",
+      "sha256": "559450d911e2bc1f1ea5e63663d807fad26cd33c820c529f0def5b29d4f0effa",
+      "listing_image_id": 8591482388,
+      "uploaded_at": "2026-09-28T15:15:47.411Z"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-gift.png",
+      "sha256": "b4c6a264c1da9c43f3e92666dd309849f491f653b12326a2d6bb75b2294d0aef",
+      "listing_image_id": 8639329927,
+      "uploaded_at": "2026-09-28T15:15:50.238Z"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-digital.png",
+      "sha256": "b4a66505d5f16090b69d9c73e9326f7c10d0d0964b7d206592bcb08cc24bfbcc",
+      "listing_image_id": 8639330101,
+      "uploaded_at": "2026-09-28T15:15:52.076Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "LumiumX-Robin-at-the-Frosted-Gate.zip",
+      "sha256": "47e563db3fa08c2fe4929e4b4b8074a1ee788c1d448aefe44230aa5412820f2b",
+      "bytes": 16942543,
+      "listing_file_id": 1519704669999,
+      "uploaded_at": "2026-09-28T15:15:59.135Z"
+    }
+  ],
+  "pending": null
+}

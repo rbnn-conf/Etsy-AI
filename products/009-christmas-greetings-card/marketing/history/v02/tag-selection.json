@@ -1,0 +1,171 @@
+{
+  "tag_candidates": [
+    "printable christmas",
+    "robin greeting",
+    "cosy christmas",
+    "nostalgic card",
+    "christmas greeting",
+    "friends christmas",
+    "family christmas",
+    "neighbour card",
+    "seasonal wishes",
+    "warm wishes card",
+    "foldable card",
+    "A4 printable",
+    "US Letter card",
+    "card panels",
+    "PNG artwork",
+    "PDF card files",
+    "printing guide",
+    "digital card",
+    "christmas download",
+    "festive greeting"
+  ],
+  "tags": [
+    {
+      "candidate": "printable christmas",
+      "tag": "printable christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "robin greeting",
+      "tag": "robin greeting",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy christmas",
+      "tag": "cosy christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "nostalgic card",
+      "tag": "nostalgic card",
+      "result": "kept"
+    },
+    {
+      "candidate": "christmas greeting",
+      "tag": "christmas greeting",
+      "result": "kept"
+    },
+    {
+      "candidate": "friends christmas",
+      "tag": "friends christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "family christmas",
+      "tag": "family christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "neighbour card",
+      "tag": "neighbour card",
+      "result": "kept"
+    },
+    {
+      "candidate": "seasonal wishes",
+      "tag": "seasonal wishes",
+      "result": "kept"
+    },
+    {
+      "candidate": "warm wishes card",
+      "tag": "warm wishes card",
+      "result": "kept"
+    },
+    {
+      "candidate": "foldable card",
+      "tag": "foldable card",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 printable",
+      "tag": "a4 printable",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter card",
+      "tag": "us letter card",
+      "result": "kept"
+    },
+    {
+      "candidate": "card panels",
+      "tag": "card panels",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "PNG artwork",
+      "tag": "png artwork",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "PDF card files",
+      "tag": "pdf card files",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "printing guide",
+      "tag": "printing guide",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "digital card",
+      "tag": "digital card",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "christmas download",
+      "tag": "christmas download",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "festive greeting",
+      "tag": "festive greeting",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital download",
+      "material": "Digital download",
+      "result": "kept"
+    },
+    {
+      "candidate": "PDF files",
+      "material": "PDF files",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG artwork files",
+      "material": "PNG artwork files",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 PDF files",
+      "material": "A4 PDF files",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter PDF files",
+      "material": "US Letter PDF files",
+      "result": "kept"
+    },
+    {
+      "candidate": "Card panels",
+      "material": "Card panels",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    }
+  ],
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

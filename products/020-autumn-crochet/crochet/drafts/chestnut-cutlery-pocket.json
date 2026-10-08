@@ -1,0 +1,145 @@
+{
+  "pattern_id": "chestnut-cutlery-pocket",
+  "name": "Chestnut Cutlery Pocket",
+  "category": "cutlery pocket",
+  "difficulty": "beginner",
+  "finished_size": "About 10 cm wide by 18 cm long",
+  "yarn": [
+    {
+      "description": "Cotton yarn for the pocket and flap",
+      "colour": "chestnut brown",
+      "amount": "About 45 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E/4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "Two locking stitch markers"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "sc2tog",
+    "dc2tog"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "sc2tog": "single crochet two stitches together",
+    "dc2tog": "double crochet two stitches together",
+    "st": "stitch",
+    "sts": "stitches"
+  },
+  "gauge": "21 sc and 20 rows = 10 cm in sc. Gauge helps the finished pocket hold standard cutlery neatly.",
+  "instructions": [
+    {
+      "heading": "Pocket Body",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 22. Sc in second ch from hook and in each ch across; turn.",
+          "stitch_count": 21
+        },
+        {
+          "label": "Rows 2-72",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 21
+        },
+        {
+          "label": null,
+          "text": "After Row 72, fasten off, leaving a 70 cm tail for seaming.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Curved Flap",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 22. Sc in second ch from hook and in each ch across; turn.",
+          "stitch_count": 21
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, sc2tog, sc in each of next 17 sts, sc2tog; turn.",
+          "stitch_count": 19
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, sc2tog, sc in each of next 15 sts, sc2tog; turn.",
+          "stitch_count": 17
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 1, sc2tog, hdc in each of next 13 sts, sc2tog; turn.",
+          "stitch_count": 15
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 2, dc2tog, dc in each of next 11 sts, dc2tog; turn.",
+          "stitch_count": 13
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 2, dc2tog, dc in each of next 9 sts, dc2tog; turn.",
+          "stitch_count": 11
+        },
+        {
+          "label": "Row 7",
+          "text": "Ch 1, sc2tog, sc in each of next 7 sts, sc2tog; turn.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Row 8",
+          "text": "Ch 1, sc2tog, sc in each of next 5 sts, sc2tog; turn.",
+          "stitch_count": 7
+        },
+        {
+          "label": "Row 9",
+          "text": "Ch 1, sc2tog, sc in each of next 3 sts, sc2tog; turn.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Row 10",
+          "text": "Ch 1, sc2tog, sc in next st, sc2tog; turn.",
+          "stitch_count": 3
+        },
+        {
+          "label": "Row 11",
+          "text": "Ch 1, sl st in first st, sc in next st, sl st in last st. Fasten off, leaving a 35 cm tail for attaching the flap.",
+          "stitch_count": 3
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Fold the Pocket Body in half crosswise between Rows 36 and 37, with wrong sides together. Align Row 1 with Row 72, keeping the layer ending at Row 72 as the rear layer.",
+    "Using the long body tail, whipstitch the 36 paired row ends together along each side, from the fold to the opening. Keep the aligned Row 1 and Row 72 edges unsewn.",
+    "Centre the Flap Row 1 edge along the outside of the rear Row 72 opening edge. Using the flap tail, whipstitch the 21 flap sts to the 21 rear opening sts so the shaped flap falls over the front of the pocket."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off all sewing tails securely on the inside of the side seams.",
+    "Weave in all yarn ends on the reverse side, keeping the opening and flap edge smooth.",
+    "Lightly steam block the pocket flat, shaping the flap into a gentle chestnut curve. Let it dry completely before use."
+  ],
+  "notes": [
+    "Turning chains do not count as sts throughout.",
+    "Place stitch markers at the fold corners before seaming if needed to keep both side seams even.",
+    "The pocket opening remains at the aligned Row 1 and Row 72 edges; slide cutlery inside before folding the flap over it."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

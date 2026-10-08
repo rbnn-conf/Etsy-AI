@@ -1,0 +1,32 @@
+{
+  "illustration_style": "Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.",
+  "line_weight": "Fine crisp ink-like accents with varied, restrained weight.",
+  "line_quality": "Slightly organic hand-drawn contours with neat, confident finishing details.",
+  "detail_level": "Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.",
+  "character_language": "Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.",
+  "background_density": "Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.",
+  "composition": "Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.",
+  "palette": "Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.",
+  "colour_mode": "full colour",
+  "shading": "Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.",
+  "texture": "Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.",
+  "mood": "Joyful, brisk, cosy and warmly nostalgic.",
+  "age_suitability": "adults",
+  "print_considerations": "Use strong colour separation and readable dark-to-light contrast for reliable home printing. Keep fine ink details restrained, avoid heavy full-bleed dark coverage where possible, and retain a safe clear zone for trimming and folding.",
+  "shared_prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.",
+  "avoid": [
+    "Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs",
+    "Photorealism or 3D-rendered plastic surfaces",
+    "Overly childish cartoon proportions or exaggerated facial features",
+    "Cluttered backgrounds that compete with the greeting",
+    "Harsh neon colours, muddy shadows or heavy digital gradients",
+    "Misspelled, distorted or illegible typography",
+    "Fine details too small or low-contrast for home printing"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-09-28T18:57:27.128Z"
+}

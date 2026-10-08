@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Read-only snapshot of an existing listing (EXISTING_LISTING). Never regenerates the product; never reads or writes live Etsy in v1.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "mode",
+    "snapshot_id",
+    "listing",
+    "title",
+    "tags",
+    "description_excerpt",
+    "product_type",
+    "page_count",
+    "formats",
+    "price",
+    "category",
+    "performance",
+    "source",
+    "captured_at",
+    "notes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "mode": {
+      "const": "EXISTING_LISTING"
+    },
+    "snapshot_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{1,62}$"
+    },
+    "listing": {
+      "type": "object",
+      "required": [
+        "owner_reference",
+        "repo_product",
+        "etsy_listing_id",
+        "live_state_read"
+      ],
+      "properties": {
+        "owner_reference": {
+          "type": "string"
+        },
+        "repo_product": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "etsy_listing_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "live_state_read": {
+          "const": false
+        }
+      }
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "description_excerpt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "product_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "page_count": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "formats": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "price": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "amount",
+        "currency"
+      ],
+      "properties": {
+        "amount": {
+          "type": "number"
+        },
+        "currency": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$"
+        }
+      }
+    },
+    "category": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "performance": {
+      "type": "object",
+      "description": "Captured shop stats; null = not captured (never estimated)"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "file",
+        "sha256"
+      ]
+    },
+    "captured_at": {
+      "type": "string"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "format": "greeting-card",
+  "slides": [
+    {
+      "template": "hero",
+      "purpose": "Hero: premium presentation of the strongest design; scroll-stopping at thumbnail size.",
+      "scene": "hero",
+      "id": "01-hero",
+      "copy": {
+        "headline": "A Little Christmas Magic",
+        "subline": "A cosy traditional greeting for friends, family and neighbours."
+      }
+    },
+    {
+      "template": "designs",
+      "purpose": "All 2 card designs side by side, so buyers see they get every design.",
+      "id": "02-designs",
+      "copy": {
+        "headline": "Two Designs for Christmas Giving",
+        "subline": "Both seasonal designs are included for a beautifully coordinated set."
+      }
+    },
+    {
+      "template": "included",
+      "purpose": "What you receive: every file type, shown with the real printable sheets.",
+      "id": "03-included",
+      "copy": {
+        "headline": "Everything Together for You",
+        "subline": "PDF and original artwork PNG files are included, with a printing guide."
+      }
+    },
+    {
+      "template": "design",
+      "design": "A",
+      "purpose": "Close-up of design A (Merry Christmas).",
+      "id": "04-design-a",
+      "copy": {
+        "headline": "Merry Christmas",
+        "subline": "A warm festive design with a timeless seasonal feel."
+      }
+    },
+    {
+      "template": "design",
+      "design": "B",
+      "purpose": "Close-up of design B (Christmas Wishes).",
+      "id": "05-design-b",
+      "copy": {
+        "headline": "Christmas Wishes",
+        "subline": "A tender alternative for thoughtful Christmas giving."
+      }
+    },
+    {
+      "template": "inside",
+      "inside": 0,
+      "purpose": "The shared inside message and illustration.",
+      "id": "06-inside",
+      "copy": {
+        "headline": "A Joyful Message Inside",
+        "subline": "Wishing you a joyful Christmas and a happy New Year."
+      }
+    },
+    {
+      "template": "print",
+      "purpose": "Print at home: the real A4 sheet in a warm home setting.",
+      "scene": "lifestyle",
+      "id": "07-print",
+      "copy": {
+        "headline": "A Cosy Home Printing Moment",
+        "subline": "Print your chosen design at home, then trim and fold."
+      }
+    },
+    {
+      "template": "formats",
+      "purpose": "Paper sizes and formats produced: A4, US Letter and 4x6 in panels.",
+      "id": "08-formats",
+      "copy": {
+        "headline": "Made for Flexible Printing",
+        "subline": "Includes A4, US Letter and four by six inch card panel formats."
+      }
+    },
+    {
+      "template": "how",
+      "purpose": "How it works: download, print, trim and fold, give.",
+      "id": "09-how",
+      "copy": {
+        "headline": "From Download to Giving",
+        "subline": "Download, print, trim, fold and share a little Christmas warmth."
+      }
+    },
+    {
+      "template": "digital",
+      "purpose": "Digital download: exactly what is in the ZIP; no physical item is shipped.",
+      "id": "10-digital",
+      "copy": {
+        "headline": "Your Digital Download",
+        "subline": "A ZIP containing PDF and PNG files, with no physical item shipped."
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "hero",
+      "purpose": "A festive tabletop that makes a folded greeting card look premium and giftable.",
+      "brief": "A warm walnut tabletop with a soft linen runner, a few evergreen clippings, dried orange slices and muted brass candleholders. Gentle golden window light and a softly shadowed, nostalgic festive mood in forest green, cranberry and cream.",
+      "prompt": "Background photograph for an Etsy product listing image. A warm walnut tabletop with a soft linen runner, a few evergreen clippings, dried orange slices and muted brass candleholders. Gentle golden window light and a softly shadowed, nostalgic festive mood in forest green, cranberry and cream.\nMood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.\nComposition: keep the centre and lower two-thirds calm and uncluttered, because a real product will be placed on top later; keep the top quarter light and plain.\nSoft natural light, shallow depth of field, realistic, premium and warm.\nDo NOT include: any text, letters, numbers, logos or watermarks; any greeting card, paper, envelope, book, screen, frame, poster, artwork or illustration; people or hands, and no European robin or any other animal.",
+      "file": "marketing/scenes/hero.png",
+      "sha256": "189d25f0afc5d8f68d11afbf5c3e21ee054d04748f6704ffca27dc1cf5020ab4",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "lifestyle",
+      "purpose": "A calm home desk or table where someone prints and folds cards.",
+      "brief": "A calm pale-wood home desk with a knitted cream textile, a ceramic mug, small evergreen sprigs, simple wooden-handled scissors and a softly glowing lamp. Diffused morning light, uncluttered styling and a peaceful handmade seasonal feel.",
+      "prompt": "Background photograph for an Etsy product listing image. A calm pale-wood home desk with a knitted cream textile, a ceramic mug, small evergreen sprigs, simple wooden-handled scissors and a softly glowing lamp. Diffused morning light, uncluttered styling and a peaceful handmade seasonal feel.\nMood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.\nComposition: keep the centre and lower two-thirds calm and uncluttered, because a real product will be placed on top later; keep the top quarter light and plain.\nSoft natural light, shallow depth of field, realistic, premium and warm.\nDo NOT include: any text, letters, numbers, logos or watermarks; any greeting card, paper, envelope, book, screen, frame, poster, artwork or illustration; people or hands, and no European robin or any other animal.",
+      "file": "marketing/scenes/lifestyle.png",
+      "sha256": "8ecf9181579f64889f4095a4938b19d3bb3d081ccb955929a6d14b4b07b6d73b",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-09-27T19:11:02.910Z"
+}

@@ -1,0 +1,152 @@
+{
+  "product_id": "024",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-07T22:25:26.359Z",
+  "finished_at": "2026-10-07T22:25:57.308Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"3 easy Halloween crotchet designs\".\nConcept \"Halloween Hanging Ornament Trio\": a crochet pattern bundle for Beginner and improver crocheters decorating for Halloween.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crochet ornament trio\n- Scene: Bare black twig display with sparse autumn leaves\n- Focal object: Crescent moon ornament\n- Composition: Three ornaments staggered across a vertical twig arrangement\n- Lighting: Warm side-lit studio glow\n- Palette emphasis: Charcoal, cream, burnt orange and muted gold\n- Mood: Handmade, playful and gently spooky\n- Typography: Simple cream serif title in open upper space\n- Distinguishing hook: Tiny ornaments suspended from sculptural black branches\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Crochet table set / Halloween tea table with ceramic mug and sweets / Spiderweb mug cosy / Golden late-afternoon window light\n- C: Crochet accessory trio / Linen pinboard with ribbon and autumn foliage / Witch-hat brooch / Soft diffused morning studio light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T22:25:37.074Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Halloween Hanging Ornament Trio",
+        "tagline": "Quick makes for a spooky seasonal display",
+        "product_type": "Crochet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Beginner and improver crocheters decorating for Halloween",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Three easy crochet ornament patterns",
+          "Three finished-piece reference images",
+          "Materials and yarn notes",
+          "Abbreviations and stitch guide",
+          "Printing guide"
+        ],
+        "short_description": "A set of three easy Halloween crochet patterns for a ghost, pumpkin and crescent-moon hanging ornament. Designed as small seasonal makes for branches, garlands, gift wrapping or a Halloween display.",
+        "key_features": [
+          "Three small Halloween ornament designs",
+          "Simple construction using common crochet stitches",
+          "Finished-piece reference image for each design",
+          "Seasonal decorating and gift-topper uses",
+          "Home-printable pattern files"
+        ],
+        "visual_direction_summary": "Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.",
+        "visual_route": {
+          "primary_subject": "Crochet ornament trio",
+          "scene": "Bare black twig display with sparse autumn leaves",
+          "focal_object": "Crescent moon ornament",
+          "composition": "Three ornaments staggered across a vertical twig arrangement",
+          "lighting": "Warm side-lit studio glow",
+          "palette_emphasis": "Charcoal, cream, burnt orange and muted gold",
+          "emotional_tone": "Handmade, playful and gently spooky",
+          "typography_approach": "Simple cream serif title in open upper space",
+          "distinguishing_visual_hook": "Tiny ornaments suspended from sculptural black branches"
+        },
+        "preview_brief": "A portrait cover image shows a crochet ghost, pumpkin and crescent moon hanging from elegant black twigs against a warm neutral studio backdrop. The title sits in clear open space above the display for a refined, handmade Halloween feel."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"3 easy Halloween crotchet designs\".\nConcept \"Spooky Supper Crochet Set\": a crochet pattern bundle for Crocheters preparing a playful Halloween table or seasonal gift.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crochet table set\n- Scene: Halloween tea table with ceramic mug and sweets\n- Focal object: Spiderweb mug cosy\n- Composition: Table accessories arranged around a central steaming mug\n- Lighting: Golden late-afternoon window light\n- Palette emphasis: Pumpkin orange, ink black, oat and plum\n- Mood: Cosy, sociable and lightly mischievous\n- Typography: Bold serif title aligned along the left edge\n- Distinguishing hook: Spiderweb cosy wrapped around a striped ceramic mug\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Crochet ornament trio / Bare black twig display with sparse autumn leaves / Crescent moon ornament / Warm side-lit studio glow\n- C: Crochet accessory trio / Linen pinboard with ribbon and autumn foliage / Witch-hat brooch / Soft diffused morning studio light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-10-07T22:25:47.045Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Spooky Supper Crochet Set",
+        "tagline": "Easy table makes for Halloween hosting",
+        "product_type": "Crochet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Crocheters preparing a playful Halloween table or seasonal gift",
+        "page_count": 3,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "Three easy crochet table accessory patterns",
+          "Three finished-piece reference images",
+          "Materials and yarn notes",
+          "Abbreviations and stitch guide",
+          "Printing guide"
+        ],
+        "short_description": "A set of three easy Halloween crochet patterns for a pumpkin coaster, spiderweb mug cosy and candy bowl. Small functional makes add handmade character to an October tea table or party spread.",
+        "key_features": [
+          "Three practical Halloween table accessories",
+          "Compact projects using accessible stitch techniques",
+          "Finished-piece reference image for each design",
+          "Coordinated seasonal colour palette",
+          "Home-printable pattern files"
+        ],
+        "visual_direction_summary": "Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.",
+        "visual_route": {
+          "primary_subject": "Crochet table set",
+          "scene": "Halloween tea table with ceramic mug and sweets",
+          "focal_object": "Spiderweb mug cosy",
+          "composition": "Table accessories arranged around a central steaming mug",
+          "lighting": "Golden late-afternoon window light",
+          "palette_emphasis": "Pumpkin orange, ink black, oat and plum",
+          "emotional_tone": "Cosy, sociable and lightly mischievous",
+          "typography_approach": "Bold serif title aligned along the left edge",
+          "distinguishing_visual_hook": "Spiderweb cosy wrapped around a striped ceramic mug"
+        },
+        "preview_brief": "A landscape cover presents a pumpkin coaster, spiderweb mug cosy and small candy bowl on a warmly lit Halloween tea table. The mug cosy takes centre stage while the title is cleanly placed at the left for a practical, giftable pattern-bundle look."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"3 easy Halloween crotchet designs\".\nConcept \"Little Halloween Costume Accessories\": a crochet pattern bundle for Crocheters making simple Halloween accessories for children and adults.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crochet accessory trio\n- Scene: Linen pinboard with ribbon and autumn foliage\n- Focal object: Witch-hat brooch\n- Composition: Accessories pinned in a neat vertical collector layout\n- Lighting: Soft diffused morning studio light\n- Palette emphasis: Violet, black, cream and candy-corn yellow\n- Mood: Cheerful, crafty and festive\n- Typography: Delicate serif title centred beneath the collection\n- Distinguishing hook: Witch-hat brooch framed by looping velvet ribbon\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Crochet ornament trio / Bare black twig display with sparse autumn leaves / Crescent moon ornament / Warm side-lit studio glow\n- B: Crochet table set / Halloween tea table with ceramic mug and sweets / Spiderweb mug cosy / Golden late-afternoon window light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T22:25:57.140Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Little Halloween Costume Accessories",
+        "tagline": "Three quick makes for festive dress-up",
+        "product_type": "Crochet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Crocheters making simple Halloween accessories for children and adults",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Three easy crochet accessory patterns",
+          "Three finished-piece reference images",
+          "Materials and yarn notes",
+          "Abbreviations and stitch guide",
+          "Printing guide"
+        ],
+        "short_description": "A set of three easy Halloween crochet patterns for a bat hair clip, witch-hat brooch and candy-corn bag charm. These lightweight accessories offer quick handmade finishing touches for seasonal outfits and treat bags.",
+        "key_features": [
+          "Three small Halloween accessory designs",
+          "Quick projects with minimal yarn requirements",
+          "Finished-piece reference image for each design",
+          "Suitable for outfit, bag and gift embellishment",
+          "Home-printable pattern files"
+        ],
+        "visual_direction_summary": "Clean editorial crochet photography with realistic yarn texture, clearly visible stitches and softly shaped handmade forms. Warm studio lighting, restrained autumnal colour accents and uncluttered seasonal styling keep every design practical, polished and easy to inspect.",
+        "visual_route": {
+          "primary_subject": "Crochet accessory trio",
+          "scene": "Linen pinboard with ribbon and autumn foliage",
+          "focal_object": "Witch-hat brooch",
+          "composition": "Accessories pinned in a neat vertical collector layout",
+          "lighting": "Soft diffused morning studio light",
+          "palette_emphasis": "Violet, black, cream and candy-corn yellow",
+          "emotional_tone": "Cheerful, crafty and festive",
+          "typography_approach": "Delicate serif title centred beneath the collection",
+          "distinguishing_visual_hook": "Witch-hat brooch framed by looping velvet ribbon"
+        },
+        "preview_brief": "A portrait cover shows a bat hair clip, witch-hat brooch and candy-corn bag charm arranged like a small collection on a natural linen pinboard. Soft daylight and restrained foliage create a cheerful handmade accessory presentation, with the title centred below."
+      }
+    }
+  ]
+}

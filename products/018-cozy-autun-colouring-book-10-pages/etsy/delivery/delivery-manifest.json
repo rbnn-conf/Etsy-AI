@@ -1,0 +1,278 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book",
+  "source_fingerprint": "6f1663b311b8fc143b2e31d8bff0cfbafdd21a3a891ad83c1e49b0854d654c83",
+  "build_record_sha256": "1d771cb9530bc192c3b741829078af9e01145e6e7a2ded042a23861d236eafb2",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "0f4fc2e656877db374be7787d5b0c951407966802543dabb8f0cf376600ca916",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip",
+      "file": "etsy/delivery/The-Apple-Pie-Kitchen-Colouring-Book-A4.zip",
+      "sha256": "37e398902a6266dcf6ea46cdde57f58adc61d7702696194bdc0d893e5badaf5d",
+      "bytes": 13701135,
+      "size": "13.70 MB",
+      "purpose": "2 files (guide, pdf), pages 1-10",
+      "label": "A4",
+      "contents": [
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/START-HERE-Printing-Guide.pdf",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/START-HERE-Printing-Guide.pdf",
+          "sha256": "7b0d43ed04f9c82c601d0ead6107731b14a9b1fac9b02cc6773a7fcf91394b6e",
+          "bytes": 2272
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+          "sha256": "06861561df375cd4141af52e557c121554fd141791dfa3a351a82121b354bcee",
+          "bytes": 13714829
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip",
+      "file": "etsy/delivery/The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip",
+      "sha256": "eea297566e5ccb1773a38742c9104049ef408ce7a0a7b6399766f44d55c5b8f0",
+      "bytes": 13698777,
+      "size": "13.70 MB",
+      "purpose": "1 file (pdf), pages 1-10",
+      "label": "US-Letter",
+      "contents": [
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/US-Letter/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/US-Letter/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.pdf",
+          "sha256": "e08e74165cd3feac961b619158699b7e775f951f415ee74ab678f299cded8ea2",
+          "bytes": 13714864
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip",
+      "file": "etsy/delivery/The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip",
+      "sha256": "e2f0c051774222a54441d4c794eb82ba569ffd9ddea13a570ed87934c70f665c",
+      "bytes": 13414704,
+      "size": "13.41 MB",
+      "purpose": "10 files (page-png), pages 1-10",
+      "label": "Pages-PNG",
+      "contents": [
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-01-Cover.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-01-Cover.png",
+          "sha256": "fae5b68b05d5265b0d3ee37991439cafdd8e315bda7726c86a7d5a623a40f8ca",
+          "bytes": 1455683
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-02.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-02.png",
+          "sha256": "a94309621eeb0057feaf0c0e2a9781a3f5c17c32142fe3ae3c3f3bc8a2cabd6c",
+          "bytes": 1445010
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-03.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-03.png",
+          "sha256": "8a04bb6002d9e1fa4e67456b09a179522faa170a34effa98ea59dbeeba9bab39",
+          "bytes": 1340457
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-04.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-04.png",
+          "sha256": "dab695b03e0216f25519ae4bbc3513968a172719d5258d32ad99305fd0dc9ca8",
+          "bytes": 1117404
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-05.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-05.png",
+          "sha256": "73c6547af5a8298d5a18cfe2dde4d589d3e9b51116867a254d7ab33f6ed5d35a",
+          "bytes": 1261935
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-06.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-06.png",
+          "sha256": "f4d0a047de6d90329494f042d70faf6233404200119753b06e9fd1c2fc77351e",
+          "bytes": 1215315
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-07.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-07.png",
+          "sha256": "63847a94bd99747bf50b227b49dfd04bca2e9d1af1511a1aff8e89c48c2cf9af",
+          "bytes": 1281861
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-08.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-08.png",
+          "sha256": "e8fd6a69814f276a2bc2d5a7b10305c23218d3afa642944c7327c2256a8ebca0",
+          "bytes": 1551954
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-09.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-09.png",
+          "sha256": "91e6e8df112a794ac8e04db543fec2bd17b853703c8e6d2715d98e6cc7a96522",
+          "bytes": 1345313
+        },
+        {
+          "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-10.png",
+          "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-10.png",
+          "sha256": "a2cb968d2f3793e18b9f1643c458d9f47c6145574c54002676479a866444fa40",
+          "bytes": 1434187
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/START-HERE-Printing-Guide.pdf",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/START-HERE-Printing-Guide.pdf",
+      "sha256": "7b0d43ed04f9c82c601d0ead6107731b14a9b1fac9b02cc6773a7fcf91394b6e",
+      "bytes": 2272
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/A4/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-A4.pdf",
+      "sha256": "06861561df375cd4141af52e557c121554fd141791dfa3a351a82121b354bcee",
+      "bytes": 13714829
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/US-Letter/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/US-Letter/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.pdf",
+      "sha256": "e08e74165cd3feac961b619158699b7e775f951f415ee74ab678f299cded8ea2",
+      "bytes": 13714864
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-01-Cover.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-01-Cover.png",
+      "sha256": "fae5b68b05d5265b0d3ee37991439cafdd8e315bda7726c86a7d5a623a40f8ca",
+      "bytes": 1455683
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-02.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-02.png",
+      "sha256": "a94309621eeb0057feaf0c0e2a9781a3f5c17c32142fe3ae3c3f3bc8a2cabd6c",
+      "bytes": 1445010
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-03.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-03.png",
+      "sha256": "8a04bb6002d9e1fa4e67456b09a179522faa170a34effa98ea59dbeeba9bab39",
+      "bytes": 1340457
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-04.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-04.png",
+      "sha256": "dab695b03e0216f25519ae4bbc3513968a172719d5258d32ad99305fd0dc9ca8",
+      "bytes": 1117404
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-05.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-05.png",
+      "sha256": "73c6547af5a8298d5a18cfe2dde4d589d3e9b51116867a254d7ab33f6ed5d35a",
+      "bytes": 1261935
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-06.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-06.png",
+      "sha256": "f4d0a047de6d90329494f042d70faf6233404200119753b06e9fd1c2fc77351e",
+      "bytes": 1215315
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-07.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-07.png",
+      "sha256": "63847a94bd99747bf50b227b49dfd04bca2e9d1af1511a1aff8e89c48c2cf9af",
+      "bytes": 1281861
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-08.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-08.png",
+      "sha256": "e8fd6a69814f276a2bc2d5a7b10305c23218d3afa642944c7327c2256a8ebca0",
+      "bytes": 1551954
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-09.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-09.png",
+      "sha256": "91e6e8df112a794ac8e04db543fec2bd17b853703c8e6d2715d98e6cc7a96522",
+      "bytes": 1345313
+    },
+    {
+      "entry": "LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-10.png",
+      "source": "production/deliverables/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book/Colouring-Pages-PNG/LumiumX-The-Apple-Pie-Kitchen-Colouring-Book-Page-10.png",
+      "sha256": "a2cb968d2f3793e18b9f1643c458d9f47c6145574c54002676479a866444fa40",
+      "bytes": 1434187
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip 13701135 bytes, The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip 13698777 bytes, The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip 13414704 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip 13.70 MB, The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip 13.70 MB, The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip 13.41 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "3 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip, The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip, The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-06T14:33:46.155Z"
+}

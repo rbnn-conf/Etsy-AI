@@ -1,0 +1,1271 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3601452,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "437c056f4a0e39c4c9c24e9016917e24e0e40ec8a9473de343d65a95c0d98d05",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1659,
+        "boxH": 2488,
+        "complete": true,
+        "rect": {
+          "x": 403,
+          "y": -95,
+          "w": 1659,
+          "h": 2488
+        },
+        "visible": {
+          "x": 464,
+          "y": 547,
+          "w": 1536,
+          "h": 1453
+        },
+        "crop": "0.0370,0.2580,0.9259,0.5839"
+      },
+      {
+        "sha256": "0d90740aedf493a6c958463333d1e4a632765a22ee428d0094709ff976b64487",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 740,
+        "boxH": 1046,
+        "complete": true,
+        "rect": {
+          "x": -90.97974395751953,
+          "y": 1088.8067626953125,
+          "w": 861.95947265625,
+          "h": 1128.3865966796875
+        },
+        "visible": {
+          "x": 0,
+          "y": 1088.8067626953125,
+          "w": 770.9797286987305,
+          "h": 911.1932373046875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d90283b21fcd7a7028c59ac2d2cacf5ce028ea7c154d16da9595f00d677d5563",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 740,
+        "boxH": 1046,
+        "complete": true,
+        "rect": {
+          "x": -38.99516296386719,
+          "y": 1033.0096435546875,
+          "w": 925.9903564453125,
+          "h": 1167.9805908203125
+        },
+        "visible": {
+          "x": 0,
+          "y": 1033.0096435546875,
+          "w": 886.9951934814453,
+          "h": 966.9903564453125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "6 CrochetPatterns",
+        "fontPx": 132
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Falling Leaves Crochet Table Set",
+        "text": "Falling Leaves Crochet Table Set"
+      },
+      {
+        "claim": "pattern-count",
+        "value": "6 crochet patterns",
+        "text": "6 CrochetPatterns"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      }
+    ],
+    "slide": "01-stop-scroll",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "editorial-hero",
+      "text_zone": "top-left",
+      "background": "render",
+      "min_share": 0.5,
+      "assets": [
+        "render-bouquet",
+        "doc-cover",
+        "page-maple-leaf-placemat"
+      ],
+      "crops": [
+        {
+          "asset": "render-bouquet",
+          "crop": {
+            "x": 0.037,
+            "y": 0.258,
+            "w": 0.9259,
+            "h": 0.5839
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.235,
+            "w": 1,
+            "h": 0.765
+          },
+          "upscale": 1.62
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-bouquet",
+          "depicts": [
+            "maple-leaf-placemat",
+            "beech-leaf-coaster",
+            "acorn-napkin-ring",
+            "chestnut-cutlery-pocket"
+          ]
+        }
+      ]
+    },
+    "file": "01-stop-scroll.png",
+    "thumb": "thumbs/01-stop-scroll.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3580681,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "0d90740aedf493a6c958463333d1e4a632765a22ee428d0094709ff976b64487",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 620,
+        "boxH": 876,
+        "complete": true,
+        "rect": {
+          "x": 684.9028930664062,
+          "y": 509.4479675292969,
+          "w": 650.1942749023438,
+          "h": 897.10400390625
+        },
+        "visible": {
+          "x": 684.9028930664062,
+          "y": 509.4479675292969,
+          "w": 650.1942749023438,
+          "h": 897.10400390625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "c5eb9a8a039e78653efe61990b822e51aa1c7820c970e8ac287c7496206e61d9",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 1240.1417236328125,
+          "y": 479.5562438964844,
+          "w": 559.716552734375,
+          "h": 747.887451171875
+        },
+        "visible": {
+          "x": 1240.1417236328125,
+          "y": 479.5562438964844,
+          "w": 559.716552734375,
+          "h": 747.887451171875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d90283b21fcd7a7028c59ac2d2cacf5ce028ea7c154d16da9595f00d677d5563",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 214.41871643066406,
+          "y": 535.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "visible": {
+          "x": 214.41871643066406,
+          "y": 535.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "crop": null
+      },
+      {
+        "sha256": "82633894eaf1d3f483c5d774e4ed7afaf69b92a6ed5a82ce42167607408ee9ea",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 480,
+        "boxH": 678,
+        "complete": true,
+        "rect": {
+          "x": 64.76251220703125,
+          "y": 657.5091552734375,
+          "w": 610.4749755859375,
+          "h": 762.981689453125
+        },
+        "visible": {
+          "x": 64.76251220703125,
+          "y": 657.5091552734375,
+          "w": 610.4749755859375,
+          "h": 762.981689453125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "83a562cca4c6432917515ef2b6573a4307a578caf887eb07320691265ffa9cad",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 430,
+        "boxH": 608,
+        "complete": true,
+        "rect": {
+          "x": 1289.78369140625,
+          "y": 1143.0362548828125,
+          "w": 510.4326171875,
+          "h": 661.927490234375
+        },
+        "visible": {
+          "x": 1289.78369140625,
+          "y": 1143.0362548828125,
+          "w": 510.4326171875,
+          "h": 661.927490234375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "73ade79dfdb30ba043f9d5be88f4f566cb64b30d7318090930bcd80ecc4b6b25",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 430,
+        "boxH": 608,
+        "complete": true,
+        "rect": {
+          "x": 1144.384521484375,
+          "y": 1279.1644287109375,
+          "w": 461.23095703125,
+          "h": 629.671142578125
+        },
+        "visible": {
+          "x": 1144.384521484375,
+          "y": 1279.1644287109375,
+          "w": 461.23095703125,
+          "h": 629.671142578125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "8fa4407de4c583abc8864517d3b40aad6f120ad394f0a6de5b64ec9137d1de92",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 440,
+        "boxH": 622,
+        "complete": true,
+        "rect": {
+          "x": 314.0250244140625,
+          "y": 1288.912353515625,
+          "w": 471.949951171875,
+          "h": 644.17529296875
+        },
+        "visible": {
+          "x": 314.0250244140625,
+          "y": 1288.912353515625,
+          "w": 471.949951171875,
+          "h": 644.17529296875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Everything in your download",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "included",
+        "value": "Complete pattern collection PDF",
+        "text": "Complete pattern collection PDF"
+      },
+      {
+        "claim": "individual",
+        "value": "Each pattern as its own PDF",
+        "text": "Each pattern as its own PDF"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "02-what-you-get",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "included-spread",
+      "text_zone": "top-centre",
+      "background": "linen",
+      "min_share": 0.3,
+      "assets": [
+        "doc-cover",
+        "doc-index",
+        "page-maple-leaf-placemat",
+        "page-beech-leaf-coaster",
+        "doc-materials",
+        "doc-abbreviations",
+        "doc-guide"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "02-what-you-get.png",
+    "thumb": "thumbs/02-what-you-get.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4527074,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "a2f4bff173cc7511c7e8d7f9bbc0867cff2f5236ad5dd61378726a5dfb506a55",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1835,
+        "boxH": 2753,
+        "complete": true,
+        "rect": {
+          "x": -348,
+          "y": -629,
+          "w": 1835,
+          "h": 2753
+        },
+        "visible": {
+          "x": 110,
+          "y": 200,
+          "w": 900,
+          "h": 1570
+        },
+        "crop": "0.2548,0.3048,0.4904,0.5703"
+      },
+      {
+        "sha256": "d90283b21fcd7a7028c59ac2d2cacf5ce028ea7c154d16da9595f00d677d5563",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 720,
+        "boxH": 1018,
+        "complete": true,
+        "rect": {
+          "x": 925.3709106445312,
+          "y": 836.1275634765625,
+          "w": 789.2582397460938,
+          "h": 1065.744873046875
+        },
+        "visible": {
+          "x": 925.3709106445312,
+          "y": 836.1275634765625,
+          "w": 789.2582397460938,
+          "h": 1065.744873046875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Maple leaf placemat",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      },
+      {
+        "claim": "pattern-number",
+        "value": "Pattern 01 of 6",
+        "text": "Pattern 01 of 6"
+      },
+      {
+        "claim": "skill",
+        "value": "Intermediate",
+        "text": "Intermediate"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      }
+    ],
+    "slide": "03-quality",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "macro-detail",
+      "text_zone": "right-column",
+      "background": "sage",
+      "min_share": 0.3,
+      "assets": [
+        "render-detail",
+        "page-maple-leaf-placemat"
+      ],
+      "crops": [
+        {
+          "asset": "render-detail",
+          "crop": {
+            "x": 0.2548,
+            "y": 0.3048,
+            "w": 0.4904,
+            "h": 0.5703
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.27,
+            "w": 1,
+            "h": 0.73
+          },
+          "upscale": 1.792
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-detail",
+          "depicts": [
+            "maple-leaf-placemat"
+          ]
+        }
+      ]
+    },
+    "file": "03-quality.png",
+    "thumb": "thumbs/03-quality.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4581340,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "08404c3698164f668b4400957b4d7c37cbaef01666e76cfae9feb44218379b32",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 62.413429260253906,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "visible": {
+          "x": 62.413429260253906,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "82633894eaf1d3f483c5d774e4ed7afaf69b92a6ed5a82ce42167607408ee9ea",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 1322.4134521484375,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "visible": {
+          "x": 1322.4134521484375,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "08ebf7437b0061fcfcb9afb88fc83a2cde32da7c1ba7e4460f3c5143d2e7b85b",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 204.41871643066406,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "visible": {
+          "x": 204.41871643066406,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "crop": null
+      },
+      {
+        "sha256": "feafdcb07014b16ec65cc0b42cd708e0140fb53a1dff13a55303059d0f6714da",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 1224.418701171875,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "visible": {
+          "x": 1224.418701171875,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "crop": null
+      },
+      {
+        "sha256": "126fa8b969a58d785e6ecb9431c28d96c1f74b9e646c803961968cbe4b1d3413",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1163,
+        "boxH": 1745,
+        "complete": true,
+        "rect": {
+          "x": 431,
+          "y": -2,
+          "w": 1163,
+          "h": 1745
+        },
+        "visible": {
+          "x": 488,
+          "y": 406,
+          "w": 1025,
+          "h": 1220
+        },
+        "crop": "0.0595,0.2404,0.8811,0.6991"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "6 Patternsto Make",
+        "fontPx": 128
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "pattern-count",
+        "value": "6 patterns",
+        "text": "6 Patternsto Make"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Maple Leaf Placemat",
+        "text": "Maple Leaf Placemat"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Oak Leaf Appliqué",
+        "text": "Oak Leaf Appliqué"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Beech Leaf Coaster",
+        "text": "Beech Leaf Coaster"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Acorn Napkin Ring",
+        "text": "Acorn Napkin Ring"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Falling Leaves Table Runner",
+        "text": "Falling Leaves Table Runner"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Chestnut Cutlery Pocket",
+        "text": "Chestnut Cutlery Pocket"
+      }
+    ],
+    "slide": "04-variety",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "collection",
+      "text_zone": "top-centre",
+      "background": "blush",
+      "min_share": 0.3,
+      "assets": [
+        "page-oak-leaf-applique",
+        "page-beech-leaf-coaster",
+        "page-acorn-napkin-ring",
+        "page-falling-leaves-table-runner",
+        "render-overview"
+      ],
+      "crops": [
+        {
+          "asset": "render-overview",
+          "crop": {
+            "x": 0.0595,
+            "y": 0.2404,
+            "w": 0.8811,
+            "h": 0.6991
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.21,
+            "w": 1,
+            "h": 0.79
+          },
+          "upscale": 1.136
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-overview",
+          "depicts": [
+            "maple-leaf-placemat",
+            "oak-leaf-applique",
+            "beech-leaf-coaster",
+            "acorn-napkin-ring",
+            "falling-leaves-table-runner",
+            "chestnut-cutlery-pocket"
+          ]
+        }
+      ]
+    },
+    "file": "04-variety.png",
+    "thumb": "thumbs/04-variety.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3194947,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "08404c3698164f668b4400957b4d7c37cbaef01666e76cfae9feb44218379b32",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 1236,
+        "boxH": 1747,
+        "complete": true,
+        "rect": {
+          "x": 757,
+          "y": -450,
+          "w": 1236,
+          "h": 1747
+        },
+        "visible": {
+          "x": 860,
+          "y": 160,
+          "w": 1030,
+          "h": 1120
+        },
+        "crop": "0.0833,0.3494,0.8333,0.6411"
+      },
+      {
+        "sha256": "83a562cca4c6432917515ef2b6573a4307a578caf887eb07320691265ffa9cad",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 440,
+        "boxH": 622,
+        "complete": true,
+        "rect": {
+          "x": 1368.69677734375,
+          "y": 1128.7073974609375,
+          "w": 502.6064453125,
+          "h": 664.585205078125
+        },
+        "visible": {
+          "x": 1368.69677734375,
+          "y": 1128.7073974609375,
+          "w": 502.6064453125,
+          "h": 664.585205078125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Beginner to intermediate",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "features",
+        "value": "Skill level on every pattern",
+        "text": "Skill level on every pattern"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      },
+      {
+        "claim": "features",
+        "value": "Materials listed for every pattern",
+        "text": "Materials listed for every pattern"
+      },
+      {
+        "claim": "instructions",
+        "value": "Step-by-step instructions",
+        "text": "Step-by-step instructions"
+      },
+      {
+        "claim": "features",
+        "value": "Stitch counts",
+        "text": "Stitch counts"
+      }
+    ],
+    "slide": "05-useful",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "feature-focus",
+      "text_zone": "left-column",
+      "background": "paper",
+      "min_share": 0.3,
+      "assets": [
+        "page-oak-leaf-applique",
+        "doc-materials"
+      ],
+      "crops": [
+        {
+          "asset": "page-oak-leaf-applique",
+          "crop": {
+            "x": 0.0833,
+            "y": 0.3494,
+            "w": 0.8333,
+            "h": 0.6411
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          },
+          "upscale": 0.996
+        }
+      ],
+      "renders": []
+    },
+    "file": "05-useful.png",
+    "thumb": "thumbs/05-useful.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4151740,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "0d90740aedf493a6c958463333d1e4a632765a22ee428d0094709ff976b64487",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 470,
+        "boxH": 664,
+        "complete": true,
+        "rect": {
+          "x": 61.95853805541992,
+          "y": 410.7817687988281,
+          "w": 526.0828857421875,
+          "h": 702.4365234375
+        },
+        "visible": {
+          "x": 61.95853805541992,
+          "y": 410.7817687988281,
+          "w": 526.0828857421875,
+          "h": 702.4365234375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d90283b21fcd7a7028c59ac2d2cacf5ce028ea7c154d16da9595f00d677d5563",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 470,
+        "boxH": 664,
+        "complete": true,
+        "rect": {
+          "x": 114.24159240722656,
+          "y": 451.9492492675781,
+          "w": 481.516845703125,
+          "h": 672.1015625
+        },
+        "visible": {
+          "x": 114.24159240722656,
+          "y": 451.9492492675781,
+          "w": 481.516845703125,
+          "h": 672.1015625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "c5eb9a8a039e78653efe61990b822e51aa1c7820c970e8ac287c7496206e61d9",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 470,
+        "boxH": 664,
+        "complete": true,
+        "rect": {
+          "x": 132.94651794433594,
+          "y": 470.1560363769531,
+          "w": 504.10693359375,
+          "h": 687.68798828125
+        },
+        "visible": {
+          "x": 132.94651794433594,
+          "y": 470.1560363769531,
+          "w": 504.10693359375,
+          "h": 687.68798828125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d90283b21fcd7a7028c59ac2d2cacf5ce028ea7c154d16da9595f00d677d5563",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 540,
+        "boxH": 763,
+        "complete": true,
+        "rect": {
+          "x": 716.850341796875,
+          "y": 410.8095397949219,
+          "w": 566.29931640625,
+          "h": 781.380859375
+        },
+        "visible": {
+          "x": 716.850341796875,
+          "y": 410.8095397949219,
+          "w": 566.29931640625,
+          "h": 781.380859375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a2f4bff173cc7511c7e8d7f9bbc0867cff2f5236ad5dd61378726a5dfb506a55",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 870,
+        "boxH": 1305,
+        "complete": true,
+        "rect": {
+          "x": 1237,
+          "y": 153,
+          "w": 870,
+          "h": 1305
+        },
+        "visible": {
+          "x": 1360,
+          "y": 520,
+          "w": 600,
+          "h": 600
+        },
+        "crop": "0.1552,0.2901,0.6897,0.4598"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Download · print · crochet",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Instant digital download",
+        "text": "Instant digital download"
+      },
+      {
+        "claim": "digital",
+        "value": "Print at home",
+        "text": "Print at home"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Crochet",
+        "text": "Crochet"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      }
+    ],
+    "slide": "06-how-it-works",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "process",
+      "text_zone": "bottom-band",
+      "background": "ivory",
+      "min_share": 0.12,
+      "assets": [
+        "doc-cover",
+        "page-maple-leaf-placemat",
+        "doc-index",
+        "render-detail"
+      ],
+      "crops": [
+        {
+          "asset": "render-detail",
+          "crop": {
+            "x": 0.1552,
+            "y": 0.2901,
+            "w": 0.6897,
+            "h": 0.4598
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.27,
+            "w": 1,
+            "h": 0.73
+          },
+          "upscale": 0.85
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-detail",
+          "depicts": [
+            "maple-leaf-placemat"
+          ]
+        }
+      ]
+    },
+    "file": "06-how-it-works.png",
+    "thumb": "thumbs/06-how-it-works.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3998247,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "c5eb9a8a039e78653efe61990b822e51aa1c7820c970e8ac287c7496206e61d9",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 560,
+        "boxH": 791,
+        "complete": true,
+        "rect": {
+          "x": 557.9758911132812,
+          "y": 1034.5740966796875,
+          "w": 562.0241088867188,
+          "h": 663.3338623046875
+        },
+        "visible": {
+          "x": 557.9758911132812,
+          "y": 1034.5740966796875,
+          "w": 562.0241088867188,
+          "h": 663.3338623046875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d90283b21fcd7a7028c59ac2d2cacf5ce028ea7c154d16da9595f00d677d5563",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 560,
+        "boxH": 791,
+        "complete": true,
+        "rect": {
+          "x": 1083.4898681640625,
+          "y": 1013.839599609375,
+          "w": 592.978759765625,
+          "h": 657.160400390625
+        },
+        "visible": {
+          "x": 1083.4898681640625,
+          "y": 1013.839599609375,
+          "w": 592.978759765625,
+          "h": 657.160400390625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a2f4bff173cc7511c7e8d7f9bbc0867cff2f5236ad5dd61378726a5dfb506a55",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 589,
+        "boxH": 884,
+        "complete": true,
+        "rect": {
+          "x": 16.87957000732422,
+          "y": 971.5261840820312,
+          "w": 663.8043212890625,
+          "h": 931.9708862304688
+        },
+        "visible": {
+          "x": 158.89601135253906,
+          "y": 1295.2633056640625,
+          "w": 396.1070556640625,
+          "h": 459.73974609375
+        },
+        "crop": "0.1944,0.3567,0.6112,0.4867"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "A quiet crafting hour",
+        "fontPx": 100
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "render",
+        "value": "Illustration",
+        "text": "Illustration"
+      }
+    ],
+    "slide": "07-desire",
+    "scene": "env-07-desire",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "lifestyle",
+      "text_zone": "top-right",
+      "background": "environment",
+      "min_share": 0.2,
+      "region": {
+        "x": 560,
+        "y": 820,
+        "w": 1120,
+        "h": 911.4907332796132
+      },
+      "assets": [
+        "doc-index",
+        "page-maple-leaf-placemat",
+        "render-detail"
+      ],
+      "crops": [
+        {
+          "asset": "render-detail",
+          "crop": {
+            "x": 0.1944,
+            "y": 0.3567,
+            "w": 0.6112,
+            "h": 0.4867
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.27,
+            "w": 1,
+            "h": 0.73
+          },
+          "upscale": 0.575
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-detail",
+          "depicts": [
+            "maple-leaf-placemat"
+          ]
+        }
+      ]
+    },
+    "file": "07-desire.png",
+    "thumb": "thumbs/07-desire.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4096494,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "0d90740aedf493a6c958463333d1e4a632765a22ee428d0094709ff976b64487",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 700,
+        "boxH": 989,
+        "complete": true,
+        "rect": {
+          "x": 1038.2333984375,
+          "y": 671.377197265625,
+          "w": 783.533203125,
+          "h": 1046.24560546875
+        },
+        "visible": {
+          "x": 1038.2333984375,
+          "y": 671.377197265625,
+          "w": 783.533203125,
+          "h": 1046.24560546875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "8fa4407de4c583abc8864517d3b40aad6f120ad394f0a6de5b64ec9137d1de92",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 600,
+        "boxH": 849,
+        "complete": true,
+        "rect": {
+          "x": 1317.2711181640625,
+          "y": 530.9669189453125,
+          "w": 685.457763671875,
+          "h": 907.066162109375
+        },
+        "visible": {
+          "x": 1317.2711181640625,
+          "y": 530.9669189453125,
+          "w": 682.7288818359375,
+          "h": 907.066162109375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Digital PDF pattern download",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Falling Leaves Crochet Table Set",
+        "text": "Falling Leaves Crochet Table Set"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant download",
+        "text": "Instant download"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter PDFs",
+        "text": "A4 + US Letter PDFs"
+      },
+      {
+        "claim": "delivery",
+        "value": "No yarn or hook included",
+        "text": "No yarn or hook included"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrations, not photos",
+        "text": "Illustrations, not photos"
+      }
+    ],
+    "slide": "08-doubts",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "fact-sheet",
+      "text_zone": "top-left",
+      "background": "dusk",
+      "min_share": 0.08,
+      "assets": [
+        "doc-cover",
+        "doc-guide"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "08-doubts.png",
+    "thumb": "thumbs/08-doubts.png"
+  }
+]

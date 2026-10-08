@@ -1,0 +1,2506 @@
+{
+  "schema_version": 2,
+  "product_id": "022",
+  "handoff_sha256": "c33ba584ee7ad38eb96238c3be0b7c3ae3721fed6bc982c6ac6b7200700840fc",
+  "adapter": {
+    "format": "colouring-book",
+    "design": "standard",
+    "design_name": "Standard",
+    "version": 1
+  },
+  "image_encoding": {
+    "pdf": 92,
+    "pages_png": true
+  },
+  "package": "LumiumX-Hollowbone-Manor-Masquerade",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Colouring-Pages-PNG",
+    "Guide"
+  ],
+  "card_variants": null,
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "page": 2,
+      "label": "Page 2 of 25 (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf",
+      "page": 25,
+      "label": "Page 25 of 25 (A4)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "fe6389eb5ab104edb91f77e4b2273c6a0a7357254636935f8d3d4a953e3dacda",
+      "bytes": 2262,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "e6abe82f570764dff1bb15bfa169b95b5906a810fb0ae0f3b11186430b2b8c97",
+      "bytes": 13950901,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "295835e0f56c6875e0737aa49317444076a42d93c7b4bc80265d6d2ba52920e9"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "ddaa865c774a070c0e335923a9568397f4873e5eff33d68d07d0f34919bea78b"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "96b38cac3ccfb2f721924bf4db158f3879f76b8bfcdafdf36dc8145933b8ff0a"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "d08083399473894e788f7ad9937aa28db71f89f49d307669113802ccd9f68c45"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "18a893a5429d02e6a1f792517b3009f62c31e8c84ccf9a3c039fb5ad1c919989"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "3b569c47efa4161a24282bd1c2ae637d7ec881a3756fa69e1a702f73fcf157fe"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "4c46d19e06580c16c4bd6f1a3282e14fe012b4ea704f89c1eacf85d05778e9a5"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "a3be98a843bee7ae2435b103ab6ee05c7e0eaa3dd3b32b3af64c0283803149a2"
+        },
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "3775eafc65395bc965ef7e1b0f994844e72fcd5d9e7a0b1bb1d5a43d065c5303"
+        },
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "eace2267fc4f3604dd2ab54982df126a12af7c022218b3e05c980743163c38f0"
+        },
+        {
+          "asset": "P013",
+          "file": "book/pages/P013.png",
+          "sha256": "c0d51a72b26cc6b6eed219635d6828b7a855646306714a933672a6ebdf260c03"
+        },
+        {
+          "asset": "P014",
+          "file": "book/pages/P014.png",
+          "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3"
+        },
+        {
+          "asset": "P015",
+          "file": "book/pages/P015.png",
+          "sha256": "694983a72a23c8f093e833d3b571d28de2f58c4a8c43b8aff13d4a9fe3a35629"
+        },
+        {
+          "asset": "P016",
+          "file": "book/pages/P016.png",
+          "sha256": "aa65dfc3cb991e7216b7a78290f7caf33775c9887624cd171a18d386e4e7b28b"
+        },
+        {
+          "asset": "P017",
+          "file": "book/pages/P017.png",
+          "sha256": "4cd4703584140c29ad0559db5051c9a97ba8d829638943fe442553530350ca36"
+        },
+        {
+          "asset": "P018",
+          "file": "book/pages/P018.png",
+          "sha256": "8d5df88de3bd385f051ddc10fb7ba1457ed077431e7af90b3b329087a64d51e7"
+        },
+        {
+          "asset": "P019",
+          "file": "book/pages/P019.png",
+          "sha256": "d94ea386b635e2fb7908718110d6450052be06c6e9a6bff28a8d42da26dcead9"
+        },
+        {
+          "asset": "P020",
+          "file": "book/pages/P020.png",
+          "sha256": "2e50d424b0b901c4cd626b4f6efefa56b65f48b8a3a7eec5407f22725c6dcb5c"
+        },
+        {
+          "asset": "P021",
+          "file": "book/pages/P021.png",
+          "sha256": "c95f703c4c10e010eb68407ecf2ad0b41e617c671beb6741cef8c3a3b6155fe9"
+        },
+        {
+          "asset": "P022",
+          "file": "book/pages/P022.png",
+          "sha256": "c37268c9a8b5f2a0c49b981e1be6065b79ff1fc707363be7bc3e6fa6981932f2"
+        },
+        {
+          "asset": "P023",
+          "file": "book/pages/P023.png",
+          "sha256": "a3c7ba89e28f72a448faeec1677f9412eb7cd7b3f35abb12a46e5f2341c93953"
+        },
+        {
+          "asset": "P024",
+          "file": "book/pages/P024.png",
+          "sha256": "26a7e87b2f806045a746990457084a6ae38e4fc8b7ad1593b38fccb6c82465e3"
+        },
+        {
+          "asset": "P025",
+          "file": "book/pages/P025.png",
+          "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47"
+        }
+      ],
+      "expect": {
+        "pages": 25,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 11",
+          "role": "page",
+          "page_number": 11,
+          "asset": "P011",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 12",
+          "role": "page",
+          "page_number": 12,
+          "asset": "P012",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 13",
+          "role": "page",
+          "page_number": 13,
+          "asset": "P013",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 14",
+          "role": "page",
+          "page_number": 14,
+          "asset": "P014",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 15",
+          "role": "page",
+          "page_number": 15,
+          "asset": "P015",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 16",
+          "role": "page",
+          "page_number": 16,
+          "asset": "P016",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 17",
+          "role": "page",
+          "page_number": 17,
+          "asset": "P017",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 18",
+          "role": "page",
+          "page_number": 18,
+          "asset": "P018",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 19",
+          "role": "page",
+          "page_number": 19,
+          "asset": "P019",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 20",
+          "role": "page",
+          "page_number": 20,
+          "asset": "P020",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 21",
+          "role": "page",
+          "page_number": 21,
+          "asset": "P021",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 22",
+          "role": "page",
+          "page_number": 22,
+          "asset": "P022",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 23",
+          "role": "page",
+          "page_number": 23,
+          "asset": "P023",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 24",
+          "role": "page",
+          "page_number": 24,
+          "asset": "P024",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 25",
+          "role": "page",
+          "page_number": 25,
+          "asset": "P025",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Hollowbone-Manor-Masquerade-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "3d5e152594fa1a3d98a1adbd29f2e82f40823d5c4ed0195092335f4c7e54653f",
+      "bytes": 13950994,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "295835e0f56c6875e0737aa49317444076a42d93c7b4bc80265d6d2ba52920e9"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "ddaa865c774a070c0e335923a9568397f4873e5eff33d68d07d0f34919bea78b"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "96b38cac3ccfb2f721924bf4db158f3879f76b8bfcdafdf36dc8145933b8ff0a"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "d08083399473894e788f7ad9937aa28db71f89f49d307669113802ccd9f68c45"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "18a893a5429d02e6a1f792517b3009f62c31e8c84ccf9a3c039fb5ad1c919989"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "3b569c47efa4161a24282bd1c2ae637d7ec881a3756fa69e1a702f73fcf157fe"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "4c46d19e06580c16c4bd6f1a3282e14fe012b4ea704f89c1eacf85d05778e9a5"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "a3be98a843bee7ae2435b103ab6ee05c7e0eaa3dd3b32b3af64c0283803149a2"
+        },
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "3775eafc65395bc965ef7e1b0f994844e72fcd5d9e7a0b1bb1d5a43d065c5303"
+        },
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "eace2267fc4f3604dd2ab54982df126a12af7c022218b3e05c980743163c38f0"
+        },
+        {
+          "asset": "P013",
+          "file": "book/pages/P013.png",
+          "sha256": "c0d51a72b26cc6b6eed219635d6828b7a855646306714a933672a6ebdf260c03"
+        },
+        {
+          "asset": "P014",
+          "file": "book/pages/P014.png",
+          "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3"
+        },
+        {
+          "asset": "P015",
+          "file": "book/pages/P015.png",
+          "sha256": "694983a72a23c8f093e833d3b571d28de2f58c4a8c43b8aff13d4a9fe3a35629"
+        },
+        {
+          "asset": "P016",
+          "file": "book/pages/P016.png",
+          "sha256": "aa65dfc3cb991e7216b7a78290f7caf33775c9887624cd171a18d386e4e7b28b"
+        },
+        {
+          "asset": "P017",
+          "file": "book/pages/P017.png",
+          "sha256": "4cd4703584140c29ad0559db5051c9a97ba8d829638943fe442553530350ca36"
+        },
+        {
+          "asset": "P018",
+          "file": "book/pages/P018.png",
+          "sha256": "8d5df88de3bd385f051ddc10fb7ba1457ed077431e7af90b3b329087a64d51e7"
+        },
+        {
+          "asset": "P019",
+          "file": "book/pages/P019.png",
+          "sha256": "d94ea386b635e2fb7908718110d6450052be06c6e9a6bff28a8d42da26dcead9"
+        },
+        {
+          "asset": "P020",
+          "file": "book/pages/P020.png",
+          "sha256": "2e50d424b0b901c4cd626b4f6efefa56b65f48b8a3a7eec5407f22725c6dcb5c"
+        },
+        {
+          "asset": "P021",
+          "file": "book/pages/P021.png",
+          "sha256": "c95f703c4c10e010eb68407ecf2ad0b41e617c671beb6741cef8c3a3b6155fe9"
+        },
+        {
+          "asset": "P022",
+          "file": "book/pages/P022.png",
+          "sha256": "c37268c9a8b5f2a0c49b981e1be6065b79ff1fc707363be7bc3e6fa6981932f2"
+        },
+        {
+          "asset": "P023",
+          "file": "book/pages/P023.png",
+          "sha256": "a3c7ba89e28f72a448faeec1677f9412eb7cd7b3f35abb12a46e5f2341c93953"
+        },
+        {
+          "asset": "P024",
+          "file": "book/pages/P024.png",
+          "sha256": "26a7e87b2f806045a746990457084a6ae38e4fc8b7ad1593b38fccb6c82465e3"
+        },
+        {
+          "asset": "P025",
+          "file": "book/pages/P025.png",
+          "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47"
+        }
+      ],
+      "expect": {
+        "pages": 25,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 11",
+          "role": "page",
+          "page_number": 11,
+          "asset": "P011",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 12",
+          "role": "page",
+          "page_number": 12,
+          "asset": "P012",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 13",
+          "role": "page",
+          "page_number": 13,
+          "asset": "P013",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 14",
+          "role": "page",
+          "page_number": 14,
+          "asset": "P014",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 15",
+          "role": "page",
+          "page_number": 15,
+          "asset": "P015",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 16",
+          "role": "page",
+          "page_number": 16,
+          "asset": "P016",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 17",
+          "role": "page",
+          "page_number": 17,
+          "asset": "P017",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 18",
+          "role": "page",
+          "page_number": 18,
+          "asset": "P018",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 19",
+          "role": "page",
+          "page_number": 19,
+          "asset": "P019",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 20",
+          "role": "page",
+          "page_number": 20,
+          "asset": "P020",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 21",
+          "role": "page",
+          "page_number": 21,
+          "asset": "P021",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 22",
+          "role": "page",
+          "page_number": 22,
+          "asset": "P022",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 23",
+          "role": "page",
+          "page_number": 23,
+          "asset": "P023",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 24",
+          "role": "page",
+          "page_number": 24,
+          "asset": "P024",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 25",
+          "role": "page",
+          "page_number": 25,
+          "asset": "P025",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 1,
+      "sha256": "bb4e9bc1231fff86675f9dee76e3be1c4de2ff04d30d5963e836c54cf42f51f4",
+      "bytes": 2616164,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P001"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 2,
+      "sha256": "342df7332a14e1f5bc505f2558c4dd8b22bbd67ac435ba35ba5b0d765d23eee9",
+      "bytes": 2331411,
+      "sources": [
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P002"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 3,
+      "sha256": "26f1680bc0c73af51254cbeea8980bba275510bf367745f312e65dc3b2a2f88f",
+      "bytes": 2664471,
+      "sources": [
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "295835e0f56c6875e0737aa49317444076a42d93c7b4bc80265d6d2ba52920e9"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P003"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 4,
+      "sha256": "2710e336b23a56cf6fccd2435316352b4a7fd8ed887892849ee2a1a053f8eaaf",
+      "bytes": 2067156,
+      "sources": [
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "ddaa865c774a070c0e335923a9568397f4873e5eff33d68d07d0f34919bea78b"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P004"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 5,
+      "sha256": "a8f7208c85e35a06734ff385a149cb173dd4ebed83a4775ff297cf69605ced22",
+      "bytes": 2445495,
+      "sources": [
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "96b38cac3ccfb2f721924bf4db158f3879f76b8bfcdafdf36dc8145933b8ff0a"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P005"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 6,
+      "sha256": "1caddabb2a20786ca790d23d82f86670f80f68e8a045f18b7d488523ce998e58",
+      "bytes": 2220465,
+      "sources": [
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "d08083399473894e788f7ad9937aa28db71f89f49d307669113802ccd9f68c45"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P006"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 7,
+      "sha256": "5818c4c5df24333e9955b6ffcc37ca0cde70982118612ad4d6118ed39cedaf55",
+      "bytes": 2371486,
+      "sources": [
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "18a893a5429d02e6a1f792517b3009f62c31e8c84ccf9a3c039fb5ad1c919989"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P007"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 8,
+      "sha256": "bb6b28cfb4a13da96bde9c1118316f56be575c6bff77d38c86aebae51c0e5fff",
+      "bytes": 2351862,
+      "sources": [
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "3b569c47efa4161a24282bd1c2ae637d7ec881a3756fa69e1a702f73fcf157fe"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P008"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 9,
+      "sha256": "eccdf02d5b867023985f58ac2c0143ccad40fbb1b9f91f7ec14fbeacc75e3b63",
+      "bytes": 2430573,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "4c46d19e06580c16c4bd6f1a3282e14fe012b4ea704f89c1eacf85d05778e9a5"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P009"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 10,
+      "sha256": "ef7b0f293827a6e63a4d8eb6afb8f71eaa34a508da53904292f23d07c05ddb75",
+      "bytes": 1960892,
+      "sources": [
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "a3be98a843bee7ae2435b103ab6ee05c7e0eaa3dd3b32b3af64c0283803149a2"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P010"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 11,
+      "sha256": "ea39a3bd0d9e8f05e2bda71856ede8f53b25d659c010be5994dcb2681df98fec",
+      "bytes": 2496541,
+      "sources": [
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "3775eafc65395bc965ef7e1b0f994844e72fcd5d9e7a0b1bb1d5a43d065c5303"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P011"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 12,
+      "sha256": "87e770c21f0c94d97c27bd8bce11961d141ed7106709274fc1e4e1d8a2251211",
+      "bytes": 2365530,
+      "sources": [
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "eace2267fc4f3604dd2ab54982df126a12af7c022218b3e05c980743163c38f0"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P012"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 13,
+      "sha256": "7b072aba690bd4e4c5fd5ccc0b5a9b992ddf0a794339d02a2f78c0e8f66347d0",
+      "bytes": 1870447,
+      "sources": [
+        {
+          "asset": "P013",
+          "file": "book/pages/P013.png",
+          "sha256": "c0d51a72b26cc6b6eed219635d6828b7a855646306714a933672a6ebdf260c03"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P013"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 14,
+      "sha256": "c6396d8e879724527f929e814e1196f399850c499fb54258e05072dc77f011ba",
+      "bytes": 2564660,
+      "sources": [
+        {
+          "asset": "P014",
+          "file": "book/pages/P014.png",
+          "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P014"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 15,
+      "sha256": "5f0d350b50e170513f7a6b13644355346d4279230dd8f067f242c925dbb20f93",
+      "bytes": 2591558,
+      "sources": [
+        {
+          "asset": "P015",
+          "file": "book/pages/P015.png",
+          "sha256": "694983a72a23c8f093e833d3b571d28de2f58c4a8c43b8aff13d4a9fe3a35629"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P015"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 16,
+      "sha256": "425376620639fae98aed0851a21ffa9647b0389df044597b107ff5e17ba33265",
+      "bytes": 2215518,
+      "sources": [
+        {
+          "asset": "P016",
+          "file": "book/pages/P016.png",
+          "sha256": "aa65dfc3cb991e7216b7a78290f7caf33775c9887624cd171a18d386e4e7b28b"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P016"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 17,
+      "sha256": "3d69d56219b554e3703921fefbb40395d90747c7341e9edfa717bea3dd6db326",
+      "bytes": 2581008,
+      "sources": [
+        {
+          "asset": "P017",
+          "file": "book/pages/P017.png",
+          "sha256": "4cd4703584140c29ad0559db5051c9a97ba8d829638943fe442553530350ca36"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P017"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 18,
+      "sha256": "dddd054f7df317c98ced5dfd52cf8c3e53208c7c4cf095cc8f05ad1e643d9ae4",
+      "bytes": 2253553,
+      "sources": [
+        {
+          "asset": "P018",
+          "file": "book/pages/P018.png",
+          "sha256": "8d5df88de3bd385f051ddc10fb7ba1457ed077431e7af90b3b329087a64d51e7"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P018"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 19,
+      "sha256": "0d8c653249ccbbf908b6286e79388ed3893cb2392515a364098c7dfebd96158e",
+      "bytes": 2146101,
+      "sources": [
+        {
+          "asset": "P019",
+          "file": "book/pages/P019.png",
+          "sha256": "d94ea386b635e2fb7908718110d6450052be06c6e9a6bff28a8d42da26dcead9"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P019"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 20,
+      "sha256": "2717a09f9a7c32077641dd8d5d8846f79ae2d830b32d1bdd144f7c1954e7af3c",
+      "bytes": 1878734,
+      "sources": [
+        {
+          "asset": "P020",
+          "file": "book/pages/P020.png",
+          "sha256": "2e50d424b0b901c4cd626b4f6efefa56b65f48b8a3a7eec5407f22725c6dcb5c"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P020"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 21,
+      "sha256": "56f1f51b66ad92f6a25998ebe8947dd7305c4511670f2ef15a8a684afdd88147",
+      "bytes": 2235035,
+      "sources": [
+        {
+          "asset": "P021",
+          "file": "book/pages/P021.png",
+          "sha256": "c95f703c4c10e010eb68407ecf2ad0b41e617c671beb6741cef8c3a3b6155fe9"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P021"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 22,
+      "sha256": "d98c515229897253ba29ad4a1af8c304386762b403fd59a46f0b5680d844ba96",
+      "bytes": 2002074,
+      "sources": [
+        {
+          "asset": "P022",
+          "file": "book/pages/P022.png",
+          "sha256": "c37268c9a8b5f2a0c49b981e1be6065b79ff1fc707363be7bc3e6fa6981932f2"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P022"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 23,
+      "sha256": "e29f765cb3e6209390500197fdd383ba3e0395f486d3f24d5009ac44e6db7441",
+      "bytes": 2265872,
+      "sources": [
+        {
+          "asset": "P023",
+          "file": "book/pages/P023.png",
+          "sha256": "a3c7ba89e28f72a448faeec1677f9412eb7cd7b3f35abb12a46e5f2341c93953"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P023"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 24,
+      "sha256": "f25b3ab9b95df308cf0dc2f1d7dc4b66442b8f06476dbdd827722f24155ae366",
+      "bytes": 2419547,
+      "sources": [
+        {
+          "asset": "P024",
+          "file": "book/pages/P024.png",
+          "sha256": "26a7e87b2f806045a746990457084a6ae38e4fc8b7ad1593b38fccb6c82465e3"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P024"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 25,
+      "sha256": "408c9d63cefc6f8baea7a1c1fa61df1bc787b1b547a4f49d11f86daa74107bfa",
+      "bytes": 2418135,
+      "sources": [
+        {
+          "asset": "P025",
+          "file": "book/pages/P025.png",
+          "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P025"
+      },
+      "placements": []
+    }
+  },
+  "zip": null,
+  "book": {
+    "pages": 25,
+    "pages_png": true,
+    "pdf_encoding": 92
+  },
+  "volumes": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  ],
+  "stage3_handoff": {
+    "product_format": "colouring-book",
+    "product_type": "Adult Halloween colouring book",
+    "page_count": 25,
+    "cover": true,
+    "colouring_pages": 24,
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "formats": [
+      {
+        "key": "A4",
+        "label": "A4",
+        "files": 1,
+        "pages": 25,
+        "page_size_mm": [
+          210,
+          297
+        ],
+        "artwork_size_mm": [
+          184.7,
+          277
+        ]
+      },
+      {
+        "key": "US-Letter",
+        "label": "US Letter",
+        "files": 1,
+        "pages": 25,
+        "page_size_mm": [
+          215.9,
+          279.4
+        ],
+        "artwork_size_mm": [
+          172.9,
+          259.4
+        ]
+      },
+      {
+        "key": "Colouring-Pages-PNG",
+        "label": "PNG pages",
+        "files": 25,
+        "pages": 25
+      }
+    ],
+    "representative_pages": [
+      {
+        "page_number": 1,
+        "title": "Hollowbone Manor Masquerade",
+        "role": "cover",
+        "asset": "P001",
+        "file": "book/pages/P001.png",
+        "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png"
+      },
+      {
+        "page_number": 2,
+        "title": "The Iron Gate",
+        "role": "page",
+        "asset": "P002",
+        "file": "book/pages/P002.png",
+        "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png"
+      },
+      {
+        "page_number": 14,
+        "title": "The Portrait Gallery",
+        "role": "page",
+        "asset": "P014",
+        "file": "book/pages/P014.png",
+        "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png"
+      },
+      {
+        "page_number": 25,
+        "title": "The Manor Sleeps",
+        "role": "page",
+        "asset": "P025",
+        "file": "book/pages/P025.png",
+        "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png"
+      }
+    ],
+    "package_contents": [
+      {
+        "item": "START-HERE-Printing-Guide.pdf",
+        "files": 1
+      },
+      {
+        "item": "A4",
+        "files": 1
+      },
+      {
+        "item": "US-Letter",
+        "files": 1
+      },
+      {
+        "item": "Colouring-Pages-PNG",
+        "files": 25
+      }
+    ],
+    "note": "Real product imagery for marketing must be these approved page files (or true renders of the customer PDFs); never a redrawn page."
+  },
+  "zip_parts": [
+    {
+      "part": 1,
+      "of": 5,
+      "name": "LumiumX-Hollowbone-Manor-Masquerade-Part-1.zip",
+      "file": "production/package/LumiumX-Hollowbone-Manor-Masquerade-Part-1.zip",
+      "sha256": "eea58f775fbc691a3333323b934e3c0760349c8ac12f37467babba9f2c685ffb",
+      "bytes": 13900347,
+      "entries_digest": "be3933c8ab443d4517509b0d4cf05767122b160519078ee0db39bc36a72d568a",
+      "entries": [
+        "LumiumX-Hollowbone-Manor-Masquerade/START-HERE-Printing-Guide.pdf",
+        "LumiumX-Hollowbone-Manor-Masquerade/A4/LumiumX-Hollowbone-Manor-Masquerade-A4.pdf"
+      ]
+    },
+    {
+      "part": 2,
+      "of": 5,
+      "name": "LumiumX-Hollowbone-Manor-Masquerade-Part-2.zip",
+      "file": "production/package/LumiumX-Hollowbone-Manor-Masquerade-Part-2.zip",
+      "sha256": "67e8a5c81983ee4906b19a861af4dc89f8f22662e3d7878747708b39bed8c14c",
+      "bytes": 18820448,
+      "entries_digest": "e61892d24918cec1e91d05ed6bc705d2fbc56f88c14da07f0ae73a43fef93ca9",
+      "entries": [
+        "LumiumX-Hollowbone-Manor-Masquerade/US-Letter/LumiumX-Hollowbone-Manor-Masquerade-US-Letter.pdf",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-01-Cover.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-02.png"
+      ]
+    },
+    {
+      "part": 3,
+      "of": 5,
+      "name": "LumiumX-Hollowbone-Manor-Masquerade-Part-3.zip",
+      "file": "production/package/LumiumX-Hollowbone-Manor-Masquerade-Part-3.zip",
+      "sha256": "420c589eeffd380a933a11ab03caa74c7d18555c1baf73effd518ce907dbed43",
+      "bytes": 18416857,
+      "entries_digest": "98bfea0cf592de249409eda0bb86445c42f3df8af19d8518ab1054376b54ac54",
+      "entries": [
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-03.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-04.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-05.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-06.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-07.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-08.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-09.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-10.png"
+      ]
+    },
+    {
+      "part": 4,
+      "of": 5,
+      "name": "LumiumX-Hollowbone-Manor-Masquerade-Part-4.zip",
+      "file": "production/package/LumiumX-Hollowbone-Manor-Masquerade-Part-4.zip",
+      "sha256": "d06616008435fc3174e45e6f8536442d9bb494cfc9b25e8a68ffcc455e85fea0",
+      "bytes": 18841736,
+      "entries_digest": "464f29afb0e9e72b258365ff39f18edf7091146407e4b5e302672384209ba0ed",
+      "entries": [
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-11.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-12.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-13.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-14.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-15.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-16.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-17.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-18.png"
+      ]
+    },
+    {
+      "part": 5,
+      "of": 5,
+      "name": "LumiumX-Hollowbone-Manor-Masquerade-Part-5.zip",
+      "file": "production/package/LumiumX-Hollowbone-Manor-Masquerade-Part-5.zip",
+      "sha256": "28e97125dd9168cdbe2f7a1705b59deb14f1de773f9e8d7f0482d885d8cf6ee7",
+      "bytes": 15293480,
+      "entries_digest": "a67b951ed3642ff8c4ad0c339687a8b1cf42bcbd2d0dc6748516b87d70754168",
+      "entries": [
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-19.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-20.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-21.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-22.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-23.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-24.png",
+        "LumiumX-Hollowbone-Manor-Masquerade/Colouring-Pages-PNG/LumiumX-Hollowbone-Manor-Masquerade-Page-25.png"
+      ]
+    }
+  ]
+}

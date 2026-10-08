@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LumiumX creative direction: source of truth for all image generation of one product",
+  "type": "object",
+  "required": [
+    "illustration_style",
+    "line_weight",
+    "line_quality",
+    "detail_level",
+    "character_language",
+    "background_density",
+    "composition",
+    "palette",
+    "colour_mode",
+    "shading",
+    "texture",
+    "mood",
+    "age_suitability",
+    "print_considerations",
+    "shared_prompt",
+    "avoid",
+    "version",
+    "source",
+    "based_on_references",
+    "feedback_applied",
+    "created_at"
+  ],
+  "properties": {
+    "illustration_style": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Medium and illustration approach, e.g. \"hand-painted storybook watercolour\". Style only: never name a specific subject, character, animal, object, pose, scene or narrative unless the owner's request requires it."
+    },
+    "line_weight": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Outline weight, or \"no outlines\" for painterly or flat-colour work."
+    },
+    "line_quality": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Character of the linework, or \"not applicable\" if there are no outlines."
+    },
+    "detail_level": {
+      "type": "string",
+      "minLength": 1,
+      "description": "How much detail and where it is spent. Style only: never name a specific subject, character, animal, object, pose, scene or narrative unless the owner's request requires it."
+    },
+    "character_language": {
+      "type": "string",
+      "minLength": 1,
+      "description": "How characters are rendered IN GENERAL (anatomy, faces, expression, stylisation), or \"not applicable\". Never which character, what it wears or carries, or its pose."
+    },
+    "background_density": {
+      "type": "string",
+      "minLength": 1,
+      "description": "How busy backgrounds are and how they recede. Style only: never name a specific subject, character, animal, object, pose, scene or narrative unless the owner's request requires it."
+    },
+    "composition": {
+      "type": "string",
+      "minLength": 1,
+      "description": "General composition PRINCIPLES (focal hierarchy, whitespace, text area). Never a particular subject's position, pose or scene; each concept sets its own composition."
+    },
+    "palette": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Palette family and colour relationships. Style only: never name a specific subject, character, animal, object, pose, scene or narrative unless the owner's request requires it."
+    },
+    "colour_mode": {
+      "type": "string",
+      "enum": [
+        "black-and-white line art",
+        "limited colour",
+        "full colour"
+      ]
+    },
+    "shading": {
+      "type": "string",
+      "minLength": 1
+    },
+    "texture": {
+      "type": "string",
+      "minLength": 1
+    },
+    "mood": {
+      "type": "string",
+      "minLength": 1
+    },
+    "age_suitability": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Intended audience, e.g. \"adults\", \"general family audience\" or \"ages 4-8\". Only name an age range for children's products."
+    },
+    "print_considerations": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Practical printing notes for this format (ink coverage, trimming, folding, home-printer limits). Style only: never name a specific subject, character, animal, object, pose, scene or narrative unless the owner's request requires it."
+    },
+    "shared_prompt": {
+      "type": "string",
+      "minLength": 40,
+      "description": "Shared visual-system text added to every image prompt. Style only: medium, texture, linework, palette family, lighting feel, mood, print feel. No specific subject, object, pose or scene unless the owner's request requires it."
+    },
+    "avoid": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "scope": {
+      "type": "string",
+      "const": "shared-style",
+      "description": "Set by code: this direction was written under the style-only boundary. Directions without it are legacy and are rebuilt before new concepts."
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "references",
+        "concept",
+        "feedback",
+        "restyle"
+      ]
+    },
+    "based_on_references": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "feedback_applied": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

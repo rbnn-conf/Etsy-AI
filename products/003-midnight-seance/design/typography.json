@@ -1,0 +1,6 @@
+{
+  "display": {"family":"Bodoni Moda","regular":"BodoniModa-Regular.ttf","italic":"BodoniModa-Italic.ttf","weight":400,"opticalSize":18,"fallback":"Georgia, serif","use":"Editorial titles, italic invitation voice and welcome motto"},
+  "utility": {"family":"Source Sans 3","regular":"SourceSans3-Regular.otf","semibold":"SourceSans3-Semibold.otf","fallback":"Arial, sans-serif","use":"Dates, addresses, editable forms, instructions and activity letters"},
+  "licence":"SIL Open Font License 1.1; keep original font files and accompanying notices",
+  "fontLoading":"Local base64 @font-face, document.fonts.ready and explicit load checks; PDFs checked for embedded resources"
+}

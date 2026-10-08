@@ -1,0 +1,136 @@
+{
+  "pattern_id": "witch-hat-brooch",
+  "name": "Lavender Witch-Hat Brooch",
+  "category": "brooch",
+  "difficulty": "easy",
+  "finished_size": "About 6 cm wide and 6 cm tall",
+  "yarn": [
+    {
+      "description": "Light yarn for hat and brim",
+      "colour": "Lavender",
+      "amount": "About 10 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E-4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "25 mm brooch bar",
+    "Sewing needle and matching sewing thread",
+    "Stitch marker"
+  ],
+  "stitches_used": [
+    "ch",
+    "sc",
+    "hdc",
+    "dc",
+    "sl st"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "sl st": "slip stitch",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "MR": "magic ring",
+    "inc": "increase"
+  },
+  "gauge": "Gauge is not critical; use a firm fabric so the small hat keeps its shape.",
+  "instructions": [
+    {
+      "heading": "Pointed Hat",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make a MR; work 4 sc in the MR. Place a stitch marker in the first st and work in continuous rnds.",
+          "stitch_count": 4
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Sc in each st around.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Work [sc in next st, inc in next st] 4 times.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Sc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Work [sc in next 2 sts, inc in next st] 4 times.",
+          "stitch_count": 16
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Sc in each st around.",
+          "stitch_count": 16
+        },
+        {
+          "label": "Rnd 8",
+          "text": "Work [sc in next 3 sts, inc in next st] 4 times.",
+          "stitch_count": 20
+        },
+        {
+          "label": "Rnd 9",
+          "text": "Sc in each st around. Cut yarn, leaving a 25 cm sewing tail.",
+          "stitch_count": 20
+        }
+      ]
+    },
+    {
+      "heading": "Curved Brim",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Ch 13. Starting in the second ch from hook, sc in next 11 chs, work 3 sc in the last ch, sc in the underside of the next 10 chs, then work 2 sc in the underside of the final ch. Place a marker in the first st and work in continuous rnds.",
+          "stitch_count": 26
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in first st, sc in next 10 sts, inc in each of next 3 sts, sc in next 10 sts, then inc in each of next 2 sts.",
+          "stitch_count": 32
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Sl st in next 2 sts, sc in next 4 sts, hdc in next 6 sts, dc in next 8 sts, hdc in next 6 sts, sc in next 4 sts, and sl st in next 2 sts. Cut yarn, leaving a 20 cm sewing tail.",
+          "stitch_count": 32
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Centre the hat's lower edge across the brim, placing it over the side with the sl st section and with the pointed tip facing upwards. The dc section forms the front of the brim.",
+    "Using the hat tail, whip stitch through the 20 lower hat sts and the central upper area of the brim. Keep the brim's dc edge visible below the hat.",
+    "Sew the brooch bar horizontally to the reverse of the brim with matching sewing thread. Position it just below the hat join and keep the pin catch clear of crochet stitches."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off each yarn tail securely after assembly.",
+    "Weave yarn tails through the reverse of the crochet, avoiding the visible brim edge.",
+    "Gently shape the brim into a shallow upward curve at both sides.",
+    "Check that the brooch bar is firmly sewn on and that its clasp opens freely."
+  ],
+  "notes": [
+    "Keep the rounds firm and even; a tight fabric helps the hat hold its pointed silhouette.",
+    "For a flatter brim, lightly steam-block it under a pressing cloth, keeping the brooch bar dry."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,538 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4867793,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 640,
+        "boxH": 960,
+        "complete": true
+      },
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 700,
+        "boxH": 1050,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "design-count",
+        "value": "2 designs included",
+        "text": "2 designs included"
+      },
+      {
+        "claim": "digital",
+        "value": "Digital download",
+        "text": "Digital download"
+      }
+    ],
+    "slide": "01-hero",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "01-hero.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3733037,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 700,
+        "boxH": 1050,
+        "complete": true
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 700,
+        "boxH": 1050,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "design-name",
+        "value": "A — Merry Christmas",
+        "text": "A — Merry Christmas"
+      },
+      {
+        "claim": "design-name",
+        "value": "B — Christmas Wishes",
+        "text": "B — Christmas Wishes"
+      },
+      {
+        "claim": "design-count",
+        "value": "2 designs included",
+        "text": "2 designs included"
+      }
+    ],
+    "slide": "02-designs",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "02-designs.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1517493,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 820,
+        "boxH": 580,
+        "complete": true
+      },
+      {
+        "sha256": "ca3271621fc0df8d024fa3b494550a330d3b824140ab52015991e45dc65a15cd",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 820,
+        "boxH": 580,
+        "complete": true
+      },
+      {
+        "sha256": "1a44411d5fdcd163d8fcdfa9b533726b539d36256f1df431a0d0117232776c7e",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 820,
+        "boxH": 580,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "design-count",
+        "value": "2 card designs",
+        "text": "2 card designs"
+      },
+      {
+        "claim": "format",
+        "value": "A4",
+        "text": "A4"
+      },
+      {
+        "claim": "format",
+        "value": "US Letter",
+        "text": "US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "4×6 in card panels",
+        "text": "4×6 in card panels"
+      },
+      {
+        "claim": "artwork-files",
+        "value": "3 original artwork files",
+        "text": "3 original artwork files"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      },
+      {
+        "claim": "digital",
+        "value": "Digital download",
+        "text": "Digital download"
+      }
+    ],
+    "slide": "03-included",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "03-included.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2991653,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 860,
+        "boxH": 1290,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "design-name",
+        "value": "Design A",
+        "text": "Design A"
+      },
+      {
+        "claim": "design-name",
+        "value": "Merry Christmas",
+        "text": "Merry Christmas"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      }
+    ],
+    "slide": "04-design-a",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "04-design-a.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2987587,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 860,
+        "boxH": 1290,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "design-name",
+        "value": "Design B",
+        "text": "Design B"
+      },
+      {
+        "claim": "design-name",
+        "value": "Christmas Wishes",
+        "text": "Christmas Wishes"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      }
+    ],
+    "slide": "05-design-b",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "05-design-b.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2776497,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 860,
+        "boxH": 1290,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "inside",
+        "value": "Shared inside message",
+        "text": "Shared inside message"
+      },
+      {
+        "claim": "inside",
+        "value": "Wishing you a joyful Christmas and a happy New Year",
+        "text": "Wishing you a joyful Christmas and a happy New Year"
+      }
+    ],
+    "slide": "06-inside",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "06-inside.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2987471,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 1340,
+        "boxH": 948,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Print at home",
+        "text": "Print at home"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "process",
+        "value": "Trim & fold",
+        "text": "Trim & fold"
+      }
+    ],
+    "slide": "07-print",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "07-print.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1918866,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 800,
+        "boxH": 566,
+        "complete": true
+      },
+      {
+        "sha256": "1c37de9456b577f0022e4e98f2672d3ece8c33c5a833448bdba71f8105d3ef42",
+        "naturalW": 1651,
+        "naturalH": 1276,
+        "boxW": 800,
+        "boxH": 618,
+        "complete": true
+      },
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 300,
+        "boxH": 450,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "format",
+        "value": "A4",
+        "text": "A4"
+      },
+      {
+        "claim": "card-size",
+        "value": "124 × 186 mm",
+        "text": "124 × 186 mm"
+      },
+      {
+        "claim": "format",
+        "value": "US Letter",
+        "text": "US Letter"
+      },
+      {
+        "claim": "card-size",
+        "value": "128 × 192 mm",
+        "text": "128 × 192 mm"
+      },
+      {
+        "claim": "format",
+        "value": "4×6 in card panels",
+        "text": "4×6 in card panels"
+      }
+    ],
+    "slide": "08-formats",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "08-formats.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1130180,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 330,
+        "boxH": 495,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Trim & fold",
+        "text": "Trim & fold"
+      },
+      {
+        "claim": "process",
+        "value": "Give",
+        "text": "Give"
+      }
+    ],
+    "slide": "09-how",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "09-how.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2017952,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 440,
+        "boxH": 660,
+        "complete": true
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 440,
+        "boxH": 660,
+        "complete": true
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 22,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant digital download",
+        "text": "Instant digital download"
+      },
+      {
+        "claim": "digital",
+        "value": "No physical item is shipped",
+        "text": "No physical item is shipped"
+      },
+      {
+        "claim": "design-count",
+        "value": "2 card designs",
+        "text": "2 card designs"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "4×6 in card panels",
+        "text": "4×6 in card panels"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "10-digital",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "10-digital.png"
+  }
+]

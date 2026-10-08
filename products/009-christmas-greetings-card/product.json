@@ -1,0 +1,1427 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "009",
+  "workspace": "009-christmas-greetings-card",
+  "name": "Robin at the Frosted Gate",
+  "slug": "robin-at-the-frosted-gate",
+  "season": "Christmas",
+  "product_type": "Christmas greetings card",
+  "target_customer": "Customers seeking a warm, traditional Christmas card for friends, family or neighbours",
+  "page_count": 3,
+  "status": "AWAITING_ETSY_PUBLISH_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-27T14:49:47.721Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-09-27T14:49:57.266Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-09-27T14:49:57.433Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-09-27T14:49:57.605Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T14:51:08.673Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "retry",
+      "at": "2026-09-27T14:58:28.812Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T14:58:48.581Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "retry",
+      "at": "2026-09-27T15:08:45.368Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T15:09:05.883Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "retry",
+      "at": "2026-09-27T15:21:38.156Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-27T15:21:57.192Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-27T15:49:16.845Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-27T15:49:51.624Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T16:08:25.233Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "retry",
+      "at": "2026-09-27T16:13:16.560Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-27T16:13:41.158Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-27T16:13:41.172Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-27T16:14:11.302Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-09-27T16:14:28.040Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-09-27T16:14:40.669Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-27T16:14:40.678Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-27T16:15:15.222Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-09-27T16:15:38.787Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-09-27T17:06:40.896Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-09-27T17:06:40.900Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-09-27T17:06:58.644Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-09-27T17:07:03.065Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-09-27T17:07:27.443Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-27T18:23:13.470Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T18:23:40.569Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-09-27T18:57:23.841Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-27T18:57:24.037Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-27T18:58:03.304Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-09-27T19:10:22.356Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-27T19:10:22.535Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-09-27T19:11:02.913Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-09-27T19:11:45.743Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-09-27T19:11:46.758Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-27T23:40:33.731Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-09-27T23:41:08.215Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-09-27T23:42:24.458Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-09-27T23:42:25.681Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-28T13:50:47.986Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-09-28T13:51:24.098Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-09-28T13:51:32.340Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-09-28T13:51:33.543Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_APPROVED",
+      "event": "marketing_approved",
+      "at": "2026-09-28T13:53:49.741Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_APPROVED",
+      "to": "ETSY_PREPARING",
+      "event": "etsy_started",
+      "at": "2026-09-28T15:15:18.814Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "ETSY_DRAFT_CREATED",
+      "event": "etsy_draft_created",
+      "at": "2026-09-28T15:15:24.738Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_CREATED",
+      "to": "ETSY_ASSETS_UPLOADING",
+      "event": "etsy_uploading",
+      "at": "2026-09-28T15:15:24.742Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_ASSETS_UPLOADING",
+      "to": "ETSY_DRAFT_VERIFYING",
+      "event": "etsy_verifying",
+      "at": "2026-09-28T15:15:59.137Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_VERIFYING",
+      "to": "AWAITING_ETSY_PUBLISH_APPROVAL",
+      "event": "etsy_draft_ready",
+      "at": "2026-09-28T15:16:00.076Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "christmas greetings card",
+    "requested_at": "2026-09-27T14:49:47.721Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [
+    {
+      "file": "references/reference-01.jpg",
+      "telegram_file_unique_id": "AQADShFrG8_J0FF9",
+      "mime_type": "image/jpeg",
+      "bytes": 88783,
+      "sha256": "5649f340c6dba8d0a6461d485db83f7b61a1bc9b3b2e9cdaac0f5edbb5ee8bfd",
+      "received_at": "2026-09-27T14:49:57.266Z"
+    },
+    {
+      "file": "references/reference-02.jpg",
+      "telegram_file_unique_id": "AQADTBFrG8_J0FF9",
+      "mime_type": "image/jpeg",
+      "bytes": 104300,
+      "sha256": "eb62dc3c37423208939f42b4602b44b0f212892a527c75433475b54e952c9c86",
+      "received_at": "2026-09-27T14:49:57.433Z"
+    },
+    {
+      "file": "references/reference-03.jpg",
+      "telegram_file_unique_id": "AQADSxFrG8_J0FF9",
+      "mime_type": "image/jpeg",
+      "bytes": 120473,
+      "sha256": "eca3d4fabaa47d596ac836ceb64286d93a9baef61ec4888c518b45219b98b5f1",
+      "received_at": "2026-09-27T14:49:57.605Z"
+    }
+  ],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 2,
+    "source": "references",
+    "summary": {
+      "style": "Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.",
+      "linework": "Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.",
+      "detail": "Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.",
+      "palette": "Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights. (full colour)",
+      "mood": "Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-09-27T15:21:57.192Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Woodland Parcel Christmas Wishes",
+            "product_type": "Christmas greeting card",
+            "product_format": "greeting-card",
+            "target_customer": "Cottagecore and woodland-animal Christmas card buyers seeking a warm all-purpose card for friends and family",
+            "page_count": 3,
+            "deliverable_components": [
+              "Folded-card front with red fox carrying a small wrapped parcel through a snowy pine grove",
+              "Inside panel with a short separately typeset Christmas greeting and space to handwrite a message",
+              "Simple coordinating back panel with a small snow-drift and pine-sprig motif",
+              "Print-and-fold guide"
+            ],
+            "short_description": "A tender, general-use Christmas card in which a russet fox carries a little festive parcel through a peaceful watercolour winter woodland.",
+            "key_features": [
+              "Portrait folded card printable on A4 or US Letter paper",
+              "Airy upper-front area for a crisp greeting such as “Christmas Wishes”",
+              "Storybook watercolour fox, snowy pine silhouettes and subtle antique-gold star flecks",
+              "Coordinated interior and back design without overcrowding the card"
+            ],
+            "visual_direction_summary": "Use the supplied nostalgic storybook watercolour system: a single believable-but-charming fox in three-quarter walking view across the lower middle, burgundy knitted scarf, kraft parcel with forest-green ribbon, layered blue-grey pines and generous ivory-sky space. Keep the atmosphere calm, softly textured and home-print-friendly."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "A Little Christmas Delivery",
+            "product_type": "Christmas greeting card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults looking for a thoughtful Christmas card for a neighbour, host, teacher or someone who has shown them kindness",
+            "page_count": 3,
+            "deliverable_components": [
+              "Folded-card front featuring the fox approaching a warmly suggested woodland clearing with its tiny parcel",
+              "Inside panel with a separately typeset message of thanks and Christmas wishes",
+              "Simple coordinating back panel with a small parcel-ribbon and falling-snow motif",
+              "Print-and-fold guide"
+            ],
+            "short_description": "A gratitude-led Christmas card that frames the fox’s tiny parcel as a gentle gesture of seasonal appreciation.",
+            "key_features": [
+              "Designed for neighbours, hosts, teachers and everyday thank-yous",
+              "Front greeting area can carry wording such as “A Little Christmas Delivery”",
+              "The parcel becomes the central storytelling detail while the scene remains airy",
+              "Suitable for home printing and handwriting a personal note"
+            ],
+            "visual_direction_summary": "Retain the supplied watercolour palette, delicate broken ink accents and uncluttered woodland vignette, but give the fox’s parcel slightly more visual emphasis with a restrained ribbon curl and faint warm gold flecks nearby. Preserve the fox walking left to right along the lower portion, with no house, brand-like postal markings or busy prop clusters."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Sending Cosy Christmas Wishes",
+            "product_type": "Christmas greeting card",
+            "product_format": "greeting-card",
+            "target_customer": "People sending a seasonal card to friends or family members they cannot celebrate with in person",
+            "page_count": 3,
+            "deliverable_components": [
+              "Folded-card front with the fox travelling through softly falling snow, parcel held securely on its journey",
+              "Inside panel with a separately typeset long-distance Christmas message and writing space",
+              "Simple coordinating back panel with a small crescent pine-bough motif",
+              "Print-and-fold guide"
+            ],
+            "short_description": "A quietly heartfelt Christmas card for sending warmth across the miles, told through a fox making its way through a serene snowy grove.",
+            "key_features": [
+              "Long-distance sentiment without relying on literal travel or postal imagery",
+              "Spacious, peaceful front composition that supports a clear greeting",
+              "Softly receding pine grove, snowbanks and sparse antique-gold stars create a sense of gentle distance",
+              "Family-friendly yet refined enough for adult recipients"
+            ],
+            "visual_direction_summary": "Follow the established hand-painted watercolour system, with the fox as the clear lower-middle focal point and a slightly more expansive sequence of pale blue-grey pines fading into the distance. Maintain creamy ivory snow, muted russet fur, burgundy scarf and restrained festive detail; reserve the upper third for separately typeset wording and avoid embedded illustration text."
+          }
+        ]
+      },
+      {
+        "batch": 2,
+        "generated_at": "2026-09-27T16:13:41.157Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Robin at the Frosted Gate",
+            "tagline": "Classic winter garden Christmas card",
+            "product_type": "Christmas greetings card",
+            "product_format": "greeting-card",
+            "target_customer": "Customers seeking a warm, traditional Christmas card for friends, family or neighbours",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Front design",
+              "Inside seasonal message panel",
+              "Back design panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded, general-use Christmas greetings card with a tender winter-garden scene. A European robin perches beside a frosted gate and bright holly, leaving clear space for a warm festive greeting. Supplied as a digital download for home printing.",
+            "key_features": [
+              "Folded card design with coordinated front, inside and back panels",
+              "General-use seasonal wording suitable for many recipients",
+              "Portrait layout designed for A4 or US Letter home printing",
+              "Soft watercolour finish with a traditional winter-garden feel"
+            ],
+            "visual_direction_summary": "A classic countryside Christmas route centred on a small robin and a weathered garden gate. Frosted greenery and holly create a graceful lower-frame vignette, while an airy pale sky carries the greeting.",
+            "visual_route": {
+              "primary_subject": "European robin",
+              "scene": "Frosted cottage garden gate",
+              "focal_object": "Holly sprig",
+              "composition": "Robin and gate in lower half, open sky above",
+              "lighting": "Pale peach winter sunrise",
+              "palette_emphasis": "Ivory, sage, pine, berry red and blue-grey",
+              "emotional_tone": "Cheerful, comforting and traditional",
+              "typography_approach": "Antique-gold serif greeting in upper third",
+              "distinguishing_visual_hook": "Robin beside a frosted gate with glowing holly berries"
+            },
+            "preview_brief": "A portrait card front shows a European robin perched at a weathered frosted garden gate, framed by holly at the lower edge. A pale peach sunrise opens above for an antique-gold “Merry Christmas” greeting, creating a gentle traditional winter mood."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Starlit Christmas Clearing",
+            "tagline": "Quietly magical moonlit Christmas card",
+            "product_type": "Christmas greetings card",
+            "product_format": "greeting-card",
+            "target_customer": "Customers seeking an elegant, nature-led Christmas card with a magical evening feel",
+            "page_count": 3,
+            "orientation": "landscape",
+            "deliverable_components": [
+              "Front design",
+              "Inside seasonal message panel",
+              "Back design panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded Christmas greetings card with an elegant moonlit woodland clearing. A young roe deer stands beneath a scattering of antique-gold stars, creating a serene card for seasonal wishes, winter birthdays or thoughtful family messages.",
+            "key_features": [
+              "Folded landscape card with three coordinated designed panels",
+              "Refined all-purpose seasonal design",
+              "Landscape layout designed for A4 or US Letter home printing",
+              "Moonlit watercolour palette with restrained antique-gold accents"
+            ],
+            "visual_direction_summary": "A spacious moonlit winter route with a poised roe deer in a snowy clearing. The sweeping sky and scattered gold star accents give the design an elegant, calm sense of Christmas magic.",
+            "visual_route": {
+              "primary_subject": "Young roe deer",
+              "scene": "Snowy woodland clearing beneath stars",
+              "focal_object": "Antique-gold star cluster",
+              "composition": "Deer at right, sweeping night sky at left",
+              "lighting": "Silver-blue moonlight with warm star glow",
+              "palette_emphasis": "Blue-grey, ivory, pine and antique gold",
+              "emotional_tone": "Serene, elegant and quietly magical",
+              "typography_approach": "Fine gold script across open night sky",
+              "distinguishing_visual_hook": "Deer gazing towards a drifting cluster of golden stars"
+            },
+            "preview_brief": "A landscape card front shows a young roe deer at the edge of a snowy clearing, looking towards a small drifting cluster of antique-gold stars. The open silver-blue sky on the left carries a delicate scripted Christmas greeting."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Winter Hellebore Christmas Wreath",
+            "tagline": "Elegant botanical Christmas card",
+            "product_type": "Christmas greetings card",
+            "product_format": "greeting-card",
+            "target_customer": "Customers looking for a refined botanical Christmas card without animal characters",
+            "page_count": 3,
+            "orientation": "square",
+            "deliverable_components": [
+              "Front design",
+              "Inside seasonal message panel",
+              "Back design panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded botanical Christmas greetings card built around a hand-painted winter hellebore wreath. Soft evergreen foliage, berries and subtle gold touches surround a clear central greeting for a refined, all-purpose seasonal card.",
+            "key_features": [
+              "Folded square card with coordinated front, inside and back panels",
+              "Character-free botanical design for broad seasonal gifting",
+              "Square design suitable for printing on A4 or US Letter paper and trimming",
+              "Elegant watercolour foliage with ink-conscious pale paper background"
+            ],
+            "visual_direction_summary": "A refined botanical route using an asymmetrical hellebore wreath as a soft framing device. A bright ivory centre gives the greeting room to breathe, while small berries and gold details add festive richness without visual clutter.",
+            "visual_route": {
+              "primary_subject": "Winter hellebore wreath",
+              "scene": "Ivory paper field with evergreen sprigs",
+              "focal_object": "Antique-gold ribbon bow",
+              "composition": "Asymmetrical wreath around a clear central message",
+              "lighting": "Soft candlelit warmth",
+              "palette_emphasis": "Ivory, sage, pine, berry red and antique gold",
+              "emotional_tone": "Refined, warm and celebratory",
+              "typography_approach": "Centred classic serif greeting with gold accents",
+              "distinguishing_visual_hook": "Hellebore wreath finished with a loose gold ribbon bow"
+            },
+            "preview_brief": "A square card front features an asymmetrical wreath of winter hellebores, evergreen sprigs and restrained berry accents around an ivory central field. A centred classic serif Christmas greeting sits within the wreath, finished by a loose antique-gold ribbon bow at the base."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 2,
+      "concept_id": "A",
+      "selected_at": "2026-09-27T16:14:28.040Z"
+    }
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "card-front",
+      "title": "Merry Christmas",
+      "concept": "A European robin rests beside a weathered frosted cottage-garden gate at sunrise, with glowing holly forming a graceful lower vignette.",
+      "instructions": null,
+      "artwork_description": "A tender European robin with a warm russet breast perches on the top rail of a weathered wooden garden gate in the lower half of the panel. Frost catches the gate, soft sage foliage and pine sprigs, while a prominent holly sprig with restrained glossy berry-red berries curves up from the lower edge. The upper half is an airy ivory and pale peach winter sunrise sky with faint blue-grey distant garden shapes and a few soft snow-fleck accents. The printed greeting “Merry Christmas” sits clearly in the upper third in antique-gold serif lettering.",
+      "generation_prompt": "Portrait card front. A European robin perched on the top rail of a weathered frosted cottage-garden gate in the lower half, prominent holly sprig with red berries and frosted sage greenery framing the lower edge, pale peach winter sunrise sky opening above, soft distant blue-grey garden hints, a few subtle snow flecks. Exact title text in upper third: “Merry Christmas” in antique-gold serif lettering.",
+      "production_notes": "Verify the exact front text is “Merry Christmas” and remains highly legible against the pale sky. Keep robin, gate and holly away from trim-critical edges despite full-bleed artwork. Ensure the robin is clearly a European robin: russet-red breast, brown upperparts and small pointed beak."
+    },
+    {
+      "page_number": 2,
+      "page_type": "card-inside",
+      "title": "Inside Seasonal Message",
+      "concept": "A calm, coordinated writing panel with a short general-use festive message and a delicate winter-garden accent.",
+      "instructions": null,
+      "artwork_description": "An uncluttered warm-ivory interior panel with generous blank space for a handwritten note. Near the upper centre, the message reads “Wishing you a joyful Christmas and a happy New Year”. A small, soft watercolour vignette of a holly sprig, a single pale blue-grey feather and tiny frost flecks rests along the lower edge; the decoration remains light enough not to interfere with writing.",
+      "generation_prompt": "Portrait card inside panel with generous open writing space on warm ivory paper. Exact centred message near upper centre: “Wishing you a joyful Christmas and a happy New Year”. Delicate small lower-edge vignette of frosted holly leaves, a single blue-grey robin feather, a few pale snow flecks, and restrained antique-gold accent touches.",
+      "production_notes": "Verify exact message text and punctuation: “Wishing you a joyful Christmas and a happy New Year”. Maintain ample blank space below the message for handwriting; keep the lower vignette shallow and pale. Use a readable dark pine or warm brown text colour with strong contrast."
+    },
+    {
+      "page_number": 3,
+      "page_type": "card-back",
+      "title": "Robin at the Frosted Gate",
+      "concept": "A discreet coordinating back panel featuring a small robin-feather and holly maker-style motif, without branding.",
+      "instructions": null,
+      "artwork_description": "A restrained warm-ivory back panel with a small centred lower-area vignette: one blue-grey robin feather crossed with a tiny frosted holly sprig and three berry-red berries. A faint wash of pale winter blue-grey sits behind the motif, leaving most of the panel airy and clean. No greeting, logo or website text appears.",
+      "generation_prompt": "Portrait card back panel, mostly open warm ivory field. Small centred lower-area motif: one blue-grey robin feather gently crossed with a tiny frosted holly sprig carrying exactly three berry-red berries, faint pale winter blue-grey wash behind it, a few subtle antique-gold specks. No text, no logo, no website.",
+      "production_notes": "No printed text, logo or website on this panel. Keep the motif modest and positioned clear of likely fold, trim and printer alignment variation. Supply printing and folding guidance separately as a non-artwork deliverable; explain correct front/inside/back placement for A4 and US Letter printing."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "main-style",
+        "reason": "First content page (card-front): sets the core illustration style."
+      },
+      {
+        "page_number": 2,
+        "role": "different-composition",
+        "reason": "A different page type (card-inside) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 3,
+        "role": "consistency-check",
+        "reason": "A later page (card-back, p3) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 2,
+        "started_at": "2026-09-27T16:14:40.678Z",
+        "finished_at": "2026-09-27T16:15:15.213Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSTYLE PARAMETERS: illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; composition: One unmistakable focal hierarchy with the greeting integrated as a deliberate part of the design; use framing curves, negative space, and selective decorative accents rather than evenly distributing detail across the card.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting..\n\nPAGE 1 of \"Robin at the Frosted Gate\" (card-front): Portrait card front. A European robin perched on the top rail of a weathered frosted cottage-garden gate in the lower half, prominent holly sprig with red berries and frosted sage greenery framing the lower edge, pale peach winter sunrise sky opening above, soft distant blue-grey garden hints, a few subtle snow flecks. Exact title text in upper third: “Merry Christmas” in antique-gold serif lettering.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create coordinated portrait card panels with clear, high-contrast space for the front greeting and inside message, suitable for A4 or US Letter folding. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-27T16:14:52.169Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 2,
+            "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSTYLE PARAMETERS: illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; composition: One unmistakable focal hierarchy with the greeting integrated as a deliberate part of the design; use framing curves, negative space, and selective decorative accents rather than evenly distributing detail across the card.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting..\n\nPAGE 2 of \"Robin at the Frosted Gate\" (card-inside): Portrait card inside panel with generous open writing space on warm ivory paper. Exact centred message near upper centre: “Wishing you a joyful Christmas and a happy New Year”. Delicate small lower-edge vignette of frosted holly leaves, a single blue-grey robin feather, a few pale snow flecks, and restrained antique-gold accent touches.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create coordinated portrait card panels with clear, high-contrast space for the front greeting and inside message, suitable for A4 or US Letter folding. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-27T16:15:02.750Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 3,
+            "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSTYLE PARAMETERS: illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; composition: One unmistakable focal hierarchy with the greeting integrated as a deliberate part of the design; use framing curves, negative space, and selective decorative accents rather than evenly distributing detail across the card.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting..\n\nPAGE 3 of \"Robin at the Frosted Gate\" (card-back): Portrait card back panel, mostly open warm ivory field. Small centred lower-area motif: one blue-grey robin feather gently crossed with a tiny frosted holly sprig carrying exactly three berry-red berries, faint pale winter blue-grey wash behind it, a few subtle antique-gold specks. No text, no logo, no website.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create coordinated portrait card panels with clear, high-contrast space for the front greeting and inside message, suitable for A4 or US Letter folding. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-27T16:15:15.206Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "aabc8d8c8a77",
+    "keyboard_message_ids": [
+      29,
+      30,
+      31,
+      32,
+      38,
+      39,
+      44,
+      49,
+      57,
+      61,
+      62,
+      75,
+      91,
+      106,
+      110
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "reference-analysis",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2859,
+        "input_tokens_details": {
+          "cache_write_tokens": 2856,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1523,
+        "output_tokens_details": {
+          "reasoning_tokens": 41
+        },
+        "total_tokens": 4382
+      },
+      "at": "2026-09-27T14:50:31.792Z"
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2240,
+        "input_tokens_details": {
+          "cache_write_tokens": 2237,
+          "cached_tokens": 0
+        },
+        "output_tokens": 824,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3064
+      },
+      "at": "2026-09-27T14:50:49.063Z"
+    },
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2206,
+        "input_tokens_details": {
+          "cache_write_tokens": 2203,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1199,
+        "output_tokens_details": {
+          "reasoning_tokens": 361
+        },
+        "total_tokens": 3405
+      },
+      "at": "2026-09-27T15:21:57.192Z"
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1294,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1294
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1452
+      },
+      "at": "2026-09-27T15:49:28.534Z"
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1294,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1294
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1452
+      },
+      "at": "2026-09-27T15:49:39.260Z"
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1295,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1295
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1453
+      },
+      "at": "2026-09-27T15:49:51.618Z"
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3632,
+        "input_tokens_details": {
+          "cache_write_tokens": 3629,
+          "cached_tokens": 0
+        },
+        "output_tokens": 774,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4406
+      },
+      "at": "2026-09-27T16:07:58.203Z"
+    },
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3461,
+        "input_tokens_details": {
+          "cache_write_tokens": 3458,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1711,
+        "output_tokens_details": {
+          "reasoning_tokens": 504
+        },
+        "total_tokens": 5172
+      },
+      "at": "2026-09-27T16:13:41.157Z"
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1344,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1344
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1502
+      },
+      "at": "2026-09-27T16:13:50.796Z"
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1339,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1339
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1497
+      },
+      "at": "2026-09-27T16:14:00.556Z"
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1344,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1344
+        },
+        "output_tokens": 196,
+        "output_tokens_details": {
+          "image_tokens": 196,
+          "text_tokens": 0
+        },
+        "total_tokens": 1540
+      },
+      "at": "2026-09-27T16:14:11.295Z"
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2553,
+        "input_tokens_details": {
+          "cache_write_tokens": 2550,
+          "cached_tokens": 0
+        },
+        "output_tokens": 957,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3510
+      },
+      "at": "2026-09-27T16:14:40.669Z"
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 909,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 909
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1252
+      },
+      "at": "2026-09-27T16:14:52.169Z"
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 894,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 894
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1237
+      },
+      "at": "2026-09-27T16:15:02.750Z"
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 890,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 890
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      "at": "2026-09-27T16:15:15.206Z"
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1406,
+        "input_tokens_details": {
+          "cache_write_tokens": 1403,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2460,
+        "output_tokens_details": {
+          "reasoning_tokens": 1675
+        },
+        "total_tokens": 3866
+      },
+      "at": "2026-09-27T18:23:13.586Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: listing: model output rejected: $.listing_claims: more than 12 items"
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1836,
+        "input_tokens_details": {
+          "cache_write_tokens": 1833,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2554,
+        "output_tokens_details": {
+          "reasoning_tokens": 1853
+        },
+        "total_tokens": 4390
+      },
+      "at": "2026-09-27T18:57:24.163Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: listing: model output rejected: $.tags[3]: longer than 20"
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2022,
+        "input_tokens_details": {
+          "cache_write_tokens": 2019,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1755,
+        "output_tokens_details": {
+          "reasoning_tokens": 1034
+        },
+        "total_tokens": 3777
+      },
+      "at": "2026-09-27T19:10:22.645Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-copy",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1052,
+        "input_tokens_details": {
+          "cache_write_tokens": 1049,
+          "cached_tokens": 0
+        },
+        "output_tokens": 784,
+        "output_tokens_details": {
+          "reasoning_tokens": 365
+        },
+        "total_tokens": 1836
+      },
+      "at": "2026-09-27T19:10:49.745Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 181,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 181
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 620
+      },
+      "at": "2026-09-27T19:11:02.919Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 184,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 184
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 623
+      },
+      "at": "2026-09-27T19:11:15.742Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3354,
+        "input_tokens_details": {
+          "cache_write_tokens": 3351,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2873,
+        "output_tokens_details": {
+          "reasoning_tokens": 1983
+        },
+        "total_tokens": 6227
+      },
+      "at": "2026-09-27T23:40:34.047Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-copy",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 934,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 0
+        },
+        "output_tokens": 252,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1186
+      },
+      "at": "2026-09-27T23:41:04.053Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 254,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 254
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 693
+      },
+      "at": "2026-09-27T23:41:08.224Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 266,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 266
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 705
+      },
+      "at": "2026-09-27T23:41:18.349Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 260,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 260
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 699
+      },
+      "at": "2026-09-27T23:41:31.472Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 236,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 236
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 675
+      },
+      "at": "2026-09-27T23:41:42.491Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 4009,
+        "input_tokens_details": {
+          "cache_write_tokens": 4006,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2389,
+        "output_tokens_details": {
+          "reasoning_tokens": 1444
+        },
+        "total_tokens": 6398
+      },
+      "at": "2026-09-28T13:50:48.347Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-09-27T16:15:38.787Z",
+  "created_at": "2026-09-27T14:49:47.721Z",
+  "updated_at": "2026-09-28T15:54:42.817Z",
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-27T15:49:16.845Z",
+        "finished_at": "2026-09-27T15:49:51.622Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "Original printable Christmas greeting-card artwork in a hand-painted storybook watercolour style: fine irregular pencil-and-ink accents, organic softly broken contours, medium-detail believable-but-charming woodland animals, translucent mottled pigment on subtle cold-pressed paper texture, muted russet, pine green, sage, blue-grey, creamy ivory, burgundy and restrained antique-gold palette. Soft layered winter shading, dry-brush snow, delicate fur and foliage marks, gentle warm star-fleck glow, airy pale background and an uncluttered upper-third area reserved for separately added greeting text. Portrait composition, calm cosy nostalgic mood, home-print-friendly focal shapes and clear value contrast.\n\nSTYLE PARAMETERS: illustration style: Original woodland winter greeting-card illustration with a single red fox delivering a small parcel through a snowy pine grove; hand-painted storybook watercolour with subtle ink detailing.; line weight: Fine, varied pencil-and-ink accents; delicate directional marks for fur, needles and parcel ribbon, with no heavy outlines.; line quality: Organic, softly broken and hand-rendered contours that dissolve naturally into watercolour edges.; detail level: Medium detail: a clear focal fox with tactile fur and knitted scarf, supported by simplified layered trees, snowdrifts, stars and a few restrained festive details suitable for reliable home printing.; character language: Broadly believable but gently charming fox anatomy, three-quarter side view in a walking pose; alert ears, small dark eyes, soft expression and an oversized russet tail. The fox wears a plain burgundy knitted scarf and carries a tiny wrapped kraft-paper parcel tied with a forest-green ribbon.; background density: Airy winter woodland vignette. Pale ivory sky, softly receding blue-grey pine silhouettes and rounded snowbanks leave generous uncluttered space in the upper third for a greeting added during layout.; composition: Portrait folded-card front, with the fox walking across the lower middle of the artwork from left to right. A loose crescent of snow-dusted pine boughs and faint falling snow frames the focal character without creating a border; preserve a clean upper-third text area.; palette: Muted russet and warm brown fox tones; pine green, blue-grey and soft sage shadows; creamy ivory snow; burgundy scarf; forest-green ribbon; restrained antique-gold star flecks.; colour mode: full colour; shading: Layered translucent watercolour washes, soft cool winter shadows and a gentle warm glow around a few antique-gold star flecks; no hard cel shading or large dark ink-heavy areas.; texture: Subtle cold-pressed paper grain, mottled pigment variation, dry-brush snow edges, fine fur strokes and softly granular snow specks.; mood: Tender, nostalgic, peaceful and quietly festive..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW A of 3 for the owner's request \"christmas greetings card\".\nConcept \"Woodland Parcel Christmas Wishes\": a greeting card for Cottagecore and woodland-animal Christmas card buyers seeking a warm all-purpose card for friends and family.\nShow the card front: A tender, general-use Christmas card in which a russet fox carries a little festive parcel through a peaceful watercolour winter woodland. Look: Use the supplied nostalgic storybook watercolour system: a single believable-but-charming fox in three-quarter walking view across the lower middle, burgundy knitted scarf, kraft parcel with forest-green ribbon, layered blue-grey pines and generous ivory-sky space. Keep the atmosphere calm, softly textured and home-print-friendly.\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope). Make this concept's subject, composition\nand focal treatment clearly its own and different from the other concepts\n(B: A Little Christmas Delivery; C: Sending Cosy Christmas Wishes), while keeping the shared style above.\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference character, including the front-facing rabbit in a green holly hat and snowflake scarf; The squirrel holding a sparkler on an ornamented snowy branch beneath a lantern; Mice in Santa hats by a tiny arched doorway and a towering decorated tree; The references’ exact scenes, object arrangements, decorative layouts, lighting setups or card mock-up styling; The wording, lettering, typography, wording arrangement or decorative letterforms from the references; Logos, trademarks, copyrighted characters or recognisable branded motifs; Photorealism, 3D-rendered appearance, glossy digital airbrushing or hard vector-clean outlines; Dense clutter, excessive tiny props, dark ink-heavy backgrounds or details too fine for home printing; Harsh cel shading, neon primary colours, heavy black outlines or high-saturation cartoon styling; Text embedded in the illustration, illegible lettering, misspelled text, watermarks, borders or envelopes.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-27T15:49:28.534Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "Original printable Christmas greeting-card artwork in a hand-painted storybook watercolour style: fine irregular pencil-and-ink accents, organic softly broken contours, medium-detail believable-but-charming woodland animals, translucent mottled pigment on subtle cold-pressed paper texture, muted russet, pine green, sage, blue-grey, creamy ivory, burgundy and restrained antique-gold palette. Soft layered winter shading, dry-brush snow, delicate fur and foliage marks, gentle warm star-fleck glow, airy pale background and an uncluttered upper-third area reserved for separately added greeting text. Portrait composition, calm cosy nostalgic mood, home-print-friendly focal shapes and clear value contrast.\n\nSTYLE PARAMETERS: illustration style: Original woodland winter greeting-card illustration with a single red fox delivering a small parcel through a snowy pine grove; hand-painted storybook watercolour with subtle ink detailing.; line weight: Fine, varied pencil-and-ink accents; delicate directional marks for fur, needles and parcel ribbon, with no heavy outlines.; line quality: Organic, softly broken and hand-rendered contours that dissolve naturally into watercolour edges.; detail level: Medium detail: a clear focal fox with tactile fur and knitted scarf, supported by simplified layered trees, snowdrifts, stars and a few restrained festive details suitable for reliable home printing.; character language: Broadly believable but gently charming fox anatomy, three-quarter side view in a walking pose; alert ears, small dark eyes, soft expression and an oversized russet tail. The fox wears a plain burgundy knitted scarf and carries a tiny wrapped kraft-paper parcel tied with a forest-green ribbon.; background density: Airy winter woodland vignette. Pale ivory sky, softly receding blue-grey pine silhouettes and rounded snowbanks leave generous uncluttered space in the upper third for a greeting added during layout.; composition: Portrait folded-card front, with the fox walking across the lower middle of the artwork from left to right. A loose crescent of snow-dusted pine boughs and faint falling snow frames the focal character without creating a border; preserve a clean upper-third text area.; palette: Muted russet and warm brown fox tones; pine green, blue-grey and soft sage shadows; creamy ivory snow; burgundy scarf; forest-green ribbon; restrained antique-gold star flecks.; colour mode: full colour; shading: Layered translucent watercolour washes, soft cool winter shadows and a gentle warm glow around a few antique-gold star flecks; no hard cel shading or large dark ink-heavy areas.; texture: Subtle cold-pressed paper grain, mottled pigment variation, dry-brush snow edges, fine fur strokes and softly granular snow specks.; mood: Tender, nostalgic, peaceful and quietly festive..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW B of 3 for the owner's request \"christmas greetings card\".\nConcept \"A Little Christmas Delivery\": a greeting card for Adults looking for a thoughtful Christmas card for a neighbour, host, teacher or someone who has shown them kindness.\nShow the card front: A gratitude-led Christmas card that frames the fox’s tiny parcel as a gentle gesture of seasonal appreciation. Look: Retain the supplied watercolour palette, delicate broken ink accents and uncluttered woodland vignette, but give the fox’s parcel slightly more visual emphasis with a restrained ribbon curl and faint warm gold flecks nearby. Preserve the fox walking left to right along the lower portion, with no house, brand-like postal markings or busy prop clusters.\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope). Make this concept's subject, composition\nand focal treatment clearly its own and different from the other concepts\n(A: Woodland Parcel Christmas Wishes; C: Sending Cosy Christmas Wishes), while keeping the shared style above.\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference character, including the front-facing rabbit in a green holly hat and snowflake scarf; The squirrel holding a sparkler on an ornamented snowy branch beneath a lantern; Mice in Santa hats by a tiny arched doorway and a towering decorated tree; The references’ exact scenes, object arrangements, decorative layouts, lighting setups or card mock-up styling; The wording, lettering, typography, wording arrangement or decorative letterforms from the references; Logos, trademarks, copyrighted characters or recognisable branded motifs; Photorealism, 3D-rendered appearance, glossy digital airbrushing or hard vector-clean outlines; Dense clutter, excessive tiny props, dark ink-heavy backgrounds or details too fine for home printing; Harsh cel shading, neon primary colours, heavy black outlines or high-saturation cartoon styling; Text embedded in the illustration, illegible lettering, misspelled text, watermarks, borders or envelopes.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-27T15:49:39.260Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "Original printable Christmas greeting-card artwork in a hand-painted storybook watercolour style: fine irregular pencil-and-ink accents, organic softly broken contours, medium-detail believable-but-charming woodland animals, translucent mottled pigment on subtle cold-pressed paper texture, muted russet, pine green, sage, blue-grey, creamy ivory, burgundy and restrained antique-gold palette. Soft layered winter shading, dry-brush snow, delicate fur and foliage marks, gentle warm star-fleck glow, airy pale background and an uncluttered upper-third area reserved for separately added greeting text. Portrait composition, calm cosy nostalgic mood, home-print-friendly focal shapes and clear value contrast.\n\nSTYLE PARAMETERS: illustration style: Original woodland winter greeting-card illustration with a single red fox delivering a small parcel through a snowy pine grove; hand-painted storybook watercolour with subtle ink detailing.; line weight: Fine, varied pencil-and-ink accents; delicate directional marks for fur, needles and parcel ribbon, with no heavy outlines.; line quality: Organic, softly broken and hand-rendered contours that dissolve naturally into watercolour edges.; detail level: Medium detail: a clear focal fox with tactile fur and knitted scarf, supported by simplified layered trees, snowdrifts, stars and a few restrained festive details suitable for reliable home printing.; character language: Broadly believable but gently charming fox anatomy, three-quarter side view in a walking pose; alert ears, small dark eyes, soft expression and an oversized russet tail. The fox wears a plain burgundy knitted scarf and carries a tiny wrapped kraft-paper parcel tied with a forest-green ribbon.; background density: Airy winter woodland vignette. Pale ivory sky, softly receding blue-grey pine silhouettes and rounded snowbanks leave generous uncluttered space in the upper third for a greeting added during layout.; composition: Portrait folded-card front, with the fox walking across the lower middle of the artwork from left to right. A loose crescent of snow-dusted pine boughs and faint falling snow frames the focal character without creating a border; preserve a clean upper-third text area.; palette: Muted russet and warm brown fox tones; pine green, blue-grey and soft sage shadows; creamy ivory snow; burgundy scarf; forest-green ribbon; restrained antique-gold star flecks.; colour mode: full colour; shading: Layered translucent watercolour washes, soft cool winter shadows and a gentle warm glow around a few antique-gold star flecks; no hard cel shading or large dark ink-heavy areas.; texture: Subtle cold-pressed paper grain, mottled pigment variation, dry-brush snow edges, fine fur strokes and softly granular snow specks.; mood: Tender, nostalgic, peaceful and quietly festive..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW C of 3 for the owner's request \"christmas greetings card\".\nConcept \"Sending Cosy Christmas Wishes\": a greeting card for People sending a seasonal card to friends or family members they cannot celebrate with in person.\nShow the card front: A quietly heartfelt Christmas card for sending warmth across the miles, told through a fox making its way through a serene snowy grove. Look: Follow the established hand-painted watercolour system, with the fox as the clear lower-middle focal point and a slightly more expansive sequence of pale blue-grey pines fading into the distance. Maintain creamy ivory snow, muted russet fur, burgundy scarf and restrained festive detail; reserve the upper third for separately typeset wording and avoid embedded illustration text.\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope). Make this concept's subject, composition\nand focal treatment clearly its own and different from the other concepts\n(A: Woodland Parcel Christmas Wishes; B: A Little Christmas Delivery), while keeping the shared style above.\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference character, including the front-facing rabbit in a green holly hat and snowflake scarf; The squirrel holding a sparkler on an ornamented snowy branch beneath a lantern; Mice in Santa hats by a tiny arched doorway and a towering decorated tree; The references’ exact scenes, object arrangements, decorative layouts, lighting setups or card mock-up styling; The wording, lettering, typography, wording arrangement or decorative letterforms from the references; Logos, trademarks, copyrighted characters or recognisable branded motifs; Photorealism, 3D-rendered appearance, glossy digital airbrushing or hard vector-clean outlines; Dense clutter, excessive tiny props, dark ink-heavy backgrounds or details too fine for home printing; Harsh cel shading, neon primary colours, heavy black outlines or high-saturation cartoon styling; Text embedded in the illustration, illegible lettering, misspelled text, watermarks, borders or envelopes.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-27T15:49:51.618Z"
+          }
+        ],
+        "error": null
+      },
+      {
+        "batch": 2,
+        "dir": "concept-previews/batch-02",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-27T16:13:41.172Z",
+        "finished_at": "2026-09-27T16:14:11.300Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-02/concept-a.png",
+            "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSHARED STYLE (style only): illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.; print considerations: Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"christmas greetings card\".\nConcept \"Robin at the Frosted Gate\": a greeting card for Customers seeking a warm, traditional Christmas card for friends, family or neighbours.\nShow the card front, using THIS concept's own content:\n- Subject: European robin\n- Scene: Frosted cottage garden gate\n- Focal object: Holly sprig\n- Composition: Robin and gate in lower half, open sky above\n- Lighting: Pale peach winter sunrise\n- Palette emphasis: Ivory, sage, pine, berry red and blue-grey\n- Mood: Cheerful, comforting and traditional\n- Typography: Antique-gold serif greeting in upper third\n- Distinguishing hook: Robin beside a frosted gate with glowing holly berries\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Young roe deer / Snowy woodland clearing beneath stars / Antique-gold star cluster / Silver-blue moonlight with warm star glow\n- C: Winter hellebore wreath / Ivory paper field with evergreen sprigs / Antique-gold ribbon bow / Soft candlelit warmth\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-27T16:13:50.796Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-02/concept-b.png",
+            "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSHARED STYLE (style only): illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.; print considerations: Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"christmas greetings card\".\nConcept \"Starlit Christmas Clearing\": a greeting card for Customers seeking an elegant, nature-led Christmas card with a magical evening feel.\nShow the card front, using THIS concept's own content:\n- Subject: Young roe deer\n- Scene: Snowy woodland clearing beneath stars\n- Focal object: Antique-gold star cluster\n- Composition: Deer at right, sweeping night sky at left\n- Lighting: Silver-blue moonlight with warm star glow\n- Palette emphasis: Blue-grey, ivory, pine and antique gold\n- Mood: Serene, elegant and quietly magical\n- Typography: Fine gold script across open night sky\n- Distinguishing hook: Deer gazing towards a drifting cluster of golden stars\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: European robin / Frosted cottage garden gate / Holly sprig / Pale peach winter sunrise\n- C: Winter hellebore wreath / Ivory paper field with evergreen sprigs / Antique-gold ribbon bow / Soft candlelit warmth\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "quality": "low",
+            "generated_at": "2026-09-27T16:14:00.556Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-02/concept-c.png",
+            "prompt": "Original premium Christmas greeting-card illustration in hand-painted storybook watercolour on subtly textured cold-pressed paper; full colour with muted ivory, winter blue-grey, pine and sage, warm brown, restrained berry red, and antique-gold accents. Soft translucent pigment layers, lightly mottled washes, dry-brush texture, gentle granular highlights and occasional diffused light flecks. Predominantly painterly and outline-free, with sparse fine broken pencil-like marks only for delicate texture and definition. Render characters, when present, with softly rounded believable anatomy, mildly enlarged expressive eyes and tender natural facial modelling. Medium-to-high focal detail, softened low-contrast supporting detail, graceful framing shapes, legible text space, diffuse warm glow and gentle shadow modelling; cosy, nostalgic, quietly magical handmade print feel.\n\nSHARED STYLE (style only): illustration style: Original hand-painted storybook watercolour for a premium Christmas greeting card, balancing tender naturalism with gentle festive fantasy.; line weight: Mostly outline-free, with only very fine, intermittent pencil-like detail marks for texture and definition.; line quality: Organic, softly broken and directional; painted edges feather naturally into the paper rather than forming crisp digital contours.; detail level: Medium to high detail, concentrated on the focal forms and a small number of atmospheric festive accents; distant or supporting elements remain soft and simplified for reliable home printing.; character language: Appealing, broadly believable woodland-animal anatomy with softly rounded forms, mildly enlarged expressive eyes, delicate facial modelling, and calm, kind expressions.; background density: Flexible from airy paper-led space to an intimate layered vignette; backgrounds use softened depth, low-contrast receding detail, and clear areas for readable wording.; palette: Muted traditional Christmas hues: cream and ivory, blue-grey winter tones, pine and sage greens, warm woodland browns, restrained berry red, and concentrated antique-gold highlights.; colour mode: full colour; shading: Layered translucent washes and soft tonal modelling, with subtle dry-brush definition, diffuse warm glows, gentle rim light, and no hard-edged cel shading.; texture: Visible cold-pressed watercolour paper grain, lightly mottled pigment blooms, restrained dry-brush marks, granular snowy highlights, and occasional soft bokeh-like flecks.; mood: Cosy, nostalgic, tender and quietly magical, with a refined handmade feel suited to seasonal gifting.; print considerations: Optimised for high-resolution A4 or US Letter home printing and trimming or folding: retain strong value contrast behind all wording, use print-safe focal details rather than hairline-dependent features, avoid expansive dark ink-heavy fields, and allow a clean trim-safe outer area..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.; linework: Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.; texture: Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.; composition density: Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.; background: From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.; mood: Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder..\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"christmas greetings card\".\nConcept \"Winter Hellebore Christmas Wreath\": a greeting card for Customers looking for a refined botanical Christmas card without animal characters.\nShow the card front, using THIS concept's own content:\n- Subject: Winter hellebore wreath\n- Scene: Ivory paper field with evergreen sprigs\n- Focal object: Antique-gold ribbon bow\n- Composition: Asymmetrical wreath around a clear central message\n- Lighting: Soft candlelit warmth\n- Palette emphasis: Ivory, sage, pine, berry red and antique gold\n- Mood: Refined, warm and celebratory\n- Typography: Centred classic serif greeting with gold accents\n- Distinguishing hook: Hellebore wreath finished with a loose gold ribbon bow\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: European robin / Frosted cottage garden gate / Holly sprig / Pale peach winter sunrise\n- B: Young roe deer / Snowy woodland clearing beneath stars / Antique-gold star cluster / Silver-blue moonlight with warm star glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Copying any supplied reference composition, character, costume, prop combination, scene arrangement, lettering, greeting wording arrangement, border, mock-up, envelope, product photography or staging; The front-facing dressed rabbit portrait with green holly-trimmed hat and snowflake scarf; A squirrel holding a sparkler on a decorated snowy branch with lantern and village setting; Mice in Santa hats at an arched doorway beside a decorated tree; Photorealism or CGI rendering; Generic clip-art or flat vector aesthetics; Bright neon or harsh primary Christmas colours; Hard cel shading, heavy black outlines or overly clean digital linework; Overcrowded details that compete with the greeting; Ink-heavy near-black background coverage unsuitable for typical home printers; Tiny details or hairline marks essential to understanding the image; Poor text contrast, illegible typography or misspelled text; Trademarked characters, logos or brand-associated imagery.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1024",
+            "quality": "low",
+            "generated_at": "2026-09-27T16:14:11.295Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "background": "illustrated",
+    "edge": "full-bleed",
+    "format_notes": "Create coordinated portrait card panels with clear, high-contrast space for the front greeting and inside message, suitable for A4 or US Letter folding."
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "cdf0ad416fe97d5e2adfbba14337c1cf951473a07af8c286f95f6ee522b13b92"
+    },
+    "adapter": {
+      "format": "greeting-card",
+      "version": 2
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "036584b94f13a90061759d628a60ed790bd3d979b272d1ce66a325c15e9fabb1",
+      "built_at": "2026-09-27T17:06:58.644Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-09-27T17:06:58.649Z"
+    },
+    "approved_at": "2026-09-27T17:07:27.443Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "9a4e08db38db36a0fffba7431e3a1be5d4408210da5c3335bf60e26c284b3ff2"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "8003e3434688a4df375948fcfac9dcc26dc4ef3b2d3808f4362846e8de816c82"
+    },
+    "images": {
+      "count": 10,
+      "dir": "marketing/images",
+      "digest": "366025f834b7db61ada06698ade72cea785da6c64e15ceb2742affc30f110bdd"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-09-28T13:51:33.537Z"
+    },
+    "pending_scope": null,
+    "approved_at": "2026-09-28T13:53:49.741Z"
+  },
+  "etsy": {
+    "mode": "live",
+    "listing_id": 4584343288,
+    "shop_id": 46520279,
+    "payload_sha256": "10db7b7244952311701ef198ddb96cc5bccfbb051ccd91b2e3a6562b65ab5ee1",
+    "verification": {
+      "passed": true,
+      "fingerprint": "a47f1bd9986be0fea55e9284924f22c7400726004d5c86a822da337fac09cdcb",
+      "at": "2026-09-28T15:16:00.074Z"
+    },
+    "publish_request": null,
+    "published_at": null,
+    "listing_url": null
+  }
+}

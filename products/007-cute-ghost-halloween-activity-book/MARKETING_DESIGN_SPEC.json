@@ -1,0 +1,42 @@
+{
+  "product": "007",
+  "handoffId": "006",
+  "title": "Cute Ghost Halloween Activity Book",
+  "targetCustomer": "Parents, carers and teachers looking for cute, not-scary printable Halloween activities for children",
+  "canvas": { "width": 2000, "height": 2000 },
+  "palette": {
+    "navy": "#1C2140",
+    "plum": "#3A2D4F",
+    "glow": "#7A4A2A",
+    "cream": "#F6EFE3",
+    "creamSoft": "#E8DDCB",
+    "stone": "#E2D6C3",
+    "ink": "#1F1F2B",
+    "brown": "#5E4232",
+    "pumpkin": "#D9772B",
+    "gold": "#C9A35A"
+  },
+  "type": { "display": "Spectral SemiBold", "body": "Inter", "titlePx": 140, "leadPx": 42, "minimumPx": 24 },
+  "marginsPx": 130,
+  "source": "Supplied P001-P030 artwork (P001 full-colour cover is the visual anchor) and actual A4/US Letter layout previews",
+  "sequence": [
+    "01 Hero: title, 30-page count, cover as focal point, two real activity pages",
+    "02 What's inside: eight labelled real pages (mazes, colouring, I spy, matching, counting, tracing, puzzles, design)",
+    "03 The full book: large 30 numeral and all 30 real pages",
+    "04 Mazes & puzzles: large maze plus four word/pattern/matching pages",
+    "05 Colour & create: colouring scene plus design-your-own pages",
+    "06 Learn through play: counting, tracing and matching pages",
+    "07 Cozy Halloween: cover and two cozy scenes on midnight navy",
+    "08 Print at home: four steps, digital-only message",
+    "09 A4 + US Letter: actual layout previews of both sizes",
+    "10 Perfect for: six use cases, certificate and I spy pages"
+  ],
+  "rules": [
+    "Only supplied artwork; no generated or redrawn illustrations",
+    "Say 30 printable pages (cover + 28 activities + certificate), never 30 activities",
+    "No DPI claim; no educational-development claims",
+    "No physical-product promise; no editable-file promise",
+    "Pumpkin orange is the accent; purple only as a low-opacity background tone",
+    "UK English in image copy"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "product_id": "013",
+  "attempt": 1,
+  "dir": "proofs/attempt-01",
+  "reason": "initial",
+  "direction_version": 1,
+  "started_at": "2026-09-28T18:57:41.194Z",
+  "finished_at": "2026-09-28T18:58:21.964Z",
+  "status": "complete",
+  "images": [
+    {
+      "file": "proofs/attempt-01/proof-01.png",
+      "page_number": 1,
+      "prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.\n\nSTYLE PARAMETERS: illustration style: Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.; line weight: Fine crisp ink-like accents with varied, restrained weight.; line quality: Slightly organic hand-drawn contours with neat, confident finishing details.; detail level: Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.; character language: Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.; background density: Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.; composition: Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.; palette: Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.; colour mode: full colour; shading: Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.; texture: Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.; mood: Joyful, brisk, cosy and warmly nostalgic..\n\nPAGE 1 of \"Father Christmas on the Night Shift\" (card-front): Exact title text: “Merry Christmas”. Portrait card front: original Father Christmas cycling diagonally across the lower half of a twinkling midnight city street, parcel-filled bicycle, trailing fairy lights overhead, glowing shop windows, snowy rooftops and open cobalt sky in the upper third for the hand-lettered greeting.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs; Photorealism or 3D-rendered plastic surfaces; Overly childish cartoon proportions or exaggerated facial features; Cluttered backgrounds that compete with the greeting; Harsh neon colours, muddy shadows or heavy digital gradients; Misspelled, distorted or illegible typography; Fine details too small or low-contrast for home printing.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "generated_at": "2026-09-28T18:57:56.864Z"
+    },
+    {
+      "file": "proofs/attempt-01/proof-02.png",
+      "page_number": 2,
+      "prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.\n\nSTYLE PARAMETERS: illustration style: Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.; line weight: Fine crisp ink-like accents with varied, restrained weight.; line quality: Slightly organic hand-drawn contours with neat, confident finishing details.; detail level: Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.; character language: Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.; background density: Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.; composition: Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.; palette: Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.; colour mode: full colour; shading: Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.; texture: Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.; mood: Joyful, brisk, cosy and warmly nostalgic..\n\nPAGE 2 of \"Father Christmas on the Night Shift\" (card-inside): Exact title text: “Wishing you a very merry Christmas”. Card inside panel with a warm cream writing area, a small bottom-edge vignette of a parked parcel-filled bicycle beside a glowing shopfront, two wrapped parcels, tiny spruce tree and a few gold stars; leave broad uncluttered space for a handwritten message.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs; Photorealism or 3D-rendered plastic surfaces; Overly childish cartoon proportions or exaggerated facial features; Cluttered backgrounds that compete with the greeting; Harsh neon colours, muddy shadows or heavy digital gradients; Misspelled, distorted or illegible typography; Fine details too small or low-contrast for home printing.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "generated_at": "2026-09-28T18:58:08.744Z"
+    },
+    {
+      "file": "proofs/attempt-01/proof-03.png",
+      "page_number": 3,
+      "prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.\n\nSTYLE PARAMETERS: illustration style: Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.; line weight: Fine crisp ink-like accents with varied, restrained weight.; line quality: Slightly organic hand-drawn contours with neat, confident finishing details.; detail level: Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.; character language: Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.; background density: Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.; composition: Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.; palette: Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.; colour mode: full colour; shading: Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.; texture: Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.; mood: Joyful, brisk, cosy and warmly nostalgic..\n\nPAGE 3 of \"Father Christmas on the Night Shift\" (card-back): Exact title text: “Night shift complete”. Card back panel with a mostly warm cream field and a small circular midnight-blue vignette near the lower third: distant Father Christmas silhouette cycling beneath one string of fairy lights past simplified snowy rooftops; no logo, no additional text.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs; Photorealism or 3D-rendered plastic surfaces; Overly childish cartoon proportions or exaggerated facial features; Cluttered backgrounds that compete with the greeting; Harsh neon colours, muddy shadows or heavy digital gradients; Misspelled, distorted or illegible typography; Fine details too small or low-contrast for home printing.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "generated_at": "2026-09-28T18:58:21.958Z"
+    }
+  ],
+  "error": null,
+  "selected_pages": [
+    {
+      "page_number": 1,
+      "role": "main-style",
+      "reason": "First content page (card-front): sets the core illustration style."
+    },
+    {
+      "page_number": 2,
+      "role": "different-composition",
+      "reason": "A different page type (card-inside) tests a different layout and activity structure."
+    },
+    {
+      "page_number": 3,
+      "role": "consistency-check",
+      "reason": "A later page (card-back, p3) checks the shared style stays consistent across the product."
+    }
+  ]
+}

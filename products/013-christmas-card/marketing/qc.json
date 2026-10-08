@@ -1,0 +1,86 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "production package unchanged",
+      "ok": true,
+      "detail": "Stage 2 records and deliverables re-verified"
+    },
+    {
+      "name": "listing meets Etsy constraints and claims",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image copy claims supported",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image count matches plan",
+      "ok": true,
+      "detail": "8 of 8"
+    },
+    {
+      "name": "image files present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "image filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank or corrupt images",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every image shows the real product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork traceable to Stage 2",
+      "ok": true,
+      "detail": "7 traced sources"
+    },
+    {
+      "name": "AI backgrounds never used as product artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork not stretched",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "product artwork dominates each image",
+      "ok": true,
+      "detail": "01-hero 52%, 02-inside 23%, 03-included 22%, 04-design-a 50%, 05-print 27%, 06-sizes 45%, 07-gift 27%, 08-digital 14%"
+    },
+    {
+      "name": "headline legible at 300 px thumbnail",
+      "ok": true,
+      "detail": "every headline ≥ 87 px on the 2000 px canvas"
+    },
+    {
+      "name": "headline text rendered by code from the plan",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "300x300 thumbnails generated",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "visual QC and stamped claims",
+      "ok": true,
+      "detail": "51/51 checks; 33/33 stamped claims verified"
+    }
+  ],
+  "at": "2026-09-28T20:22:57.198Z"
+}

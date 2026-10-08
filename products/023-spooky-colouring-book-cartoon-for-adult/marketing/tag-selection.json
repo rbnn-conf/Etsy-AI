@@ -1,0 +1,169 @@
+{
+  "tag_candidates": [
+    "spooky colouring book",
+    "halloween colouring",
+    "monster diner art",
+    "retro horror art",
+    "vampire colouring",
+    "witch colouring",
+    "ghost colouring",
+    "ghoul colouring",
+    "moonlit colouring",
+    "spooky relaxation",
+    "halloween activity",
+    "diner colouring",
+    "creepy cartoon art",
+    "retro diner art",
+    "horror cartoon",
+    "adult halloween art",
+    "print at home art",
+    "png colouring pages",
+    "a4 colouring pages",
+    "us letter colouring"
+  ],
+  "tags": [
+    {
+      "candidate": "spooky colouring book",
+      "tag": "spooky coloring book",
+      "result": "repaired",
+      "repairs": [
+        "colouring -> coloring"
+      ]
+    },
+    {
+      "candidate": "halloween colouring",
+      "tag": "halloween colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "monster diner art",
+      "tag": "monster diner art",
+      "result": "kept"
+    },
+    {
+      "candidate": "retro horror art",
+      "tag": "retro horror art",
+      "result": "kept"
+    },
+    {
+      "candidate": "vampire colouring",
+      "tag": "vampire colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "witch colouring",
+      "tag": "witch colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "ghost colouring",
+      "tag": "ghost colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "ghoul colouring",
+      "tag": "ghoul colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "moonlit colouring",
+      "tag": "moonlit colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "spooky relaxation",
+      "tag": "spooky relaxation",
+      "result": "kept"
+    },
+    {
+      "candidate": "halloween activity",
+      "tag": "halloween activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "diner colouring",
+      "tag": "diner colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "creepy cartoon art",
+      "tag": "creepy cartoon art",
+      "result": "kept"
+    },
+    {
+      "candidate": "retro diner art",
+      "tag": "retro diner art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "horror cartoon",
+      "tag": "horror cartoon",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "adult halloween art",
+      "tag": "adult halloween art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "print at home art",
+      "tag": "print at home art",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "png colouring pages",
+      "tag": "png colouring pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "a4 colouring pages",
+      "tag": "a4 colouring pages",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "us letter colouring",
+      "tag": "us letter colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "A4 PDF",
+      "material": "A4 PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter PDF",
+      "material": "US Letter PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG pages",
+      "material": "PNG pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "Digital download",
+      "material": "Digital download",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Craft Supplies & Tools > Digital > Digital Prints",
+    "final": "Books, Movies & Music > Books > Coloring Books",
+    "source": "canonical colouring-book category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

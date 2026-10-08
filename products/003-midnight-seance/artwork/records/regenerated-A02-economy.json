@@ -1,0 +1,9 @@
+{
+  "id": "A02",
+  "treatment": "economy",
+  "prompt": "Redraw this original top-right rose-and-thorn corner as purposeful BLACK-INK ONLY antique engraving. Preserve coherent three roses, connected foliage and L silhouette open toward lower-left. Neutral dark charcoal R=G=B strokes, thin crisp outlines, sparse widely spaced hatching, predominantly open transparent interiors. No coloured pixels, grey washes or large solid ink areas. Genuine transparent RGBA background, no paper, rectangle, text, shadow or signature. IMPORTANT: entire illustration fits comfortably INSIDE the canvas, with substantial fully transparent margin on EVERY edge, including thorn tips and trailing leaves. Nothing touches or clips the canvas. Highest native resolution.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-0b76902a-d878-42b8-bbfb-3e0da70de665.png",
+  "reason": "v1 has nine opaque source-perimeter pixels; stricter final boundary QC requires zero edge contact.",
+  "rejectedFile": "rejected/A02-economy-v1.png",
+  "visualQc": "pending"
+}

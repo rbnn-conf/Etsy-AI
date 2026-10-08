@@ -1,0 +1,71 @@
+{
+  "pattern_id": "forget-me-not",
+  "name": "Forget-Me-Not",
+  "category": "flower accent",
+  "difficulty": "beginner",
+  "finished_size": "About 2 cm across",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn, contrasting flower centre",
+      "colour": "Soft yellow",
+      "amount": "About 1 g"
+    },
+    {
+      "description": "Fine cotton yarn, petal colour",
+      "colour": "Powder blue",
+      "amount": "About 1 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "st": "stitch",
+    "rep": "repeat",
+    "MR": "magic ring"
+  },
+  "gauge": "Gauge is not critical because this is a small accent flower. Use a firm tension so the petals hold their shape.",
+  "instructions": [
+    {
+      "heading": "Forget-Me-Not Flower",
+      "steps": [
+        {
+          "label": "Round 1",
+          "text": "With yellow, make an MR. Work 5 sc into the MR. Pull the ring closed firmly. Cut yarn, leaving an 8 cm tail, and pull the tail through the final loop to fasten off.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Round 2",
+          "text": "With blue, sl st in any yellow sc. In the same yellow sc, ch 1, hdc, ch 1, sl st. In the next yellow sc, work sl st, ch 1, hdc, ch 1, sl st. Rep this petal sequence in each of the remaining 3 yellow sc.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off the blue yarn by cutting it, leaving an 8 cm tail, and pulling the tail through the final loop.",
+    "Weave the blue and yellow yarn tails through the reverse of the centre with a tapestry needle.",
+    "Gently flatten the flower and arrange the five blue petals evenly around the yellow centre."
+  ],
+  "notes": [
+    "Each petal is worked into one yellow centre stitch; the flower has five petals in total."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

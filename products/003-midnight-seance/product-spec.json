@@ -1,0 +1,7 @@
+{
+  "productId":"003","slug":"midnight-seance","name":"Midnight Séance — Vamp Romantic Halloween Party Collection",
+  "version":"0.2.0","status":"PROMPT_02_VISUAL_REVIEW","approvedMasterInventory":48,"approvedActivityCount":9,"approvedBingoBoards":12,
+  "implementedProofMasters":["S01","S03","G03","G04"],
+  "formats":["pdf","png","offline-html-editor"],"paperSizes":["5x7","8x10","a4","us-letter"],
+  "artwork":"Code-native proof ornaments only; final original illustrations reserved for Prompt 3"
+}

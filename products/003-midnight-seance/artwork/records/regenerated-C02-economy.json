@@ -1,0 +1,9 @@
+{
+  "id": "C02",
+  "treatment": "economy",
+  "prompt": "Purpose-draw an ink-economy BLACK-INK ONLY engraving of this correctly ordered seven-phase lunar divider. Preserve every phase's exact position and lighting direction from the reference: RIGHT crescent, RIGHT quarter, RIGHT gibbous, FULL, LEFT gibbous, LEFT quarter, LEFT crescent. Replace gold illumination with open mostly transparent interiors and a few fine crater contours. Depict dark portions with sparse widely spaced hatch strokes rather than solid fills. Neutral charcoal R=G=B strokes only: NO gold/brown/oxblood/plum, no grey wash, no large solid black areas. Retain elegant original nineteenth-century engraved detail and full circle outlines. Genuine transparent RGBA background with generous transparent margins, no text, paper rectangle, signature or shadow. Highest native resolution.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-45019f48-50d2-4045-a666-7a8b70c87efd.png",
+  "reason": "v1 inherited inconsistent lunar lighting; replaced to coordinate with accepted signature v3.",
+  "rejectedFile": "rejected/C02-economy-v1.png",
+  "visualQc": "pending"
+}

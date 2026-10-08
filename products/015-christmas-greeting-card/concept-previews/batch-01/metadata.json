@@ -1,0 +1,146 @@
+{
+  "product_id": "015",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-29T20:18:50.156Z",
+  "finished_at": "2026-09-29T20:19:19.578Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas greeting card\".\nConcept \"Starlit Village Post\": a greeting card for Adults seeking a warm, traditional festive card.\nShow the card front, using THIS concept's own content:\n- Subject: Snowy village post office\n- Scene: Hillside village beneath a star-filled winter sky\n- Focal object: Glowing red letter box\n- Composition: Small building in lower centre, expansive sky for greeting\n- Lighting: Amber window glow against cobalt night\n- Palette emphasis: Cobalt, cream, muted berry red and warm amber\n- Mood: Hopeful, intimate and nostalgic\n- Typography: Refined serif greeting in open upper sky\n- Distinguishing hook: Flying envelopes becoming tiny golden stars\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Winter botanical wreath / Softly speckled cream paper field / Velvet ribbon bow / Soft studio-like winter illumination\n- C: Candlelit winter table / Frost-edged window at a quiet evening interior / Steaming ceramic cup / Golden candlelight and blue moonlit frost\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T20:19:01.380Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Starlit Village Post",
+        "tagline": "Cosy Christmas card for friends and family",
+        "product_type": "Christmas greeting card",
+        "product_format": "greeting-card",
+        "target_customer": "Adults seeking a warm, traditional festive card",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Front design",
+          "Inside greeting panel",
+          "Back panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded Christmas card with a tiny snowy village post office beneath a wide, star-filled sky. A glowing letter box and drifting envelopes create a gentle send-a-seasonal-wishes story.",
+        "key_features": [
+          "Printable folded card for home printing",
+          "Front, inside and back artwork",
+          "All-purpose seasonal wording",
+          "A4 and US Letter printing guide"
+        ],
+        "visual_direction_summary": "Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.",
+        "visual_route": {
+          "primary_subject": "Snowy village post office",
+          "scene": "Hillside village beneath a star-filled winter sky",
+          "focal_object": "Glowing red letter box",
+          "composition": "Small building in lower centre, expansive sky for greeting",
+          "lighting": "Amber window glow against cobalt night",
+          "palette_emphasis": "Cobalt, cream, muted berry red and warm amber",
+          "emotional_tone": "Hopeful, intimate and nostalgic",
+          "typography_approach": "Refined serif greeting in open upper sky",
+          "distinguishing_visual_hook": "Flying envelopes becoming tiny golden stars"
+        },
+        "preview_brief": "Portrait card front showing a small snow-covered village post office at the base of a vast cobalt sky. A glowing letter box anchors the scene while envelopes lift into star shapes beneath an elegant upper-sky Christmas greeting."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas greeting card\".\nConcept \"Winter Citrus Wreath\": a greeting card for Adults seeking an elegant non-character festive card.\nShow the card front, using THIS concept's own content:\n- Subject: Winter botanical wreath\n- Scene: Softly speckled cream paper field\n- Focal object: Velvet ribbon bow\n- Composition: Circular wreath framing centred greeting\n- Lighting: Soft studio-like winter illumination\n- Palette emphasis: Evergreen, ochre citrus, cream and muted cranberry\n- Mood: Fresh, graceful and celebratory\n- Typography: Classic serif greeting within wreath centre\n- Distinguishing hook: Dried citrus slices nested among frosted foliage\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Snowy village post office / Hillside village beneath a star-filled winter sky / Glowing red letter box / Amber window glow against cobalt night\n- C: Candlelit winter table / Frost-edged window at a quiet evening interior / Steaming ceramic cup / Golden candlelight and blue moonlit frost\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024",
+      "quality": "low",
+      "generated_at": "2026-09-29T20:19:09.773Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Winter Citrus Wreath",
+        "tagline": "Elegant botanical Christmas card",
+        "product_type": "Christmas greeting card",
+        "product_format": "greeting-card",
+        "target_customer": "Adults seeking an elegant non-character festive card",
+        "page_count": 3,
+        "orientation": "square",
+        "deliverable_components": [
+          "Front design",
+          "Inside greeting panel",
+          "Back panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded Christmas card centred on a lush winter wreath of evergreen sprigs, citrus slices and velvet ribbon. It offers a fresh, sophisticated alternative to traditional snowy scenes.",
+        "key_features": [
+          "Printable square folded card",
+          "Front, inside and back artwork",
+          "Non-character botanical design",
+          "A4 and US Letter printing guide"
+        ],
+        "visual_direction_summary": "Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.",
+        "visual_route": {
+          "primary_subject": "Winter botanical wreath",
+          "scene": "Softly speckled cream paper field",
+          "focal_object": "Velvet ribbon bow",
+          "composition": "Circular wreath framing centred greeting",
+          "lighting": "Soft studio-like winter illumination",
+          "palette_emphasis": "Evergreen, ochre citrus, cream and muted cranberry",
+          "emotional_tone": "Fresh, graceful and celebratory",
+          "typography_approach": "Classic serif greeting within wreath centre",
+          "distinguishing_visual_hook": "Dried citrus slices nested among frosted foliage"
+        },
+        "preview_brief": "Square card front with a generous circular evergreen wreath on softly textured cream, framing a centred Christmas greeting. Ochre citrus slices and a muted cranberry velvet bow give the botanical composition a polished festive lift."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas greeting card\".\nConcept \"Candlelit Winter Table\": a greeting card for Adults who appreciate quiet, atmospheric Christmas stationery.\nShow the card front, using THIS concept's own content:\n- Subject: Candlelit winter table\n- Scene: Frost-edged window at a quiet evening interior\n- Focal object: Steaming ceramic cup\n- Composition: Tabletop still life across lower half, greeting in window glow\n- Lighting: Golden candlelight and blue moonlit frost\n- Palette emphasis: Ink blue, honey gold, cream and cinnamon brown\n- Mood: Restful, tender and contemplative\n- Typography: Small elegant serif greeting in luminous window area\n- Distinguishing hook: Steam curling into a subtle star garland\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Snowy village post office / Hillside village beneath a star-filled winter sky / Glowing red letter box / Amber window glow against cobalt night\n- B: Winter botanical wreath / Softly speckled cream paper field / Velvet ribbon bow / Soft studio-like winter illumination\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024",
+      "quality": "low",
+      "generated_at": "2026-09-29T20:19:19.573Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Candlelit Winter Table",
+        "tagline": "Peaceful festive card for a quiet Christmas",
+        "product_type": "Christmas greeting card",
+        "product_format": "greeting-card",
+        "target_customer": "Adults who appreciate quiet, atmospheric Christmas stationery",
+        "page_count": 3,
+        "orientation": "landscape",
+        "deliverable_components": [
+          "Front design",
+          "Inside greeting panel",
+          "Back panel",
+          "Printing and folding guide"
+        ],
+        "short_description": "A folded Christmas card celebrating a calm winter evening: candlelight, a steaming cup and a frost-edged window create a restful seasonal moment for sending thoughtful wishes.",
+        "key_features": [
+          "Printable landscape folded card",
+          "Front, inside and back artwork",
+          "Quiet winter evening theme",
+          "A4 and US Letter printing guide"
+        ],
+        "visual_direction_summary": "Hand-painted gouache and coloured-pencil illustration with softly textured paper grain, simplified storybook forms, crisp small details and gentle tonal shading. Deep night blues, warm amber lights, cream and muted berry red create a nostalgic, peaceful festive mood; refined serif lettering adds an adult card feel.",
+        "visual_route": {
+          "primary_subject": "Candlelit winter table",
+          "scene": "Frost-edged window at a quiet evening interior",
+          "focal_object": "Steaming ceramic cup",
+          "composition": "Tabletop still life across lower half, greeting in window glow",
+          "lighting": "Golden candlelight and blue moonlit frost",
+          "palette_emphasis": "Ink blue, honey gold, cream and cinnamon brown",
+          "emotional_tone": "Restful, tender and contemplative",
+          "typography_approach": "Small elegant serif greeting in luminous window area",
+          "distinguishing_visual_hook": "Steam curling into a subtle star garland"
+        },
+        "preview_brief": "Landscape card front showing a candlelit tabletop with a steaming ceramic cup before a frosted blue window. The warm candle glow meets cool moonlit glass, with a delicate Christmas greeting placed in the clear luminous window area."
+      }
+    }
+  ]
+}

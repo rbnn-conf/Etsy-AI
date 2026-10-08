@@ -1,0 +1,111 @@
+{
+  "token_library_version": "2.0.0",
+  "kind": "base_tokens",
+  "note": "Theme-independent structural tokens for Product #001's v3.0 visual system (ADR-018, supersedes the v2.0/ADR-015 'no boxes' editorial system). This is a DIGITAL STATIONERY / PREMIUM PLANNER system: real corner radius, elevation (shadow), card surfaces and a fixed icon set are now first-class structure, not exceptions. render/build.mjs merges this file with the selected theme file into one CSS :root{} custom-properties block; the component stylesheet references var(--token) only, never a literal value.",
+
+  "typography": {
+    "displayFamily": "Spectral",
+    "displayFallback": "Playfair Display, 'Iowan Old Style', Georgia, serif",
+    "bodyFamily": "Inter",
+    "bodyFallback": "-apple-system, 'Segoe UI', Roboto, sans-serif",
+    "weights": { "regular": 400, "semibold": 600 },
+    "numeralStyle": "plain-digits",
+    "note_numerals": "No OpenType tabular-nums feature - breaks PDF text extraction in Chromium (products/001-*/test/QA.md). Right-align + fixed column widths do the alignment work instead.",
+    "scalePt": {
+      "heroTitle": 21,
+      "pageTitle": 18,
+      "sectionHeader": 12.5,
+      "cardTitle": 10.5,
+      "kpiValue": 17,
+      "kicker": 9,
+      "body": 10,
+      "label": 9,
+      "cardLabel": 8,
+      "footer": 8
+    },
+    "tracking": {
+      "displayLarge": "-0.01em",
+      "kicker": "0.14em",
+      "label": "0.08em",
+      "cardLabel": "0.09em",
+      "body": "0em"
+    }
+  },
+
+  "spacingMm": [2, 4, 8, 12, 16],
+  "gutterMm": 3,
+
+  "grid": {
+    "marginsMm": { "standard": { "top": 12, "bottom": 12, "left": 12, "right": 12 }, "floor": 10 },
+    "canvasesMm": {
+      "a4": { "width": 210, "height": 297 },
+      "us_letter": { "width": 215.9, "height": 279.4 }
+    },
+    "headerHeightMm": 16,
+    "footerHeightMm": 8,
+    "widthDeltaHandling": "US Letter content width exceeds A4 by 5.9mm; absorbed entirely by each page's flexible label/description column(s) and by widening card gutters slightly. Numeric/date/checkbox column widths are identical constants across variants."
+  },
+
+  "borders": {
+    "hairlinePt": 0.75,
+    "dividerPt": 1.0,
+    "cardBorderPt": 0.75,
+    "note": "Hairlines now live INSIDE cards (row dividers in a card-table) and as a card's own quiet outline - never as the page's primary structure. Structure comes from card surfaces + elevation."
+  },
+
+  "radius": {
+    "sm": 1.5,
+    "md": 3,
+    "lg": 4.5,
+    "xl": 6,
+    "pill": 999,
+    "rationale": "Replaces the v2.0 'no boxes / radius near 0' rule (ADR-015), which the v3.0 visual reset (ADR-018) explicitly retires. Cards/panels use lg (4.5mm); small chips/inputs use sm-md; badges, pills and progress-bar tracks are fully round."
+  },
+
+  "elevation": {
+    "cardShadow": { "offsetYMm": 1, "blurMm": 3, "spreadMm": 0 },
+    "cardShadowRaised": { "offsetYMm": 1.5, "blurMm": 4.5, "spreadMm": 0 },
+    "note": "Shadow colour/opacity is theme-defined (design/tokens/themes/*.json shadowColour) so dark themes can use a deeper, more saturated shadow instead of a washed-out one. Verified: Chromium's page.pdf({printBackground:true}) renders box-shadow/border-radius/gradients faithfully - this is the same print pipeline already used for the v2.0 accent hairlines."
+  },
+
+  "componentGeometry": {
+    "checkboxMm": 4,
+    "checkboxStrokePt": 1,
+    "currencyCell": { "minWidthMm": 22, "absoluteFloorMm": 20, "alignment": "right" },
+    "rowHeightsMm": { "standard": 10, "generous": 12, "compact": 7.5, "label": 6 },
+    "card": { "paddingMm": 4, "gapMm": 3, "headerBandHeightMm": 9 },
+    "metricCard": { "heightMm": 30, "iconSizeMm": 7 },
+    "goalCard": { "minHeightMm": 26 },
+    "pill": { "heightMm": 6.5, "paddingMm": 3 },
+    "badge": { "heightMm": 5.5, "paddingMm": 2.5 },
+    "progressBar": { "trackHeightMm": 5, "targetTickWidthMm": 0.6 },
+    "icon": { "sm": 5, "md": 7, "lg": 10 }
+  },
+
+  "categoryPaletteRoles": [
+    "groceries", "dining", "transport", "entertainment", "personal", "household"
+  ],
+
+  "pageNumbering": {
+    "format": "Page {n} of {total}",
+    "position": "footer-right",
+    "sizePt": 8
+  },
+
+  "headerFooterSystem": {
+    "header": {
+      "contents": [
+        { "element": "page_title", "position": "left", "sizePt": 18, "weight": "semibold" },
+        { "element": "month_year_fill_line", "position": "right", "sizePt": 10 }
+      ],
+      "style": "hero band - tinted surface strip behind the title, not a bare hairline rule"
+    },
+    "footer": {
+      "contents": [
+        { "element": "product_name", "position": "left", "sizePt": 8, "colorToken": "textMuted" },
+        { "element": "page_number", "position": "right", "sizePt": 8, "colorToken": "textMuted" },
+        { "element": "nav_link_back_to_dashboard", "position": "center", "sizePt": 8, "colorToken": "accent", "note": "digital PDF only" }
+      ]
+    }
+  }
+}

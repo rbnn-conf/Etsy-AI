@@ -1,0 +1,140 @@
+{
+  "pattern_id": "golden-billy-button",
+  "name": "Golden Billy Button",
+  "category": "flower",
+  "difficulty": "beginner",
+  "finished_size": "About 18 cm tall",
+  "yarn": [
+    {
+      "description": "Cotton yarn for the flower head",
+      "colour": "Golden yellow",
+      "amount": "About 8 g"
+    },
+    {
+      "description": "Cotton yarn for the stem",
+      "colour": "Leaf green",
+      "amount": "About 5 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1/C-2"
+  },
+  "additional_materials": [
+    "20 cm length of 0.8 mm floral wire",
+    "Small amount of polyester fibrefill",
+    "Stitch marker",
+    "Tapestry needle",
+    "Wire cutters or strong pliers",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "sc",
+    "dc",
+    "bobble"
+  ],
+  "abbreviations": {
+    "MR": "magic ring",
+    "sc": "single crochet",
+    "dc": "double crochet",
+    "bobble": "bobble stitch",
+    "inc": "increase",
+    "dec": "single crochet decrease",
+    "rnd": "round",
+    "rnds": "rounds",
+    "st": "stitch",
+    "sts": "stitches",
+    "yo": "yarn over",
+    "FO": "fasten off",
+    "cm": "centimetres"
+  },
+  "gauge": "Gauge is not critical. Crochet firmly so the stuffed flower head holds a rounded shape and the stem tube fits snugly around the wire.",
+  "instructions": [
+    {
+      "heading": "Flower Head",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With golden yellow yarn, make 6 sc in a MR. Work in continuous rnds; place a marker in the first st of each rnd.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "(Sc in next st, inc in next st) 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "(Sc in next st, bobble in next st, sc in next st) 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 6",
+          "text": "(Sc in next st, dec) 6 times. Stuff the head firmly with fibrefill.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Dec 6 times. Add a little more fibrefill if needed. FO, leaving a 20 cm yellow tail.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Close head",
+          "text": "Thread the yellow tail onto the tapestry needle. Pass it through the front loops of the 6 remaining sts, pull firmly to close the opening, and take the tail into the centre of the head.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Stem",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With leaf green yarn, make 6 sc in a MR. Work in continuous rnds; place a marker in the first st of each rnd.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnds 2-55",
+          "text": "Sc in each st around.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Finish stem",
+          "text": "FO, leaving a 30 cm green tail for joining. The stem tube should measure about 16 cm long.",
+          "stitch_count": 6
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Cut a 17 cm wire length. Use pliers to bend a 5 mm loop at each end so no sharp point remains.",
+    "Insert the wire through the open top of the green stem tube until the lower loop rests inside the closed base. Leave the upper loop extending from the tube opening.",
+    "Place the upper wire loop flat against the underside centre of the flower head. Hold the stem opening against the head and use the long green tail to sew through each of the 6 stem-edge sts and securely into the head twice.",
+    "Wrap the green tail around the upper wire loop with two firm stitches, then sew it back through the top of the stem tube to anchor the wire and stem together."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off the yellow yarn after closing the flower head and the green yarn after sewing the stem securely in place.",
+    "Weave the yellow yarn tail through the stuffing and trim it close without cutting the outer stitches.",
+    "Weave the green yarn tail down inside the stem tube and trim it close.",
+    "Gently roll the flower head between your palms to smooth its shape and distribute the stuffing.",
+    "Bend the wired stem gently only after checking that both wire ends remain enclosed by the crochet. "
+  ],
+  "notes": [
+    "bobble: [Yo, insert hook in the indicated st, yo and pull up a loop, yo and pull through 2 loops] 4 times; yo and pull through all 5 loops on hook.",
+    "One completed bobble counts as one stitch for the stitch count."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,2 @@
+# Runtime state (Telegram offset, active sessions). Never commit.
+state/

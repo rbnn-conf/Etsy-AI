@@ -1,0 +1,152 @@
+{
+  "product_id": "021",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-06T21:56:18.739Z",
+  "finished_at": "2026-10-06T21:56:52.122Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Flower crochet simple decorative\".\nConcept \"Sunny Daisy Garland Crochet Pattern Bundle\": a crochet pattern bundle for Beginner and confident beginner crocheters decorating a nursery, kitchen or craft room.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crocheted daisies\n- Scene: Sunlit white shelf vignette\n- Focal object: Daisy garland\n- Composition: Curved garland sweep with airy title space\n- Lighting: Soft morning window light\n- Palette emphasis: Cream, butter yellow, leaf green and warm white\n- Mood: Fresh, cheerful and handmade\n- Typography: Clean rounded sans serif with small serif accents\n- Distinguishing hook: Daisies looping around a painted wooden peg rail\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Crocheted poppies / Garden picnic table / Flower coaster set / Dappled midday garden light\n- C: Crocheted lavender sprigs / Plaster wall reading nook / Botanical wall hoop / Gentle late-afternoon side light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T21:56:29.492Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Sunny Daisy Garland Crochet Pattern Bundle",
+        "tagline": "Cheerful beginner-friendly floral home décor",
+        "product_type": "Crochet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Beginner and confident beginner crocheters decorating a nursery, kitchen or craft room",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "Finished daisy garland photograph page",
+          "Detail photograph page",
+          "Digital crochet pattern instructions for daisies, leaves and assembly",
+          "Materials and abbreviations list"
+        ],
+        "short_description": "A simple decorative crochet pattern bundle for a fresh daisy-and-leaf garland. Designed as an approachable make for brightening shelves, windows, party tables or handmade gifts.",
+        "key_features": [
+          "Simple repeating flower motif",
+          "Decorative garland assembly instructions",
+          "Clear materials and abbreviations list",
+          "Beginner-friendly construction",
+          "Printable digital PDF download"
+        ],
+        "visual_direction_summary": "Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.",
+        "visual_route": {
+          "primary_subject": "Crocheted daisies",
+          "scene": "Sunlit white shelf vignette",
+          "focal_object": "Daisy garland",
+          "composition": "Curved garland sweep with airy title space",
+          "lighting": "Soft morning window light",
+          "palette_emphasis": "Cream, butter yellow, leaf green and warm white",
+          "emotional_tone": "Fresh, cheerful and handmade",
+          "typography_approach": "Clean rounded sans serif with small serif accents",
+          "distinguishing_visual_hook": "Daisies looping around a painted wooden peg rail"
+        },
+        "preview_brief": "A portrait cover showing a realistic crocheted daisy garland looping across a bright white peg rail, with a few leaves falling naturally between blooms. The title sits in clear space above the garland in a clean, cheerful editorial layout."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Flower crochet simple decorative\".\nConcept \"Poppy Picnic Coasters Crochet Pattern Bundle\": a crochet pattern bundle for Beginner crocheters seeking a quick handmade table décor project.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crocheted poppies\n- Scene: Garden picnic table\n- Focal object: Flower coaster set\n- Composition: Overhead clustered arrangement with centred title space\n- Lighting: Dappled midday garden light\n- Palette emphasis: Poppy red, charcoal, sage green and linen beige\n- Mood: Lively, sunny and welcoming\n- Typography: Bold compact serif with neat sans serif details\n- Distinguishing hook: Tea glasses resting on oversized poppy coasters\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Crocheted daisies / Sunlit white shelf vignette / Daisy garland / Soft morning window light\n- C: Crocheted lavender sprigs / Plaster wall reading nook / Botanical wall hoop / Gentle late-afternoon side light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one square design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024",
+      "quality": "low",
+      "generated_at": "2026-10-06T21:56:39.477Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Poppy Picnic Coasters Crochet Pattern Bundle",
+        "tagline": "Bold floral coasters for sunny tables",
+        "product_type": "Crochet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Beginner crocheters seeking a quick handmade table décor project",
+        "page_count": 3,
+        "orientation": "square",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "Finished coaster set photograph page",
+          "Close-up stitch-detail photograph page",
+          "Digital crochet pattern instructions for flower coasters",
+          "Materials, gauge and abbreviations list"
+        ],
+        "short_description": "A simple crochet pattern bundle for a set of bold poppy-style flower coasters. A quick decorative make for everyday tea breaks, garden lunches and handmade housewarming gifts.",
+        "key_features": [
+          "Quick floral coaster project",
+          "Coordinated set styling ideas",
+          "Simple round-based construction",
+          "Materials, gauge and abbreviations list",
+          "Printable digital PDF download"
+        ],
+        "visual_direction_summary": "Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.",
+        "visual_route": {
+          "primary_subject": "Crocheted poppies",
+          "scene": "Garden picnic table",
+          "focal_object": "Flower coaster set",
+          "composition": "Overhead clustered arrangement with centred title space",
+          "lighting": "Dappled midday garden light",
+          "palette_emphasis": "Poppy red, charcoal, sage green and linen beige",
+          "emotional_tone": "Lively, sunny and welcoming",
+          "typography_approach": "Bold compact serif with neat sans serif details",
+          "distinguishing_visual_hook": "Tea glasses resting on oversized poppy coasters"
+        },
+        "preview_brief": "A square cover with realistic crocheted poppy coasters arranged around chilled lemonade glasses on a linen-covered garden table. A compact title is centred in the open middle of the floral arrangement, with lively dappled sunlight across the yarn."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Flower crochet simple decorative\".\nConcept \"Lavender Bloom Wall Hoop Crochet Pattern Bundle\": a crochet pattern bundle for Confident beginners making gentle botanical wall décor and handmade gifts.\nShow the cover artwork, using THIS concept's own content:\n- Subject: Crocheted lavender sprigs\n- Scene: Plaster wall reading nook\n- Focal object: Botanical wall hoop\n- Composition: Centred hoop with vertical title space below\n- Lighting: Gentle late-afternoon side light\n- Palette emphasis: Dusty lavender, eucalyptus green, oat and soft grey\n- Mood: Calm, delicate and restful\n- Typography: Refined light serif with spaced small caps\n- Distinguishing hook: Lavender sprigs spilling asymmetrically from a wooden hoop\n\nCROCHET PRODUCT DIRECTION (authoritative for this crochet pattern product; it overrides any conflicting style, medium or avoid wording above). Two layers, never mixed:\n1. BRANDING LAYER (Secondary decoration around the product: typography, background, ornaments and frames only.) Moonlit Meadow: a dreamy moonlit meadow, botanical identity; palette cream, warm ivory, soft blush, lavender, sage; tasteful crescent-moon details, fine botanical ornaments, elegant serif typography, subtle watercolour ornaments (allowed in the branding layer only). Feeling: romantic, premium, handmade. Any painted, illustrated or watercolour style above applies to this layer ONLY.\n2. PRODUCT REPRESENTATION (The crocheted pieces themselves: the primary hero of every image they appear in.) The crochet pieces must look physically crocheted from yarn, photorealistic, high-end realistic product photography, clearly visible yarn fibres, visible crochet stitches, realistic loops, petal construction and stitch definition, genuine handmade depth and small imperfections, proper soft shadows and real dimensionality, believable yarn thickness, crochet stems, leaves and flowers where relevant. Styling: softly styled linen or neutral interior, soft natural light, clean premium editorial styling. Make the crochet piece large, with its yarn and stitch texture visible even at Etsy thumbnail size.\nThe crochet product must NOT look watercolour painted, hand illustrated, flat vector art, digitally painted, porcelain, plastic, like real biological flowers, like generic floral clipart.\nA viewer must understand at a glance: \"Those are crochet pieces made of yarn, and this listing contains crochet patterns.\"\nCONCEPT / STYLE PROOF ONLY (the crochet patterns do not exist yet): this image establishes typography, palette, Moonlit Meadow branding, background, ornament style and general crochet realism. It is NOT the finished result of any specific pattern and NOT the final bundle: show a generic realistic crochet arrangement. Any flower types named above are mood references only; show no pattern count, no pattern names and no precise petal or leaf count as final.\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Crocheted daisies / Sunlit white shelf vignette / Daisy garland / Soft morning window light\n- B: Crocheted poppies / Garden picnic table / Flower coaster set / Dappled midday garden light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: logos or trademarks; copied characters or lettering; misspelled text; clutter; a crochet product that looks watercolour painted; a crochet product that looks hand illustrated; a crochet product that looks flat vector art; a crochet product that looks digitally painted; a crochet product that looks porcelain; a crochet product that looks plastic; a crochet product that looks like real biological flowers; a crochet product that looks like generic floral clipart.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-06T21:56:51.965Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Lavender Bloom Wall Hoop Crochet Pattern Bundle",
+        "tagline": "Calm botanical décor for quiet corners",
+        "product_type": "Crochet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Confident beginners making gentle botanical wall décor and handmade gifts",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "Finished wall hoop photograph page",
+          "Close-up flower and leaf detail photograph page",
+          "Digital crochet pattern instructions for floral hoop motifs",
+          "Materials and abbreviations list"
+        ],
+        "short_description": "A simple decorative crochet pattern bundle for a botanical wall hoop with lavender-inspired flowers and leafy sprigs. An elegant handmade accent for bedrooms, reading nooks and thoughtful gifts.",
+        "key_features": [
+          "Compact botanical wall décor project",
+          "Simple flower and leaf motifs",
+          "Easy hoop assembly guidance",
+          "Materials and abbreviations list",
+          "Printable digital PDF download"
+        ],
+        "visual_direction_summary": "Bright editorial crochet photography with genuinely stitched yarn textures, softly styled home surfaces and clean, contemporary layout. Natural daylight, restrained pastel colour accents, crisp detail shots and generous negative space create a cheerful handmade feel.",
+        "visual_route": {
+          "primary_subject": "Crocheted lavender sprigs",
+          "scene": "Plaster wall reading nook",
+          "focal_object": "Botanical wall hoop",
+          "composition": "Centred hoop with vertical title space below",
+          "lighting": "Gentle late-afternoon side light",
+          "palette_emphasis": "Dusty lavender, eucalyptus green, oat and soft grey",
+          "emotional_tone": "Calm, delicate and restful",
+          "typography_approach": "Refined light serif with spaced small caps",
+          "distinguishing_visual_hook": "Lavender sprigs spilling asymmetrically from a wooden hoop"
+        },
+        "preview_brief": "A portrait cover featuring a realistic wooden embroidery hoop dressed with crocheted lavender sprigs and soft green leaves against a pale plaster wall. Gentle side light reveals the yarn stitch texture, while the title sits neatly below the centred hoop."
+      }
+    }
+  ]
+}

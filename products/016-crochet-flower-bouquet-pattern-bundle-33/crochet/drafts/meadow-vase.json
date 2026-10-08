@@ -1,0 +1,151 @@
+{
+  "pattern_id": "meadow-vase",
+  "name": "Meadow Vase",
+  "category": "vase",
+  "difficulty": "intermediate",
+  "finished_size": "About 12 cm tall and 10 cm across at the widest point",
+  "yarn": [
+    {
+      "description": "Cotton-blend yarn for a firm textured vase",
+      "colour": "Midnight blue",
+      "amount": "About 45 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3,
+    "us": "C/2"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors",
+    "Optional straight-sided glass jar, maximum 5 cm diameter and 10 cm tall"
+  ],
+  "stitches_used": [
+    "sc",
+    "hdc",
+    "hdc2tog"
+  ],
+  "abbreviations": {
+    "BLO": "back loop only",
+    "hdc": "half double crochet",
+    "hdc2tog": "half double crochet two together",
+    "MR": "magic ring",
+    "rnd": "round",
+    "sc": "single crochet",
+    "st": "stitch",
+    "sts": "stitches"
+  },
+  "gauge": "20 sc and 22 rnds = 10 cm in sc. Check the width against the optional jar before completing the neck.",
+  "instructions": [
+    {
+      "heading": "Vase",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR and work 6 sc into the ring. Place a stitch marker in the first st to mark the start of each continuous rnd.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Work 2 sc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Work (sc in next st, 2 sc in next st) 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Work (sc in each of next 2 sts, 2 sc in next st) 6 times.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Work (sc in each of next 3 sts, 2 sc in next st) 6 times.",
+          "stitch_count": 30
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Work (sc in each of next 4 sts, 2 sc in next st) 6 times.",
+          "stitch_count": 36
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Work (sc in each of next 5 sts, 2 sc in next st) 6 times.",
+          "stitch_count": 42
+        },
+        {
+          "label": "Rnd 8",
+          "text": "Work (sc in each of next 6 sts, 2 sc in next st) 6 times.",
+          "stitch_count": 48
+        },
+        {
+          "label": "Rnd 9",
+          "text": "Work (sc in each of next 7 sts, 2 sc in next st) 6 times.",
+          "stitch_count": 54
+        },
+        {
+          "label": "Rnd 10",
+          "text": "Working in BLO, sc in each st around to turn the work upwards.",
+          "stitch_count": 54
+        },
+        {
+          "label": "Rnd 11",
+          "text": "Work (hdc in each of next 8 sts, 2 hdc in next st) 6 times.",
+          "stitch_count": 60
+        },
+        {
+          "label": "Rnds 12-17",
+          "text": "Hdc in each st around for each rnd.",
+          "stitch_count": 60
+        },
+        {
+          "label": "Rnd 18",
+          "text": "Work (hdc in each of next 8 sts, hdc2tog) 6 times.",
+          "stitch_count": 54
+        },
+        {
+          "label": "Rnd 19",
+          "text": "Hdc in each st around.",
+          "stitch_count": 54
+        },
+        {
+          "label": "Rnd 20",
+          "text": "Work (hdc in each of next 7 sts, hdc2tog) 6 times.",
+          "stitch_count": 48
+        },
+        {
+          "label": "Rnd 21",
+          "text": "Work (hdc in each of next 6 sts, hdc2tog) 6 times.",
+          "stitch_count": 42
+        },
+        {
+          "label": "Rnd 22",
+          "text": "Work (hdc in each of next 5 sts, hdc2tog) 6 times.",
+          "stitch_count": 36
+        },
+        {
+          "label": "Rnds 23-27",
+          "text": "Hdc in each st around for each rnd.",
+          "stitch_count": 36
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off after Rnd 27, leaving a 15 cm yarn tail.",
+    "Weave in the starting and finishing tails securely on the inside without pulling the fabric out of shape.",
+    "Gently shape the rounded body and narrow neck with your hands.",
+    "For fresh flowers or water, place a suitably sized glass jar inside the crochet vase before arranging stems."
+  ],
+  "notes": [
+    "Work all rnds in a continuous spiral; do not join at the end of a rnd.",
+    "The crochet vessel is intended for everlasting crochet, dried, or artificial stems when used without a glass jar.",
+    "Keep the tension firm, especially on the base, so the vase stands neatly around its insert or arrangement."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

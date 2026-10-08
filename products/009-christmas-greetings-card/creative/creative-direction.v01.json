@@ -1,0 +1,38 @@
+{
+  "illustration_style": "Original woodland winter greeting-card illustration with a single red fox delivering a small parcel through a snowy pine grove; hand-painted storybook watercolour with subtle ink detailing.",
+  "line_weight": "Fine, varied pencil-and-ink accents; delicate directional marks for fur, needles and parcel ribbon, with no heavy outlines.",
+  "line_quality": "Organic, softly broken and hand-rendered contours that dissolve naturally into watercolour edges.",
+  "detail_level": "Medium detail: a clear focal fox with tactile fur and knitted scarf, supported by simplified layered trees, snowdrifts, stars and a few restrained festive details suitable for reliable home printing.",
+  "character_language": "Broadly believable but gently charming fox anatomy, three-quarter side view in a walking pose; alert ears, small dark eyes, soft expression and an oversized russet tail. The fox wears a plain burgundy knitted scarf and carries a tiny wrapped kraft-paper parcel tied with a forest-green ribbon.",
+  "background_density": "Airy winter woodland vignette. Pale ivory sky, softly receding blue-grey pine silhouettes and rounded snowbanks leave generous uncluttered space in the upper third for a greeting added during layout.",
+  "composition": "Portrait folded-card front, with the fox walking across the lower middle of the artwork from left to right. A loose crescent of snow-dusted pine boughs and faint falling snow frames the focal character without creating a border; preserve a clean upper-third text area.",
+  "palette": "Muted russet and warm brown fox tones; pine green, blue-grey and soft sage shadows; creamy ivory snow; burgundy scarf; forest-green ribbon; restrained antique-gold star flecks.",
+  "colour_mode": "full colour",
+  "shading": "Layered translucent watercolour washes, soft cool winter shadows and a gentle warm glow around a few antique-gold star flecks; no hard cel shading or large dark ink-heavy areas.",
+  "texture": "Subtle cold-pressed paper grain, mottled pigment variation, dry-brush snow edges, fine fur strokes and softly granular snow specks.",
+  "mood": "Tender, nostalgic, peaceful and quietly festive.",
+  "age_suitability": "General family audience; suited to woodland-animal and cottagecore Christmas card buyers.",
+  "print_considerations": "Designed as a high-resolution A4 and US Letter printable folded-card front. Keep important artwork within a generous safe margin, retain strong tonal separation between fox and snow, use no tiny essential details, and reserve the greeting area for crisp separately typeset text.",
+  "shared_prompt": "Original printable Christmas greeting-card artwork in a hand-painted storybook watercolour style: fine irregular pencil-and-ink accents, organic softly broken contours, medium-detail believable-but-charming woodland animals, translucent mottled pigment on subtle cold-pressed paper texture, muted russet, pine green, sage, blue-grey, creamy ivory, burgundy and restrained antique-gold palette. Soft layered winter shading, dry-brush snow, delicate fur and foliage marks, gentle warm star-fleck glow, airy pale background and an uncluttered upper-third area reserved for separately added greeting text. Portrait composition, calm cosy nostalgic mood, home-print-friendly focal shapes and clear value contrast.",
+  "avoid": [
+    "Any reference character, including the front-facing rabbit in a green holly hat and snowflake scarf",
+    "The squirrel holding a sparkler on an ornamented snowy branch beneath a lantern",
+    "Mice in Santa hats by a tiny arched doorway and a towering decorated tree",
+    "The references’ exact scenes, object arrangements, decorative layouts, lighting setups or card mock-up styling",
+    "The wording, lettering, typography, wording arrangement or decorative letterforms from the references",
+    "Logos, trademarks, copyrighted characters or recognisable branded motifs",
+    "Photorealism, 3D-rendered appearance, glossy digital airbrushing or hard vector-clean outlines",
+    "Dense clutter, excessive tiny props, dark ink-heavy backgrounds or details too fine for home printing",
+    "Harsh cel shading, neon primary colours, heavy black outlines or high-saturation cartoon styling",
+    "Text embedded in the illustration, illegible lettering, misspelled text, watermarks, borders or envelopes"
+  ],
+  "version": 1,
+  "source": "references",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": null,
+  "created_at": "2026-09-27T14:50:49.060Z"
+}

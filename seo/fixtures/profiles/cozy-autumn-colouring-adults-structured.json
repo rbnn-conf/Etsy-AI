@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "profile_id": "cozy-autumn-colouring-adults-structured",
+  "describes": { "mode": "NEW_PRODUCT", "ref": "fixtures/ideas/cozy-autumn-colouring-adults-structured.json" },
+  "source": "Words from the structured idea: themes autumn (fall is its regional variant), format coloring pages (coloring book is its format family), audience adults, delivery digital and printable, concept motifs as tangential. 'Colouring sheets' is included as a format because the owner's Phase 2 specification names 'autumn coloring sheets' a relevant product-format variant. 'Cozy' is kept as an attribute (style), as in ADR-032, so 'cozy coloring book' stays SUPPORTING.",
+  "seasonality": null,
+  "notes": "Seasonality level (peak, in season, ...) was not supplied, so it is null; the idea's season 'autumn' is not a seasonality level and is not inferred into one.",
+  "central_themes": ["autumn", "fall"],
+  "formats": ["colouring pages", "colouring book", "colouring sheets"],
+  "components": [],
+  "audiences": ["adults"],
+  "attributes": ["cozy", "digital", "printable", "relax"],
+  "tangential": ["pumpkins", "warm", "homes", "cafés", "forest", "walks"]
+}

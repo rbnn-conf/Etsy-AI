@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "product_id": "013",
+  "product_name": "Father Christmas on the Night Shift",
+  "product_type": "Christmas card",
+  "product_format": "greeting-card",
+  "season": "Christmas",
+  "target_customer": "Adults seeking a cheerful, contemporary Christmas card",
+  "designs": [
+    {
+      "id": "A",
+      "name": "Father Christmas on the Night Shift",
+      "front": {
+        "asset": "proof-01",
+        "file": "production/deliverables/LumiumX-Father-Christmas-on-the-Night-Shift/Card-Artwork/LumiumX-Father-Christmas-on-the-Night-Shift-Front.png",
+        "sha256": "dbcea266a3cca463f97d8b5fe1b4e036dbbdb54cbe4d8bbf4752eeb147abe1e3",
+        "width": 1024,
+        "height": 1536
+      },
+      "text": [
+        "Merry Christmas"
+      ],
+      "back": "approved",
+      "files": [
+        {
+          "variant": "A4",
+          "file": "production/deliverables/LumiumX-Father-Christmas-on-the-Night-Shift/A4/LumiumX-Father-Christmas-on-the-Night-Shift-Folded-Card-A4.pdf",
+          "sha256": "15df1a61fa96162e3df90df0e1fc09ba4d0987570070a6591d102235cc8594ae"
+        },
+        {
+          "variant": "US-Letter",
+          "file": "production/deliverables/LumiumX-Father-Christmas-on-the-Night-Shift/US-Letter/LumiumX-Father-Christmas-on-the-Night-Shift-Folded-Card-US-Letter.pdf",
+          "sha256": "30f06ecb71593fac467200557e5ee339fdba45c1f5cd1fa583b7d3e49374f971"
+        },
+        {
+          "variant": "Card-Panels-4x6in",
+          "file": "production/deliverables/LumiumX-Father-Christmas-on-the-Night-Shift/Card-Panels-4x6in/LumiumX-Father-Christmas-on-the-Night-Shift-Card-Panels-4x6in.pdf",
+          "sha256": "9077d275ee0d9e9e87d0aed89c27ca0a57f95a002a3ea7991e8dbb2ac08f7e46"
+        }
+      ]
+    }
+  ],
+  "insides": [
+    {
+      "asset": "proof-02",
+      "file": "production/deliverables/LumiumX-Father-Christmas-on-the-Night-Shift/Card-Artwork/LumiumX-Father-Christmas-on-the-Night-Shift-Inside.png",
+      "sha256": "27e0aafe7e7bde4eefec30d3f1a383a1ea27eb0f8efa7fe701b56dad0365331d",
+      "width": 1024,
+      "height": 1536,
+      "text": [
+        "Wishing you a very merry Christmas"
+      ],
+      "shared_by": [
+        "A"
+      ]
+    }
+  ],
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 1
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 1
+    },
+    {
+      "key": "Card-Panels-4x6in",
+      "label": "4×6 in card panels",
+      "files": 1
+    }
+  ],
+  "original_artwork_files": 3,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Father-Christmas-on-the-Night-Shift/START-HERE-Printing-Guide.pdf",
+    "sha256": "6e229416dbdd1102daedf27bbcd05f329d2c25614dbbecd8bb70f8eb7eeb0569"
+  },
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Father-Christmas-on-the-Night-Shift",
+    "zip_mb": 14.6,
+    "zip_sha256": "b6dda216c9e94988f95ad51f1acff8ad83641a78056b3d3755fd4920094a41ca"
+  },
+  "card_size_mm": {
+    "A4": [
+      124,
+      186
+    ],
+    "US-Letter": [
+      128,
+      192
+    ]
+  },
+  "effective_ppi": {
+    "A4": 210,
+    "US-Letter": 204,
+    "Card-Panels-4x6in": 256
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Father-Christmas-on-the-Night-Shift-Folded-Card-A4-p1.png",
+      "label": "Outside (print first)",
+      "source": "A4/LumiumX-Father-Christmas-on-the-Night-Shift-Folded-Card-A4.pdf",
+      "page": 1,
+      "sha256": "b7dfe9e30d03c70a394421fa633f2a3aa047e1d302b38c39f3c53b997d944cdd"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Father-Christmas-on-the-Night-Shift-Folded-Card-A4-p2.png",
+      "label": "Inside (print on the back)",
+      "source": "A4/LumiumX-Father-Christmas-on-the-Night-Shift-Folded-Card-A4.pdf",
+      "page": 2,
+      "sha256": "84089b60cf2ea9140676dbdafb9599a00c4e70459a7f0d4f8bfecb68ee59a04d"
+    }
+  ],
+  "style": {
+    "subject": "Father Christmas",
+    "palette": "Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.",
+    "mood": "Joyful, brisk, cosy and warmly nostalgic."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "331866f702b71f5f1f87705b4ebbccc5bdd9b2ce0340c8de91634196c6028dd3"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "ddb20608e0f026f884aa6aa2b080676eb00db6f60bea0b958a250df6b8c6c052"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "ceb7af356f41bd1b308a673078447c9a90ef419366b08cbf9b3f14e8a32eb901"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Father Christmas",
+      "scene": "Twinkling midnight city street",
+      "focal_object": "Parcel-filled bicycle",
+      "lighting": "Golden shop lights and blue night glow",
+      "palette": "Cobalt, cranberry, cream, gold and spruce",
+      "emotional_tone": "Joyful, brisk and warmly nostalgic",
+      "illustration_style": "Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.",
+      "mood": "Joyful, brisk, cosy and warmly nostalgic."
+    },
+    "designs": {
+      "A": {
+        "name": "Father Christmas on the Night Shift",
+        "description": "The lower half features an original, friendly Father Christmas in a cranberry coat and cream-trimmed hat cycling briskly from lower left towards lower right. His bicycle basket and rear rack are piled with neatly wrapped parcels, with one small evergreen sprig tucked among them. A simplified city street recedes behind him, with glowing shop windows, snowy rooftops, a small crescent moon and looping golden fairy lights. Leave the upper third as open cobalt sky for the greeting.",
+        "source": "approved card-front brief (page 1)"
+      }
+    },
+    "inside": {
+      "description": null,
+      "source": "none (owner notes only)"
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Father Christmas on the Night Shift"
+    ],
+    "design-count": [
+      "1 card design",
+      "1 printable card design",
+      "1 design included",
+      "one designs",
+      "1"
+    ],
+    "design-name": [
+      "Father Christmas on the Night Shift",
+      "A — Father Christmas on the Night Shift",
+      "Design A"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "4×6 in card panels",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "4×6 in",
+      "4 × 6 in",
+      "Folded card"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "artwork-files": [
+      "3 original artwork files",
+      "3 PNG files",
+      "Original artwork files",
+      "PDF and original artwork PNG files"
+    ],
+    "process": [
+      "Print at home or use a print shop",
+      "Download",
+      "Print",
+      "Trim & fold",
+      "Trim and fold",
+      "Send",
+      "Give"
+    ],
+    "card-size": [
+      "124 × 186 mm",
+      "124 x 186 mm",
+      "128 × 192 mm",
+      "128 x 192 mm"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in",
+      "4 × 6 in"
+    ],
+    "inside": [
+      "Wishing you a very merry Christmas",
+      "Inside message",
+      "Illustrated inside message",
+      "Inside message"
+    ]
+  }
+}

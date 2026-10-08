@@ -1,0 +1,1512 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "014",
+  "workspace": "014-autumn-or-fall-colouring-pages",
+  "name": "Harvest Market: Autumn Colouring Pages",
+  "slug": "harvest-market-autumn-colouring-pages",
+  "season": "Autumn",
+  "product_type": "Adult harvest market colouring book",
+  "target_customer": "Adults who enjoy seasonal food, gardening and decorative colouring",
+  "page_count": 12,
+  "status": "AWAITING_ETSY_PUBLISH_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-29T13:11:03.170Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-29T13:11:41.654Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-29T13:11:41.665Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-29T13:12:14.356Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-09-29T13:12:40.393Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-09-29T13:13:45.094Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-29T13:13:45.107Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-29T13:14:22.404Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-09-29T13:15:24.297Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-09-29T13:15:34.471Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-09-29T13:17:39.119Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "book_approved",
+      "at": "2026-09-29T13:18:24.883Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-09-29T13:18:33.045Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-09-29T13:18:33.051Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-09-29T13:19:03.135Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-09-29T13:19:10.621Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-09-29T13:20:40.631Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-29T13:21:00.522Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-29T13:21:00.535Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-09-29T14:06:47.184Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-29T14:06:47.598Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-29T14:07:27.949Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-09-29T14:29:24.619Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-29T14:29:24.831Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-09-29T14:30:18.943Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-09-29T14:31:16.391Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-09-29T14:31:17.966Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_APPROVED",
+      "event": "marketing_approved",
+      "at": "2026-09-29T14:31:59.035Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_APPROVED",
+      "to": "ETSY_PREPARING",
+      "event": "etsy_started",
+      "at": "2026-09-29T14:32:07.997Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-29T14:32:13.365Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "ETSY_PREPARING",
+      "event": "retry",
+      "at": "2026-09-29T15:03:04.543Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-29T15:03:12.259Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "ETSY_PREPARING",
+      "event": "retry",
+      "at": "2026-09-29T15:03:15.956Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-29T15:03:20.931Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "ETSY_PREPARING",
+      "event": "retry",
+      "at": "2026-09-29T15:20:43.232Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "ETSY_DRAFT_CREATED",
+      "event": "etsy_draft_created",
+      "at": "2026-09-29T15:20:49.495Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_CREATED",
+      "to": "ETSY_ASSETS_UPLOADING",
+      "event": "etsy_uploading",
+      "at": "2026-09-29T15:20:49.499Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_ASSETS_UPLOADING",
+      "to": "ETSY_DRAFT_VERIFYING",
+      "event": "etsy_verifying",
+      "at": "2026-09-29T15:21:38.082Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_VERIFYING",
+      "to": "AWAITING_ETSY_PUBLISH_APPROVAL",
+      "event": "etsy_draft_ready",
+      "at": "2026-09-29T15:21:39.051Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Autumn or fall colouring pages",
+    "requested_at": "2026-09-29T13:11:03.170Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "concept",
+    "summary": {
+      "style": "Adult colouring-book ink illustration with an artisanal harvest-market feel; clean monochrome drawings built from graceful organic contours and decorative botanical styling.",
+      "linework": "Fine-to-medium black outlines with a restrained variation in weight; slightly bolder exterior silhouettes and focal contours.; Crisp, confident hand-inked strokes with gently irregular handmade character; smooth curves, tidy joins and clearly enclosed colourable areas.",
+      "detail": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.",
+      "palette": "Monochrome black ink on bright white paper only. (black-and-white line art)",
+      "mood": "Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-09-29T13:11:41.654Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Autumn Botanicals: Detailed Colouring Pages",
+            "tagline": "Elegant seasonal colouring for adults",
+            "product_type": "Adult autumn colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy detailed botanical colouring",
+            "page_count": 12,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover page",
+              "11 distinct autumn botanical colouring pages",
+              "Print-at-home PDF in A4 and US Letter sizes",
+              "Printing guide"
+            ],
+            "short_description": "A refined set of 11 detailed autumn botanical colouring pages, plus an illustrated cover, for quiet seasonal creative time. The collection focuses on fallen leaves, seed heads, berries and woodland foliage rather than cosy character scenes.",
+            "key_features": [
+              "12-page printable colouring book",
+              "11 distinct botanical autumn illustrations",
+              "Detailed but clearly colourable black line art",
+              "A4 and US Letter print-ready files",
+              "Suitable for coloured pencils, pens and markers",
+              "Adult-focused seasonal designs"
+            ],
+            "visual_direction_summary": "Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.",
+            "visual_route": {
+              "primary_subject": "Autumn leaf arrangements",
+              "scene": "Layered seasonal foliage and seed-head vignettes",
+              "focal_object": "Veined maple leaf",
+              "composition": "Centred botanical clusters with open surrounding colour areas",
+              "lighting": "Not applicable; monochrome line artwork",
+              "palette_emphasis": "Black outlines on clean white paper",
+              "emotional_tone": "Calm, refined and meditative",
+              "typography_approach": "Classic serif cover title with botanical flourishes",
+              "distinguishing_visual_hook": "Interlocking leaves, berries and curling stems"
+            },
+            "preview_brief": "A portrait cover shows a large veined maple leaf centred within an elegant wreath of acorns, berries and curling stems. A classic serif title sits above the artwork, while the clean black ink linework and open shapes signal a refined adult colouring experience."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Forage & Fungi: Autumn Colouring Pages",
+            "tagline": "Woodland fungi colouring for grown-ups",
+            "product_type": "Adult woodland fungi colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy woodland, fungi and nature-themed colouring",
+            "page_count": 12,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover page",
+              "11 distinct fungi and forage colouring pages",
+              "Print-at-home PDF in A4 and US Letter sizes",
+              "Printing guide"
+            ],
+            "short_description": "An autumn woodland colouring collection with expressive mushrooms, lichen, fern fronds and foraged treasures. It is designed for adult colourists seeking natural detail and a more unusual seasonal theme than conventional pumpkins and leaf piles.",
+            "key_features": [
+              "12-page printable colouring book",
+              "11 distinct woodland fungi illustrations",
+              "Nature-led autumn theme",
+              "Detailed yet colourable black line art",
+              "A4 and US Letter print-ready files",
+              "Adult-focused seasonal designs"
+            ],
+            "visual_direction_summary": "Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.",
+            "visual_route": {
+              "primary_subject": "Woodland mushrooms",
+              "scene": "Forest-floor forage among ferns and lichen",
+              "focal_object": "Tall spotted mushroom",
+              "composition": "Hero fungi rising from a detailed ground-level cluster",
+              "lighting": "Not applicable; monochrome line artwork",
+              "palette_emphasis": "Black outlines on clean white paper",
+              "emotional_tone": "Earthy, curious and quietly magical",
+              "typography_approach": "Woodland-inspired serif title above illustrated frame",
+              "distinguishing_visual_hook": "Oversized fungi with miniature forest-floor details"
+            },
+            "preview_brief": "A portrait cover features a tall spotted mushroom as the focal point, surrounded by layered ferns, lichen, tiny berries and smaller fungi at forest-floor level. The title is set above in an earthy serif style, with precise black linework ready to colour."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Harvest Market: Autumn Colouring Pages",
+            "tagline": "A bountiful seasonal market to colour",
+            "product_type": "Adult harvest market colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy seasonal food, gardening and decorative colouring",
+            "page_count": 12,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated cover page",
+              "11 distinct harvest market colouring pages",
+              "Print-at-home PDF in A4 and US Letter sizes",
+              "Printing guide"
+            ],
+            "short_description": "A cheerful autumn harvest colouring book celebrating market crates, orchard produce, kitchen herbs and seasonal bounty. The pages offer a fresh food-and-garden route for adults who want autumn colouring without Halloween imagery or character-led scenes.",
+            "key_features": [
+              "12-page printable colouring book",
+              "11 distinct harvest and market illustrations",
+              "No Halloween imagery",
+              "Detailed food, garden and produce motifs",
+              "A4 and US Letter print-ready files",
+              "Adult-focused seasonal designs"
+            ],
+            "visual_direction_summary": "Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.",
+            "visual_route": {
+              "primary_subject": "Harvest produce",
+              "scene": "Rustic autumn market stall display",
+              "focal_object": "Overflowing apple crate",
+              "composition": "Symmetrical produce display with patterned border details",
+              "lighting": "Not applicable; monochrome line artwork",
+              "palette_emphasis": "Black outlines on clean white paper",
+              "emotional_tone": "Abundant, wholesome and celebratory",
+              "typography_approach": "Friendly hand-lettered title in a framed header",
+              "distinguishing_visual_hook": "Market crate overflowing with apples, squash and herbs"
+            },
+            "preview_brief": "A portrait cover presents an overflowing wooden crate of apples, squash, pears and herbs, arranged as a welcoming market-stall display. A hand-lettered title fills the framed header, while small decorative leaves and produce motifs complete the clean black-and-white design."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "C",
+      "selected_at": "2026-09-29T13:12:40.393Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-29T13:11:41.665Z",
+        "finished_at": "2026-09-29T13:12:14.352Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Autumn or fall colouring pages\".\nConcept \"Autumn Botanicals: Detailed Colouring Pages\": a colouring book for Adults who enjoy detailed botanical colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Autumn leaf arrangements\n- Scene: Layered seasonal foliage and seed-head vignettes\n- Focal object: Veined maple leaf\n- Composition: Centred botanical clusters with open surrounding colour areas\n- Lighting: Not applicable; monochrome line artwork\n- Palette emphasis: Black outlines on clean white paper\n- Mood: Calm, refined and meditative\n- Typography: Classic serif cover title with botanical flourishes\n- Distinguishing hook: Interlocking leaves, berries and curling stems\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Woodland mushrooms / Forest-floor forage among ferns and lichen / Tall spotted mushroom / Not applicable; monochrome line artwork\n- C: Harvest produce / Rustic autumn market stall display / Overflowing apple crate / Not applicable; monochrome line artwork\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T13:11:52.030Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Autumn or fall colouring pages\".\nConcept \"Forage & Fungi: Autumn Colouring Pages\": a colouring book for Adults who enjoy woodland, fungi and nature-themed colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Woodland mushrooms\n- Scene: Forest-floor forage among ferns and lichen\n- Focal object: Tall spotted mushroom\n- Composition: Hero fungi rising from a detailed ground-level cluster\n- Lighting: Not applicable; monochrome line artwork\n- Palette emphasis: Black outlines on clean white paper\n- Mood: Earthy, curious and quietly magical\n- Typography: Woodland-inspired serif title above illustrated frame\n- Distinguishing hook: Oversized fungi with miniature forest-floor details\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Autumn leaf arrangements / Layered seasonal foliage and seed-head vignettes / Veined maple leaf / Not applicable; monochrome line artwork\n- C: Harvest produce / Rustic autumn market stall display / Overflowing apple crate / Not applicable; monochrome line artwork\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T13:12:00.975Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Autumn or fall colouring pages\".\nConcept \"Harvest Market: Autumn Colouring Pages\": a colouring book for Adults who enjoy seasonal food, gardening and decorative colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Harvest produce\n- Scene: Rustic autumn market stall display\n- Focal object: Overflowing apple crate\n- Composition: Symmetrical produce display with patterned border details\n- Lighting: Not applicable; monochrome line artwork\n- Palette emphasis: Black outlines on clean white paper\n- Mood: Abundant, wholesome and celebratory\n- Typography: Friendly hand-lettered title in a framed header\n- Distinguishing hook: Market crate overflowing with apples, squash and herbs\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Autumn leaf arrangements / Layered seasonal foliage and seed-head vignettes / Veined maple leaf / Not applicable; monochrome line artwork\n- B: Woodland mushrooms / Forest-floor forage among ferns and lichen / Tall spotted mushroom / Not applicable; monochrome line artwork\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-29T13:12:14.347Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Harvest Market",
+      "concept": "A welcoming illustrated title cover centred on an abundant market crate.",
+      "instructions": null,
+      "artwork_description": "A framed hand-lettered header reads “HARVEST MARKET” with the smaller subtitle “Autumn Colouring Pages”. Beneath it, a symmetrical wooden crate overflows with apples, pears, small squash, beetroot, carrots and tied herb bundles. Curving oak leaves, acorns and small berry sprigs create an airy border.",
+      "generation_prompt": "Colouring-book cover with exact header text “HARVEST MARKET” and smaller subtitle “Autumn Colouring Pages”; centred rustic wooden market crate overflowing with apples, pears, small squash, beetroot, carrots and tied herb bundles; symmetrical stable display; airy border of oak leaves, acorns, berry sprigs and small produce motifs; leave the title lettering clear, legible and spacious.",
+      "production_notes": "Verify all cover text exactly: “HARVEST MARKET” and “Autumn Colouring Pages”. Keep the crate and each item fully enclosed for optional colouring; do not use logos, labels or Halloween motifs."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Apple Crate Abundance",
+      "concept": "The signature overflowing apple crate market display.",
+      "instructions": null,
+      "artwork_description": "A large slatted wooden crate is piled high with 18 clearly distinct apples, with three pears, two small squash and two herb bundles tucked around it. Apple branches and scattered leaves form a restrained decorative frame; woodgrain and leaf veins add colourable texture.",
+      "generation_prompt": "Centred slatted wooden market crate overflowing with exactly 18 distinct apples; exactly three pears, two small squash and two tied herb bundles arranged around the crate; sparse apple branches and fallen leaves framing the display; open woodgrain on crate slats, simple apple stems and leaf-vein details; no wording.",
+      "production_notes": "Count check: 18 apples, 3 pears, 2 squash and 2 herb bundles. Ensure each apple remains visually separate rather than merging into an indistinct pile."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Pumpkin and Squash Stall",
+      "concept": "An orderly seasonal squash display with decorative variety.",
+      "instructions": null,
+      "artwork_description": "A three-tier wooden market stand holds eight different pumpkins and squash: ribbed pumpkin, butternut squash, acorn squash, delicata squash, pattypan squash, spaghetti squash, kabocha squash and a small round gourd. Twining vine leaves and blossoms curl lightly around the stand.",
+      "generation_prompt": "Three-tier wooden market stand displaying exactly eight visibly different autumn pumpkins and squash: one ribbed pumpkin, one butternut squash, one acorn squash, one delicata squash, one pattypan squash, one spaghetti squash, one kabocha squash and one small round gourd; gentle curling vines, leaves and a few blossoms around the stand; each vegetable clearly separated; no wording.",
+      "production_notes": "Variety check: all 8 named squash types must have recognisably different silhouettes. Avoid an overcrowded stand and retain broad colourable sections on the vegetables."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Orchard Harvest Basket",
+      "concept": "A woven basket of orchard fruit beneath a graceful apple branch.",
+      "instructions": null,
+      "artwork_description": "A round woven basket filled with apples, pears and plums sits on a simple checked cloth. Above it, an arching apple branch bears fruit and leaves. Two small baskets of fallen fruit and a few meadow stems create a balanced low-density setting.",
+      "generation_prompt": "Large round woven orchard basket filled with apples, pears and plums resting on a simple checked cloth; one arching apple tree branch overhead bearing fruit and leaves; two small side baskets of fallen fruit, a few meadow stems and scattered leaves; woven texture should be open and colourable; no wording.",
+      "production_notes": "Keep the checked cloth pattern broad and regular, not dense. Confirm the central basket remains the immediate focal object."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Herb Market Bundles",
+      "concept": "An elegant apothecary-style arrangement of kitchen herbs.",
+      "instructions": null,
+      "artwork_description": "Five labelled-looking but blank paper-wrapped herb bundles—rosemary, sage, thyme, parsley and lavender—hang from a simple wooden rail. Small botanical sprigs, seed heads and a terracotta pot sit below; the paper tags are intentionally blank, without printed names.",
+      "generation_prompt": "Five distinct tied kitchen-herb bundles hanging from a simple wooden rail: rosemary, sage, thyme, parsley and lavender, each with a blank paper tag and visible characteristic leaf shapes; small terracotta pot, seed heads and botanical sprigs below; balanced vertical composition; no lettering on tags.",
+      "production_notes": "Use blank tags only to avoid illegible generated text. Ensure five distinct bundles and visually differentiable herb foliage; keep hanging strings and rail lines clean."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Root Vegetable Barrow",
+      "concept": "A garden wheelbarrow brimming with freshly gathered roots.",
+      "instructions": null,
+      "artwork_description": "A vintage garden wheelbarrow holds carrots, beetroot, parsnips, turnips and leeks, each with leafy tops. A small hand trowel and gardening gloves rest nearby, while loose leaves and tiny seedheads form a quiet ground-level frame.",
+      "generation_prompt": "Vintage garden wheelbarrow full of carrots, beetroot, parsnips, turnips and leeks with leafy tops; small hand trowel and pair of gardening gloves placed beside the wheelbarrow; a few loose autumn leaves and delicate seedheads around the base; root vegetables clearly distinguishable and enclosed; no wording.",
+      "production_notes": "Avoid solid dark areas inside the wheelbarrow. Keep the wheel, handles and vegetable contours well separated for easy colouring."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Late Harvest Table",
+      "concept": "A refined still life of seasonal food laid for market tasting.",
+      "instructions": null,
+      "artwork_description": "A rustic table holds a round loaf of bread, a small bowl of apples, a pitcher of dried wheat, a jar of honey with a dipper, two pears, a folded napkin and a cluster of grapes. A lightly patterned table runner anchors the composition, with a narrow leaf garland above.",
+      "generation_prompt": "Rustic harvest table still life: one round loaf of bread, one small bowl of apples, one pitcher holding dried wheat stems, one jar of honey with honey dipper, exactly two pears, folded napkin and one grape cluster; lightly patterned table runner; narrow leaf garland above; clear central arrangement; no wording.",
+      "production_notes": "Count check: exactly 2 pears. Honey jar must be unbranded and unlabelled. Keep the table runner pattern simple enough to colour."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Sunflower Market Bucket",
+      "concept": "A bright flower-and-produce pairing for late autumn colour.",
+      "instructions": null,
+      "artwork_description": "A tall ribbed market bucket holds seven sunflower heads, five small asters and leafy stems. Beside it are three mini pumpkins and a shallow woven tray of seed pods. A few petals and leaves make a gentle oval frame around the composition.",
+      "generation_prompt": "Tall ribbed market bucket holding exactly seven sunflower heads, exactly five small aster flowers and leafy stems; exactly three mini pumpkins beside the bucket; shallow woven tray of seed pods; scattered petals and leaves forming a gentle oval frame; no wording.",
+      "production_notes": "Count check: 7 sunflowers, 5 asters, 3 mini pumpkins. Show every sunflower face as a simple floral centre, not a face or character; keep seed-head texture open."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Cider Press Harvest",
+      "concept": "A traditional hand cider press surrounded by orchard fruit.",
+      "instructions": null,
+      "artwork_description": "A compact wooden hand cider press with a turning handle stands at centre, flanked by two open baskets of apples. A glass bottle and two plain tumblers sit in front, with apple branches and falling leaves creating a sparse arch overhead. No branding or written labels appear.",
+      "generation_prompt": "Compact traditional wooden hand cider press at centre with turning handle; two open baskets of apples, one on each side; plain glass bottle and exactly two unlabelled tumblers in front; apple branches and falling leaves forming a sparse arch overhead; no lettering, labels or branding.",
+      "production_notes": "Count check: exactly 2 tumblers. Make the cider press mechanically readable but not technical or cluttered; all bottle and glass outlines must be clear and closed."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Mushroom and Woodland Basket",
+      "concept": "A restrained woodland-forage market basket without fantasy imagery.",
+      "instructions": null,
+      "artwork_description": "A low wicker basket contains assorted edible-looking mushrooms with varied caps, chestnuts and a folded linen cloth. Fern fronds, oak leaves, acorns and a few tiny mushrooms create a botanical frame. The scene is naturalistic and decorative, with no creatures, faces or magical elements.",
+      "generation_prompt": "Low wicker forage basket containing assorted mushrooms with varied cap shapes, chestnuts and folded linen cloth; surrounding fern fronds, oak leaves, acorns and a few small mushrooms create a light botanical frame; natural harvest-market still life, no creatures, faces, fantasy symbols or wording.",
+      "production_notes": "Do not depict toxic-identification claims or labels. Keep mushroom gills, caps and basket weave moderately detailed with broad colourable spaces."
+    },
+    {
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "Cornucopia of Garden Bounty",
+      "concept": "A classic abundance arrangement with a calm, elegant profile.",
+      "instructions": null,
+      "artwork_description": "A woven cornucopia lies on its side and spills out apples, pears, grapes, corn, carrots, beetroot, leaves and small squash. Tall wheat stems rise behind the horn, while a simple repeating leaf-and-berry border occupies only the lower corners.",
+      "generation_prompt": "Woven cornucopia lying on its side, spilling apples, pears, grape clusters, corn cobs, carrots, beetroot, leaves and small squash; tall wheat stems rising behind the horn; restrained repeating leaf-and-berry motifs only in the two lower corners; graceful balanced abundance arrangement; no wording.",
+      "production_notes": "Ensure the horn opening and every food item have unambiguous enclosed outlines. Lower-corner border must not crowd the spilled produce."
+    },
+    {
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "Harvest Market Stall",
+      "concept": "A grand closing market-stall scene with the full seasonal bounty.",
+      "instructions": null,
+      "artwork_description": "A symmetrical open-air market stall with a striped canopy displays produce in six wooden crates: apples, pears, pumpkins, carrots, beetroot and leafy greens. Herb bundles hang at each side, and a simple blank oval sign hangs beneath the canopy. Leaves and wheat sprigs frame the upper corners.",
+      "generation_prompt": "Symmetrical open-air autumn market stall with a simple striped canopy; six clearly separate wooden produce crates displaying, from left to right, apples, pears, pumpkins, carrots, beetroot and leafy greens; one tied herb bundle hanging on each side; blank oval sign beneath canopy; leaves and wheat sprigs framing upper corners; no text on the sign.",
+      "production_notes": "Final-page composition check: exactly 6 distinct crates in the stated left-to-right order, plus 2 hanging herb bundles. Keep the oval sign blank to avoid generated misspellings. Include no people, characters, Halloween imagery or branded signage."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 2,
+        "role": "main-style",
+        "reason": "First illustration-led page (colouring): sets the core illustration style."
+      },
+      {
+        "page_number": 3,
+        "role": "different-composition",
+        "reason": "A different page type (colouring) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 12,
+        "role": "consistency-check",
+        "reason": "A later page (colouring, p12) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-09-29T13:13:45.107Z",
+        "finished_at": "2026-09-29T13:14:22.402Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 2,
+            "prompt": "Original adult colouring-book illustration in crisp hand-inked black line art on clean white paper; elegant organic contours, fine-to-medium varied outlines, slightly bolder focal silhouettes, and softly handmade yet precise line quality. Use moderately detailed, open colourable forms with selective botanical texture, sparse hatching and delicate repeat patterns; no grey shading, gradients or solid fills. Maintain a calm central hierarchy, balanced decorative framing, generous breathing room and an artisanal, abundant seasonal mood. High-contrast, home-print-friendly monochrome artwork.\n\nSTYLE PARAMETERS: illustration style: Adult colouring-book ink illustration with an artisanal harvest-market feel; clean monochrome drawings built from graceful organic contours and decorative botanical styling.; line weight: Fine-to-medium black outlines with a restrained variation in weight; slightly bolder exterior silhouettes and focal contours.; line quality: Crisp, confident hand-inked strokes with gently irregular handmade character; smooth curves, tidy joins and clearly enclosed colourable areas.; detail level: Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.; background density: Light to moderate. Supporting details form airy frames, borders or small clusters around the central motif, never filling every gap or competing with the focal area.; composition: Clear central hierarchy with one immediately readable focal grouping; balanced, stable arrangements; decorative elements guide the eye inward; purposeful white space and optional calm header space for titles.; palette: Monochrome black ink on bright white paper only.; colour mode: black-and-white line art; shading: No grey fills, gradients or solid black shadow masses. Suggest depth through sparse contour lines, selective hatching and simple repeating textures only.; texture: Subtle hand-drawn organic texture through vein lines, woodgrain-like marks, gentle stippling and small repeat motifs; keep all textures open and colourable.; mood: Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment..\n\nPAGE 2 of \"Harvest Market: Autumn Colouring Pages\" (colouring): Centred slatted wooden market crate overflowing with exactly 18 distinct apples; exactly three pears, two small squash and two tied herb bundles arranged around the crate; sparse apple branches and fallen leaves framing the display; open woodgrain on crate slats, simple apple stems and leaf-vein details; no wording.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each page uses a comfortable clear outer margin, with a single calm harvest-market focal composition and open enclosed areas for relaxed adult colouring. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any Halloween, spooky, occult or horror imagery; Characters, faces or anthropomorphic objects; Photorealism, colour, grey wash, gradients or painted shading; Dense clutter, tiny inaccessible details or heavily inked black areas; Trademarked packaging, recognisable logos, branded labels or copied market signage; Copied compositions or distinctive artwork from existing colouring books; Misspelled, distorted or illegible text; Uneven broken outlines, muddy intersections or unclosed colourable shapes.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T13:13:57.291Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 3,
+            "prompt": "Original adult colouring-book illustration in crisp hand-inked black line art on clean white paper; elegant organic contours, fine-to-medium varied outlines, slightly bolder focal silhouettes, and softly handmade yet precise line quality. Use moderately detailed, open colourable forms with selective botanical texture, sparse hatching and delicate repeat patterns; no grey shading, gradients or solid fills. Maintain a calm central hierarchy, balanced decorative framing, generous breathing room and an artisanal, abundant seasonal mood. High-contrast, home-print-friendly monochrome artwork.\n\nSTYLE PARAMETERS: illustration style: Adult colouring-book ink illustration with an artisanal harvest-market feel; clean monochrome drawings built from graceful organic contours and decorative botanical styling.; line weight: Fine-to-medium black outlines with a restrained variation in weight; slightly bolder exterior silhouettes and focal contours.; line quality: Crisp, confident hand-inked strokes with gently irregular handmade character; smooth curves, tidy joins and clearly enclosed colourable areas.; detail level: Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.; background density: Light to moderate. Supporting details form airy frames, borders or small clusters around the central motif, never filling every gap or competing with the focal area.; composition: Clear central hierarchy with one immediately readable focal grouping; balanced, stable arrangements; decorative elements guide the eye inward; purposeful white space and optional calm header space for titles.; palette: Monochrome black ink on bright white paper only.; colour mode: black-and-white line art; shading: No grey fills, gradients or solid black shadow masses. Suggest depth through sparse contour lines, selective hatching and simple repeating textures only.; texture: Subtle hand-drawn organic texture through vein lines, woodgrain-like marks, gentle stippling and small repeat motifs; keep all textures open and colourable.; mood: Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment..\n\nPAGE 3 of \"Harvest Market: Autumn Colouring Pages\" (colouring): Three-tier wooden market stand displaying exactly eight visibly different autumn pumpkins and squash: one ribbed pumpkin, one butternut squash, one acorn squash, one delicata squash, one pattypan squash, one spaghetti squash, one kabocha squash and one small round gourd; gentle curling vines, leaves and a few blossoms around the stand; each vegetable clearly separated; no wording.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each page uses a comfortable clear outer margin, with a single calm harvest-market focal composition and open enclosed areas for relaxed adult colouring. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any Halloween, spooky, occult or horror imagery; Characters, faces or anthropomorphic objects; Photorealism, colour, grey wash, gradients or painted shading; Dense clutter, tiny inaccessible details or heavily inked black areas; Trademarked packaging, recognisable logos, branded labels or copied market signage; Copied compositions or distinctive artwork from existing colouring books; Misspelled, distorted or illegible text; Uneven broken outlines, muddy intersections or unclosed colourable shapes.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T13:14:08.958Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 12,
+            "prompt": "Original adult colouring-book illustration in crisp hand-inked black line art on clean white paper; elegant organic contours, fine-to-medium varied outlines, slightly bolder focal silhouettes, and softly handmade yet precise line quality. Use moderately detailed, open colourable forms with selective botanical texture, sparse hatching and delicate repeat patterns; no grey shading, gradients or solid fills. Maintain a calm central hierarchy, balanced decorative framing, generous breathing room and an artisanal, abundant seasonal mood. High-contrast, home-print-friendly monochrome artwork.\n\nSTYLE PARAMETERS: illustration style: Adult colouring-book ink illustration with an artisanal harvest-market feel; clean monochrome drawings built from graceful organic contours and decorative botanical styling.; line weight: Fine-to-medium black outlines with a restrained variation in weight; slightly bolder exterior silhouettes and focal contours.; line quality: Crisp, confident hand-inked strokes with gently irregular handmade character; smooth curves, tidy joins and clearly enclosed colourable areas.; detail level: Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring.; background density: Light to moderate. Supporting details form airy frames, borders or small clusters around the central motif, never filling every gap or competing with the focal area.; composition: Clear central hierarchy with one immediately readable focal grouping; balanced, stable arrangements; decorative elements guide the eye inward; purposeful white space and optional calm header space for titles.; palette: Monochrome black ink on bright white paper only.; colour mode: black-and-white line art; shading: No grey fills, gradients or solid black shadow masses. Suggest depth through sparse contour lines, selective hatching and simple repeating textures only.; texture: Subtle hand-drawn organic texture through vein lines, woodgrain-like marks, gentle stippling and small repeat motifs; keep all textures open and colourable.; mood: Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment..\n\nPAGE 12 of \"Harvest Market: Autumn Colouring Pages\" (colouring): Symmetrical open-air autumn market stall with a simple striped canopy; six clearly separate wooden produce crates displaying, from left to right, apples, pears, pumpkins, carrots, beetroot and leafy greens; one tied herb bundle hanging on each side; blank oval sign beneath canopy; leaves and wheat sprigs framing upper corners; no text on the sign.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each page uses a comfortable clear outer margin, with a single calm harvest-market focal composition and open enclosed areas for relaxed adult colouring. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any Halloween, spooky, occult or horror imagery; Characters, faces or anthropomorphic objects; Photorealism, colour, grey wash, gradients or painted shading; Dense clutter, tiny inaccessible details or heavily inked black areas; Trademarked packaging, recognisable logos, branded labels or copied market signage; Copied compositions or distinctive artwork from existing colouring books; Misspelled, distorted or illegible text; Uneven broken outlines, muddy intersections or unclosed colourable shapes.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-29T13:14:22.397Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "c60a40131f36",
+    "keyboard_message_ids": [
+      240,
+      245,
+      250,
+      258,
+      261,
+      262,
+      276,
+      279,
+      280,
+      281,
+      282
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2592,
+        "input_tokens_details": {
+          "cache_write_tokens": 2589,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1714,
+        "output_tokens_details": {
+          "reasoning_tokens": 471
+        },
+        "total_tokens": 4306
+      },
+      "at": "2026-09-29T13:11:11.480Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 411,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 411
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 569
+      },
+      "at": "2026-09-29T13:11:41.670Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 416,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 416
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 574
+      },
+      "at": "2026-09-29T13:11:52.036Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 415,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 415
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 573
+      },
+      "at": "2026-09-29T13:12:00.984Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2693,
+        "input_tokens_details": {
+          "cache_write_tokens": 2690,
+          "cached_tokens": 0
+        },
+        "output_tokens": 578,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3271
+      },
+      "at": "2026-09-29T13:12:40.675Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2386,
+        "input_tokens_details": {
+          "cache_write_tokens": 2383,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2647,
+        "output_tokens_details": {
+          "reasoning_tokens": 140
+        },
+        "total_tokens": 5033
+      },
+      "at": "2026-09-29T13:12:55.586Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 684,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 684
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1027
+      },
+      "at": "2026-09-29T13:13:45.112Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 701,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 701
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1044
+      },
+      "at": "2026-09-29T13:13:57.298Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 692,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 692
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1035
+      },
+      "at": "2026-09-29T13:14:08.964Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 906,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 906
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1249
+      },
+      "at": "2026-09-29T13:15:34.482Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 850,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 850
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1193
+      },
+      "at": "2026-09-29T13:15:47.886Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 861,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 861
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1204
+      },
+      "at": "2026-09-29T13:16:00.158Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 861,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 861
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1204
+      },
+      "at": "2026-09-29T13:16:12.537Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 873,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 873
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1216
+      },
+      "at": "2026-09-29T13:16:24.887Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 854,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 854
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1197
+      },
+      "at": "2026-09-29T13:16:38.456Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 860,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 860
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1203
+      },
+      "at": "2026-09-29T13:16:52.817Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 858,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 858
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1201
+      },
+      "at": "2026-09-29T13:17:07.261Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 859,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 859
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1202
+      },
+      "at": "2026-09-29T13:17:25.665Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 4715,
+        "input_tokens_details": {
+          "cache_write_tokens": 4712,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1883,
+        "output_tokens_details": {
+          "reasoning_tokens": 946
+        },
+        "total_tokens": 6598
+      },
+      "at": "2026-09-29T14:06:50.538Z",
+      "outcome": "rejected",
+      "error": "InvalidModelOutputError: listing: rejected: description: \"one page\" (production has 12 pages (11 colouring pages))"
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 5172,
+        "input_tokens_details": {
+          "cache_write_tokens": 5169,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2209,
+        "output_tokens_details": {
+          "reasoning_tokens": 1269
+        },
+        "total_tokens": 7381
+      },
+      "at": "2026-09-29T14:29:25.455Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-copy",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2557,
+        "input_tokens_details": {
+          "cache_write_tokens": 2554,
+          "cached_tokens": 0
+        },
+        "output_tokens": 384,
+        "output_tokens_details": {
+          "reasoning_tokens": 210
+        },
+        "total_tokens": 2941
+      },
+      "at": "2026-09-29T14:30:10.833Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 261,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 261
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 700
+      },
+      "at": "2026-09-29T14:30:18.949Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 245,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 245
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 684
+      },
+      "at": "2026-09-29T14:30:29.498Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-example",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1684,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 148
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 2027
+      },
+      "at": "2026-09-29T14:30:42.518Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-09-29T13:15:24.297Z",
+  "created_at": "2026-09-29T13:11:03.170Z",
+  "updated_at": "2026-09-29T15:22:50.001Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Each page uses a comfortable clear outer margin, with a single calm harvest-market focal composition and open enclosed areas for relaxed adult colouring."
+  },
+  "book": {
+    "version": 1,
+    "manifest": {
+      "file": "book/manifest.json",
+      "sha256": "ff0df0c1b6740b337966ab5eca268d93548b26e41365cc9ca708c87b3cdfb9ab",
+      "created_at": "2026-09-29T13:15:34.446Z"
+    },
+    "size": "1024x1536",
+    "model": "gpt-image-2.5-flare",
+    "quality": "medium",
+    "pages": [
+      {
+        "page_id": "P001",
+        "page_number": 1,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P001.png",
+        "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:15:47.870Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P002",
+        "page_number": 2,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "file": "book/pages/P002.png",
+        "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:13:57.291Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P003",
+        "page_number": 3,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "file": "book/pages/P003.png",
+        "sha256": "a9b27e027d4b3961f23d5f05f0ae65b55f2efb73614fe8db3943641ac5bc798b",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:14:08.958Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P004",
+        "page_number": 4,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P004.png",
+        "sha256": "71904616e56513b94c3149bd31eb3c98b0783cac3614d6b1abf5e6092b0a6e4f",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:16:00.143Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P005",
+        "page_number": 5,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P005.png",
+        "sha256": "2a8234550fc2bf564fc0cb70729f83cf4df9eae32f8c9f39933b7c55ea98f93c",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:16:12.521Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P006",
+        "page_number": 6,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P006.png",
+        "sha256": "c38b625e27c502a46b3e08db7c7ed7f2cb3c865a9f8dc50921ff14d513025980",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:16:24.872Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P007",
+        "page_number": 7,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P007.png",
+        "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:16:38.440Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P008",
+        "page_number": 8,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P008.png",
+        "sha256": "59f390f660fb31c738f8c0795220780dd1e7e556e134951c9bc1c1979b28947c",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:16:52.794Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P009",
+        "page_number": 9,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P009.png",
+        "sha256": "9b33ae03085de4d2d2df8a75cac74a752e3e80fc4fbbeb9ff733d77098f8bf0d",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:17:07.247Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P010",
+        "page_number": 10,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P010.png",
+        "sha256": "af20f2d7b76cb95eb60c2eb90afb2ef48e81ad8d1d502e0e69ddbe294a503017",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:17:25.648Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P011",
+        "page_number": 11,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P011.png",
+        "sha256": "a5b3190fe3226b1c7f02e54916002854610b4904351015f637edb0838e878c80",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:17:37.086Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P012",
+        "page_number": 12,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "file": "book/pages/P012.png",
+        "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-09-29T13:14:22.397Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      }
+    ],
+    "generation": {
+      "status": "complete",
+      "started_at": "2026-09-29T13:15:34.471Z",
+      "finished_at": "2026-09-29T13:17:39.117Z",
+      "error": null
+    },
+    "qc": {
+      "passed": true,
+      "report": "book/qc.json",
+      "sha256": "a1f1760ab03254ed940bd2e919b330e92ea9577a3c47c63c85477734464f48bf",
+      "fingerprint": "b105f4bf935be8f4637fc04177c8b88a35a9f7ed7f4ad1bf54f4112a7c156b24",
+      "at": "2026-09-29T13:17:39.117Z",
+      "warnings": 0,
+      "failed_pages": []
+    },
+    "pending_op": null,
+    "pending_page": null,
+    "direction_notes": [],
+    "reuse": [
+      {
+        "page_number": 2,
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 3,
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 12,
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "reused": true,
+        "reason": null
+      }
+    ],
+    "approval": {
+      "approved_at": "2026-09-29T13:18:24.883Z",
+      "by": "@romg_o",
+      "manifest_sha256": "ff0df0c1b6740b337966ab5eca268d93548b26e41365cc9ca708c87b3cdfb9ab",
+      "pages_sha256": "b105f4bf935be8f4637fc04177c8b88a35a9f7ed7f4ad1bf54f4112a7c156b24",
+      "qc_sha256": "a1f1760ab03254ed940bd2e919b330e92ea9577a3c47c63c85477734464f48bf"
+    }
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "6a1f552dd4eea178f4d15474ba183dc0b0758d9ca8184e768dcc491159461f6f"
+    },
+    "adapter": {
+      "format": "colouring-book",
+      "version": 1
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "35dd820e26d791937955636dbb69643a7dbc54cca38aa20e913b5217ceb76546",
+      "built_at": "2026-09-29T13:19:03.135Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-09-29T13:19:03.139Z"
+    },
+    "approved_at": "2026-09-29T13:20:40.631Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "74201cfe6f9c3b9b6abc2440b247208ca55e7ab1595edacf57cb3053f1d45df9"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "ca258eed6da35fcef68f1d7154012633ed847a2a9debfa1ca9592c3d011d3f38"
+    },
+    "images": {
+      "count": 10,
+      "dir": "marketing/images",
+      "digest": "7a664d1b0db0ba5cbd5d676da317263dd37d15022bac3ae59867ec5a6bb76009"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-09-29T14:31:17.963Z"
+    },
+    "pending_scope": null,
+    "approved_at": "2026-09-29T14:31:59.035Z",
+    "engine": "factory",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-09-29T14:06:50.530Z"
+    }
+  },
+  "etsy": {
+    "mode": "live",
+    "listing_id": 4585061341,
+    "shop_id": 46520279,
+    "payload_sha256": "da93e7f9b6c41d540d1beca164ed377fbe46c227f893a632ed14c7faea3007e2",
+    "verification": {
+      "passed": true,
+      "fingerprint": "2d7d192411f440fb50f3bf93eb6595055d75b20447dcb8cd4d44fd1d33ac0405",
+      "at": "2026-09-29T15:21:39.049Z"
+    },
+    "publish_request": null,
+    "published_at": null,
+    "listing_url": null
+  }
+}

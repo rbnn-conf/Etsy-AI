@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "product_id": "024",
+  "product_name": "Little Halloween Costume Accessories",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Crochet Pattern Bundle | Halloween Accessories, 3 Easy Patterns, Instant Digital Download",
+    "description": "Bring a little moonlit mischief to your crochet time with three small Halloween accessories to make. This eerie, gentle collection invites you to settle in with yarn, a hook and a few satisfying stitches. 🌙\n\nLittle Halloween Costume Accessories brings together a hair accessory, brooch and bag charm in a calm seasonal palette. The patterns use US crochet terms and step-by-step written instructions, giving you a focused way to make a coordinated set of little Halloween details.\n\nInside the collection\n\nThe Moonlit Bat Hair Clip creates a black bat motif with embroidered white eyes, measuring about 7 cm wide excluding the clip. It adds a mysterious finishing touch to a Halloween look.\n\nThe Lavender Witch-Hat Brooch makes a lavender hat and brim motif, about 6 cm wide and 6 cm tall. Its small scale makes it a lovely project for an unhurried evening of crochet. 🧶\n\nYou will also receive the Candy-Corn Bag Charm pattern, plus a Little Halloween Accessory Set combination idea to bring the three pieces together.\n\nWhat you receive\n\n• 3 crochet patterns\n• 15-page complete collection PDF\n• Each pattern supplied as its own PDF\n• A4 and US Letter print formats\n• US crochet terminology\n• Step-by-step written instructions\n• Pattern index\n• Materials and tools reference\n• Abbreviations reference\n• Printing and crochet guide\n• 1 Little Halloween Accessory Set combination idea\n\nHow it works\n\nDownload the files instantly, choose a pattern, consult the materials and tools reference, then print in your preferred format if you wish. Gather your own yarn and hook, and follow the written instructions as you crochet.\n\nMake one piece for a quiet seasonal project, or work through the trio for handmade gifts and a touch of mysterious Halloween atmosphere. Let the next small stitch lead the way. ✨\n\nThis is a digital download delivered as 4 ZIP files of PDF files. No physical item is shipped. No yarn, hook or kit is included.",
+    "tags": [
+      "crochet pattern pdf",
+      "halloween crochet",
+      "easy crochet pattern",
+      "crochet accessories",
+      "bat hair accessory",
+      "witch hat brooch",
+      "candy corn charm",
+      "spooky crochet",
+      "fall crochet project",
+      "us terms crochet",
+      "a4 crochet pattern",
+      "us letter pattern",
+      "instant download"
+    ],
+    "materials": [
+      "Digital PDF patterns",
+      "ZIP download",
+      "A4 print format",
+      "US Letter format",
+      "US crochet terms",
+      "Printing crochet guide",
+      "Pattern index",
+      "Materials tools reference",
+      "Abbreviations reference"
+    ],
+    "price": {
+      "amount": 6.99,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 6343,
+      "path": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints",
+      "source": "owner-approved crochet-pattern-bundle mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints"
+    }
+  },
+  "properties": {
+    "apply": [],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Halloween",
+        "reason": "\"Halloween\" is not one of Etsy's values for Occasion"
+      },
+      {
+        "field": "primary_colour",
+        "value": "Black",
+        "reason": "no such property for this category"
+      },
+      {
+        "field": "secondary_colour",
+        "value": "Purple",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "70d23e9062c1fc1ba4c793fab46645e8bdef0db6a546b15dd71bbd56b73b6b47",
+      "bytes": 3171572,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "d6a1c126f623ef315655252f1b53bd9a0e35ee8d16497796f9333fc76145580f",
+      "bytes": 1143992,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "44feb55b334e908cc245c68aea7e3f7b99395009d6f7fb6f57e6526e8bc3b7e9",
+      "bytes": 1195604,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-index.png",
+      "sha256": "3d87eba2c31fd4be7893c2a21b1b483c813d8ed2a3f09da08a73cf889a526f9e",
+      "bytes": 856161,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-included.png",
+      "sha256": "5c0280d3a40920611bf8348c62e4c1bf5fa7aa0d9066bcdb2ae302c014c65ae0",
+      "bytes": 1131376,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-printable.png",
+      "sha256": "c0f66f1ab2ed3fac21cc0b39bd1a98e180e60ff180c3495110b0b8cdfff2580f",
+      "bytes": 829447,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-lifestyle.png",
+      "sha256": "ff3f313d3dc524c7458e52f67d87ffa12bb8daa9295f0761f01a31f51c1f4414",
+      "bytes": 3442783,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-bundle.png",
+      "sha256": "225f9f8f3f94918b4323886868842c9fe5a476e3c142dbcaae3e6f7b59b3764a",
+      "bytes": 1463668,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Little-Halloween-Costume-Accessories-A4.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-A4.zip",
+      "sha256": "73636958c22a45840db441f19fa485a1ab673e71d9e834e941773a7b111bbe31",
+      "bytes": 15289426
+    },
+    {
+      "rank": 2,
+      "name": "Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip",
+      "sha256": "4a7e2c0428e6df7b55f2f4b409ca83088ac652b77a7bcc3f4c21266695389976",
+      "bytes": 6893904
+    },
+    {
+      "rank": 3,
+      "name": "Little-Halloween-Costume-Accessories-US-Letter.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-US-Letter.zip",
+      "sha256": "6472da812d9d42852a3a5c42ad02882291e84fcdd31ac6ecc544a4b22ee9c893",
+      "bytes": 15262141
+    },
+    {
+      "rank": 4,
+      "name": "Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip",
+      "file": "etsy/delivery/Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip",
+      "sha256": "6e447d1da5b8fff71115d1644c5258b7a1142f615b5c6f7bf67a3f3fa9534ad6",
+      "bytes": 6894835
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "35885f0c80956d4424e663bd02bc8c441f50a0829b18973cd24046c44cb0cf70",
+    "stage3_fingerprint": "986c3d0f610c28b1d0659c99d4009e449d4e9630efb375534f99b49a98774729",
+    "listing_sha256": "3c5ee7d365d5b38949e95ccc693d93fe59b94b97ee96d5ca92c132b00123cea0",
+    "delivery_sha256": "7e436f0ac45d67d9aeb787e355084b07455cee8dc59b3339a8a6cf87e054e4e3",
+    "marketing_approved_at": "2026-10-08T00:00:37.086Z"
+  },
+  "payload_sha256": "7ae566498e9f8e25125bba2eae8144ca81e95aeb4862bd5adcf98bbc3f879683",
+  "prepared_at": "2026-10-08T00:00:45.683Z"
+}

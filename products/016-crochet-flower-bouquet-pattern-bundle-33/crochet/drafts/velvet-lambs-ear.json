@@ -1,0 +1,98 @@
+{
+  "pattern_id": "velvet-lambs-ear",
+  "name": "Velvet Lamb's Ear",
+  "category": "foliage",
+  "difficulty": "beginner",
+  "finished_size": "About 12 cm long per leaf; 18 cm overall.",
+  "yarn": [
+    {
+      "description": "Soft brushed wool-blend yarn for leaves and stem",
+      "colour": "Sage green",
+      "amount": "About 15 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "rnds": "rounds",
+    "MR": "magic ring",
+    "FO": "fasten off"
+  },
+  "gauge": "Gauge is not critical; it affects the finished leaf length and fullness.",
+  "instructions": [
+    {
+      "heading": "Leaves (make 2)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Ch 31. Sc in second ch from hook and next 2 ch, hdc in next 3 ch, dc in next 23 ch, 5 dc in last ch. Working along the opposite side of the foundation ch, dc in next 23 ch, hdc in next 3 ch, sc in next 3 ch; join with sl st to first sc.",
+          "stitch_count": 63
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, sc in each st around; join with sl st to first sc. FO, leaving a 20 cm tail for assembly.",
+          "stitch_count": 63
+        }
+      ]
+    },
+    {
+      "heading": "Stem",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make 5 sc in MR. Place a stitch marker in the first sc and work in continuous rnds.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnds 2-24",
+          "text": "Sc in each st around. Move the stitch marker to the first sc of each rnd.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Finish",
+          "text": "FO, leaving a 20 cm tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Lay the narrow sc end of each leaf against opposite sides of the top of the stem, overlapping each leaf base by about one centimetre. Angle the leaf tips outward in opposite directions.",
+    "Use each leaf tail to sew through the six edge sc nearest its base and through the top two stem rnds. Stitch back through the leaf base, pull firmly, and secure the tail inside the stem tube."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining active yarn securely after assembly.",
+    "Weave in all yarn tails inside the stem tube or along the leaf edges, keeping the visible leaf surfaces smooth.",
+    "Lightly steam-block the leaves without pressing the brushed texture flat. Shape each leaf into a soft, shallow curve and allow it to dry completely."
+  ],
+  "notes": [
+    "Working around both sides of the foundation chain creates a subtle central ridge on each leaf.",
+    "For fuller foliage, make additional leaves and attach them along the stem using the same joining method."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

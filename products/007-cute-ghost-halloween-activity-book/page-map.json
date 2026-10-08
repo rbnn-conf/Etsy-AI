@@ -1,0 +1,221 @@
+{
+  "product": "007",
+  "handoffId": "006",
+  "pageCount": 30,
+  "pages": [
+    {
+      "id": "P001",
+      "source": "01_cute_ghost_halloween_activity_book.png",
+      "title": "Cute Ghost Halloween cover",
+      "activity": "cover",
+      "sha256": "b90a96c096398bdfb8c6096e9805961d707c3714a11add2178aa32d5e83682d0",
+      "reviewNote": "Full-colour cover; artwork text reads \"30 FUN ACTIVITIES\" (30 pages = cover + 28 activities + certificate)."
+    },
+    {
+      "id": "P002",
+      "source": "02_help_the_little_ghost_find_the_pumpkin_patch.png",
+      "title": "Help the little ghost find the pumpkin patch",
+      "activity": "maze",
+      "sha256": "d9795cb1557eda0717a4a467e3cc9bb583b0c2fa5d896d392ff0a3c08d632de7",
+      "reviewNote": "OWNER DECISION: source is a landscape presentation mockup (light-grey #F7F7F5 backdrop + drop shadow around a portrait page). Inner maze is distinct from P003 but repeats its title. Carried through unchanged (contain-fit, scaled); prints a faint grey sheet and shadow outline."
+    },
+    {
+      "id": "P003",
+      "source": "03_little_ghost_s_pumpkin_patch_maze.png",
+      "title": "Little ghost's pumpkin patch maze",
+      "activity": "maze",
+      "sha256": "b667b398dd5560ae8b5d76063c850ef48c1d4da5fb05cc227f74c1cbb942570c",
+      "reviewNote": "Path-style line-art maze; solvability not formally verifiable by automated fill (outer boundary is open). Owner test-solve recommended."
+    },
+    {
+      "id": "P004",
+      "source": "04_design_your_own_pumpkin_coloring_page.png",
+      "title": "Design your own pumpkin",
+      "activity": "design",
+      "sha256": "04d5cf07617cd82ba869dda8707738955e16ffcd1628542068cd0b5596cfceaf"
+    },
+    {
+      "id": "P005",
+      "source": "05_halloween_match_the_shadows.png",
+      "title": "Match the shadows",
+      "activity": "matching",
+      "sha256": "38c365c0dfde40d3795ca3245726466983d2b03d6d035fcf54b69e5fe8e62680"
+    },
+    {
+      "id": "P006",
+      "source": "06_kawaii_halloween_cottage_spot_the_differences.png",
+      "title": "Find 5 differences",
+      "activity": "spot-the-difference",
+      "sha256": "d34ceba6f15821a3ea8f4583d1c4f6225ad70bea5d5355dccad3aac831294a7f"
+    },
+    {
+      "id": "P007",
+      "source": "07_trace_the_spooky_lines_worksheet.png",
+      "title": "Trace the spooky lines",
+      "activity": "tracing",
+      "sha256": "e19bbc88eff2515a5ed9d39968d2458b2af1e27aedeed1fdc2ad9a93b0b1a8a3"
+    },
+    {
+      "id": "P008",
+      "source": "08_i_spy_halloween_cute_icon_hunt.png",
+      "title": "I spy Halloween",
+      "activity": "i-spy",
+      "sha256": "18c105903a8495a1a0d3593f4bbaac8a2d32a1d78110612ed6973e3b806841c7"
+    },
+    {
+      "id": "P009",
+      "source": "09_kawaii_halloween_candy_corn_count_worksheet.png",
+      "title": "Count the candy corn",
+      "activity": "counting",
+      "sha256": "8a6eb5f2903d996e1fd1fec7cc0ac4e5b675e77e8b85fec5c08c274f1376bf9e"
+    },
+    {
+      "id": "P010",
+      "source": "10_cute_ghost_halloween_certificate.png",
+      "title": "Certificate of spooky fun",
+      "activity": "certificate",
+      "sha256": "2cc4a77823ea0bf54a6474f76b5a78eaf29517acea0f476b10c657b97060ed82"
+    },
+    {
+      "id": "P011",
+      "source": "11_cozy_ghost_and_cat_halloween_coloring_page.png",
+      "title": "Colour the ghost and black cat",
+      "activity": "colouring",
+      "sha256": "b6fcd9223dde5910dd053550fe8242d2504b873019fdd656bab1519737b645dc"
+    },
+    {
+      "id": "P012",
+      "source": "12_kawaii_halloween_word_search_coloring_page.png",
+      "title": "Halloween word search",
+      "activity": "word-search",
+      "sha256": "329cfe71abfbc4b4e71d1cac0529b4b81ac07e6c2978daae87950d41c4870031"
+    },
+    {
+      "id": "P013",
+      "source": "13_kawaii_halloween_word_scramble_worksheet.png",
+      "title": "Halloween word scramble",
+      "activity": "word-scramble",
+      "sha256": "0e337f8ac4aab2bf9e64a6a391d691dc3552705fa19030b1845f652226bc3d7d"
+    },
+    {
+      "id": "P014",
+      "source": "14_halloween_patterns_what_comes_next.png",
+      "title": "What comes next? patterns",
+      "activity": "patterns",
+      "sha256": "ef8e6c49da72c1eab0b5393382e7ef83310a49aa6387d4dffac1f02bd2c0f6ee"
+    },
+    {
+      "id": "P015",
+      "source": "15_kawaii_halloween_match_the_pairs.png",
+      "title": "Match the pairs",
+      "activity": "matching",
+      "sha256": "2d5e1e27249e49d9d04fadfb326deabb74954d9172c22800c019659dcf7a57c0"
+    },
+    {
+      "id": "P016",
+      "source": "16_kawaii_halloween_pumpkin_counting_worksheet.png",
+      "title": "Count the pumpkins",
+      "activity": "counting",
+      "sha256": "5d4eefb0b3248773dbdcbe68fb47aa79392babb904be80d4a2710bcb123f5a55"
+    },
+    {
+      "id": "P017",
+      "source": "17_kawaii_halloween_follow_the_paths_worksheet.png",
+      "title": "Follow the paths",
+      "activity": "tracing",
+      "sha256": "2d8800a2c240bb0665dc67988c2c1726504c53d66c31b4208f19ce72934cef55"
+    },
+    {
+      "id": "P018",
+      "source": "18_design_your_own_ghost_costume.png",
+      "title": "Draw your own ghost costume",
+      "activity": "design",
+      "sha256": "cceb58bf5ecf7f1a6523161071c5de2d4b09fa821baaf55eddd467df42c3199b"
+    },
+    {
+      "id": "P019",
+      "source": "19_decorate_the_haunted_house.png",
+      "title": "Decorate the haunted house",
+      "activity": "design",
+      "sha256": "0a0acb1ecd531126d787dc6f071a9c1f0676ccaf64edd872f241ab2d49c607c7"
+    },
+    {
+      "id": "P020",
+      "source": "20_color_the_ghost_parade.png",
+      "title": "Colour the ghost parade",
+      "activity": "colouring",
+      "sha256": "03328d3a4065ab690b172a07192d43eaf3c7b1953585e805ce729cd6818f9beb"
+    },
+    {
+      "id": "P021",
+      "source": "21_count_the_ghosts_halloween_fun.png",
+      "title": "Count the ghosts",
+      "activity": "counting",
+      "sha256": "415c1a6784de15178145b8fba39d287bdf2c6c68f0716754b56d802344f4a533"
+    },
+    {
+      "id": "P022",
+      "source": "22_circle_the_biggest_pumpkin_worksheet.png",
+      "title": "Circle the biggest pumpkin",
+      "activity": "comparison",
+      "sha256": "e7a0de0ea9e8b40d85a473e1f378010ca6648c18c8569be229381cd8dc50491f"
+    },
+    {
+      "id": "P023",
+      "source": "23_funny_jack_o_lantern_face_activity.png",
+      "title": "Draw a funny jack-o'-lantern face",
+      "activity": "design",
+      "sha256": "aa13cc37b6bc016f2ca573ad1eb87cdba2ae59d66a781fc874edf94bcaf40db5"
+    },
+    {
+      "id": "P024",
+      "source": "24_count_the_bats_halloween_worksheet.png",
+      "title": "Count the bats",
+      "activity": "counting",
+      "sha256": "addc5e303b3d8cece72152e95da7de51c954d86699febc3c43f1cc6c86fccb3c"
+    },
+    {
+      "id": "P025",
+      "source": "25_color_the_pumpkin_patch.png",
+      "title": "Colour the pumpkin patch",
+      "activity": "colouring",
+      "sha256": "bc6383cfae2b29c4e5f352cf8716ca6004885218e78af2fb3da40658044107bd"
+    },
+    {
+      "id": "P026",
+      "source": "26_ghost_s_cozy_halloween_room.png",
+      "title": "Decorate the ghost's cozy room",
+      "activity": "design",
+      "sha256": "bd2f5a029ad60cc8cb7daecffd498d377edf4ee888c2d43a2fdbce222018e9e5"
+    },
+    {
+      "id": "P027",
+      "source": "27_kawaii_pumpkin_matching_worksheet.png",
+      "title": "Match the pumpkins",
+      "activity": "matching",
+      "sha256": "6065c04f78d8ce5aa4600f6879813712f58dbdfd9c452f0842c1fa4c42c5b5df"
+    },
+    {
+      "id": "P028",
+      "source": "28_halloween_word_tracing_worksheet.png",
+      "title": "Trace the Halloween words",
+      "activity": "tracing",
+      "sha256": "37ec43c7cd2859e7a0344fef94ad435280c2379d461eb2b9ede4f074f7cbbf5f"
+    },
+    {
+      "id": "P029",
+      "source": "29_little_ghost_s_halloween_candy_maze.png",
+      "title": "Help the little ghost find the candy bucket",
+      "activity": "maze",
+      "sha256": "f974bb957925ed85f39497ac08b005adbfd42f9881951876429d010ae20f63bd",
+      "reviewNote": "Path-style line-art maze; flood test escaped via gaps in the outer border. Owner test-solve recommended."
+    },
+    {
+      "id": "P030",
+      "source": "30_find_the_hidden_candy_halloween_porch.png",
+      "title": "Find the hidden candy",
+      "activity": "hidden-object",
+      "sha256": "cdd4c1f2acfff9d70a5d32a517a9a85ec635e04983483625a6cf7915306f2896"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "milestone":5,
+  "approvedCollectionMasterCount":48,
+  "stationeryMasterCount":18,
+  "gameMasterCount":16,
+  "remainingHostAndInstructionMasters":14,
+  "masters":[
+    {"id":"G01","title":"Gothic Halloween trivia","pages":1},{"id":"G02","title":"Trivia answer key","pages":1},
+    {"id":"G03","title":"Midnight word search","pages":1},{"id":"G04","title":"Word-search solution","pages":1},
+    {"id":"G05","title":"Apothecary word scramble","pages":1},{"id":"G06","title":"Scramble answer key","pages":1},
+    {"id":"G07","title":"Midnight mingle bingo","pages":12,"variant":"twelve boards from 36 prompts"},
+    {"id":"G08","title":"Bingo host list","pages":1},{"id":"G09","title":"Predictions after dark","pages":1},
+    {"id":"G10","title":"Who among us?","pages":1},{"id":"G11","title":"The hidden omen scavenger hunt","pages":1},
+    {"id":"G12","title":"Conversation cards","pages":2,"variant":"nine 2.25 x 3 inch cards"},
+    {"id":"G13","title":"Costume awards ballots","pages":1,"variant":"four 3 x 4 inch ballots"},
+    {"id":"G14","title":"Awards tally and scoreboard","pages":1},{"id":"G15","title":"Games host guide","pages":1},
+    {"id":"G16","title":"Host results and reveal sheet","pages":1}
+  ],
+  "themes":["full-colour","economy"],
+  "formats":["A4","US-Letter"],
+  "expectedPdfCount":64,
+  "expectedPageCount":112
+}

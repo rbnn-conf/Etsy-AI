@@ -1,0 +1,410 @@
+{
+  "schema_version": 2,
+  "product_id": "015",
+  "handoff_sha256": "3148a93aebff61ad5b062234efe76bb025c8d7f4e3b748e7658e53f6df3f0c02",
+  "adapter": {
+    "format": "greeting-card",
+    "version": 2
+  },
+  "image_encoding": 95,
+  "package": "LumiumX-Starlit-Village-Post",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Card-Panels-4x6in",
+    "Card-Artwork",
+    "Guide"
+  ],
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Starlit Village Post",
+      "front": "proof-01",
+      "inside": "proof-02",
+      "inside_left": null,
+      "back": "approved proof-03",
+      "stem": "LumiumX-Starlit-Village-Post-Folded-Card"
+    }
+  ],
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf",
+      "page": 1,
+      "label": "Outside (print first)"
+    },
+    {
+      "rel": "A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf",
+      "page": 2,
+      "label": "Inside (print on the back)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "f370124ec410e7f851b4b48e6dfb272404d726c290df58dd2c1d49886e927cdc",
+      "bytes": 2853,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": "A",
+      "sha256": "c935bb9e443c3f2a974a50685f5a64f6133cd3879ba13be6a3ccea28265a4df8",
+      "bytes": 2646055,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "85cbae929bbd7458e4bfbf4dc8cd5979eaf9a8575abe11679481953d2822c080"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "ea5be568fed64d157419bfcf3fd64baf66c90481a80db4dc6b00c5923d0d9003"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "f7cb42455c885c605ec685feb185c1e23bc78ad4db5b4a879b1c2b418fcc0df2"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          297,
+          210
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "asset": "proof-03",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            124,
+            186
+          ],
+          "placed_mm": [
+            124,
+            186
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 210
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Starlit-Village-Post-Folded-Card-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": "A",
+      "sha256": "5ac2660fb32484e3127d5fa59d705050078d400444f0e0984063420b5e7bca65",
+      "bytes": 2646035,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "85cbae929bbd7458e4bfbf4dc8cd5979eaf9a8575abe11679481953d2822c080"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "ea5be568fed64d157419bfcf3fd64baf66c90481a80db4dc6b00c5923d0d9003"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "f7cb42455c885c605ec685feb185c1e23bc78ad4db5b4a879b1c2b418fcc0df2"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          279.4,
+          215.9
+        ],
+        "orientation": "landscape"
+      },
+      "placements": [
+        {
+          "where": "sheet 1 left (back)",
+          "role": "back",
+          "asset": "proof-03",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        },
+        {
+          "where": "sheet 1 right (front)",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        },
+        {
+          "where": "sheet 2 right (inside right)",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            127.7,
+            191.55
+          ],
+          "placed_mm": [
+            127.7,
+            191.55
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 204
+        }
+      ]
+    },
+    "Card-Panels-4x6in/LumiumX-Starlit-Village-Post-Card-Panels-4x6in.pdf": {
+      "kind": "pdf",
+      "variant": "Card-Panels-4x6in",
+      "card_variant": "A",
+      "sha256": "1a97b7440ae53e8be3fe3085bfe433afa1ecfa2ae9e69f01b73b17d0ece300f2",
+      "bytes": 2645937,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "85cbae929bbd7458e4bfbf4dc8cd5979eaf9a8575abe11679481953d2822c080"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "ea5be568fed64d157419bfcf3fd64baf66c90481a80db4dc6b00c5923d0d9003"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "f7cb42455c885c605ec685feb185c1e23bc78ad4db5b4a879b1c2b418fcc0df2"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          101.6,
+          152.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "panel front",
+          "role": "front",
+          "asset": "proof-01",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel inside",
+          "role": "inside",
+          "asset": "proof-02",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        },
+        {
+          "where": "panel back",
+          "role": "back",
+          "asset": "proof-03",
+          "box_mm": [
+            101.6,
+            152.4
+          ],
+          "placed_mm": [
+            101.6,
+            152.4
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 256
+        }
+      ]
+    },
+    "Card-Artwork/LumiumX-Starlit-Village-Post-Front.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "85cbae929bbd7458e4bfbf4dc8cd5979eaf9a8575abe11679481953d2822c080",
+      "bytes": 3411558,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-01/proof-01.png",
+          "sha256": "85cbae929bbd7458e4bfbf4dc8cd5979eaf9a8575abe11679481953d2822c080"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-01"
+      },
+      "placements": []
+    },
+    "Card-Artwork/LumiumX-Starlit-Village-Post-Inside.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "ea5be568fed64d157419bfcf3fd64baf66c90481a80db4dc6b00c5923d0d9003",
+      "bytes": 3246646,
+      "sources": [
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-01/proof-02.png",
+          "sha256": "ea5be568fed64d157419bfcf3fd64baf66c90481a80db4dc6b00c5923d0d9003"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-02"
+      },
+      "placements": []
+    },
+    "Card-Artwork/LumiumX-Starlit-Village-Post-Back.png": {
+      "kind": "original",
+      "variant": "Card-Artwork",
+      "card_variant": null,
+      "sha256": "f7cb42455c885c605ec685feb185c1e23bc78ad4db5b4a879b1c2b418fcc0df2",
+      "bytes": 3172790,
+      "sources": [
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-01/proof-03.png",
+          "sha256": "f7cb42455c885c605ec685feb185c1e23bc78ad4db5b4a879b1c2b418fcc0df2"
+        }
+      ],
+      "expect": {
+        "identical_to": "proof-03"
+      },
+      "placements": []
+    }
+  },
+  "zip": {
+    "file": "production/package/LumiumX-Starlit-Village-Post.zip",
+    "sha256": "fed45a48a307809a6d50db12494feffea6ffa6d4afd51f81a3f2d6d786286f30",
+    "bytes": 17364964,
+    "entries_digest": "27cf2d5d8b7cb695eede3d1b5a9081a64d97ffc24e9b9d0414da010835cca4c0",
+    "entries": [
+      "LumiumX-Starlit-Village-Post/START-HERE-Printing-Guide.pdf",
+      "LumiumX-Starlit-Village-Post/A4/LumiumX-Starlit-Village-Post-Folded-Card-A4.pdf",
+      "LumiumX-Starlit-Village-Post/US-Letter/LumiumX-Starlit-Village-Post-Folded-Card-US-Letter.pdf",
+      "LumiumX-Starlit-Village-Post/Card-Panels-4x6in/LumiumX-Starlit-Village-Post-Card-Panels-4x6in.pdf",
+      "LumiumX-Starlit-Village-Post/Card-Artwork/LumiumX-Starlit-Village-Post-Front.png",
+      "LumiumX-Starlit-Village-Post/Card-Artwork/LumiumX-Starlit-Village-Post-Inside.png",
+      "LumiumX-Starlit-Village-Post/Card-Artwork/LumiumX-Starlit-Village-Post-Back.png"
+    ]
+  }
+}

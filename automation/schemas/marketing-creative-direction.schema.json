@@ -1,0 +1,396 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stage 3 creative direction (model output, ADR-058). One direction per campaign card. Code validates every value against the composition vocabulary and the asset catalogue, and falls back to the code baseline for anything invalid; the model never renders the product or any text.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "campaign",
+    "slides",
+    "lines"
+  ],
+  "properties": {
+    "campaign": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mood",
+        "palette",
+        "lighting"
+      ],
+      "properties": {
+        "mood": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200,
+          "description": "One coherent campaign mood shared by every card."
+        },
+        "palette": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200,
+          "description": "The campaign palette, flattering the approved artwork."
+        },
+        "lighting": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160,
+          "description": "The shared lighting idea for any environment photograph."
+        },
+        "concept": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Campaign concept (colouring books; optional for other formats). Descriptive only: never a claim, a quantity or a promise.",
+          "required": [
+            "campaign_concept",
+            "emotional_hook",
+            "buyer_feeling",
+            "visual_world",
+            "hero_subject",
+            "strongest_pages",
+            "transformation_story",
+            "marketing_priority",
+            "avoid"
+          ],
+          "properties": {
+            "campaign_concept": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 80,
+              "description": "A short campaign title."
+            },
+            "emotional_hook": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 240,
+              "description": "One sentence: the feeling the campaign sells."
+            },
+            "buyer_feeling": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 6,
+              "items": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 40,
+                "description": "A feeling (cozy, relaxed ...)."
+              },
+              "description": "What the buyer should feel."
+            },
+            "visual_world": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "palette",
+                "materials",
+                "lighting",
+                "photography_style"
+              ],
+              "properties": {
+                "palette": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 200,
+                  "description": "The campaign palette."
+                },
+                "materials": {
+                  "type": "array",
+                  "minItems": 1,
+                  "maxItems": 8,
+                  "items": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 40,
+                    "description": "A plain real-world material (wood, linen, tea, knit). Never paper, pages or books."
+                  },
+                  "description": "Materials of the world."
+                },
+                "lighting": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 160,
+                  "description": "The lighting."
+                },
+                "photography_style": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 160,
+                  "description": "The photography style."
+                }
+              }
+            },
+            "hero_subject": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 160,
+              "description": "What the hero image is about, from the approved pages only."
+            },
+            "strongest_pages": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 6,
+              "items": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 60,
+                "description": "A catalogue page id (page-N)."
+              },
+              "description": "The most appealing real pages."
+            },
+            "transformation_story": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 240,
+              "description": "How the black-and-white page becomes a coloured picture."
+            },
+            "marketing_priority": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 120,
+              "description": "What leads the campaign."
+            },
+            "avoid": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 8,
+              "items": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 80,
+                "description": "Something to keep out."
+              },
+              "description": "What to avoid."
+            }
+          }
+        }
+      }
+    },
+    "slides": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 10,
+      "description": "One creative direction for each card id given, and no others.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "purpose",
+          "buyer_message",
+          "emotional_goal",
+          "headline",
+          "focal_asset",
+          "supporting_assets",
+          "composition",
+          "hierarchy",
+          "background",
+          "props",
+          "crop",
+          "text_zone",
+          "scene_brief",
+          "avoid"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40,
+            "description": "Exactly the card id given."
+          },
+          "purpose": {
+            "type": "string",
+            "maxLength": 240,
+            "description": "The card's ONE job, in a sentence."
+          },
+          "buyer_message": {
+            "type": "string",
+            "maxLength": 240,
+            "description": "What the buyer should understand in one second."
+          },
+          "emotional_goal": {
+            "type": "string",
+            "maxLength": 120,
+            "description": "What the buyer should feel."
+          },
+          "headline": {
+            "type": "string",
+            "maxLength": 80,
+            "description": "At most 7 words, no digits, no claim beyond the facts. Empty keeps the code headline (always use empty when the headline states a number)."
+          },
+          "focal_asset": {
+            "type": "string",
+            "maxLength": 60,
+            "description": "One asset id from the ASSET CATALOGUE: the primary focal point."
+          },
+          "supporting_assets": {
+            "type": "array",
+            "maxItems": 7,
+            "items": {
+              "type": "string",
+              "maxLength": 60
+            },
+            "description": "Asset ids from the ASSET CATALOGUE that support the focal asset (secondary)."
+          },
+          "composition": {
+            "type": "string",
+            "enum": [
+              "editorial-hero",
+              "included-spread",
+              "macro-detail",
+              "collection",
+              "feature-focus",
+              "process",
+              "lifestyle",
+              "fact-sheet",
+              "cb-lifestyle-hero",
+              "cb-editorial-hero",
+              "cb-lifestyle-page",
+              "cb-collage",
+              "cb-coloured",
+              "cb-before-after",
+              "cb-features",
+              "cb-printable",
+              "cb-bundle"
+            ]
+          },
+          "hierarchy": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "primary",
+              "secondary",
+              "tertiary"
+            ],
+            "properties": {
+              "primary": {
+                "type": "string",
+                "maxLength": 120
+              },
+              "secondary": {
+                "type": "string",
+                "maxLength": 120
+              },
+              "tertiary": {
+                "type": "string",
+                "maxLength": 120
+              }
+            }
+          },
+          "background": {
+            "type": "string",
+            "enum": [
+              "render",
+              "environment",
+              "linen",
+              "paper",
+              "ivory",
+              "sage",
+              "blush",
+              "dusk"
+            ],
+            "description": "Allowed per composition (see COMPOSITIONS). \"environment\" is one paid AI photograph: use it for at most one or two cards."
+          },
+          "props": {
+            "type": "array",
+            "maxItems": 6,
+            "items": {
+              "type": "string",
+              "maxLength": 40
+            },
+            "description": "Environment props, only from the niche's allowed props."
+          },
+          "crop": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "asset",
+              "focus",
+              "zoom"
+            ],
+            "description": "How the focal render or page is framed. asset \"\" keeps the code baseline.",
+            "properties": {
+              "asset": {
+                "type": "string",
+                "maxLength": 60
+              },
+              "focus": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1
+                },
+                "description": "[x, y] centre of the crop, fractions of the asset."
+              },
+              "zoom": {
+                "type": "number",
+                "minimum": 1,
+                "maximum": 3,
+                "description": "1 = the largest crop allowed; code caps it at the resolution floor."
+              }
+            }
+          },
+          "text_zone": {
+            "type": "string",
+            "enum": [
+              "top-left",
+              "top-right",
+              "top-centre",
+              "bottom-left",
+              "bottom-band",
+              "right-column",
+              "left-column"
+            ],
+            "description": "Allowed per composition (see COMPOSITIONS)."
+          },
+          "scene_brief": {
+            "type": "string",
+            "maxLength": 400,
+            "description": "Only for background \"environment\": the environment photograph (surface, props, light, depth, a clear area for the product). Otherwise empty."
+          },
+          "avoid": {
+            "type": "array",
+            "maxItems": 6,
+            "items": {
+              "type": "string",
+              "maxLength": 80
+            }
+          },
+          "support": {
+            "type": "string",
+            "maxLength": 120,
+            "description": "Colouring books: one short supporting line, at most 12 words; any number must be a page count from the facts. Empty keeps the code line."
+          }
+        }
+      }
+    },
+    "lines": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 4,
+      "description": "One supporting line for each tone card id given, and no others.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "text"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 90,
+            "description": "One warm, short supporting line in UK English, sentence case. No claims beyond the facts."
+          }
+        }
+      }
+    }
+  }
+}

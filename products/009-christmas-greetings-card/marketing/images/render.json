@@ -1,0 +1,853 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 5334677,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 760,
+        "boxH": 1140,
+        "complete": true,
+        "rect": {
+          "x": 207.912353515625,
+          "y": 576.4835815429688,
+          "w": 850.3077392578125,
+          "h": 1202.0888671875
+        }
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 760,
+        "boxH": 1140,
+        "complete": true,
+        "rect": {
+          "x": 950.8133544921875,
+          "y": 612.4733276367188,
+          "w": 831.6387939453125,
+          "h": 1190.436767578125
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Printable Christmas Greeting Cards",
+        "fontPx": 128
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Robin at the Frosted Gate",
+        "text": "Robin at the Frosted Gate"
+      },
+      {
+        "claim": "design-count",
+        "value": "two designs",
+        "text": "two beautiful designs in one set"
+      },
+      {
+        "claim": "digital",
+        "value": "Digital download",
+        "text": "Digital download"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "4×6 in",
+        "text": "4×6"
+      },
+      {
+        "claim": "digital",
+        "value": "Print at home",
+        "text": "Print at home"
+      }
+    ],
+    "slide": "01-hero",
+    "scene": "tabletop",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "01-hero.png",
+    "thumb": "thumbs/01-hero.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4295876,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 700,
+        "boxH": 1050,
+        "complete": true,
+        "rect": {
+          "x": 196.37704467773438,
+          "y": 491.0179748535156,
+          "w": 727.2459716796875,
+          "h": 1067.964111328125
+        }
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 700,
+        "boxH": 1050,
+        "complete": true,
+        "rect": {
+          "x": 1076.3770751953125,
+          "y": 491.0179748535156,
+          "w": 727.245849609375,
+          "h": 1067.964111328125
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "2 card designsincluded",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "design-count",
+        "value": "2 card designs",
+        "text": "2 card designsincluded"
+      },
+      {
+        "claim": "design-name",
+        "value": "Design A",
+        "text": "Design A"
+      },
+      {
+        "claim": "design-name",
+        "value": "Merry Christmas",
+        "text": "Merry Christmas"
+      },
+      {
+        "claim": "design-name",
+        "value": "Design B",
+        "text": "Design B"
+      },
+      {
+        "claim": "design-name",
+        "value": "Christmas Wishes",
+        "text": "Christmas Wishes"
+      }
+    ],
+    "slide": "02-designs",
+    "scene": "tabletop",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "02-designs.png",
+    "thumb": "thumbs/02-designs.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4107841,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 740,
+        "boxH": 1110,
+        "complete": true,
+        "rect": {
+          "x": 1100.6307373046875,
+          "y": 649.8474731445312,
+          "w": 794.706298828125,
+          "h": 1149.814453125
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "A beautifulinside message",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "inside",
+        "value": "Inside message",
+        "text": "A beautifulinside message"
+      },
+      {
+        "claim": "inside",
+        "value": "Shared inside message",
+        "text": "The same illustrated insidefor both designs."
+      }
+    ],
+    "slide": "03-inside",
+    "scene": "inside",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "03-inside.png",
+    "thumb": "thumbs/03-inside.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3252667,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 270,
+        "boxH": 405,
+        "complete": true,
+        "rect": {
+          "x": 154.57252502441406,
+          "y": 351.99798583984375,
+          "w": 310.85491943359375,
+          "h": 431.0040283203125
+        }
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 270,
+        "boxH": 405,
+        "complete": true,
+        "rect": {
+          "x": 334.5725402832031,
+          "y": 351.99798583984375,
+          "w": 310.8549499511719,
+          "h": 431.0040283203125
+        }
+      },
+      {
+        "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 286,
+        "boxH": 429,
+        "complete": true,
+        "rect": {
+          "x": 857,
+          "y": 355,
+          "w": 286,
+          "h": 429
+        }
+      },
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 420,
+        "boxH": 297,
+        "complete": true,
+        "rect": {
+          "x": 1360.1527099609375,
+          "y": 365.712890625,
+          "w": 439.694580078125,
+          "h": 325.57421875
+        }
+      },
+      {
+        "sha256": "1c37de9456b577f0022e4e98f2672d3ece8c33c5a833448bdba71f8105d3ef42",
+        "naturalW": 1651,
+        "naturalH": 1276,
+        "boxW": 400,
+        "boxH": 309,
+        "complete": true,
+        "rect": {
+          "x": 1422.188232421875,
+          "y": 479.7445373535156,
+          "w": 415.62353515625,
+          "h": 329.5108947753906
+        }
+      },
+      {
+        "sha256": "f4c7d5e2cc7536215b6078bcd65de95bbe944379129f09d596682d601066dd50",
+        "naturalW": 600,
+        "naturalH": 901,
+        "boxW": 280,
+        "boxH": 420,
+        "complete": true,
+        "rect": {
+          "x": 162.23004150390625,
+          "y": 1068.5972900390625,
+          "w": 315.5399169921875,
+          "h": 442.805419921875
+        }
+      },
+      {
+        "sha256": "a4354ccc0fd09fe073ef81715fa3ad0b50ff2019436119410398722de7d48400",
+        "naturalW": 600,
+        "naturalH": 901,
+        "boxW": 280,
+        "boxH": 420,
+        "complete": true,
+        "rect": {
+          "x": 322.23004150390625,
+          "y": 1068.5972900390625,
+          "w": 315.5399169921875,
+          "h": 442.805419921875
+        }
+      },
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 240,
+        "boxH": 360,
+        "complete": true,
+        "rect": {
+          "x": 718.9580078125,
+          "y": 1096.7174072265625,
+          "w": 282.083984375,
+          "h": 386.565185546875
+        }
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 240,
+        "boxH": 360,
+        "complete": true,
+        "rect": {
+          "x": 880,
+          "y": 1110,
+          "w": 240,
+          "h": 360
+        }
+      },
+      {
+        "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 240,
+        "boxH": 360,
+        "complete": true,
+        "rect": {
+          "x": 998.9580078125,
+          "y": 1096.7174072265625,
+          "w": 282.083984375,
+          "h": 386.565185546875
+        }
+      },
+      {
+        "sha256": "d4a6235dffaa1548a78050954de437753562d78783614783a4eadb0bb498e364",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 300,
+        "boxH": 424,
+        "complete": true,
+        "rect": {
+          "x": 1442.692626953125,
+          "y": 1072.8941650390625,
+          "w": 314.61474609375,
+          "h": 434.211669921875
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "What’s included?",
+        "fontPx": 124
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "design-count",
+        "value": "2 card designs",
+        "text": "2 card designs"
+      },
+      {
+        "claim": "inside",
+        "value": "1 shared inside",
+        "text": "1 shared inside"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "4×6 in card panels",
+        "text": "4×6 card panels"
+      },
+      {
+        "claim": "artwork-files",
+        "value": "3 original artwork files",
+        "text": "3 original artwork files"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "04-included",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "04-included.png",
+    "thumb": "thumbs/04-included.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4675850,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1160,
+        "boxH": 1740,
+        "complete": true,
+        "rect": {
+          "x": 120,
+          "y": 130,
+          "w": 1160,
+          "h": 1740
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "MerryChristmas",
+        "fontPx": 112
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "design-name",
+        "value": "Design A",
+        "text": "Design A"
+      },
+      {
+        "claim": "design-name",
+        "value": "Merry Christmas",
+        "text": "MerryChristmas"
+      }
+    ],
+    "slide": "05-design-a",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "05-design-a.png",
+    "thumb": "thumbs/05-design-a.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4731013,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1160,
+        "boxH": 1740,
+        "complete": true,
+        "rect": {
+          "x": 720,
+          "y": 130,
+          "w": 1160,
+          "h": 1740
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "ChristmasWishes",
+        "fontPx": 112
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "design-name",
+        "value": "Design B",
+        "text": "Design B"
+      },
+      {
+        "claim": "design-name",
+        "value": "Christmas Wishes",
+        "text": "ChristmasWishes"
+      }
+    ],
+    "slide": "06-design-b",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "06-design-b.png",
+    "thumb": "thumbs/06-design-b.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3568347,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 1240,
+        "boxH": 877,
+        "complete": true,
+        "rect": {
+          "x": 471.0675354003906,
+          "y": 769.1633911132812,
+          "w": 1239.3548583984375,
+          "h": 764.5358276367188
+        }
+      },
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 440,
+        "boxH": 660,
+        "complete": true,
+        "rect": {
+          "x": 1373.7376708984375,
+          "y": 860.276611328125,
+          "w": 495.8709716796875,
+          "h": 694.181884765625
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Print at home",
+        "fontPx": 136
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Print at home",
+        "text": "Print at home"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Trim & fold",
+        "text": "Trim & fold"
+      },
+      {
+        "claim": "process",
+        "value": "Give",
+        "text": "Give"
+      }
+    ],
+    "slide": "07-print",
+    "scene": "print",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "07-print.png",
+    "thumb": "thumbs/07-print.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3475025,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 1080,
+        "boxH": 764,
+        "complete": true,
+        "rect": {
+          "x": 100.74771881103516,
+          "y": 532.2620849609375,
+          "w": 1118.504638671875,
+          "h": 819.475830078125
+        }
+      },
+      {
+        "sha256": "1c37de9456b577f0022e4e98f2672d3ece8c33c5a833448bdba71f8105d3ef42",
+        "naturalW": 1651,
+        "naturalH": 1276,
+        "boxW": 1020,
+        "boxH": 788,
+        "complete": true,
+        "rect": {
+          "x": 313.29937744140625,
+          "y": 1008.1290893554688,
+          "w": 1053.4013671875,
+          "h": 831.7417602539062
+        }
+      },
+      {
+        "sha256": "f4c7d5e2cc7536215b6078bcd65de95bbe944379129f09d596682d601066dd50",
+        "naturalW": 600,
+        "naturalH": 901,
+        "boxW": 430,
+        "boxH": 646,
+        "complete": true,
+        "rect": {
+          "x": 1433.39013671875,
+          "y": 589.1904296875,
+          "w": 463.2197265625,
+          "h": 667.619140625
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Multiple sizesfor easy printing",
+        "fontPx": 112
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "format",
+        "value": "A4",
+        "text": "A4"
+      },
+      {
+        "claim": "paper-size",
+        "value": "210 × 297 mm",
+        "text": "210 × 297 mm"
+      },
+      {
+        "claim": "format",
+        "value": "US Letter",
+        "text": "US Letter"
+      },
+      {
+        "claim": "paper-size",
+        "value": "8.5 × 11 in",
+        "text": "8.5 × 11 in"
+      },
+      {
+        "claim": "format",
+        "value": "4×6 in card panels",
+        "text": "4×6 card panels"
+      },
+      {
+        "claim": "paper-size",
+        "value": "4 × 6 in",
+        "text": "4 × 6 in"
+      }
+    ],
+    "slide": "08-sizes",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "08-sizes.png",
+    "thumb": "thumbs/08-sizes.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4713421,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 800,
+        "boxH": 1200,
+        "complete": true,
+        "rect": {
+          "x": 1001.2774047851562,
+          "y": 639.0818481445312,
+          "w": 866.5582885742188,
+          "h": 1208.735595703125
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "A thoughtful cardfor loved ones",
+        "fontPx": 116
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [],
+    "slide": "09-gift",
+    "scene": "gift",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "09-gift.png",
+    "thumb": "thumbs/09-gift.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2133627,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "4610dfbf4341a0e3725eab9f294e1d2d68d5bba24f3547f86565f51334cf1f5c",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 347,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 151,
+          "y": 1170,
+          "w": 347,
+          "h": 520
+        }
+      },
+      {
+        "sha256": "2bbf7eb8e9b2f25a85f325cc91fda6a7757efe08f7abe751e4db31a64252b393",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 347,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 544,
+          "y": 1170,
+          "w": 347,
+          "h": 520
+        }
+      },
+      {
+        "sha256": "5c366003c5844cadf65eaf121cb35168c1eb88cfa9b92addc08dd5822cf7e0cc",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 347,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 936,
+          "y": 1170,
+          "w": 347,
+          "h": 520
+        }
+      },
+      {
+        "sha256": "4c0819c2e045fb50c277bd56905d176786f2263f66ce20751ea22e0c6f109987",
+        "naturalW": 1754,
+        "naturalH": 1241,
+        "boxW": 520,
+        "boxH": 368,
+        "complete": true,
+        "rect": {
+          "x": 1329,
+          "y": 1246,
+          "w": 520,
+          "h": 368
+        }
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Digital download",
+        "fontPx": 136
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Digital download",
+        "text": "Digital download"
+      },
+      {
+        "claim": "digital",
+        "value": "No physical item will be shipped",
+        "text": "No physical item will be shipped"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant access after purchase",
+        "text": "Instant accessafter purchase"
+      },
+      {
+        "claim": "process",
+        "value": "Print at home or use a print shop",
+        "text": "Print at homeor use a print shop"
+      },
+      {
+        "claim": "artwork-files",
+        "value": "PDF and original artwork PNG files",
+        "text": "PDF and originalartwork PNG files"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Step-by-step printing guide",
+        "text": "Step-by-stepprinting guide"
+      }
+    ],
+    "slide": "10-digital",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "10-digital.png",
+    "thumb": "thumbs/10-digital.png"
+  }
+]

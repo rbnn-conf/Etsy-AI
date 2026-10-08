@@ -1,0 +1,7 @@
+{
+  "fixture": "The owner action taken after round 2 was created (ADR-035). Replayed by test/research-cycle-real.test.mjs.",
+  "action": "FINISH_WITH_CURRENT_EVIDENCE",
+  "decided_by": "owner",
+  "at": "2026-09-29T12:00:00.000Z",
+  "note": "Owner chose to score with the evidence captured on 2026-09-29; further research not worth the Marketplace Insights allowance."
+}

@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SEO brief v2. draft = evidence only; scored / owner_review / approved carry LumiumX opportunity scores that must recompute from the cited research and the stored relevance profile (ADR-032). The LumiumX opportunity score is NOT the Etsy algorithm.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "mode", "created_at", "idea", "research_version", "relevance_profile",
+    "primary_keyword", "secondary_keywords", "supporting_keywords", "rejected_keywords",
+    "market_evidence", "opportunity_scores", "positioning", "title_direction", "tag_candidates",
+    "description_keywords", "thumbnail_search_intent", "pricing_evidence", "confidence",
+    "research_required", "warnings", "approval_status", "owner_decision", "status_history"
+  ],
+  "properties": {
+    "schema_version": { "const": 2 },
+    "mode": { "enum": ["NEW_PRODUCT", "EXISTING_LISTING"] },
+    "created_at": { "type": "string" },
+    "idea": { "type": "object" },
+    "research_version": {
+      "type": "object",
+      "required": ["research_id", "version", "sha256"],
+      "properties": {
+        "research_id": { "type": "string" },
+        "version": { "type": "integer" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+      }
+    },
+    "relevance_profile": { "type": ["object", "null"], "description": "The relevance profile the scores were computed with (relevance-profile.schema.json); null in a draft" },
+    "primary_keyword": { "type": ["string", "null"] },
+    "secondary_keywords": { "type": "array", "maxItems": 4, "items": { "type": "string" } },
+    "supporting_keywords": { "type": "array", "items": { "type": "string" } },
+    "rejected_keywords": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["keyword", "reasons"],
+        "properties": {
+          "keyword": { "type": "string" },
+          "reasons": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "enum": ["irrelevant", "weak_relevance", "very_low_conversion", "insufficient_demand", "poor_competitive_opportunity", "missing_market_evidence", "superseded", "duplicate_intent"] }
+          }
+        }
+      }
+    },
+    "market_evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["observation_id", "role", "keyword", "searches_30d", "search_results", "conversion_label", "trend_percent", "captured_at"],
+        "properties": {
+          "observation_id": { "type": "string" },
+          "role": { "enum": ["owner_candidate", "related_term", "evaluated"] },
+          "keyword": { "type": "string", "minLength": 1, "maxLength": 140 },
+          "searches_30d": { "type": ["integer", "null"], "minimum": 0 },
+          "search_results": { "type": ["integer", "null"], "minimum": 0 },
+          "conversion_label": { "type": "string", "enum": ["very_high", "high", "typical", "low", "very_low", "unknown"] },
+          "trend_percent": { "type": ["number", "null"] },
+          "captured_at": { "type": ["string", "null"], "description": "ISO date of the Etsy capture; null when not recorded" }
+        },
+        "description": "Raw values copied exactly from the cited research version (validated)"
+      }
+    },
+    "opportunity_scores": {
+      "type": "object",
+      "required": ["status", "rule"],
+      "properties": {
+        "status": { "enum": ["not_scored", "scored"] },
+        "rule": { "type": "string" },
+        "scoring_version": { "const": "lumiumx-opportunity-v1" },
+        "disclaimer": { "type": "string" },
+        "formula": { "type": "object" },
+        "inputs": { "type": "object" },
+        "diagnostics": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["keyword", "relevance_class", "searches_30d", "search_results", "conversion_label", "trend_percent",
+              "demand_score", "competition_score", "conversion_score", "trend_score", "relevance_score", "seasonality_score",
+              "final_opportunity_score", "eligible_for_primary", "selected_role", "decision_reasons"],
+            "properties": {
+              "relevance_class": { "enum": ["EXACT", "STRONG", "SUPPORTING", "WEAK", "IRRELEVANT"] },
+              "selected_role": { "enum": ["PRIMARY", "SECONDARY", "SUPPORTING", "REJECTED"] },
+              "final_opportunity_score": { "type": ["number", "null"], "minimum": 0, "maximum": 100 }
+            }
+          }
+        },
+        "close_competition": { "type": "boolean" },
+        "close_competition_detail": { "type": ["object", "null"] },
+        "confidence_triggers": { "type": "array" }
+      },
+      "description": "Every evaluated keyword with its raw Marketplace Insights values beside each calculated component. LumiumX internal score; not the Etsy algorithm."
+    },
+    "positioning": { "type": ["object", "null"] },
+    "title_direction": { "type": ["object", "null"] },
+    "tag_candidates": {
+      "type": "array",
+      "maxItems": 13,
+      "items": { "type": "object", "required": ["tag", "source", "relevance_class"], "properties": { "tag": { "type": "string", "maxLength": 20 } } }
+    },
+    "description_keywords": { "type": ["object", "null"] },
+    "thumbnail_search_intent": { "type": ["object", "null"] },
+    "pricing_evidence": {
+      "type": "array",
+      "items": { "type": "object", "required": ["source"], "properties": { "source": { "type": "string", "minLength": 1 } } }
+    },
+    "confidence": { "enum": ["unknown", "low", "medium", "high"], "description": "Confidence in OUR recommendation from evidence completeness; not an Etsy prediction" },
+    "research_required": { "type": "boolean" },
+    "warnings": { "type": "array", "items": { "type": "string" } },
+    "approval_status": { "enum": ["draft", "research_required", "scored", "owner_review", "approved", "rejected"] },
+    "owner_decision": {
+      "type": ["object", "null"],
+      "required": ["decision", "decided_by", "decided_at"],
+      "properties": {
+        "decision": { "enum": ["approved", "rejected"] },
+        "decided_by": { "type": "string" },
+        "decided_at": { "type": "string" },
+        "note": { "type": ["string", "null"] },
+        "approved_positioning": { "type": ["string", "null"] }
+      }
+    },
+    "status_history": { "type": "array", "minItems": 1, "items": { "type": "object", "required": ["status", "at"] } }
+  }
+}

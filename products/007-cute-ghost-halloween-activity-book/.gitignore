@@ -1,0 +1,6 @@
+output/
+previews/
+qc/*
+!qc/VISUAL_QA.md
+listing/html/
+.build-*/

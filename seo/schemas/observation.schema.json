@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Raw Etsy Marketplace Insights observation (manually captured). No calculated fields.",
+  "type": "object",
+  "required": [
+    "keyword",
+    "searches_30d",
+    "search_results",
+    "trend_percent",
+    "captured_at",
+    "source"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "keyword": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 140
+    },
+    "searches_30d": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "search_results": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "conversion_label": {
+      "type": "string",
+      "enum": [
+        "very_high",
+        "high",
+        "typical",
+        "low",
+        "very_low",
+        "unknown"
+      ],
+      "description": "Absent/null is stored as \"unknown\""
+    },
+    "trend_percent": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "captured_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "ISO date of the Etsy capture; null when not recorded"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "type",
+        "method",
+        "captured_by"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "enum": [
+            "etsy_marketplace_insights"
+          ]
+        },
+        "method": {
+          "enum": [
+            "manual"
+          ]
+        },
+        "captured_by": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "related_terms": {
+      "type": "array",
+      "description": "Optional. Related searches Etsy displayed beside this search: DISCOVERED, not researched. Metrics only if actually captured (else null). Never scored.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "term"
+        ],
+        "properties": {
+          "term": {
+            "type": "string",
+            "minLength": 1
+          },
+          "searches_30d": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "search_results": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "conversion_label": {
+            "enum": [
+              "very_high",
+              "high",
+              "typical",
+              "low",
+              "very_low",
+              "unknown",
+              null
+            ]
+          }
+        }
+      }
+    }
+  }
+}

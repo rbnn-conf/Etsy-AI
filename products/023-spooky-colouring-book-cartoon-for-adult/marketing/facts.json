@@ -1,0 +1,604 @@
+{
+  "schema_version": 1,
+  "product_id": "023",
+  "product_name": "Midnight Monster Diner Colouring Book",
+  "product_type": "Adult spooky cartoon colouring book",
+  "product_format": "colouring-book",
+  "season": "Halloween",
+  "target_customer": "Adults who enjoy bold, humorous Halloween colouring",
+  "book": {
+    "page_count": 21,
+    "colouring_pages": 20,
+    "cover": true,
+    "orientation": "portrait",
+    "page_px": [
+      1024,
+      1536
+    ],
+    "non_colouring_pages": [
+      {
+        "page_number": 1,
+        "kind": "cover",
+        "title": "Midnight Monster Diner"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "title": "Midnight Monster Diner",
+      "role": "cover",
+      "page_type": "cover",
+      "asset": "P001",
+      "file": "book/pages/P001.png",
+      "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png"
+    },
+    {
+      "page_number": 2,
+      "title": "Graveyard Shift",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P002",
+      "file": "book/pages/P002.png",
+      "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png"
+    },
+    {
+      "page_number": 3,
+      "title": "Jukebox Jitters",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P003",
+      "file": "book/pages/P003.png",
+      "sha256": "02f70c16dbfdbeee2c877c2ecec83243de294072e2ba85489f280c27d32cd963",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png"
+    },
+    {
+      "page_number": 4,
+      "title": "Moon Pie Special",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P004",
+      "file": "book/pages/P004.png",
+      "sha256": "e1ff3cc429bb984c7cfe32fb4eb3781334500a7b5616d7c75e24346100f2d00d",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png"
+    },
+    {
+      "page_number": 5,
+      "title": "Booth for Two",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P005",
+      "file": "book/pages/P005.png",
+      "sha256": "28ef7d9762837c38da58b77bfda335fb187d007897f5a2cac0ebbca0846c11f8",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png"
+    },
+    {
+      "page_number": 6,
+      "title": "Drive-Thru Doom",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P006",
+      "file": "book/pages/P006.png",
+      "sha256": "bf438e2cef75e0f5069705f21f67968d2048e091cd76710886ac7ec55d69de84",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png"
+    },
+    {
+      "page_number": 7,
+      "title": "Bottomless Brew",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P007",
+      "file": "book/pages/P007.png",
+      "sha256": "4b78d4adf029cb7d53b64d7f1edb5228e0bd559ef41dafaabfcdf2d4a9be25ca",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png"
+    },
+    {
+      "page_number": 8,
+      "title": "Creature Feature Feast",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P008",
+      "file": "book/pages/P008.png",
+      "sha256": "73ad8bb255977b87df05796c5adbcbb899db7ef4e75c7a2f24463f749eca4133",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png"
+    },
+    {
+      "page_number": 9,
+      "title": "Pie-Eyed Poltergeist",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P009",
+      "file": "book/pages/P009.png",
+      "sha256": "63a630f8236da4d147b02ff1c99fcef4301fbf428f30d27dd076b42d9d4195f2",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png"
+    },
+    {
+      "page_number": 10,
+      "title": "Monster Mash Hash",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P010",
+      "file": "book/pages/P010.png",
+      "sha256": "4424b0519801fe6d35ac587dcaff43936df5017ed467e1506dfec04fa8695092",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png"
+    },
+    {
+      "page_number": 11,
+      "title": "Witch Way to the Restroom?",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P011",
+      "file": "book/pages/P011.png",
+      "sha256": "a9572d0a145fc7a460c475202b5f0d2ca80230e755310cd6b38cbbef0fa0d7d5",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png"
+    },
+    {
+      "page_number": 12,
+      "title": "Shake, Rattle and Ghoul",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P012",
+      "file": "book/pages/P012.png",
+      "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png"
+    },
+    {
+      "page_number": 13,
+      "title": "Neon Night Shift",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P013",
+      "file": "book/pages/P013.png",
+      "sha256": "ab056a6461e3095162ac31a9fe5f34a99760643b42e770926db891d6d923ba1d",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png"
+    },
+    {
+      "page_number": 14,
+      "title": "The Daily Scream",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P014",
+      "file": "book/pages/P014.png",
+      "sha256": "24f5cb5e145a7bd505df7fd11ac524959f4496ff45c0b9a2cf9eb21b94323789",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png"
+    },
+    {
+      "page_number": 15,
+      "title": "Coffin Break",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P015",
+      "file": "book/pages/P015.png",
+      "sha256": "0c3dc43d89415565e4461285c57564738f11ea0fcfcecb680371538d8712ab5c",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png"
+    },
+    {
+      "page_number": 16,
+      "title": "Pickle Panic",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P016",
+      "file": "book/pages/P016.png",
+      "sha256": "a41977fc55cab82555f840249a1c84e8e25a445b9459658a1b9e81d83e09bc47",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png"
+    },
+    {
+      "page_number": 17,
+      "title": "Table for Thirteen",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P017",
+      "file": "book/pages/P017.png",
+      "sha256": "b7d56c00d450fb65cd951cc72f7a19466318a68e6adf1c8c5d58c11fc4592a03",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png"
+    },
+    {
+      "page_number": 18,
+      "title": "Sundae Under the Stars",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P018",
+      "file": "book/pages/P018.png",
+      "sha256": "c38b86a77b7392dd3aa22e2a3bd972dfd4c50be42877a4309907acc0ab9c5eb6",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png"
+    },
+    {
+      "page_number": 19,
+      "title": "Last Call for Creeps",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P019",
+      "file": "book/pages/P019.png",
+      "sha256": "5d2e4a0fcad01c33ff21dd22fca1fe58d3b53726ad2d161afc1beed7423362db",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png"
+    },
+    {
+      "page_number": 20,
+      "title": "Moonlight Takeaway",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P020",
+      "file": "book/pages/P020.png",
+      "sha256": "a427fba1949a7d20e12e6aa23594c482955481ecd52c8438e3b2825a8c6a7f91",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png"
+    },
+    {
+      "page_number": 21,
+      "title": "See You at Midnight",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P021",
+      "file": "book/pages/P021.png",
+      "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png"
+    }
+  ],
+  "selection": {
+    "cover": 1,
+    "lead": 1,
+    "showcase": [
+      2,
+      12,
+      21
+    ],
+    "collage": [
+      2,
+      4,
+      7,
+      9,
+      12,
+      14,
+      16,
+      19,
+      21
+    ],
+    "example": 2,
+    "pages_used": [
+      1,
+      2,
+      4,
+      7,
+      9,
+      12,
+      14,
+      16,
+      19,
+      21
+    ]
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 1,
+      "pages": 21,
+      "page_size_mm": [
+        210,
+        297
+      ],
+      "artwork_size_mm": [
+        184.7,
+        277
+      ]
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 1,
+      "pages": 21,
+      "page_size_mm": [
+        215.9,
+        279.4
+      ],
+      "artwork_size_mm": [
+        172.9,
+        259.4
+      ]
+    },
+    {
+      "key": "Colouring-Pages-PNG",
+      "label": "PNG pages",
+      "files": 21,
+      "pages": 21
+    }
+  ],
+  "png_pages": true,
+  "png_page_files": 21,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/START-HERE-Printing-Guide.pdf",
+    "sha256": "259904be46e8d53027f14d65409468ea7adf03193851f0f797216164322382a3"
+  },
+  "sheet_preview": {
+    "file": "production/previews/preview-01-LumiumX-Midnight-Monster-Diner-Colouring-Book-A4-p1.png",
+    "sha256": "1b0e16d41755d615e89479136c6051ff144f511e23a76cad89e381232fb1038f",
+    "label": "Cover (A4)"
+  },
+  "line_art": true,
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Midnight-Monster-Diner-Colouring-Book",
+    "parts": 3,
+    "zip_mb": 42.5
+  },
+  "effective_ppi": {
+    "A4": 141,
+    "US-Letter": 150
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Midnight-Monster-Diner-Colouring-Book-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "page": 1,
+      "sha256": "1b0e16d41755d615e89479136c6051ff144f511e23a76cad89e381232fb1038f"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Midnight-Monster-Diner-Colouring-Book-A4-p2.png",
+      "label": "Page 2 of 21 (A4)",
+      "source": "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "page": 2,
+      "sha256": "4c732849af26f85fea7e5d10e3f26e52468b13b50eb6724639738893e035eea1"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Midnight-Monster-Diner-Colouring-Book-A4-p21.png",
+      "label": "Page 21 of 21 (A4)",
+      "source": "A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "page": 21,
+      "sha256": "2bc52946ca271d70a2e09f4dc6ce54c975ee489973bee05d3e8b0a0d4d091caf"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "label": "Contact sheet: all 21 pages in order",
+      "source": null,
+      "page": null,
+      "sha256": "61b687a6f80db37512bc9cc4c2031df761a83b6728d6391ad554038f119661ed"
+    }
+  ],
+  "page_quantity": {
+    "total_pages": 21,
+    "content_pages": 20,
+    "content": "colouring"
+  },
+  "style": {
+    "subject": "Monster diners",
+    "palette": "Pure black ink on clean white paper; artwork must remain entirely colourer-led, with no pre-coloured fills.",
+    "mood": "Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "fc79392b4190b582a054efe8bb64f5d6f14b6c721aa13d040134b9e22c11dd94"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "a9f81ef8f84b5a2bdcfb5981f5dde0839b9d3220484f51b2a57d950ac204dd2b"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "98b2af9857062d037ac4ff00dfb13a0db45e0d900e769b5eb081dda175477044"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Monster diners",
+      "scene": "All-night roadside diner",
+      "emotional_tone": "Cheeky, nostalgic and mischievous",
+      "illustration_style": "Bold mid-century horror-cartoon colouring-book line art with a playful retro roadside sensibility.",
+      "mood": "Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults.",
+      "detail": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail."
+    },
+    "pages": {
+      "2": {
+        "title": "Graveyard Shift",
+        "description": "Inside the diner, a bow-tied vampire waiter balances a tray holding a stack of six pancakes, a skull-shaped butter pat and a steaming coffee pot. A bandaged mummy slumps in a booth beneath a window showing a moon and three tiny bats. The table holds a ketchup bottle, salt shaker and folded napkin.",
+        "source": "approved page brief (page 2)"
+      },
+      "4": {
+        "title": "Moon Pie Special",
+        "description": "A witch in a curled hat flips three crescent-moon pies with a spatula behind the counter. A bubbling cauldron-shaped mixing bowl, flour tin, rolling pin and pie display sit nearby. Four small stars float above the griddle; the menu board has only decorative lines, no small wording.",
+        "source": "approved page brief (page 4)"
+      },
+      "7": {
+        "title": "Bottomless Brew",
+        "description": "A friendly swamp creature with long arms pours coffee from a giant percolator into three mismatched mugs on a counter. The mugs show a moon, a bat and a skull symbol. A sugar dispenser, three doughnuts and a hanging lamp provide simple framing details.",
+        "source": "approved page brief (page 7)"
+      },
+      "9": {
+        "title": "Pie-Eyed Poltergeist",
+        "description": "A grinning floating ghost wears a diner bib and faces an enormous pie on a stand. Three pie slices hover around it, moved by ghostly swirls. A startled waiter drops one spoon, while a table tent displays a bold “1” for the contest table.",
+        "source": "approved page brief (page 9)"
+      },
+      "12": {
+        "title": "Shake, Rattle and Ghoul",
+        "description": "Three distinct ghouls perched on diner stools sip from three extravagant milkshakes: one topped with a cherry eyeball, one with a tiny ghost biscuit, and one with a crescent cookie. A tipped sugar jar spills exactly seven large sugar cubes across the counter. A wall clock reads midnight with both hands pointing to twelve.",
+        "source": "approved page brief (page 12)"
+      },
+      "14": {
+        "title": "The Daily Scream",
+        "description": "A fluffy werewolf in a booth reads an oversized newspaper with the short masthead “DAILY SCREAM”. On the table are a full moon waffle, a mug and a jam pot. Outside the window, a delivery van shaped like a hearse passes under three rain clouds.",
+        "source": "approved page brief (page 14)"
+      },
+      "16": {
+        "title": "Pickle Panic",
+        "description": "A mummy chef runs after five lively pickle creatures rolling across the diner kitchen floor. Each pickle has simple eyes and tiny arms. A toppled pickle jar, burger bun, ladle and open swinging kitchen door create a clear action path.",
+        "source": "approved page brief (page 16)"
+      },
+      "19": {
+        "title": "Last Call for Creeps",
+        "description": "A sleepy zombie waiter flips a large door sign from an open circle to a closed crescent symbol while a witch sweeps and a vampire stacks three stools. Through the front window, the rising sun peeks behind two hills, but the scene stays playful rather than ominous. A single bat yawns from a ceiling beam.",
+        "source": "approved page brief (page 19)"
+      },
+      "21": {
+        "title": "See You at Midnight",
+        "description": "The diner façade is seen front-on beneath a huge crescent moon, with the main monster cast waving from windows and doorway: vampire, mummy, witch, cyclops, werewolf and ghost. A large haunted milkshake sits on the roof like a sign topper. Six simple stars, two pumpkins and a blank banner provide a celebratory finale.",
+        "source": "approved page brief (page 21)"
+      }
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Midnight Monster Diner Colouring Book"
+    ],
+    "page-count": [
+      "21 pages",
+      "21 printable pages",
+      "21-page",
+      "20 colouring pages",
+      "20 printable colouring pages",
+      "20 pages",
+      "20 designs",
+      "20 illustrations",
+      "20 colouring pages + cover",
+      "20 colouring pages and a cover",
+      "21",
+      "20"
+    ],
+    "page-number": [
+      "Page 1 of 21",
+      "Page 2 of 21",
+      "Page 3 of 21",
+      "Page 4 of 21",
+      "Page 5 of 21",
+      "Page 6 of 21",
+      "Page 7 of 21",
+      "Page 8 of 21",
+      "Page 9 of 21",
+      "Page 10 of 21",
+      "Page 11 of 21",
+      "Page 12 of 21",
+      "Page 13 of 21",
+      "Page 14 of 21",
+      "Page 15 of 21",
+      "Page 16 of 21",
+      "Page 17 of 21",
+      "Page 18 of 21",
+      "Page 19 of 21",
+      "Page 20 of 21",
+      "Page 21 of 21"
+    ],
+    "page-title": [
+      "Midnight Monster Diner",
+      "Graveyard Shift",
+      "Jukebox Jitters",
+      "Moon Pie Special",
+      "Booth for Two",
+      "Drive-Thru Doom",
+      "Bottomless Brew",
+      "Creature Feature Feast",
+      "Pie-Eyed Poltergeist",
+      "Monster Mash Hash",
+      "Witch Way to the Restroom?",
+      "Shake, Rattle and Ghoul",
+      "Neon Night Shift",
+      "The Daily Scream",
+      "Coffin Break",
+      "Pickle Panic",
+      "Table for Thirteen",
+      "Sundae Under the Stars",
+      "Last Call for Creeps",
+      "Moonlight Takeaway",
+      "See You at Midnight"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "PNG pages",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "PDF",
+      "PNG pages",
+      "Every page as a PNG",
+      "PDF and PNG files",
+      "Individual PNG pages"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Colour",
+      "Print at home or use a print shop",
+      "One design per page",
+      "Print single-sided",
+      "Print as many copies as you need for personal use"
+    ],
+    "example": [
+      "Coloured example",
+      "Coloured example for inspiration",
+      "Colours shown are an example only"
+    ],
+    "cover": [
+      "Cover page",
+      "Cover included",
+      "Illustrated cover"
+    ],
+    "line-art": [
+      "Black-and-white line art",
+      "Black and white line art",
+      "Line art"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pattern_id": "meadow-bud-cluster",
+  "name": "Meadow Bud Cluster",
+  "category": "filler spray",
+  "difficulty": "easy",
+  "finished_size": "About 12 cm long including stem",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for tiny buds",
+      "colour": "Cream or oat",
+      "amount": "About 8 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "26-gauge floral wire",
+    "Green floral tape",
+    "Small amount of polyester fibrefill",
+    "Tapestry needle",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "sc",
+    "inc",
+    "dec"
+  ],
+  "abbreviations": {
+    "MR": "magic ring",
+    "rnd": "round",
+    "st": "stitch",
+    "sc": "single crochet",
+    "inc": "2 single crochet in one stitch",
+    "dec": "single crochet decrease"
+  },
+  "gauge": "Gauge is not critical because the buds are small decorative elements. Use a firm tension so the stuffing does not show.",
+  "instructions": [
+    {
+      "heading": "Buds",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Work 6 sc in MR.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Sc in each st around. Lightly stuff the bud before the next rnd.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Dec 6 times.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Sc in each st around. Fasten off, leaving a 15-centimetre sewing tail.",
+          "stitch_count": 6
+        },
+        {
+          "label": null,
+          "text": "Make 7 buds in total.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Cut one 12-centimetre wire for the central stem and six 8-centimetre wires for side branches.",
+    "Place a wire tip against the underside of each bud. Use its sewing tail to make three tight passes through the six final-rnd stitches and around the wire, securing one bud to each wire.",
+    "Position the bud on the 12-centimetre wire at the top. On the six shorter wires, leave the bud at one end and use the unbudded end for joining.",
+    "Twist the unbudded end of two side branches around the central stem 2 centimetres above its lower end. Attach two more branches 3.5 centimetres above the lower end and the final pair 5 centimetres above it.",
+    "Arrange each pair on opposite sides of the central stem. Bend the branches gently upward so their buds form an airy, tapered cluster below the central bud.",
+    "Stretch-wrap floral tape from beneath each bud down its branch wire. Continue the tape over the branch joins and down the central stem, overlapping the tape slightly."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off each bud after Rnd 5, leaving the stated sewing tail for attaching it to its wire.",
+    "Weave the remaining yarn tails into the underside of their buds after the buds have been secured to the wires.",
+    "Bend the lower end of the central wire back by 5 millimetres and cover it with floral tape so no sharp wire is exposed.",
+    "Gently adjust the wired branches to create an open, balanced spray before attaching it to wall-hoop décor."
+  ],
+  "notes": [
+    "Keep the buds lightly stuffed; overstuffing makes the small rounds stretch and show the yarn stuffing.",
+    "For a longer or fuller filler, make extra buds and add them as additional wired side branches."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,253 @@
+{
+  "pattern_id": "moon-peony",
+  "name": "Moon Peony",
+  "category": "flower",
+  "difficulty": "experienced",
+  "finished_size": "About 11 cm across; finished wired stem is about 28 cm long.",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn for layered petals",
+      "colour": "Moonlit ivory",
+      "amount": "About 20 g"
+    },
+    {
+      "description": "Mercerised cotton yarn for padded centre",
+      "colour": "Pale butter yellow",
+      "amount": "About 3 g"
+    },
+    {
+      "description": "Mercerised cotton yarn for calyx and stem wrap",
+      "colour": "Soft sage green",
+      "amount": "About 4 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1/C-2"
+  },
+  "additional_materials": [
+    "Polyester fibrefill, small amount",
+    "Tapestry needle",
+    "Scissors",
+    "One 35 cm length of 24-gauge floral wire",
+    "Green floral tape"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr",
+    "dtr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "dtr": "double treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "rnds": "rounds",
+    "rep": "repeat",
+    "MR": "magic ring",
+    "inc": "work 2 sc in the same stitch"
+  },
+  "gauge": "Gauge is not critical. Use a firm tension so the petal edges hold their cupped shape and the padded centre remains neat.",
+  "instructions": [
+    {
+      "heading": "Padded Centre Discs (make 2)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 6 sc in the MR; join with sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Finish",
+          "text": "Fasten off each disc, leaving a 30 cm yarn tail for seaming.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Small Petal Ring (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 6 sc in the MR; join with sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Work (sc, hdc, 3 dc, hdc, sc) in the next st, sl st in the next st; rep from the beginning of this instruction 5 more times to make 6 petals.",
+          "stitch_count": 48
+        },
+        {
+          "label": "Finish",
+          "text": "Fasten off, leaving a 15 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Medium Petal Ring (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 6 sc in the MR; join with sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, work (sc in the next st, inc in the next st) 6 times; join with sl st to the first sc.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Work (sc, hdc, dc, 3 tr, dc, hdc, sc) in the next st, sl st in the next st; rep from the beginning of this instruction 8 more times to make 9 petals.",
+          "stitch_count": 90
+        },
+        {
+          "label": "Finish",
+          "text": "Fasten off, leaving a 15 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Large Petal Ring (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 6 sc in the MR; join with sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, sc in the next 2 sts, then work (sc in the next st, inc in the next st) 6 times; join with sl st to the first sc.",
+          "stitch_count": 20
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Work (sc, hdc, dc, 2 tr, dtr, 2 tr, dc, hdc, sc) in the next st, sl st in the next st; rep from the beginning of this instruction 9 more times to make 10 petals.",
+          "stitch_count": 120
+        },
+        {
+          "label": "Finish",
+          "text": "Fasten off, leaving a 15 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Outer Petal Ring (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, ch 1, work 6 sc in the MR; join with sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, work (sc in the next st, inc in the next st) 6 times; join with sl st to the first sc.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Ch 1, work (sc in the next st, inc in the next st) 6 times; join with sl st to the first sc.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Work (sc, hdc, dc, 2 tr, 2 dtr, 2 tr, dc, hdc, sc) in the next st, sl st in the next st; rep from the beginning of this instruction 11 more times to make 12 petals.",
+          "stitch_count": 156
+        },
+        {
+          "label": "Finish",
+          "text": "Fasten off, leaving a 20 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Calyx (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage green yarn, make an MR, ch 1, work 5 sc in the MR; join with sl st to the first sc.",
+          "stitch_count": 5
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, inc in each st around; join with sl st to the first sc.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Work (sc, hdc, dc, tr, ch 3, sl st in the third ch from hook, tr, dc, hdc, sc) in the next st, sl st in the next st; rep from the beginning of this instruction 4 more times to make 5 pointed sepals.",
+          "stitch_count": 50
+        },
+        {
+          "label": "Finish",
+          "text": "Fasten off, leaving a 20 cm yarn tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Place the two centre discs with their outside faces facing outward. Whip stitch through corresponding outer stitches, using one centre tail; add small amounts of fibrefill before closing the final 3 stitches.",
+    "Place the Outer Petal Ring beneath the padded centre with its petal side facing upward. Use its tail to sew every second base stitch to the underside of the centre, making 12 evenly spaced attachment points.",
+    "Place the Large Petal Ring above the outer ring and beneath the centre. Sew every second base stitch to the underside of the centre with its tail, making 10 evenly spaced attachment points.",
+    "Place the Medium Petal Ring above the large ring and beneath the centre. Sew every second base stitch to the underside of the centre with its tail, making 9 evenly spaced attachment points.",
+    "Place the Small Petal Ring nearest the centre. Sew every second base stitch to the underside of the centre with its tail, making 6 evenly spaced attachment points.",
+    "Centre the calyx beneath all petal-ring bases, with the sepals pointing outward. Sew its centre securely to the underside of the flower using its yarn tail.",
+    "Bend one end of the floral wire into a 2 cm hook. Lay the hook flat against the calyx centre and secure it with several firm stitches of sage yarn through the calyx and outer petal-ring base.",
+    "Wrap the full wire length with green floral tape, overlapping the tape slightly. Begin at the calyx and stretch the tape gently as it is wrapped down the stem."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining sewing yarn by passing it through several underside stitches and pulling it snugly closed.",
+    "Weave all yarn tails into the underside of the flower or through the wrapped stem, keeping them away from the visible petal faces.",
+    "Gently curve the petals upward from their bases and soften the outer petal edges with your fingers to create a full, ruffled bloom.",
+    "Bend the wired stem gradually into the desired bouquet position. Avoid sharp bends that could crease the floral tape."
+  ],
+  "notes": [
+    "The slip stitches between petals create separations and encourage the petals to cup upward.",
+    "For a fuller bloom, stagger each petal ring so a petal sits in front of the gap between two petals on the layer beneath.",
+    "Keep the centre lightly stuffed; overfilling can make the petal layers stand too far away from the bloom."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

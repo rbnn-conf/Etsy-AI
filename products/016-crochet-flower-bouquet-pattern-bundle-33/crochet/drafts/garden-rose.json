@@ -1,0 +1,134 @@
+{
+  "pattern_id": "garden-rose",
+  "name": "Garden Rose",
+  "category": "Flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 8 cm across",
+  "yarn": [
+    {
+      "description": "Smooth cotton or cotton-blend yarn for the rose bloom",
+      "colour": "Dusty blush pink",
+      "amount": "About 15 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B/1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "MR": "magic ring",
+    "Rnd": "round",
+    "rep": "repeat",
+    "sk": "skip"
+  },
+  "gauge": "Gauge is not critical because this is a decorative flower. Keep your tension even so the petal layers sit neatly together.",
+  "instructions": [
+    {
+      "heading": "Centre",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Ch 20. Starting in 2nd ch from hook, sc in next ch, hdc in next ch, 2 dc in each of next 15 ch, hdc in next ch, sc in last ch.",
+          "stitch_count": 34
+        }
+      ]
+    },
+    {
+      "heading": "Inner Petal Ring",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, work 6 sc in MR, and join with a sl st in first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "*(Ch 3, sk next sc, sl st in next sc) rep 2 times. Three chain loops are made.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Sl st into first chain loop; ch 1, then work (sc, hdc, 2 dc, hdc, sc) in the same loop. *Sl st into next chain loop, then work (sc, hdc, 2 dc, hdc, sc) in that loop; rep 2 times. Join with a sl st in first sc of Rnd 3.",
+          "stitch_count": 18
+        }
+      ]
+    },
+    {
+      "heading": "Medium Petal Ring",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, work 8 sc in MR, and join with a sl st in first sc.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Rnd 2",
+          "text": "*(Ch 4, sk next sc, sl st in next sc) rep 3 times. Four chain loops are made.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Sl st into first chain loop; ch 1, then work (sc, hdc, 3 dc, hdc, sc) in the same loop. *Sl st into next chain loop, then work (sc, hdc, 3 dc, hdc, sc) in that loop; rep 3 times. Join with a sl st in first sc of Rnd 3.",
+          "stitch_count": 28
+        }
+      ]
+    },
+    {
+      "heading": "Outer Petal Ring",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR, work 10 sc in MR, and join with a sl st in first sc.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Rnd 2",
+          "text": "*(Ch 5, sk next sc, sl st in next sc) rep 4 times. Five chain loops are made.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Sl st into first chain loop; ch 1, then work (sc, hdc, 2 dc, tr, 2 dc, hdc, sc) in the same loop. *Sl st into next chain loop, then work (sc, hdc, 2 dc, tr, 2 dc, hdc, sc) in that loop; rep 4 times. Join with a sl st in first sc of Rnd 3.",
+          "stitch_count": 40
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Roll the Centre strip from its first sc end into a tight spiral, keeping the fuller dc section along the upper edge. Use its reserved yarn tail to make four small stitches through the base of the roll and secure the spiral.",
+    "Lay the Outer Petal Ring flat. Centre the Medium Petal Ring over it, offsetting the petals so each medium petal sits between two outer petals.",
+    "Place the Inner Petal Ring over the Medium Petal Ring, again offsetting its petals. Align all three MR openings and use reserved yarn tails to sew the layers together through the openings.",
+    "Position the rolled Centre over the Inner Petal Ring, covering the MR opening. Sew securely through the base of the roll and the inner ring without stitching through visible petal edges."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "After crocheting each piece, fasten off, leaving a 20 cm yarn tail on the Centre and each petal ring for sewing.",
+    "After assembly, weave in all remaining yarn tails on the reverse side without pulling the centre or petals out of shape.",
+    "Gently spread and curve the petals with your fingers, arranging the inner petals upright and the outer petals slightly outward."
+  ],
+  "notes": [
+    "For a fuller bloom, keep the petal rings loosely sewn so the petals can overlap naturally.",
+    "Use the same rose colour throughout, or make the Centre one shade deeper for a softly shaded flower."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

@@ -1,0 +1,118 @@
+{
+  "rejected": [
+    {
+      "file": "rejected/A02-economy-v1.png",
+      "sha256": "84d7d314a7f1f9835974c2c0c1d6edef94cc0e9163ba63429c3f568474bf1edf",
+      "reason": "v1 has nine opaque source-perimeter pixels; stricter final boundary QC requires zero edge contact.",
+      "record": "regenerated-A02-economy.json"
+    },
+    {
+      "file": "rejected/A04-economy-v1.png",
+      "sha256": "f98a9a45689d28f10f8f56dcdde24055cc3eb43fbff22e9eb45105493affbb31",
+      "reason": "Final source-boundary check found an opaque perimeter pixel; redraw supplies clear transparent margins.",
+      "record": "regenerated-A04-economy.json"
+    },
+    {
+      "file": "rejected/A08-economy-v1.png",
+      "sha256": "84d0271ad3333f031316dfd6554dab33062cd9c0aeae517fcd0dc60b540e7e67",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-A08-economy.json"
+    },
+    {
+      "file": "rejected/A09-economy-v1.png",
+      "sha256": "16956a4c22625544e97f66f6557453059e23955420dc9f6eb57caf074b3ecb54",
+      "reason": "Economy v1 has excessive smooth grey tonal shading instead of sparse engraving.",
+      "record": "regenerated-A09-economy.json"
+    },
+    {
+      "file": "rejected/B02-economy-v1.png",
+      "sha256": "26cf2f12fa37e4ce439ab251618fd437e0c258556d7ca3d1ad033e21351882a6",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-B02-economy.json"
+    },
+    {
+      "file": "rejected/B04-economy-v1.png",
+      "sha256": "b6eb7d7e732eaf755072a86ee1ba8af043e7783bc1be22ab3267e3e6eca98c91",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-B04-economy.json"
+    },
+    {
+      "file": "rejected/B05-economy-v1.png",
+      "sha256": "a80130e3be8a5d058c65c17197602e07c0d54bf189ddd4dd242f7e2fd6a03753",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-B05-economy.json"
+    },
+    {
+      "file": "rejected/C02-economy-v1.png",
+      "sha256": "8d544b11bb575949f5732a7b8746f4e6f48c8142cb19370b8ce499d04130dd53",
+      "reason": "v1 inherited inconsistent lunar lighting; replaced to coordinate with accepted signature v3.",
+      "record": "regenerated-C02-economy.json"
+    },
+    {
+      "file": "rejected/C02-economy-v2.png",
+      "sha256": "b8e625e135936ad08ddab9ecc887f0a3f3724b28d9647e38c2f99eed5f161349",
+      "reason": "Economy phase-correct candidate contained 1.66% chromatic opaque pixels above 1% tolerance; neutral sparse engraving redrawn.",
+      "record": "regenerated-C02-economy-v3.json"
+    },
+    {
+      "file": "rejected/C02-signature-v1.png",
+      "sha256": "90aa6b746c5ec96834286851412338dfd3e2d795011fb77ed593c180f54163ab",
+      "reason": "Signature v1 lunar lighting directions do not form a consistent waxing/full/waning sequence.",
+      "record": "regenerated-C02-signature.json"
+    },
+    {
+      "file": "rejected/C02-signature-v2.png",
+      "sha256": "6f97d489a924181a0884dbf09bd6c32c99826f758673cf468ba035ccc766631f",
+      "reason": "v2 edit retained incorrect lunar lighting; new original generation required.",
+      "record": "regenerated-C02-signature-v3.json"
+    },
+    {
+      "file": "rejected/C04-economy-v1.png",
+      "sha256": "d18fc20f0b1fa34bf6ea8ba861a72be2d772dbb041618b68d9c2edef73402a15",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-C04-economy.json"
+    },
+    {
+      "file": "rejected/D01-economy-v1.png",
+      "sha256": "b6e334e98eb98295e06caace39de8a63b0dfb2fb920bd27c62c955c327ce2f23",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-D01-economy.json"
+    },
+    {
+      "file": "rejected/D03-economy-v1.png",
+      "sha256": "f82bbb5223779f3a397348732798041fd472a975c752dd8f5f832b09a3b16fdf",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-D03-economy.json"
+    },
+    {
+      "file": "rejected/D04-economy-v1.png",
+      "sha256": "48249b68618fed803dc9e405796bbef13698e685e1329a72d4007916f9e89aa6",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-D04-economy.json"
+    },
+    {
+      "file": "rejected/D07-economy-v1.png",
+      "sha256": "db8f205010538a3cdd14fcb572a0ae623309dca3f3063eea91743d2a15334b9f",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-D07-economy.json"
+    },
+    {
+      "file": "rejected/D08-economy-v1.png",
+      "sha256": "840cfc19369ec38a0843361926e327ef6277d050c0a76a71116c1a2e4b7fbb1a",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-D08-economy.json"
+    },
+    {
+      "file": "rejected/E04-economy-v1.png",
+      "sha256": "cfcfb1a80d5f1e904b036794af4d74b3022816cc84916cf089e5a51ea2c22967",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-E04-economy.json"
+    },
+    {
+      "file": "rejected/E05-economy-v1.png",
+      "sha256": "1b65a55e007254fd7f8b8318232041adbca7cf57704ae2cd91f36cbda6f1080b",
+      "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+      "record": "regenerated-E05-economy.json"
+    }
+  ]
+}

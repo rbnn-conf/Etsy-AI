@@ -1,0 +1,105 @@
+{
+  "pattern_id": "sage-leaf-sprig",
+  "name": "Sage Leaf Sprig",
+  "category": "foliage",
+  "difficulty": "beginner",
+  "finished_size": "About 16 cm long and 7 cm wide at the leaves",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for stem and leaves",
+      "colour": "Muted sage green",
+      "amount": "About 10 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "18 cm length of 0.5 mm floral wire",
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "st": "stitch",
+    "cm": "centimetre"
+  },
+  "gauge": "Gauge is not critical. Keep stitches firm so the leaves hold their pointed shape.",
+  "instructions": [
+    {
+      "heading": "Stem",
+      "steps": [
+        {
+          "label": "Foundation chain",
+          "text": "Leaving a 20 cm starting tail, ch 61.",
+          "stitch_count": 61
+        },
+        {
+          "label": "Return row",
+          "text": "Starting in the second ch from hook, sl st in each ch across. Leave a 20 cm ending tail, cut yarn and draw the tail through the working loop to fasten off.",
+          "stitch_count": 60
+        }
+      ]
+    },
+    {
+      "heading": "Leaves (make 10)",
+      "steps": [
+        {
+          "label": "Foundation chain",
+          "text": "Leaving a 20 cm starting tail, ch 14.",
+          "stitch_count": 14
+        },
+        {
+          "label": "Side 1",
+          "text": "Working in the back bumps of the foundation chain, starting in the second ch from hook: sl st in next ch, sc in next ch, hdc in next ch, dc in next ch, tr in each of next 5 ch, dc in next ch, hdc in next ch, sc in next ch, sl st in last ch.",
+          "stitch_count": 13
+        },
+        {
+          "label": "Side 2",
+          "text": "Rotate the work and crochet along the opposite side of the foundation chain: sl st in next ch, sc in next ch, hdc in next ch, dc in next ch, tr in each of next 5 ch, dc in next ch, hdc in next ch, sc in next ch, sl st in last ch.",
+          "stitch_count": 26
+        },
+        {
+          "label": "Close leaf",
+          "text": "Sl st into the first sl st to close the leaf. Leave a 20 cm ending tail, cut yarn and draw the tail through the working loop to fasten off.",
+          "stitch_count": 27
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Cut a 1.5 m length of sage yarn. Bend 1 cm at each end of the floral wire to form blunt hooks.",
+    "Place the wire along the reverse of the stem, extending about 1 cm beyond each stem end. Spiral-wrap the cut yarn around both the wire and crocheted stem from end to end; secure each end with three sewn passes.",
+    "Arrange the 10 leaves into five pairs. Place the bases of the pairs at 2.5 cm, 5 cm, 7.5 cm, 10 cm and 12.5 cm from the lower end of the stem.",
+    "For each pair, place one leaf on each side of the stem with its point directed outward and upward. Angle the first, third and fifth pairs about 45 degrees from the stem, and the second and fourth pairs about 35 degrees from the stem.",
+    "Use each leaf's two tails to sew its base to the wrapped stem with three firm passes. Weave both tails through the wrapped stem on the reverse side before trimming."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining working loop by cutting the yarn and drawing the tail completely through the loop.",
+    "Weave all remaining stem-wrap yarn tails through the reverse of the stem and trim them close without cutting the crochet.",
+    "Gently bend the wired stem into a soft curve and spread the leaf pairs into a natural staggered arrangement.",
+    "Lightly steam-block the leaves if needed, avoiding direct contact between a hot iron and the yarn."
+  ],
+  "notes": [
+    "For a fuller sprig, make 12 leaves and add a sixth pair 15 cm from the lower stem end.",
+    "Keep the leaf bases aligned along the stem so the pointed tips remain visible behind flowers."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

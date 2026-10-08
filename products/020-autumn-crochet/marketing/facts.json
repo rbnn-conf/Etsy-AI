@@ -1,0 +1,699 @@
+{
+  "schema_version": 1,
+  "product_id": "020",
+  "product_name": "Falling Leaves Crochet Table Set",
+  "product_type": "Crochet pattern bundle",
+  "product_format": "crochet-pattern-bundle",
+  "season": "Autumn",
+  "target_customer": "Adult crocheters seeking seasonal handmade table décor",
+  "theme": "Falling Leaves Crochet Table Set",
+  "patterns": {
+    "count": 6,
+    "list": [
+      {
+        "pattern_id": "maple-leaf-placemat",
+        "number": 1,
+        "name": "Maple Leaf Placemat",
+        "category": "placemat",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+        "sha256": "74650d24b26a1a6c7fc5a01f238d03c6ffa0ea8edfc2540369bdfb07ef9bd929"
+      },
+      {
+        "pattern_id": "oak-leaf-applique",
+        "number": 2,
+        "name": "Oak Leaf Appliqué",
+        "category": "applique",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/02-Oak-Leaf-Applique-A4.pdf",
+        "sha256": "af8bba98fef006dc0702b38bd16e76133ffe464069ff45e4fe22f9fd9a3bff5d"
+      },
+      {
+        "pattern_id": "beech-leaf-coaster",
+        "number": 3,
+        "name": "Beech Leaf Coaster",
+        "category": "Beech leaf coaster",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/03-Beech-Leaf-Coaster-A4.pdf",
+        "sha256": "5b677eaee4b68809e973abea399a2abb4fe1f0d8d60bae8fe2f3a27acf18495f"
+      },
+      {
+        "pattern_id": "acorn-napkin-ring",
+        "number": 4,
+        "name": "Acorn Napkin Ring",
+        "category": "napkin ring",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/04-Acorn-Napkin-Ring-A4.pdf",
+        "sha256": "bc8caadac9b96ebe8a3aea956b46612c6a59e5819700adfe2c8ca3d4058f4c57"
+      },
+      {
+        "pattern_id": "falling-leaves-table-runner",
+        "number": 5,
+        "name": "Falling Leaves Table Runner",
+        "category": "table runner",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/05-Falling-Leaves-Table-Runner-A4.pdf",
+        "sha256": "507d523d484223b7b1703145be95b1c64a111da6f29b719569b2b38626b6037e"
+      },
+      {
+        "pattern_id": "chestnut-cutlery-pocket",
+        "number": 6,
+        "name": "Chestnut Cutlery Pocket",
+        "category": "cutlery pocket",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/06-Chestnut-Cutlery-Pocket-A4.pdf",
+        "sha256": "9aff71097ce5e6cca1b2aeeb053dfc5d4d9c5587a724e5807450a3315a157246"
+      }
+    ],
+    "categories": [
+      "placemat",
+      "applique",
+      "Beech leaf coaster",
+      "napkin ring",
+      "table runner",
+      "cutlery pocket"
+    ]
+  },
+  "terminology": "US",
+  "skill_levels": [
+    "Beginner",
+    "Easy",
+    "Intermediate"
+  ],
+  "skill_text": "Beginner to Intermediate",
+  "combinations": "Autumn Table Styling Ideas: 3 combination ideas",
+  "documents": {
+    "bundle": {
+      "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+      "sha256": "d82857b1cf75ee574a4bc25faeea717b70be4ad29671874dddc1fff8c09326ba",
+      "pages": 24
+    },
+    "index": {
+      "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+      "sha256": "96030248dedd8df73995576ec0402876ca0b6fb7f18f7dbb84f8fa5a9c839270",
+      "pages": 1
+    },
+    "materials": {
+      "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+      "sha256": "0a470caa270d2eb23ecbfa1d3be2a45e286c9f4f75f0e53eab3444dbb816e0a7",
+      "pages": 1
+    },
+    "abbreviations": {
+      "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-A4.pdf",
+      "sha256": "8e340ea74b4ce2a2c307a69096e842491046d77d2c248165845ac49af0018d6b",
+      "pages": 1
+    },
+    "guide": {
+      "file": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "sha256": "2a9bbaf86e97277525247427c78692bfed4be7b8670b4fb68ac953a61b7686be",
+      "pages": 1
+    }
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 10
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 10
+    }
+  ],
+  "printing_guide": true,
+  "individual_pattern_pdfs": true,
+  "selection": {
+    "inside": "maple-leaf-placemat",
+    "collage": [
+      "maple-leaf-placemat",
+      "oak-leaf-applique",
+      "beech-leaf-coaster",
+      "acorn-napkin-ring",
+      "falling-leaves-table-runner",
+      "chestnut-cutlery-pocket"
+    ],
+    "detail": "maple-leaf-placemat",
+    "feature": "oak-leaf-applique"
+  },
+  "renders": [
+    {
+      "role": "bouquet",
+      "asset": "proof-01",
+      "file": "proofs/attempt-03/proof-01.png",
+      "sha256": "437c056f4a0e39c4c9c24e9016917e24e0e40ec8a9473de343d65a95c0d98d05",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "pattern_name": "Maple Leaf Placemat",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "beech-leaf-coaster",
+          "pattern_name": "Beech Leaf Coaster",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "acorn-napkin-ring",
+          "pattern_name": "Acorn Napkin Ring",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "chestnut-cutlery-pocket",
+          "pattern_name": "Chestnut Cutlery Pocket",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.235,
+        "w": 1,
+        "h": 0.765
+      }
+    },
+    {
+      "role": "overview",
+      "asset": "proof-02",
+      "file": "proofs/attempt-03/proof-02.png",
+      "sha256": "126fa8b969a58d785e6ecb9431c28d96c1f74b9e646c803961968cbe4b1d3413",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "pattern_name": "Maple Leaf Placemat",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "oak-leaf-applique",
+          "pattern_name": "Oak Leaf Appliqué",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "beech-leaf-coaster",
+          "pattern_name": "Beech Leaf Coaster",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "acorn-napkin-ring",
+          "pattern_name": "Acorn Napkin Ring",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "falling-leaves-table-runner",
+          "pattern_name": "Falling Leaves Table Runner",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "chestnut-cutlery-pocket",
+          "pattern_name": "Chestnut Cutlery Pocket",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.21,
+        "w": 1,
+        "h": 0.79
+      }
+    },
+    {
+      "role": "detail",
+      "asset": "proof-03",
+      "file": "proofs/attempt-03/proof-03.png",
+      "sha256": "a2f4bff173cc7511c7e8d7f9bbc0867cff2f5236ad5dd61378726a5dfb506a55",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "pattern_name": "Maple Leaf Placemat",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.27,
+        "w": 1,
+        "h": 0.73
+      }
+    }
+  ],
+  "stitch_counts": true,
+  "illustration": {
+    "asset": "proof-01",
+    "file": "proofs/attempt-03/proof-01.png",
+    "sha256": "437c056f4a0e39c4c9c24e9016917e24e0e40ec8a9473de343d65a95c0d98d05",
+    "width": 1024,
+    "height": 1536
+  },
+  "integrity": {
+    "origin": "ai-assisted-draft",
+    "origins": {
+      "ai-assisted-draft": 6
+    },
+    "verification": {
+      "unverified": 6,
+      "tested": 0
+    },
+    "all_tested": false,
+    "any_ai_assisted": true,
+    "tested_pattern_ids": [],
+    "approved_for_production": {
+      "approved_at": "2026-10-06T20:01:25.889Z",
+      "by": "@romg_o",
+      "source_sha256": "3b8b9f080308960fe9a67fbfdd635b1151452b9b2ae286e6e18e2b6d441d5212"
+    },
+    "marketing_rules": [
+      "Approved for production is not tested: say \"tested\" only when integrity.all_tested is true.",
+      "Artwork is an AI-generated illustration (Stage 1), never a photograph of an item made from these patterns.",
+      "Never claim professionally tested, guaranteed, error-free or pattern-tester approved."
+    ]
+  },
+  "artwork": {
+    "hero": {
+      "asset": "proof-01",
+      "file": "proofs/attempt-03/proof-01.png",
+      "sha256": "437c056f4a0e39c4c9c24e9016917e24e0e40ec8a9473de343d65a95c0d98d05",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false
+    }
+  },
+  "deliverables": {
+    "papers": [
+      "A4",
+      "US Letter"
+    ],
+    "complete_bundle": true,
+    "individual_pattern_pdfs": 6,
+    "pattern_index": true,
+    "materials_reference": true,
+    "abbreviations_reference": true,
+    "step_by_step_instructions": true,
+    "printing_guide": true,
+    "pages_per_bundle": {
+      "A4": 24,
+      "US-Letter": 25
+    },
+    "files": 21
+  },
+  "visuals": {
+    "visual_match_status": "internally_checked",
+    "physically_verified": false,
+    "patterns_sha256": "3b8b9f080308960fe9a67fbfdd635b1151452b9b2ae286e6e18e2b6d441d5212",
+    "source": {
+      "file": "creative/visual-specs.json",
+      "sha256": "5dfbd939f015c16f28dafc5a9a83a979df65a6b98970dbf29c0e14e518bd1bed"
+    },
+    "pictured": {
+      "combination": "Layered Maple Place Setting",
+      "items": [
+        {
+          "pattern_id": "maple-leaf-placemat",
+          "pattern_name": "Maple Leaf Placemat",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "beech-leaf-coaster",
+          "pattern_name": "Beech Leaf Coaster",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "acorn-napkin-ring",
+          "pattern_name": "Acorn Napkin Ring",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "chestnut-cutlery-pocket",
+          "pattern_name": "Chestnut Cutlery Pocket",
+          "quantity": 1
+        }
+      ]
+    },
+    "pattern_facts": [
+      {
+        "pattern_id": "maple-leaf-placemat",
+        "pattern_name": "Maple Leaf Placemat",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 38 cm wide by 35 cm long",
+        "finished_width_cm": 38,
+        "finished_height_cm": 35,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for the leaf placemat",
+            "colour": "Burnt orange"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet",
+        "embellishments": [],
+        "unknown": [
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "oak-leaf-applique",
+        "pattern_name": "Oak Leaf Appliqué",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 13 cm long and 6 cm wide",
+        "finished_width_cm": 6,
+        "finished_height_cm": 13,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "or -blend yarn for the leaf",
+            "colour": "Burnt ochre"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet",
+        "embellishments": [],
+        "unknown": [
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "beech-leaf-coaster",
+        "pattern_name": "Beech Leaf Coaster",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 12 cm long including stem; about 7 cm wide",
+        "finished_width_cm": 7,
+        "finished_height_cm": 12,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for the leaf, stem and raised vein",
+            "colour": "Warm beech brown"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet",
+        "embellishments": [],
+        "unknown": [
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "acorn-napkin-ring",
+        "pattern_name": "Acorn Napkin Ring",
+        "motif_type": "napkin ring",
+        "flower_type": null,
+        "finished_size": "About 6 cm across; acorn about 5 cm tall",
+        "finished_width_cm": 6,
+        "finished_height_cm": 5,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for napkin ring and acorn body",
+            "colour": "Rust brown"
+          },
+          {
+            "role": "for textured acorn cap",
+            "colour": "Dark brown"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [
+          "stuffing"
+        ],
+        "unknown": []
+      },
+      {
+        "pattern_id": "falling-leaves-table-runner",
+        "pattern_name": "Falling Leaves Table Runner",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 100 cm long by 28 cm wide",
+        "finished_width_cm": 28,
+        "finished_height_cm": 100,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "or -blend yarn for the runner",
+            "colour": "Warm oatmeal or natural"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": []
+      },
+      {
+        "pattern_id": "chestnut-cutlery-pocket",
+        "pattern_name": "Chestnut Cutlery Pocket",
+        "motif_type": "cutlery pocket",
+        "flower_type": null,
+        "finished_size": "About 10 cm wide by 18 cm long",
+        "finished_width_cm": 10,
+        "finished_height_cm": 18,
+        "yarn_weight": "3-light",
+        "hook_mm": 3.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for the pocket and flap",
+            "colour": "chestnut brown"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": []
+      }
+    ]
+  },
+  "process_claims": [
+    "handmade",
+    "handcrafted",
+    "made by hand"
+  ],
+  "page_quantity": {
+    "total_pages": 24,
+    "content_pages": 6,
+    "content": "pattern"
+  },
+  "item_quantity": {
+    "count": 6,
+    "noun": "pattern"
+  },
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Falling-Leaves-Crochet-Table-Set",
+    "parts": 2,
+    "zip_mb": 26.5
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+      "page": 1,
+      "sha256": "e28bb07a9a591ab3f01cecf2ed8303ba53558e5d9256427a07da4d4b233f7d72"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4-p1.png",
+      "label": "Pattern index (A4)",
+      "source": "A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+      "page": 1,
+      "sha256": "4b42abeb7d0e3d2e46488184475234205def7606a39358f3443c9b171d4fe295"
+    },
+    {
+      "file": "production/previews/preview-03-01-Maple-Leaf-Placemat-A4-p1.png",
+      "label": "First pattern (A4)",
+      "source": "A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+      "page": 1,
+      "sha256": "2e43f60b8f0fce944dfad93ba598defaa9fba24f017ab88ff8bc7ca1cea3560c"
+    },
+    {
+      "file": "production/previews/preview-04-LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4-p1.png",
+      "label": "Materials and tools (A4)",
+      "source": "A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+      "page": 1,
+      "sha256": "7ab5456c2d3cd98c92d4a35c8beef179d1ca3aad5af8c83fd65d1a3d2c9fdf09"
+    }
+  ],
+  "style": {
+    "subject": "Crochet leaf table set",
+    "palette": "Autumn floral earth tones of terracotta, ochre, mulberry, dusty rose, moss and sage, balanced with cream, warm ivory, oatmeal and soft stone neutrals; use soft lavender or blush as a restrained Moonlit Meadow accent.",
+    "mood": "Romantic, cosy and tactile; a polished adult craft-market feeling with refined autumnal floral warmth."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "080c7c0b3d0adc34ff04962734d3d20478b4092344dc52883e67813e8e122af0"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "ad32db8b5a17a8db9a907a948945135887eb290eef00bc760e1e9a1453a63851"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "e8dc182b49e97a8354e3076de839550faab7588e0f98b693d1f7b9ac19db8b34"
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Falling Leaves Crochet Table Set"
+    ],
+    "pattern-count": [
+      "6 crochet patterns",
+      "6 patterns",
+      "6 crochet patterns in one collection",
+      "6"
+    ],
+    "pattern-number": [
+      "Pattern 01 of 6",
+      "Pattern 02 of 6",
+      "Pattern 03 of 6",
+      "Pattern 04 of 6",
+      "Pattern 05 of 6",
+      "Pattern 06 of 6"
+    ],
+    "pattern-name": [
+      "Maple Leaf Placemat",
+      "Oak Leaf Appliqué",
+      "Beech Leaf Coaster",
+      "Acorn Napkin Ring",
+      "Falling Leaves Table Runner",
+      "Chestnut Cutlery Pocket"
+    ],
+    "skill": [
+      "Beginner",
+      "Easy",
+      "Intermediate",
+      "Beginner to Intermediate"
+    ],
+    "terms": [
+      "US crochet terms"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "A4 + US Letter PDFs",
+      "PDF",
+      "PDF patterns"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase",
+      "Instant download",
+      "Digital PDF pattern download"
+    ],
+    "render": [
+      "Illustrated example",
+      "Illustration",
+      "Illustrations, not photos",
+      "Rendered example of the finished crochet design"
+    ],
+    "delivery": [
+      "No yarn or hook included",
+      "No yarn, hook or kit included"
+    ],
+    "features": [
+      "Skill level on every pattern",
+      "Materials listed for every pattern",
+      "Stitch counts"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included"
+    ],
+    "included": [
+      "Complete pattern collection PDF"
+    ],
+    "individual": [
+      "Each pattern as its own PDF",
+      "Individual pattern PDFs"
+    ],
+    "references": [
+      "Materials and abbreviations reference",
+      "Materials and tools reference",
+      "Abbreviations reference"
+    ],
+    "pattern-index": [
+      "Pattern index"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Crochet",
+      "Print at home"
+    ],
+    "instructions": [
+      "Step-by-step instructions",
+      "Written step-by-step instructions"
+    ],
+    "combinations": [
+      "Autumn Table Styling Ideas: 3 combination ideas"
+    ]
+  }
+}

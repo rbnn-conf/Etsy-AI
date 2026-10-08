@@ -1,0 +1,6 @@
+{
+  "description": "Product numbers already assigned outside the automation (hand-built or not yet committed). The allocator never issues these or anything below the highest, even on a checkout where the folder is absent.",
+  "reserved": [
+    { "id": "007", "product": "Cute Ghost Halloween Activity Book", "note": "Hand-built on feature/product-ghost-activity-book (handoff called it #006); may be absent from other checkouts." }
+  ]
+}

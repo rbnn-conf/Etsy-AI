@@ -1,0 +1,43 @@
+{
+  "themeSlug": "soft-rose",
+  "themeName": "Soft Rose",
+  "mood": "Blush-pink ground with a rose/mauve primary - softer and more romantic than Warm Peach without reading as childish. Slug kept from v2.0; palette fully redesigned for the v3.0 digital-stationery system (ADR-018).",
+  "rationale": "Rose/mauve is saturated enough to carry filled KPI cards and progress bars; blush background stays light and airy so 5-7 cards per page don't feel heavy.",
+  "colour": {
+    "background": "#FBF1F3",
+    "surface": "#FFFFFF",
+    "surfaceAlt": "#F7E3E8",
+    "cardSurface": "#FFFFFF",
+    "cardSurfaceAlt": "#FDE9EE",
+    "inputFill": "#FDF2F5",
+    "text": "#2E2226",
+    "textMuted": "#7A6067",
+    "border": "#F0DBE0",
+    "primary": "#C6577A",
+    "secondary": "#E8A0B4",
+    "accent": "#C6577A",
+    "highlight": "#F6C9D6",
+    "progress": "#C6577A",
+    "navActive": "#C6577A",
+    "badgeBg": "#F9DEE6",
+    "badgeText": "#8A3E56",
+    "success": "#3E8E6E",
+    "warning": "#B94D4D",
+    "shadowColour": "rgba(120,40,70,0.14)"
+  },
+  "categoryPalette": {
+    "groceries": "#5FA377",
+    "dining": "#E08A4A",
+    "transport": "#5C86C0",
+    "entertainment": "#8A6BC0",
+    "personal": "#D8A33E",
+    "household": "#8E7268"
+  },
+  "accentPlacements": [
+    "hero header band + KPI icon badges",
+    "Leftover metric card (emphasis card, filled not just bordered)",
+    "progress-bar fill on Savings/Debt cards",
+    "Dashboard nav pill-tabs + active section indicator",
+    "numbered step badges (Quick Start)"
+  ]
+}

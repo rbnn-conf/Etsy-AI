@@ -1,0 +1,2095 @@
+{
+  "schema_version": 1,
+  "product_id": "016",
+  "product_name": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+  "product_type": "Crochet flower bouquet pattern bundle",
+  "product_format": "crochet-pattern-bundle",
+  "season": "All-season twilight meadow",
+  "target_customer": "Adult crocheters drawn to poetic botanical projects and whimsical home décor",
+  "theme": "Moonlit meadow crochet flower bouquets",
+  "patterns": {
+    "count": 33,
+    "list": [
+      {
+        "pattern_id": "garden-rose",
+        "number": 1,
+        "name": "Garden Rose",
+        "category": "Flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/01-Garden-Rose-A4.pdf",
+        "sha256": "ed888ebd0765d4233889d57f56900231389277b82f7c51da42c67e3b468355c2"
+      },
+      {
+        "pattern_id": "moon-peony",
+        "number": 2,
+        "name": "Moon Peony",
+        "category": "flower",
+        "level": "Experienced",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/02-Moon-Peony-A4.pdf",
+        "sha256": "a0418d71a74f7504ecdaf034669ea2969bd4502ff32b840577cb35cfcf10b0d0"
+      },
+      {
+        "pattern_id": "heirloom-dahlia",
+        "number": 3,
+        "name": "Heirloom Dahlia",
+        "category": "flower",
+        "level": "Experienced",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/03-Heirloom-Dahlia-A4.pdf",
+        "sha256": "f1d6871d614de13fa4e949a08451e6e4124b3a87f916c3282be2db7a673071ec"
+      },
+      {
+        "pattern_id": "meadow-ranunculus",
+        "number": 4,
+        "name": "Meadow Ranunculus",
+        "category": "Flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/04-Meadow-Ranunculus-A4.pdf",
+        "sha256": "180753d52fa2f80201b3054ad626575deed12a2172e454710e5d5ebf587da2ca"
+      },
+      {
+        "pattern_id": "starlit-anemone",
+        "number": 5,
+        "name": "Starlit Anemone",
+        "category": "flower",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/05-Starlit-Anemone-A4.pdf",
+        "sha256": "fad9a4d7e6273b37fa217034aaf3fb9409417ad9a9a7c1deaea4d91c1ea7c0e6"
+      },
+      {
+        "pattern_id": "cottage-poppy",
+        "number": 6,
+        "name": "Cottage Poppy",
+        "category": "flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/06-Cottage-Poppy-A4.pdf",
+        "sha256": "305d47cc2e9d03146f945a8ec0e33af423f7199132a42b5a22b2d8ff32f35ee3"
+      },
+      {
+        "pattern_id": "twilight-lily",
+        "number": 7,
+        "name": "Twilight Lily",
+        "category": "Twilight Lily flower",
+        "level": "Experienced",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/07-Twilight-Lily-A4.pdf",
+        "sha256": "4e413d03414602a86cefed2395c1cf84afb0ade9c665ede17dbb9345b37c0120"
+      },
+      {
+        "pattern_id": "wild-sunflower",
+        "number": 8,
+        "name": "Wild Sunflower",
+        "category": "Wild sunflower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/08-Wild-Sunflower-A4.pdf",
+        "sha256": "29a45c0b6c2dc3bd62cd08cabb50b0c66cf688293e249127e94b64ddfe348bdc"
+      },
+      {
+        "pattern_id": "blush-tulip",
+        "number": 9,
+        "name": "Blush Tulip",
+        "category": "flower",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/09-Blush-Tulip-A4.pdf",
+        "sha256": "d99d8b1c2593056cc8256a35f9b23d6d0634d4ca9f2bfaf664b41447639baccd"
+      },
+      {
+        "pattern_id": "meadow-daisy",
+        "number": 10,
+        "name": "Meadow Daisy",
+        "category": "flower",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/10-Meadow-Daisy-A4.pdf",
+        "sha256": "73f19992d5f0886aa95f70965b8882950809f04940f571f895c124b0c5d7dbaf"
+      },
+      {
+        "pattern_id": "velvet-carnation",
+        "number": 11,
+        "name": "Velvet Carnation",
+        "category": "flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/11-Velvet-Carnation-A4.pdf",
+        "sha256": "308bd43db08c72060038f4f5a35ce7a7685923500f223e8a5ddc19cf285ad5e1"
+      },
+      {
+        "pattern_id": "hydrangea-cluster",
+        "number": 12,
+        "name": "Hydrangea Cluster",
+        "category": "flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/12-Hydrangea-Cluster-A4.pdf",
+        "sha256": "a3faf523b993907a9c190598309ca3b78ebd7c13e2e13842f6a5e04e79c34474"
+      },
+      {
+        "pattern_id": "moon-cosmos",
+        "number": 13,
+        "name": "Moon Cosmos",
+        "category": "flower",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/13-Moon-Cosmos-A4.pdf",
+        "sha256": "dd71eafb48aa05d7047d385d7ceca0e085b039a8fde72bfa73f722e277ebc04e"
+      },
+      {
+        "pattern_id": "winter-camellia",
+        "number": 14,
+        "name": "Winter Camellia",
+        "category": "Winter camellia flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/14-Winter-Camellia-A4.pdf",
+        "sha256": "3cb40a04a840d63803e73728b128db28084172a7e0ad9950fbb17a7a1d4b019d"
+      },
+      {
+        "pattern_id": "sweet-pea-spray",
+        "number": 15,
+        "name": "Sweet Pea Spray",
+        "category": "flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/15-Sweet-Pea-Spray-A4.pdf",
+        "sha256": "440b9db909a057596c8573ec209347a39480114227537bea1874b15ca1519793"
+      },
+      {
+        "pattern_id": "bluebell-stem",
+        "number": 16,
+        "name": "Bluebell Stem",
+        "category": "flower",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/16-Bluebell-Stem-A4.pdf",
+        "sha256": "256fd67f9cfc4c6999fc776ca63805efc8e292a8ec1bacc7f0ecd88de5ee1fd4"
+      },
+      {
+        "pattern_id": "lavender-sprig",
+        "number": 17,
+        "name": "Lavender Sprig",
+        "category": "flower",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/17-Lavender-Sprig-A4.pdf",
+        "sha256": "b8aec1c05d447bc2cf19ae6c79b8e4881674e2a22c75519fd146ba5667be6e7d"
+      },
+      {
+        "pattern_id": "baby-breath-spray",
+        "number": 18,
+        "name": "Baby's Breath Spray",
+        "category": "flower filler",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/18-Baby-s-Breath-Spray-A4.pdf",
+        "sha256": "5775d28bd894f41d4dec0936f313216d9eeda0a432248597f0ac9ca586ffaf69"
+      },
+      {
+        "pattern_id": "waxflower-spray",
+        "number": 19,
+        "name": "Waxflower Spray",
+        "category": "flower",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/19-Waxflower-Spray-A4.pdf",
+        "sha256": "6eac7943828fa19b12f82e8f66bb623b19dd71e4c64d91290f5a247b0a6a8462"
+      },
+      {
+        "pattern_id": "golden-billy-button",
+        "number": 20,
+        "name": "Golden Billy Button",
+        "category": "flower",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/20-Golden-Billy-Button-A4.pdf",
+        "sha256": "fd7dbfab4e8436153e26fcdbd345eed0fa1b9e6f73afb5ab62870878ac1a8b64"
+      },
+      {
+        "pattern_id": "lace-queen-annes",
+        "number": 21,
+        "name": "Lace Queen Anne's",
+        "category": "flower",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/21-Lace-Queen-Anne-s-A4.pdf",
+        "sha256": "cd8c8af77e6a23cb115d658d9a340c1a0954eb9ac0d5000c61cc79d7e7d0380f"
+      },
+      {
+        "pattern_id": "sleeping-rosebud",
+        "number": 22,
+        "name": "Sleeping Rosebud",
+        "category": "flower accent",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/22-Sleeping-Rosebud-A4.pdf",
+        "sha256": "25fe0164a33fcc92f93b726f85cf17e87edade7e54cccc2e277d20a627d42b68"
+      },
+      {
+        "pattern_id": "forget-me-not",
+        "number": 23,
+        "name": "Forget-Me-Not",
+        "category": "flower accent",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/23-Forget-Me-Not-A4.pdf",
+        "sha256": "408c338314421314e7f292946fb88d7518a7daf3550d853d11e2e1607192c752"
+      },
+      {
+        "pattern_id": "chamomile-blossom",
+        "number": 24,
+        "name": "Chamomile Blossom",
+        "category": "flower accent",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/24-Chamomile-Blossom-A4.pdf",
+        "sha256": "98893a723c9b8be62aa59f55f1c74f125ff2af3618fd966ebb842584090ed1c5"
+      },
+      {
+        "pattern_id": "sage-eucalyptus",
+        "number": 25,
+        "name": "Sage Eucalyptus",
+        "category": "foliage",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/25-Sage-Eucalyptus-A4.pdf",
+        "sha256": "dbb844f646012e0a647762c1cd1057dfdacc77d78795e9ced27d92ca8b0f4f2f"
+      },
+      {
+        "pattern_id": "olive-branch",
+        "number": 26,
+        "name": "Olive Branch",
+        "category": "foliage",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/26-Olive-Branch-A4.pdf",
+        "sha256": "79f159b27ff7ea57d1e654c7bb0a0e4119a4234cf20d08cd24009836dd5ff945"
+      },
+      {
+        "pattern_id": "woodland-fern",
+        "number": 27,
+        "name": "Woodland Fern",
+        "category": "foliage",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/27-Woodland-Fern-A4.pdf",
+        "sha256": "f2bbe345be8ff03e2f86bbabe4522440c67989750d32aff5cba5f99021b660d8"
+      },
+      {
+        "pattern_id": "trailing-ivy",
+        "number": 28,
+        "name": "Trailing Ivy",
+        "category": "foliage",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/28-Trailing-Ivy-A4.pdf",
+        "sha256": "561de88309237dc5fc22c21eee5bc57996b8fc92fef8a2993ef7e7ddb22b26c8"
+      },
+      {
+        "pattern_id": "velvet-lambs-ear",
+        "number": 29,
+        "name": "Velvet Lamb's Ear",
+        "category": "foliage",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/29-Velvet-Lamb-s-Ear-A4.pdf",
+        "sha256": "b2415f557fd33fbc83fd32f98a0bc984739f6c4641a092ac67842540b0521ef1"
+      },
+      {
+        "pattern_id": "ruscus-spray",
+        "number": 30,
+        "name": "Ruscus Spray",
+        "category": "foliage",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/30-Ruscus-Spray-A4.pdf",
+        "sha256": "a0e7d25676b3aebeb39dd876e4d5966564915563471e306912ac5ccd2c8e2fb1"
+      },
+      {
+        "pattern_id": "bendable-floral-stem",
+        "number": 31,
+        "name": "Bendable Floral Stem",
+        "category": "Bendable floral stem",
+        "level": "Beginner",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/31-Bendable-Floral-Stem-A4.pdf",
+        "sha256": "f29b05efa912174f5bbe546722199b3c5dabb059598dae2c3c3c4a614535fd16"
+      },
+      {
+        "pattern_id": "ribboned-bouquet-wrap",
+        "number": 32,
+        "name": "Ribboned Bouquet Wrap",
+        "category": "Bouquet wrap",
+        "level": "Easy",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/32-Ribboned-Bouquet-Wrap-A4.pdf",
+        "sha256": "f01f8332b175d64bc788df3751d8d52609677b3672f1426d5d845f3fedfde2ed"
+      },
+      {
+        "pattern_id": "meadow-vase",
+        "number": 33,
+        "name": "Meadow Vase",
+        "category": "vase",
+        "level": "Intermediate",
+        "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4-Individual-Patterns/33-Meadow-Vase-A4.pdf",
+        "sha256": "d4443eb0c277b25a9f18b1c753bbef24cc01d1208d3652079a3965452c3a3ab3"
+      }
+    ],
+    "categories": [
+      "Flower",
+      "flower",
+      "Twilight Lily flower",
+      "Wild sunflower",
+      "Winter camellia flower",
+      "flower filler",
+      "flower accent",
+      "foliage",
+      "Bendable floral stem",
+      "Bouquet wrap",
+      "vase"
+    ]
+  },
+  "terminology": "US",
+  "skill_levels": [
+    "Beginner",
+    "Easy",
+    "Intermediate",
+    "Experienced"
+  ],
+  "skill_text": "Beginner to Experienced",
+  "combinations": "Moonlit Meadow Arrangement Ideas: 5 combination ideas",
+  "documents": {
+    "bundle": {
+      "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4.pdf",
+      "sha256": "b1ee9c94ebf89846d6f86c633898970dd2d63fe68bc504e863a22d97fd4c4cc5",
+      "pages": 98
+    },
+    "index": {
+      "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4.pdf",
+      "sha256": "f3e46dd33c72bbedda126dfef4efdc0bbb7a51d84c6ad2c0f840d5ba7d4815e5",
+      "pages": 2
+    },
+    "materials": {
+      "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4.pdf",
+      "sha256": "9e8f08c1aeec37011d2b236b7f6cfe2d9b60597e1bde8ed488e5a07dddc9662d",
+      "pages": 3
+    },
+    "abbreviations": {
+      "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Abbreviations-A4.pdf",
+      "sha256": "53b79deccd2c9c4caad325e216473a5953758078f1aabc5462e3a45869cf98da",
+      "pages": 2
+    },
+    "guide": {
+      "file": "production/deliverables/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "sha256": "c0c030fc47f1eec8b6dd8a58ac45e91c550d0d57fb86d4a47e73b09a22f32017",
+      "pages": 1
+    }
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 37
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 37
+    }
+  ],
+  "printing_guide": true,
+  "individual_pattern_pdfs": true,
+  "selection": {
+    "inside": "garden-rose",
+    "collage": [
+      "garden-rose",
+      "twilight-lily",
+      "winter-camellia",
+      "golden-billy-button",
+      "woodland-fern",
+      "meadow-vase"
+    ],
+    "detail": "garden-rose",
+    "feature": "twilight-lily"
+  },
+  "renders": [
+    {
+      "role": "bouquet",
+      "asset": "proof-01",
+      "file": "proofs/attempt-02/proof-01.png",
+      "sha256": "3a8b3c09eaed0ca7cf7fb3b726c314ea97956cf97cb5316c58a6591a55431d79",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "garden-rose",
+          "pattern_name": "Garden Rose",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "blush-tulip",
+          "pattern_name": "Blush Tulip",
+          "quantity": 2
+        },
+        {
+          "pattern_id": "sleeping-rosebud",
+          "pattern_name": "Sleeping Rosebud",
+          "quantity": 2
+        },
+        {
+          "pattern_id": "sage-eucalyptus",
+          "pattern_name": "Sage Eucalyptus",
+          "quantity": 2
+        },
+        {
+          "pattern_id": "bendable-floral-stem",
+          "pattern_name": "Bendable Floral Stem",
+          "quantity": 5
+        },
+        {
+          "pattern_id": "ribboned-bouquet-wrap",
+          "pattern_name": "Ribboned Bouquet Wrap",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.235,
+        "w": 1,
+        "h": 0.765
+      }
+    },
+    {
+      "role": "overview",
+      "asset": "proof-02",
+      "file": "proofs/attempt-02/proof-02.png",
+      "sha256": "1c08696c6d88a95cd3b04bedee9a1b29fc18fe081786ca757b217f42cb9591a0",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "garden-rose",
+          "pattern_name": "Garden Rose",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "moon-peony",
+          "pattern_name": "Moon Peony",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "heirloom-dahlia",
+          "pattern_name": "Heirloom Dahlia",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "meadow-ranunculus",
+          "pattern_name": "Meadow Ranunculus",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "starlit-anemone",
+          "pattern_name": "Starlit Anemone",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "cottage-poppy",
+          "pattern_name": "Cottage Poppy",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "twilight-lily",
+          "pattern_name": "Twilight Lily",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "wild-sunflower",
+          "pattern_name": "Wild Sunflower",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "blush-tulip",
+          "pattern_name": "Blush Tulip",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.21,
+        "w": 1,
+        "h": 0.79
+      }
+    },
+    {
+      "role": "detail",
+      "asset": "proof-03",
+      "file": "proofs/attempt-02/proof-03.png",
+      "sha256": "7fdaf3c9f16f7c4770e2607bbeca9aeb7ed820c49471fcba4ae02d7e4ad0164f",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false,
+      "depicts": [
+        {
+          "pattern_id": "garden-rose",
+          "pattern_name": "Garden Rose",
+          "quantity": 1
+        }
+      ],
+      "text_free": {
+        "x": 0,
+        "y": 0.27,
+        "w": 1,
+        "h": 0.73
+      }
+    }
+  ],
+  "stitch_counts": false,
+  "illustration": {
+    "asset": "proof-01",
+    "file": "proofs/attempt-02/proof-01.png",
+    "sha256": "3a8b3c09eaed0ca7cf7fb3b726c314ea97956cf97cb5316c58a6591a55431d79",
+    "width": 1024,
+    "height": 1536
+  },
+  "integrity": {
+    "origin": "ai-assisted-draft",
+    "origins": {
+      "ai-assisted-draft": 33
+    },
+    "verification": {
+      "unverified": 33,
+      "tested": 0
+    },
+    "all_tested": false,
+    "any_ai_assisted": true,
+    "tested_pattern_ids": [],
+    "approved_for_production": {
+      "approved_at": "2026-10-05T17:57:43.416Z",
+      "by": "@romg_o",
+      "source_sha256": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69"
+    },
+    "marketing_rules": [
+      "Approved for production is not tested: say \"tested\" only when integrity.all_tested is true.",
+      "Artwork is an AI-generated illustration (Stage 1), never a photograph of an item made from these patterns.",
+      "Never claim professionally tested, guaranteed, error-free or pattern-tester approved."
+    ]
+  },
+  "artwork": {
+    "hero": {
+      "asset": "proof-01",
+      "file": "proofs/attempt-02/proof-01.png",
+      "sha256": "3a8b3c09eaed0ca7cf7fb3b726c314ea97956cf97cb5316c58a6591a55431d79",
+      "width": 1024,
+      "height": 1536,
+      "kind": "illustration",
+      "photographic_evidence": false
+    }
+  },
+  "deliverables": {
+    "papers": [
+      "A4",
+      "US Letter"
+    ],
+    "complete_bundle": true,
+    "individual_pattern_pdfs": 33,
+    "pattern_index": true,
+    "materials_reference": true,
+    "abbreviations_reference": true,
+    "step_by_step_instructions": true,
+    "printing_guide": true,
+    "pages_per_bundle": {
+      "A4": 98,
+      "US-Letter": 105
+    },
+    "files": 75
+  },
+  "visuals": {
+    "visual_match_status": "internally_checked",
+    "physically_verified": false,
+    "patterns_sha256": "4ef6040aa99f76fd1606f4425726ed7177ae7fa2551238d79c44e78f2429de69",
+    "source": {
+      "file": "creative/visual-specs.json",
+      "sha256": "543a5a7be0c8bd4125b17af8d860ee9f91963da761894ed2090a5df8ef864637"
+    },
+    "pictured": {
+      "combination": "Blush Garden Posy",
+      "items": [
+        {
+          "pattern_id": "garden-rose",
+          "pattern_name": "Garden Rose",
+          "quantity": 1
+        },
+        {
+          "pattern_id": "blush-tulip",
+          "pattern_name": "Blush Tulip",
+          "quantity": 2
+        },
+        {
+          "pattern_id": "sleeping-rosebud",
+          "pattern_name": "Sleeping Rosebud",
+          "quantity": 2
+        },
+        {
+          "pattern_id": "sage-eucalyptus",
+          "pattern_name": "Sage Eucalyptus",
+          "quantity": 2
+        },
+        {
+          "pattern_id": "bendable-floral-stem",
+          "pattern_name": "Bendable Floral Stem",
+          "quantity": 5
+        },
+        {
+          "pattern_id": "ribboned-bouquet-wrap",
+          "pattern_name": "Ribboned Bouquet Wrap",
+          "quantity": 1
+        }
+      ]
+    },
+    "pattern_facts": [
+      {
+        "pattern_id": "garden-rose",
+        "pattern_name": "Garden Rose",
+        "motif_type": "flower",
+        "flower_type": "rose",
+        "finished_size": "About 8 cm across",
+        "finished_width_cm": 8,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Smooth or -blend yarn for the rose bloom",
+            "colour": "Dusty blush pink"
+          }
+        ],
+        "petal_count": 2,
+        "petal_layer_count": 2,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "moon-peony",
+        "pattern_name": "Moon Peony",
+        "motif_type": "flower",
+        "flower_type": "peony",
+        "finished_size": "About 11 cm across; finished wired stem is about 28 cm long.",
+        "finished_width_cm": 11,
+        "finished_height_cm": 28,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised for layered petals",
+            "colour": "Moonlit ivory"
+          },
+          {
+            "role": "Mercerised for padded centre",
+            "colour": "Pale butter yellow"
+          },
+          {
+            "role": "Mercerised for calyx and stem wrap",
+            "colour": "Soft sage green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire",
+          "stuffing"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "heirloom-dahlia",
+        "pattern_name": "Heirloom Dahlia",
+        "motif_type": "flower",
+        "flower_type": "dahlia",
+        "finished_size": "About 10 cm across with a stem about 20 cm long.",
+        "finished_width_cm": 10,
+        "finished_height_cm": 20,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised for the layered dahlia petals",
+            "colour": "Deep plum, mauve, or moonlit pink"
+          },
+          {
+            "role": "Mercerised for calyx and stem",
+            "colour": "Leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "meadow-ranunculus",
+        "pattern_name": "Meadow Ranunculus",
+        "motif_type": "flower",
+        "flower_type": "ranunculus",
+        "finished_size": "About 6 centimetres across, with an optional 20-centimetre wired stem.",
+        "finished_width_cm": null,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine for layered petals",
+            "colour": "Pale blush pink"
+          },
+          {
+            "role": "Fine for rounded centre",
+            "colour": "Warm golden yellow"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": 3,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [
+          "wire",
+          "stuffing"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_shape",
+          "centre_type",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "starlit-anemone",
+        "pattern_name": "Starlit Anemone",
+        "motif_type": "flower",
+        "flower_type": "anemone",
+        "finished_size": "About 7 cm across",
+        "finished_width_cm": 7,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine or -blend yarn for petals",
+            "colour": "Dusky periwinkle"
+          },
+          {
+            "role": "Fine or -blend yarn for centre",
+            "colour": "Midnight charcoal"
+          }
+        ],
+        "petal_count": 1,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "cottage-poppy",
+        "pattern_name": "Cottage Poppy",
+        "motif_type": "flower",
+        "flower_type": "poppy",
+        "finished_size": "About 9 cm across, with an about 18 cm wired stem.",
+        "finished_width_cm": 9,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised softly ruffled petal colour",
+            "colour": "Dusky coral red"
+          },
+          {
+            "role": "Mercerised centre, calyx and stem colour",
+            "colour": "Sage green"
+          },
+          {
+            "role": "embroidery floss for seed-head spokes",
+            "colour": "Charcoal"
+          }
+        ],
+        "petal_count": 4,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire",
+          "embroidery",
+          "stuffing"
+        ],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "twilight-lily",
+        "pattern_name": "Twilight Lily",
+        "motif_type": "flower",
+        "flower_type": "lily",
+        "finished_size": "About 12 cm long flower head, with a stem about 20 cm long.",
+        "finished_width_cm": null,
+        "finished_height_cm": 12,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine or -blend yarn for petals",
+            "colour": "Pale moonlit lilac"
+          },
+          {
+            "role": "Fine or -blend yarn for calyx and stem",
+            "colour": "Deep leaf green"
+          },
+          {
+            "role": "Fine or -blend yarn for stamens",
+            "colour": "Soft gold"
+          },
+          {
+            "role": "Fine for petal throat markings",
+            "colour": "Deep violet"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire",
+          "stamens",
+          "embroidery"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "wild-sunflower",
+        "pattern_name": "Wild Sunflower",
+        "motif_type": "flower",
+        "flower_type": "sunflower",
+        "finished_size": "About 10 cm across",
+        "finished_width_cm": 10,
+        "finished_height_cm": null,
+        "yarn_weight": "3-light",
+        "hook_mm": 3,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "raised flower centre",
+            "colour": "Chocolate brown"
+          },
+          {
+            "role": "petals",
+            "colour": "Golden yellow"
+          },
+          {
+            "role": "calyx",
+            "colour": "Leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "present, count not stated",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "leaf_count",
+          "leaf_shape"
+        ]
+      },
+      {
+        "pattern_id": "blush-tulip",
+        "pattern_name": "Blush Tulip",
+        "motif_type": "flower",
+        "flower_type": "tulip",
+        "finished_size": "About 6 centimetres tall; about 20 centimetres tall with stem",
+        "finished_width_cm": null,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine for tulip cup and inner form",
+            "colour": "Blush pink"
+          },
+          {
+            "role": "Fine for calyx",
+            "colour": "Leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "present, count not stated",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire",
+          "stuffing"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "leaf_count",
+          "leaf_shape",
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "meadow-daisy",
+        "pattern_name": "Meadow Daisy",
+        "motif_type": "flower",
+        "flower_type": "daisy",
+        "finished_size": "About 5 cm across",
+        "finished_width_cm": 5,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for the sunny centre",
+            "colour": "yellow"
+          },
+          {
+            "role": "for the petals",
+            "colour": "white"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "velvet-carnation",
+        "pattern_name": "Velvet Carnation",
+        "motif_type": "flower",
+        "flower_type": "carnation",
+        "finished_size": "About 7 centimetres across",
+        "finished_width_cm": null,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine bloom and centre colour",
+            "colour": "Dusty rose"
+          },
+          {
+            "role": "Fine calyx colour",
+            "colour": "Sage green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": "ruffled",
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "centre_type",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "hydrangea-cluster",
+        "pattern_name": "Hydrangea Cluster",
+        "motif_type": "flower",
+        "flower_type": "hydrangea",
+        "finished_size": "About 9 cm across",
+        "finished_width_cm": 9,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised rounded cluster base",
+            "colour": "Leaf green"
+          },
+          {
+            "role": "Mercerised floret colour A",
+            "colour": "Pale lilac"
+          },
+          {
+            "role": "Mercerised floret colour B",
+            "colour": "Moon blue"
+          },
+          {
+            "role": "Mercerised floret colour C",
+            "colour": "Mist blue"
+          }
+        ],
+        "petal_count": 4,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "present, count not stated",
+        "stem": "none",
+        "embellishments": [
+          "stuffing"
+        ],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "leaf_count",
+          "leaf_shape"
+        ]
+      },
+      {
+        "pattern_id": "moon-cosmos",
+        "pattern_name": "Moon Cosmos",
+        "motif_type": "flower",
+        "flower_type": "cosmos",
+        "finished_size": "About 7 cm across",
+        "finished_width_cm": 7,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "petal colour",
+            "colour": "Moonlit ivory"
+          },
+          {
+            "role": "textured centre",
+            "colour": "Soft golden yellow"
+          }
+        ],
+        "petal_count": 8,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "winter-camellia",
+        "pattern_name": "Winter Camellia",
+        "motif_type": "flower",
+        "flower_type": "camellia",
+        "finished_size": "About 8 cm across.",
+        "finished_width_cm": 8,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for layered petals",
+            "colour": "Dusty rose"
+          },
+          {
+            "role": "for the compact centre",
+            "colour": "Soft butter yellow"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": 3,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "sweet-pea-spray",
+        "pattern_name": "Sweet Pea Spray",
+        "motif_type": "flower",
+        "flower_type": "sweet pea",
+        "finished_size": "About 14 cm long.",
+        "finished_width_cm": null,
+        "finished_height_cm": 14,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for flowers and buds",
+            "colour": "dusty lilac"
+          },
+          {
+            "role": "for stem, leaves, and tendril",
+            "colour": "sage green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "present, count not stated",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "leaf_count",
+          "leaf_shape",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "bluebell-stem",
+        "pattern_name": "Bluebell Stem",
+        "motif_type": "flower",
+        "flower_type": "bluebell",
+        "finished_size": "About 16 cm long, including the curved stem",
+        "finished_width_cm": null,
+        "finished_height_cm": 16,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "or -blend yarn for bell flowers",
+            "colour": "Blue or violet blue"
+          },
+          {
+            "role": "or -blend yarn for stem",
+            "colour": "Leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "lavender-sprig",
+        "pattern_name": "Lavender Sprig",
+        "motif_type": "flower",
+        "flower_type": "lavender",
+        "finished_size": "About 15 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 15,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for clustered lavender buds",
+            "colour": "Muted lavender purple"
+          },
+          {
+            "role": "for the covered stem",
+            "colour": "Soft leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "baby-breath-spray",
+        "pattern_name": "Baby's Breath Spray",
+        "motif_type": "flower",
+        "flower_type": "baby's breath",
+        "finished_size": "About 18 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 18,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised for the tiny flowers",
+            "colour": "White or ivory"
+          },
+          {
+            "role": "Mercerised for branches",
+            "colour": "Soft green"
+          }
+        ],
+        "petal_count": 5,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "waxflower-spray",
+        "pattern_name": "Waxflower Spray",
+        "motif_type": "flower",
+        "flower_type": "waxflower",
+        "finished_size": "About 15 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 15,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine for star-shaped flowers",
+            "colour": "Ivory or blush pink"
+          },
+          {
+            "role": "Fine for flower centres",
+            "colour": "Soft gold"
+          }
+        ],
+        "petal_count": 5,
+        "petal_layer_count": null,
+        "petal_shape": "pointed",
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_layer_count",
+          "centre_type",
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "golden-billy-button",
+        "pattern_name": "Golden Billy Button",
+        "motif_type": "flower",
+        "flower_type": null,
+        "finished_size": "About 18 cm tall",
+        "finished_width_cm": null,
+        "finished_height_cm": 18,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for the flower head",
+            "colour": "Golden yellow"
+          },
+          {
+            "role": "for the stem",
+            "colour": "Leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "present, count not stated",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire",
+          "stuffing"
+        ],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "flower_type",
+          "leaf_count",
+          "leaf_shape",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "lace-queen-annes",
+        "pattern_name": "Lace Queen Anne's",
+        "motif_type": "flower",
+        "flower_type": null,
+        "finished_size": "About 10 cm across; stem length varies with tension.",
+        "finished_width_cm": 10,
+        "finished_height_cm": null,
+        "yarn_weight": "0-lace",
+        "hook_mm": 1.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised crochet thread for the umbel, florets and stem",
+            "colour": "Moonlit ivory"
+          }
+        ],
+        "petal_count": 5,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "flower_type"
+        ]
+      },
+      {
+        "pattern_id": "sleeping-rosebud",
+        "pattern_name": "Sleeping Rosebud",
+        "motif_type": "bud",
+        "flower_type": "rosebud",
+        "finished_size": "About 4 cm tall",
+        "finished_width_cm": null,
+        "finished_height_cm": 4,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine for rolled rose petals",
+            "colour": "Dusty rose"
+          },
+          {
+            "role": "Fine for sepals and stem",
+            "colour": "Sage green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": "scalloped",
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "crochet",
+        "embellishments": [],
+        "unknown": [
+          "petal_count",
+          "petal_layer_count",
+          "centre_type",
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "forget-me-not",
+        "pattern_name": "Forget-Me-Not",
+        "motif_type": "flower",
+        "flower_type": "forget-me-not",
+        "finished_size": "About 2 cm across",
+        "finished_width_cm": 2,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine contrasting flower centre",
+            "colour": "Soft yellow"
+          },
+          {
+            "role": "Fine petal colour",
+            "colour": "Powder blue"
+          }
+        ],
+        "petal_count": 5,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type"
+        ]
+      },
+      {
+        "pattern_id": "chamomile-blossom",
+        "pattern_name": "Chamomile Blossom",
+        "motif_type": "flower",
+        "flower_type": null,
+        "finished_size": "About 3 cm across",
+        "finished_width_cm": 3,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine for the raised centre",
+            "colour": "warm yellow"
+          },
+          {
+            "role": "Fine for the petals",
+            "colour": "white"
+          }
+        ],
+        "petal_count": 8,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "none",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "petal_layer_count",
+          "petal_shape",
+          "centre_type",
+          "flower_type"
+        ]
+      },
+      {
+        "pattern_id": "sage-eucalyptus",
+        "pattern_name": "Sage Eucalyptus",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 18 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 18,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "for covered stem and rounded leaves",
+            "colour": "muted sage green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "olive-branch",
+        "pattern_name": "Olive Branch",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 20 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 20,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "or -blend yarn for branch and leaves",
+            "colour": "Olive green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "woodland-fern",
+        "pattern_name": "Woodland Fern",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 17 cm long and 7 cm wide",
+        "finished_width_cm": 7,
+        "finished_height_cm": 17,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised for the fern frond",
+            "colour": "Deep moss green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": []
+      },
+      {
+        "pattern_id": "trailing-ivy",
+        "pattern_name": "Trailing Ivy",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 22 centimetres long, including six leaves.",
+        "finished_width_cm": null,
+        "finished_height_cm": null,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Smooth for vine and leaves",
+            "colour": "Deep ivy green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "none",
+        "embellishments": [],
+        "unknown": [
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "velvet-lambs-ear",
+        "pattern_name": "Velvet Lamb's Ear",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 12 cm long per leaf; 18 cm overall.",
+        "finished_width_cm": 18,
+        "finished_height_cm": 12,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "wool"
+        ],
+        "colour_roles": [
+          {
+            "role": "Soft brushed -blend yarn for leaves and stem",
+            "colour": "Sage green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet",
+        "embellishments": [],
+        "unknown": [
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "ruscus-spray",
+        "pattern_name": "Ruscus Spray",
+        "motif_type": "foliage",
+        "flower_type": null,
+        "finished_size": "About 19 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 19,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "or -blend yarn for leaves and stems",
+            "colour": "Deep moss green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "present, type not stated",
+        "leaves": "not applicable (the piece is foliage)",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "bendable-floral-stem",
+        "pattern_name": "Bendable Floral Stem",
+        "motif_type": "stem",
+        "flower_type": null,
+        "finished_size": "About 25 cm long",
+        "finished_width_cm": null,
+        "finished_height_cm": 25,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.25,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Mercerised for the stem cover",
+            "colour": "Leaf green"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "none",
+        "stem": "crochet-covered wire",
+        "embellishments": [
+          "wire"
+        ],
+        "unknown": [
+          "stem_length",
+          "finished_width"
+        ]
+      },
+      {
+        "pattern_id": "ribboned-bouquet-wrap",
+        "pattern_name": "Ribboned Bouquet Wrap",
+        "motif_type": "bouquet wrap",
+        "flower_type": null,
+        "finished_size": "About 12 cm long and 5 cm wide",
+        "finished_width_cm": 5,
+        "finished_height_cm": 12,
+        "yarn_weight": "2-fine",
+        "hook_mm": 2.5,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "Fine or -blend yarn for the wrap",
+            "colour": "Moonlit ivory, sage, or blush"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "none",
+        "stem": "crochet",
+        "embellishments": [
+          "ribbon"
+        ],
+        "unknown": [
+          "stem_length"
+        ]
+      },
+      {
+        "pattern_id": "meadow-vase",
+        "pattern_name": "Meadow Vase",
+        "motif_type": "vase",
+        "flower_type": null,
+        "finished_size": "About 12 cm tall and 10 cm across at the widest point",
+        "finished_width_cm": 10,
+        "finished_height_cm": 12,
+        "yarn_weight": "3-light",
+        "hook_mm": 3,
+        "fibres": [
+          "cotton"
+        ],
+        "colour_roles": [
+          {
+            "role": "-blend yarn for a firm textured vase",
+            "colour": "Midnight blue"
+          }
+        ],
+        "petal_count": null,
+        "petal_layer_count": null,
+        "petal_shape": null,
+        "centre": "none",
+        "leaves": "none",
+        "stem": "crochet",
+        "embellishments": [],
+        "unknown": [
+          "stem_length"
+        ]
+      }
+    ]
+  },
+  "process_claims": [
+    "handmade",
+    "handcrafted",
+    "made by hand"
+  ],
+  "page_quantity": {
+    "total_pages": 98,
+    "content_pages": 33,
+    "content": "pattern"
+  },
+  "item_quantity": {
+    "count": 33,
+    "noun": "pattern"
+  },
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern",
+    "parts": 2,
+    "zip_mb": 29.8
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Complete-Bundle-A4.pdf",
+      "page": 1,
+      "sha256": "afef3050549e243d631e4e64281e00a8d762fba1f0296f1f9ea97bf060b71ae6"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4-p1.png",
+      "label": "Pattern index (A4)",
+      "source": "A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Pattern-Index-A4.pdf",
+      "page": 1,
+      "sha256": "474ab3518713065969287610428553d85d22b703feb4d496e0faf03f631e5a42"
+    },
+    {
+      "file": "production/previews/preview-03-01-Garden-Rose-A4-p1.png",
+      "label": "First pattern (A4)",
+      "source": "A4-Individual-Patterns/01-Garden-Rose-A4.pdf",
+      "page": 1,
+      "sha256": "9aad1dd74f866abfaa46641823adfdee88589f1b8b5898e44dfa1e5ae608dc8c"
+    },
+    {
+      "file": "production/previews/preview-04-LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4-p1.png",
+      "label": "Materials and tools (A4)",
+      "source": "A4/LumiumX-Moonlit-Meadow-Crochet-Bouquet-Pattern-Materials-and-Tools-A4.pdf",
+      "page": 1,
+      "sha256": "0d7130f72a8250a9f8e1e01f3233d797ba8f5491b4db75f23405b83ba0d79482"
+    }
+  ],
+  "style": {
+    "subject": "Meadow flower bouquet",
+    "palette": "Warm cream foundation with soft blush, muted rose, dusty sage, gentle lavender and small powder-blue accents, anchored by warm brown-charcoal typography; low-saturation colours with harmonious dusk-like contrast.",
+    "mood": "Poetic, romantic, tranquil and heirloom-inspired, with a quietly enchanted botanical atmosphere."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "11f644c6b98781db9c9cd47b76e8082403881265ed6fa20017c8a1f135fed180"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "7eb294a0b7dae1bb60a8c5e3ef708a8ce184b16bbd398af585dee3ceef39e9a3"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "c273ce60d5bb8a86038c74d49a4506f650b445b04add6838fc813ed283dd21a3"
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Moonlit Meadow Crochet Bouquet Pattern Bundle"
+    ],
+    "pattern-count": [
+      "33 crochet patterns",
+      "33 patterns",
+      "33 crochet patterns in one collection",
+      "33",
+      "33 crochet bouquet patterns"
+    ],
+    "pattern-number": [
+      "Pattern 01 of 33",
+      "Pattern 02 of 33",
+      "Pattern 03 of 33",
+      "Pattern 04 of 33",
+      "Pattern 05 of 33",
+      "Pattern 06 of 33",
+      "Pattern 07 of 33",
+      "Pattern 08 of 33",
+      "Pattern 09 of 33",
+      "Pattern 10 of 33",
+      "Pattern 11 of 33",
+      "Pattern 12 of 33",
+      "Pattern 13 of 33",
+      "Pattern 14 of 33",
+      "Pattern 15 of 33",
+      "Pattern 16 of 33",
+      "Pattern 17 of 33",
+      "Pattern 18 of 33",
+      "Pattern 19 of 33",
+      "Pattern 20 of 33",
+      "Pattern 21 of 33",
+      "Pattern 22 of 33",
+      "Pattern 23 of 33",
+      "Pattern 24 of 33",
+      "Pattern 25 of 33",
+      "Pattern 26 of 33",
+      "Pattern 27 of 33",
+      "Pattern 28 of 33",
+      "Pattern 29 of 33",
+      "Pattern 30 of 33",
+      "Pattern 31 of 33",
+      "Pattern 32 of 33",
+      "Pattern 33 of 33"
+    ],
+    "pattern-name": [
+      "Garden Rose",
+      "Moon Peony",
+      "Heirloom Dahlia",
+      "Meadow Ranunculus",
+      "Starlit Anemone",
+      "Cottage Poppy",
+      "Twilight Lily",
+      "Wild Sunflower",
+      "Blush Tulip",
+      "Meadow Daisy",
+      "Velvet Carnation",
+      "Hydrangea Cluster",
+      "Moon Cosmos",
+      "Winter Camellia",
+      "Sweet Pea Spray",
+      "Bluebell Stem",
+      "Lavender Sprig",
+      "Baby's Breath Spray",
+      "Waxflower Spray",
+      "Golden Billy Button",
+      "Lace Queen Anne's",
+      "Sleeping Rosebud",
+      "Forget-Me-Not",
+      "Chamomile Blossom",
+      "Sage Eucalyptus",
+      "Olive Branch",
+      "Woodland Fern",
+      "Trailing Ivy",
+      "Velvet Lamb's Ear",
+      "Ruscus Spray",
+      "Bendable Floral Stem",
+      "Ribboned Bouquet Wrap",
+      "Meadow Vase"
+    ],
+    "skill": [
+      "Beginner",
+      "Easy",
+      "Intermediate",
+      "Experienced",
+      "Beginner to Experienced"
+    ],
+    "terms": [
+      "US crochet terms"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "A4 + US Letter PDFs",
+      "PDF",
+      "PDF patterns"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase",
+      "Instant download",
+      "Digital PDF pattern download"
+    ],
+    "render": [
+      "Illustrated example",
+      "Illustration",
+      "Illustrations, not photos",
+      "Rendered example of the finished crochet design"
+    ],
+    "delivery": [
+      "No yarn or hook included",
+      "No yarn, hook or kit included"
+    ],
+    "features": [
+      "Skill level on every pattern",
+      "Materials listed for every pattern"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included"
+    ],
+    "included": [
+      "Complete pattern collection PDF"
+    ],
+    "individual": [
+      "Each pattern as its own PDF",
+      "Individual pattern PDFs"
+    ],
+    "references": [
+      "Materials and abbreviations reference",
+      "Materials and tools reference",
+      "Abbreviations reference"
+    ],
+    "pattern-index": [
+      "Pattern index"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Crochet",
+      "Print at home"
+    ],
+    "instructions": [
+      "Step-by-step instructions",
+      "Written step-by-step instructions"
+    ],
+    "combinations": [
+      "Moonlit Meadow Arrangement Ideas: 5 combination ideas"
+    ]
+  }
+}

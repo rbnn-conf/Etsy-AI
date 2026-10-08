@@ -1,0 +1,146 @@
+{
+  "pattern_id": "ribboned-bouquet-wrap",
+  "name": "Ribboned Bouquet Wrap",
+  "category": "Bouquet wrap",
+  "difficulty": "easy",
+  "finished_size": "About 12 cm long and 5 cm wide",
+  "yarn": [
+    {
+      "description": "Fine cotton or cotton-blend yarn for the wrap",
+      "colour": "Moonlit ivory, sage, or blush",
+      "amount": "About 12 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "60 cm narrow satin or grosgrain ribbon",
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "st": "stitch",
+    "sk": "skip",
+    "sp": "space"
+  },
+  "gauge": "About 22 sc and 24 rows = 10 cm. Gauge is flexible, but the band should wrap comfortably around the gathered stems.",
+  "instructions": [
+    {
+      "heading": "Ribboned Band",
+      "steps": [
+        {
+          "label": "Foundation",
+          "text": "Ch 29.",
+          "stitch_count": 29
+        },
+        {
+          "label": "Row 1",
+          "text": "Sc in the 2nd ch from hook and in each ch across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, hdc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 2, dc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 1, hdc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 7",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 8",
+          "text": "Ch 1, sc in 3 sts, ch 2, sk 2 sts, sc in 18 sts, ch 2, sk 2 sts, sc in 3 sts; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 9",
+          "text": "Ch 1, sc in 3 sts, 2 sc in the ch-2 sp, sc in 18 sts, 2 sc in the ch-2 sp, sc in 3 sts; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 10",
+          "text": "Ch 1, hdc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 11",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 12",
+          "text": "Ch 2, dc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 13",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 14",
+          "text": "Ch 1, hdc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 15",
+          "text": "Ch 1, sc in each st across; turn.",
+          "stitch_count": 28
+        },
+        {
+          "label": "Row 16",
+          "text": "Ch 1, sl st in the first st, sc in the next 26 sts, sl st in the final st.",
+          "stitch_count": 28
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off after Row 16, leaving a 10 cm yarn tail.",
+    "Weave the yarn tail neatly through the reverse side of the band.",
+    "Lay the ribbon across the reverse side at the eyelet row. Feed one ribbon end through each ch-2 sp to the front, then adjust the tails to equal lengths.",
+    "Wrap the band around gathered bouquet stems and tie the ribbon tails into a bow on the front."
+  ],
+  "notes": [
+    "The ch-2 spaces form ribbon eyelets; the ribbon holds the overlapping band snugly around the stems.",
+    "For a fuller bouquet handle, wrap the band around the stems twice before tying the ribbon."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

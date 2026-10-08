@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "product_id": "018",
+  "product_name": "The Apple Pie Kitchen Colouring Book",
+  "product_format": "colouring-book",
+  "page_count": 10,
+  "created_at": "2026-10-06T14:23:13.386Z",
+  "source": {
+    "specification_sha256": "20fb4a0940f8b67163e6fe71cdf4388c8cddee85240cd8fb1ff91491d493202e",
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1
+    }
+  },
+  "style_reference": {
+    "direction_version": 1,
+    "proof_pages": [
+      2,
+      3,
+      10
+    ],
+    "shared_prompt": "Original cosy autumn colouring-book line art in clean black ink on white paper; bold rounded outer contours, smooth subtly hand-drawn linework, medium-weight interior details, broad colourable enclosed shapes, friendly softly stylised cartoon expressions, sparse natural and handmade texture marks, no filled shading, calm storybook warmth and home-printer-friendly clarity.",
+    "line_weight": "Bold black outer contours with medium-weight interior detail lines; maintain generous enclosed colouring areas.",
+    "line_quality": "Smooth, gently imperfect hand-inked curves with softened corners and clear, steady joins.",
+    "detail_level": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+    "colour_mode": "black-and-white line art",
+    "shading": "No solid shading or grey fills; use sparse contour accents, simple texture lines, and occasional small pattern details only.",
+    "background_density": "Moderately full scenic backgrounds built in shallow layers, with enough open space inside forms for relaxed colouring.",
+    "canvas": {
+      "orientation": "portrait",
+      "background": "white",
+      "edge": "safe-margin",
+      "format_notes": "Portrait black-and-white colouring pages with generous clear margins and broad, easy-to-colour kitchen and autumn motifs."
+    }
+  },
+  "generation": {
+    "model": "gpt-image-2.5-flare",
+    "size": "1024x1536",
+    "quality": "medium",
+    "note": "Pixel size as generated. No DPI claim: Stage 2 calculates the effective print resolution."
+  },
+  "pages": [
+    {
+      "page_id": "P001",
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "The Apple Pie Kitchen Colouring Book",
+      "scene": "A gentle hedgehog baker lifts a freshly baked apple pie from a low oven in a welcoming country kitchen.",
+      "composition": "Illustrated front cover with the hedgehog baker in a simple apron at the central oven, carefully holding a steaming lattice-topped apple pie. Curved cupboards, a cooling rack, a bowl of apples and a rolling pin frame the kitchen scene. The title occupies clear upper space in rounded bakery-style lettering.",
+      "subject": "Front cover artwork. Exact title text: “The Apple Pie Kitchen Colouring Book”. A gentle hedgehog baker wearing a simple apron lifts a steaming lattice-topped apple pie from a low oven at centre; rounded country-kitchen cupboards behind, with apples in a bowl, rolling pin and cooling rack as balanced framing details; leave a clear upper area for the exact title.",
+      "required_text": [
+        "The Apple Pie Kitchen Colouring Book"
+      ],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Verify the cover title exactly, including British spelling of “Colouring”. Keep lettering large, legible and separate from the illustration. This is the only page with printed title text; do not add a byline, logo, badge or page count."
+    },
+    {
+      "page_id": "P002",
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Apple Picking",
+      "scene": "The hedgehog gathers apples for the day’s baking beside a small kitchen-garden tree.",
+      "composition": "A broad, low apple tree fills the upper half of the scene. The hedgehog baker stands below with a large handled basket containing six apples, reaching for one more apple on a low branch. Fallen leaves, three apples on the grass and a cottage window in the distance create a simple autumn setting.",
+      "subject": "Text-free interior colouring page: the hedgehog baker in a simple apron gathers apples beneath a broad low apple tree, reaching toward one apple on a low branch and holding a large handled basket containing exactly six apples; exactly three fallen apples on the ground, a few large autumn leaves, and a distant cottage window. Keep apples large and clearly separated.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Check exact item count: six apples in the basket, one apple being reached for on the branch, and three apples on the ground. Ensure every apple is a distinct, colourable enclosed shape."
+    },
+    {
+      "page_id": "P003",
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Mixing the Filling",
+      "scene": "The hedgehog mixes apple slices, cinnamon and sugar in a large bowl on the baking counter.",
+      "composition": "Central close kitchen-counter scene with the hedgehog stirring a large mixing bowl using a wooden spoon. Four chunky apple slices are visible at the top of the bowl. A cinnamon stick jar, small measuring cup, flour sack and checked tea towel sit around the bowl, with curved cupboards behind.",
+      "subject": "Text-free interior colouring page: central kitchen counter scene of the hedgehog baker stirring a large round mixing bowl with a wooden spoon; exactly four broad apple slices visible at the top of the bowl; nearby cinnamon sticks in a small open jar, one measuring cup, a simple flour sack and a folded checked tea towel; curved cupboards in the background.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Ensure exactly four apple slices are visible and large enough to colour. Keep any flour sack unlabelled to avoid unintended text. Do not add recipe wording."
+    },
+    {
+      "page_id": "P004",
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Rolling Pastry",
+      "scene": "The hedgehog rolls a wide round sheet of pie pastry while a mouse helper brings an apple.",
+      "composition": "A wide worktable stretches across the page. The hedgehog uses a rolling pin over a large circular pastry sheet, while a small friendly mouse at the side carries one apple in both paws. A pie dish, flour bowl and three leaf-shaped pastry cut-outs form clear supporting details.",
+      "subject": "Text-free interior colouring page: wide baking worktable with the hedgehog baker rolling a large circular pastry sheet using a rolling pin; a small friendly mouse helper carries exactly one apple at one side; include one empty pie dish, one small flour bowl and exactly three large leaf-shaped pastry cut-outs, all clearly separated.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Check exact count of three leaf-shaped pastry cut-outs and one apple carried by the mouse. Keep the pastry circle broad and free of dense texture so it is colourable."
+    },
+    {
+      "page_id": "P005",
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Pie in the Oven",
+      "scene": "The hedgehog checks a lattice apple pie baking in the low oven.",
+      "composition": "The open low oven is the focal point, holding one round lattice-topped apple pie on its rack. The hedgehog kneels nearby wearing an oven mitt and peeks in happily. A kitchen clock, hanging oven mitt, kettle and a few large leaves in a jar provide cosy background detail.",
+      "subject": "Text-free interior colouring page: open low country-kitchen oven as the main focal point, with exactly one round lattice-topped apple pie on the oven rack; the hedgehog baker kneels nearby in a simple apron, wearing one oven mitt and smiling as they look inside; include a round kitchen clock, one hanging oven mitt, a kettle and a jar holding a few large autumn leaves.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "There must be exactly one pie inside the oven. Make oven bars and lattice strips bold and widely spaced, avoiding narrow, difficult-to-colour gaps."
+    },
+    {
+      "page_id": "P006",
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Cinnamon Bun Swirls",
+      "scene": "The hedgehog arranges cinnamon buns on a tray while dough spirals decorate the counter.",
+      "composition": "A top-forward counter composition shows a rectangular baking tray with five large spiral cinnamon buns. The hedgehog’s paws place the final bun on the tray. A rolling pin, a small bowl of icing and two loose dough spirals sit nearby, with a simple tiled splashback behind.",
+      "subject": "Text-free interior colouring page: baking counter viewed slightly from above, dominated by a rectangular tray holding exactly five large spiral cinnamon buns; the hedgehog baker’s paws gently place the fifth bun on the tray; include a rolling pin, one small bowl of icing and exactly two loose dough spirals beside the tray, with simple large kitchen tiles behind.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Verify tray count: exactly five buns. The two loose dough spirals must be clearly distinct from the buns. Use broad spiral lines with open colouring spaces."
+    },
+    {
+      "page_id": "P007",
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Cooling Rack Treats",
+      "scene": "Fresh pies and buns cool by an open window while autumn leaves drift outside.",
+      "composition": "A tall open kitchen window provides the main backdrop. A cooling rack beneath it holds two small apple hand pies and three cinnamon buns. The hedgehog stands beside the rack, holding a tea towel. Outside, a simple tree branch with five large leaves curves into view.",
+      "subject": "Text-free interior colouring page: open country-kitchen window above a central cooling rack; the rack holds exactly two small apple hand pies and exactly three cinnamon buns; the hedgehog baker stands beside it holding a folded tea towel; outside the window, show one simple tree branch with exactly five large autumn leaves.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Check fixed counts: two hand pies, three cinnamon buns and five leaves on the outside branch. Preserve open spaces between rack bars and baked goods."
+    },
+    {
+      "page_id": "P008",
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Setting the Tea Table",
+      "scene": "The hedgehog prepares a cosy table for friends with pie slices, cups and autumn flowers.",
+      "composition": "A round table is set for three animal friends. It holds three patterned cups, three plates each with one apple pie slice, and a small vase of large autumn flowers. The hedgehog straightens a napkin while a squirrel and rabbit wait on rounded chairs in the background.",
+      "subject": "Text-free interior colouring page: round tea table set for three in a cosy kitchen, with exactly three patterned cups and exactly three plates, each plate holding one apple pie slice; a small vase of large autumn flowers sits at centre; the hedgehog baker straightens one napkin while a friendly squirrel and rabbit wait on rounded chairs behind the table.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Verify exactly three cups, three plates and three pie slices. Characters should have clear, friendly expressions and not overlap tableware confusingly."
+    },
+    {
+      "page_id": "P009",
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Sharing Apple Pie",
+      "scene": "The hedgehog and two friends enjoy a cheerful slice of pie together.",
+      "composition": "A warm seated scene centres on the hedgehog, squirrel and rabbit around a small table. Each friend holds a fork above a plate with one pie slice. A whole lattice pie rests on a sideboard behind them, while a window shows a few broad falling leaves.",
+      "subject": "Text-free interior colouring page: cosy sharing scene with the hedgehog baker, a friendly squirrel and a friendly rabbit seated around a small table; each of the three characters has one plate with one apple pie slice and holds one fork; behind them, a sideboard holds exactly one whole lattice-topped apple pie; a small window shows a few broad falling autumn leaves.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Check there are exactly three seated characters, three individual pie slices and one whole pie on the sideboard. Keep faces and forks distinct, with no tiny food details."
+    },
+    {
+      "page_id": "P010",
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "A Cosy Kitchen Goodbye",
+      "scene": "At the end of the baking day, the hedgehog waves from the tidy kitchen beside a basket of treats.",
+      "composition": "The hedgehog baker waves from the central kitchen counter, with a gingham cloth and a basket holding one whole pie and four cinnamon buns. The low oven is closed, dishes are neatly stacked, and a crescent moon with two stars appears through the window, ending the story on a peaceful evening note.",
+      "subject": "Text-free interior colouring page: peaceful end-of-day country kitchen, with the hedgehog baker smiling and waving from behind the central counter; a gingham cloth and a basket hold exactly one whole apple pie and exactly four cinnamon buns; show the closed low oven, a neat stack of three dishes, and a window with one crescent moon and exactly two stars.",
+      "required_text": [],
+      "complexity": "Medium detail: clear focal silhouettes supported by selectively simplified decorative texture; avoid tiny marks and overly intricate repeats.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any wording, typography, byline, badge device, character design, asset, or scene arrangement from the supplied references",
+        "Inflated outlined title lettering or circular lower-corner count callouts resembling the references",
+        "Photorealism, painterly colour fills, grey wash, heavy black backgrounds, or ink-heavy solid areas",
+        "Overcrowded pages, micro-details, tangled overlaps, or narrow uncolourable gaps",
+        "Frightening imagery, harsh horror styling, or menacing facial expressions",
+        "Misspelled text, illegible lettering, logos, trademarks, or artist signatures"
+      ],
+      "production_notes": "Check exact counts: one whole pie, four cinnamon buns, three stacked dishes and two stars. Keep the moon and stars simple and modest, with no dark night fill. Include A4 and US Letter printing guidance as separate unillustrated deliverable files, not as book pages."
+    }
+  ]
+}

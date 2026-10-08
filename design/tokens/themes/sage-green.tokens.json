@@ -1,0 +1,43 @@
+{
+  "themeSlug": "sage-green",
+  "themeName": "Sage Green",
+  "mood": "Soft sage/mint ground with a grounded forest-green primary - calm, natural, 'growth and stability' rather than 'eco-cute'. Replaces the v2.0 'Forest' theme (renamed + fully redesigned for ADR-018's digital-stationery system).",
+  "rationale": "Green reads naturally as 'growth' for a savings/budget product without borrowing a competitor's palette. Kept muted enough on cards to avoid a cafeteria-tray look.",
+  "colour": {
+    "background": "#F3F6EF",
+    "surface": "#FFFFFF",
+    "surfaceAlt": "#E7EEDF",
+    "cardSurface": "#FFFFFF",
+    "cardSurfaceAlt": "#EAF2E2",
+    "inputFill": "#F5F9F0",
+    "text": "#212B22",
+    "textMuted": "#5A6B58",
+    "border": "#DCE6D3",
+    "primary": "#4F7A52",
+    "secondary": "#8FAE72",
+    "accent": "#4F7A52",
+    "highlight": "#D8E8C8",
+    "progress": "#4F7A52",
+    "navActive": "#4F7A52",
+    "badgeBg": "#E2EFD8",
+    "badgeText": "#35502F",
+    "success": "#3E8E58",
+    "warning": "#B2603B",
+    "shadowColour": "rgba(30,60,30,0.15)"
+  },
+  "categoryPalette": {
+    "groceries": "#6B9E52",
+    "dining": "#D08A4A",
+    "transport": "#4B84C4",
+    "entertainment": "#9B6BC7",
+    "personal": "#D8577E",
+    "household": "#B49A4E"
+  },
+  "accentPlacements": [
+    "hero header band + KPI icon badges",
+    "Leftover metric card (emphasis card, filled not just bordered)",
+    "progress-bar fill on Savings/Debt cards",
+    "Dashboard nav pill-tabs + active section indicator",
+    "numbered step badges (Quick Start)"
+  ]
+}

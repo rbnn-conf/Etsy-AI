@@ -1,0 +1,186 @@
+{
+  "tag_candidates": [
+    "crochet pattern pdf",
+    "halloween crochet",
+    "easy crochet pattern",
+    "crochet accessories",
+    "bat hair accessory",
+    "witch hat brooch",
+    "candy corn charm",
+    "spooky crochet",
+    "fall crochet project",
+    "US terms crochet",
+    "A4 crochet pattern",
+    "US Letter pattern",
+    "instant download",
+    "crochet gift idea",
+    "bag charm pattern",
+    "hair accessory pdf",
+    "brooch crochet",
+    "moonlit crochet",
+    "seasonal crochet",
+    "small crochet project"
+  ],
+  "tags": [
+    {
+      "candidate": "crochet pattern pdf",
+      "tag": "crochet pattern pdf",
+      "result": "kept"
+    },
+    {
+      "candidate": "halloween crochet",
+      "tag": "halloween crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "easy crochet pattern",
+      "tag": "easy crochet pattern",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet accessories",
+      "tag": "crochet accessories",
+      "result": "kept"
+    },
+    {
+      "candidate": "bat hair accessory",
+      "tag": "bat hair accessory",
+      "result": "kept"
+    },
+    {
+      "candidate": "witch hat brooch",
+      "tag": "witch hat brooch",
+      "result": "kept"
+    },
+    {
+      "candidate": "candy corn charm",
+      "tag": "candy corn charm",
+      "result": "kept"
+    },
+    {
+      "candidate": "spooky crochet",
+      "tag": "spooky crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "fall crochet project",
+      "tag": "fall crochet project",
+      "result": "kept"
+    },
+    {
+      "candidate": "US terms crochet",
+      "tag": "us terms crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 crochet pattern",
+      "tag": "a4 crochet pattern",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter pattern",
+      "tag": "us letter pattern",
+      "result": "kept"
+    },
+    {
+      "candidate": "instant download",
+      "tag": "instant download",
+      "result": "kept"
+    },
+    {
+      "candidate": "crochet gift idea",
+      "tag": "crochet gift idea",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "bag charm pattern",
+      "tag": "bag charm pattern",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "hair accessory pdf",
+      "tag": "hair accessory pdf",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "brooch crochet",
+      "tag": "brooch crochet",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "moonlit crochet",
+      "tag": "moonlit crochet",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "seasonal crochet",
+      "tag": "seasonal crochet",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "small crochet project",
+      "tag": "small crochet project",
+      "result": "discarded",
+      "reason": "over 20 characters with no safe repair"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF patterns",
+      "material": "Digital PDF patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "ZIP download",
+      "material": "ZIP download",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 print format",
+      "material": "A4 print format",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter format",
+      "material": "US Letter format",
+      "result": "kept"
+    },
+    {
+      "candidate": "US crochet terms",
+      "material": "US crochet terms",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing crochet guide",
+      "material": "Printing crochet guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "Pattern index",
+      "material": "Pattern index",
+      "result": "kept"
+    },
+    {
+      "candidate": "Materials tools reference",
+      "material": "Materials tools reference",
+      "result": "kept"
+    },
+    {
+      "candidate": "Abbreviations reference",
+      "material": "Abbreviations reference",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints > Crochet Patterns",
+    "final": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints",
+    "source": "canonical crochet-pattern-bundle category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

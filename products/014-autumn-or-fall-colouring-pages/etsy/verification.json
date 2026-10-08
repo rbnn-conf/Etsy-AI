@@ -1,0 +1,197 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4585061341,
+      "actual": 4585061341
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4585061341,
+      "actual": 4585061341
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Adult Autumn Colouring Book | Harvest Produce Market, Instant Digital Download",
+      "actual": "Printable Adult Autumn Colouring Book | Harvest Produce Market, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "2018 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 4.95",
+      "actual": "GBP 4.95"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 339,
+      "actual": 339
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF",
+        "PNG pages",
+        "Printing guide",
+        "ZIP files"
+      ],
+      "actual": [
+        "Digital PDF",
+        "PNG pages",
+        "Printing guide",
+        "ZIP files"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8597014816,
+        8597014960,
+        8644858717,
+        8597015326,
+        8644859071,
+        8644859209,
+        8597015736,
+        8597015850,
+        8644859649,
+        8597016228
+      ],
+      "actual": [
+        8597014816,
+        8597014960,
+        8644858717,
+        8597015326,
+        8644859071,
+        8644859209,
+        8597015736,
+        8597015850,
+        8644859649,
+        8597016228
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip (16846597 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip (16844164 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip (6412919 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip (10340238 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip (9905094 bytes)"
+      ],
+      "actual": [
+        "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip (16846597 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip (16844164 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip (6412919 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip (10340238 bytes)",
+        "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip (9905094 bytes)"
+      ]
+    },
+    {
+      "field": "property: Primary color",
+      "ok": true,
+      "expected": [
+        "Black"
+      ],
+      "actual": [
+        "Black"
+      ]
+    },
+    {
+      "field": "property: Secondary color",
+      "ok": true,
+      "expected": [
+        "White"
+      ],
+      "actual": [
+        "White"
+      ]
+    }
+  ],
+  "fingerprint": "2d7d192411f440fb50f3bf93eb6595055d75b20447dcb8cd4d44fd1d33ac0405",
+  "listing_id": 4585061341,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "da93e7f9b6c41d540d1beca164ed377fbe46c227f893a632ed14c7faea3007e2",
+  "remote_url": "https://www.etsy.com/listing/4585061341/printable-adult-autumn-colouring-book",
+  "at": "2026-09-29T15:21:39.049Z"
+}

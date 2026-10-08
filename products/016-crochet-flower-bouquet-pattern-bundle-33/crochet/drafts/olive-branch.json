@@ -1,0 +1,65 @@
+{
+  "pattern_id": "olive-branch",
+  "name": "Olive Branch",
+  "category": "foliage",
+  "difficulty": "easy",
+  "finished_size": "About 20 cm long",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for branch and leaves",
+      "colour": "Olive green",
+      "amount": "About 8 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "22 cm length of 24-gauge green floral wire",
+    "Tapestry needle",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet"
+  },
+  "gauge": "Gauge is not critical. Match the stated size by keeping the foundation chain close to 20 cm long before wiring.",
+  "instructions": [
+    {
+      "heading": "Olive Branch",
+      "steps": [
+        {
+          "label": "Leaf row",
+          "text": "Leave a 20 cm beginning tail, then ch 53. In the 2nd ch from hook, make a leaf: ch 8; sl st in 2nd ch from hook, sc in next ch, hdc in each of next 2 ch, dc in each of next 2 ch, hdc in last ch; sl st in the same foundation ch. Sl st in each of the next 3 foundation ch. Repeat the leaf and 3 sl st sequence 12 more times, making 13 leaves total.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off, leaving a 20 cm tail at the final stem end.",
+    "Use wire cutters to trim the floral wire to 22 cm. Fold back 5 mm at each wire end to make smooth, blunt tips.",
+    "Lay the crocheted foundation chain along the wire. Use the beginning and final tails to secure the chain to the wire with small whipstitches at both ends.",
+    "Weave the remaining yarn tails through the back of the chain and trim them close.",
+    "Gently curve the wired stem. Twist alternate leaves slightly to opposite sides of the stem for an airy olive-branch shape."
+  ],
+  "notes": [
+    "Keep the leaf chains relaxed so the leaves remain narrow and pointed.",
+    "The floral wire is hidden behind the foundation chain and allows the branch to be posed in a bouquet or vase."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

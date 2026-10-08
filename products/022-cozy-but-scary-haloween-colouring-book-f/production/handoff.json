@@ -1,0 +1,806 @@
+{
+  "schema_version": 2,
+  "product_id": "022",
+  "product_name": "Hollowbone Manor Masquerade",
+  "slug": "hollowbone-manor-masquerade",
+  "product_type": "Adult Halloween colouring book",
+  "product_format": "colouring-book",
+  "page_count": 25,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Each single-sided page uses a practical inner safety margin, a strong central scene and clearly enclosed colourable spaces for A4 and US Letter home printing."
+  },
+  "approved": {
+    "creative_approved_at": "2026-10-07T18:34:42.475Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "C",
+      "proposed_name": "Hollowbone Manor Masquerade"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    },
+    "full_artwork": {
+      "approved_at": "2026-10-07T18:55:42.001Z",
+      "approved_by": "@romg_o",
+      "manifest_sha256": "943feec099bfd520052857887a59c3b430138c6f15deeb2377b09ad844c36dd7",
+      "pages_sha256": "23c700652fcb3d243972260c785ea6630c01d4cbdb92f99ce5f15955c5b10fe8",
+      "qc_sha256": "a63526b8fb83c40bde307e250280cba600c39334989e137df09c18a88d3cc6ee"
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "5029d093c6ee116fa66551fde41c4fa16fe87c98794cd87e6611f1ec006f216e"
+    },
+    "book_manifest": {
+      "file": "book/manifest.json",
+      "sha256": "943feec099bfd520052857887a59c3b430138c6f15deeb2377b09ad844c36dd7"
+    },
+    "book_qc": {
+      "file": "book/qc.json",
+      "sha256": "a63526b8fb83c40bde307e250280cba600c39334989e137df09c18a88d3cc6ee"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "1a40b21cbe0ec3761e2e6d0680650815c6064fc4de952cd5c13fbd57a5d14b83"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "P001",
+      "file": "book/pages/P001.png",
+      "page_number": 1,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "ff8d663ccd950e732dc6c6418d94e92873168b2f71ba12aeeb00783e074a5b05",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P002",
+      "file": "book/pages/P002.png",
+      "page_number": 2,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P003",
+      "file": "book/pages/P003.png",
+      "page_number": 3,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "295835e0f56c6875e0737aa49317444076a42d93c7b4bc80265d6d2ba52920e9",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P004",
+      "file": "book/pages/P004.png",
+      "page_number": 4,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "ddaa865c774a070c0e335923a9568397f4873e5eff33d68d07d0f34919bea78b",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P005",
+      "file": "book/pages/P005.png",
+      "page_number": 5,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "96b38cac3ccfb2f721924bf4db158f3879f76b8bfcdafdf36dc8145933b8ff0a",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P006",
+      "file": "book/pages/P006.png",
+      "page_number": 6,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "d08083399473894e788f7ad9937aa28db71f89f49d307669113802ccd9f68c45",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P007",
+      "file": "book/pages/P007.png",
+      "page_number": 7,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "18a893a5429d02e6a1f792517b3009f62c31e8c84ccf9a3c039fb5ad1c919989",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P008",
+      "file": "book/pages/P008.png",
+      "page_number": 8,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "3b569c47efa4161a24282bd1c2ae637d7ec881a3756fa69e1a702f73fcf157fe",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P009",
+      "file": "book/pages/P009.png",
+      "page_number": 9,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "4c46d19e06580c16c4bd6f1a3282e14fe012b4ea704f89c1eacf85d05778e9a5",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P010",
+      "file": "book/pages/P010.png",
+      "page_number": 10,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a3be98a843bee7ae2435b103ab6ee05c7e0eaa3dd3b32b3af64c0283803149a2",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P011",
+      "file": "book/pages/P011.png",
+      "page_number": 11,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "3775eafc65395bc965ef7e1b0f994844e72fcd5d9e7a0b1bb1d5a43d065c5303",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P012",
+      "file": "book/pages/P012.png",
+      "page_number": 12,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "eace2267fc4f3604dd2ab54982df126a12af7c022218b3e05c980743163c38f0",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P013",
+      "file": "book/pages/P013.png",
+      "page_number": 13,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "c0d51a72b26cc6b6eed219635d6828b7a855646306714a933672a6ebdf260c03",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P014",
+      "file": "book/pages/P014.png",
+      "page_number": 14,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "d61ac2b9bbf382c721d7ae94ae3ccca0d1d0e9e136828903c79df73188905fa3",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P015",
+      "file": "book/pages/P015.png",
+      "page_number": 15,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "694983a72a23c8f093e833d3b571d28de2f58c4a8c43b8aff13d4a9fe3a35629",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P016",
+      "file": "book/pages/P016.png",
+      "page_number": 16,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "aa65dfc3cb991e7216b7a78290f7caf33775c9887624cd171a18d386e4e7b28b",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P017",
+      "file": "book/pages/P017.png",
+      "page_number": 17,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "4cd4703584140c29ad0559db5051c9a97ba8d829638943fe442553530350ca36",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P018",
+      "file": "book/pages/P018.png",
+      "page_number": 18,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "8d5df88de3bd385f051ddc10fb7ba1457ed077431e7af90b3b329087a64d51e7",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P019",
+      "file": "book/pages/P019.png",
+      "page_number": 19,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "d94ea386b635e2fb7908718110d6450052be06c6e9a6bff28a8d42da26dcead9",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P020",
+      "file": "book/pages/P020.png",
+      "page_number": 20,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "2e50d424b0b901c4cd626b4f6efefa56b65f48b8a3a7eec5407f22725c6dcb5c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P021",
+      "file": "book/pages/P021.png",
+      "page_number": 21,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "c95f703c4c10e010eb68407ecf2ad0b41e617c671beb6741cef8c3a3b6155fe9",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P022",
+      "file": "book/pages/P022.png",
+      "page_number": 22,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "c37268c9a8b5f2a0c49b981e1be6065b79ff1fc707363be7bc3e6fa6981932f2",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P023",
+      "file": "book/pages/P023.png",
+      "page_number": 23,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "a3c7ba89e28f72a448faeec1677f9412eb7cd7b3f35abb12a46e5f2341c93953",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P024",
+      "file": "book/pages/P024.png",
+      "page_number": 24,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "26a7e87b2f806045a746990457084a6ae38e4fc8b7ad1593b38fccb6c82465e3",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P025",
+      "file": "book/pages/P025.png",
+      "page_number": 25,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "b21ce282daaa088430cc8df2447c92d18a369299cabc7c5407dd5ca59f653f47",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Hollowbone Manor Masquerade",
+      "asset": "P001",
+      "approved_text": [
+        "HOLLOWBONE MANOR MASQUERADE"
+      ],
+      "production_notes": "Verify the title is fully legible and correctly spelled. Keep the cover line-art-only so it can be coloured, while retaining a polished premium cover hierarchy. No barcode or author name required."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "The Iron Gate",
+      "asset": "P002",
+      "approved_text": [],
+      "production_notes": "Keep gate scrollwork detailed but with generous enclosed sections. Ensure the approaching figures remain visually separate from the path and manor."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "The Maskmaker's Chamber",
+      "asset": "P003",
+      "approved_text": [],
+      "production_notes": "Do not include tiny or illegible shelf labels. Make scissors safe-looking decorative tailoring scissors, not a focal threat."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Velvet Invitation",
+      "asset": "P004",
+      "approved_text": [],
+      "production_notes": "No lengthy text on the invitation. Preserve large colourable sections in the damask fabric, envelope and leaves."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "The Grand Stair",
+      "asset": "P005",
+      "approved_text": [],
+      "production_notes": "Separate each costume silhouette clearly. Use repeatable but non-muddy textile patterns and broad stair treads for colouring."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "The Candle Corridor",
+      "asset": "P006",
+      "approved_text": [],
+      "production_notes": "Maintain a clear perspective path and avoid dense linework in the far distance. Portrait faces should be varied, stylised and non-graphic."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "The Ballroom Waltz",
+      "asset": "P007",
+      "approved_text": [],
+      "production_notes": "Exactly eight dancing figures arranged as four readable pairs. Keep the chandelier ornate but not ink-heavy; preserve the throne as a clear visual clue."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Raven's Toast",
+      "asset": "P008",
+      "approved_text": [],
+      "production_notes": "Ensure there is no implied drinking brand or modern glassware. Give the goblet and greenhouse panes open colourable regions."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Pumpkin Parlour",
+      "asset": "P009",
+      "approved_text": [],
+      "production_notes": "Keep ghost forms tasteful and adult-gothic rather than childish. Do not depict flames as solid black; use outlined stylised fire shapes."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "The Moonlit Terrace",
+      "asset": "P010",
+      "approved_text": [],
+      "production_notes": "Use outlined moon and clouds only, with sparse hatching. Keep railing spaces sufficiently broad for comfortable colouring."
+    },
+    {
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "The Midnight Supper",
+      "asset": "P011",
+      "approved_text": [],
+      "production_notes": "Avoid food details so small that they become muddy. Keep the feast recognisable and entirely non-gory."
+    },
+    {
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "The Clock Strikes Twelve",
+      "asset": "P012",
+      "approved_text": [],
+      "production_notes": "Clock must unambiguously show twelve o'clock: both hands pointing straight up. Verify dial numerals are optional; if used, ensure they are correct and legible."
+    },
+    {
+      "page_number": 13,
+      "page_type": "colouring",
+      "title": "The Hidden Door",
+      "asset": "P013",
+      "approved_text": [],
+      "production_notes": "Make the secret door's outline obvious and the keyhole centrally readable. Keep curtain folds bold and colourable."
+    },
+    {
+      "page_number": 14,
+      "page_type": "colouring",
+      "title": "The Portrait Gallery",
+      "asset": "P014",
+      "approved_text": [],
+      "production_notes": "Exactly seven portrait frames, each clearly countable. Keep the emerging figure non-gory and make the mirror reflection decorative rather than visually confusing."
+    },
+    {
+      "page_number": 15,
+      "page_type": "colouring",
+      "title": "The Conservatory Oracle",
+      "asset": "P015",
+      "approved_text": [],
+      "production_notes": "The crystal ball image should be limited to the simple crown-and-empty-chair symbol, with clear interior lines and no grey fill."
+    },
+    {
+      "page_number": 16,
+      "page_type": "colouring",
+      "title": "The Costume Wardrobe",
+      "asset": "P016",
+      "approved_text": [],
+      "production_notes": "Avoid tiny repeated garment buttons. The mirror reflection must be anatomically and pose-consistent with the main figure."
+    },
+    {
+      "page_number": 17,
+      "page_type": "colouring",
+      "title": "The Garden Labyrinth",
+      "asset": "P017",
+      "approved_text": [],
+      "production_notes": "This is scenic, not a maze activity; ensure the path is visually continuous and does not accidentally create impossible crossings. Exactly three guest figures."
+    },
+    {
+      "page_number": 18,
+      "page_type": "colouring",
+      "title": "The Raven Key",
+      "asset": "P018",
+      "approved_text": [],
+      "production_notes": "Key must be fully visible, unbroken and clearly distinguishable from the raven. Keep feather detail patterned in grouped sections rather than micro-lines."
+    },
+    {
+      "page_number": 19,
+      "page_type": "colouring",
+      "title": "The Throne Room",
+      "asset": "P019",
+      "approved_text": [],
+      "production_notes": "Exactly eight freestanding candles and two gargoyles. Ensure the mask is prominent, centred and separated from upholstery patterns."
+    },
+    {
+      "page_number": 20,
+      "page_type": "colouring",
+      "title": "The Crown of Bones",
+      "asset": "P020",
+      "approved_text": [],
+      "production_notes": "Exactly four moths. Keep the crown ornamental rather than grotesque, with clear individual sections for colouring."
+    },
+    {
+      "page_number": 21,
+      "page_type": "colouring",
+      "title": "The Unmasking",
+      "asset": "P021",
+      "approved_text": [],
+      "production_notes": "Retain an elegant, non-threatening expression through pose. The host, throne and skull mask must remain the primary focal hierarchy."
+    },
+    {
+      "page_number": 22,
+      "page_type": "colouring",
+      "title": "The Skeleton Orchestra",
+      "asset": "P022",
+      "approved_text": [],
+      "production_notes": "Exactly five musicians and the specified five instruments, all clearly identifiable. Do not use dense real musical notation or readable lyrics."
+    },
+    {
+      "page_number": 23,
+      "page_type": "colouring",
+      "title": "The Final Procession",
+      "asset": "P023",
+      "approved_text": [],
+      "production_notes": "Exactly six procession figures. Ensure the crown-bearer is visually central, and do not overcrowd the hall with extra character silhouettes."
+    },
+    {
+      "page_number": 24,
+      "page_type": "colouring",
+      "title": "Dawn at Hollowbone Manor",
+      "asset": "P024",
+      "approved_text": [],
+      "production_notes": "Dawn is conveyed with open linework only, never grey or coloured sky. Keep carriage details readable and avoid obscuring the departing guests."
+    },
+    {
+      "page_number": 25,
+      "page_type": "colouring",
+      "title": "The Manor Sleeps",
+      "asset": "P025",
+      "approved_text": [],
+      "production_notes": "End without printed text so the final page remains a full colouring design. Keep the skull-mask silhouette small but clearly recognisable; preserve ample white space in the sky and façade."
+    }
+  ],
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "book": {
+    "pages": [
+      {
+        "page_number": 1,
+        "title": "Hollowbone Manor Masquerade",
+        "page_type": "cover",
+        "role": "cover",
+        "asset": "P001"
+      },
+      {
+        "page_number": 2,
+        "title": "The Iron Gate",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P002"
+      },
+      {
+        "page_number": 3,
+        "title": "The Maskmaker's Chamber",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P003"
+      },
+      {
+        "page_number": 4,
+        "title": "Velvet Invitation",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P004"
+      },
+      {
+        "page_number": 5,
+        "title": "The Grand Stair",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P005"
+      },
+      {
+        "page_number": 6,
+        "title": "The Candle Corridor",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P006"
+      },
+      {
+        "page_number": 7,
+        "title": "The Ballroom Waltz",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P007"
+      },
+      {
+        "page_number": 8,
+        "title": "Raven's Toast",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P008"
+      },
+      {
+        "page_number": 9,
+        "title": "Pumpkin Parlour",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P009"
+      },
+      {
+        "page_number": 10,
+        "title": "The Moonlit Terrace",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P010"
+      },
+      {
+        "page_number": 11,
+        "title": "The Midnight Supper",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P011"
+      },
+      {
+        "page_number": 12,
+        "title": "The Clock Strikes Twelve",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P012"
+      },
+      {
+        "page_number": 13,
+        "title": "The Hidden Door",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P013"
+      },
+      {
+        "page_number": 14,
+        "title": "The Portrait Gallery",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P014"
+      },
+      {
+        "page_number": 15,
+        "title": "The Conservatory Oracle",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P015"
+      },
+      {
+        "page_number": 16,
+        "title": "The Costume Wardrobe",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P016"
+      },
+      {
+        "page_number": 17,
+        "title": "The Garden Labyrinth",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P017"
+      },
+      {
+        "page_number": 18,
+        "title": "The Raven Key",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P018"
+      },
+      {
+        "page_number": 19,
+        "title": "The Throne Room",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P019"
+      },
+      {
+        "page_number": 20,
+        "title": "The Crown of Bones",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P020"
+      },
+      {
+        "page_number": 21,
+        "title": "The Unmasking",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P021"
+      },
+      {
+        "page_number": 22,
+        "title": "The Skeleton Orchestra",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P022"
+      },
+      {
+        "page_number": 23,
+        "title": "The Final Procession",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P023"
+      },
+      {
+        "page_number": 24,
+        "title": "Dawn at Hollowbone Manor",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P024"
+      },
+      {
+        "page_number": 25,
+        "title": "The Manor Sleeps",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P025"
+      }
+    ],
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "cover": true
+  },
+  "review_notes": [
+    "Page 1 (cover, P001): check the baked-in text reads exactly \"HOLLOWBONE MANOR MASQUERADE\"."
+  ]
+}

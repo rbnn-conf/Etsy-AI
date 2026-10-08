@@ -1,0 +1,252 @@
+{
+  "format": "colouring-book",
+  "campaign": "colouring-halloween_dark",
+  "strategy": {
+    "family": "colouring_book",
+    "theme": "halloween_dark",
+    "visual_marketing_mood": "moody atmospheric Halloween"
+  },
+  "slides": [
+    {
+      "template": "hero",
+      "scene": "desk",
+      "density": "rich lifestyle",
+      "purpose": "Stop the scroll: the real cover and pages on a creative desk.",
+      "min_product_share": 0.35,
+      "id": "01-hero",
+      "copy": {
+        "headline": {
+          "text": "Halloween / autumn\nColouring\nPages"
+        },
+        "subline": {
+          "text": "9 pages to print and colour",
+          "claim": [
+            "page-count",
+            "9 colouring pages"
+          ]
+        }
+      }
+    },
+    {
+      "template": "interior",
+      "page": 2,
+      "name_headline": true,
+      "density": "artwork hero",
+      "purpose": "Inside the book: one real page at near full size.",
+      "min_product_share": 0.4,
+      "id": "02-interior",
+      "copy": {
+        "headline": {
+          "text": "The Lantern Bench",
+          "claim": [
+            "page-title",
+            "The Lantern Bench"
+          ]
+        },
+        "kicker": {
+          "text": "Page 2 of 10",
+          "claim": [
+            "page-number",
+            "Page 2 of 10"
+          ]
+        }
+      }
+    },
+    {
+      "template": "collage",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "density": "product grid",
+      "purpose": "Many real pages at once: the size of the collection.",
+      "min_product_share": 0.3,
+      "id": "03-collage",
+      "copy": {
+        "headline": {
+          "text": "9 pages\nto colour",
+          "claim": [
+            "page-count",
+            "9 colouring pages"
+          ]
+        }
+      }
+    },
+    {
+      "template": "coloured",
+      "page": 2,
+      "example": "example-p2",
+      "density": "inspiration",
+      "purpose": "A coloured example of a real page (AI example, labelled), beside the real page.",
+      "min_product_share": 0.08,
+      "id": "04-coloured",
+      "copy": {
+        "headline": {
+          "text": "Colour it\nyour way"
+        }
+      }
+    },
+    {
+      "template": "before-after",
+      "page": 2,
+      "example": "example-p2",
+      "density": "process",
+      "purpose": "Before and after: the real line art and a coloured example of it.",
+      "min_product_share": 0.2,
+      "id": "05-before-after",
+      "copy": {
+        "headline": {
+          "text": "Print it.\nColour it."
+        }
+      }
+    },
+    {
+      "template": "included",
+      "density": "structured information",
+      "purpose": "Everything in the download, as real files.",
+      "min_product_share": 0.12,
+      "id": "06-included",
+      "copy": {
+        "headline": {
+          "text": "What’s included"
+        }
+      }
+    },
+    {
+      "template": "printable",
+      "density": "clean information",
+      "purpose": "Printable and download information: what you get, nothing shipped.",
+      "min_product_share": 0.08,
+      "id": "07-printable",
+      "copy": {
+        "headline": {
+          "text": "Instant digital\ndownload",
+          "claim": [
+            "digital",
+            "Instant digital download"
+          ]
+        }
+      }
+    },
+    {
+      "template": "features",
+      "page": 6,
+      "density": "benefits",
+      "purpose": "Features and benefits, beside a real page.",
+      "min_product_share": 0.3,
+      "id": "08-features",
+      "copy": {
+        "headline": {
+          "text": "Made for\nrelaxed colouring"
+        }
+      }
+    },
+    {
+      "template": "lifestyle",
+      "scene": "cosy",
+      "page": 10,
+      "tone": true,
+      "density": "emotional lifestyle",
+      "purpose": "A real page in a relaxing colouring moment.",
+      "min_product_share": 0.28,
+      "id": "09-lifestyle",
+      "copy": {
+        "headline": {
+          "text": "Your quiet\ncreative hour"
+        },
+        "subline": {
+          "text": "Settle into a peaceful autumn colouring ritual.",
+          "by": "model"
+        }
+      }
+    },
+    {
+      "template": "bundle",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tone": true,
+      "density": "summary",
+      "purpose": "Final summary and call to action: the collection at a glance.",
+      "min_product_share": 0.3,
+      "id": "10-bundle",
+      "copy": {
+        "headline": {
+          "text": "Download,\nprint & colour"
+        },
+        "subline": {
+          "text": "A moonlit garden escape for your next creative moment.",
+          "by": "model"
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "desk",
+      "purpose": "Hero: a creative colouring desk.",
+      "used_by": [
+        "01-hero"
+      ],
+      "brief": "Weathered dark-oak desk with a few muted autumn leaves, a small brass lamp and neatly arranged coloured pencils. Deep plum, moss and warm amber accents; low, directional lamplight with soft moonlit shadows.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nPremium overhead-angled photograph of a calm creative desk: a few coloured pencils and fine-liner pens in a cup, a small ceramic mug, a sprig of seasonal greenery, soft natural window light and gentle shadows, shallow depth of field. Keep the right-hand two thirds of the desk clear, even and softly lit, reserved for products added later.\nCampaign mood: moody atmospheric Halloween.\nAdditional art direction: Weathered dark-oak desk with a few muted autumn leaves, a small brass lamp and neatly arranged coloured pencils. Deep plum, moss and warm amber accents; low, directional lamplight with soft moonlit shadows.\nMood: Peaceful, intimate, gently mysterious and warmly seasonal rather than frightening.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals.",
+      "file": "marketing/scenes/desk.png",
+      "sha256": "ec2654b6b882014f455779a0e665ae3dc9acfad933e11611b50bb5183ac9e6cd",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "cosy",
+      "purpose": "Lifestyle: a relaxing colouring moment.",
+      "used_by": [
+        "09-lifestyle"
+      ],
+      "brief": "A softly layered reading nook with a moss-green knitted throw, dark wood side table and a few tiny pumpkins nearby. Use warm amber lamplight against deep charcoal and plum tones, with gentle shadow and an intimate autumn-evening feel.",
+      "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nCosy, relaxing corner at home for a quiet creative hour: a knitted throw, a warm drink, coloured pencils in a jar, a candle and soft warm lamp light, seasonal details at the edges, shallow depth of field. Keep the centre and right of the surface clear and calm, reserved for a product added later.\nCampaign mood: moody atmospheric Halloween.\nAdditional art direction: A softly layered reading nook with a moss-green knitted throw, dark wood side table and a few tiny pumpkins nearby. Use warm amber lamplight against deep charcoal and plum tones, with gentle shadow and an intimate autumn-evening feel.\nMood: Peaceful, intimate, gently mysterious and warmly seasonal rather than frightening.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals.",
+      "file": "marketing/scenes/cosy.png",
+      "sha256": "a52d68b22eb2773105993aa5cc53d5e244cef7113928c24374a4f051cbb8ca55",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "examples": [
+    {
+      "id": "example-p2",
+      "page_number": 2,
+      "asset": "P002",
+      "source": {
+        "file": "book/pages/P002.png",
+        "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1",
+        "width": 1024,
+        "height": 1536
+      },
+      "purpose": "Coloured example of a real page (marketing illustration only; the product is black-and-white line art).",
+      "used_by": [
+        "04-coloured",
+        "05-before-after"
+      ],
+      "file": "marketing/examples/example-p2.png",
+      "prompt": "Colour in this exact colouring-book page as a finished example for an Etsy listing image.\nKeep every black line exactly as it is: do not add, remove, move, redraw or restyle any line, object, pattern or lettering, and keep the whole page with its white margins visible.\nFill the enclosed areas neatly, as if coloured with coloured pencils and felt-tip markers: harmonious, natural colours with gentle shading inside the shapes.\nColour mood: moody atmospheric Halloween, Halloween / autumn feeling.\nOutput: a flat, straight-on image of the coloured page on white paper. No table, hands, pencils, shadows, frame, border, added text, signature or watermark.",
+      "sha256": "20cf35c5cf7bc15d6634723a49e892081e5a92010c0f7ad8be19d623d79eeb47",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536"
+    }
+  ],
+  "engine": {
+    "id": "factory",
+    "version": 1
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-06T14:57:55.814Z"
+}

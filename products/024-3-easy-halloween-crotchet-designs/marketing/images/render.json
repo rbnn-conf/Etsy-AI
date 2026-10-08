@@ -1,0 +1,784 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3171572,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "9b722f15a61ade32b4ae9ee7e48ea8704bd751ae19d9ffb3742ea275fe2068ee",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 820,
+        "boxH": 1159,
+        "complete": true,
+        "rect": {
+          "x": 780.5748901367188,
+          "y": 232.8114776611328,
+          "w": 898.8502807617188,
+          "h": 1213.376953125
+        },
+        "visible": {
+          "x": 780.5748901367188,
+          "y": 232.8114776611328,
+          "w": 898.8502807617188,
+          "h": 1213.376953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "808bea899231aa66d78ccb4c01b78ae49585e0e204391ef0aae03ff10c8d7ccd",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 940,
+        "boxH": 1329,
+        "complete": true,
+        "rect": {
+          "x": 937.0955810546875,
+          "y": 350.0020446777344,
+          "w": 985.808837890625,
+          "h": 1360.995849609375
+        },
+        "visible": {
+          "x": 937.0955810546875,
+          "y": 350.0020446777344,
+          "w": 985.808837890625,
+          "h": 1360.995849609375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "3 CrochetPatterns",
+        "fontPx": 114
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Little Halloween Costume Accessories",
+        "text": "Little Halloween Costume Accessories"
+      },
+      {
+        "claim": "pattern-count",
+        "value": "3 crochet patterns",
+        "text": "3 CrochetPatterns"
+      },
+      {
+        "claim": "pattern-count",
+        "value": "3 crochet patterns",
+        "text": "3 crochet patterns"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant digital download",
+        "text": "Instant digital download"
+      }
+    ],
+    "slide": "01-hero",
+    "scene": "craft",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "01-hero.png",
+    "thumb": "thumbs/01-hero.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1143992,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "9b722f15a61ade32b4ae9ee7e48ea8704bd751ae19d9ffb3742ea275fe2068ee",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 1120,
+        "boxH": 1583,
+        "complete": true,
+        "rect": {
+          "x": 110,
+          "y": 209,
+          "w": 1120,
+          "h": 1583
+        },
+        "visible": {
+          "x": 110,
+          "y": 209,
+          "w": 1120,
+          "h": 1583
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Moonlit Bat Hair Clip",
+        "fontPx": 110
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "pattern-number",
+        "value": "Pattern 01 of 3",
+        "text": "Pattern 01 of 3"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Moonlit Bat Hair Clip",
+        "text": "Moonlit Bat Hair Clip"
+      },
+      {
+        "claim": "skill",
+        "value": "Easy",
+        "text": "Easy"
+      },
+      {
+        "claim": "instructions",
+        "value": "Step-by-step instructions",
+        "text": "Step-by-step instructions"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      }
+    ],
+    "slide": "02-interior",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "02-interior.png",
+    "thumb": "thumbs/02-interior.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1195604,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "9b722f15a61ade32b4ae9ee7e48ea8704bd751ae19d9ffb3742ea275fe2068ee",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 577,
+        "boxH": 816,
+        "complete": true,
+        "rect": {
+          "x": 92.92335510253906,
+          "y": 737.027099609375,
+          "w": 591.1533203125,
+          "h": 825.94580078125
+        },
+        "visible": {
+          "x": 92.92335510253906,
+          "y": 737.027099609375,
+          "w": 591.1533203125,
+          "h": 825.94580078125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "4f013967bfaf6e9be283397cdc2b7618eac15ff9338a66be0520d5ab280e2ed1",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 577,
+        "boxH": 816,
+        "complete": true,
+        "rect": {
+          "x": 703.92333984375,
+          "y": 737.027099609375,
+          "w": 591.1533203125,
+          "h": 825.94580078125
+        },
+        "visible": {
+          "x": 703.92333984375,
+          "y": 737.027099609375,
+          "w": 591.1533203125,
+          "h": 825.94580078125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "efac468207679143a23541909d3df498c274ed4d3e1db70a32e9e8c57292b2cc",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 577,
+        "boxH": 816,
+        "complete": true,
+        "rect": {
+          "x": 1315.92333984375,
+          "y": 737.027099609375,
+          "w": 591.1533203125,
+          "h": 825.94580078125
+        },
+        "visible": {
+          "x": 1315.92333984375,
+          "y": 737.027099609375,
+          "w": 591.1533203125,
+          "h": 825.94580078125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "3 patternsto make",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "pattern-count",
+        "value": "3 patterns",
+        "text": "3 patternsto make"
+      }
+    ],
+    "slide": "03-collage",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "03-collage.png",
+    "thumb": "thumbs/03-collage.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 856161,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "14f53a4191f1be0c7e98f1959bd18a995588e58588bc1bfef928ebf32631fcad",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 1020,
+        "boxH": 1442,
+        "complete": true,
+        "rect": {
+          "x": 855.0123901367188,
+          "y": 268.47747802734375,
+          "w": 1049.975341796875,
+          "h": 1463.044921875
+        },
+        "visible": {
+          "x": 855.0123901367188,
+          "y": 268.47747802734375,
+          "w": 1049.975341796875,
+          "h": 1463.044921875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Every patternat a glance",
+        "fontPx": 112
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "pattern-index",
+        "value": "Pattern index",
+        "text": "Pattern index"
+      },
+      {
+        "claim": "skill",
+        "value": "Easy",
+        "text": "Easy"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      },
+      {
+        "claim": "combinations",
+        "value": "Little Halloween Accessory Set: 1 combination idea",
+        "text": "Little Halloween Accessory Set: 1 combination idea"
+      }
+    ],
+    "slide": "04-index",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "04-index.png",
+    "thumb": "thumbs/04-index.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1131376,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "808bea899231aa66d78ccb4c01b78ae49585e0e204391ef0aae03ff10c8d7ccd",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 304,
+        "boxH": 430,
+        "complete": true,
+        "rect": {
+          "x": 396.9560852050781,
+          "y": 377.339599609375,
+          "w": 326.0878601074219,
+          "h": 445.32080078125
+        },
+        "visible": {
+          "x": 396.9560852050781,
+          "y": 377.339599609375,
+          "w": 326.0878601074219,
+          "h": 445.32080078125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "9b722f15a61ade32b4ae9ee7e48ea8704bd751ae19d9ffb3742ea275fe2068ee",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 240,
+        "boxH": 339,
+        "complete": true,
+        "rect": {
+          "x": 1180.237548828125,
+          "y": 416.63909912109375,
+          "w": 279.52490234375,
+          "h": 365.7218017578125
+        },
+        "visible": {
+          "x": 1180.237548828125,
+          "y": 416.63909912109375,
+          "w": 279.52490234375,
+          "h": 365.7218017578125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "4f013967bfaf6e9be283397cdc2b7618eac15ff9338a66be0520d5ab280e2ed1",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 240,
+        "boxH": 339,
+        "complete": true,
+        "rect": {
+          "x": 1320,
+          "y": 430,
+          "w": 240,
+          "h": 339
+        },
+        "visible": {
+          "x": 1320,
+          "y": 430,
+          "w": 240,
+          "h": 339
+        },
+        "crop": null
+      },
+      {
+        "sha256": "efac468207679143a23541909d3df498c274ed4d3e1db70a32e9e8c57292b2cc",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 240,
+        "boxH": 339,
+        "complete": true,
+        "rect": {
+          "x": 1420.237548828125,
+          "y": 416.63909912109375,
+          "w": 279.52490234375,
+          "h": 365.7218017578125
+        },
+        "visible": {
+          "x": 1420.237548828125,
+          "y": 416.63909912109375,
+          "w": 279.52490234375,
+          "h": 365.7218017578125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "8304a390b20fda308cdd1d8810f266009897da22ca363f1e0d61aa94c1e96813",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 250,
+        "boxH": 353,
+        "complete": true,
+        "rect": {
+          "x": 342.9924621582031,
+          "y": 1184.7103271484375,
+          "w": 274.0150451660156,
+          "h": 369.579345703125
+        },
+        "visible": {
+          "x": 342.9924621582031,
+          "y": 1184.7103271484375,
+          "w": 274.0150451660156,
+          "h": 369.579345703125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "fc128ce5e68c716192fe9fea9ed8148a5e630ee465b996f2ddc4c7281be1917a",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 250,
+        "boxH": 353,
+        "complete": true,
+        "rect": {
+          "x": 502.9924621582031,
+          "y": 1224.7103271484375,
+          "w": 274.0150451660156,
+          "h": 369.579345703125
+        },
+        "visible": {
+          "x": 502.9924621582031,
+          "y": 1224.7103271484375,
+          "w": 274.0150451660156,
+          "h": 369.579345703125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "88017314f7639ca895254fb9a8be53abf372cbef23aceac267ef1d49d5d85286",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 300,
+        "boxH": 424,
+        "complete": true,
+        "rect": {
+          "x": 1282.692626953125,
+          "y": 1172.8941650390625,
+          "w": 314.61474609375,
+          "h": 434.211669921875
+        },
+        "visible": {
+          "x": 1282.692626953125,
+          "y": 1172.8941650390625,
+          "w": 314.61474609375,
+          "h": 434.211669921875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "What’s included",
+        "fontPx": 124
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "included",
+        "value": "Complete pattern collection PDF",
+        "text": "Complete pattern collection PDF"
+      },
+      {
+        "claim": "individual",
+        "value": "Each pattern as its own PDF",
+        "text": "Each pattern as its own PDF"
+      },
+      {
+        "claim": "references",
+        "value": "Materials and abbreviations reference",
+        "text": "Materials and abbreviations reference"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "05-included",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "05-included.png",
+    "thumb": "thumbs/05-included.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 829447,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "8304a390b20fda308cdd1d8810f266009897da22ca363f1e0d61aa94c1e96813",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 368,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 602,
+          "y": 1280,
+          "w": 368,
+          "h": 520
+        },
+        "visible": {
+          "x": 602,
+          "y": 1280,
+          "w": 368,
+          "h": 520
+        },
+        "crop": null
+      },
+      {
+        "sha256": "9b722f15a61ade32b4ae9ee7e48ea8704bd751ae19d9ffb3742ea275fe2068ee",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 368,
+        "boxH": 520,
+        "complete": true,
+        "rect": {
+          "x": 1030,
+          "y": 1280,
+          "w": 368,
+          "h": 520
+        },
+        "visible": {
+          "x": 1030,
+          "y": 1280,
+          "w": 368,
+          "h": 520
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Instant digitaldownload",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Instant digital download",
+        "text": "Instant digitaldownload"
+      },
+      {
+        "claim": "digital",
+        "value": "No physical item will be shipped",
+        "text": "No physical item will be shipped"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant access after purchase",
+        "text": "Instant accessafter purchase"
+      },
+      {
+        "claim": "process",
+        "value": "Print at home",
+        "text": "Print at homeon A4 or US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US LetterPDFs"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide included",
+        "text": "Printing guideincluded"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Crochet",
+        "text": "Crochet"
+      }
+    ],
+    "slide": "06-printable",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "06-printable.png",
+    "thumb": "thumbs/06-printable.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3442783,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "808bea899231aa66d78ccb4c01b78ae49585e0e204391ef0aae03ff10c8d7ccd",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 900,
+        "boxH": 1272,
+        "complete": true,
+        "rect": {
+          "x": 951.5559692382812,
+          "y": 599.5197143554688,
+          "w": 965.1893920898438,
+          "h": 1271.730712890625
+        },
+        "visible": {
+          "x": 951.5559692382812,
+          "y": 599.5197143554688,
+          "w": 965.1893920898438,
+          "h": 1271.730712890625
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Your quietcrafting hour",
+        "fontPx": 116
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [],
+    "slide": "07-lifestyle",
+    "scene": "cosy",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "07-lifestyle.png",
+    "thumb": "thumbs/07-lifestyle.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1463668,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "9b722f15a61ade32b4ae9ee7e48ea8704bd751ae19d9ffb3742ea275fe2068ee",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 600,
+        "boxH": 848,
+        "complete": true,
+        "rect": {
+          "x": 334.18756103515625,
+          "y": 705.4667358398438,
+          "w": 671.6248779296875,
+          "h": 897.0665893554688
+        },
+        "visible": {
+          "x": 334.18756103515625,
+          "y": 705.4667358398438,
+          "w": 671.6248779296875,
+          "h": 897.0665893554688
+        },
+        "crop": null
+      },
+      {
+        "sha256": "4f013967bfaf6e9be283397cdc2b7618eac15ff9338a66be0520d5ab280e2ed1",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 600,
+        "boxH": 848,
+        "complete": true,
+        "rect": {
+          "x": 700,
+          "y": 700,
+          "w": 600,
+          "h": 848
+        },
+        "visible": {
+          "x": 700,
+          "y": 700,
+          "w": 600,
+          "h": 848
+        },
+        "crop": null
+      },
+      {
+        "sha256": "efac468207679143a23541909d3df498c274ed4d3e1db70a32e9e8c57292b2cc",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 600,
+        "boxH": 848,
+        "complete": true,
+        "rect": {
+          "x": 994.1875610351562,
+          "y": 705.4667358398438,
+          "w": 671.6249389648438,
+          "h": 897.0665893554688
+        },
+        "visible": {
+          "x": 994.1875610351562,
+          "y": 705.4667358398438,
+          "w": 671.6249389648438,
+          "h": 897.0665893554688
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Download,print & crochet",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "pattern-count",
+        "value": "3 crochet patterns",
+        "text": "3 crochet patterns"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "08-bundle",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "file": "08-bundle.png",
+    "thumb": "thumbs/08-bundle.png"
+  }
+]

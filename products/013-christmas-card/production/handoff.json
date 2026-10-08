@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "product_id": "013",
+  "product_name": "Father Christmas on the Night Shift",
+  "slug": "father-christmas-night-shift",
+  "product_type": "Christmas card",
+  "product_format": "greeting-card",
+  "page_count": 3,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "illustrated",
+    "edge": "full-bleed",
+    "format_notes": "Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message."
+  },
+  "approved": {
+    "creative_approved_at": "2026-09-28T18:58:32.221Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "A",
+      "proposed_name": "Father Christmas on the Night Shift"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "37e3411d69aa8cefa9d2c705cb856c98e685b875737bd859dd1c11fb83497c6b"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "272951713c96ef315d18497c870bb0a8c9d05a0baa6fa1deb62a7ea6bfeb8ab9"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "proof-01",
+      "file": "proofs/attempt-01/proof-01.png",
+      "page_number": 1,
+      "proof_role": "main-style",
+      "sha256": "dbcea266a3cca463f97d8b5fe1b4e036dbbdb54cbe4d8bbf4752eeb147abe1e3",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-02",
+      "file": "proofs/attempt-01/proof-02.png",
+      "page_number": 2,
+      "proof_role": "different-composition",
+      "sha256": "27e0aafe7e7bde4eefec30d3f1a383a1ea27eb0f8efa7fe701b56dad0365331d",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "proof-03",
+      "file": "proofs/attempt-01/proof-03.png",
+      "page_number": 3,
+      "proof_role": "consistency-check",
+      "sha256": "d1fa96050b13f50d6b27f515c0b141db3a1f93fcb3f8b04327340072c0ce2e8c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "card-front",
+      "title": "Merry Christmas",
+      "asset": "proof-01",
+      "approved_text": [
+        "Merry Christmas"
+      ],
+      "production_notes": "Verify the title is exactly “Merry Christmas” and fully legible. Keep the cyclist, bicycle and parcels clear of the fold/trim area. Preserve the open upper-sky area and avoid excessive dark ink coverage across the entire panel."
+    },
+    {
+      "page_number": 2,
+      "page_type": "card-inside",
+      "title": "Warm Wishes",
+      "asset": "proof-02",
+      "approved_text": [
+        "Wishing you a very merry Christmas"
+      ],
+      "production_notes": "Verify the greeting text exactly, including lower-case “very merry Christmas”. Ensure the central and lower-middle writing area remains unillustrated with sufficient contrast for pen ink. Position artwork away from the fold line."
+    },
+    {
+      "page_number": 3,
+      "page_type": "card-back",
+      "title": "Night Shift",
+      "asset": "proof-03",
+      "approved_text": [
+        "Night shift complete"
+      ],
+      "production_notes": "Verify the text is exactly “Night shift complete”. Keep the panel deliberately minimal and do not add branding. Include the separate printing and folding guide as an unillustrated deliverable component; it is not an artwork page."
+    }
+  ],
+  "adapter": {
+    "format": "greeting-card",
+    "version": 2
+  },
+  "card_variants": [
+    {
+      "id": "A",
+      "name": "Father Christmas on the Night Shift",
+      "source": "specification",
+      "front": {
+        "asset": "proof-01"
+      },
+      "inside": {
+        "asset": "proof-02"
+      },
+      "inside_left": null,
+      "back": {
+        "type": "approved",
+        "asset": "proof-03"
+      }
+    }
+  ],
+  "review_notes": [
+    "Page 1 (front, proof-01): check the baked-in text reads exactly \"Merry Christmas\".",
+    "Page 2 (inside, proof-02): check the baked-in text reads exactly \"Wishing you a very merry Christmas\".",
+    "Page 3 (back, proof-03): check the baked-in text reads exactly \"Night shift complete\"."
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book",
+  "source_fingerprint": "1417ee14005e7ad863bc59fe96681afe902ddef8e0d0f11fd8171f4f54a2e8fe",
+  "build_record_sha256": "a9f81ef8f84b5a2bdcfb5981f5dde0839b9d3220484f51b2a57d950ac204dd2b",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "ed192b2221b5bc50e92379066c966bfa5a7ffcc9881741a8dd8f8e6792eb0b7d",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Midnight-Monster-Diner-Colouring-Book-A4.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-A4.zip",
+      "sha256": "c83569b903fa025d2b5277f0f28a4205b8a7ae684fa9edf48d1cf4a7e79a3ce4",
+      "bytes": 7650657,
+      "size": "7.65 MB",
+      "purpose": "2 files (guide, pdf), pages 1-21",
+      "label": "A4",
+      "contents": [
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/START-HERE-Printing-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/START-HERE-Printing-Guide.pdf",
+          "sha256": "259904be46e8d53027f14d65409468ea7adf03193851f0f797216164322382a3",
+          "bytes": 2265
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+          "sha256": "797c59a8b05d5bf9ad52f06127c79a8b963cbbb2cd824575ae0a883f463dbe7e",
+          "bytes": 7689223
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Midnight-Monster-Diner-Colouring-Book-US-Letter.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-US-Letter.zip",
+      "sha256": "9f42657bb7fbf3c695dda2ce8be24c21ec3a95ccbf9968a74bb7ba26d67830aa",
+      "bytes": 7648334,
+      "size": "7.65 MB",
+      "purpose": "1 file (pdf), pages 1-21",
+      "label": "US-Letter",
+      "contents": [
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/US-Letter/LumiumX-Midnight-Monster-Diner-Colouring-Book-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/US-Letter/LumiumX-Midnight-Monster-Diner-Colouring-Book-US-Letter.pdf",
+          "sha256": "a2387d0fa19fd89889afe8cfbc8a60da1aa99c95de4a9ffffa6c61f33b8f7ebc",
+          "bytes": 7689297
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip",
+      "sha256": "b9a4653f9903f49fc7d976448cee94b8ad1c1f3a79ad80d7bdc2e49008f9f9bc",
+      "bytes": 14258185,
+      "size": "14.26 MB",
+      "purpose": "11 files (page-png), pages 1-11",
+      "label": "Pages-PNG-Pages-01-11",
+      "contents": [
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png",
+          "sha256": "8b7d657d6d241c77e94ca70b08b4ca80e8c1569390f82953784ae310228496bf",
+          "bytes": 1420965
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png",
+          "sha256": "ed7cabdc7a0aabd4c831bc269bda69c81c512beb35d83ca14d6df7233ba4b393",
+          "bytes": 1236450
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png",
+          "sha256": "28c16076515c19bbde61ae86b9a865ab6e4db40453a21e471d6375f54961cd14",
+          "bytes": 1293381
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png",
+          "sha256": "fa4eb55c5512931b267cb2ba582e09691ae5cb70de0bdaa9d4f0a00197a1a699",
+          "bytes": 1198556
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png",
+          "sha256": "5eef889ad7162d84dc663eead62695c74632ea2343069df436bb791357617971",
+          "bytes": 1216541
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png",
+          "sha256": "b76b574afa31e70d1d23e6dcb8c8e5d6d41e993774fe1624518ce5675e0e9cfd",
+          "bytes": 1282326
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png",
+          "sha256": "7b7f188e67b03f63b89499be0032226de6fdeabd493a5b9347864c82e90cc7d4",
+          "bytes": 1297386
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png",
+          "sha256": "6cdd78224698e176637febb32b3b5233d750c182f74d86969d73d46e0049baad",
+          "bytes": 1464186
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png",
+          "sha256": "ae99699d0688cc3fa53fa786471f13d513ebba42c7adde8d688780e785be6dcf",
+          "bytes": 1228854
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png",
+          "sha256": "fdbf12e63bfeee7d0bdc500ac9f46336fed8ae77fb04d230e74a35faa117c1c7",
+          "bytes": 1313338
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png",
+          "sha256": "975b0614a5f1271c4234d758338b49852e2c129b4b2ecab2d78b9f39130d9620",
+          "bytes": 1328508
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip",
+      "file": "etsy/delivery/Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip",
+      "sha256": "e9c4673632206cdb25c1dceeef643a09f4bb8ba05639e6c49becd69533e4b2ce",
+      "bytes": 12968965,
+      "size": "12.97 MB",
+      "purpose": "10 files (page-png), pages 12-21",
+      "label": "Pages-PNG-Pages-12-21",
+      "contents": [
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png",
+          "sha256": "4d9cb8917071720aee931c16382b42ae4355d4d2bee779bf48b6233dc6c8150e",
+          "bytes": 1269683
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png",
+          "sha256": "20a48a5e3bb2a081161e9bf9df7b6aec9b7c30f3b897de69a28f3990deae9851",
+          "bytes": 1332785
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png",
+          "sha256": "ebab1c05a3d4e2e122d7623235a213decb3b5954e92e314bc877a78a0f782bf0",
+          "bytes": 1252598
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png",
+          "sha256": "605a8338ead4868cb047d5dc3220e2531a34288f72c3ed30ae221fceb5d684cc",
+          "bytes": 1204113
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png",
+          "sha256": "6b2facc4c0df6501138d946bb0682c4fdf5d5eda9f63a0c3230457084699b13a",
+          "bytes": 1373981
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png",
+          "sha256": "03f9f1e05d460e2b430a883d6f679da6505bb4a537c206e8ff882bfbb61fd866",
+          "bytes": 1460931
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png",
+          "sha256": "fe88122d2c090758e5a13f2d1ef5ebf3e95140039c5f12e792a570132f6af770",
+          "bytes": 1233516
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png",
+          "sha256": "0fef82b9d4f231d6107777f863db88e624d571fe03d0630e3ef0e204de7cafb4",
+          "bytes": 1267724
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png",
+          "sha256": "472c7d68249ea68cfbe3e43f2ce7f2e65ed532e68cc931c89f0f7ed68c14ea1a",
+          "bytes": 1380556
+        },
+        {
+          "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png",
+          "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png",
+          "sha256": "1b8f41346023c30fcb8d4cb320de1f81f576311bd9d26ede72f09a47465384d9",
+          "bytes": 1214698
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/START-HERE-Printing-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/START-HERE-Printing-Guide.pdf",
+      "sha256": "259904be46e8d53027f14d65409468ea7adf03193851f0f797216164322382a3",
+      "bytes": 2265
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/A4/LumiumX-Midnight-Monster-Diner-Colouring-Book-A4.pdf",
+      "sha256": "797c59a8b05d5bf9ad52f06127c79a8b963cbbb2cd824575ae0a883f463dbe7e",
+      "bytes": 7689223
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/US-Letter/LumiumX-Midnight-Monster-Diner-Colouring-Book-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/US-Letter/LumiumX-Midnight-Monster-Diner-Colouring-Book-US-Letter.pdf",
+      "sha256": "a2387d0fa19fd89889afe8cfbc8a60da1aa99c95de4a9ffffa6c61f33b8f7ebc",
+      "bytes": 7689297
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-01-Cover.png",
+      "sha256": "8b7d657d6d241c77e94ca70b08b4ca80e8c1569390f82953784ae310228496bf",
+      "bytes": 1420965
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-02.png",
+      "sha256": "ed7cabdc7a0aabd4c831bc269bda69c81c512beb35d83ca14d6df7233ba4b393",
+      "bytes": 1236450
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-03.png",
+      "sha256": "28c16076515c19bbde61ae86b9a865ab6e4db40453a21e471d6375f54961cd14",
+      "bytes": 1293381
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-04.png",
+      "sha256": "fa4eb55c5512931b267cb2ba582e09691ae5cb70de0bdaa9d4f0a00197a1a699",
+      "bytes": 1198556
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-05.png",
+      "sha256": "5eef889ad7162d84dc663eead62695c74632ea2343069df436bb791357617971",
+      "bytes": 1216541
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-06.png",
+      "sha256": "b76b574afa31e70d1d23e6dcb8c8e5d6d41e993774fe1624518ce5675e0e9cfd",
+      "bytes": 1282326
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-07.png",
+      "sha256": "7b7f188e67b03f63b89499be0032226de6fdeabd493a5b9347864c82e90cc7d4",
+      "bytes": 1297386
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-08.png",
+      "sha256": "6cdd78224698e176637febb32b3b5233d750c182f74d86969d73d46e0049baad",
+      "bytes": 1464186
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-09.png",
+      "sha256": "ae99699d0688cc3fa53fa786471f13d513ebba42c7adde8d688780e785be6dcf",
+      "bytes": 1228854
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-10.png",
+      "sha256": "fdbf12e63bfeee7d0bdc500ac9f46336fed8ae77fb04d230e74a35faa117c1c7",
+      "bytes": 1313338
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-11.png",
+      "sha256": "975b0614a5f1271c4234d758338b49852e2c129b4b2ecab2d78b9f39130d9620",
+      "bytes": 1328508
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-12.png",
+      "sha256": "4d9cb8917071720aee931c16382b42ae4355d4d2bee779bf48b6233dc6c8150e",
+      "bytes": 1269683
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-13.png",
+      "sha256": "20a48a5e3bb2a081161e9bf9df7b6aec9b7c30f3b897de69a28f3990deae9851",
+      "bytes": 1332785
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-14.png",
+      "sha256": "ebab1c05a3d4e2e122d7623235a213decb3b5954e92e314bc877a78a0f782bf0",
+      "bytes": 1252598
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-15.png",
+      "sha256": "605a8338ead4868cb047d5dc3220e2531a34288f72c3ed30ae221fceb5d684cc",
+      "bytes": 1204113
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-16.png",
+      "sha256": "6b2facc4c0df6501138d946bb0682c4fdf5d5eda9f63a0c3230457084699b13a",
+      "bytes": 1373981
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-17.png",
+      "sha256": "03f9f1e05d460e2b430a883d6f679da6505bb4a537c206e8ff882bfbb61fd866",
+      "bytes": 1460931
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-18.png",
+      "sha256": "fe88122d2c090758e5a13f2d1ef5ebf3e95140039c5f12e792a570132f6af770",
+      "bytes": 1233516
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-19.png",
+      "sha256": "0fef82b9d4f231d6107777f863db88e624d571fe03d0630e3ef0e204de7cafb4",
+      "bytes": 1267724
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-20.png",
+      "sha256": "472c7d68249ea68cfbe3e43f2ce7f2e65ed532e68cc931c89f0f7ed68c14ea1a",
+      "bytes": 1380556
+    },
+    {
+      "entry": "LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png",
+      "source": "production/deliverables/LumiumX-Midnight-Monster-Diner-Colouring-Book/Colouring-Pages-PNG/LumiumX-Midnight-Monster-Diner-Colouring-Book-Page-21.png",
+      "sha256": "1b8f41346023c30fcb8d4cb320de1f81f576311bd9d26ede72f09a47465384d9",
+      "bytes": 1214698
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Midnight-Monster-Diner-Colouring-Book-A4.zip 7650657 bytes, Midnight-Monster-Diner-Colouring-Book-US-Letter.zip 7648334 bytes, Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip 14258185 bytes, Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip 12968965 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Midnight-Monster-Diner-Colouring-Book-A4.zip 7.65 MB, Midnight-Monster-Diner-Colouring-Book-US-Letter.zip 7.65 MB, Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip 14.26 MB, Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip 12.97 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "4 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Midnight-Monster-Diner-Colouring-Book-A4.zip, Midnight-Monster-Diner-Colouring-Book-US-Letter.zip, Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip, Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-07T22:19:13.306Z"
+}

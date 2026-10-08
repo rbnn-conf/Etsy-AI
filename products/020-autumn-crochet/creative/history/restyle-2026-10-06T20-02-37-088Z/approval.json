@@ -1,0 +1,47 @@
+{
+  "reason": "The approved style proofs show an illustrated/painted crochet product; the authoritative crochet visual direction (ADR-043) requires realistic crochet with illustrated branding only.",
+  "invalidated_at": "2026-10-06T20:02:37.088Z",
+  "by": "@romg_o",
+  "creative_approved_at": "2026-10-06T19:43:28.122Z",
+  "direction_version": 1,
+  "approved_attempt": 1,
+  "selected_pages": [
+    {
+      "page_number": 1,
+      "role": "main-style",
+      "reason": "First content page (cover): sets the core illustration style."
+    },
+    {
+      "page_number": 2,
+      "role": "different-composition",
+      "reason": "A different page type (project-preview) tests a different layout and activity structure."
+    },
+    {
+      "page_number": 3,
+      "role": "consistency-check",
+      "reason": "A later page (project-preview, p3) checks the shared style stays consistent across the product."
+    }
+  ],
+  "proofs": [
+    {
+      "file": "proofs/attempt-01/proof-01.png",
+      "page_number": 1,
+      "sha256": "dd62711056b2e974015869b491a916af5bf51389afc21b1b74f81c71d4544649"
+    },
+    {
+      "file": "proofs/attempt-01/proof-02.png",
+      "page_number": 2,
+      "sha256": "e9ce8f4d72386cc904711191054b826f48ada1f7cd270fe1cc8f1c154c2e1094"
+    },
+    {
+      "file": "proofs/attempt-01/proof-03.png",
+      "page_number": 3,
+      "sha256": "dd1fe3e32d2c76afb7095604966aaf38788134decc156877bda6e616e48221e3"
+    }
+  ],
+  "note": "The proof images stay in their attempt folder; they are no longer the approved style. Pattern approval is unchanged.",
+  "patterns": {
+    "source_sha256": "3b8b9f080308960fe9a67fbfdd635b1151452b9b2ae286e6e18e2b6d441d5212",
+    "pattern_count": 6
+  }
+}

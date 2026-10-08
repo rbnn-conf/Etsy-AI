@@ -1,0 +1,166 @@
+{
+  "tag_candidates": [
+    "printable christmas",
+    "traditional card",
+    "instant download",
+    "father christmas",
+    "christmas card",
+    "digital download",
+    "festive bicycle card",
+    "parcel bicycle",
+    "midnight city card",
+    "cosy winter card",
+    "gouache illustration",
+    "snowy street card",
+    "city lights card",
+    "warm wishes card",
+    "a4 card format",
+    "us letter format",
+    "4x6 card panels",
+    "printing guide",
+    "png artwork",
+    "christmas greeting"
+  ],
+  "tags": [
+    {
+      "candidate": "printable christmas",
+      "tag": "printable christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "traditional card",
+      "tag": "traditional card",
+      "result": "kept"
+    },
+    {
+      "candidate": "instant download",
+      "tag": "instant download",
+      "result": "kept"
+    },
+    {
+      "candidate": "father christmas",
+      "tag": "father christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "christmas card",
+      "tag": "christmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "digital download",
+      "tag": "digital download",
+      "result": "kept"
+    },
+    {
+      "candidate": "festive bicycle card",
+      "tag": "festive bicycle card",
+      "result": "kept"
+    },
+    {
+      "candidate": "parcel bicycle",
+      "tag": "parcel bicycle",
+      "result": "kept"
+    },
+    {
+      "candidate": "midnight city card",
+      "tag": "midnight city card",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy winter card",
+      "tag": "cosy winter card",
+      "result": "kept"
+    },
+    {
+      "candidate": "gouache illustration",
+      "tag": "gouache illustration",
+      "result": "kept"
+    },
+    {
+      "candidate": "snowy street card",
+      "tag": "snowy street card",
+      "result": "kept"
+    },
+    {
+      "candidate": "city lights card",
+      "tag": "city lights card",
+      "result": "kept"
+    },
+    {
+      "candidate": "warm wishes card",
+      "tag": "warm wishes card",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "a4 card format",
+      "tag": "a4 card format",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "us letter format",
+      "tag": "us letter format",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "4x6 card panels",
+      "tag": "4x6 card panels",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "printing guide",
+      "tag": "printing guide",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "png artwork",
+      "tag": "png artwork",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "christmas greeting",
+      "tag": "christmas greeting",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF",
+      "material": "Digital PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG artwork files",
+      "material": "PNG artwork files",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 card format",
+      "material": "A4 card format",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter card format",
+      "material": "US Letter card format",
+      "result": "kept"
+    },
+    {
+      "candidate": "4x6 card panels",
+      "material": "4x6 card panels",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    }
+  ],
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

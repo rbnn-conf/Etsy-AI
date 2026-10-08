@@ -1,0 +1,10 @@
+{
+  "name": "@dpf/production",
+  "private": true,
+  "type": "module",
+  "description": "Stage 2 deterministic production (ADR-024): turns a CREATIVE_APPROVED Stage 1 package into customer files. No runtime LLM (ADR-013).",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}

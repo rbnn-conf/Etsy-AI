@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "profile_id": "traditional-robin-christmas-card",
+  "describes": { "mode": "EXISTING_LISTING", "ref": "fixtures/listings/traditional-robin-christmas-card.json" },
+  "source": "Words from the Traditional Robin Christmas Card title, tags, description excerpt and product type (products/009-christmas-greetings-card/etsy/payload.json).",
+  "seasonality": null,
+  "notes": "Seasonality was not supplied.",
+  "central_themes": ["christmas", "robin"],
+  "formats": ["greeting card", "card set"],
+  "components": [],
+  "audiences": ["friend", "family", "neighbour"],
+  "attributes": ["printable", "traditional", "instant", "digital", "download", "cosy", "festive", "storybook", "nostalgic", "heartfelt", "a4", "us letter", "pdf", "png"],
+  "tangential": ["winter", "holly", "garden gate", "sunrise"]
+}

@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Versioned, immutable research set of accepted observations",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "research_id",
+    "version",
+    "parent",
+    "recorded_at",
+    "recorded_by",
+    "note",
+    "kind",
+    "observations",
+    "missing_values"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "research_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{1,62}$"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "parent": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "version",
+        "sha256"
+      ],
+      "properties": {
+        "version": {
+          "type": "integer"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      }
+    },
+    "recorded_at": {
+      "type": "string"
+    },
+    "recorded_by": {
+      "type": "string"
+    },
+    "note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "kind": {
+      "const": "raw_observations"
+    },
+    "observations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "observation_id",
+          "keyword",
+          "searches_30d",
+          "search_results",
+          "conversion_label",
+          "trend_percent",
+          "captured_at",
+          "source"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "observation_id": {
+            "type": "string",
+            "pattern": "^obs-[0-9a-f]{16}$"
+          },
+          "keyword": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 140
+          },
+          "searches_30d": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "search_results": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "conversion_label": {
+            "type": "string",
+            "enum": [
+              "very_high",
+              "high",
+              "typical",
+              "low",
+              "very_low",
+              "unknown"
+            ]
+          },
+          "trend_percent": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "captured_at": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "ISO date of the Etsy capture; null when not recorded"
+          },
+          "source": {
+            "type": "object",
+            "required": [
+              "type",
+              "method",
+              "captured_by"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "type": {
+                "enum": [
+                  "etsy_marketplace_insights"
+                ]
+              },
+              "method": {
+                "enum": [
+                  "manual"
+                ]
+              },
+              "captured_by": {
+                "type": "string",
+                "minLength": 1
+              },
+              "note": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "missing_values": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "keyword",
+          "fields"
+        ],
+        "properties": {
+          "keyword": {
+            "type": "string"
+          },
+          "fields": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

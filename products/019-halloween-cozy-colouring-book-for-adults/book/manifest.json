@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "product_id": "019",
+  "product_name": "Moonlit Potting Shed: Adult Halloween Colouring Book",
+  "product_format": "colouring-book",
+  "page_count": 10,
+  "created_at": "2026-10-06T14:48:29.515Z",
+  "source": {
+    "specification_sha256": "8410b879241f9e082a57022fb978652f83108f81b8cfbc44182da5ae2a365f34",
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1
+    }
+  },
+  "style_reference": {
+    "direction_version": 1,
+    "proof_pages": [
+      2,
+      3,
+      10
+    ],
+    "shared_prompt": "Original adult colouring-book pen-and-ink artwork in a refined cosy-gothic botanical style; crisp confident black outlines, organic hand-inked curves, varied line weight and delicate controlled crosshatching. High-detail yet highly colourable forms, balancing intricate engraved textures with generous open spaces; pure black on white, no grey shading, fills or gradients. Calm, intimate, quietly enchanted autumnal mood, clean home-printable line art.",
+    "line_weight": "Clean confident outer contours with fine-to-medium interior lines and occasional heavier focal accents.",
+    "line_quality": "Crisp, deliberate, hand-inked linework with gently organic curves, controlled hatching and tidy decorative embellishment.",
+    "detail_level": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+    "colour_mode": "black-and-white line art",
+    "shading": "No solid black fills, grey tones or digital gradients. Build depth selectively with sparse crosshatching, stippling and parallel contour marks, always leaving ample room to colour.",
+    "background_density": "Layered, moderately dense backgrounds that frame the focal area without filling every space; use calm open pockets throughout.",
+    "canvas": {
+      "orientation": "portrait",
+      "background": "white",
+      "edge": "safe-margin",
+      "format_notes": "Single-sided portrait colouring pages with a clear print-safe border and balanced open areas for comfortable adult colouring."
+    }
+  },
+  "generation": {
+    "model": "gpt-image-2.5-flare",
+    "size": "1024x1536",
+    "quality": "medium",
+    "note": "Pixel size as generated. No DPI claim: Stage 2 calculates the effective print resolution."
+  },
+  "pages": [
+    {
+      "page_id": "P001",
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Moonlit Potting Shed",
+      "scene": "Illustrated title cover introducing the moonlit potting-shed garden theme.",
+      "composition": "A rustic potting bench spans the lower half of the page beneath an arched shed window. A carved pumpkin lantern sits centrally among herb jars, seed packets, terracotta pots, hand tools and trailing vines. Through the window, a full moon hangs above an enclosed walled kitchen garden with climbing plants and distant pumpkins. A vintage seed-packet label at the top carries the title, with a small subtitle beneath.",
+      "subject": "Cover artwork: rustic potting bench across the lower half beneath an arched shed window opening onto a moonlit walled kitchen garden; central carved pumpkin lantern, herb jars, tied herb bundles, seed packets, terracotta pots, trowel, secateurs and trailing vines; full moon and garden wall visible through window; vintage seed-packet label with exact title text “MOONLIT POTTING SHED” and small subtitle “AUTUMN GARDEN MAGIC TO COLOUR”.",
+      "required_text": [
+        "MOONLIT POTTING SHED",
+        "AUTUMN GARDEN MAGIC TO COLOUR"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Verify title and subtitle exactly. Keep the seed-packet label open and readable. Cover is included as a colourable illustrated page; retain broad spaces on pumpkin, pots, bench boards and window sky. Printing note: print single-sided at 100% scale on A4 or US Letter; do not fit-to-page if it clips the safe border."
+    },
+    {
+      "page_id": "P002",
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "The Lantern Bench",
+      "scene": "A welcoming potting-bench still life with the pumpkin lantern as the focal object.",
+      "composition": "A carved pumpkin lantern rests on a worn wooden potting bench, framed by three labelled herb jars, two small seed packets, a watering can, a trowel and a pair of gardening gloves. Above, an arched window shows a full moon, sparse clouds and curling vine silhouettes. Below the bench are three stacked terracotta pots and a basket of fallen leaves.",
+      "subject": "Colouring page titled “THE LANTERN BENCH”; central carved pumpkin lantern on a weathered wooden potting bench; exactly three herb jars, exactly two seed packets, watering can, trowel and gardening gloves arranged around it; arched window above with full moon, sparse clouds and curling vines; exactly three stacked terracotta pots and a basket of autumn leaves beneath the bench.",
+      "required_text": [
+        "THE LANTERN BENCH"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 3 herb jars, 2 seed packets and 3 stacked pots. Ensure the pumpkin face is friendly and non-threatening. Maintain open colourable areas in the wood grain, pumpkin, watering can and pots."
+    },
+    {
+      "page_id": "P003",
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Herbs by Moonlight",
+      "scene": "A botanical hanging-herb composition with a quiet magical garden view.",
+      "composition": "Six distinct bundles of garden herbs hang from an ornate iron rail: rosemary, sage, thyme, lavender, mint and chamomile. Each bundle is tied with a ribbon and has recognisable leaf or flower shapes. Behind them, an arched window frames the moon, a garden wall and climbing ivy. A narrow shelf below holds three simple ceramic jars and a small crescent-moon charm.",
+      "subject": "Colouring page titled “HERBS BY MOONLIGHT”; ornate wrought-iron hanging rail holding exactly six tied herb bundles: rosemary, sage, thyme, lavender, mint and chamomile, each visually distinct; arched window behind with full moon, enclosed garden wall and climbing ivy; narrow shelf below with exactly three ceramic jars and one small crescent-moon charm.",
+      "required_text": [
+        "HERBS BY MOONLIGHT"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check there are exactly 6 herb bundles and 3 jars. Botanical forms should be recognisable without relying on tiny labels. Keep herbs detailed but with enough leaf interiors to colour."
+    },
+    {
+      "page_id": "P004",
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Pumpkin Patch Gate",
+      "scene": "An inviting enclosed garden gate leading to a neat pumpkin patch.",
+      "composition": "An open wrought-iron gate stands centrally in a brick-and-stone garden wall. A winding flagstone path leads through the gate to a moonlit pumpkin patch containing seven pumpkins of different sizes. Tall hollyhocks, ivy and curling squash vines frame the gate, while a small lantern hangs from the arch overhead. The full moon sits in open sky beyond.",
+      "subject": "Colouring page titled “PUMPKIN PATCH GATE”; central open wrought-iron gate in an old brick-and-stone walled garden, winding flagstone path beyond; exactly seven pumpkins in the moonlit patch, all clearly countable and varied in size; hollyhocks, ivy and curling squash vines framing the gate; one hanging lantern above and a full moon in open sky.",
+      "required_text": [
+        "PUMPKIN PATCH GATE"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 7 pumpkins are visible beyond the gate, with no ambiguous partial extra pumpkins. Preserve broad path stones, wall sections and sky for resting space."
+    },
+    {
+      "page_id": "P005",
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Seed Packet Cabinet",
+      "scene": "A cosy apothecary-style cabinet of seasonal seeds and garden keepsakes.",
+      "composition": "A shallow wooden cabinet with nine square compartments fills the page. The compartments contain: a pumpkin seed packet, a calendula seed packet, a sweet pea seed packet, a rosemary seed packet, a packet of mixed autumn leaves, a small ceramic bird, a spool of twine, a folded garden map and a tiny glass bottle holding acorns. Decorative vines curl lightly around the cabinet corners.",
+      "subject": "Colouring page titled “SEED PACKET CABINET”; front-facing shallow wooden cabinet divided into exactly nine square compartments; contents, one per compartment: pumpkin seed packet, calendula seed packet, sweet pea seed packet, rosemary seed packet, mixed autumn leaves, small ceramic bird, spool of twine, folded garden map, tiny glass bottle holding acorns; decorative corner vines. Seed packet labels use only short clear words: “PUMPKIN”, “CALENDULA”, “SWEET PEA”, “ROSEMARY”.",
+      "required_text": [
+        "SEED PACKET CABINET",
+        "PUMPKIN",
+        "CALENDULA",
+        "SWEET PEA",
+        "ROSEMARY"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 9 compartments and listed contents. Verify the four short packet labels; remove labels if malformed rather than retaining incorrect text. Avoid overly small wording."
+    },
+    {
+      "page_id": "P006",
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Moonflower Trellis",
+      "scene": "A serene trellis study of night-blooming flowers, vines and garden tools.",
+      "composition": "A tall wooden trellis forms the main composition, covered in large open moonflower blooms, heart-shaped leaves and spiralling tendrils. A crescent-shaped hand rake and a small hand fork hang neatly from two hooks. At the base, two terracotta pots, a snail and a cluster of three mushrooms sit among fallen leaves. The upper background remains lightly open with a small moon peeking through leaves.",
+      "subject": "Colouring page titled “MOONFLOWER TRELLIS”; tall wooden garden trellis covered with large open moonflower blooms, heart-shaped leaves and spiralling tendrils; exactly two hanging tools, a crescent-shaped hand rake and a hand fork; at base exactly two terracotta pots, one snail and exactly three mushrooms among fallen leaves; small moon peeking through upper foliage.",
+      "required_text": [
+        "MOONFLOWER TRELLIS"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 2 hanging tools, 2 pots and 3 mushrooms. Use large flower petals and leaf interiors for colourability; prevent the trellis grid from becoming visually cramped."
+    },
+    {
+      "page_id": "P007",
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Harvest Tea in the Shed",
+      "scene": "A peaceful domestic still life of a gardener's evening tea break.",
+      "composition": "A round wooden table inside the potting shed holds a floral teapot, two mismatched cups, a plate with four biscuits, a small pumpkin, a sprig-filled vase and an open gardening journal. A checked cloth drapes over one edge. Behind the table, shelves hold jars and pots, while an arched window reveals a moon and garden silhouettes. A stool tucked under the table has a curled sleeping cat beneath it.",
+      "subject": "Colouring page titled “HARVEST TEA IN THE SHED”; round wooden table with floral teapot, exactly two mismatched cups, plate holding exactly four biscuits, one small pumpkin, sprig-filled vase and open gardening journal; checked cloth draped over edge; shelves with jars and pots behind; arched window with moon and garden silhouettes; stool beneath table and one curled sleeping cat under the stool.",
+      "required_text": [
+        "HARVEST TEA IN THE SHED"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 2 cups, 4 biscuits, 1 small pumpkin and 1 cat. Keep journal pages free of tiny illegible writing; use simple line suggestions only."
+    },
+    {
+      "page_id": "P008",
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "The Friendly Scarecrow",
+      "scene": "A gentle, non-scary garden guardian surrounded by autumn produce.",
+      "composition": "A smiling scarecrow with a patched hat, buttoned coat and straw hands stands in the centre of a tidy kitchen garden. It holds a small lantern in one hand and a bunch of carrots in the other. Around its feet are five pumpkins, a wheelbarrow of leaves, a low picket fence and curling bean vines. A crescent moon and a few small stars appear in the open upper sky.",
+      "subject": "Colouring page titled “THE FRIENDLY SCARECROW”; gentle smiling scarecrow in patched hat and buttoned coat, straw hands, holding one small lantern and one bunch of carrots; tidy kitchen garden setting with exactly five pumpkins around its feet, wheelbarrow filled with leaves, low picket fence and curling bean vines; crescent moon with a few small stars in upper sky.",
+      "required_text": [
+        "THE FRIENDLY SCARECROW"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 5 pumpkins, one lantern and one carrot bunch. Keep expression warm, peaceful and clearly non-frightening. Ensure hat, coat patches, pumpkins and wheelbarrow offer broad colouring areas."
+    },
+    {
+      "page_id": "P009",
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Garden Ghost's Delivery",
+      "scene": "A whimsical, friendly ghost brings seasonal seeds to the potting shed.",
+      "composition": "A small smiling ghost floats gently beside a potting-shed door, carrying a wicker basket filled with three seed packets and two tiny pumpkins. The ghost wears no costume details beyond a simple scalloped sheet outline. A black cat sits on the doorstep, and a lantern, broom, potted chrysanthemum and climbing ivy decorate the doorway. In the background, a moonlit garden wall and bare branches create a quiet night setting.",
+      "subject": "Colouring page titled “GARDEN GHOST’S DELIVERY”; one small friendly smiling ghost with a simple scalloped sheet outline floating beside a potting-shed door, carrying wicker basket containing exactly three seed packets and exactly two tiny pumpkins; one black-cat-shaped cat sitting on doorstep, lantern, broom, potted chrysanthemum and climbing ivy around door; moonlit garden wall and bare branches behind.",
+      "required_text": [
+        "GARDEN GHOST’S DELIVERY"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 1 ghost, 3 seed packets, 2 tiny pumpkins and 1 cat. The cat must be outlined only, with no solid black fill. Keep the ghost simple, kind and not frightening."
+    },
+    {
+      "page_id": "P010",
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Full Moon Garden Finale",
+      "scene": "A richly detailed but calm closing panorama of the complete walled garden.",
+      "composition": "A wide view of the enclosed kitchen garden under a large full moon. A central stone birdbath is surrounded by four pumpkin lanterns, mixed autumn flowers and curling squash vines. To the left stands the potting shed with its arched window; to the right, a wrought-iron bench sits beneath an apple tree with five hanging apples. Garden paths, brick walls, potted herbs and distant bats complete the peaceful finale.",
+      "subject": "Colouring page titled “FULL MOON GARDEN FINALE”; enclosed moonlit kitchen garden panorama with large full moon overhead; central stone birdbath surrounded by exactly four carved pumpkin lanterns, autumn flowers and curling squash vines; potting shed with arched window on left; wrought-iron bench beneath apple tree on right with exactly five hanging apples; garden paths, brick walls, potted herbs and exactly three distant small bats.",
+      "required_text": [
+        "FULL MOON GARDEN FINALE"
+      ],
+      "complexity": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+      "style_reference": "Approved style proofs (pages 2, 3, 10), creative direction v1",
+      "negative_constraints": [
+        "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+        "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+        "Solid black areas that waste home-printer ink or obscure colourable detail",
+        "Overcrowded pages with no resting space for colouring",
+        "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+        "Gory, frightening or violent horror imagery",
+        "Misspelled, malformed or AI-generated-looking text"
+      ],
+      "production_notes": "Check exactly 4 pumpkin lanterns, 5 apples and 3 bats. Bats should be tiny decorative silhouettes outlined without solid fill. Retain generous colourable sky, path, wall and foliage sections for a satisfying final page."
+    }
+  ]
+}

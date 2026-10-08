@@ -1,0 +1,1533 @@
+{
+  "format": "colouring-book",
+  "campaign": "colouring-halloween_cute",
+  "strategy": {
+    "family": "colouring_book",
+    "theme": "halloween_cute",
+    "visual_marketing_mood": "playful cosy-spooky Halloween"
+  },
+  "creative": {
+    "version": 1,
+    "composer": 4,
+    "source": "baseline",
+    "max_environments": 3
+  },
+  "slides": [
+    {
+      "id": "01-hero",
+      "template": "creative",
+      "job": "stop-scroll",
+      "purpose": "Stop the scroll: an editorial reveal of one real page, large, in a cinematic set that tells the campaign story.",
+      "density": "cb-editorial-hero",
+      "copy": {
+        "headline": {
+          "text": "A Masquerade To Colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Settle into a cosy evening of colouring.",
+          "by": "model"
+        },
+        "kicker": {
+          "text": "Hollowbone Manor Masquerade",
+          "claim": [
+            "product-title",
+            "Hollowbone Manor Masquerade"
+          ]
+        }
+      },
+      "min_product_share": 0.33,
+      "extras": {},
+      "creative": {
+        "id": "01-hero",
+        "job": "stop-scroll",
+        "purpose": "Stop the scroll: an editorial reveal of one real page, large, in a cinematic set that tells the campaign story.",
+        "buyer_message": "I can colour this, and it will look wonderful.",
+        "emotional_goal": "desire, cosiness, giftable",
+        "headline": "Halloween\nColouring Pages",
+        "supporting_copy": "24 pages to print and colour",
+        "focal_asset": "page-2",
+        "supporting_assets": [
+          "page-1"
+        ],
+        "composition": "cb-lifestyle-hero",
+        "hierarchy": {
+          "primary": "one real page, large, in the sharp middle ground",
+          "secondary": "the editorial set and its pool of light",
+          "tertiary": "an elegant serif headline and one short line"
+        },
+        "background": "environment",
+        "props": [
+          "knitted throw",
+          "mug of tea",
+          "wooden desk",
+          "scattered leaves",
+          "string lights"
+        ],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "Rich walnut desk in warm amber lamp light, with a chunky cream knit at one edge and a ceramic mug of tea nearby. A few scattered autumn leaves and soft string-light bokeh recede into a dusky, cinematic background; maintain an even, clear lower surface and a calm upper-left area.",
+        "claims_used": [
+          "product-title",
+          "page-count",
+          "example"
+        ],
+        "avoid": [
+          "a fake page in the scene",
+          "text in the scene",
+          "the default cosy desk (wooden desk, knitted throw, mug, string lights)"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-hero"
+        ],
+        "route": null
+      },
+      "example": "example-p2",
+      "scene": "env-01-hero"
+    },
+    {
+      "id": "02-preview",
+      "template": "creative",
+      "job": "quality",
+      "purpose": "Show me the quality: one real page up close.",
+      "density": "cb-lifestyle-page",
+      "copy": {
+        "headline": {
+          "text": "Raven’s Toast",
+          "by": "model"
+        },
+        "kicker": {
+          "text": "Page 8 of 25",
+          "claim": [
+            "page-number",
+            "Page 8 of 25"
+          ]
+        },
+        "subline": {
+          "text": "Ornate details, open spaces, and a mysterious toast.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.35,
+      "extras": {},
+      "creative": {
+        "id": "02-preview",
+        "job": "quality",
+        "purpose": "Show me the quality: one real page up close.",
+        "buyer_message": "The pages are detailed and a pleasure to colour.",
+        "emotional_goal": "trust, anticipation",
+        "headline": "Raven's Toast",
+        "supporting_copy": null,
+        "focal_asset": "page-8",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-page",
+        "hierarchy": {
+          "primary": "one real page, cropped close",
+          "secondary": "the page title",
+          "tertiary": "the page number"
+        },
+        "background": "environment",
+        "props": [],
+        "crop": {
+          "asset": "page-8",
+          "focus": [
+            0.5,
+            0.5
+          ],
+          "zoom": 1.25
+        },
+        "text_zone": "top-right",
+        "scene_brief": "",
+        "claims_used": [
+          "page-title",
+          "page-number"
+        ],
+        "avoid": [
+          "a different backplate: it shares the hero backplate"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-page"
+        ],
+        "scene_of": "01-hero",
+        "scene_view": {
+          "zoom": 1.3,
+          "focus": [
+            0.28,
+            0.3
+          ]
+        }
+      },
+      "scene": "env-01-hero"
+    },
+    {
+      "id": "03-contents",
+      "template": "creative",
+      "job": "variety",
+      "purpose": "Show me the variety: many real pages at once.",
+      "density": "cb-collage",
+      "copy": {
+        "headline": {
+          "text": "24 pages\nto colour",
+          "claim": [
+            "page-count",
+            "24 colouring pages"
+          ]
+        },
+        "subline": {
+          "text": "24 colouring pages of elegant spooky scenes.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "03-contents",
+        "job": "variety",
+        "purpose": "Show me the variety: many real pages at once.",
+        "buyer_message": "There is plenty to colour.",
+        "emotional_goal": "abundance",
+        "headline": "24 pages\nto colour",
+        "supporting_copy": null,
+        "focal_asset": "page-2",
+        "supporting_assets": [
+          "page-5",
+          "page-8",
+          "page-11",
+          "page-14",
+          "page-16",
+          "page-19",
+          "page-22",
+          "page-25"
+        ],
+        "composition": "cb-collage",
+        "hierarchy": {
+          "primary": "the grid of real pages",
+          "secondary": "the headline",
+          "tertiary": "none"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "page-count"
+        ],
+        "avoid": [
+          "tiny thumbnails"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-collage"
+        ]
+      }
+    },
+    {
+      "id": "04-coloured",
+      "template": "creative",
+      "job": "desire",
+      "purpose": "Make me want it: a coloured example beside the real page.",
+      "density": "cb-coloured",
+      "copy": {
+        "headline": {
+          "text": "Bring the manor alive",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Example shown beside the original line art.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.08,
+      "extras": {},
+      "example": "example-p2",
+      "creative": {
+        "id": "04-coloured",
+        "job": "desire",
+        "purpose": "Make me want it: a coloured example beside the real page.",
+        "buyer_message": "This is what my page could look like.",
+        "emotional_goal": "inspiration",
+        "headline": "Colour it\nyour way",
+        "supporting_copy": null,
+        "focal_asset": "page-2",
+        "supporting_assets": [],
+        "composition": "cb-coloured",
+        "hierarchy": {
+          "primary": "the coloured example",
+          "secondary": "the real page",
+          "tertiary": "the label"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "",
+        "claims_used": [
+          "example",
+          "line-art"
+        ],
+        "avoid": [
+          "presenting the coloured example as the product"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-coloured"
+        ]
+      }
+    },
+    {
+      "id": "05-before-after",
+      "template": "creative",
+      "job": "how-it-works",
+      "purpose": "How does it work? The real page and its coloured result.",
+      "density": "cb-before-after",
+      "copy": {
+        "headline": {
+          "text": "From line to colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Print the line art, then colour your scene.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.2,
+      "extras": {},
+      "example": "example-p2",
+      "creative": {
+        "id": "05-before-after",
+        "job": "how-it-works",
+        "purpose": "How does it work? The real page and its coloured result.",
+        "buyer_message": "I print the page and colour it in.",
+        "emotional_goal": "ease",
+        "headline": "Print it.\nColour it.",
+        "supporting_copy": null,
+        "focal_asset": "page-2",
+        "supporting_assets": [],
+        "composition": "cb-before-after",
+        "hierarchy": {
+          "primary": "the real page",
+          "secondary": "the coloured example",
+          "tertiary": "the captions"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "example",
+          "line-art"
+        ],
+        "avoid": [
+          "colour on the real page"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-before-after"
+        ]
+      }
+    },
+    {
+      "id": "06-lifestyle",
+      "template": "creative",
+      "job": "useful",
+      "purpose": "Why is this useful? A quiet, screen-free hour of colouring.",
+      "density": "cb-lifestyle-page",
+      "copy": {
+        "headline": {
+          "text": "A quiet creative hour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Settle in with a cosy spooky scene.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.35,
+      "extras": {},
+      "creative": {
+        "id": "06-lifestyle",
+        "job": "useful",
+        "purpose": "Why is this useful? A quiet, screen-free hour of colouring.",
+        "buyer_message": "This is how I could unwind.",
+        "emotional_goal": "relaxation",
+        "headline": "Your quiet\ncreative hour",
+        "supporting_copy": null,
+        "focal_asset": "page-25",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-page",
+        "hierarchy": {
+          "primary": "one real page",
+          "secondary": "the headline",
+          "tertiary": "none"
+        },
+        "background": "environment",
+        "props": [
+          "coloured pencils",
+          "knitted throw",
+          "mug of tea",
+          "window light"
+        ],
+        "crop": null,
+        "text_zone": "top-right",
+        "scene_brief": "A cosy corner at home with a few halloween touches: a knitted throw, a warm drink and coloured pencils in a jar, soft window light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm and uncluttered.",
+        "claims_used": [],
+        "avoid": [
+          "a fake page in the scene"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-page"
+        ]
+      },
+      "scene": "env-06-lifestyle"
+    },
+    {
+      "id": "07-showcase",
+      "template": "creative",
+      "job": "what-you-get",
+      "purpose": "What am I getting? A real page, large, with the essentials.",
+      "density": "cb-features",
+      "copy": {
+        "headline": {
+          "text": "Room to colour",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Each design has its own page.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "07-showcase",
+        "job": "what-you-get",
+        "purpose": "What am I getting? A real page, large, with the essentials.",
+        "buyer_message": "Every page is a full, printable design.",
+        "emotional_goal": "confidence",
+        "headline": "Made for\nrelaxed colouring",
+        "supporting_copy": null,
+        "focal_asset": "page-14",
+        "supporting_assets": [],
+        "composition": "cb-features",
+        "hierarchy": {
+          "primary": "one large real page",
+          "secondary": "the headline",
+          "tertiary": "short facts"
+        },
+        "background": "dusk",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "",
+        "claims_used": [
+          "process",
+          "line-art",
+          "printing-guide"
+        ],
+        "avoid": [
+          "a long list"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-features"
+        ]
+      }
+    },
+    {
+      "id": "08-download",
+      "template": "creative",
+      "job": "doubts",
+      "purpose": "Remove my doubts: a digital download, nothing shipped.",
+      "density": "cb-printable",
+      "copy": {
+        "headline": {
+          "text": "Ready for your printer",
+          "by": "model"
+        },
+        "subline": {
+          "text": "Instant digital download; no physical item is shipped.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.08,
+      "extras": {},
+      "creative": {
+        "id": "08-download",
+        "job": "doubts",
+        "purpose": "Remove my doubts: a digital download, nothing shipped.",
+        "buyer_message": "It is a printable file; I know what I get.",
+        "emotional_goal": "clarity",
+        "headline": "Instant digital\ndownload",
+        "supporting_copy": null,
+        "focal_asset": "sheet",
+        "supporting_assets": [
+          "page-2"
+        ],
+        "composition": "cb-printable",
+        "hierarchy": {
+          "primary": "the printable sheet and a page",
+          "secondary": "the three steps",
+          "tertiary": "the facts"
+        },
+        "background": "linen",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "digital",
+          "process",
+          "format"
+        ],
+        "avoid": [
+          "claims beyond the facts"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-printable"
+        ]
+      }
+    },
+    {
+      "id": "09-cozy",
+      "template": "creative",
+      "job": "desire",
+      "purpose": "Make me want it: the evening you could have with it.",
+      "density": "cb-lifestyle-page",
+      "copy": {
+        "headline": {
+          "text": "Colour by candlelight",
+          "by": "model"
+        },
+        "subline": {
+          "text": "A little gothic calm for the evening.",
+          "by": "model"
+        }
+      },
+      "min_product_share": 0.35,
+      "extras": {},
+      "creative": {
+        "id": "09-cozy",
+        "job": "desire",
+        "purpose": "Make me want it: the evening you could have with it.",
+        "buyer_message": "I picture myself colouring this tonight.",
+        "emotional_goal": "cosy, nostalgic",
+        "headline": "Relax,\nthen colour",
+        "supporting_copy": null,
+        "focal_asset": "page-14",
+        "supporting_assets": [],
+        "composition": "cb-lifestyle-page",
+        "hierarchy": {
+          "primary": "one real page",
+          "secondary": "the headline",
+          "tertiary": "none"
+        },
+        "background": "environment",
+        "props": [
+          "candle",
+          "knitted throw",
+          "mug of tea",
+          "warm lamp"
+        ],
+        "crop": null,
+        "text_zone": "top-left",
+        "scene_brief": "An evening reading nook with a few halloween touches: a lamp glowing, a candle, a mug of tea and a soft throw, golden evening light, shallow depth of field. Keep the lower two thirds of the surface clear, even and softly lit, where objects will be placed later; keep the top area calm and uncluttered.",
+        "claims_used": [],
+        "avoid": [
+          "a fake page in the scene"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-lifestyle-page"
+        ]
+      },
+      "scene": "env-09-cozy"
+    },
+    {
+      "id": "10-bundle",
+      "template": "creative",
+      "job": "what-you-get",
+      "purpose": "Everything at a glance, and the way to get it.",
+      "density": "cb-bundle",
+      "copy": {
+        "headline": {
+          "text": "A manor full of scenes",
+          "by": "model"
+        },
+        "subline": {
+          "text": "A4 + US Letter",
+          "claim": [
+            "format",
+            "A4 + US Letter"
+          ]
+        }
+      },
+      "min_product_share": 0.3,
+      "extras": {},
+      "creative": {
+        "id": "10-bundle",
+        "job": "what-you-get",
+        "purpose": "Everything at a glance, and the way to get it.",
+        "buyer_message": "The whole collection, ready to download and print.",
+        "emotional_goal": "closure, confidence",
+        "headline": "Download,\nprint & colour",
+        "supporting_copy": "A4 + US Letter",
+        "focal_asset": "page-2",
+        "supporting_assets": [
+          "page-5",
+          "page-8",
+          "page-11",
+          "page-14"
+        ],
+        "composition": "cb-bundle",
+        "hierarchy": {
+          "primary": "the pages fanned large",
+          "secondary": "the headline",
+          "tertiary": "the format row"
+        },
+        "background": "dusk",
+        "props": [],
+        "crop": null,
+        "text_zone": "top-centre",
+        "scene_brief": "",
+        "claims_used": [
+          "page-count",
+          "format"
+        ],
+        "avoid": [
+          "tiny pages"
+        ],
+        "allowed_props": [
+          "coloured pencils",
+          "fine-liner pens",
+          "mug of tea",
+          "knitted throw",
+          "wooden desk",
+          "warm lamp",
+          "window light",
+          "candle",
+          "linen cloth",
+          "plant sprig",
+          "scattered leaves",
+          "string lights"
+        ],
+        "allowed_compositions": [
+          "cb-bundle"
+        ]
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "env-01-hero",
+      "slide": "01-hero",
+      "purpose": "Stop the scroll: an editorial reveal of one real page, large, in a cinematic set that tells the campaign story.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Cosy, elegant and ominous Halloween revelry with a warm candlelit hush..\nPalette: Amber candlelight, walnut brown, parchment ivory, muted rust, deep charcoal and antique gold..\nLighting: Warm cinematic lamp light with soft golden bokeh and gentle dusk shadow..\nScene: Rich walnut desk in warm amber lamp light, with a chunky cream knit at one edge and a ceramic mug of tea nearby. A few scattered autumn leaves and soft string-light bokeh recede into a dusky, cinematic background; maintain an even, clear lower surface and a calm upper-left area.\nProps (plain materials only): knitted throw, mug of tea, wooden desk, scattered leaves, string lights.\nVisual world: palette Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.; materials wood, linen, tea, knit; lighting Low amber lamp glow with soft bokeh, shaped shadows and a quiet dusk undertone.; Premium editorial tabletop still life with tactile seasonal layers and intimate cinematic depth..\nFeeling: Step into a candlelit masquerade where ornate gothic scenes invite a slow, cosy colouring ritual.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface with a smaller empty stretch at its lower corner. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+      "sha256": "831e9fc2834177468eccc110d0e7bdbb5e232749847b304436d6820f31fa56be",
+      "model": "reused from the approved hero comparison",
+      "size": null
+    },
+    {
+      "id": "env-06-lifestyle",
+      "slide": "06-lifestyle",
+      "purpose": "Why is this useful? A quiet, screen-free hour of colouring.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Cosy, elegant and ominous Halloween revelry with a warm candlelit hush..\nPalette: Amber candlelight, walnut brown, parchment ivory, muted rust, deep charcoal and antique gold..\nLighting: Warm cinematic lamp light with soft golden bokeh and gentle dusk shadow..\nScene: Warm walnut surface beside a softly textured knitted throw, with a ceramic mug and a small jar of coloured pencils set well back. Gentle dusk window light creates shallow depth and a calm, even lower surface; keep the upper-right area uncluttered.\nProps (plain materials only): coloured pencils, knitted throw, mug of tea, window light.\nVisual world: palette Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.; materials wood, linen, tea, knit; lighting Low amber lamp glow with soft bokeh, shaped shadows and a quiet dusk undertone.; Premium editorial tabletop still life with tactile seasonal layers and intimate cinematic depth..\nFeeling: Step into a candlelit masquerade where ornate gothic scenes invite a slow, cosy colouring ritual.\nReserved area: the left two thirds of the lower frame, one large empty stretch of bare surface. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top right area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/06-lifestyle.png",
+      "sha256": "42622517880880c1bb65826f098c1bfc5b21578ae4992103e6fe1c3e4f292a11",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-09-cozy",
+      "slide": "09-cozy",
+      "purpose": "Make me want it: the evening you could have with it.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Cosy, elegant and ominous Halloween revelry with a warm candlelit hush..\nPalette: Amber candlelight, walnut brown, parchment ivory, muted rust, deep charcoal and antique gold..\nLighting: Warm cinematic lamp light with soft golden bokeh and gentle dusk shadow..\nScene: A dusky walnut side table with a single candle at one edge and a ceramic mug placed softly out of focus behind it. A warm lamp creates a gentle amber glow, long soft shadows and cinematic depth; reserve a calm upper-right area.\nProps (plain materials only): candle, mug of tea, warm lamp.\nVisual world: palette Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.; materials wood, linen, tea, knit; lighting Low amber lamp glow with soft bokeh, shaped shadows and a quiet dusk undertone.; Premium editorial tabletop still life with tactile seasonal layers and intimate cinematic depth..\nFeeling: Step into a candlelit masquerade where ornate gothic scenes invite a slow, cosy colouring ritual.\nReserved area: the left two thirds of the lower frame, one large empty stretch of bare surface. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: an overhead three-quarter view of the surface; keep the centre and lower half clear, even and softly lit, where objects will be placed later. Keep the top right area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/09-cozy.png",
+      "sha256": "28d28de3fde9f3295b3391472a4dbae6ac50c62b783b2d146a0f168f6d258349",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "examples": [
+    {
+      "id": "example-p2",
+      "page_number": 2,
+      "asset": "P002",
+      "source": {
+        "file": "book/pages/P002.png",
+        "sha256": "29f92560556f82f2d5ffd63515a8b3f09d1a05036a444643a5ad005d5e5c6744",
+        "width": 1024,
+        "height": 1536
+      },
+      "purpose": "Coloured example of a real page (marketing illustration only; the product is black-and-white line art).",
+      "used_by": [
+        "01-hero",
+        "04-coloured",
+        "05-before-after"
+      ],
+      "file": "marketing/examples/example-p2.png",
+      "prompt": "Colour in this exact colouring-book page as a finished example for an Etsy listing image. This is a colour-only job on THIS page: colour this exact page, do not reimagine it.\nPRESERVE exactly: the composition, the source crop and framing with its white margins, every black line, every character, object and detail, the scene layout and the page proportions.\nDO NOT: add, remove, move or redraw any object, line, pattern or lettering; change proportions; turn the page into an unrelated illustration; add a background.\nFill the enclosed areas neatly, as if coloured with coloured pencils and felt-tip markers: harmonious, natural, plausible colours with gentle shading inside the shapes, achievable by a customer.\nColour palette: Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.. Mood: cosy, intrigued, creative, relaxed, delightfully spooky. The intricate monochrome gate scene is shown beside its warmly coloured example, preserving every line while bringing the masquerade mood to life.\nOutput: a flat, straight-on image of the coloured page on white paper. No table, hands, pencils, shadows, frame, border, added text, signature or watermark.",
+      "sha256": "605d261558a79aa0257c90276454804b192d936ed4beb47eef046725d5f6f1c3",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "concept_sha": "ab8f71d610de7e63"
+    }
+  ],
+  "engine": {
+    "id": "ai-creative",
+    "version": 1
+  },
+  "campaign_direction": {
+    "mood": "Cosy, elegant and ominous Halloween revelry with a warm candlelit hush.",
+    "palette": "Amber candlelight, walnut brown, parchment ivory, muted rust, deep charcoal and antique gold.",
+    "lighting": "Warm cinematic lamp light with soft golden bokeh and gentle dusk shadow.",
+    "concept": {
+      "campaign_concept": "An Evening at Hollowbone Manor",
+      "emotional_hook": "Step into a candlelit masquerade where ornate gothic scenes invite a slow, cosy colouring ritual.",
+      "buyer_feeling": [
+        "cosy",
+        "intrigued",
+        "creative",
+        "relaxed",
+        "delightfully spooky"
+      ],
+      "visual_world": {
+        "palette": "Walnut, antique gold, warm ivory, faded rust, charcoal and dusky plum.",
+        "materials": [
+          "wood",
+          "linen",
+          "tea",
+          "knit"
+        ],
+        "lighting": "Low amber lamp glow with soft bokeh, shaped shadows and a quiet dusk undertone.",
+        "photography_style": "Premium editorial tabletop still life with tactile seasonal layers and intimate cinematic depth."
+      },
+      "hero_subject": "A masked skeletal pair approaches Hollowbone Manor through open wrought-iron gates.",
+      "strongest_pages": [
+        "page-2",
+        "page-5",
+        "page-14",
+        "page-16",
+        "page-19",
+        "page-25"
+      ],
+      "transformation_story": "The intricate monochrome gate scene is shown beside its warmly coloured example, preserving every line while bringing the masquerade mood to life.",
+      "marketing_priority": "The richly detailed, cosy-spooky colouring experience leads before file information.",
+      "avoid": [
+        "flat cream templates",
+        "tiny artwork previews",
+        "bright childish colours",
+        "cluttered collages",
+        "text over key illustration details",
+        "fake photographic claims"
+      ],
+      "source": "model",
+      "fallbacks": []
+    }
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-07T21:18:21.242Z",
+  "directions": {
+    "01-hero": {
+      "id": "01-hero",
+      "job": "stop-scroll",
+      "purpose": "Stop the scroll with an immersive, candlelit colouring moment centred on the elegant Halloween artwork.",
+      "buyer_message": "Enter a cosy-spooky masquerade and colour an ornate gothic scene.",
+      "emotional_goal": "Warm anticipation, creative desire and elegant Halloween escapism.",
+      "headline": "A Masquerade To Colour",
+      "supporting_copy": "24 pages to print and colour",
+      "composition": "cb-lifestyle-hero",
+      "focal_asset": "page-2",
+      "supporting_assets": [
+        "page-1"
+      ],
+      "hierarchy": {
+        "primary": "A warmly coloured, clearly labelled Example of The Iron Gate, large and visually dominant.",
+        "secondary": "The real black-and-white Iron Gate page layered beside the example, with the cover tucked behind.",
+        "tertiary": "Elegant serif headline and a brief invitation in the quiet upper-left area."
+      },
+      "background": "environment",
+      "props": [
+        "knitted throw",
+        "mug of tea",
+        "wooden desk",
+        "scattered leaves",
+        "string lights"
+      ],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.54
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-left",
+      "scene_brief": "Rich walnut desk in warm amber lamp light, with a chunky cream knit at one edge and a ceramic mug of tea nearby. A few scattered autumn leaves and soft string-light bokeh recede into a dusky, cinematic background; maintain an even, clear lower surface and a calm upper-left area.",
+      "claims_used": [
+        "product-title",
+        "page-count",
+        "example"
+      ],
+      "avoid": [
+        "a fake page in the scene",
+        "text in the scene",
+        "fake artwork in the environment",
+        "text within the environment",
+        "flat overhead lighting",
+        "crowded props",
+        "covering the gate or masked figures"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-hero"
+      ],
+      "support": "Settle into a cosy evening of colouring.",
+      "source": "approved-comparison",
+      "fallbacks": []
+    },
+    "02-preview": {
+      "id": "02-preview",
+      "job": "quality",
+      "purpose": "Show the line quality and inviting detail of a real colouring page up close.",
+      "buyer_message": "The artwork has rich detail with comfortable areas to colour.",
+      "emotional_goal": "Trust and anticipation.",
+      "headline": "Raven’s Toast",
+      "supporting_copy": null,
+      "composition": "cb-lifestyle-page",
+      "focal_asset": "page-8",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "A close, large view of Raven’s Toast and its refined linework.",
+        "secondary": "The page title, held clear of illustration detail.",
+        "tertiary": "Quiet candlelit atmosphere around the page."
+      },
+      "background": "environment",
+      "props": [
+        "candle",
+        "scattered leaves"
+      ],
+      "crop": {
+        "asset": "page-8",
+        "focus": [
+          0.52,
+          0.48
+        ],
+        "zoom": 1.42
+      },
+      "text_zone": "top-right",
+      "scene_brief": "Deep charcoal velvet-toned backdrop with a small cluster of scattered autumn leaves in the foreground and a single taper candle at the far edge. Low amber light falls in one dramatic pool, with soft dusk shadow and distant golden bokeh; leave the upper-left area calm.",
+      "claims_used": [
+        "page-title",
+        "page-number"
+      ],
+      "avoid": [
+        "a different backplate: it shares the hero backplate",
+        "tiny page view",
+        "text over the raven mask",
+        "extra page previews",
+        "fake page in the scene"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-page"
+      ],
+      "support": "Ornate details, open spaces, and a mysterious toast.",
+      "scene_of": "01-hero",
+      "scene_view": {
+        "zoom": 1.3,
+        "focus": [
+          0.28,
+          0.3
+        ]
+      },
+      "source": "model",
+      "fallbacks": []
+    },
+    "03-contents": {
+      "id": "03-contents",
+      "job": "variety",
+      "purpose": "Show the breadth of the masquerade story through a generous collection of real pages.",
+      "buyer_message": "There is a full evening of varied gothic scenes to colour.",
+      "emotional_goal": "Abundance and curiosity.",
+      "headline": "24 pages\nto colour",
+      "supporting_copy": null,
+      "composition": "cb-collage",
+      "focal_asset": "page-2",
+      "supporting_assets": [
+        "page-5",
+        "page-8",
+        "page-11",
+        "page-14",
+        "page-16",
+        "page-19",
+        "page-25"
+      ],
+      "hierarchy": {
+        "primary": "A layered, large-format collection of real pages with distinct scenes visible.",
+        "secondary": "The code-owned page-count headline centred above the spread.",
+        "tertiary": "Subtle linen texture and restrained seasonal accents."
+      },
+      "background": "linen",
+      "props": [
+        "scattered leaves"
+      ],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "page-count"
+      ],
+      "avoid": [
+        "tiny thumbnails",
+        "rigid catalogue grid",
+        "cluttered labels",
+        "text over illustrations"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-collage"
+      ],
+      "support": "24 colouring pages of elegant spooky scenes.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "04-coloured": {
+      "id": "04-coloured",
+      "job": "desire",
+      "purpose": "Inspire the buyer by showing how one real page can look when coloured.",
+      "buyer_message": "I can make this detailed manor scene my own.",
+      "emotional_goal": "Creative inspiration.",
+      "headline": "Bring the manor alive",
+      "supporting_copy": null,
+      "composition": "cb-coloured",
+      "focal_asset": "page-2",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "The warmly coloured Example of The Iron Gate.",
+        "secondary": "The matching black-and-white real page beside it.",
+        "tertiary": "A small, clear Example label."
+      },
+      "background": "linen",
+      "props": [
+        "coloured pencils"
+      ],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1.08
+      },
+      "text_zone": "top-left",
+      "scene_brief": "",
+      "claims_used": [
+        "example",
+        "line-art"
+      ],
+      "avoid": [
+        "presenting the coloured example as the product",
+        "unlabelled coloured example",
+        "altering the page composition",
+        "new objects in the coloured example",
+        "bright childish colours"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-coloured"
+      ],
+      "support": "Example shown beside the original line art.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "05-before-after": {
+      "id": "05-before-after",
+      "job": "how-it-works",
+      "purpose": "Make the print-and-colour journey immediately understandable through one matching page pair.",
+      "buyer_message": "I receive line art, then colour the scene in my own way.",
+      "emotional_goal": "Ease and creative confidence.",
+      "headline": "From line to colour",
+      "supporting_copy": null,
+      "composition": "cb-before-after",
+      "focal_asset": "page-2",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "The untouched black-and-white Iron Gate page.",
+        "secondary": "Its matching coloured Example, preserving every line.",
+        "tertiary": "Simple before-and-after captions."
+      },
+      "background": "linen",
+      "props": [
+        "fine-liner pens"
+      ],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1.05
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "example",
+        "line-art"
+      ],
+      "avoid": [
+        "colour on the real page",
+        "unlabelled example",
+        "extra steps",
+        "altered illustration details"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-before-after"
+      ],
+      "support": "Print the line art, then colour your scene.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "06-lifestyle": {
+      "id": "06-lifestyle",
+      "job": "useful",
+      "purpose": "Show the colouring book as a calm, screen-free creative ritual.",
+      "buyer_message": "I can settle in with a beautiful page and unwind.",
+      "emotional_goal": "Relaxation and quiet comfort.",
+      "headline": "A quiet creative hour",
+      "supporting_copy": null,
+      "composition": "cb-lifestyle-page",
+      "focal_asset": "page-25",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "The Manor Sleeps, large and clear in a warm home setting.",
+        "secondary": "A serene headline in open space.",
+        "tertiary": "Soft tactile details suggesting an unhurried evening."
+      },
+      "background": "environment",
+      "props": [
+        "coloured pencils",
+        "knitted throw",
+        "mug of tea",
+        "window light"
+      ],
+      "crop": {
+        "asset": "page-25",
+        "focus": [
+          0.5,
+          0.52
+        ],
+        "zoom": 1.08
+      },
+      "text_zone": "top-right",
+      "scene_brief": "Warm walnut surface beside a softly textured knitted throw, with a ceramic mug and a small jar of coloured pencils set well back. Gentle dusk window light creates shallow depth and a calm, even lower surface; keep the upper-right area uncluttered.",
+      "claims_used": [],
+      "avoid": [
+        "a fake page in the scene",
+        "fake page in the scene",
+        "busy Halloween decorations",
+        "people",
+        "hands",
+        "text in the environment"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-page"
+      ],
+      "support": "Settle in with a cosy spooky scene.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "07-showcase": {
+      "id": "07-showcase",
+      "job": "what-you-get",
+      "purpose": "Show one full printable design and the core book essentials without overwhelming the buyer.",
+      "buyer_message": "Every design is a full page with its own space to colour.",
+      "emotional_goal": "Confidence and clarity.",
+      "headline": "Room to colour",
+      "supporting_copy": null,
+      "composition": "cb-features",
+      "focal_asset": "page-14",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "The Portrait Gallery as one large, readable real page.",
+        "secondary": "A concise headline and essential format details.",
+        "tertiary": "Quiet feature labels with ample breathing room."
+      },
+      "background": "dusk",
+      "props": [],
+      "crop": {
+        "asset": "page-14",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1.03
+      },
+      "text_zone": "top-left",
+      "scene_brief": "",
+      "claims_used": [
+        "process",
+        "line-art",
+        "printing-guide"
+      ],
+      "avoid": [
+        "a long list",
+        "long feature list",
+        "small unreadable facts",
+        "text over framed portrait details",
+        "generic brochure layout"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-features"
+      ],
+      "support": "Each design has its own page.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "08-download": {
+      "id": "08-download",
+      "job": "doubts",
+      "purpose": "Remove delivery uncertainty with a clean explanation of the digital files and printing guide.",
+      "buyer_message": "This is an instant digital download with files ready to print.",
+      "emotional_goal": "Clarity and reassurance.",
+      "headline": "Ready for your printer",
+      "supporting_copy": null,
+      "composition": "cb-printable",
+      "focal_asset": "sheet",
+      "supporting_assets": [
+        "guide",
+        "page-2"
+      ],
+      "hierarchy": {
+        "primary": "The real printable sheet, large and recognisable.",
+        "secondary": "The printing guide and a real artwork page.",
+        "tertiary": "A concise digital-download disclosure and format line."
+      },
+      "background": "linen",
+      "props": [
+        "fine-liner pens"
+      ],
+      "crop": {
+        "asset": "sheet",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "digital",
+        "process",
+        "format"
+      ],
+      "avoid": [
+        "claims beyond the facts",
+        "physical product implication",
+        "shipping implication",
+        "unsupported device imagery"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-printable"
+      ],
+      "support": "Instant digital download; no physical item is shipped.",
+      "source": "model",
+      "fallbacks": []
+    },
+    "09-cozy": {
+      "id": "09-cozy",
+      "job": "desire",
+      "purpose": "Create a strong emotional picture of a slow, candlelit evening spent colouring.",
+      "buyer_message": "I can picture this page becoming part of my cosy Halloween evening.",
+      "emotional_goal": "Cosy nostalgia and desire.",
+      "headline": "Colour by candlelight",
+      "supporting_copy": null,
+      "composition": "cb-lifestyle-page",
+      "focal_asset": "page-14",
+      "supporting_assets": [],
+      "hierarchy": {
+        "primary": "The Portrait Gallery page, large and warmly illuminated.",
+        "secondary": "Candlelit evening texture and a nostalgic headline.",
+        "tertiary": "Soft bokeh and restrained seasonal details."
+      },
+      "background": "environment",
+      "props": [
+        "candle",
+        "mug of tea",
+        "warm lamp"
+      ],
+      "crop": {
+        "asset": "page-14",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1.08
+      },
+      "text_zone": "top-right",
+      "scene_brief": "A dusky walnut side table with a single candle at one edge and a ceramic mug placed softly out of focus behind it. A warm lamp creates a gentle amber glow, long soft shadows and cinematic depth; reserve a calm upper-right area.",
+      "claims_used": [],
+      "avoid": [
+        "a fake page in the scene",
+        "fake page in the scene",
+        "people",
+        "hands",
+        "overly bright lighting",
+        "text in the environment"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-lifestyle-page"
+      ],
+      "support": "A little gothic calm for the evening.",
+      "source": "model",
+      "fallbacks": [
+        "composition"
+      ]
+    },
+    "10-bundle": {
+      "id": "10-bundle",
+      "job": "what-you-get",
+      "purpose": "Close the story with the collection, formats and simple download-to-colour path at a glance.",
+      "buyer_message": "I receive the Hollowbone Manor collection in printable formats.",
+      "emotional_goal": "Closure and confidence.",
+      "headline": "A manor full of scenes",
+      "supporting_copy": "A4 + US Letter",
+      "composition": "cb-bundle",
+      "focal_asset": "page-2",
+      "supporting_assets": [
+        "page-5",
+        "page-8",
+        "page-11",
+        "page-14"
+      ],
+      "hierarchy": {
+        "primary": "A large, overlapping fan of real pages with different scenes clearly visible.",
+        "secondary": "Headline and concise format row.",
+        "tertiary": "A small download, print and colour pathway."
+      },
+      "background": "dusk",
+      "props": [
+        "scattered leaves"
+      ],
+      "crop": {
+        "asset": "page-2",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "zoom": 1
+      },
+      "text_zone": "top-centre",
+      "scene_brief": "",
+      "claims_used": [
+        "page-count",
+        "format"
+      ],
+      "avoid": [
+        "tiny pages",
+        "physical shipping implication",
+        "cluttered collage",
+        "unsupported bonus claims"
+      ],
+      "allowed_props": [
+        "coloured pencils",
+        "fine-liner pens",
+        "mug of tea",
+        "knitted throw",
+        "wooden desk",
+        "warm lamp",
+        "window light",
+        "candle",
+        "linen cloth",
+        "plant sprig",
+        "scattered leaves",
+        "string lights"
+      ],
+      "allowed_compositions": [
+        "cb-bundle"
+      ],
+      "support": null,
+      "source": "model",
+      "fallbacks": [
+        "support"
+      ]
+    }
+  },
+  "approved_hero": {
+    "source": "hero-comparison",
+    "engine": "ai-creative",
+    "legacy": true,
+    "slide": "01-hero",
+    "image": {
+      "file": "marketing/comparison/ai-creative/01-hero.png",
+      "sha256": "6b603a162d7cabda55ac150ac33d80b9af19664d8a11a203dbade600c08450a2"
+    },
+    "locked": {
+      "direction": {
+        "composition": "cb-lifestyle-hero",
+        "focal_asset": "page-2",
+        "text_zone": "top-left",
+        "background": "environment",
+        "scene_brief": "Rich walnut desk in warm amber lamp light, with a chunky cream knit at one edge and a ceramic mug of tea nearby. A few scattered autumn leaves and soft string-light bokeh recede into a dusky, cinematic background; maintain an even, clear lower surface and a calm upper-left area."
+      },
+      "route": null,
+      "scene": {
+        "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+        "sha256": "831e9fc2834177468eccc110d0e7bdbb5e232749847b304436d6820f31fa56be"
+      }
+    }
+  }
+}

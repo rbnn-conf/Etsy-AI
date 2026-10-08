@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "listing_id": 4585061341,
+  "properties": [
+    {
+      "property_id": 200,
+      "values": [
+        "Black"
+      ],
+      "at": "2026-09-29T15:20:50.085Z"
+    },
+    {
+      "property_id": 52047899002,
+      "values": [
+        "White"
+      ],
+      "at": "2026-09-29T15:20:50.389Z"
+    }
+  ],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "1a68bc028dbe9915d287e1184482ae10af252f833f4f365d4fa9ecf0306595d3",
+      "listing_image_id": 8597014816,
+      "uploaded_at": "2026-09-29T15:20:53.320Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "e03775a617e762a1935425b3d955dd0a21a5fc284cd9ade3024f55a10c2e5f3f",
+      "listing_image_id": 8597014960,
+      "uploaded_at": "2026-09-29T15:20:55.353Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "c93b88563fedaac728d024399bee30420bb8ac65643bae47f7d0447ef67ce6dd",
+      "listing_image_id": 8644858717,
+      "uploaded_at": "2026-09-29T15:20:57.729Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "35466f704261a097ff955fc414d419fc4fbf706424a362fe2763377f52c5f973",
+      "listing_image_id": 8597015326,
+      "uploaded_at": "2026-09-29T15:21:00.133Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "0f2b57509895135df06c5bc1ac434d8491246a020dfd519b7a728d6c35c2764b",
+      "listing_image_id": 8644859071,
+      "uploaded_at": "2026-09-29T15:21:02.460Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-included.png",
+      "sha256": "d82ce31364c38e16230b31119a7b08a3214d2c860bd3255af3ade8a169f40bc6",
+      "listing_image_id": 8644859209,
+      "uploaded_at": "2026-09-29T15:21:04.042Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-printable.png",
+      "sha256": "50e6f7d82335d0faa17c49f14cb4dc260212a66514669147780d822269ff982e",
+      "listing_image_id": 8597015736,
+      "uploaded_at": "2026-09-29T15:21:05.645Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-features.png",
+      "sha256": "c452ed6c9cf5ff1f0742b709b63667fb5ea181288d6c06cbd3284f299c9872c9",
+      "listing_image_id": 8597015850,
+      "uploaded_at": "2026-09-29T15:21:07.752Z"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-lifestyle.png",
+      "sha256": "aa8ee31eb42395553d39ff2a7eebaca54565c95fc06e5591b62a0acbee8d0a28",
+      "listing_image_id": 8644859649,
+      "uploaded_at": "2026-09-29T15:21:10.468Z"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "620b44eefc7561ace99be5a07f3bd86fe8a24f97e6e179895baf6accc1e48180",
+      "listing_image_id": 8597016228,
+      "uploaded_at": "2026-09-29T15:21:12.568Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-A4-Pages-01-10.zip",
+      "sha256": "9f3e544f66c50ebbe8e54b158657b93c668ab42f8afc357218041dd28fdbe1ef",
+      "bytes": 16846597,
+      "listing_file_id": 1518730072232,
+      "uploaded_at": "2026-09-29T15:21:19.941Z"
+    },
+    {
+      "rank": 2,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-US-Letter-Pages-01-10.zip",
+      "sha256": "05dd0a43553238c5926dcb295cb6d7fd2bc488370894802aa5d3f1c35b0e7a08",
+      "bytes": 16844164,
+      "listing_file_id": 1518730101534,
+      "uploaded_at": "2026-09-29T15:21:26.449Z"
+    },
+    {
+      "rank": 3,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-A4-and-US-Letter-Pages-11-12.zip",
+      "sha256": "ec68f0fcec04ceadb748aec500f108818c7c1cd905f50156c045e60fc0585f6a",
+      "bytes": 6412919,
+      "listing_file_id": 1518730114638,
+      "uploaded_at": "2026-09-29T15:21:29.341Z"
+    },
+    {
+      "rank": 4,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-01-06.zip",
+      "sha256": "8a8bebdf63c854bb698512a8a77b0d69973735a301cd254313c5384951808853",
+      "bytes": 10340238,
+      "listing_file_id": 1519974362841,
+      "uploaded_at": "2026-09-29T15:21:33.826Z"
+    },
+    {
+      "rank": 5,
+      "name": "Harvest-Market-Autumn-Colouring-Pages-PNG-Pages-07-12.zip",
+      "sha256": "673e6b1bed8895ff5d67e4b3e670f9a358f2ea817a9b8855b3ed2d8cf9d1b92b",
+      "bytes": 9905094,
+      "listing_file_id": 1519974381589,
+      "uploaded_at": "2026-09-29T15:21:38.079Z"
+    }
+  ],
+  "pending": null
+}

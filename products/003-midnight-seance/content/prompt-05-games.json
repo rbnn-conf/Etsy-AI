@@ -1,0 +1,43 @@
+{
+  "milestone": 5,
+  "masterIds": ["G01","G02","G03","G04","G05","G06","G07","G08","G09","G10","G11","G12","G13","G14","G15","G16"],
+  "trivia": [
+    {"q":"Which ancient Celtic festival is commonly connected with Halloween’s beginnings?","a":"Samhain","note":"A festival marking the darkening end of the harvest season.","source":"https://guides.loc.gov/halloween"},
+    {"q":"What root vegetable was traditionally carved in Ireland before pumpkins became common?","a":"Turnips","note":"Carved turnips feature in the Stingy Jack tradition.","source":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"},
+    {"q":"What does the word ‘hallow’ mean in the name All Hallows’ Eve?","a":"A saint or holy person","note":"All Hallows’ Eve precedes All Saints’ Day.","source":"https://guides.loc.gov/halloween"},
+    {"q":"Which Scottish custom involved visiting homes in disguise for songs, jokes or treats?","a":"Guising","note":"It is one proposed ancestor of modern trick-or-treating.","source":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"},
+    {"q":"Why did bonfires at early autumn celebrations attract bats?","a":"The fires attracted insects","note":"Insects gathered at the firelight, and bats followed their prey.","source":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"},
+    {"q":"Which Roman goddess is associated with the apple-bobbing courtship tradition?","a":"Pomona","note":"Pomona was linked with agriculture and abundance.","source":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"},
+    {"q":"What name was candy corn originally sold under?","a":"Chicken Feed","note":"Its early packaging leaned into corn and harvest imagery.","source":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"},
+    {"q":"In which decade did individually wrapped candy become central to US trick-or-treating?","a":"The 1950s","note":"Candy companies promoted convenient small wrapped sweets.","source":"https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"},
+    {"q":"How many principal phases are named in the standard lunar cycle?","a":"Eight","note":"From new Moon through waning crescent.","source":"https://science.nasa.gov/moon/moon-phases/"},
+    {"q":"Does the Moon make its own visible light?","a":"No","note":"Moonlight is sunlight reflected from the lunar surface.","source":"https://science.nasa.gov/moon/moon-phases/"},
+    {"q":"Approximately how long is the Moon’s phase cycle?","a":"29.5 days","note":"The sequence repeats roughly once a month.","source":"https://science.nasa.gov/moon/moon-phases/"},
+    {"q":"Which Moon phase rises around sunset?","a":"The full Moon","note":"It generally sets around sunrise.","source":"https://science.nasa.gov/moon/moon-phases/"},
+    {"q":"What is the Moon’s relationship to Earth?","a":"Earth’s only natural satellite","note":"Its average distance is about 385,000 kilometres.","source":"https://science.nasa.gov/moon/facts/"},
+    {"q":"Why do we usually see the same lunar hemisphere from Earth?","a":"The Moon rotates once per orbit","note":"This is synchronous rotation, often called tidal locking.","source":"https://science.nasa.gov/moon/facts/"},
+    {"q":"In what year did a spacecraft first reveal the Moon’s far side?","a":"1959","note":"A Soviet spacecraft made the first flyby view.","source":"https://science.nasa.gov/moon/facts/"}
+  ],
+  "scrambleWords": ["APOTHECARY","CANDLELIGHT","CELESTIAL","CRESCENT","GOTHIC","IVORY","LACE","MIDNIGHT","MOONLIGHT","MOTH","OXBLOOD","PLUM","ROSE","SEANCE","VELVET"],
+  "bingoPrompts": [
+    "Has visited a castle","Owns a velvet outfit","Can name three herbs","Has seen a meteor shower","Prefers tea by candlelight","Has a black cat","Knows a constellation","Collects old books","Has worn a dramatic cape","Can recommend a mystery","Has grown roses","Has attended a costume party","Can do a card trick","Has a favourite moon phase","Owns an antique key","Has baked an autumn dessert","Can tell a harmless ghost story","Has visited a botanical garden","Knows a Latin plant name","Has made a paper invitation","Prefers plum to orange","Has watched a sunrise","Has found a four-leaf clover","Can identify a raven","Has a lucky charm","Has written with a fountain pen","Enjoys logic puzzles","Has toured a historic house","Can name a nocturnal animal","Has made a mocktail","Owns lace clothing","Has pressed flowers","Can whistle a tune","Has seen a bat at dusk","Has hosted a dinner party","Would choose the window seat"
+  ],
+  "predictions": ["The first person to mention the moon","The guest most likely to discover a hidden detail","The first toast of the evening","The most requested recipe","The conversation topic that returns twice","The song that fills the room","The guest who solves a puzzle first","The final sweet left on the table"],
+  "nominations": ["Would notice a secret passage first","Would host the most elegant midnight supper","Would keep calm during a mysterious noise","Would solve an old cipher","Would choose the best candlelit playlist","Would identify a rare flower","Would remember every guest’s name","Would bring the most intriguing book","Would design the finest invitation","Would spot a shooting star first","Would make the best alcohol-free elixir","Would turn tonight into a tradition"],
+  "omens": [
+    {"object":"Ornate key","clue":"I open no door tonight, yet secrets gather where I lie."},
+    {"object":"Black ribbon","clue":"A narrow midnight path, tied where guests may pass."},
+    {"object":"Paper crescent","clue":"I borrow light but make none of my own."},
+    {"object":"Silk rose","clue":"I bloom without soil and keep every petal."},
+    {"object":"Small bell","clue":"A quiet touch gives me a silver voice."},
+    {"object":"Sealed envelope","clue":"My message waits behind an unbroken edge."},
+    {"object":"Playing card","clue":"One figure from a silent court has wandered away."},
+    {"object":"Tiny mirror","clue":"I return each curious gaze without keeping it."},
+    {"object":"Wooden star","clue":"I fell indoors and rest below the sky."},
+    {"object":"Empty vial","clue":"An apothecary vessel holding only air."},
+    {"object":"Feather","clue":"A raven left no bird, only this soft trace."},
+    {"object":"Brass button","clue":"Small, round and bright, I fasten nothing here."}
+  ],
+  "conversationCards": ["Which place would you explore after midnight?","What small ritual makes an evening feel special?","Which scent belongs in a mysterious old library?","What would you name a newly discovered constellation?","Which object would you place in a curiosity cabinet?","What is your favourite harmless superstition?","Which season would you preserve in a glass bottle?","What makes a gathering unforgettable?","Which mystery would you most like to solve?"],
+  "costumeCategories": ["Most imaginative","Most elegant","Best storytelling detail"]
+}

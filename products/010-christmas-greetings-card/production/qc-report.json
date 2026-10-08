@@ -1,0 +1,135 @@
+{
+  "product_id": "010",
+  "passed": true,
+  "at": "2026-09-28T16:21:36.913Z",
+  "checks": [
+    {
+      "name": "approved artwork unchanged",
+      "ok": true,
+      "detail": "3 approved assets match the handoff SHA-256"
+    },
+    {
+      "name": "expected files present",
+      "ok": true,
+      "detail": "7 files"
+    },
+    {
+      "name": "print variants complete",
+      "ok": true,
+      "detail": "A4, US-Letter, Card-Panels-4x6in, Card-Artwork, Guide"
+    },
+    {
+      "name": "filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no duplicate outputs",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "card artwork identical to approved originals",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "derived files traceable to approved artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "aspect ratio preserved",
+      "ok": true,
+      "detail": "9 placements, no crop or stretch"
+    },
+    {
+      "name": "PDFs valid: page counts, sizes and orientation",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "owner previews rendered",
+      "ok": true,
+      "detail": "2 of 2"
+    },
+    {
+      "name": "ZIP package verified",
+      "ok": true,
+      "detail": "7 entries"
+    },
+    {
+      "name": "file sizes fit Etsy",
+      "ok": true,
+      "detail": "10.1 MB (limit 20 MB)"
+    },
+    {
+      "name": "card variants complete",
+      "ok": true,
+      "detail": "A Christmas Conservatory"
+    },
+    {
+      "name": "each variant uses its assigned front, inside and back",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "minimal back correct (wordmark only, no URL or promotion)",
+      "ok": true,
+      "detail": "0 minimal back(s)"
+    },
+    {
+      "name": "inside artwork referenced correctly",
+      "ok": true,
+      "detail": "proof-02 used by A"
+    },
+    {
+      "name": "printing guide describes the card designs",
+      "ok": true,
+      "detail": "\"1 card design\""
+    },
+    {
+      "name": "no unsupported resolution claim",
+      "ok": true,
+      "detail": "effective print resolution A4 210 ppi, US-Letter 204 ppi, Card-Panels-4x6in 256 ppi"
+    }
+  ],
+  "resolution": {
+    "effective_ppi": {
+      "A4": 210,
+      "US-Letter": 204,
+      "Card-Panels-4x6in": 256
+    },
+    "source_px": [
+      "1024x1536"
+    ],
+    "density_metadata": [
+      72
+    ],
+    "note": "Effective ppi = source pixels / printed size. PNG density metadata is not used when printing the PDFs."
+  },
+  "image_encoding": 95,
+  "zip": {
+    "file": "production/package/LumiumX-Christmas-Conservatory.zip",
+    "bytes": 10069144
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Christmas-Conservatory-Folded-Card-A4-p1.png",
+      "source": "A4/LumiumX-Christmas-Conservatory-Folded-Card-A4.pdf",
+      "page": 1,
+      "label": "Outside (print first)"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Christmas-Conservatory-Folded-Card-A4-p2.png",
+      "source": "A4/LumiumX-Christmas-Conservatory-Folded-Card-A4.pdf",
+      "page": 2,
+      "label": "Inside (print on the back)"
+    }
+  ]
+}

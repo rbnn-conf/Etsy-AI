@@ -1,0 +1,897 @@
+{
+  "theme": "Moonlit meadow crochet flower bouquets",
+  "audience": [
+    "Adult crocheters",
+    "Romantic cottagecore makers",
+    "Whimsical home décor enthusiasts",
+    "Gift-making crocheters"
+  ],
+  "style": [
+    "poetic botanical",
+    "romantic cottagecore",
+    "twilight meadow",
+    "heirloom-inspired",
+    "US crochet terms",
+    "elegant illustrated"
+  ],
+  "patterns": [
+    {
+      "pattern_id": "garden-rose",
+      "name": "Garden Rose",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 8 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Layered petal rounds are worked separately around a small centre and sewn together for a full open bloom.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A full, many-petalled romantic rose bloom for the centre of an everlasting bouquet."
+    },
+    {
+      "pattern_id": "moon-peony",
+      "name": "Moon Peony",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "experienced",
+      "approx_size": "about 11 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A padded centre is surrounded by several graduated, cupped petal layers joined and shaped into a lush bloom.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "dtr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A generous, ruffled peony with layered petals for statement meadow arrangements."
+    },
+    {
+      "pattern_id": "heirloom-dahlia",
+      "name": "Heirloom Dahlia",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "experienced",
+      "approx_size": "about 10 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Pointed petal rounds are built from the centre outward, with optional shaping as the bloom is mounted on a stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A dense, symmetrical dahlia bloom with layered pointed petals for a dramatic bouquet focal."
+    },
+    {
+      "pattern_id": "meadow-ranunculus",
+      "name": "Meadow Ranunculus",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 6 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Narrow overlapping petal strips are wrapped around a rounded centre and secured to create a cupped flower.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A delicately layered ranunculus with a softly cupped shape for romantic posies."
+    },
+    {
+      "pattern_id": "starlit-anemone",
+      "name": "Starlit Anemone",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "easy",
+      "approx_size": "about 7 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A dark textured centre is made first, then broad petals are worked individually and joined around it.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "bobble"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "An open six-petalled anemone with a contrasting textured centre for twilight bouquets."
+    },
+    {
+      "pattern_id": "cottage-poppy",
+      "name": "Cottage Poppy",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 9 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Four softly ruffled petals and a raised centre are made separately, joined, and lightly shaped around a stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A light, open poppy with gently rippled petals and a prominent seed-head centre."
+    },
+    {
+      "pattern_id": "twilight-lily",
+      "name": "Twilight Lily",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "experienced",
+      "approx_size": "about 12 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Six elongated curled petals and stamens are shaped individually and assembled around a floral stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr",
+        "dtr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "An elegant trumpet-shaped lily with long petals and fine stamens for tall arrangements."
+    },
+    {
+      "pattern_id": "wild-sunflower",
+      "name": "Wild Sunflower",
+      "category": "flower",
+      "role": "focal",
+      "difficulty": "intermediate",
+      "approx_size": "about 10 cm across",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A textured circular centre is edged with two rounds of slender petals and backed with a neat green calyx.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "puff"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A cheerful wild sunflower with a raised centre and radiating petals for meadow bouquets."
+    },
+    {
+      "pattern_id": "blush-tulip",
+      "name": "Blush Tulip",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "easy",
+      "approx_size": "about 6 cm tall",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A shaped cup is worked in joined rounds, fitted over a simple inner form, and finished with a calyx.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A graceful closed tulip cup for soft springlike bunches and small arrangements."
+    },
+    {
+      "pattern_id": "meadow-daisy",
+      "name": "Meadow Daisy",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "beginner",
+      "approx_size": "about 5 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "A simple round centre is surrounded by evenly spaced oval petals worked in one continuous round.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A classic small daisy with a sunny centre and simple petals for cheerful filler clusters."
+    },
+    {
+      "pattern_id": "velvet-carnation",
+      "name": "Velvet Carnation",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "intermediate",
+      "approx_size": "about 7 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A ruffled scalloped strip is gathered tightly around a centre, then finished with a small calyx.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A softly frilled carnation bloom with a gathered, vintage garden character."
+    },
+    {
+      "pattern_id": "hydrangea-cluster",
+      "name": "Hydrangea Cluster",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "intermediate",
+      "approx_size": "about 9 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Multiple four-petalled florets are made separately and joined over a rounded cluster base.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A rounded cluster of petite four-petalled florets for a lush cottage garden bouquet."
+    },
+    {
+      "pattern_id": "moon-cosmos",
+      "name": "Moon Cosmos",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "easy",
+      "approx_size": "about 7 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Eight slender petals are worked around a textured centre in a single flat flower construction.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "puff"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "An airy eight-petalled cosmos with a textured centre for open, dancing meadow arrangements."
+    },
+    {
+      "pattern_id": "winter-camellia",
+      "name": "Winter Camellia",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "intermediate",
+      "approx_size": "about 8 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Overlapping rounded petal layers are worked separately and stacked around a compact centre.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A neat, layered camellia with smooth rounded petals for polished botanical displays."
+    },
+    {
+      "pattern_id": "sweet-pea-spray",
+      "name": "Sweet Pea Spray",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "intermediate",
+      "approx_size": "about 14 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Fluttery flowers, buds, and a curled tendril are made separately and secured along one slender stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A climbing sweet pea spray with fluttering blossoms and a delicate curling tendril."
+    },
+    {
+      "pattern_id": "bluebell-stem",
+      "name": "Bluebell Stem",
+      "category": "flower",
+      "role": "secondary",
+      "difficulty": "easy",
+      "approx_size": "about 16 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Small bell-shaped flowers are worked individually and attached in a one-sided cascade along a curved stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A graceful curved stem carrying a cascade of petite hanging bluebell flowers."
+    },
+    {
+      "pattern_id": "lavender-sprig",
+      "name": "Lavender Sprig",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "easy",
+      "approx_size": "about 15 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Tiny clustered buds are worked directly along the upper section of a covered floral stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A slender lavender spike with closely clustered buds for soft texture and height in bouquets."
+    },
+    {
+      "pattern_id": "baby-breath-spray",
+      "name": "Baby's Breath Spray",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "beginner",
+      "approx_size": "about 18 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Minute five-petalled flowers are worked on branching chains and arranged onto a fine stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "An airy branching spray of tiny white-style flowers for lightness between larger blooms."
+    },
+    {
+      "pattern_id": "waxflower-spray",
+      "name": "Waxflower Spray",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "easy",
+      "approx_size": "about 15 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Small starry flowers with contrasting centres are attached at intervals along a branched stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A dainty branched spray of small star-shaped waxflowers for cottage garden fullness."
+    },
+    {
+      "pattern_id": "golden-billy-button",
+      "name": "Golden Billy Button",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "beginner",
+      "approx_size": "about 18 cm tall",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A firm textured sphere is worked in continuous rounds and mounted on a slim covered stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "bobble"
+      ],
+      "assembly_required": true,
+      "artwork": "none",
+      "summary": "A round textured billy button flower on a tall stem for playful contrast in a bouquet."
+    },
+    {
+      "pattern_id": "lace-queen-annes",
+      "name": "Lace Queen Anne's",
+      "category": "flower",
+      "role": "filler",
+      "difficulty": "intermediate",
+      "approx_size": "about 10 cm across",
+      "yarn_weight": "0-lace",
+      "hook_mm": 1.5,
+      "construction": "Fine branching spokes and tiny clustered florets are made in sections and joined into a flat lace-like umbel.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "diagram-recommended",
+      "summary": "A delicate lacy umbel of tiny florets, inspired by a wild meadow flower head."
+    },
+    {
+      "pattern_id": "sleeping-rosebud",
+      "name": "Sleeping Rosebud",
+      "category": "flower",
+      "role": "accent",
+      "difficulty": "easy",
+      "approx_size": "about 4 cm tall",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "A compact rolled petal strip is enclosed by pointed sepals and fixed to a short stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A tightly closed rosebud for adding romantic detail beside open rose blooms."
+    },
+    {
+      "pattern_id": "forget-me-not",
+      "name": "Forget-Me-Not",
+      "category": "flower",
+      "role": "accent",
+      "difficulty": "beginner",
+      "approx_size": "about 2 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Five tiny rounded petals are worked around a contrasting centre in one compact motif.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A tiny five-petalled forget-me-not for scattered powder-blue accents in arrangements."
+    },
+    {
+      "pattern_id": "chamomile-blossom",
+      "name": "Chamomile Blossom",
+      "category": "flower",
+      "role": "accent",
+      "difficulty": "beginner",
+      "approx_size": "about 3 cm across",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Short white petals are worked around a raised yellow-style centre in a single small flower.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "puff"
+      ],
+      "assembly_required": false,
+      "artwork": "none",
+      "summary": "A petite chamomile flower with a domed centre, suited to delicate meadow details."
+    },
+    {
+      "pattern_id": "sage-eucalyptus",
+      "name": "Sage Eucalyptus",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "easy",
+      "approx_size": "about 18 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Oval leaves are worked directly along a central covered stem in alternating pairs.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A muted sage eucalyptus branch with alternating rounded leaves for bouquet volume."
+    },
+    {
+      "pattern_id": "olive-branch",
+      "name": "Olive Branch",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "easy",
+      "approx_size": "about 20 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Narrow pointed leaves are made along a gently curved stem with spaced branching tips.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "illustration",
+      "summary": "A slender olive branch with pointed leaves for elegant, airy bouquet framing."
+    },
+    {
+      "pattern_id": "woodland-fern",
+      "name": "Woodland Fern",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "intermediate",
+      "approx_size": "about 17 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "A central spine is edged with repeated graduated leaflets to form one flat feathered frond.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A feathery woodland fern frond that adds fine texture and a woodland note to bouquets."
+    },
+    {
+      "pattern_id": "trailing-ivy",
+      "name": "Trailing Ivy",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "easy",
+      "approx_size": "about 22 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Heart-lobed ivy leaves are worked separately and attached at intervals along a flexible trailing cord.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc",
+        "tr"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A trailing ivy vine with recognisable lobed leaves for draping around a bouquet or vase."
+    },
+    {
+      "pattern_id": "velvet-lambs-ear",
+      "name": "Velvet Lamb's Ear",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "beginner",
+      "approx_size": "about 12 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "Soft oval leaves are worked flat with a simple central ridge and attached to a short stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "none",
+      "summary": "A pair of softly shaped lamb's ear leaves for velvety sage-green bouquet accents."
+    },
+    {
+      "pattern_id": "ruscus-spray",
+      "name": "Ruscus Spray",
+      "category": "foliage",
+      "role": "foliage",
+      "difficulty": "easy",
+      "approx_size": "about 19 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "Long narrow leaves are worked one at a time and secured along a branched upright stem.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "An upright ruscus spray with sleek leaves for adding structure behind flower heads."
+    },
+    {
+      "pattern_id": "bendable-floral-stem",
+      "name": "Bendable Floral Stem",
+      "category": "stem",
+      "role": "structural",
+      "difficulty": "beginner",
+      "approx_size": "about 25 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.25,
+      "construction": "A narrow crochet tube covers a floral wire, creating an adaptable stem with a finished end.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc"
+      ],
+      "assembly_required": true,
+      "artwork": "illustration",
+      "summary": "A covered bendable wire stem used to support individual blooms, buds, and foliage pieces."
+    },
+    {
+      "pattern_id": "ribboned-bouquet-wrap",
+      "name": "Ribboned Bouquet Wrap",
+      "category": "wrap",
+      "role": "structural",
+      "difficulty": "easy",
+      "approx_size": "about 12 cm long",
+      "yarn_weight": "2-fine",
+      "hook_mm": 2.5,
+      "construction": "A textured rectangular band is worked flat with built-in tie openings to secure around gathered stems.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "dc"
+      ],
+      "assembly_required": false,
+      "artwork": "none",
+      "summary": "A soft crochet handle wrap that gathers and finishes the stems of a handmade bouquet."
+    },
+    {
+      "pattern_id": "meadow-vase",
+      "name": "Meadow Vase",
+      "category": "vase",
+      "role": "structural",
+      "difficulty": "intermediate",
+      "approx_size": "about 12 cm tall",
+      "yarn_weight": "3-light",
+      "hook_mm": 3,
+      "construction": "A firm base, rounded body, and narrowed neck are worked in continuous rounds around an optional insert.",
+      "main_stitches": [
+        "ch",
+        "sl st",
+        "sc",
+        "hdc",
+        "inc",
+        "dec"
+      ],
+      "assembly_required": false,
+      "artwork": "diagram-recommended",
+      "summary": "A small textured crochet vase cover or soft vessel for displaying a finished everlasting arrangement."
+    }
+  ],
+  "combinations": {
+    "title": "Moonlit Meadow Arrangement Ideas",
+    "intro": "These arrangements combine the individual blooms, foliage, and structural pieces into romantic everlasting displays.",
+    "items": [
+      {
+        "name": "Blush Garden Posy",
+        "patterns": [
+          {
+            "pattern_id": "garden-rose",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "blush-tulip",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "sleeping-rosebud",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "sage-eucalyptus",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "bendable-floral-stem",
+            "quantity": 5
+          },
+          {
+            "pattern_id": "ribboned-bouquet-wrap",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Use soft blush and muted rose blooms against dusty sage foliage.",
+          "Gather the wire stems first, then secure them with the bouquet wrap."
+        ]
+      },
+      {
+        "name": "Twilight Meadow Vase",
+        "patterns": [
+          {
+            "pattern_id": "moon-peony",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "starlit-anemone",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "lavender-sprig",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "baby-breath-spray",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "woodland-fern",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "meadow-vase",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Arrange the peony as the central focal bloom and let the fern frame the silhouette.",
+          "Lavender and baby's breath provide a soft, hazy meadow texture."
+        ]
+      },
+      {
+        "name": "Wildflower Morning Bunch",
+        "patterns": [
+          {
+            "pattern_id": "wild-sunflower",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "meadow-daisy",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "moon-cosmos",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "golden-billy-button",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "olive-branch",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "bendable-floral-stem",
+            "quantity": 11
+          }
+        ],
+        "notes": [
+          "Mix warm cream, powder blue, and muted golden tones for a relaxed meadow feel."
+        ]
+      },
+      {
+        "name": "Lavender Cottage Spray",
+        "patterns": [
+          {
+            "pattern_id": "sweet-pea-spray",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "bluebell-stem",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "lavender-sprig",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "forget-me-not",
+            "quantity": 5
+          },
+          {
+            "pattern_id": "trailing-ivy",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Use gentle lavender and powder-blue accents with a trailing ivy edge.",
+          "This loose spray suits a mantel display or narrow vase."
+        ]
+      },
+      {
+        "name": "Heirloom Statement Bouquet",
+        "patterns": [
+          {
+            "pattern_id": "heirloom-dahlia",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "cottage-poppy",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "winter-camellia",
+            "quantity": 2
+          },
+          {
+            "pattern_id": "hydrangea-cluster",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "ruscus-spray",
+            "quantity": 3
+          },
+          {
+            "pattern_id": "bendable-floral-stem",
+            "quantity": 9
+          },
+          {
+            "pattern_id": "ribboned-bouquet-wrap",
+            "quantity": 1
+          }
+        ],
+        "notes": [
+          "Place the dahlia slightly above the other blooms for an elegant focal line.",
+          "Ruscus creates a tailored backdrop for the fuller flower heads."
+        ]
+      }
+    ]
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-02T10:57:10.109Z"
+}

@@ -1,0 +1,181 @@
+{
+  "tag_candidates": [
+    "fall crochet projects",
+    "leaf placemat",
+    "table runner pattern",
+    "coaster crochet",
+    "acorn napkin ring",
+    "cutlery pocket",
+    "maple leaf crochet",
+    "oak leaf applique",
+    "beech leaf coaster",
+    "US terms crochet",
+    "A4 crochet PDF",
+    "US letter pattern",
+    "seasonal table setting",
+    "harvest table decor",
+    "intermediate crochet",
+    "beginner crochet",
+    "easy crochet pattern",
+    "autumn table setting",
+    "crochet tableware",
+    "cotton yarn crochet"
+  ],
+  "tags": [
+    {
+      "candidate": "fall crochet projects",
+      "tag": "fall crochet projects",
+      "result": "discarded",
+      "reason": "over 20 characters with no safe repair"
+    },
+    {
+      "candidate": "leaf placemat",
+      "tag": "leaf placemat",
+      "result": "kept"
+    },
+    {
+      "candidate": "table runner pattern",
+      "tag": "table runner pattern",
+      "result": "kept"
+    },
+    {
+      "candidate": "coaster crochet",
+      "tag": "coaster crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "acorn napkin ring",
+      "tag": "acorn napkin ring",
+      "result": "kept"
+    },
+    {
+      "candidate": "cutlery pocket",
+      "tag": "cutlery pocket",
+      "result": "kept"
+    },
+    {
+      "candidate": "maple leaf crochet",
+      "tag": "maple leaf crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "oak leaf applique",
+      "tag": "oak leaf applique",
+      "result": "kept"
+    },
+    {
+      "candidate": "beech leaf coaster",
+      "tag": "beech leaf coaster",
+      "result": "kept"
+    },
+    {
+      "candidate": "US terms crochet",
+      "tag": "us terms crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 crochet PDF",
+      "tag": "a4 crochet pdf",
+      "result": "kept"
+    },
+    {
+      "candidate": "US letter pattern",
+      "tag": "us letter pattern",
+      "result": "kept"
+    },
+    {
+      "candidate": "seasonal table setting",
+      "tag": "seasonal table setting",
+      "result": "discarded",
+      "reason": "over 20 characters with no safe repair"
+    },
+    {
+      "candidate": "harvest table decor",
+      "tag": "harvest table decor",
+      "result": "kept"
+    },
+    {
+      "candidate": "intermediate crochet",
+      "tag": "intermediate crochet",
+      "result": "kept"
+    },
+    {
+      "candidate": "beginner crochet",
+      "tag": "beginner crochet",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "easy crochet pattern",
+      "tag": "easy crochet pattern",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "autumn table setting",
+      "tag": "autumn table setting",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "crochet tableware",
+      "tag": "crochet tableware",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "cotton yarn crochet",
+      "tag": "cotton yarn crochet",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF patterns",
+      "material": "Digital PDF patterns",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 PDF",
+      "material": "A4 PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter PDF",
+      "material": "US Letter PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "Pattern index",
+      "material": "Pattern index",
+      "result": "kept"
+    },
+    {
+      "candidate": "Materials tools reference",
+      "material": "Materials tools reference",
+      "result": "kept"
+    },
+    {
+      "candidate": "Abbreviations reference",
+      "material": "Abbreviations reference",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing crochet guide",
+      "material": "Printing crochet guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "Autumn styling ideas",
+      "material": "Autumn styling ideas",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints > Crochet Patterns",
+    "final": "Craft Supplies & Tools > Patterns & How To > Patterns & Blueprints",
+    "source": "canonical crochet-pattern-bundle category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

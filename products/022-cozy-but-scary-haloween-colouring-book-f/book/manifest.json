@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "product_id": "022",
+  "product_name": "Hollowbone Manor Masquerade",
+  "product_format": "colouring-book",
+  "page_count": 25,
+  "created_at": "2026-10-07T18:34:53.896Z",
+  "source": {
+    "specification_sha256": "5029d093c6ee116fa66551fde41c4fa16fe87c98794cd87e6611f1ec006f216e",
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1
+    }
+  },
+  "style_reference": {
+    "direction_version": 1,
+    "proof_pages": [
+      2,
+      3,
+      25
+    ],
+    "shared_prompt": "Sophisticated adult gothic colouring-book artwork in crisp black pen-and-ink on pure white, with confident clean contours, medium interior outlines, precise ornamental linework, delicate crosshatching and sparse stippling. Create elegant theatrical stylisation, high detail in decorative textures and open colourable areas, with no grey fills, gradients or solid black masses. Maintain a cosy yet ominous candlelit storybook mood, clear focal hierarchy, refined engraving-like texture and printer-friendly line clarity.",
+    "line_weight": "Crisp confident outer contours with medium interior outlines and selectively fine ornamental linework.",
+    "line_quality": "Clean, controlled hand-inked linework; elegant curves, precise hatching and clearly separated enclosed shapes.",
+    "detail_level": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+    "colour_mode": "black-and-white line art",
+    "shading": "No grey fills, gradients or solid black shading; use sparse crosshatching, contour hatching and patterned shadow marks only where needed for depth.",
+    "background_density": "Layered and immersive, with ornamental background detail kept lighter and more open than the principal forms to maintain clear focal hierarchy.",
+    "canvas": {
+      "orientation": "portrait",
+      "background": "white",
+      "edge": "safe-margin",
+      "format_notes": "Each single-sided page uses a practical inner safety margin, a strong central scene and clearly enclosed colourable spaces for A4 and US Letter home printing."
+    }
+  },
+  "generation": {
+    "model": "gpt-image-2.5-flare",
+    "size": "1024x1536",
+    "quality": "medium",
+    "note": "Pixel size as generated. No DPI claim: Stage 2 calculates the effective print resolution."
+  },
+  "pages": [
+    {
+      "page_id": "P001",
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Hollowbone Manor Masquerade",
+      "scene": "An elegant front cover introducing the candlelit haunted-manor ball.",
+      "composition": "A formal symmetrical ballroom vista beneath an elaborate chandelier, with skeleton masqueraders dancing in the middle distance around an empty velvet throne. Autumn garlands frame the room; a jewelled skull mask rests prominently in the foreground. The title sits beneath a small chandelier crest in a Victorian serif treatment.",
+      "subject": "Front cover composition: grand decaying manor ballroom, elaborate chandelier at top centre, skeleton masqueraders dancing around an empty velvet throne, jewelled skull mask in the foreground, autumn garlands and tall shadowed windows. Include exact readable title text: “HOLLOWBONE MANOR MASQUERADE”. Formal Victorian serif title beneath a small chandelier crest.",
+      "required_text": [
+        "HOLLOWBONE MANOR MASQUERADE"
+      ],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Verify the title is fully legible and correctly spelled. Keep the cover line-art-only so it can be coloured, while retaining a polished premium cover hierarchy. No barcode or author name required."
+    },
+    {
+      "page_id": "P002",
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "The Iron Gate",
+      "scene": "Guests arrive at the manor at twilight.",
+      "composition": "Tall wrought-iron gates stand open before a weathered Gothic manor. Two elegant skeletal guests in cloaks and feathered masks approach along a cobbled path bordered by pumpkins, curling ivy and bare-branched trees. A crescent moon and small bats appear above distant turrets.",
+      "subject": "Open wrought-iron gates before a weathered Gothic manor, two elegant skeletal masked guests arriving on a cobbled path, ornate pumpkins, curling ivy, bare trees, distant manor turrets, crescent moon and a few bats.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Keep gate scrollwork detailed but with generous enclosed sections. Ensure the approaching figures remain visually separate from the path and manor."
+    },
+    {
+      "page_id": "P003",
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "The Maskmaker's Chamber",
+      "scene": "A mysterious host prepares masks before the ball.",
+      "composition": "A poised skeletal maskmaker sits at an antique worktable, threading jewels onto a skull mask. Shelves hold labelled-looking but text-free masks shaped like ravens, moons, roses and antlers; candles, scissors, ribbon spools and folded velvet complete the chamber.",
+      "subject": "Elegant skeletal maskmaker at an antique worktable threading jewels onto a skull-shaped masquerade mask; surrounding shelves of ornate raven, moon, rose and antler masks; candles, scissors, ribbon spools, folded velvet and carved wooden drawers; no readable labels.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Do not include tiny or illegible shelf labels. Make scissors safe-looking decorative tailoring scissors, not a focal threat."
+    },
+    {
+      "page_id": "P004",
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Velvet Invitation",
+      "scene": "An invitation waits on a richly dressed hall table.",
+      "composition": "A sealed invitation envelope lies centred on a damask-covered console table, flanked by taper candles in ornate holders. A raven feather, a wax seal bearing a simple skull-and-rose emblem, scattered autumn leaves and an antique key surround it; a framed portrait looms subtly behind.",
+      "subject": "Still life of a sealed invitation envelope on a damask-covered Gothic console table, wax seal with simple skull-and-rose emblem, raven feather, antique key, taper candles, scattered autumn leaves and a subtle shadowy ancestral portrait in the background; no readable invitation wording.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "No lengthy text on the invitation. Preserve large colourable sections in the damask fabric, envelope and leaves."
+    },
+    {
+      "page_id": "P005",
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "The Grand Stair",
+      "scene": "Guests make a theatrical entrance.",
+      "composition": "A sweeping double staircase rises to a landing beneath carved arches. Three skeleton guests descend in different elaborate costumes: a rose-trimmed gown, a cloak with constellation motifs and a high-collared tailcoat. Jack-o'-lanterns, urns of autumn foliage and candle sconces decorate the stairs.",
+      "subject": "Sweeping double staircase inside a Gothic manor, three elegant skeleton masqueraders descending in a rose-trimmed gown, constellation-pattern cloak and high-collared tailcoat; carved arches, candle sconces, urns of autumn foliage and decorative jack-o'-lanterns.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Separate each costume silhouette clearly. Use repeatable but non-muddy textile patterns and broad stair treads for colouring."
+    },
+    {
+      "page_id": "P006",
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "The Candle Corridor",
+      "scene": "A quiet passage hints that the manor itself is watching.",
+      "composition": "A long corridor recedes beneath ribbed arches, its walls filled with oval portraits of masked ancestors. A lone skeletal guest carries a candelabrum towards a partly open door; trailing vines, fallen leaves and tiny moths add seasonal detail.",
+      "subject": "Long Gothic manor corridor beneath ribbed arches, oval portraits of masked ancestors along the walls, lone elegant skeletal guest carrying a candelabrum toward a partly open door, trailing ivy, fallen autumn leaves and small moths.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Maintain a clear perspective path and avoid dense linework in the far distance. Portrait faces should be varied, stylised and non-graphic."
+    },
+    {
+      "page_id": "P007",
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "The Ballroom Waltz",
+      "scene": "The masquerade reaches its most magnificent moment.",
+      "composition": "A formal symmetrical ballroom scene shows four pairs of skeleton dancers waltzing beneath a chandelier. Tall windows, draped autumn garlands, candlelit columns and patterned floor tiles frame the dancers, while the empty velvet throne remains visible at the far end.",
+      "subject": "Formal symmetrical Gothic ballroom with four pairs of skeleton masqueraders waltzing beneath a huge ornate chandelier; tall windows, autumn garlands, candlelit columns, patterned floor tiles and an empty velvet throne at the far end.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Exactly eight dancing figures arranged as four readable pairs. Keep the chandelier ornate but not ink-heavy; preserve the throne as a clear visual clue."
+    },
+    {
+      "page_id": "P008",
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Raven's Toast",
+      "scene": "A masked guest raises a glass in the conservatory.",
+      "composition": "A sophisticated skeletal guest in a raven-beak mask stands at a small table in a moonlit conservatory, lifting a patterned goblet. A raven perches on the chair back; curling vines, potted chrysanthemums, leaded glass and a tray of pear-shaped treats fill the scene.",
+      "subject": "Moonlit Gothic conservatory with an elegant skeletal guest in a raven-beak masquerade mask raising a patterned goblet at a small table; raven on chair back, curling vines, potted chrysanthemums, leaded glass windows and a tray of pear-shaped treats.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Ensure there is no implied drinking brand or modern glassware. Give the goblet and greenhouse panes open colourable regions."
+    },
+    {
+      "page_id": "P009",
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Pumpkin Parlour",
+      "scene": "The manor's cosy sitting room hides playful supernatural company.",
+      "composition": "A carved fireplace is framed by pumpkins, acorns and dried flower garlands. Two small friendly ghosts in lace-edged sheets hover above a velvet settee while a skeletal cat curls on a patterned rug. A tea tray and stacked old books sit nearby.",
+      "subject": "Cosy Gothic parlour with a carved fireplace, pumpkins, acorns and dried-flower garlands; two small elegant ghosts with lace-edged sheet forms hovering above a velvet settee; skeletal cat curled on a patterned rug, antique tea tray and stacked old books.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Keep ghost forms tasteful and adult-gothic rather than childish. Do not depict flames as solid black; use outlined stylised fire shapes."
+    },
+    {
+      "page_id": "P010",
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "The Moonlit Terrace",
+      "scene": "Dancers take the night air beneath the autumn sky.",
+      "composition": "A skeletal couple in elaborate capes stands at a stone balustrade overlooking a formal garden. The taller figure wears a crescent mask; the other holds a small lantern. Beyond them, clipped hedges form labyrinthine shapes around a fountain, with a large moon behind wispy clouds.",
+      "subject": "Stone terrace overlooking a formal Gothic garden at night, elegant skeletal masked couple at a carved balustrade, one wearing a crescent-moon mask and one holding a small lantern; hedge maze, fountain, autumn trees, large moon and wispy clouds.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Use outlined moon and clouds only, with sparse hatching. Keep railing spaces sufficiently broad for comfortable colouring."
+    },
+    {
+      "page_id": "P011",
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "The Midnight Supper",
+      "scene": "The banquet is sumptuous, ornate and unsettlingly unattended.",
+      "composition": "A long banquet table is set with pumpkins, pomegranates, pears, decorative pies and ornate covered dishes. Empty high-backed chairs line either side, while a single skeletal butler presents a silver cloche at the head of the table. Candelabra and tapestries frame the dining hall.",
+      "subject": "Long Gothic banquet table dressed with pumpkins, pomegranates, pears, decorative pies and ornate covered dishes; empty high-backed chairs, one elegant skeletal butler presenting a silver cloche, candelabra, tapestries and carved dining hall architecture.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Avoid food details so small that they become muddy. Keep the feast recognisable and entirely non-gory."
+    },
+    {
+      "page_id": "P012",
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "The Clock Strikes Twelve",
+      "scene": "The manor's great clock signals a change in the evening.",
+      "composition": "An enormous ornate grandfather clock stands at the centre, its hands clearly set to 12:00. Skeleton guests pause around it in surprised poses; candle flames curl upwards and moths circle the clock's carved moon-and-bat crest.",
+      "subject": "Huge ornate Gothic grandfather clock centred in a manor hall, clock hands clearly showing 12:00; several elegant skeleton masqueraders pausing in theatrical surprise around it, candle sconces, swirling moths and a carved moon-and-bat crest.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Clock must unambiguously show twelve o'clock: both hands pointing straight up. Verify dial numerals are optional; if used, ensure they are correct and legible."
+    },
+    {
+      "page_id": "P013",
+      "page_number": 13,
+      "page_type": "colouring",
+      "title": "The Hidden Door",
+      "scene": "A rose-carved panel opens behind the ballroom drapery.",
+      "composition": "A skeletal guest pulls aside heavy curtains to reveal a narrow secret door hidden within wall panelling. The door is decorated with a large keyhole and rose carvings; a trail of fallen rose petals leads through it, and a candleholder illuminates the discovery.",
+      "subject": "Heavy Gothic ballroom curtains being drawn aside by an elegant skeletal masquerader, revealing a narrow secret door concealed in carved wall panelling; large decorative keyhole, rose carvings, trail of fallen rose petals and an ornate candleholder.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Make the secret door's outline obvious and the keyhole centrally readable. Keep curtain folds bold and colourable."
+    },
+    {
+      "page_id": "P014",
+      "page_number": 14,
+      "page_type": "colouring",
+      "title": "The Portrait Gallery",
+      "scene": "The previous hosts appear to join the festivities.",
+      "composition": "A richly ornamented gallery contains seven framed ancestor portraits. In each portrait, a different masked skeletal figure poses in period finery; one figure steps partly out of its frame while a living-looking candlelit reflection appears in a gilt mirror opposite.",
+      "subject": "Gothic portrait gallery containing exactly seven framed portraits of different masked skeleton ancestors in period finery; one skeletal portrait figure stepping partly out of its frame, gilt mirror with an eerie candlelit reflection, ornate wallpaper and small console tables.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Exactly seven portrait frames, each clearly countable. Keep the emerging figure non-gory and make the mirror reflection decorative rather than visually confusing."
+    },
+    {
+      "page_id": "P015",
+      "page_number": 15,
+      "page_type": "colouring",
+      "title": "The Conservatory Oracle",
+      "scene": "A floral spirit reveals a clue about the empty throne.",
+      "composition": "In a glass conservatory, a graceful skeletal oracle sits within a high-backed wicker chair formed from twisting vines. She holds a crystal ball containing a simple outline of a crown above an empty chair. Ferns, chrysanthemums, moths and hanging lanterns surround her.",
+      "subject": "Gothic glass conservatory with graceful skeletal oracle seated in a high-backed wicker chair made of twisting vines, holding a crystal ball that contains a simple crown above an empty chair symbol; ferns, chrysanthemums, moths and hanging lanterns.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "The crystal ball image should be limited to the simple crown-and-empty-chair symbol, with clear interior lines and no grey fill."
+    },
+    {
+      "page_id": "P016",
+      "page_number": 16,
+      "page_type": "colouring",
+      "title": "The Costume Wardrobe",
+      "scene": "A dressing room overflows with masquerade finery.",
+      "composition": "Open wardrobe doors reveal neatly hung capes, gowns and tailcoats. A full-length oval mirror reflects a skeleton trying on an antlered mask, while gloves, fans, boots and brooches are arranged on an upholstered stool and dressing table.",
+      "subject": "Grand open wardrobe filled with ornate capes, gowns and tailcoats; full-length oval mirror reflecting an elegant skeleton trying on an antlered masquerade mask; gloves, fans, boots and brooches arranged on an upholstered stool and Gothic dressing table.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Avoid tiny repeated garment buttons. The mirror reflection must be anatomically and pose-consistent with the main figure."
+    },
+    {
+      "page_id": "P017",
+      "page_number": 17,
+      "page_type": "colouring",
+      "title": "The Garden Labyrinth",
+      "scene": "The guests follow lanterns through an autumn hedge maze.",
+      "composition": "A high-view but still portrait-friendly scene shows a clearly navigable hedge maze with a continuous visible path from a lower entrance to a central fountain. Along the route, three masked skeleton guests carry lanterns; sculpted pumpkins, ravens and autumn trees decorate the maze edges.",
+      "subject": "Portrait-friendly high view of a formal Gothic hedge maze with one clearly visible continuous winding path from a lower entrance to a central fountain; exactly three elegant masked skeleton guests carrying lanterns along the route, sculpted pumpkins, ravens and autumn trees around the maze.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "This is scenic, not a maze activity; ensure the path is visually continuous and does not accidentally create impossible crossings. Exactly three guest figures."
+    },
+    {
+      "page_id": "P018",
+      "page_number": 18,
+      "page_type": "colouring",
+      "title": "The Raven Key",
+      "scene": "A raven delivers the key to the locked throne room.",
+      "composition": "A large raven in ornate feather patterns perches on a carved stone hand, holding a long antique key in its beak. Behind it, a circular rose window, trailing ivy and hanging bells create a dramatic vertical composition; small skeleton hands reach up from the lower edge.",
+      "subject": "Dramatic vertical composition of a large ornate raven perched on a carved stone hand, holding a long antique key in its beak; circular Gothic rose window behind, trailing ivy, hanging bells and a few elegant skeletal hands reaching upward from below.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Key must be fully visible, unbroken and clearly distinguishable from the raven. Keep feather detail patterned in grouped sections rather than micro-lines."
+    },
+    {
+      "page_id": "P019",
+      "page_number": 19,
+      "page_type": "colouring",
+      "title": "The Throne Room",
+      "scene": "The locked room reveals the centre of the manor's secret.",
+      "composition": "Tall doors stand open onto a circular throne room. The empty velvet throne is elevated on a small dais and surrounded by eight tall candles, two stone gargoyle statues and a mosaic floor featuring a skull-and-rose medallion. The jewelled skull mask rests on the throne seat.",
+      "subject": "Circular Gothic throne room revealed through tall open doors, empty velvet throne raised on a small dais with a jewelled skull mask resting on its seat; exactly eight tall candles around the dais, two stone gargoyle statues, skull-and-rose mosaic floor medallion and vaulted architecture.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Exactly eight freestanding candles and two gargoyles. Ensure the mask is prominent, centred and separated from upholstery patterns."
+    },
+    {
+      "page_id": "P020",
+      "page_number": 20,
+      "page_type": "colouring",
+      "title": "The Crown of Bones",
+      "scene": "The hidden regalia waits to choose the next host.",
+      "composition": "A ceremonial crown constructed from elegant carved bone-like motifs, roses and tiny gemstone settings sits on a velvet cushion. It is framed by a scalloped canopy, candles and long strands of beads, while four moths orbit the crown in a balanced arrangement.",
+      "subject": "Ceremonial Gothic crown made from elegant bone-like carved motifs, roses and tiny gemstone settings resting on a velvet cushion; scalloped canopy, candles, long bead strands and exactly four moths in balanced positions around the crown.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Exactly four moths. Keep the crown ornamental rather than grotesque, with clear individual sections for colouring."
+    },
+    {
+      "page_id": "P021",
+      "page_number": 21,
+      "page_type": "colouring",
+      "title": "The Unmasking",
+      "scene": "The host finally appears from behind the throne.",
+      "composition": "A tall skeletal host rises gracefully behind the velvet throne, holding the jewelled skull mask before their face. The other dancers form a respectful semicircle, bowing or curtsying beneath floating autumn leaves and high arched windows.",
+      "subject": "Tall regal skeletal host standing behind a velvet throne, holding a jewelled skull mask before their face; elegant skeleton dancers in a respectful semicircle bowing and curtsying, floating autumn leaves, tall arched windows and candlelit Gothic architecture.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Retain an elegant, non-threatening expression through pose. The host, throne and skull mask must remain the primary focal hierarchy."
+    },
+    {
+      "page_id": "P022",
+      "page_number": 22,
+      "page_type": "colouring",
+      "title": "The Skeleton Orchestra",
+      "scene": "Music swells as the ritual becomes a celebration.",
+      "composition": "Five skeleton musicians perform from a carved balcony: violin, cello, flute, harp and hand drum. Music notes are represented only as decorative floating swirls, not printed notation; bats, garlands and small lanterns decorate the balcony rail.",
+      "subject": "Carved Gothic balcony holding exactly five skeletal musicians: one violinist, one cellist, one flautist, one harpist and one hand-drum player; decorative floating music swirls, autumn garlands, small lanterns and a few bats.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Exactly five musicians and the specified five instruments, all clearly identifiable. Do not use dense real musical notation or readable lyrics."
+    },
+    {
+      "page_id": "P023",
+      "page_number": 23,
+      "page_type": "colouring",
+      "title": "The Final Procession",
+      "scene": "The masked guests move through the manor in a ceremonial line.",
+      "composition": "A winding procession of six masked skeleton guests moves through an arched manor hall, each carrying either a lantern, rose, fan or candle. The central host carries the crown on a cushion; autumn garlands and portrait medallions fill the walls.",
+      "subject": "Ceremonial procession of exactly six elegant masked skeleton guests winding through an arched Gothic manor hall; one central host carries a crown on a cushion, others carry lanterns, roses, fans or candles; autumn garlands and ancestor portrait medallions decorate the walls.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Exactly six procession figures. Ensure the crown-bearer is visually central, and do not overcrowd the hall with extra character silhouettes."
+    },
+    {
+      "page_id": "P024",
+      "page_number": 24,
+      "page_type": "colouring",
+      "title": "Dawn at Hollowbone Manor",
+      "scene": "The ball fades as the first light reaches the garden.",
+      "composition": "Viewed from the manor steps, skeleton guests in rumpled elegant costumes drift towards open gates at dawn. The ballroom windows glow with candle shapes, while pumpkins, bare trees, ravens and a carriage wait beyond the path. The empty throne is faintly visible through one tall window.",
+      "subject": "View from Gothic manor steps at dawn, elegant skeleton masqueraders in gently rumpled finery departing through open gates; glowing ballroom windows with candle shapes, pumpkins, bare trees, ravens, waiting horse-drawn carriage and a faint empty throne visible through one tall window.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "Dawn is conveyed with open linework only, never grey or coloured sky. Keep carriage details readable and avoid obscuring the departing guests."
+    },
+    {
+      "page_id": "P025",
+      "page_number": 25,
+      "page_type": "colouring",
+      "title": "The Manor Sleeps",
+      "scene": "A final exterior closes the story, with its secret safely inside.",
+      "composition": "A full portrait exterior of Hollowbone Manor sits beneath a crescent moon, with its gate closed and autumn vines climbing the façade. One upper window contains the small silhouette of the jewelled skull mask; the foreground features a stone urn of chrysanthemums, curled leaves and a sleeping skeletal cat.",
+      "subject": "Final portrait exterior of Hollowbone Manor beneath a crescent moon, closed wrought-iron gate, autumn vines climbing the Gothic façade, one upper window containing a small jewelled skull-mask silhouette; foreground stone urn of chrysanthemums, curled leaves and a sleeping skeletal cat.",
+      "required_text": [],
+      "complexity": "High adult-level detail concentrated in decorative surfaces and architectural ornament, balanced by generous open areas for comfortable colouring; no muddy micro-detail.",
+      "style_reference": "Approved style proofs (pages 2, 3, 25), creative direction v1",
+      "negative_constraints": [
+        "Any copied characters, logos, trademarks, titles or distinctive compositions from existing Halloween media",
+        "Photorealism or realistic horror gore",
+        "Grey shading, colour, gradients or large solid-black ink areas",
+        "Muddy micro-detail, tangled lines or unclear colouring spaces",
+        "Childish cartoon styling or overly cute expressions",
+        "Modern objects or incongruous contemporary visual language",
+        "Misspelled, distorted or illegible text"
+      ],
+      "production_notes": "End without printed text so the final page remains a full colouring design. Keep the skull-mask silhouette small but clearly recognisable; preserve ample white space in the sky and façade."
+    }
+  ]
+}

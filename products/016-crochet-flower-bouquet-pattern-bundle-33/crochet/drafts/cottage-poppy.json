@@ -1,0 +1,195 @@
+{
+  "pattern_id": "cottage-poppy",
+  "name": "Cottage Poppy",
+  "category": "flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 9 cm across, with an about 18 cm wired stem.",
+  "yarn": [
+    {
+      "description": "Mercerised cotton yarn, softly ruffled petal colour",
+      "colour": "Dusky coral red",
+      "amount": "About 12 g"
+    },
+    {
+      "description": "Mercerised cotton yarn, centre, calyx and stem colour",
+      "colour": "Sage green",
+      "amount": "About 8 g"
+    },
+    {
+      "description": "Cotton embroidery floss for seed-head spokes",
+      "colour": "Charcoal",
+      "amount": "About 1 m"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B/1"
+  },
+  "additional_materials": [
+    "20 cm length of 22-gauge floral wire",
+    "Small amount of polyester fibrefill",
+    "Tapestry needle",
+    "Scissors",
+    "Small pliers for bending wire"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr",
+    "sc2tog"
+  ],
+  "abbreviations": {
+    "BLO": "back loop only",
+    "ch": "chain",
+    "dc": "double crochet",
+    "hdc": "half double crochet",
+    "MR": "magic ring",
+    "rep": "repeat",
+    "rnd": "round",
+    "sc": "single crochet",
+    "sc2tog": "single crochet two stitches together",
+    "sk": "skip",
+    "sl st": "slip stitch",
+    "st": "stitch",
+    "sts": "stitches",
+    "tr": "treble crochet"
+  },
+  "gauge": "Gauge is not critical because this is a decorative wired flower. Keep your tension even so the petals retain their light, open shape.",
+  "instructions": [
+    {
+      "heading": "Petal (make 4)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With petal yarn, ch 2. Work 6 sc in the second ch from hook; turn.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, which does not count as a st. Work 2 sc in first st, sc in each of the next 4 sts, and 2 sc in last st; turn.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, which does not count as a st. Work 2 hdc in first st, hdc in each of the next 6 sts, and 2 hdc in last st; turn.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 2, which does not count as a st. Work 2 dc in first st, dc in each of the next 8 sts, and 2 dc in last st; turn.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 3, which does not count as a st. Work 2 tr in first st, tr in each of the next 10 sts, and 2 tr in last st; turn.",
+          "stitch_count": 14
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 1, which does not count as a st. Sc in first st, then rep the following 6 times: ch 3, sk next st, sc in next st. Ch 3, sk last st, and sl st in first sc to complete the final loop. Cut yarn, leaving a 15 cm sewing tail, and fasten off.",
+          "stitch_count": 7
+        }
+      ]
+    },
+    {
+      "heading": "Seed-Head Centre (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage yarn, make an MR, leaving a 25 cm starting tail for sewing. Work 6 sc in MR; pull closed.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Work 2 sc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Rep the following 6 times: sc in next st, 2 sc in next st.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Working in BLO, sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Sc in each st around.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Rep the following 6 times: sc in next st, sc2tog.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Work sc2tog 5 times. Stuff the centre firmly with fibrefill, then work sc2tog once more. Cut yarn and fasten off securely.",
+          "stitch_count": 6
+        }
+      ]
+    },
+    {
+      "heading": "Calyx (make 1)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With sage yarn, make an MR. Rep the following 5 times: sc in MR, ch 5, sl st in second ch from hook, sc in each of the next 3 ch. Sl st in first sc to join. Do not pull the MR fully closed; leave a small opening for the wire. Cut yarn, leaving a 20 cm sewing tail, and fasten off.",
+          "stitch_count": 5
+        }
+      ]
+    },
+    {
+      "heading": "Stem Cover (make 1)",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With sage yarn, ch 35. Sc in second ch from hook and in each remaining ch; turn.",
+          "stitch_count": 34
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 1, which does not count as a st. Sc in each st across; turn.",
+          "stitch_count": 34
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 1, which does not count as a st. Sc in each st across; turn.",
+          "stitch_count": 34
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 1, which does not count as a st. Sc in each st across. Cut yarn, leaving a 15 cm sewing tail, and fasten off.",
+          "stitch_count": 34
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Using charcoal embroidery floss, embroider 8 evenly spaced straight spokes on the closed Rnd 7 side of the seed-head centre. Bring each spoke from the centre of Rnd 7 out to the ridge made by Rnd 4.",
+    "Arrange the 4 petals face-up with their Row 1 edges meeting at the centre and the ruffled edges facing outward. Overlap each Row 1 edge with the next by 3 sts, then use petal tails to make 3 small sewing stitches through each of the 4 overlaps.",
+    "Place the MR side of the stuffed seed-head over the joined petal bases. Use the retained MR tail to sew the centre to the petals with 8 evenly spaced stitches around its lower edge.",
+    "Centre the calyx on the reverse side over the petal bases, with its 5 pointed sepals facing down the stem. Use the calyx tail to sew around its inner edge with 8 small stitches.",
+    "Use pliers to bend one end of the floral wire into a 1 cm loop. Pass the straight end through the calyx opening and lash the loop to the reverse of the flower through the calyx with 5 firm passes of sage yarn.",
+    "Lay the Stem Cover around the wire with its long edges together. Whip stitch the long edges closed with its tail, beginning directly below the calyx and continuing to the wire end."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off all sewing yarn securely on the reverse side after the flower, calyx and stem cover are attached.",
+    "Weave in all remaining yarn and embroidery-floss ends on the reverse side, taking care not to pull the petal bases out of shape.",
+    "Gently shape each petal by spreading the chain loops along its outer edge into soft ripples.",
+    "Bend the wired stem into a slight natural curve. Keep the wire end covered by the crocheted stem cover."
+  ],
+  "notes": [
+    "This pattern uses US crochet terminology.",
+    "For a more moonlit appearance, use muted berry petals with pale silver-green centre and stem yarn."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

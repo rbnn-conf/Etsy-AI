@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "profile_id": "004-cozy-spooky-halloween-colouring",
+  "describes": { "mode": "EXISTING_LISTING", "ref": "fixtures/listings/004-cozy-spooky-halloween-colouring.json" },
+  "source": "Words from the #004 listing heading, product type and description (products/004-cozy-spooky-coloring/listing/description.md). No audience is named in the listing, so audiences is empty. Motifs from the description are tangential.",
+  "seasonality": null,
+  "notes": "Seasonality was not supplied.",
+  "central_themes": ["halloween", "spooky"],
+  "formats": ["colouring book", "colouring pages"],
+  "components": [],
+  "audiences": [],
+  "attributes": ["cozy", "friendly", "storytelling", "connected", "printable", "digital", "download", "pdf", "png", "a4", "us letter"],
+  "tangential": ["ghost", "witch", "black cat", "autumn", "forest", "village", "cafés", "shops", "celebrations", "bedtime", "stories", "skeletons", "bats", "pumpkins", "haunted houses", "seasonal activities", "treats", "adventures", "journey", "night"]
+}

@@ -1,0 +1,199 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4589750200,
+      "actual": 4589750200
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4589750200,
+      "actual": 4589750200
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Adult Halloween Colouring Book | Moonlit Garden Pages, Instant Digital Download",
+      "actual": "Printable Adult Halloween Colouring Book | Moonlit Garden Pages, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1914 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 4.95",
+      "actual": "GBP 4.95"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 339,
+      "actual": 339
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF files",
+        "PNG pages",
+        "Printing guide",
+        "A4 format",
+        "US Letter format"
+      ],
+      "actual": [
+        "Digital PDF files",
+        "PNG pages",
+        "Printing guide",
+        "A4 format",
+        "US Letter format"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8680810295,
+        8680810537,
+        8632989158,
+        8680811019,
+        8632989740,
+        8680811573,
+        8632990108,
+        8680812045,
+        8680812319,
+        8632990754
+      ],
+      "actual": [
+        8680810295,
+        8680810537,
+        8632989158,
+        8680811019,
+        8632989740,
+        8680811573,
+        8632990108,
+        8680812045,
+        8680812319,
+        8632990754
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip (17160824 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip (17158339 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip (8618762 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip (10939487 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip (10559056 bytes)"
+      ],
+      "actual": [
+        "Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Pages-01-08.zip (17160824 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-US-Letter-Pages-01-08.zip (17158339 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-A4-and-US-Letter-Pages-09-10.zip (8618762 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-01-05.zip (10939487 bytes)",
+        "Moonlit-Potting-Shed-Adult-Halloween-Pages-PNG-Pages-06-10.zip (10559056 bytes)"
+      ]
+    },
+    {
+      "field": "property: Primary color",
+      "ok": true,
+      "expected": [
+        "Black"
+      ],
+      "actual": [
+        "Black"
+      ]
+    },
+    {
+      "field": "property: Secondary color",
+      "ok": true,
+      "expected": [
+        "White"
+      ],
+      "actual": [
+        "White"
+      ]
+    }
+  ],
+  "fingerprint": "4b0741a9b460f760d949a4a9db769f97f08f9254fdea9b2341a94a01fd8d7cf7",
+  "listing_id": 4589750200,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "af317232c6dd8ee86f58b4bfbd077bb6343293cb371aaea2b26d20d0d6f7aef2",
+  "remote_url": "https://www.etsy.com/listing/4589750200/printable-adult-halloween-colouring-book",
+  "at": "2026-10-06T19:11:56.749Z"
+}

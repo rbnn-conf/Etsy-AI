@@ -1,0 +1,152 @@
+{
+  "product_id": "022",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-10-07T18:16:28.187Z",
+  "finished_at": "2026-10-07T18:17:38.384Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Cozy but scary haloween colouring book for adults\".\nConcept \"The Lanternkeeper’s Haunted Lighthouse\": a colouring book for Adults who enjoy cosy gothic Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Haunted lighthouse\n- Scene: Rocky autumn coastline beneath rolling storm clouds\n- Focal object: Glowing storm lantern\n- Composition: Tall central lighthouse with layered coastal details\n- Lighting: Moonlit storm glow\n- Palette emphasis: Black ink linework with open white colouring space\n- Mood: Salt-air suspense and fireside comfort\n- Typography: Ornate hand-lettered cover title in a framed cartouche\n- Distinguishing hook: Ghostly beacon sweeping across a restless sea\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Enchanted bookshop / After-hours rambling shop of towering shelves / Open spellbook / Candlelit midnight interior\n- C: Skeleton masqueraders / Decaying manor ballroom draped in autumn garlands / Jeweled skull mask / Warm candlelight against deep window shadows\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T18:16:40.913Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "The Lanternkeeper’s Haunted Lighthouse",
+        "tagline": "Coastal chills for grown-up colourists",
+        "product_type": "Adult Halloween colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy cosy gothic Halloween colouring",
+        "page_count": 25,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "24 single-sided colouring pages",
+          "A4 print-ready PDF",
+          "US Letter print-ready PDF",
+          "Printing notes"
+        ],
+        "short_description": "A cosy-but-eerie adult Halloween colouring book set around an isolated lighthouse, where storm lanterns, sea-worn rooms and ghostly maritime details create atmospheric pages for quiet autumn evenings.",
+        "key_features": [
+          "24 detailed single-sided adult colouring pages",
+          "Cosy gothic maritime Halloween theme",
+          "Clean, printer-friendly black line art",
+          "A4 and US Letter PDF versions",
+          "Varied interiors, coastal views and decorative scenes"
+        ],
+        "visual_direction_summary": "Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.",
+        "visual_route": {
+          "primary_subject": "Haunted lighthouse",
+          "scene": "Rocky autumn coastline beneath rolling storm clouds",
+          "focal_object": "Glowing storm lantern",
+          "composition": "Tall central lighthouse with layered coastal details",
+          "lighting": "Moonlit storm glow",
+          "palette_emphasis": "Black ink linework with open white colouring space",
+          "emotional_tone": "Salt-air suspense and fireside comfort",
+          "typography_approach": "Ornate hand-lettered cover title in a framed cartouche",
+          "distinguishing_visual_hook": "Ghostly beacon sweeping across a restless sea"
+        },
+        "preview_brief": "Portrait cover preview of a weathered haunted lighthouse rising from a rocky coast, with a large storm lantern and curling waves framed by bats, rope and seaweed motifs. An ornate title cartouche sits above the beacon in crisp black line art, creating a cosy maritime chill."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Cozy but scary haloween colouring book for adults\".\nConcept \"The Witching Hour Bookshop\": a colouring book for Adults who enjoy bookish, cosy gothic Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Enchanted bookshop\n- Scene: After-hours rambling shop of towering shelves\n- Focal object: Open spellbook\n- Composition: Deep aisle perspective leading to a central reading table\n- Lighting: Candlelit midnight interior\n- Palette emphasis: Black ink linework with open white colouring space\n- Mood: Bookish warmth and creeping curiosity\n- Typography: Vintage bookplate title with flourished serif lettering\n- Distinguishing hook: Books fluttering from shelves around a sleeping cat\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Haunted lighthouse / Rocky autumn coastline beneath rolling storm clouds / Glowing storm lantern / Moonlit storm glow\n- C: Skeleton masqueraders / Decaying manor ballroom draped in autumn garlands / Jeweled skull mask / Warm candlelight against deep window shadows\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T18:17:14.642Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "The Witching Hour Bookshop",
+        "tagline": "Cosy shelves, cursed stories and candlelight",
+        "product_type": "Adult Halloween colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy bookish, cosy gothic Halloween colouring",
+        "page_count": 25,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "24 single-sided colouring pages",
+          "A4 print-ready PDF",
+          "US Letter print-ready PDF",
+          "Printing notes"
+        ],
+        "short_description": "An adult Halloween colouring book set in an after-hours bookshop, filled with bewitched books, secret staircases, reading nooks and quiet supernatural surprises.",
+        "key_features": [
+          "24 detailed single-sided adult colouring pages",
+          "Bookshop-centred cosy horror theme",
+          "Clean, printer-friendly black line art",
+          "A4 and US Letter PDF versions",
+          "Mix of full scenes, shelves and decorative bookish pages"
+        ],
+        "visual_direction_summary": "Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.",
+        "visual_route": {
+          "primary_subject": "Enchanted bookshop",
+          "scene": "After-hours rambling shop of towering shelves",
+          "focal_object": "Open spellbook",
+          "composition": "Deep aisle perspective leading to a central reading table",
+          "lighting": "Candlelit midnight interior",
+          "palette_emphasis": "Black ink linework with open white colouring space",
+          "emotional_tone": "Bookish warmth and creeping curiosity",
+          "typography_approach": "Vintage bookplate title with flourished serif lettering",
+          "distinguishing_visual_hook": "Books fluttering from shelves around a sleeping cat"
+        },
+        "preview_brief": "Portrait cover preview of a narrow, towering bookshop aisle leading to an open spellbook on a central table, surrounded by candles, crooked shelves and floating books. A vintage bookplate title crowns the scene in richly detailed black line art."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Cozy but scary haloween colouring book for adults\".\nConcept \"Hollowbone Manor Masquerade\": a colouring book for Adults who enjoy elegant spooky Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Skeleton masqueraders\n- Scene: Decaying manor ballroom draped in autumn garlands\n- Focal object: Jeweled skull mask\n- Composition: Symmetrical ballroom vista beneath a grand chandelier\n- Lighting: Warm candlelight against deep window shadows\n- Palette emphasis: Black ink linework with open white colouring space\n- Mood: Elegant revelry and unsettling mystery\n- Typography: Formal Victorian serif title beneath a chandelier crest\n- Distinguishing hook: Skeleton dancers circling an empty velvet throne\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Haunted lighthouse / Rocky autumn coastline beneath rolling storm clouds / Glowing storm lantern / Moonlit storm glow\n- B: Enchanted bookshop / After-hours rambling shop of towering shelves / Open spellbook / Candlelit midnight interior\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-10-07T18:17:35.401Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Hollowbone Manor Masquerade",
+        "tagline": "A candlelit costume ball with a dark secret",
+        "product_type": "Adult Halloween colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy elegant spooky Halloween colouring",
+        "page_count": 25,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated front cover",
+          "24 single-sided colouring pages",
+          "A4 print-ready PDF",
+          "US Letter print-ready PDF",
+          "Printing notes"
+        ],
+        "short_description": "A sophisticated adult Halloween colouring book following a candlelit masquerade inside a crumbling manor, where velvet finery, skeletal guests and shadowy ballroom rituals meet warm seasonal splendour.",
+        "key_features": [
+          "24 detailed single-sided adult colouring pages",
+          "Elegant haunted-manor masquerade theme",
+          "Clean, printer-friendly black line art",
+          "A4 and US Letter PDF versions",
+          "Decorative costumes, ballroom scenes and gothic interiors"
+        ],
+        "visual_direction_summary": "Detailed monochrome pen-and-ink colouring-book artwork with crisp confident outlines, fine crosshatching, ornamental textures and generous colourable areas. Gothic storybook atmosphere, balanced page hierarchy and ample breathing room; intricate enough for adults without muddy micro-detail. No greys, shading fills or colour.",
+        "visual_route": {
+          "primary_subject": "Skeleton masqueraders",
+          "scene": "Decaying manor ballroom draped in autumn garlands",
+          "focal_object": "Jeweled skull mask",
+          "composition": "Symmetrical ballroom vista beneath a grand chandelier",
+          "lighting": "Warm candlelight against deep window shadows",
+          "palette_emphasis": "Black ink linework with open white colouring space",
+          "emotional_tone": "Elegant revelry and unsettling mystery",
+          "typography_approach": "Formal Victorian serif title beneath a chandelier crest",
+          "distinguishing_visual_hook": "Skeleton dancers circling an empty velvet throne"
+        },
+        "preview_brief": "Portrait cover preview of a grand, slightly decayed ballroom with skeleton masqueraders dancing beneath an elaborate chandelier. A jeweled skull mask rests in the foreground while a formal Victorian title is framed by autumn garlands and candlelight details."
+      }
+    }
+  ]
+}

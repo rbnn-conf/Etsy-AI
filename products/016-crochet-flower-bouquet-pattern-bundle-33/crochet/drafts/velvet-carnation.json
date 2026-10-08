@@ -1,0 +1,129 @@
+{
+  "pattern_id": "velvet-carnation",
+  "name": "Velvet Carnation",
+  "category": "flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 7 centimetres across",
+  "yarn": [
+    {
+      "description": "Fine cotton yarn, bloom and centre colour",
+      "colour": "Dusty rose",
+      "amount": "About 8 grams"
+    },
+    {
+      "description": "Fine cotton yarn, calyx colour",
+      "colour": "Sage green",
+      "amount": "About 2 grams"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "rnd": "round",
+    "MR": "magic ring",
+    "sk": "skip"
+  },
+  "gauge": "Gauge is not critical because the ruffled strip is gathered into the bloom. Yarn tension affects the final flower diameter.",
+  "instructions": [
+    {
+      "heading": "Ruffled Petal Strip",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "Leave a 60 centimetre starting tail. Ch 61. Starting in the second ch from hook, sc in each ch across; turn.",
+          "stitch_count": 60
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 2, which does not count as a st. Work 2 hdc in each st across; turn.",
+          "stitch_count": 120
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 3, which does not count as a st. Work 2 dc in each st across; turn.",
+          "stitch_count": 240
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 1, which does not count as a st. [Sk next st, 5 tr in next st, sk next st, sc in next st] 60 times. Fasten off, leaving a 15 centimetre tail.",
+          "stitch_count": 360
+        }
+      ]
+    },
+    {
+      "heading": "Centre",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR. Ch 1, which does not count as a st, 6 sc in MR; sl st in first sc to join.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, which does not count as a st. Work 2 sc in each st around; sl st in first sc to join.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, which does not count as a st. [Sc in next st, 2 sc in next st] 6 times; sl st in first sc to join. Fasten off, leaving a 20 centimetre sewing tail.",
+          "stitch_count": 18
+        }
+      ]
+    },
+    {
+      "heading": "Calyx",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "Make an MR. Ch 1, which does not count as a st, 9 sc in MR; sl st in first sc to join.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Rnd 2",
+          "text": "[Ch 5, sl st in second ch from hook, sc in next 3 ch, sl st in next sc] 9 times. Fasten off, leaving a 20 centimetre sewing tail.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Using the long starting tail, roll the Row 1 foundation edge of the petal strip into a tight, flat spiral, with the treble crochet scallops facing upward. Make small whip stitches through the foundation edge after each turn to secure the spiral.",
+    "Sew the centre over the exposed inner coils on the upper side of the gathered petal strip, using its sewing tail.",
+    "Centre the calyx on the underside of the gathered strip with its pointed sepals facing outward. Sew the calyx central ring securely to the flower base using its sewing tail."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off each piece after its final row or round, retaining the specified sewing tails for assembly.",
+    "Weave in the petal-strip tail and all remaining yarn ends on the reverse side of the flower.",
+    "Gently spread and arrange the treble crochet scallops to create a full, softly frilled carnation bloom."
+  ],
+  "notes": [
+    "Keep the foundation edge tightly coiled during assembly; a compact centre gives the flower its gathered carnation shape.",
+    "For a deeper, moonlit effect, use a dusky wine, plum, or faded mauve bloom colour with the sage calyx."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

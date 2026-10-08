@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "product_id": "019",
+  "product_name": "Moonlit Potting Shed: Adult Halloween Colouring Book",
+  "product_type": "Adult Halloween colouring book",
+  "product_format": "colouring-book",
+  "season": "Halloween / autumn",
+  "target_customer": "Adults who enjoy gardening, autumn ambience and peaceful Halloween colouring",
+  "book": {
+    "page_count": 10,
+    "colouring_pages": 9,
+    "cover": true,
+    "orientation": "portrait",
+    "page_px": [
+      1024,
+      1536
+    ],
+    "non_colouring_pages": [
+      {
+        "page_number": 1,
+        "kind": "cover",
+        "title": "Moonlit Potting Shed"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "title": "Moonlit Potting Shed",
+      "role": "cover",
+      "page_type": "cover",
+      "asset": "P001",
+      "file": "book/pages/P001.png",
+      "sha256": "77e6c920adb31a7115eaac5db4fba4b203d07a6035958af1f248e093aca79768",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-01-Cover.png"
+    },
+    {
+      "page_number": 2,
+      "title": "The Lantern Bench",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P002",
+      "file": "book/pages/P002.png",
+      "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-02.png"
+    },
+    {
+      "page_number": 3,
+      "title": "Herbs by Moonlight",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P003",
+      "file": "book/pages/P003.png",
+      "sha256": "605b4e006e070ed64a880ac9c5706e7c35c69eade5ec6d46294286e636c9aa75",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-03.png"
+    },
+    {
+      "page_number": 4,
+      "title": "Pumpkin Patch Gate",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P004",
+      "file": "book/pages/P004.png",
+      "sha256": "4d2b990f088118b16eb34b6ab7db1e9f77feee2a4562c96df24ea8047d94f8e2",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-04.png"
+    },
+    {
+      "page_number": 5,
+      "title": "Seed Packet Cabinet",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P005",
+      "file": "book/pages/P005.png",
+      "sha256": "c69881c3c5c17de7cc2a6512faadb75ef9873f515f6d3983eff99ec8283226ad",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-05.png"
+    },
+    {
+      "page_number": 6,
+      "title": "Moonflower Trellis",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P006",
+      "file": "book/pages/P006.png",
+      "sha256": "74319833c5b433f546003d0a654781d641db6ae1b92530ee8479ab269796bb00",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-06.png"
+    },
+    {
+      "page_number": 7,
+      "title": "Harvest Tea in the Shed",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P007",
+      "file": "book/pages/P007.png",
+      "sha256": "f024579b9c5e6b9f603ff6c9b95dcfbffefcd3769a15915c1c8c23248e9ae631",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-07.png"
+    },
+    {
+      "page_number": 8,
+      "title": "The Friendly Scarecrow",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P008",
+      "file": "book/pages/P008.png",
+      "sha256": "84f73e8c5b3c1881c5647318fa3e5c3e5734f71cda6c65743a4572b367e1154c",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-08.png"
+    },
+    {
+      "page_number": 9,
+      "title": "Garden Ghost's Delivery",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P009",
+      "file": "book/pages/P009.png",
+      "sha256": "e0bf159a1af2beb160e2c047214790f9b0ccfabc8cc3377d26c5228d95cdee89",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-09.png"
+    },
+    {
+      "page_number": 10,
+      "title": "Full Moon Garden Finale",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P010",
+      "file": "book/pages/P010.png",
+      "sha256": "cebfbe3a9e7b57f3d1f0c02d47f64ee2ae7a9034a60b66fc6fda986a357d3ecd",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/Colouring-Pages-PNG/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-Page-10.png"
+    }
+  ],
+  "selection": {
+    "cover": 1,
+    "lead": 1,
+    "showcase": [
+      2,
+      6,
+      10
+    ],
+    "collage": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "example": 2,
+    "pages_used": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 2,
+      "pages": 10,
+      "page_size_mm": [
+        210,
+        297
+      ],
+      "artwork_size_mm": [
+        184.7,
+        277
+      ]
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 2,
+      "pages": 10,
+      "page_size_mm": [
+        215.9,
+        279.4
+      ],
+      "artwork_size_mm": [
+        172.9,
+        259.4
+      ]
+    },
+    {
+      "key": "Colouring-Pages-PNG",
+      "label": "PNG pages",
+      "files": 10,
+      "pages": 10
+    }
+  ],
+  "png_pages": true,
+  "png_page_files": 10,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book/START-HERE-Printing-Guide.pdf",
+    "sha256": "2ded6081d97add57ef6d7634cec7a9ba1c95288e7930e2af6d4a85e4e0201657"
+  },
+  "sheet_preview": {
+    "file": "production/previews/preview-01-LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08-p1.png",
+    "sha256": "7a76a7a4c87b2f092ea33405ea9f9ef3958e7a4dbd3b31705c2fcd1796190106",
+    "label": "Cover (A4)"
+  },
+  "line_art": true,
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book",
+    "parts": 5,
+    "zip_mb": 64.4
+  },
+  "effective_ppi": {
+    "A4": 141,
+    "US-Letter": 150
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+      "page": 1,
+      "sha256": "7a76a7a4c87b2f092ea33405ea9f9ef3958e7a4dbd3b31705c2fcd1796190106"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08-p2.png",
+      "label": "Page 2 of 10 (A4)",
+      "source": "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-1-Pages-01-08.pdf",
+      "page": 2,
+      "sha256": "6178262a0e60e0bcedcaa0e56b35f3d25aad91842836e880eebb2dbd48468930"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10-p2.png",
+      "label": "Page 10 of 10 (A4)",
+      "source": "A4/LumiumX-Moonlit-Potting-Shed-Adult-Halloween-Colouring-Book-A4-Part-2-Pages-09-10.pdf",
+      "page": 2,
+      "sha256": "b56f7a8786dad580c32dab1b74c0de950b4f23f3774d4200e1d50bc20d2fc37a"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "label": "Contact sheet: all 10 pages in order",
+      "source": null,
+      "page": null,
+      "sha256": "7204cad48f9690589d7209a939d84deaaac23a148b778d6547783c983c54c202"
+    }
+  ],
+  "page_quantity": {
+    "total_pages": 10,
+    "content_pages": 9,
+    "content": "colouring"
+  },
+  "style": {
+    "subject": "Potting bench",
+    "palette": "Monochrome artwork only; designs should suggest autumnal natural colour choices through recognisable tonal groupings rather than printed colour.",
+    "mood": "Peaceful, intimate, gently mysterious and warmly seasonal rather than frightening."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "915969bbf82a31b612e2b6effb7313f0bd4ea02014ae2b252394f56c6bd1f098"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "507362f67e509d39221b2a4d8d2a13a59761995e0be373e82e78ea845ae20089"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "0c5f8e5ff9e11899b8b31b1528dd8ca61eabc3b52f4dfc6c98f13ef5e6ff7135"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Potting bench",
+      "scene": "Moonlit walled kitchen garden",
+      "emotional_tone": "Fresh, peaceful and quietly enchanted",
+      "illustration_style": "Original adult colouring-book pen-and-ink illustration with a refined cosy-gothic domestic feel and botanical engraving influences.",
+      "mood": "Peaceful, intimate, gently mysterious and warmly seasonal rather than frightening.",
+      "detail": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring."
+    },
+    "pages": {
+      "2": {
+        "title": "The Lantern Bench",
+        "description": "A carved pumpkin lantern rests on a worn wooden potting bench, framed by three labelled herb jars, two small seed packets, a watering can, a trowel and a pair of gardening gloves. Above, an arched window shows a full moon, sparse clouds and curling vine silhouettes. Below the bench are three stacked terracotta pots and a basket of fallen leaves.",
+        "source": "approved page brief (page 2)"
+      },
+      "3": {
+        "title": "Herbs by Moonlight",
+        "description": "Six distinct bundles of garden herbs hang from an ornate iron rail: rosemary, sage, thyme, lavender, mint and chamomile. Each bundle is tied with a ribbon and has recognisable leaf or flower shapes. Behind them, an arched window frames the moon, a garden wall and climbing ivy. A narrow shelf below holds three simple ceramic jars and a small crescent-moon charm.",
+        "source": "approved page brief (page 3)"
+      },
+      "4": {
+        "title": "Pumpkin Patch Gate",
+        "description": "An open wrought-iron gate stands centrally in a brick-and-stone garden wall. A winding flagstone path leads through the gate to a moonlit pumpkin patch containing seven pumpkins of different sizes. Tall hollyhocks, ivy and curling squash vines frame the gate, while a small lantern hangs from the arch overhead. The full moon sits in open sky beyond.",
+        "source": "approved page brief (page 4)"
+      },
+      "5": {
+        "title": "Seed Packet Cabinet",
+        "description": "A shallow wooden cabinet with nine square compartments fills the page. The compartments contain: a pumpkin seed packet, a calendula seed packet, a sweet pea seed packet, a rosemary seed packet, a packet of mixed autumn leaves, a small ceramic bird, a spool of twine, a folded garden map and a tiny glass bottle holding acorns. Decorative vines curl lightly around the cabinet corners.",
+        "source": "approved page brief (page 5)"
+      },
+      "6": {
+        "title": "Moonflower Trellis",
+        "description": "A tall wooden trellis forms the main composition, covered in large open moonflower blooms, heart-shaped leaves and spiralling tendrils. A crescent-shaped hand rake and a small hand fork hang neatly from two hooks. At the base, two terracotta pots, a snail and a cluster of three mushrooms sit among fallen leaves. The upper background remains lightly open with a small moon peeking through leaves.",
+        "source": "approved page brief (page 6)"
+      },
+      "7": {
+        "title": "Harvest Tea in the Shed",
+        "description": "A round wooden table inside the potting shed holds a floral teapot, two mismatched cups, a plate with four biscuits, a small pumpkin, a sprig-filled vase and an open gardening journal. A checked cloth drapes over one edge. Behind the table, shelves hold jars and pots, while an arched window reveals a moon and garden silhouettes. A stool tucked under the table has a curled sleeping cat beneath it.",
+        "source": "approved page brief (page 7)"
+      },
+      "8": {
+        "title": "The Friendly Scarecrow",
+        "description": "A smiling scarecrow with a patched hat, buttoned coat and straw hands stands in the centre of a tidy kitchen garden. It holds a small lantern in one hand and a bunch of carrots in the other. Around its feet are five pumpkins, a wheelbarrow of leaves, a low picket fence and curling bean vines. A crescent moon and a few small stars appear in the open upper sky.",
+        "source": "approved page brief (page 8)"
+      },
+      "9": {
+        "title": "Garden Ghost's Delivery",
+        "description": "A small smiling ghost floats gently beside a potting-shed door, carrying a wicker basket filled with three seed packets and two tiny pumpkins. The ghost wears no costume details beyond a simple scalloped sheet outline. A black cat sits on the doorstep, and a lantern, broom, potted chrysanthemum and climbing ivy decorate the doorway. In the background, a moonlit garden wall and bare branches create",
+        "source": "approved page brief (page 9)"
+      },
+      "10": {
+        "title": "Full Moon Garden Finale",
+        "description": "A wide view of the enclosed kitchen garden under a large full moon. A central stone birdbath is surrounded by four pumpkin lanterns, mixed autumn flowers and curling squash vines. To the left stands the potting shed with its arched window; to the right, a wrought-iron bench sits beneath an apple tree with five hanging apples. Garden paths, brick walls, potted herbs and distant bats complete the pe",
+        "source": "approved page brief (page 10)"
+      }
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Moonlit Potting Shed: Adult Halloween Colouring Book"
+    ],
+    "page-count": [
+      "10 pages",
+      "10 printable pages",
+      "10-page",
+      "9 colouring pages",
+      "9 printable colouring pages",
+      "9 pages",
+      "9 designs",
+      "9 illustrations",
+      "9 colouring pages + cover",
+      "9 colouring pages and a cover",
+      "ten pages",
+      "nine colouring pages",
+      "10",
+      "9"
+    ],
+    "page-number": [
+      "Page 1 of 10",
+      "Page 2 of 10",
+      "Page 3 of 10",
+      "Page 4 of 10",
+      "Page 5 of 10",
+      "Page 6 of 10",
+      "Page 7 of 10",
+      "Page 8 of 10",
+      "Page 9 of 10",
+      "Page 10 of 10"
+    ],
+    "page-title": [
+      "Moonlit Potting Shed",
+      "The Lantern Bench",
+      "Herbs by Moonlight",
+      "Pumpkin Patch Gate",
+      "Seed Packet Cabinet",
+      "Moonflower Trellis",
+      "Harvest Tea in the Shed",
+      "The Friendly Scarecrow",
+      "Garden Ghost's Delivery",
+      "Full Moon Garden Finale"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "PNG pages",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "PDF",
+      "PNG pages",
+      "Every page as a PNG",
+      "PDF and PNG files",
+      "Individual PNG pages"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Colour",
+      "Print at home or use a print shop",
+      "One design per page",
+      "Print single-sided",
+      "Print as many copies as you need for personal use"
+    ],
+    "example": [
+      "Coloured example",
+      "Coloured example for inspiration",
+      "Colours shown are an example only"
+    ],
+    "cover": [
+      "Cover page",
+      "Cover included",
+      "Illustrated cover"
+    ],
+    "line-art": [
+      "Black-and-white line art",
+      "Black and white line art",
+      "Line art"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "milestone": 4,
+  "authority": "docs/archive/product-3/MIDNIGHT_SEANCE_SPEC.md",
+  "status": "implementation-open",
+  "treatments": ["full-colour", "economy"],
+  "carrierSizesMm": {"a4": [210, 297], "us-letter": [215.9, 279.4]},
+  "carrierMarginMm": 10,
+  "impositionGapMm": 4,
+  "reconciliation": {
+    "mobileInvitation": "S01 digital export; not an additional master",
+    "costumeVoting": "G13 belongs to Prompt 5",
+    "photoBoothSign": "Absent from the authoritative inventory; excluded",
+    "foodLabels": "S14 folded table tents"
+  },
+  "pages": [
+    {"id":"S01","name":"Main invitation","nativeMm":[127,177.8],"formats":["native","a4","us-letter"],"digital":true,"archetype":"formal"},
+    {"id":"S02","name":"Details and dress-code card","nativeMm":[101.6,152.4],"formats":["native","a4","us-letter"],"archetype":"formal"},
+    {"id":"S03","name":"Welcome sign","nativeMm":[203.2,254],"formats":["native","a4","us-letter"],"reflow":true,"archetype":"sign"},
+    {"id":"S04","name":"Apothecary drinks sign","nativeMm":[203.2,254],"formats":["native","a4","us-letter"],"reflow":true,"archetype":"sign"},
+    {"id":"S05","name":"Feast and food-table sign","nativeMm":[203.2,254],"formats":["native","a4","us-letter"],"reflow":true,"archetype":"sign"},
+    {"id":"S06","name":"Sweet temptations sign","nativeMm":[203.2,254],"formats":["native","a4","us-letter"],"reflow":true,"archetype":"sign"},
+    {"id":"S07","name":"Guestbook sign","nativeMm":[203.2,254],"formats":["native","a4","us-letter"],"reflow":true,"archetype":"sign"},
+    {"id":"S08","name":"Favors sign","nativeMm":[203.2,254],"formats":["native","a4","us-letter"],"reflow":true,"archetype":"sign"},
+    {"id":"S09","name":"Reserved table sign","nativeMm":[127,177.8],"formats":["native","a4","us-letter"],"archetype":"formal"},
+    {"id":"S10","name":"Enter after dark sign","nativeMm":[127,177.8],"formats":["native","a4","us-letter"],"archetype":"formal"},
+    {"id":"S11","name":"Dinner menu","nativeMm":[127,177.8],"formats":["native","a4","us-letter"],"archetype":"menu"},
+    {"id":"S12","name":"Drinks menu","nativeMm":[127,177.8],"formats":["native","a4","us-letter"],"archetype":"menu"},
+    {"id":"S13","name":"Flat place cards","nativeMm":[88.9,50.8],"formats":["native","a4","us-letter"],"multiUp":true,"archetype":"small"},
+    {"id":"S14","name":"Folded table tents","nativeMm":[88.9,101.6],"foldAtMm":50.8,"formats":["native","a4","us-letter"],"multiUp":true,"archetype":"small"},
+    {"id":"S15","name":"Potion labels","nativeMm":[76.2,50.8],"designCount":6,"formats":["native","a4","us-letter"],"multiUp":true,"archetype":"apothecary"},
+    {"id":"S16","name":"Favor tags","nativeMm":[50.8,88.9],"formats":["native","a4","us-letter"],"multiUp":true,"optionalHoleGuide":true,"archetype":"small"},
+    {"id":"S17","name":"Guestbook message sheet","formats":["a4","us-letter"],"reflow":true,"headerOnlyEditable":true,"archetype":"writing"},
+    {"id":"S18","name":"Thank-you card","nativeMm":[101.6,152.4],"formats":["native","a4","us-letter"],"archetype":"formal"}
+  ]
+}

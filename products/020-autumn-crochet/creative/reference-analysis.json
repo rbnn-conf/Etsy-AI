@@ -1,0 +1,74 @@
+{
+  "reference_summaries": [
+    {
+      "reference_file": "references/reference-01.jpg",
+      "summary": "Overhead lifestyle photograph of a grouped handmade crochet pumpkin collection, arranged in descending sizes on a pale cool-grey surface. Chunky, clearly visible stitch construction creates the primary visual texture. Pumpkins use rounded segmented lobes, short cinnamon-stick-like stems, and a warm seasonal accent cluster of dried orange leaves, twine, and cinnamon at upper left; a glossy pale-green leaf dish anchors the lower left. Colours combine muted taupe and cream with saturated teal, aqua, mustard, rust orange, and white."
+    },
+    {
+      "reference_file": "references/reference-02.jpg",
+      "summary": "Front-facing product photograph of a woven natural-fibre basket overflowing with crocheted flowers. The dense bouquet combines recognisable floral silhouettes—rolled roses, tulip-like blooms, bell forms, lavender spikes, daisies, and leafy stems—with prominent soft yarn stitch texture. It is staged against white embossed fabric with a pale textile surface below. A pink oval stitched-edge badge at upper left contains the word “Pattern,” and the basket includes a sewn label bearing the word “Flowers.” The palette is cheerful pastel lavender, pink, cream, yellow, and green, contrasted with the warm brown basket."
+    },
+    {
+      "reference_file": "references/reference-03.jpg",
+      "summary": "Styled seasonal product photograph in a square, front-facing composition: a person in black clothing holds a dramatic crochet bouquet wrapped in dark charcoal paper and tied with a translucent white bow. The bouquet uses high-contrast black, white, orange, yellow, and red yarn components, including floral forms, curling vines, white leaf stems, small ghost-like forms, and a grey animal figure. A warm brown-orange backdrop is framed with scattered autumn maple leaves. White promotional lettering and a small icon at left identify it as a PDF pattern, while large hand-lettered text at right reads “Spooky Bloom Bouquet.”"
+    }
+  ],
+  "illustration_category": "Handmade fibre-craft product photography, specifically tactile crochet/amigurumi-style botanical and seasonal décor rather than drawn illustration.",
+  "line_weight": "No drawn outlines; form definition comes from raised crochet ridges, stitch rows, yarn strands, and the edges of physical props.",
+  "line_smoothness": "Organic and tactile: repeated looped stitches create slightly irregular, soft, ribbed contours rather than clean vector-smooth edges.",
+  "level_of_detail": "High material detail at close range. Individual stitches, twisted yarn, woven basket fibres, fabric grain, dried leaves, and wrapping materials remain legible, while overall object shapes stay simple and readable.",
+  "shape_language": "Soft, plush, rounded, and handcrafted. Pumpkins are bulbous segmented circles; flowers simplify into layered petals, spiral rose coils, buds, tubular blossoms, and rounded leaves. Arrangements use abundant naturalistic overlap.",
+  "character_proportions": "Where present, the small animal and ghost motifs are stylised crochet figures with compact, simplified bodies and oversized rounded heads/features relative to their bodies.",
+  "facial_simplicity": "The animal face uses minimal high-contrast stitched or attached circular eyes and a tiny nose/muzzle suggestion; ghost figures use extremely reduced dark facial marks.",
+  "composition_density": "Medium to high. The first reference distributes many objects with breathing room; the second packs the bouquet densely above a stable basket base; the third concentrates the bouquet centrally against a relatively open warm backdrop.",
+  "whitespace": "Limited but intentional. Negative space is most evident at the right side of the first image and around the central figure/bouquet in the third; the floral basket image is fuller and more contained.",
+  "background_complexity": "Physical lifestyle-staging backdrops rather than illustrated scenes: pale plain tabletop, white textured textiles, or a warm matte orange-brown surface with sparse autumn leaves. Props reinforce the handmade, seasonal subject without becoming fully scenic.",
+  "typography": "Mixed promotional overlay typography where present: a pink stitched-look oval badge with white serif italic text in reference 02; white all-caps simple sans-serif utility text and large playful hand-lettered brush-style wording in reference 03. The lettering is placed in open peripheral areas, separate from the central product.",
+  "orientation_layout": "All three are near-square product-listing compositions. Reference 01 is an overhead flat-lay with a diagonal cascade of objects; reference 02 is a centred, straight-on hero arrangement; reference 03 is a centred waist-up holder-and-bouquet portrait with supporting text zones on both sides.",
+  "perspective": "Reference 01 uses directly overhead flat-lay perspective; reference 02 uses eye-level to slightly elevated frontal perspective; reference 03 uses a frontal standing portrait view. Shallow depth is used to retain focus on the crochet objects.",
+  "colour_behaviour": "Yarn colour is generally matte, saturated, and clearly blocked by individual objects, with nuanced darker shadows inside stitch grooves. Palettes pair seasonal warm tones with unexpected cool teal/aqua accents, or use pastel garden tones; the spooky bouquet shifts toward dramatic black-white-orange contrast.",
+  "palette_characteristics": "Seasonally evocative and craft-friendly: rust, burnt orange, mustard, cinnamon brown, taupe, cream, and autumn leaf red, balanced by turquoise, aqua, lavender, pink, white, green, and charcoal. Warm natural-fibre neutrals ground brighter yarn colours.",
+  "contrast": "Moderate in the pumpkin and flower-basket scenes, relying on colour separation and texture; high in the spooky bouquet, where black wrapping and clothing sharply frame white and orange crochet elements.",
+  "shading_approach": "Natural soft photographic lighting with gentle directional shadows. Three-dimensional definition is driven primarily by stitch relief, overlapping elements, and real-material shadow rather than graphic shading.",
+  "texture": "Extremely tactile and central to the style: visibly chunky crochet loops, ribbing, yarn fuzz, twisted strands, coiled petals, woven wicker, fabric weave, dried foliage, and translucent ribbon. Material authenticity matters more than smooth polish.",
+  "emotional_tone": "Cosy, handmade, abundant, and giftable, with autumnal warmth; the third reference adds playful gothic/spooky drama without becoming frightening.",
+  "apparent_audience": "Craft enthusiasts and shoppers interested in handmade seasonal décor or downloadable crochet patterns; the visual presentation is polished for an adult DIY/gifting market, while some motifs are broadly family-friendly.",
+  "printable_suitability": "Strong as visual inspiration for printable autumn-crochet products when translated into original artwork or a controlled photo-based layout. For home printing, avoid large edge-to-edge dark charcoal/black areas from the spooky styling because they consume substantial ink, preserve enough resolution for stitch texture, and keep small text/busy yarn detail at a legible scale. Light or white backgrounds and a contained warm accent palette will print more economically.",
+  "do_not_copy": [
+    {
+      "element": "The exact crochet pumpkin designs, their specific stitch construction, cinnamon-stick stems, colour assignments, and the diagonal flat-lay arrangement in reference 01.",
+      "reason": "These are distinctive product designs and a specific styled product photograph belonging to the source seller."
+    },
+    {
+      "element": "The exact dried-leaf, twine, cinnamon, and green leaf-dish prop styling from reference 01.",
+      "reason": "It forms a recognisable proprietary product-photo composition."
+    },
+    {
+      "element": "The exact woven basket, crochet flower designs, bouquet arrangement, and product staging in reference 02.",
+      "reason": "These are specific handmade designs and a distinctive source photograph."
+    },
+    {
+      "element": "The words “Pattern” and “Flowers,” including their badge, label, type treatment, and placement in reference 02.",
+      "reason": "Do not reproduce source text, lettering, or associated graphic layout."
+    },
+    {
+      "element": "The exact spooky bouquet, including its specific flower/ghost/animal motifs, black wrapping, white bow, and central held-bouquet composition in reference 03.",
+      "reason": "This is a highly distinctive seasonal product design and branded listing presentation."
+    },
+    {
+      "element": "The words “PDF PATTERN” and “Spooky Bloom Bouquet,” along with the small icon and all associated lettering styles/placements in reference 03.",
+      "reason": "Do not reproduce source text, promotional copy, lettering, or brand-like graphic assets."
+    },
+    {
+      "element": "The person’s pose, black outfit, and the autumn-leaf-framed brown backdrop from reference 03 as a combined setup.",
+      "reason": "This combined styling is a distinctive source composition and should not be imitated directly."
+    }
+  ],
+  "analysed_at": "2026-10-06T19:17:19.470Z",
+  "model": "gpt-5.6-terra",
+  "reference_files": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ]
+}

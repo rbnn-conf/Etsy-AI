@@ -1,0 +1,32 @@
+{
+  "illustration_style": "Original adult colouring-book pen-and-ink illustration with a refined cosy-gothic domestic feel and botanical engraving influences.",
+  "line_weight": "Clean confident outer contours with fine-to-medium interior lines and occasional heavier focal accents.",
+  "line_quality": "Crisp, deliberate, hand-inked linework with gently organic curves, controlled hatching and tidy decorative embellishment.",
+  "detail_level": "High but colourable detail: intricate surface patterns and small decorative accents balanced by broad open areas for relaxed colouring.",
+  "character_language": "not applicable",
+  "background_density": "Layered, moderately dense backgrounds that frame the focal area without filling every space; use calm open pockets throughout.",
+  "composition": "Clear focal hierarchy with a strong central feature, gently framing secondary details and an even rhythm of intricate and open colourable areas; preserve an uncluttered title area where needed.",
+  "palette": "Monochrome artwork only; designs should suggest autumnal natural colour choices through recognisable tonal groupings rather than printed colour.",
+  "colour_mode": "black-and-white line art",
+  "shading": "No solid black fills, grey tones or digital gradients. Build depth selectively with sparse crosshatching, stippling and parallel contour marks, always leaving ample room to colour.",
+  "texture": "Fine pen texture with botanical-vein, aged-wood, ceramic, paper-label and wrought-detail patterning interpreted through open, printable marks.",
+  "mood": "Peaceful, intimate, gently mysterious and warmly seasonal rather than frightening.",
+  "age_suitability": "adults",
+  "print_considerations": "Use pure black linework on a clean white ground, with strong print-safe contrast and no pale grey detail. Keep key forms away from trim edges, avoid dense ink coverage, and ensure all fine patterns remain legible on home A4 and US Letter printers.",
+  "shared_prompt": "Original adult colouring-book pen-and-ink artwork in a refined cosy-gothic botanical style; crisp confident black outlines, organic hand-inked curves, varied line weight and delicate controlled crosshatching. High-detail yet highly colourable forms, balancing intricate engraved textures with generous open spaces; pure black on white, no grey shading, fills or gradients. Calm, intimate, quietly enchanted autumnal mood, clean home-printable line art.",
+  "avoid": [
+    "Any copied or recognisable existing colouring-book composition, artist style, character, logo or branded motif",
+    "Photorealism, painterly rendering, colour fills, grey washes or digital gradients",
+    "Solid black areas that waste home-printer ink or obscure colourable detail",
+    "Overcrowded pages with no resting space for colouring",
+    "Tiny muddy marks, accidental tangencies or inconsistent line weights",
+    "Gory, frightening or violent horror imagery",
+    "Misspelled, malformed or AI-generated-looking text"
+  ],
+  "version": 1,
+  "scope": "shared-style",
+  "source": "concept",
+  "based_on_references": [],
+  "feedback_applied": null,
+  "created_at": "2026-10-06T14:46:08.163Z"
+}

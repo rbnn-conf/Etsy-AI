@@ -1,0 +1,386 @@
+{
+  "schema_version": 2,
+  "source_deliverables_dir": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set",
+  "source_fingerprint": "06e595e932919b774a91979186d3ae723c9b1ef0d3d1dcc711409b195381bb49",
+  "build_record_sha256": "ad32db8b5a17a8db9a907a948945135887eb290eef00bc760e1e9a1453a63851",
+  "note": "PRODUCT vs DELIVERY FILE: one approved product (one Etsy listing) delivered as these ZIP files; together they hold every approved customer file exactly once.",
+  "strategy": "grouped",
+  "plan_sha256": "61094f87b205a08068ada1d59a8d370233a38c286c9234802a0427b36b2aff5d",
+  "limits": {
+    "files_max": 5,
+    "file_bytes_max": 20000000,
+    "safe_bytes": 19000000
+  },
+  "packages": [
+    {
+      "rank": 1,
+      "name": "Falling-Leaves-Crochet-Table-Set-A4.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-A4.zip",
+      "sha256": "674eccc7c1bcf9488383fa7c66095bc7f526cb47f4186cb45251054f92139908",
+      "bytes": 9939445,
+      "size": "9.94 MB",
+      "purpose": "5 files (guide, pdf)",
+      "label": "A4",
+      "contents": [
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/START-HERE-Printing-and-Crochet-Guide.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/START-HERE-Printing-and-Crochet-Guide.pdf",
+          "sha256": "2a9bbaf86e97277525247427c78692bfed4be7b8670b4fb68ac953a61b7686be",
+          "bytes": 29519
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+          "sha256": "d82857b1cf75ee574a4bc25faeea717b70be4ad29671874dddc1fff8c09326ba",
+          "bytes": 9820430
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+          "sha256": "96030248dedd8df73995576ec0402876ca0b6fb7f18f7dbb84f8fa5a9c839270",
+          "bytes": 31210
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+          "sha256": "0a470caa270d2eb23ecbfa1d3be2a45e286c9f4f75f0e53eab3444dbb816e0a7",
+          "bytes": 31055
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-A4.pdf",
+          "sha256": "8e340ea74b4ce2a2c307a69096e842491046d77d2c248165845ac49af0018d6b",
+          "bytes": 29973
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip",
+      "sha256": "4bff41a936e9e2db9936f0c229f3dd9de64fbb97ba01ab4746fbfb14550ce265",
+      "bytes": 3335233,
+      "size": "3.34 MB",
+      "purpose": "6 files (pdf)",
+      "label": "A4-Individual-Patterns",
+      "contents": [
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+          "sha256": "74650d24b26a1a6c7fc5a01f238d03c6ffa0ea8edfc2540369bdfb07ef9bd929",
+          "bytes": 3116185
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/02-Oak-Leaf-Applique-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/02-Oak-Leaf-Applique-A4.pdf",
+          "sha256": "af8bba98fef006dc0702b38bd16e76133ffe464069ff45e4fe22f9fd9a3bff5d",
+          "bytes": 38871
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/03-Beech-Leaf-Coaster-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/03-Beech-Leaf-Coaster-A4.pdf",
+          "sha256": "5b677eaee4b68809e973abea399a2abb4fe1f0d8d60bae8fe2f3a27acf18495f",
+          "bytes": 37084
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/04-Acorn-Napkin-Ring-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/04-Acorn-Napkin-Ring-A4.pdf",
+          "sha256": "bc8caadac9b96ebe8a3aea956b46612c6a59e5819700adfe2c8ca3d4058f4c57",
+          "bytes": 47943
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/05-Falling-Leaves-Table-Runner-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/05-Falling-Leaves-Table-Runner-A4.pdf",
+          "sha256": "507d523d484223b7b1703145be95b1c64a111da6f29b719569b2b38626b6037e",
+          "bytes": 53412
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/06-Chestnut-Cutlery-Pocket-A4.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/06-Chestnut-Cutlery-Pocket-A4.pdf",
+          "sha256": "9aff71097ce5e6cca1b2aeeb053dfc5d4d9c5587a724e5807450a3315a157246",
+          "bytes": 45151
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Falling-Leaves-Crochet-Table-Set-US-Letter.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-US-Letter.zip",
+      "sha256": "84c116256d88bb69e7c3d77bbe509f6df6baaddf957c8a6fd7a313aa124ca5c4",
+      "bytes": 9912627,
+      "size": "9.91 MB",
+      "purpose": "4 files (pdf)",
+      "label": "US-Letter",
+      "contents": [
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-US-Letter.pdf",
+          "sha256": "35326815dee303b52d95fe308320f533fea3eec443e3f11bb20df72ce577e4fa",
+          "bytes": 9822403
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-US-Letter.pdf",
+          "sha256": "24bc11d5928f4c923c0dfe2df52a3ba59f446d7f76f24fd647408049773d2d74",
+          "bytes": 31191
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-US-Letter.pdf",
+          "sha256": "85e0fb8539df36853b7cde219f487780ae2df3256779a6e428eb68b89e4644c0",
+          "bytes": 31042
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-US-Letter.pdf",
+          "sha256": "e8920295a92abdbd91e2c6f4d6c624bf816845efedc60441dfd7cffadb1608f2",
+          "bytes": 29945
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip",
+      "file": "etsy/delivery/Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip",
+      "sha256": "0162413c03a7cef75185f1e90a3a346536cf8c736f00c03ebe3cf668d2a9d148",
+      "bytes": 3337413,
+      "size": "3.34 MB",
+      "purpose": "6 files (pdf)",
+      "label": "US-Letter-Individual-Patterns",
+      "contents": [
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/01-Maple-Leaf-Placemat-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/01-Maple-Leaf-Placemat-US-Letter.pdf",
+          "sha256": "29e5c85a19e95a49537e014c4f19b683473ae7146eba7499140004c34fd2ad24",
+          "bytes": 3116241
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/02-Oak-Leaf-Applique-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/02-Oak-Leaf-Applique-US-Letter.pdf",
+          "sha256": "8c18197ee693eefff216b6bc868d3f88fc453927cf322eb4ad3a18dd710349b1",
+          "bytes": 38841
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/03-Beech-Leaf-Coaster-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/03-Beech-Leaf-Coaster-US-Letter.pdf",
+          "sha256": "a3959587a01693f598617b393552530c667f1214b76f0fcd8e24ebcdcd35957c",
+          "bytes": 37038
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/04-Acorn-Napkin-Ring-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/04-Acorn-Napkin-Ring-US-Letter.pdf",
+          "sha256": "754d5f887024dac3b9f635cc3049e8c70042e366a93b6323b56d08fe54c78f6d",
+          "bytes": 48139
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/05-Falling-Leaves-Table-Runner-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/05-Falling-Leaves-Table-Runner-US-Letter.pdf",
+          "sha256": "cc23f340488196afc980fb816fe279c3c9a46d5677d8ad96a32e38f362b7e64a",
+          "bytes": 55427
+        },
+        {
+          "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/06-Chestnut-Cutlery-Pocket-US-Letter.pdf",
+          "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/06-Chestnut-Cutlery-Pocket-US-Letter.pdf",
+          "sha256": "36343f7957383ae61db4f664095231e8bcf54c1eef0edfd1d20c329874d4e834",
+          "bytes": 45093
+        }
+      ]
+    }
+  ],
+  "zip": null,
+  "entries": [
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/START-HERE-Printing-and-Crochet-Guide.pdf",
+      "sha256": "2a9bbaf86e97277525247427c78692bfed4be7b8670b4fb68ac953a61b7686be",
+      "bytes": 29519
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-A4.pdf",
+      "sha256": "d82857b1cf75ee574a4bc25faeea717b70be4ad29671874dddc1fff8c09326ba",
+      "bytes": 9820430
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-A4.pdf",
+      "sha256": "96030248dedd8df73995576ec0402876ca0b6fb7f18f7dbb84f8fa5a9c839270",
+      "bytes": 31210
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-A4.pdf",
+      "sha256": "0a470caa270d2eb23ecbfa1d3be2a45e286c9f4f75f0e53eab3444dbb816e0a7",
+      "bytes": 31055
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-A4.pdf",
+      "sha256": "8e340ea74b4ce2a2c307a69096e842491046d77d2c248165845ac49af0018d6b",
+      "bytes": 29973
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/01-Maple-Leaf-Placemat-A4.pdf",
+      "sha256": "74650d24b26a1a6c7fc5a01f238d03c6ffa0ea8edfc2540369bdfb07ef9bd929",
+      "bytes": 3116185
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/02-Oak-Leaf-Applique-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/02-Oak-Leaf-Applique-A4.pdf",
+      "sha256": "af8bba98fef006dc0702b38bd16e76133ffe464069ff45e4fe22f9fd9a3bff5d",
+      "bytes": 38871
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/03-Beech-Leaf-Coaster-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/03-Beech-Leaf-Coaster-A4.pdf",
+      "sha256": "5b677eaee4b68809e973abea399a2abb4fe1f0d8d60bae8fe2f3a27acf18495f",
+      "bytes": 37084
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/04-Acorn-Napkin-Ring-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/04-Acorn-Napkin-Ring-A4.pdf",
+      "sha256": "bc8caadac9b96ebe8a3aea956b46612c6a59e5819700adfe2c8ca3d4058f4c57",
+      "bytes": 47943
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/05-Falling-Leaves-Table-Runner-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/05-Falling-Leaves-Table-Runner-A4.pdf",
+      "sha256": "507d523d484223b7b1703145be95b1c64a111da6f29b719569b2b38626b6037e",
+      "bytes": 53412
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/06-Chestnut-Cutlery-Pocket-A4.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/A4-Individual-Patterns/06-Chestnut-Cutlery-Pocket-A4.pdf",
+      "sha256": "9aff71097ce5e6cca1b2aeeb053dfc5d4d9c5587a724e5807450a3315a157246",
+      "bytes": 45151
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Complete-Bundle-US-Letter.pdf",
+      "sha256": "35326815dee303b52d95fe308320f533fea3eec443e3f11bb20df72ce577e4fa",
+      "bytes": 9822403
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Pattern-Index-US-Letter.pdf",
+      "sha256": "24bc11d5928f4c923c0dfe2df52a3ba59f446d7f76f24fd647408049773d2d74",
+      "bytes": 31191
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Materials-and-Tools-US-Letter.pdf",
+      "sha256": "85e0fb8539df36853b7cde219f487780ae2df3256779a6e428eb68b89e4644c0",
+      "bytes": 31042
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter/LumiumX-Falling-Leaves-Crochet-Table-Set-Abbreviations-US-Letter.pdf",
+      "sha256": "e8920295a92abdbd91e2c6f4d6c624bf816845efedc60441dfd7cffadb1608f2",
+      "bytes": 29945
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/01-Maple-Leaf-Placemat-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/01-Maple-Leaf-Placemat-US-Letter.pdf",
+      "sha256": "29e5c85a19e95a49537e014c4f19b683473ae7146eba7499140004c34fd2ad24",
+      "bytes": 3116241
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/02-Oak-Leaf-Applique-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/02-Oak-Leaf-Applique-US-Letter.pdf",
+      "sha256": "8c18197ee693eefff216b6bc868d3f88fc453927cf322eb4ad3a18dd710349b1",
+      "bytes": 38841
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/03-Beech-Leaf-Coaster-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/03-Beech-Leaf-Coaster-US-Letter.pdf",
+      "sha256": "a3959587a01693f598617b393552530c667f1214b76f0fcd8e24ebcdcd35957c",
+      "bytes": 37038
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/04-Acorn-Napkin-Ring-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/04-Acorn-Napkin-Ring-US-Letter.pdf",
+      "sha256": "754d5f887024dac3b9f635cc3049e8c70042e366a93b6323b56d08fe54c78f6d",
+      "bytes": 48139
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/05-Falling-Leaves-Table-Runner-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/05-Falling-Leaves-Table-Runner-US-Letter.pdf",
+      "sha256": "cc23f340488196afc980fb816fe279c3c9a46d5677d8ad96a32e38f362b7e64a",
+      "bytes": 55427
+    },
+    {
+      "entry": "LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/06-Chestnut-Cutlery-Pocket-US-Letter.pdf",
+      "source": "production/deliverables/LumiumX-Falling-Leaves-Crochet-Table-Set/US-Letter-Individual-Patterns/06-Chestnut-Cutlery-Pocket-US-Letter.pdf",
+      "sha256": "36343f7957383ae61db4f664095231e8bcf54c1eef0edfd1d20c329874d4e834",
+      "bytes": 45093
+    }
+  ],
+  "excluded_extras": [],
+  "verification": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "every delivery ZIP opens",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file present",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "every approved customer file exactly once",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "no extra or internal files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "entry bytes identical to approved sources (SHA-256)",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "each ZIP holds exactly its planned files",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "single top-level customer folder",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "same entries as the approved Stage 2 package",
+        "ok": true,
+        "detail": ""
+      },
+      {
+        "name": "within Etsy's 20 MB file limit",
+        "ok": true,
+        "detail": "Falling-Leaves-Crochet-Table-Set-A4.zip 9939445 bytes, Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip 3335233 bytes, Falling-Leaves-Crochet-Table-Set-US-Letter.zip 9912627 bytes, Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip 3337413 bytes"
+      },
+      {
+        "name": "within the 19.00 MB delivery headroom",
+        "ok": true,
+        "detail": "Falling-Leaves-Crochet-Table-Set-A4.zip 9.94 MB, Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip 3.34 MB, Falling-Leaves-Crochet-Table-Set-US-Letter.zip 9.91 MB, Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip 3.34 MB"
+      },
+      {
+        "name": "at most 5 digital files per listing",
+        "ok": true,
+        "detail": "4 files"
+      },
+      {
+        "name": "delivery file names unique and valid",
+        "ok": true,
+        "detail": "Falling-Leaves-Crochet-Table-Set-A4.zip, Falling-Leaves-Crochet-Table-Set-A4-Individual-Patterns.zip, Falling-Leaves-Crochet-Table-Set-US-Letter.zip, Falling-Leaves-Crochet-Table-Set-US-Letter-Individual-Patterns.zip"
+      }
+    ]
+  },
+  "built_at": "2026-10-06T21:51:27.016Z"
+}

@@ -1,0 +1,1391 @@
+{
+  "schema_version": 2,
+  "product_id": "014",
+  "handoff_sha256": "6a1f552dd4eea178f4d15474ba183dc0b0758d9ca8184e768dcc491159461f6f",
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "image_encoding": {
+    "pdf": "lossless",
+    "pages_png": true
+  },
+  "package": "LumiumX-Harvest-Market-Autumn-Colouring-Pages",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "Colouring-Pages-PNG",
+    "Guide"
+  ],
+  "card_variants": null,
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+      "page": 2,
+      "label": "Page 2 of 12 (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf",
+      "page": 2,
+      "label": "Page 12 of 12 (A4)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "84aeedb02725fcb6216eb550203f0e5f1192d54a70584ddeb799fd2f4120617c",
+      "bytes": 2345,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "6c539ce0824270e027d002acca284e0f086722f9ecb9b0e3a69104678fcaf2b5",
+      "bytes": 16870844,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "a9b27e027d4b3961f23d5f05f0ae65b55f2efb73614fe8db3943641ac5bc798b"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "71904616e56513b94c3149bd31eb3c98b0783cac3614d6b1abf5e6092b0a6e4f"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "2a8234550fc2bf564fc0cb70729f83cf4df9eae32f8c9f39933b7c55ea98f93c"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "c38b625e27c502a46b3e08db7c7ed7f2cb3c865a9f8dc50921ff14d513025980"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "59f390f660fb31c738f8c0795220780dd1e7e556e134951c9bc1c1979b28947c"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "9b33ae03085de4d2d2df8a75cac74a752e3e80fc4fbbeb9ff733d77098f8bf0d"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "af20f2d7b76cb95eb60c2eb90afb2ef48e81ad8d1d502e0e69ddbe294a503017"
+        }
+      ],
+      "expect": {
+        "pages": 10,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "volume": 2,
+      "sha256": "699bda7ca084c7458060ba8ccc4c8a9deee878f5495acfd8cd2f083952e74791",
+      "bytes": 3209763,
+      "sources": [
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "a5b3190fe3226b1c7f02e54916002854610b4904351015f637edb0838e878c80"
+        },
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 11",
+          "role": "page",
+          "page_number": 11,
+          "asset": "P011",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        },
+        {
+          "where": "book page 12",
+          "role": "page",
+          "page_number": 12,
+          "asset": "P012",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "box_mm": [
+            184.67,
+            277
+          ],
+          "placed_mm": [
+            184.67,
+            277
+          ],
+          "offset_mm": [
+            12.67,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 141
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-1-Pages-01-10.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 1,
+      "sha256": "bf87a4ee4039a33354c5f81dd3e004b115e1ea018603d6f8d99f3f354e75b725",
+      "bytes": 16870875,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233"
+        },
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08"
+        },
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "a9b27e027d4b3961f23d5f05f0ae65b55f2efb73614fe8db3943641ac5bc798b"
+        },
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "71904616e56513b94c3149bd31eb3c98b0783cac3614d6b1abf5e6092b0a6e4f"
+        },
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "2a8234550fc2bf564fc0cb70729f83cf4df9eae32f8c9f39933b7c55ea98f93c"
+        },
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "c38b625e27c502a46b3e08db7c7ed7f2cb3c865a9f8dc50921ff14d513025980"
+        },
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1"
+        },
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "59f390f660fb31c738f8c0795220780dd1e7e556e134951c9bc1c1979b28947c"
+        },
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "9b33ae03085de4d2d2df8a75cac74a752e3e80fc4fbbeb9ff733d77098f8bf0d"
+        },
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "af20f2d7b76cb95eb60c2eb90afb2ef48e81ad8d1d502e0e69ddbe294a503017"
+        }
+      ],
+      "expect": {
+        "pages": 10,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 1",
+          "role": "cover",
+          "page_number": 1,
+          "asset": "P001",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 2",
+          "role": "page",
+          "page_number": 2,
+          "asset": "P002",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 3",
+          "role": "page",
+          "page_number": 3,
+          "asset": "P003",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 4",
+          "role": "page",
+          "page_number": 4,
+          "asset": "P004",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 5",
+          "role": "page",
+          "page_number": 5,
+          "asset": "P005",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 6",
+          "role": "page",
+          "page_number": 6,
+          "asset": "P006",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 7",
+          "role": "page",
+          "page_number": 7,
+          "asset": "P007",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 8",
+          "role": "page",
+          "page_number": 8,
+          "asset": "P008",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 9",
+          "role": "page",
+          "page_number": 9,
+          "asset": "P009",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 10",
+          "role": "page",
+          "page_number": 10,
+          "asset": "P010",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-2-Pages-11-12.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "volume": 2,
+      "sha256": "d35867fb8d23b1a7a5b7ee591c77ec0ed9b274feacab338169fd0035875ab2bc",
+      "bytes": 3209763,
+      "sources": [
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "a5b3190fe3226b1c7f02e54916002854610b4904351015f637edb0838e878c80"
+        },
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait"
+      },
+      "placements": [
+        {
+          "where": "book page 11",
+          "role": "page",
+          "page_number": 11,
+          "asset": "P011",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        },
+        {
+          "where": "book page 12",
+          "role": "page",
+          "page_number": 12,
+          "asset": "P012",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "box_mm": [
+            172.93,
+            259.4
+          ],
+          "placed_mm": [
+            172.93,
+            259.4
+          ],
+          "offset_mm": [
+            21.48,
+            10
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 150
+        }
+      ]
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 1,
+      "sha256": "35bb97468f10008a509ae2309611bdbd722549031cfb8ccfc08baedf969694d8",
+      "bytes": 1797302,
+      "sources": [
+        {
+          "asset": "P001",
+          "file": "book/pages/P001.png",
+          "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P001"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 2,
+      "sha256": "f68e78028424ba671cf8af671109ba4fad5896753b58818e5a72690c45b68ca5",
+      "bytes": 1684759,
+      "sources": [
+        {
+          "asset": "P002",
+          "file": "book/pages/P002.png",
+          "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P002"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 3,
+      "sha256": "cef56ebe32590deb17d1c66c5be43d7c389e462dfc2637ffb903606d4479d7a3",
+      "bytes": 1500914,
+      "sources": [
+        {
+          "asset": "P003",
+          "file": "book/pages/P003.png",
+          "sha256": "a9b27e027d4b3961f23d5f05f0ae65b55f2efb73614fe8db3943641ac5bc798b"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P003"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 4,
+      "sha256": "b335734edd7740928a841038bcea331e015888808fe6b5ab4c9eb495821c000d",
+      "bytes": 1753033,
+      "sources": [
+        {
+          "asset": "P004",
+          "file": "book/pages/P004.png",
+          "sha256": "71904616e56513b94c3149bd31eb3c98b0783cac3614d6b1abf5e6092b0a6e4f"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P004"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 5,
+      "sha256": "52a9136d7da43b5aa05f37ffd1a59cc746aa597ab225871a661489ffaa283db5",
+      "bytes": 1904850,
+      "sources": [
+        {
+          "asset": "P005",
+          "file": "book/pages/P005.png",
+          "sha256": "2a8234550fc2bf564fc0cb70729f83cf4df9eae32f8c9f39933b7c55ea98f93c"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P005"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 6,
+      "sha256": "7a49ee9fb4d7fa36df9592c6b18181a9533116611bffbada459693b37f1828d6",
+      "bytes": 1749404,
+      "sources": [
+        {
+          "asset": "P006",
+          "file": "book/pages/P006.png",
+          "sha256": "c38b625e27c502a46b3e08db7c7ed7f2cb3c865a9f8dc50921ff14d513025980"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P006"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 7,
+      "sha256": "ed7055bd7c9ec86a83ca45a266f0016af26b745d5bae4f1471b6fffe8fd01e7e",
+      "bytes": 1425032,
+      "sources": [
+        {
+          "asset": "P007",
+          "file": "book/pages/P007.png",
+          "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P007"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 8,
+      "sha256": "b9e59bd90c30913f9f79db73523fde0bffdb2512163bb476d8ca8650d0147eae",
+      "bytes": 1820870,
+      "sources": [
+        {
+          "asset": "P008",
+          "file": "book/pages/P008.png",
+          "sha256": "59f390f660fb31c738f8c0795220780dd1e7e556e134951c9bc1c1979b28947c"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P008"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 9,
+      "sha256": "42c836bc013e146b4d1b33d1fa7448bbcb288f1d36781708532b7db0cf4cbae7",
+      "bytes": 1531671,
+      "sources": [
+        {
+          "asset": "P009",
+          "file": "book/pages/P009.png",
+          "sha256": "9b33ae03085de4d2d2df8a75cac74a752e3e80fc4fbbeb9ff733d77098f8bf0d"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P009"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 10,
+      "sha256": "947e52988ec1d6c482517ee812fd863aa517f4ea64230888a1a46153187e8444",
+      "bytes": 1952909,
+      "sources": [
+        {
+          "asset": "P010",
+          "file": "book/pages/P010.png",
+          "sha256": "af20f2d7b76cb95eb60c2eb90afb2ef48e81ad8d1d502e0e69ddbe294a503017"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P010"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 11,
+      "sha256": "8c464aba632e723bb4be6feac4ec89f2008410a72148db3a6ce631c1765ba038",
+      "bytes": 1734741,
+      "sources": [
+        {
+          "asset": "P011",
+          "file": "book/pages/P011.png",
+          "sha256": "a5b3190fe3226b1c7f02e54916002854610b4904351015f637edb0838e878c80"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P011"
+      },
+      "placements": []
+    },
+    "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png": {
+      "kind": "page-png",
+      "variant": "Colouring-Pages-PNG",
+      "card_variant": null,
+      "page_number": 12,
+      "sha256": "aa2765c8180d0c4a6a817b174056862f828fbce6f61aa2ee61a9c40e8edba9e5",
+      "bytes": 1486875,
+      "sources": [
+        {
+          "asset": "P012",
+          "file": "book/pages/P012.png",
+          "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e"
+        }
+      ],
+      "expect": {
+        "pixels_identical_to": "P012"
+      },
+      "placements": []
+    }
+  },
+  "zip": null,
+  "book": {
+    "pages": 12,
+    "pages_png": true,
+    "pdf_encoding": "lossless"
+  },
+  "volumes": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "stage3_handoff": {
+    "product_format": "colouring-book",
+    "product_type": "Adult harvest market colouring book",
+    "page_count": 12,
+    "cover": true,
+    "colouring_pages": 11,
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "formats": [
+      {
+        "key": "A4",
+        "label": "A4",
+        "files": 2,
+        "pages": 12,
+        "page_size_mm": [
+          210,
+          297
+        ],
+        "artwork_size_mm": [
+          184.7,
+          277
+        ]
+      },
+      {
+        "key": "US-Letter",
+        "label": "US Letter",
+        "files": 2,
+        "pages": 12,
+        "page_size_mm": [
+          215.9,
+          279.4
+        ],
+        "artwork_size_mm": [
+          172.9,
+          259.4
+        ]
+      },
+      {
+        "key": "Colouring-Pages-PNG",
+        "label": "PNG pages",
+        "files": 12,
+        "pages": 12
+      }
+    ],
+    "representative_pages": [
+      {
+        "page_number": 1,
+        "title": "Harvest Market",
+        "role": "cover",
+        "asset": "P001",
+        "file": "book/pages/P001.png",
+        "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png"
+      },
+      {
+        "page_number": 2,
+        "title": "Apple Crate Abundance",
+        "role": "page",
+        "asset": "P002",
+        "file": "book/pages/P002.png",
+        "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png"
+      },
+      {
+        "page_number": 7,
+        "title": "Late Harvest Table",
+        "role": "page",
+        "asset": "P007",
+        "file": "book/pages/P007.png",
+        "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png"
+      },
+      {
+        "page_number": 12,
+        "title": "Harvest Market Stall",
+        "role": "page",
+        "asset": "P012",
+        "file": "book/pages/P012.png",
+        "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e",
+        "width": 1024,
+        "height": 1536,
+        "delivered": "Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png"
+      }
+    ],
+    "package_contents": [
+      {
+        "item": "START-HERE-Printing-Guide.pdf",
+        "files": 1
+      },
+      {
+        "item": "A4",
+        "files": 2
+      },
+      {
+        "item": "US-Letter",
+        "files": 2
+      },
+      {
+        "item": "Colouring-Pages-PNG",
+        "files": 12
+      }
+    ],
+    "note": "Real product imagery for marketing must be these approved page files (or true renders of the customer PDFs); never a redrawn page."
+  },
+  "zip_parts": [
+    {
+      "part": 1,
+      "of": 5,
+      "name": "LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-1.zip",
+      "file": "production/package/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-1.zip",
+      "sha256": "06b98254a72228ceb0fab28474552fe4a0d3534696c5e08935909ec1bcc10ff6",
+      "bytes": 16846597,
+      "entries_digest": "e2523c69c1c2dd4bda36022360f7b956e54b1d8dc902c49062ddd0fc1ae881db",
+      "entries": [
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/START-HERE-Printing-Guide.pdf",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf"
+      ]
+    },
+    {
+      "part": 2,
+      "of": 5,
+      "name": "LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-2.zip",
+      "file": "production/package/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-2.zip",
+      "sha256": "d00c0d4495c650f0aefdcee1dfdaf48a9243a8cc3b6b72b16a758614335486b9",
+      "bytes": 3206455,
+      "entries_digest": "4fc47b21b04198198e56e2ae2950c3ccddd673f41558a33deff749cb960c5264",
+      "entries": [
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf"
+      ]
+    },
+    {
+      "part": 3,
+      "of": 5,
+      "name": "LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-3.zip",
+      "file": "production/package/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-3.zip",
+      "sha256": "f1e847a5be7eaf08b81a7cb0d8be3c58232cc5d8b2494850570a28fc6f0d7b15",
+      "bytes": 16844164,
+      "entries_digest": "7bf1893c87758d8555afc24ec3f5b3aa0c8486082586cd6129454f998875ce8c",
+      "entries": [
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-1-Pages-01-10.pdf"
+      ]
+    },
+    {
+      "part": 4,
+      "of": 5,
+      "name": "LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-4.zip",
+      "file": "production/package/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-4.zip",
+      "sha256": "6d82c90f4cc0464c434eb89a4dd71bad7b0c3649b36e703f62bef3aa7b164fba",
+      "bytes": 18303122,
+      "entries_digest": "249c56e6cb2c403740626e34bec0047876372503e461041c8610e7e69298187c",
+      "entries": [
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/US-Letter/LumiumX-Harvest-Market-Autumn-Colouring-Pages-US-Letter-Part-2-Pages-11-12.pdf",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png"
+      ]
+    },
+    {
+      "part": 5,
+      "of": 5,
+      "name": "LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-5.zip",
+      "file": "production/package/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Part-5.zip",
+      "sha256": "8c51b30a980970551d8dada62b6a4adb13d676f818ff8cfa53f8f768327532bc",
+      "bytes": 5148674,
+      "entries_digest": "688d96bec1fc7c7fe19762c4e6bcc87f0aa4c79f962b47a83e6f16dc2f10efb1",
+      "entries": [
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png",
+        "LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png"
+      ]
+    }
+  ]
+}

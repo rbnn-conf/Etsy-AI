@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "product_id": "014",
+  "product_name": "Harvest Market: Autumn Colouring Pages",
+  "product_type": "Adult harvest market colouring book",
+  "product_format": "colouring-book",
+  "season": "Autumn",
+  "target_customer": "Adults who enjoy seasonal food, gardening and decorative colouring",
+  "book": {
+    "page_count": 12,
+    "colouring_pages": 11,
+    "cover": true,
+    "orientation": "portrait",
+    "page_px": [
+      1024,
+      1536
+    ],
+    "non_colouring_pages": [
+      {
+        "page_number": 1,
+        "kind": "cover",
+        "title": "Harvest Market"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "title": "Harvest Market",
+      "role": "cover",
+      "page_type": "cover",
+      "asset": "P001",
+      "file": "book/pages/P001.png",
+      "sha256": "f707655fb026e3db0e2640e2ee6a1f90f4a568c60f8bf99e5047920d51125233",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-01-Cover.png"
+    },
+    {
+      "page_number": 2,
+      "title": "Apple Crate Abundance",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P002",
+      "file": "book/pages/P002.png",
+      "sha256": "b3bc425cd47c079d5b0beb9af33f46abd655642e93b3470b71b11632bffe1d08",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-02.png"
+    },
+    {
+      "page_number": 3,
+      "title": "Pumpkin and Squash Stall",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P003",
+      "file": "book/pages/P003.png",
+      "sha256": "a9b27e027d4b3961f23d5f05f0ae65b55f2efb73614fe8db3943641ac5bc798b",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-03.png"
+    },
+    {
+      "page_number": 4,
+      "title": "Orchard Harvest Basket",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P004",
+      "file": "book/pages/P004.png",
+      "sha256": "71904616e56513b94c3149bd31eb3c98b0783cac3614d6b1abf5e6092b0a6e4f",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-04.png"
+    },
+    {
+      "page_number": 5,
+      "title": "Herb Market Bundles",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P005",
+      "file": "book/pages/P005.png",
+      "sha256": "2a8234550fc2bf564fc0cb70729f83cf4df9eae32f8c9f39933b7c55ea98f93c",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-05.png"
+    },
+    {
+      "page_number": 6,
+      "title": "Root Vegetable Barrow",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P006",
+      "file": "book/pages/P006.png",
+      "sha256": "c38b625e27c502a46b3e08db7c7ed7f2cb3c865a9f8dc50921ff14d513025980",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-06.png"
+    },
+    {
+      "page_number": 7,
+      "title": "Late Harvest Table",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P007",
+      "file": "book/pages/P007.png",
+      "sha256": "37ee8acefd3f9fb9d89283b98131dc5af525e8e28a484d111f4b155e1b9f1cb1",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-07.png"
+    },
+    {
+      "page_number": 8,
+      "title": "Sunflower Market Bucket",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P008",
+      "file": "book/pages/P008.png",
+      "sha256": "59f390f660fb31c738f8c0795220780dd1e7e556e134951c9bc1c1979b28947c",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-08.png"
+    },
+    {
+      "page_number": 9,
+      "title": "Cider Press Harvest",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P009",
+      "file": "book/pages/P009.png",
+      "sha256": "9b33ae03085de4d2d2df8a75cac74a752e3e80fc4fbbeb9ff733d77098f8bf0d",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-09.png"
+    },
+    {
+      "page_number": 10,
+      "title": "Mushroom and Woodland Basket",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P010",
+      "file": "book/pages/P010.png",
+      "sha256": "af20f2d7b76cb95eb60c2eb90afb2ef48e81ad8d1d502e0e69ddbe294a503017",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-10.png"
+    },
+    {
+      "page_number": 11,
+      "title": "Cornucopia of Garden Bounty",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P011",
+      "file": "book/pages/P011.png",
+      "sha256": "a5b3190fe3226b1c7f02e54916002854610b4904351015f637edb0838e878c80",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-11.png"
+    },
+    {
+      "page_number": 12,
+      "title": "Harvest Market Stall",
+      "role": "page",
+      "page_type": "colouring",
+      "asset": "P012",
+      "file": "book/pages/P012.png",
+      "sha256": "3598523ede184eec708fc7624d1e85144795003f362c91343c925ce36978f26e",
+      "width": 1024,
+      "height": 1536,
+      "delivered": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/Colouring-Pages-PNG/LumiumX-Harvest-Market-Autumn-Colouring-Pages-Page-12.png"
+    }
+  ],
+  "selection": {
+    "cover": 1,
+    "lead": 1,
+    "showcase": [
+      2,
+      7,
+      12
+    ],
+    "collage": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "example": 2,
+    "pages_used": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ]
+  },
+  "formats": [
+    {
+      "key": "A4",
+      "label": "A4",
+      "files": 2,
+      "pages": 12,
+      "page_size_mm": [
+        210,
+        297
+      ],
+      "artwork_size_mm": [
+        184.7,
+        277
+      ]
+    },
+    {
+      "key": "US-Letter",
+      "label": "US Letter",
+      "files": 2,
+      "pages": 12,
+      "page_size_mm": [
+        215.9,
+        279.4
+      ],
+      "artwork_size_mm": [
+        172.9,
+        259.4
+      ]
+    },
+    {
+      "key": "Colouring-Pages-PNG",
+      "label": "PNG pages",
+      "files": 12,
+      "pages": 12
+    }
+  ],
+  "png_pages": true,
+  "png_page_files": 12,
+  "printing_guide": true,
+  "guide": {
+    "file": "production/deliverables/LumiumX-Harvest-Market-Autumn-Colouring-Pages/START-HERE-Printing-Guide.pdf",
+    "sha256": "84aeedb02725fcb6216eb550203f0e5f1192d54a70584ddeb799fd2f4120617c"
+  },
+  "sheet_preview": {
+    "file": "production/previews/preview-01-LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10-p1.png",
+    "sha256": "ca9bff2b559d17e1d41defcca09896ea9abd4b44cffdbf4174a164e2f80fe144",
+    "label": "Cover (A4)"
+  },
+  "line_art": true,
+  "digital_download": true,
+  "physical_item": false,
+  "editable": false,
+  "package": {
+    "name": "LumiumX-Harvest-Market-Autumn-Colouring-Pages",
+    "parts": 5,
+    "zip_mb": 60.3
+  },
+  "effective_ppi": {
+    "A4": 141,
+    "US-Letter": 150
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10-p1.png",
+      "label": "Cover (A4)",
+      "source": "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+      "page": 1,
+      "sha256": "ca9bff2b559d17e1d41defcca09896ea9abd4b44cffdbf4174a164e2f80fe144"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10-p2.png",
+      "label": "Page 2 of 12 (A4)",
+      "source": "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-1-Pages-01-10.pdf",
+      "page": 2,
+      "sha256": "859cb07e671f3d2dea1bfd3ca26fae4273c2213134e80815c665b280453fe9e6"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12-p2.png",
+      "label": "Page 12 of 12 (A4)",
+      "source": "A4/LumiumX-Harvest-Market-Autumn-Colouring-Pages-A4-Part-2-Pages-11-12.pdf",
+      "page": 2,
+      "sha256": "4972a8f93625a09ca3e629259e16b7160ce04ce66dfafd8d3bbec46d572e9c3c"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "label": "Contact sheet: all 12 pages in order",
+      "source": null,
+      "page": null,
+      "sha256": "8af591a4e41f439a4f2a5bdabc68d9bcf8f1a3e0814f06dd01eb51331216572f"
+    }
+  ],
+  "page_quantity": {
+    "total_pages": 12,
+    "content_pages": 11,
+    "content": "colouring"
+  },
+  "style": {
+    "subject": "Harvest produce",
+    "palette": "Monochrome black ink on bright white paper only.",
+    "mood": "Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment."
+  },
+  "sources": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "6a1f552dd4eea178f4d15474ba183dc0b0758d9ca8184e768dcc491159461f6f"
+    },
+    "build_record": {
+      "file": "production/build-record.json",
+      "sha256": "35dd820e26d791937955636dbb69643a7dbc54cca38aa20e913b5217ceb76546"
+    },
+    "qc_report": {
+      "file": "production/qc-report.json",
+      "sha256": "ed3aabcce9e036e52d6f901414bbea75cbc575f5af146c138f0bb7def67d89ff"
+    }
+  },
+  "creative": {
+    "note": "Descriptive creative metadata for sales copy only; deliverables and capabilities come from the production facts.",
+    "collection": {
+      "subject": "Harvest produce",
+      "scene": "Rustic autumn market stall display",
+      "emotional_tone": "Abundant, wholesome and celebratory",
+      "illustration_style": "Adult colouring-book ink illustration with an harvest-market feel; clean monochrome drawings built from graceful organic contours and decorative botanical styling.",
+      "mood": "Calm, abundant, wholesome and quietly celebratory; refined seasonal warmth without spooky, childish or rustic-cliché treatment.",
+      "detail": "Moderately detailed, concentrating pattern and texture in selected natural surfaces, foliage and decorative accents while preserving broad open areas for relaxed colouring."
+    },
+    "pages": {
+      "2": {
+        "title": "Apple Crate Abundance",
+        "description": "A large slatted wooden crate is piled high with 18 clearly distinct apples, with three pears, two small squash and two herb bundles tucked around it. Apple branches and scattered leaves form a restrained decorative frame; woodgrain and leaf veins add colourable texture.",
+        "source": "approved page brief (page 2)"
+      },
+      "3": {
+        "title": "Pumpkin and Squash Stall",
+        "description": "A three-tier wooden market stand holds eight different pumpkins and squash: ribbed pumpkin, butternut squash, acorn squash, delicata squash, pattypan squash, spaghetti squash, kabocha squash and a small round gourd. Twining vine leaves and blossoms curl lightly around the stand.",
+        "source": "approved page brief (page 3)"
+      },
+      "5": {
+        "title": "Herb Market Bundles",
+        "description": "Five labelled-looking but blank paper-wrapped herb bundles—rosemary, sage, thyme, parsley and lavender—hang from a simple wooden rail. Small botanical sprigs, seed heads and a terracotta pot sit below; the paper tags are intentionally blank, without printed names.",
+        "source": "approved page brief (page 5)"
+      },
+      "6": {
+        "title": "Root Vegetable Barrow",
+        "description": "A vintage garden wheelbarrow holds carrots, beetroot, parsnips, turnips and leeks, each with leafy tops. A small hand trowel and gardening gloves rest nearby, while loose leaves and tiny seedheads form a quiet ground-level frame.",
+        "source": "approved page brief (page 6)"
+      },
+      "7": {
+        "title": "Late Harvest Table",
+        "description": "A rustic table holds a round loaf of bread, a small bowl of apples, a pitcher of dried wheat, a jar of honey with a dipper, two pears, a folded napkin and a cluster of grapes. A lightly patterned table runner anchors the composition, with a narrow leaf garland above.",
+        "source": "approved page brief (page 7)"
+      },
+      "8": {
+        "title": "Sunflower Market Bucket",
+        "description": "A tall ribbed market bucket holds seven sunflower heads, five small asters and leafy stems. Beside it are three mini pumpkins and a shallow woven tray of seed pods. A few petals and leaves make a gentle oval frame around the composition.",
+        "source": "approved page brief (page 8)"
+      },
+      "10": {
+        "title": "Mushroom and Woodland Basket",
+        "description": "A low wicker basket contains assorted edible-looking mushrooms with varied caps, chestnuts and a folded linen cloth. Fern fronds, oak leaves, acorns and a few tiny mushrooms create a botanical frame. The scene is naturalistic and decorative, with no creatures, faces or magical elements.",
+        "source": "approved page brief (page 10)"
+      },
+      "11": {
+        "title": "Cornucopia of Garden Bounty",
+        "description": "A woven cornucopia lies on its side and spills out apples, pears, grapes, corn, carrots, beetroot, leaves and small squash. Tall wheat stems rise behind the horn, while a simple repeating leaf-and-berry border occupies only the lower corners.",
+        "source": "approved page brief (page 11)"
+      },
+      "12": {
+        "title": "Harvest Market Stall",
+        "description": "A symmetrical open-air market stall with a striped canopy displays produce in six wooden crates: apples, pears, pumpkins, carrots, beetroot and leafy greens. Herb bundles hang at each side, and a simple blank oval sign hangs beneath the canopy. Leaves and wheat sprigs frame the upper corners.",
+        "source": "approved page brief (page 12)"
+      }
+    }
+  },
+  "claims": {
+    "product-title": [
+      "Harvest Market: Autumn Colouring Pages"
+    ],
+    "page-count": [
+      "12 pages",
+      "12 printable pages",
+      "12-page",
+      "11 colouring pages",
+      "11 printable colouring pages",
+      "11 pages",
+      "11 designs",
+      "11 illustrations",
+      "11 colouring pages + cover",
+      "11 colouring pages and a cover",
+      "twelve pages",
+      "eleven colouring pages",
+      "12",
+      "11"
+    ],
+    "page-number": [
+      "Page 1 of 12",
+      "Page 2 of 12",
+      "Page 3 of 12",
+      "Page 4 of 12",
+      "Page 5 of 12",
+      "Page 6 of 12",
+      "Page 7 of 12",
+      "Page 8 of 12",
+      "Page 9 of 12",
+      "Page 10 of 12",
+      "Page 11 of 12",
+      "Page 12 of 12"
+    ],
+    "page-title": [
+      "Harvest Market",
+      "Apple Crate Abundance",
+      "Pumpkin and Squash Stall",
+      "Orchard Harvest Basket",
+      "Herb Market Bundles",
+      "Root Vegetable Barrow",
+      "Late Harvest Table",
+      "Sunflower Market Bucket",
+      "Cider Press Harvest",
+      "Mushroom and Woodland Basket",
+      "Cornucopia of Garden Bounty",
+      "Harvest Market Stall"
+    ],
+    "format": [
+      "A4",
+      "US Letter",
+      "PNG pages",
+      "A4 + US Letter",
+      "A4 and US Letter",
+      "PDF",
+      "PNG pages",
+      "Every page as a PNG",
+      "PDF and PNG files",
+      "Individual PNG pages"
+    ],
+    "paper-size": [
+      "210 × 297 mm",
+      "8.5 × 11 in"
+    ],
+    "digital": [
+      "Digital download",
+      "Instant digital download",
+      "No physical item is shipped",
+      "No physical item will be shipped",
+      "Print at home",
+      "Instant access after purchase"
+    ],
+    "printing-guide": [
+      "Printing guide",
+      "Printing guide included",
+      "Step-by-step printing guide"
+    ],
+    "process": [
+      "Download",
+      "Print",
+      "Colour",
+      "Print at home or use a print shop",
+      "One design per page",
+      "Print single-sided",
+      "Print as many copies as you need for personal use"
+    ],
+    "example": [
+      "Coloured example",
+      "Coloured example for inspiration",
+      "Colours shown are an example only"
+    ],
+    "cover": [
+      "Cover page",
+      "Cover included",
+      "Illustrated cover"
+    ],
+    "line-art": [
+      "Black-and-white line art",
+      "Black and white line art",
+      "Line art"
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4584343288,
+      "actual": 4584343288
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4584343288,
+      "actual": 4584343288
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Christmas Cards | Robin Card Set, Traditional Christmas Card, Instant Digital Download",
+      "actual": "Printable Christmas Cards | Robin Card Set, Traditional Christmas Card, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1723 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 4.25",
+      "actual": "GBP 4.25"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 1261,
+      "actual": 1261
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF files",
+        "PNG artwork files",
+        "Printing guide",
+        "ZIP download"
+      ],
+      "actual": [
+        "Digital PDF files",
+        "PNG artwork files",
+        "Printing guide",
+        "ZIP download"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8639328273,
+        8591481186,
+        8639328679,
+        8639328929,
+        8591481858,
+        8639329303,
+        8591482214,
+        8591482388,
+        8639329927,
+        8639330101
+      ],
+      "actual": [
+        8639328273,
+        8591481186,
+        8639328679,
+        8639328929,
+        8591481858,
+        8639329303,
+        8591482214,
+        8591482388,
+        8639329927,
+        8639330101
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "LumiumX-Robin-at-the-Frosted-Gate.zip (16942543 bytes)"
+      ],
+      "actual": [
+        "LumiumX-Robin-at-the-Frosted-Gate.zip (16942543 bytes)"
+      ]
+    },
+    {
+      "field": "property: Primary color",
+      "ok": true,
+      "expected": [
+        "White"
+      ],
+      "actual": [
+        "White"
+      ]
+    },
+    {
+      "field": "property: Secondary color",
+      "ok": true,
+      "expected": [
+        "Green"
+      ],
+      "actual": [
+        "Green"
+      ]
+    }
+  ],
+  "fingerprint": "a47f1bd9986be0fea55e9284924f22c7400726004d5c86a822da337fac09cdcb",
+  "listing_id": 4584343288,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "10db7b7244952311701ef198ddb96cc5bccfbb051ccd91b2e3a6562b65ab5ee1",
+  "remote_url": "https://www.etsy.com/listing/4584343288/printable-christmas-cards-robin-card-set",
+  "at": "2026-09-28T15:16:00.074Z"
+}

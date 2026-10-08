@@ -1,0 +1,236 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SEO research plan (ADR-033): Marketplace Insights searches for the owner to run by hand. A generated research query is NOT evidence of market demand; the plan holds no market numbers of its own.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "research_plan_id",
+    "mode",
+    "product_id",
+    "idea_reference",
+    "created_at",
+    "idea_completeness",
+    "missing_fields",
+    "resolved_idea",
+    "queries",
+    "capture_fields",
+    "discovered_terms",
+    "research_references",
+    "warnings",
+    "status",
+    "status_history"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "research_plan_id": {
+      "type": "string",
+      "pattern": "^plan-[0-9a-f]{16}$"
+    },
+    "mode": {
+      "enum": [
+        "NEW_PRODUCT",
+        "EXISTING_LISTING"
+      ]
+    },
+    "product_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "idea_reference": {
+      "type": "object",
+      "required": [
+        "product_id",
+        "working_name",
+        "sha256"
+      ]
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "idea_completeness": {
+      "enum": [
+        "complete",
+        "usable_with_warnings",
+        "insufficient"
+      ]
+    },
+    "missing_fields": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "formats",
+          "themes",
+          "audiences",
+          "delivery"
+        ]
+      }
+    },
+    "resolved_idea": {
+      "type": "object",
+      "description": "formats, themes, audiences, styles, delivery, season, and where each came from (structured | extracted_from_text | null)"
+    },
+    "queries": {
+      "type": "array",
+      "maxItems": 40,
+      "items": {
+        "type": "object",
+        "required": [
+          "query",
+          "normalized_query",
+          "also_spelled",
+          "intent_type",
+          "priority",
+          "reason",
+          "required",
+          "observation_status",
+          "components",
+          "merged_variants"
+        ],
+        "properties": {
+          "query": {
+            "type": "string"
+          },
+          "normalized_query": {
+            "type": "string"
+          },
+          "also_spelled": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "intent_type": {
+            "enum": [
+              "core_product",
+              "theme_product",
+              "audience_product",
+              "attribute_product",
+              "theme_audience_product",
+              "delivery_variant",
+              "regional_variant",
+              "existing_term"
+            ]
+          },
+          "priority": {
+            "enum": [
+              "P1",
+              "P2",
+              "P3"
+            ],
+            "description": "Closeness to the core buyer intent. NOT an opportunity score; no demand assumption."
+          },
+          "reason": {
+            "type": "string"
+          },
+          "required": {
+            "type": "boolean"
+          },
+          "observation_status": {
+            "enum": [
+              "not_researched",
+              "captured",
+              "unavailable"
+            ]
+          },
+          "observation_id": {
+            "type": "string"
+          },
+          "unavailable_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "components": {
+            "type": "object"
+          },
+          "merged_variants": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "capture_fields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "discovered_terms": {
+      "type": "array",
+      "description": "Related searches Etsy displayed. DISCOVERED, not researched: never observations, never scored.",
+      "items": {
+        "type": "object",
+        "required": [
+          "term",
+          "normalized_term",
+          "status",
+          "seen_beside",
+          "metrics_captured"
+        ],
+        "properties": {
+          "status": {
+            "const": "discovered"
+          },
+          "metrics_captured": {
+            "enum": [
+              "all",
+              "partial",
+              "none"
+            ]
+          }
+        }
+      }
+    },
+    "research_references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "research_id",
+          "version"
+        ]
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "researching",
+        "ready_for_expansion",
+        "complete",
+        "superseded"
+      ]
+    },
+    "superseded_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status_history": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "status",
+          "at"
+        ]
+      }
+    }
+  }
+}

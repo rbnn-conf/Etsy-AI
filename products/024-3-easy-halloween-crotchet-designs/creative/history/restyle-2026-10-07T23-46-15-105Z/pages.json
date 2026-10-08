@@ -1,0 +1,32 @@
+[
+  {
+    "page_number": 1,
+    "page_type": "cover",
+    "title": "Little Halloween Costume Accessories",
+    "concept": "Premium cover and visual style proof for a small collection of quick seasonal crochet accessories.",
+    "instructions": null,
+    "artwork_description": "A large generic arrangement of small, physically crocheted Halloween-inspired accessories is pinned neatly on natural linen, with one dark pointed accessory as the visual focal point. A looping velvet ribbon frames the focal piece, while sparse autumn foliage and restrained Moonlit Meadow botanical watercolour ornaments provide airy seasonal framing. The printed cover text is the title and the short subtitle, “Three quick makes for festive dress-up”. All shown crochet is a digital visualisation of possible finished makes, not a test-made item or physical product.",
+    "generation_prompt": "Generic small crocheted seasonal costume accessories arranged as a neat collector display on a linen pinboard; one dark pointed accessory centred and framed by a looping velvet ribbon; sparse autumn foliage; title text: “Little Halloween Costume Accessories”; small subtitle text: “Three quick makes for festive dress-up”.",
+    "production_notes": "Keep the title as the only prominent text and verify spelling manually. Do not identify, count or label individual accessories in the artwork. Ensure every crochet element reads as a photorealistic yarn visualisation with visible stitches. State in the PDF listing/usage copy, not on the cover, that this is a digital PDF pattern bundle and imagery is illustrative."
+  },
+  {
+    "page_number": 2,
+    "page_type": "pattern",
+    "title": "Quick Make A",
+    "concept": "First easy accessory pattern page, designed as a clear home-printable project sheet with a supporting generic crochet reference visual.",
+    "instructions": "Make your accessory, then add your chosen fastening.",
+    "artwork_description": "An airy pattern-document page with a small generic photorealistic crocheted accessory visualisation near the upper section and a macro inset showing clear yarn loops and stitch texture. The main body reserves structured areas for the approved project title, finished size, materials, tension, abbreviations, written rounds, finishing and attachment guidance. Delicate botanical divider ornaments separate sections without reducing readability.",
+    "generation_prompt": "Single generic small crocheted costume accessory visualisation with a macro inset of defined crochet loops; reserved structured pattern sections for project title, materials, tension, abbreviations, rounds, finishing and fastening guidance; short heading text: “Quick Make A”.",
+    "production_notes": "Insert the approved first accessory pattern after technical review; do not invent stitch counts, hook size, yarn weight, finished measurements or assembly steps at this concept stage. Include only abbreviations actually used by the final instructions. Confirm that the fastening recommendation is age-appropriate and includes a small-parts/sharp-fastener caution where relevant. Maintain high contrast for all final pattern copy and ensure it remains legible in greyscale home printing."
+  },
+  {
+    "page_number": 3,
+    "page_type": "pattern",
+    "title": "Quick Makes B + C",
+    "concept": "Compact final pattern page containing the remaining two easy accessory projects, with clearly separated instructions and a generic crochet texture visual.",
+    "instructions": "Choose a make, follow the steps, and finish with your preferred attachment.",
+    "artwork_description": "A two-part printable pattern-document page with two balanced project sections divided by a fine botanical rule. Each section has room for an approved project title, materials, abbreviations, written instructions and finishing notes. A restrained photorealistic close-up of generic crocheted yarn forms and stitch texture sits above the sections as a visualisation only; no individual finished accessory is named or labelled in the artwork.",
+    "generation_prompt": "Two balanced crochet pattern sections divided by a delicate botanical rule; reserved areas for project titles, materials, abbreviations, written instructions and finishing notes; one small generic photorealistic crochet texture visualisation at the top; heading text: “Quick Makes B + C”.",
+    "production_notes": "Populate the two sections with the approved remaining accessory patterns and verify that every round, repeat, stitch total and assembly instruction is technically consistent. Place shared materials/yarn notes and the shared stitch guide in the relevant top sections or a compact footer only if final copy fits at readable size; otherwise supply them as unartworked supporting PDF pages. Include a separate unartworked printing guide in the final PDF package. Do not label or name the rendered crochet visualisation; it must remain an illustrative digital concept rather than a claim of a test-made or included physical item."
+  }
+]

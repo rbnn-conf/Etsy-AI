@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "listing_id": 4590824542,
+  "properties": [],
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "70d23e9062c1fc1ba4c793fab46645e8bdef0db6a546b15dd71bbd56b73b6b47",
+      "listing_image_id": 8641159212,
+      "uploaded_at": "2026-10-08T00:00:49.926Z"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-interior.png",
+      "sha256": "d6a1c126f623ef315655252f1b53bd9a0e35ee8d16497796f9333fc76145580f",
+      "listing_image_id": 8641159286,
+      "uploaded_at": "2026-10-08T00:00:51.585Z"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-collage.png",
+      "sha256": "44feb55b334e908cc245c68aea7e3f7b99395009d6f7fb6f57e6526e8bc3b7e9",
+      "listing_image_id": 8688976949,
+      "uploaded_at": "2026-10-08T00:00:53.439Z"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-index.png",
+      "sha256": "3d87eba2c31fd4be7893c2a21b1b483c813d8ed2a3f09da08a73cf889a526f9e",
+      "listing_image_id": 8641159490,
+      "uploaded_at": "2026-10-08T00:00:55.072Z"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-included.png",
+      "sha256": "5c0280d3a40920611bf8348c62e4c1bf5fa7aa0d9066bcdb2ae302c014c65ae0",
+      "listing_image_id": 8641159598,
+      "uploaded_at": "2026-10-08T00:00:56.541Z"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-printable.png",
+      "sha256": "c0f66f1ab2ed3fac21cc0b39bd1a98e180e60ff180c3495110b0b8cdfff2580f",
+      "listing_image_id": 8688977163,
+      "uploaded_at": "2026-10-08T00:00:57.963Z"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-lifestyle.png",
+      "sha256": "ff3f313d3dc524c7458e52f67d87ffa12bb8daa9295f0761f01a31f51c1f4414",
+      "listing_image_id": 8641159754,
+      "uploaded_at": "2026-10-08T00:01:01.404Z"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-bundle.png",
+      "sha256": "225f9f8f3f94918b4323886868842c9fe5a476e3c142dbcaae3e6f7b59b3764a",
+      "listing_image_id": 8688977407,
+      "uploaded_at": "2026-10-08T00:01:03.250Z"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "Little-Halloween-Costume-Accessories-A4.zip",
+      "sha256": "73636958c22a45840db441f19fa485a1ab673e71d9e834e941773a7b111bbe31",
+      "bytes": 15289426,
+      "listing_file_id": 1521163284814,
+      "uploaded_at": "2026-10-08T00:01:09.338Z"
+    },
+    {
+      "rank": 2,
+      "name": "Little-Halloween-Costume-Accessories-A4-Individual-Patterns.zip",
+      "sha256": "4a7e2c0428e6df7b55f2f4b409ca83088ac652b77a7bcc3f4c21266695389976",
+      "bytes": 6893904,
+      "listing_file_id": 1521163294664,
+      "uploaded_at": "2026-10-08T00:01:12.350Z"
+    },
+    {
+      "rank": 3,
+      "name": "Little-Halloween-Costume-Accessories-US-Letter.zip",
+      "sha256": "6472da812d9d42852a3a5c42ad02882291e84fcdd31ac6ecc544a4b22ee9c893",
+      "bytes": 15262141,
+      "listing_file_id": 1521163311028,
+      "uploaded_at": "2026-10-08T00:01:18.173Z"
+    },
+    {
+      "rank": 4,
+      "name": "Little-Halloween-Costume-Accessories-US-Letter-Individual-Patterns.zip",
+      "sha256": "6e447d1da5b8fff71115d1644c5258b7a1142f615b5c6f7bf67a3f3fa9534ad6",
+      "bytes": 6894835,
+      "listing_file_id": 1522410060343,
+      "uploaded_at": "2026-10-08T00:01:21.361Z"
+    }
+  ],
+  "pending": null
+}

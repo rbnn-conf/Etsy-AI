@@ -1,0 +1,15 @@
+{
+  "name": "product-006-xlsx",
+  "private": true,
+  "type": "module",
+  "description": "Product #006 (Minimalist Budget & Goals Planner) — TEST/REVIEW build. Reads ../product-spec.json + ../xlsx-design-spec.json and builds a workbook with @dpf/spreadsheet, renders a PNG preview from the real file, and QCs both. Product-specific glue, not a framework. xlsx-only — no render/ (PDF) pipeline.",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node preview.mjs",
+    "qc": "node qc.mjs",
+    "all": "node cli.mjs"
+  },
+  "dependencies": {
+    "@dpf/spreadsheet": "file:../../../spreadsheet"
+  }
+}

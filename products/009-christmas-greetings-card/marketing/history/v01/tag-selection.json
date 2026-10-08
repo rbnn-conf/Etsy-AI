@@ -1,0 +1,156 @@
+{
+  "tag_candidates": [
+    "printable xmas card",
+    "robin christmas card",
+    "traditional xmas",
+    "winter bird card",
+    "cosy christmas",
+    "christmas greeting",
+    "holiday card download",
+    "instant download card",
+    "print at home card",
+    "a4 card printable",
+    "us letter card",
+    "4x6 card panels",
+    "pdf greeting card",
+    "png artwork files",
+    "christmas card set",
+    "neighbour christmas",
+    "family christmas",
+    "robin at gate",
+    "frosted gate card",
+    "christmas wishes"
+  ],
+  "tags": [
+    {
+      "candidate": "printable xmas card",
+      "tag": "printable xmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "robin christmas card",
+      "tag": "robin christmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "traditional xmas",
+      "tag": "traditional xmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "winter bird card",
+      "tag": "winter bird card",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy christmas",
+      "tag": "cosy christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "christmas greeting",
+      "tag": "christmas greeting",
+      "result": "kept"
+    },
+    {
+      "candidate": "holiday card download",
+      "tag": "holiday card download",
+      "result": "discarded",
+      "reason": "over 20 characters with no safe repair"
+    },
+    {
+      "candidate": "instant download card",
+      "tag": "instant download card",
+      "result": "discarded",
+      "reason": "over 20 characters with no safe repair"
+    },
+    {
+      "candidate": "print at home card",
+      "tag": "print at home card",
+      "result": "kept"
+    },
+    {
+      "candidate": "a4 card printable",
+      "tag": "a4 card printable",
+      "result": "kept"
+    },
+    {
+      "candidate": "us letter card",
+      "tag": "us letter card",
+      "result": "kept"
+    },
+    {
+      "candidate": "4x6 card panels",
+      "tag": "4x6 card panels",
+      "result": "kept"
+    },
+    {
+      "candidate": "pdf greeting card",
+      "tag": "pdf greeting card",
+      "result": "kept"
+    },
+    {
+      "candidate": "png artwork files",
+      "tag": "png artwork files",
+      "result": "kept"
+    },
+    {
+      "candidate": "christmas card set",
+      "tag": "christmas card set",
+      "result": "kept"
+    },
+    {
+      "candidate": "neighbour christmas",
+      "tag": "neighbour christmas",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "family christmas",
+      "tag": "family christmas",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "robin at gate",
+      "tag": "robin at gate",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "frosted gate card",
+      "tag": "frosted gate card",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "christmas wishes",
+      "tag": "christmas wishes",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF",
+      "material": "Digital PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG artwork files",
+      "material": "PNG artwork files",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "ZIP download",
+      "material": "ZIP download",
+      "result": "kept"
+    }
+  ],
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

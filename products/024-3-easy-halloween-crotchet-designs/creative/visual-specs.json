@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-07T23:46:15.105Z",
+  "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+  "visual_match_status": "internally_checked",
+  "note": "Derived from the written patterns and checked against them. Not physically verified: nobody has crocheted these pieces for this record.",
+  "combination": "Costume and Treat-Bag Trio",
+  "fingerprints": {
+    "bat-hair-clip": {
+      "version": 1,
+      "pattern_id": "bat-hair-clip",
+      "pattern_name": "Moonlit Bat Hair Clip",
+      "motif_type": "hair accessory",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 7 cm wide, excluding the clip",
+        "width_cm": 7,
+        "height_cm": null
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [],
+      "colour_roles": [
+        {
+          "role": "Light yarn for bat, wings and ears",
+          "colour": "Black"
+        },
+        {
+          "role": "Light yarn for embroidered eyes",
+          "colour": "White"
+        }
+      ],
+      "pieces": [
+        "Wings (make 2)",
+        "Body",
+        "Ears (make 2)"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 4
+      },
+      "embellishments": [
+        "embroidery"
+      ],
+      "construction_details": [
+        "worked in the round",
+        "worked in rows"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": []
+    },
+    "witch-hat-brooch": {
+      "version": 1,
+      "pattern_id": "witch-hat-brooch",
+      "pattern_name": "Lavender Witch-Hat Brooch",
+      "motif_type": "flower",
+      "flower_type": "lavender",
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": true,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 6 cm wide and 6 cm tall",
+        "width_cm": 6,
+        "height_cm": 6
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [],
+      "colour_roles": [
+        {
+          "role": "Light yarn for hat and brim",
+          "colour": "Lavender"
+        }
+      ],
+      "pieces": [
+        "Pointed Hat",
+        "Curved Brim"
+      ],
+      "assembly": {
+        "required": true,
+        "steps": 3
+      },
+      "embellishments": [],
+      "construction_details": [
+        "magic ring start"
+      ],
+      "evidence": {
+        "flower_type": "name",
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "petal_count",
+        "petal_layer_count",
+        "petal_shape",
+        "centre_type"
+      ]
+    },
+    "candy-corn-bag-charm": {
+      "version": 1,
+      "pattern_id": "candy-corn-bag-charm",
+      "pattern_name": "Candy-Corn Bag Charm",
+      "motif_type": "bag charm",
+      "flower_type": null,
+      "petal_layer_count": null,
+      "petal_count": null,
+      "petal_counts_stated": [],
+      "petal_shape": null,
+      "centre": {
+        "present": false,
+        "type": null
+      },
+      "centre_colour_role": null,
+      "leaves": {
+        "present": false,
+        "count": 0,
+        "shape": null,
+        "attachment": null
+      },
+      "stem": {
+        "present": false,
+        "type": "none",
+        "length_cm": null,
+        "wired": false
+      },
+      "finished": {
+        "raw": "About 6 cm tall, excluding the hanging loop.",
+        "width_cm": null,
+        "height_cm": 6
+      },
+      "yarn_weight": "3-light",
+      "hook_mm": 3.5,
+      "fibres": [],
+      "colour_roles": [
+        {
+          "role": "Light yarn for the pointed top",
+          "colour": "White"
+        },
+        {
+          "role": "Light yarn for the middle stripe",
+          "colour": "Orange"
+        },
+        {
+          "role": "Light yarn for the wide base",
+          "colour": "Yellow"
+        }
+      ],
+      "pieces": [
+        "Candy Corn Charm"
+      ],
+      "assembly": {
+        "required": false,
+        "steps": 0
+      },
+      "embellishments": [],
+      "construction_details": [
+        "worked in rows"
+      ],
+      "evidence": {
+        "motif_type": "category/name",
+        "leaf_count": "no leaf section or leaf instruction",
+        "stem": "no stem section or stem instruction"
+      },
+      "unknown": [
+        "finished_width"
+      ]
+    }
+  },
+  "specs": {
+    "cover": {
+      "version": 1,
+      "kind": "bouquet",
+      "items": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "quantity": 1,
+          "features": {
+            "motif_type": "hair accessory",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 7,
+            "embellishments": [
+              "embroidery"
+            ],
+            "colours": [
+              "Black",
+              "White"
+            ]
+          }
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "lavender",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 6,
+            "height_cm": 6,
+            "embellishments": [],
+            "colours": [
+              "Lavender"
+            ]
+          }
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "quantity": 1,
+          "features": {
+            "motif_type": "bag charm",
+            "centre": {
+              "present": false
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "height_cm": 6,
+            "embellishments": [],
+            "colours": [
+              "White",
+              "Orange",
+              "Yellow"
+            ]
+          }
+        }
+      ],
+      "ornaments": [
+        {
+          "kind": "crescent moon",
+          "medium": "illustration"
+        },
+        {
+          "kind": "fine botanical sprigs",
+          "medium": "illustration"
+        }
+      ],
+      "composition": "one large arrangement filling much of the page on soft cream linen, natural product-photography light; branding ornaments small around the title",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    },
+    "overview": {
+      "version": 1,
+      "kind": "overview",
+      "items": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "quantity": 1,
+          "features": {
+            "motif_type": "hair accessory",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 7,
+            "embellishments": [
+              "embroidery"
+            ],
+            "colours": [
+              "Black",
+              "White"
+            ]
+          }
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "quantity": 1,
+          "features": {
+            "motif_type": "flower",
+            "flower_type": "lavender",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 6,
+            "height_cm": 6,
+            "embellishments": [],
+            "colours": [
+              "Lavender"
+            ]
+          }
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "quantity": 1,
+          "features": {
+            "motif_type": "bag charm",
+            "centre": {
+              "present": false
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "height_cm": 6,
+            "embellishments": [],
+            "colours": [
+              "White",
+              "Orange",
+              "Yellow"
+            ]
+          }
+        }
+      ],
+      "ornaments": [],
+      "composition": "each piece shown separately in a clean editorial grid on soft cream linen; no text, labels, numbers or lists",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    },
+    "detail": {
+      "version": 1,
+      "kind": "detail",
+      "items": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "quantity": 1,
+          "features": {
+            "motif_type": "hair accessory",
+            "centre": {
+              "present": true
+            },
+            "leaves": {
+              "present": false,
+              "count": 0
+            },
+            "stem": {
+              "present": false,
+              "wired": false
+            },
+            "width_cm": 7,
+            "embellishments": [
+              "embroidery"
+            ],
+            "colours": [
+              "Black",
+              "White"
+            ]
+          }
+        }
+      ],
+      "ornaments": [],
+      "composition": "macro close-up: individual stitches, loops and yarn fibres in sharp focus, soft natural side light, shallow depth of field; no text",
+      "status": "internally_checked",
+      "problems": [],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "fixture": "Cozy Autumn research cycle, round 1. The three observations are the owner's real Marketplace Insights values from the seed capture (manual-capture-01). Every related_terms entry is a SYNTHETIC DISCOVERY FIXTURE: invented term names for testing the research flow, with NO metrics (none are invented). Queries with no real capture are marked unavailable, never given numbers.",
+  "research_id": "cozy-autumn-demo",
+  "recorded_at": "2026-09-29T00:00:00.000Z",
+  "recorded_by": "owner",
+  "rows": [
+    {"keyword": "fall coloring pages", "searches_30d": 2300, "search_results": 29100, "conversion_label": "very_high", "trend_percent": null, "captured_at": null,
+     "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Values from the seed capture; related terms are synthetic"},
+     "related_terms": [{"term": "fall coloring pages for adults"}, {"term": "cozy fall coloring pages"}, {"term": "autumn coloring sheets"}, {"term": "halloween coloring pages"}]},
+    {"keyword": "adult coloring pages", "searches_30d": 4400, "search_results": 138700, "conversion_label": "very_high", "trend_percent": null, "captured_at": null,
+     "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Values from the seed capture; related terms are synthetic"},
+     "related_terms": [{"term": "Fall Coloring Pages for Adults"}, {"term": "adult coloring book"}, {"term": "Adult Colouring Pages"}, {"term": "bridal shower activity"}]},
+    {"keyword": "cozy coloring book", "searches_30d": 3200, "search_results": 33600, "conversion_label": "typical", "trend_percent": null, "captured_at": null,
+     "source": {"type": "etsy_marketplace_insights", "method": "manual", "captured_by": "owner", "note": "Values from the seed capture; related terms are synthetic"},
+     "related_terms": [{"term": "cozy fall coloring pages"}, {"term": "christmas coloring pages"}, {"term": "cozy coloring books"}, {"term": "pumpkin coloring pages"}, {"term": "coloring sheets"}]}
+  ],
+  "unavailable": [
+    {"term": "autumn coloring pages", "note": "SYNTHETIC FIXTURE: no real Marketplace Insights values exist for this query; marked unavailable rather than invented"},
+    {"term": "cozy coloring pages", "note": "SYNTHETIC FIXTURE: no real Marketplace Insights values exist for this query; marked unavailable rather than invented"}
+  ]
+}

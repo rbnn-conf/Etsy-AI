@@ -1,0 +1,8 @@
+{
+  "id": "C02",
+  "treatment": "economy",
+  "prompt": "EDIT TARGET: the supplied isolated seven-moon divider. Preserve EXACT seven silhouettes in one horizontal row and their correct illumination sequence: waxing crescent lit RIGHT, first quarter lit RIGHT, waxing gibbous lit RIGHT, full moon, waning gibbous lit LEFT, last quarter lit LEFT, waning crescent lit LEFT. Redraw as PURE NEUTRAL BLACK-INK engraving for white-paper ink-economy printing. EVERY coloured pixel must have equal red green blue channels: R=G=B. NO cream, ivory, gold, brown or red tint anywhere. Reduce ornate crater density: simple crisp lunar craters with sparse widely spaced graphite hatching, open transparent unlit interiors and clear neutral contour. Real transparent RGBA background, NO paper, text, signature, rectangle or shadow. Fully complete silhouettes with generous transparent margins on ALL edges. Highest native resolution.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-dad4ee1a-5530-484b-9424-39e9bdf25fe3.png",
+  "reason": "Economy phase-correct candidate contained 1.66% chromatic opaque pixels above 1% tolerance; neutral sparse engraving redrawn.",
+  "rejectedFile": "rejected/C02-economy-v2.png"
+}

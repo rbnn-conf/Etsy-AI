@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "mode": "EXISTING_LISTING",
+  "snapshot_id": "006-cute-ghost-halloween",
+  "listing": {
+    "owner_reference": "#006",
+    "repo_product": "007-cute-ghost-halloween-activity-book",
+    "etsy_listing_id": null,
+    "live_state_read": false
+  },
+  "title": "Cute Ghost Halloween Activity Book for Kids | 30 Printable Halloween Pages | Coloring, Mazes, I Spy, Puzzles & Games",
+  "tags": [
+    "halloween activity",
+    "kids activity book",
+    "ghost printable",
+    "halloween printable",
+    "halloween for kids",
+    "halloween coloring",
+    "halloween maze",
+    "i spy halloween",
+    "cute ghost",
+    "kids printables",
+    "halloween games",
+    "classroom activity",
+    "halloween worksheet"
+  ],
+  "description_excerpt": "👻 Say hello to a cozy, not-scary Halloween! This Cute Ghost Halloween Activity Book is packed with friendly ghosts, smiling pumpkins, sleepy black cats and autumn leaves, ready to print at home.",
+  "product_type": "Halloween activity book",
+  "page_count": 30,
+  "formats": [
+    "A4",
+    "US-Letter"
+  ],
+  "price": null,
+  "category": "Paper & Party Supplies > Party Supplies > Party Games",
+  "notes": "Owner reference #006. In this repository the Cute Ghost Halloween product is products/007-cute-ghost-halloween-activity-book (products/006 is the budget planner). That workspace is not tracked in Git, so this snapshot is the only committed copy of its title and tags.",
+  "performance": {
+    "views": null,
+    "favourites": null,
+    "orders": null,
+    "revenue_minor": null
+  },
+  "source": {
+    "file": "products/007-cute-ghost-halloween-activity-book/listing/listing.json",
+    "sha256": "63e3898d5b0b7d8a0a1244468a1c88cb3f4bc62a6dab089277e5b1a0780bca4a",
+    "kind": "repository listing file (non-live fixture)"
+  },
+  "captured_at": "2026-09-29T00:00:00.000Z"
+}

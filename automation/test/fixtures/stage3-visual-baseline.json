@@ -1,0 +1,10 @@
+{
+  "about": "First accepted automated LumiumX Stage 3 visual baseline: Product #009 campaign, 2026-09-27 (coded-environment render). Structural only, never pixel comparison. Guards against returning to large ivory layouts, tiny product imagery, specification styling and one repeated template.",
+  "templates": ["hero", "designs", "inside", "included", "design", "design", "print", "sizes", "gift", "digital"],
+  "distinct_primitives": 9,
+  "product_share": {"hero": 0.48, "designs": 0.40, "inside": 0.23, "included": 0.29, "design": 0.50, "print": 0.27, "sizes": 0.45, "gift": 0.27, "digital": 0.19},
+  "tolerance": 0.05,
+  "min_headline_px": 87,
+  "pale_pixel_share": 0.5,
+  "max_pale_slides": 2
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "mode": "EXISTING_LISTING",
+  "snapshot_id": "005-cozy-autumn-adventures",
+  "listing": {
+    "owner_reference": "#005",
+    "repo_product": "005-cozy-autumn-adventures",
+    "etsy_listing_id": null,
+    "live_state_read": false
+  },
+  "title": "Cozy Autumn Coloring Book Printable, 20 Fall Coloring Pages, Cute Autumn Activity, A4 & US Letter Digital Download",
+  "tags": [
+    "autumn coloring",
+    "fall coloring book",
+    "printable coloring",
+    "cozy coloring",
+    "autumn printable",
+    "fall activity",
+    "coloring pages",
+    "pumpkin coloring",
+    "cozy autumn",
+    "printable activity",
+    "fall coloring pages",
+    "cozy coloring book",
+    "digital coloring"
+  ],
+  "description_excerpt": "Make a little time for autumn creativity. Cozy Autumn Adventures brings together 20 black-and-white coloring scenes, from pumpkin patches and leafy village lanes to warm kitchens, woodland paths and a fireside reading corner. A few scenes include playful jack-o'-lanterns and seasonal celebrations.",
+  "product_type": "Autumn colouring book",
+  "page_count": 20,
+  "formats": [
+    "A4",
+    "US-Letter"
+  ],
+  "price": null,
+  "category": null,
+  "notes": null,
+  "performance": {
+    "views": null,
+    "favourites": null,
+    "orders": null,
+    "revenue_minor": null
+  },
+  "source": {
+    "file": "products/005-cozy-autumn-adventures/listing/listing.json",
+    "sha256": "d47b8c162c1b22abb35021f1d8763b247de31f9072155bf2a1e5f520d7832447",
+    "kind": "repository listing file (non-live fixture)"
+  },
+  "captured_at": "2026-09-29T00:00:00.000Z"
+}

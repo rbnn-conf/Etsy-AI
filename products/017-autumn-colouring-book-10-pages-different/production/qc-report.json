@@ -1,0 +1,178 @@
+{
+  "product_id": "017",
+  "passed": true,
+  "at": "2026-10-06T10:35:22.120Z",
+  "checks": [
+    {
+      "name": "approved artwork unchanged",
+      "ok": true,
+      "detail": "10 approved assets match the handoff SHA-256"
+    },
+    {
+      "name": "expected files present",
+      "ok": true,
+      "detail": "13 files"
+    },
+    {
+      "name": "print variants complete",
+      "ok": true,
+      "detail": "A4, US-Letter, Colouring-Pages-PNG, Guide"
+    },
+    {
+      "name": "filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no duplicate outputs",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "derived files traceable to approved artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "aspect ratio preserved",
+      "ok": true,
+      "detail": "20 placements, no stretch, no crop"
+    },
+    {
+      "name": "PDFs valid: page counts, sizes and orientation",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "owner previews rendered",
+      "ok": true,
+      "detail": "3 of 3"
+    },
+    {
+      "name": "ZIP package verified",
+      "ok": true,
+      "detail": "3 ZIP parts, 13 entries, each deliverable exactly once"
+    },
+    {
+      "name": "file sizes fit Etsy",
+      "ok": true,
+      "detail": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-1.zip 13.2 MB, LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-2.zip 18.4 MB, LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-3.zip 8.0 MB (limit 20 MB each, 5 files)"
+    },
+    {
+      "name": "page count matches the specification",
+      "ok": true,
+      "detail": "10 of 10"
+    },
+    {
+      "name": "page order sequential",
+      "ok": true,
+      "detail": "1,2,3,4,5,6,7,8,9,10"
+    },
+    {
+      "name": "one approved image per page",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "every page in order in A4 and US Letter",
+      "ok": true,
+      "detail": "10 pages x 2 papers"
+    },
+    {
+      "name": "A4 and US Letter layout: centred inside safe margins",
+      "ok": true,
+      "detail": "10 mm margins, whole page, centred"
+    },
+    {
+      "name": "PNG pages pixel-identical to approved artwork",
+      "ok": true,
+      "detail": "10 pages"
+    },
+    {
+      "name": "page dimensions consistent",
+      "ok": true,
+      "detail": "1536x1024"
+    },
+    {
+      "name": "printing guide states the page count",
+      "ok": true,
+      "detail": "\"10 pages\""
+    },
+    {
+      "name": "contact sheet rendered",
+      "ok": true,
+      "detail": "10 pages"
+    },
+    {
+      "name": "no unsupported resolution claim",
+      "ok": true,
+      "detail": "effective print resolution A4 141 ppi, US-Letter 150 ppi"
+    }
+  ],
+  "resolution": {
+    "effective_ppi": {
+      "A4": 141,
+      "US-Letter": 150
+    },
+    "source_px": [
+      "1536x1024"
+    ],
+    "density_metadata": [
+      72
+    ],
+    "note": "Effective ppi = source pixels / printed size. PNG density metadata is not used when printing the PDFs."
+  },
+  "image_encoding": {
+    "pdf": "lossless",
+    "pages_png": true
+  },
+  "zip": null,
+  "zip_parts": [
+    {
+      "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-1.zip",
+      "file": "production/package/LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-1.zip",
+      "bytes": 13217279
+    },
+    {
+      "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-2.zip",
+      "file": "production/package/LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-2.zip",
+      "bytes": 18413514
+    },
+    {
+      "name": "LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-3.zip",
+      "file": "production/package/LumiumX-Autumn-Railway-Journey-Colouring-Book-Part-3.zip",
+      "bytes": 8004858
+    }
+  ],
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p1.png",
+      "source": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p2.png",
+      "source": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 2,
+      "label": "Page 2 of 10 (A4)"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Autumn-Railway-Journey-Colouring-Book-A4-p10.png",
+      "source": "A4/LumiumX-Autumn-Railway-Journey-Colouring-Book-A4.pdf",
+      "page": 10,
+      "label": "Page 10 of 10 (A4)"
+    },
+    {
+      "file": "production/previews/contact-sheet.png",
+      "source": null,
+      "page": null,
+      "label": "Contact sheet: all 10 pages in order"
+    }
+  ]
+}

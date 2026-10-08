@@ -1,0 +1,96 @@
+{
+  "specVersion": "1.0.0",
+  "productId": "006",
+  "slug": "minimalist-budget-and-goals-planner",
+  "name": "Minimalist Budget & Goals Planner",
+  "productType": "template",
+  "niche": "personal finance / monthly budgeting + life-goal tracking spreadsheets (Excel)",
+  "targetCustomer": "UK adults ~25-45 who want a classic all-in-one budget workbook — a Transactions-List-driven budget dashboard with real charts — plus a lightweight way to track a handful of life goals alongside the numbers.",
+  "description": "TEST/REVIEW build, v5. Functionally a near-exact recreation of a third-party reference budget workbook (inspected read-only, never modified, never redistributed, no branding carried over) — same categories, same Transactions-List-driven Actuals, same non-CSE ranking engine as v4. STRUCTURE: 3 sheets (Instructions / Budget / BONUS - Goal Tracker); Budget is one workspace: a KPI band, 2 native charts (Cash Flow bar with inline value labels + a Where My Money Went doughnut with a live centre total), Cash Flow Summary, an Available to Spend feature, a 3-across x 2-row grid of category tables (Income/Expense/Bill, then Savings/Debt/ranked Where My Money Went), and a full-width Transactions List every Actual is SUMIF'd from. DESIGN (v5, owner request 2026-09-15): reskinned to the LumiumX house register — the same warm-ivory/terracotta/sage palette and card language as Product #001 — replacing v4's third-party rose/sage recreation, per a LumiumX-branded reference mockup the owner supplied. FUNCTIONALITY: 3 native Excel charts (2 on Budget + 1 doughnut on Goal Tracker; v4 shipped 4 on Budget — Income Breakdown/Actual Allocation dropped as redundant with tables already on the page, no data lost) via the same @dpf/spreadsheet native-chart capability, extended this revision with optional data labels and titled/legended doughnuts. Not carried over: shop branding/links/photos, the reference's live currency-symbol fan-out (GBP-hard instead, house convention), and its full ~500-row blank padding (reduced, same categories/mechanics) — unchanged from v4. See ADR-021 (v4) and ADR-022 (v5).",
+  "pageCount": 3,
+  "pageSizes": [
+    { "name": "a3", "widthMm": 297, "heightMm": 420 }
+  ],
+  "templateFamily": "lumiumx-budget-spreadsheet",
+  "templateVersion": "1",
+  "exportFormats": ["xlsx"],
+  "primaryExport": { "type": "xlsx" },
+  "spreadsheet": {
+    "specRef": "products/006-minimalist-budget-and-goals-planner/xlsx-design-spec.json",
+    "note": "Built by products/006-*/xlsx/ via @dpf/spreadsheet. Theme is overridden per-product (not the engine DEFAULT_THEME) — v5 (ADR-022) uses the LumiumX house register (same hexes as Product #001), superseding v4's rose/sage recreation (ADR-021, which itself superseded ADR-020's sage-green card-adaptation direction). @dpf/spreadsheet's native Excel chart injection (spreadsheet/src/engine/native-charts.mjs, injectNativeCharts/countChartParts/withPreviewPaperSize), first built for v4, gained two more additive capabilities this revision: bar-chart data labels and titled/legended/multi-slice doughnuts — ExcelJS has no API to write charts at all, so these hand-author the OOXML chart/drawing parts and splice them into the built .xlsx."
+  },
+  "status": "test_review",
+  "style": {
+    "name": "lumiumx_house_register",
+    "typography": {
+      "displayFontFamily": "Georgia",
+      "fontFamily": "Calibri",
+      "fallbackFamily": "Arial, Helvetica, sans-serif",
+      "weights": [400, 700]
+    },
+    "palette": {
+      "primaryText": "#1F1F1F",
+      "secondaryText": "#3A3A3A",
+      "background": "#FAF7F2",
+      "accent": "#C4644A"
+    }
+  },
+  "requiredAssets": [],
+  "designSystem": {
+    "style": "lumiumx_house_register",
+    "note": "v5 (ADR-022): the LumiumX house register — the same warm-ivory/terracotta/sage palette, typography and card language as Product #001 — replacing v4's hex-for-hex recreation of the reference workbook's own rose/sage visual system (ADR-021). No solid section-band fills; section headings are plain tracked caps + a hairline. KPI cards get a soft family-tinted fill (income=plain, spending pools=pale terracotta, savings=pale sage) + a hairline frame, not a saturated block. Category cells have no colour chip. Progress is still a native Excel data bar, now in the sage accent. 3 native charts (2 on Budget + 1 doughnut on Goal Tracker) render real proportional data, not decorative placeholders.",
+    "typography": {
+      "display_font_family": "Georgia",
+      "font_family": "Calibri",
+      "fallback_family": "Arial, Helvetica, sans-serif",
+      "weights": { "regular": 400, "bold": 700 },
+      "numeral_style": "plain_tabular",
+      "sizes_pt": {
+        "sheet_title": 22,
+        "hero_figure": 24,
+        "section_heading": 9.5,
+        "table_heading": 9.5,
+        "body": 10,
+        "kicker": 8,
+        "footnote": 8
+      }
+    },
+    "color": {
+      "canvas": "#FAF7F2",
+      "primary_text": "#1F1F1F",
+      "secondary_text": "#3A3A3A",
+      "card_fill_terracotta": "#F2E6E1",
+      "card_fill_sage": "#E8ECE7",
+      "rule": "#E6E1D9",
+      "rule_strong": "#D8D2C6",
+      "accent": "#C4644A",
+      "accent_secondary": "#7E8A7B",
+      "input_fill": "#FFFDF4",
+      "input_rule": "#E7DCC2",
+      "positive_workbook_only": "#3B7A4B",
+      "negative_workbook_only": "#B4402F"
+    },
+    "accent_budget_per_sheet": 2,
+    "progress": "native Excel data bar (conditional formatting), sage accent colour",
+    "navigation": "native sheet tabs, terracotta/sage phase colour",
+    "currency": { "code": "GBP", "symbol": "£", "signed_format": "£#,##0.00;[Red]-£#,##0.00" }
+  },
+  "pages": [
+    { "id": 1, "slug": "instructions", "title": "Instructions", "order": 1, "purpose": "Quick walkthrough: how the workbook flows, the cell-colour key, a Different Transaction Types glossary, a worked example, printing tips. No third-party branding or links." },
+    { "id": 2, "slug": "budget", "title": "Budget", "order": 2, "purpose": "THE PRODUCT. Budget period + rollover, a 4-card KPI band (Income/Expenses & Bills/Debt Payments/Savings), 2 native charts (Cash Flow bar + Where My Money Went doughnut), Cash Flow Summary, an Available to Spend feature, a 3-across x 2-row grid of category tables (Income Summary/Expense Summary/Bill Tracker, then Savings Tracker/Debt Payments Tracker/ranked Where My Money Went), and a full-width Transactions List every Actual column is SUMIF'd from." },
+    { "id": 3, "slug": "goal-tracker", "title": "BONUS - Goal Tracker", "order": 3, "purpose": "Areas-of-Life roll-up + a native doughnut overall-progress ring, plus an 8-row goals table (life area, goal, reward, deadline, status, steps-done/steps-total progress)." }
+  ],
+  "metadata": {
+    "approvedFrom": "Owner request 2026-09-13/14/15, five rounds: (1) 'Product 1 design x Product 5 functionality' recombination. (2) Correction: Product #1's current card-based 'Digital Stationery' design (ADR-018) is the reference, adapt as far as Excel allows. (3) Correction: recreate the reference workbook's actual 3-sheet structure with Budget as one dense workspace. (4) Correction (2026-09-14), having reviewed the reference file directly: 'make it exactly like this' — its own rose/sage design, its three-column-zone structure, Transactions-List-driven Actuals, and (explicitly chosen over a data-bar fallback when asked) real native Excel charts. (5) Correction (2026-09-15), having reviewed a LumiumX-branded reference mockup: reskin to the LumiumX house register (Product #001's palette/typography), keeping v4's functionality intact. See ADR-021 (v4) and ADR-022 (v5).",
+    "delivery": ["xlsx"],
+    "automation": "none",
+    "llm": "none",
+    "grayscaleSafe": false,
+    "printFirst": false,
+    "engineChanges": "@dpf/spreadsheet's native-charts.mjs (injectNativeCharts/countChartParts/withPreviewPaperSize), first built for v4, gained two more additive capabilities in v5: bar-chart data labels (showValues) and titled/legended/multi-slice doughnuts (title/categoriesRef/legendPos) — both optional, default output unchanged for existing callers. jszip is an explicit dependency (was already an ExcelJS transitive one).",
+    "openQuestions": [
+      "Awaiting owner visual + functional sign-off before any Etsy listing work begins. Nothing in this product's pipeline creates an Etsy draft.",
+      "Whether this LumiumX house register should now be treated as settled for all spreadsheet products (it already is for #001); the owner has indicated future colour variants of this same structure may be requested."
+    ]
+  }
+}

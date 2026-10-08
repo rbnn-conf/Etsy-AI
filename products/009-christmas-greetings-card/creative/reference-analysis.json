@@ -1,0 +1,76 @@
+{
+  "reference_summaries": [
+    {
+      "reference_file": "references/reference-01.jpg",
+      "summary": "Portrait greeting-card design featuring a centred, front-facing woodland rabbit in winter accessories. The animal is rendered in delicate hand-painted watercolour with fine ink-like fur definition, muted evergreen and warm brown accents, sparse gold paint splatters, and generous white space reserved for a large elegant greeting at the top."
+    },
+    {
+      "reference_file": "references/reference-02.jpg",
+      "summary": "A highly detailed, storybook-style winter night scene. A realistically modelled squirrel on a snow-covered branch holds a sparkler, framed by glowing string lights, a lantern, ornaments, trees, and a softly blurred festive village background. The design relies on warm golden illumination against deep cool charcoal-blue shadows."
+    },
+    {
+      "reference_file": "references/reference-03.jpg",
+      "summary": "A warm, nostalgic miniature-world Christmas interior. Two small mice wearing Santa hats stand by a glowing arched doorway beneath a large decorated tree, wrapped presents, and a lantern. Painterly textures, dense decorative details, softly falling snow, and amber lighting create a cosy fairy-tale scene."
+    }
+  ],
+  "illustration_category": "Whimsical Christmas greeting-card illustration; a blend of hand-painted watercolour animal portraiture and richly rendered storybook holiday scenes.",
+  "line_weight": "Reference 01 uses very fine, irregular pencil/ink-like contour and fur strokes, approximately 0.5–1 px at card-preview scale. References 02–03 are painterly and largely outline-free; forms are separated by value, texture, and rim light rather than graphic linework.",
+  "line_smoothness": "Organic and hand-rendered rather than vector-clean. Contours are soft, slightly broken, and feathered into painted edges; fine fur and foliage marks vary naturally in direction and length.",
+  "level_of_detail": "Medium-high for the simple animal portrait and very high for the scenic cards. Animal anatomy includes individual fur strands and textile texture; interiors and outdoor scenes layer ornaments, branches, lights, snow, architecture, and small props.",
+  "shape_language": "Naturalistic, gently rounded organic shapes: soft animal bodies, curved ears and tails, fluffy foliage, oval baubles, arched doors, and warm lantern forms. Avoid geometric cartoon simplification.",
+  "character_proportions": "Cute but broadly believable woodland-animal anatomy. Heads and eyes are mildly enlarged for appeal, while ears, paws, body mass, and poses retain a naturalistic structure.",
+  "facial_simplicity": "Expressive but not minimalist. Faces use small noses and mouths, glossy dark eyes with pinpoint highlights, subtle cheek and muzzle shading, and restrained, gentle expressions.",
+  "composition_density": "Varies from sparse portrait-led layout to dense cinematic vignettes. Use one clearly dominant focal subject; surrounding festive details should create a framing arc and depth without obscuring the subject.",
+  "whitespace": "Reference 01 leaves substantial clean white space above and around the character for a greeting. References 02–03 use limited intentional open space, typically a pale wall, sky, or defocused background region to provide visual rest.",
+  "background_complexity": "From a near-white paper field with restrained flecks to layered, atmospheric winter environments. Complex scenes contain foreground, middle-ground, and softly receding background detail, with selective blur or low contrast at depth.",
+  "perspective": "Reference 01 is symmetrical, eye-level, and near frontal. Scenic references use intimate eye-level to slightly low viewpoints, with a close foreground perch or floor and believable receding interiors/outdoor backgrounds; no extreme wide-angle distortion.",
+  "colour_behaviour": "Restrained, softly blended painterly colour with translucent watercolour-like variation. Winter scenes balance cool blue-grey, ivory, and evergreen shadow tones against concentrated pools of amber-gold light and small red accents.",
+  "palette_characteristics": "Classic muted Christmas palette: evergreen, sage and pine; warm animal browns; creamy white snow and paper; antique gold; rusty red, burgundy, and occasional warm orange. Colours are earthy and gently desaturated rather than bright primary holiday hues.",
+  "contrast": "Moderate in the portrait, with a pale background and darker facial/accessory focal points. High cinematic value contrast in the scenic work, especially glowing lanterns, fairy lights, windows, and sparkler flare against dusky shadows.",
+  "shading_approach": "Soft, layered watercolour and painterly tonal modelling, supplemented by fine directional fur marks. Lighting is warm and luminous, with diffuse bloom around lights, translucent snow highlights, gentle cast shadows, and no hard cel-shading.",
+  "texture": "Visible cold-pressed paper/wash texture, mottled pigment, soft dry-brush effects, fine fur strokes, knitted textile detail, granular snow, and bokeh-like light specks. Texture is decorative but supports form and atmosphere.",
+  "emotional_tone": "Cosy, tender, nostalgic, magical, and quietly festive. The animals feel sweet and personable, while golden lighting conveys warmth and wonder.",
+  "age_suitability": "Appropriate for general family recipients and especially appealing to children and adults who enjoy woodland-animal, cottagecore, and storybook Christmas imagery. The sophisticated painted detail suits an all-ages greeting card more than a preschool activity page.",
+  "printable_suitability": "Well suited to full-colour printable greeting cards when exported at high resolution, preferably with a clean margin or border. The sparse portrait format is economical on ink, but the dark, densely painted night scenes and broad shadow areas will consume substantial ink. Very fine lights, fur, ornaments, and background details may soften on home printers, so an original printable version should preserve larger focal shapes, maintain strong text contrast, and avoid relying on tiny details for readability.",
+  "do_not_copy": [
+    {
+      "element": "The exact 'MERRY CHRISTMAS / AND HAPPY NEW YEAR' lettering, wording arrangement, decorative letterforms, and typography from reference 01",
+      "reason": "It is specific text and a distinctive greeting layout in the supplied design."
+    },
+    {
+      "element": "The front-facing rabbit wearing the particular green knit hat with holly and berry sprig plus matching snowflake scarf",
+      "reason": "This is the reference's distinctive central character, costume combination, and portrait composition."
+    },
+    {
+      "element": "The precise sparse white-card composition with gold splatters surrounding that dressed rabbit",
+      "reason": "It is a recognisable signature arrangement of the supplied card artwork."
+    },
+    {
+      "element": "The squirrel holding a sparkler on a snow-covered, ornamented branch beneath a hanging lantern",
+      "reason": "This is a distinctive narrative composition from reference 02."
+    },
+    {
+      "element": "The exact arrangement of glowing lights, snowy village, trees, lantern, ornaments, and squirrel in reference 02",
+      "reason": "The specific environmental staging and lighting composition should not be reproduced."
+    },
+    {
+      "element": "The miniature mice in Santa hats emerging from a tiny arched door beside a towering decorated Christmas tree",
+      "reason": "This is the distinctive character scenario and composition of reference 03."
+    },
+    {
+      "element": "The particular room layout, tree decoration scheme, gift stack, lantern, wall window, rug, and mouse-house doorway from reference 03",
+      "reason": "These combined scene elements form a highly distinctive proprietary-looking composition."
+    },
+    {
+      "element": "Any visible card mock-up presentation, envelopes, borders, product photography, or staging from all references",
+      "reason": "These are presentation assets rather than reusable illustration content and should not be incorporated into a new card design."
+    }
+  ],
+  "analysed_at": "2026-09-27T14:50:31.789Z",
+  "model": "gpt-5.6-terra",
+  "reference_files": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ]
+}

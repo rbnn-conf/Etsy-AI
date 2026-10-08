@@ -1,0 +1,197 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4590778612,
+      "actual": 4590778612
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4590778612,
+      "actual": 4590778612
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Adult Spooky Cartoon Colouring Book | Halloween Diner Pages, Instant Digital Download",
+      "actual": "Printable Adult Spooky Cartoon Colouring Book | Halloween Diner Pages, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "2031 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 5.99",
+      "actual": "GBP 5.99"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 339,
+      "actual": 339
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "A4 PDF",
+        "US Letter PDF",
+        "PNG pages",
+        "Printing guide",
+        "Digital download"
+      ],
+      "actual": [
+        "A4 PDF",
+        "US Letter PDF",
+        "PNG pages",
+        "Printing guide",
+        "Digital download"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8688635557,
+        8688635757,
+        8688635863,
+        8640818984,
+        8688636147,
+        8688636265,
+        8640819296,
+        8688636457,
+        8688636589,
+        8688636727
+      ],
+      "actual": [
+        8688635557,
+        8688635757,
+        8688635863,
+        8640818984,
+        8688636147,
+        8688636265,
+        8640819296,
+        8688636457,
+        8688636589,
+        8688636727
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "Midnight-Monster-Diner-Colouring-Book-A4.zip (7650657 bytes)",
+        "Midnight-Monster-Diner-Colouring-Book-US-Letter.zip (7648334 bytes)",
+        "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip (14258185 bytes)",
+        "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip (12968965 bytes)"
+      ],
+      "actual": [
+        "Midnight-Monster-Diner-Colouring-Book-A4.zip (7650657 bytes)",
+        "Midnight-Monster-Diner-Colouring-Book-US-Letter.zip (7648334 bytes)",
+        "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-01-11.zip (14258185 bytes)",
+        "Midnight-Monster-Diner-Colouring-Book-Pages-PNG-Pages-12-21.zip (12968965 bytes)"
+      ]
+    },
+    {
+      "field": "property: Primary color",
+      "ok": true,
+      "expected": [
+        "Black"
+      ],
+      "actual": [
+        "Black"
+      ]
+    },
+    {
+      "field": "property: Secondary color",
+      "ok": true,
+      "expected": [
+        "White"
+      ],
+      "actual": [
+        "White"
+      ]
+    }
+  ],
+  "fingerprint": "367327200948fdfc2f053aa631a42e9a81df932d6bea5fc0bb62fcfe1a307bf2",
+  "listing_id": 4590778612,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "c742227385501637f3993fbf7e3be2569772a46f39e3bbf1e5ea406724d85d3f",
+  "remote_url": "https://www.etsy.com/listing/4590778612/printable-adult-spooky-cartoon-colouring",
+  "at": "2026-10-07T22:20:15.381Z"
+}

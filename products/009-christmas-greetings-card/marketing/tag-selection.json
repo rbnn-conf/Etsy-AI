@@ -1,0 +1,156 @@
+{
+  "tag_candidates": [
+    "printable xmas card",
+    "robin winter card",
+    "cosy festive card",
+    "storybook card",
+    "garden gate robin",
+    "holly robin card",
+    "neighbour christmas",
+    "friend xmas card",
+    "family xmas card",
+    "winter sunrise card",
+    "nostalgic christmas",
+    "A4 christmas card",
+    "US letter card",
+    "card panel printable",
+    "christmas wishes",
+    "traditional xmas",
+    "watercolour robin",
+    "frosted gate card",
+    "village robin card",
+    "lantern christmas"
+  ],
+  "tags": [
+    {
+      "candidate": "printable xmas card",
+      "tag": "printable xmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "robin winter card",
+      "tag": "robin winter card",
+      "result": "kept"
+    },
+    {
+      "candidate": "cosy festive card",
+      "tag": "cosy festive card",
+      "result": "kept"
+    },
+    {
+      "candidate": "storybook card",
+      "tag": "storybook card",
+      "result": "kept"
+    },
+    {
+      "candidate": "garden gate robin",
+      "tag": "garden gate robin",
+      "result": "kept"
+    },
+    {
+      "candidate": "holly robin card",
+      "tag": "holly robin card",
+      "result": "kept"
+    },
+    {
+      "candidate": "neighbour christmas",
+      "tag": "neighbour christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "friend xmas card",
+      "tag": "friend xmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "family xmas card",
+      "tag": "family xmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "winter sunrise card",
+      "tag": "winter sunrise card",
+      "result": "kept"
+    },
+    {
+      "candidate": "nostalgic christmas",
+      "tag": "nostalgic christmas",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 christmas card",
+      "tag": "a4 christmas card",
+      "result": "kept"
+    },
+    {
+      "candidate": "US letter card",
+      "tag": "us letter card",
+      "result": "kept"
+    },
+    {
+      "candidate": "card panel printable",
+      "tag": "card panel printable",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "christmas wishes",
+      "tag": "christmas wishes",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "traditional xmas",
+      "tag": "traditional xmas",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "watercolour robin",
+      "tag": "watercolour robin",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "frosted gate card",
+      "tag": "frosted gate card",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "village robin card",
+      "tag": "village robin card",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "lantern christmas",
+      "tag": "lantern christmas",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF files",
+      "material": "Digital PDF files",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG artwork files",
+      "material": "PNG artwork files",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "ZIP download",
+      "material": "ZIP download",
+      "result": "kept"
+    }
+  ],
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

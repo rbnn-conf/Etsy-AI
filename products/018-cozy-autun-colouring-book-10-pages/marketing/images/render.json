@@ -1,0 +1,1093 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4498345,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1000,
+        "boxH": 1500,
+        "complete": true,
+        "rect": {
+          "x": 880.5386352539062,
+          "y": 287.16851806640625,
+          "w": 1038.9228515625,
+          "h": 1525.662841796875
+        },
+        "visible": {
+          "x": 880.5386352539062,
+          "y": 287.16851806640625,
+          "w": 1038.9228515625,
+          "h": 1525.662841796875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "A cosy scene to colour",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "The Apple Pie Kitchen Colouring Book",
+        "text": "The Apple Pie Kitchen Colouring Book"
+      },
+      {
+        "claim": "example",
+        "value": "Coloured example",
+        "text": "Coloured example"
+      }
+    ],
+    "slide": "01-hero",
+    "scene": "env-01-hero",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-lifestyle-hero",
+      "text_zone": "top-left",
+      "background": "environment",
+      "min_share": 0.33,
+      "region": {
+        "x": 120,
+        "y": 300,
+        "w": 1780,
+        "h": 1540
+      },
+      "copy": {
+        "x": 120,
+        "y": 110,
+        "w": 760,
+        "h": 367.04
+      },
+      "assets": [
+        "page-2"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "01-hero.png",
+    "thumb": "thumbs/01-hero.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3357451,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "8836f6bb7d64cd5ec47ace70c918e4c7809db3d76bd11cbb3d0e9b054581fe24",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1300,
+        "boxH": 1950,
+        "complete": true,
+        "rect": {
+          "x": -30,
+          "y": -100,
+          "w": 1300,
+          "h": 1950
+        },
+        "visible": {
+          "x": 100,
+          "y": 290,
+          "w": 1040,
+          "h": 1560
+        },
+        "crop": "0.1000,0.2000,0.8000,0.8000"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Rolling pastry",
+        "fontPx": 100
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-number",
+        "value": "Page 4 of 10",
+        "text": "Page 4 of 10"
+      }
+    ],
+    "slide": "02-preview",
+    "scene": "env-01-hero",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-lifestyle-page",
+      "text_zone": "top-right",
+      "background": "environment",
+      "min_share": 0.35,
+      "region": {
+        "x": 80,
+        "y": 270,
+        "w": 1080,
+        "h": 1600
+      },
+      "copy": {
+        "x": 1180,
+        "y": 110,
+        "w": 700,
+        "h": 308
+      },
+      "assets": [
+        "page-4"
+      ],
+      "crops": [
+        {
+          "asset": "page-4",
+          "crop": {
+            "x": 0.1,
+            "y": 0.2,
+            "w": 0.8,
+            "h": 0.8
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          },
+          "upscale": 1.27
+        }
+      ],
+      "renders": []
+    },
+    "file": "02-preview.png",
+    "thumb": "thumbs/02-preview.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2663672,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 94.81138610839844,
+          "y": 630.5678100585938,
+          "w": 343.37725830078125,
+          "h": 505.86444091796875
+        },
+        "visible": {
+          "x": 94.81138610839844,
+          "y": 630.5678100585938,
+          "w": 343.37725830078125,
+          "h": 505.86444091796875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "cce54f97381e349f3b9676ae4214e76b262ce4e40d75e7987ca965adc0c24570",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 461.8113708496094,
+          "y": 630.5678100585938,
+          "w": 343.3772277832031,
+          "h": 505.86444091796875
+        },
+        "visible": {
+          "x": 461.8113708496094,
+          "y": 630.5678100585938,
+          "w": 343.3772277832031,
+          "h": 505.86444091796875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "8836f6bb7d64cd5ec47ace70c918e4c7809db3d76bd11cbb3d0e9b054581fe24",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 828.8114013671875,
+          "y": 630.5678100585938,
+          "w": 343.377197265625,
+          "h": 505.86444091796875
+        },
+        "visible": {
+          "x": 828.8114013671875,
+          "y": 630.5678100585938,
+          "w": 343.377197265625,
+          "h": 505.86444091796875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "816b503517d016864ac3fab62eba51899baeccd8408169638106b996eafb6113",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 1194.8114013671875,
+          "y": 630.5678100585938,
+          "w": 343.377197265625,
+          "h": 505.86444091796875
+        },
+        "visible": {
+          "x": 1194.8114013671875,
+          "y": 630.5678100585938,
+          "w": 343.377197265625,
+          "h": 505.86444091796875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a929b2430421a34b0b77f92b7dc53a5badce9ae7af051a51ba00f80fa567ed61",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 1561.8114013671875,
+          "y": 630.5678100585938,
+          "w": 343.377197265625,
+          "h": 505.86444091796875
+        },
+        "visible": {
+          "x": 1561.8114013671875,
+          "y": 630.5678100585938,
+          "w": 343.377197265625,
+          "h": 505.86444091796875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "d16df90ec4e3831c69eef9df8f3d4feaba6490eb354ff40bd528d07fc6be9a3d",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 277.8113708496094,
+          "y": 1163.5677490234375,
+          "w": 343.3772277832031,
+          "h": 505.864501953125
+        },
+        "visible": {
+          "x": 277.8113708496094,
+          "y": 1163.5677490234375,
+          "w": 343.3772277832031,
+          "h": 505.864501953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "aa0159f1db0ab40f1e8fd6c7c0aa75ffbd4e7c7e10f8354ba9e90c17f51ce1bb",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 644.8114013671875,
+          "y": 1163.5677490234375,
+          "w": 343.377197265625,
+          "h": 505.864501953125
+        },
+        "visible": {
+          "x": 644.8114013671875,
+          "y": 1163.5677490234375,
+          "w": 343.377197265625,
+          "h": 505.864501953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "3a841398f4122397ec1ab83b7dff20a76454525a06d09b54bc87d5c8d9b778a6",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 1011.8114013671875,
+          "y": 1163.5677490234375,
+          "w": 343.377197265625,
+          "h": 505.864501953125
+        },
+        "visible": {
+          "x": 1011.8114013671875,
+          "y": 1163.5677490234375,
+          "w": 343.377197265625,
+          "h": 505.864501953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "0d449e72307a2847e9252aa49aa32998f817f20b1204936c2bcec94097986e69",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 333,
+        "boxH": 499,
+        "complete": true,
+        "rect": {
+          "x": 1378.8114013671875,
+          "y": 1163.5677490234375,
+          "w": 343.377197265625,
+          "h": 505.864501953125
+        },
+        "visible": {
+          "x": 1378.8114013671875,
+          "y": 1163.5677490234375,
+          "w": 343.377197265625,
+          "h": 505.864501953125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "9 pagesto colour",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-count",
+        "value": "9 colouring pages",
+        "text": "9 pagesto colour"
+      }
+    ],
+    "slide": "03-contents",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-collage",
+      "text_zone": "top-centre",
+      "background": "linen",
+      "min_share": 0.3,
+      "assets": [
+        "page-2",
+        "page-3",
+        "page-4",
+        "page-5",
+        "page-6",
+        "page-7",
+        "page-8",
+        "page-9",
+        "page-10"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "03-contents.png",
+    "thumb": "thumbs/03-contents.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3760684,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 733,
+        "boxH": 1100,
+        "complete": true,
+        "rect": {
+          "x": 1081.028564453125,
+          "y": 547.5443725585938,
+          "w": 770.94287109375,
+          "h": 1124.9111328125
+        },
+        "visible": {
+          "x": 1081.028564453125,
+          "y": 547.5443725585938,
+          "w": 770.94287109375,
+          "h": 1124.9111328125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Colour your own story",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "example",
+        "value": "Coloured example",
+        "text": "Coloured example"
+      },
+      {
+        "claim": "line-art",
+        "value": "Black-and-white line art",
+        "text": "Black-and-white line art"
+      }
+    ],
+    "slide": "04-coloured",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-coloured",
+      "text_zone": "top-left",
+      "background": "linen",
+      "min_share": 0.08,
+      "assets": [
+        "page-2"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "04-coloured.png",
+    "thumb": "thumbs/04-coloured.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3710514,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 830,
+        "boxH": 1245,
+        "complete": true,
+        "rect": {
+          "x": 100,
+          "y": 430,
+          "w": 830,
+          "h": 1245
+        },
+        "visible": {
+          "x": 100,
+          "y": 430,
+          "w": 830,
+          "h": 1245
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "From line to colour",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "example",
+        "value": "Coloured example",
+        "text": "Coloured example"
+      },
+      {
+        "claim": "line-art",
+        "value": "Black-and-white line art",
+        "text": "Black-and-white line art"
+      },
+      {
+        "claim": "example",
+        "value": "Coloured example for inspiration",
+        "text": "Coloured example for inspiration"
+      }
+    ],
+    "slide": "05-before-after",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-before-after",
+      "text_zone": "top-centre",
+      "background": "linen",
+      "min_share": 0.2,
+      "assets": [
+        "page-2"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "05-before-after.png",
+    "thumb": "thumbs/05-before-after.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4043032,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "0d449e72307a2847e9252aa49aa32998f817f20b1204936c2bcec94097986e69",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1040,
+        "boxH": 1560,
+        "complete": true,
+        "rect": {
+          "x": 833.0951538085938,
+          "y": 272.3274230957031,
+          "w": 1093.8095703125,
+          "h": 1595.34521484375
+        },
+        "visible": {
+          "x": 833.0951538085938,
+          "y": 272.3274230957031,
+          "w": 1093.8095703125,
+          "h": 1595.34521484375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "A quiet creative pause",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [],
+    "slide": "06-lifestyle",
+    "scene": "env-06-lifestyle",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-lifestyle-page",
+      "text_zone": "top-left",
+      "background": "environment",
+      "min_share": 0.35,
+      "region": {
+        "x": 840,
+        "y": 270,
+        "w": 1080,
+        "h": 1600
+      },
+      "copy": {
+        "x": 120,
+        "y": 110,
+        "w": 700,
+        "h": 265.04
+      },
+      "assets": [
+        "page-10"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "06-lifestyle.png",
+    "thumb": "thumbs/06-lifestyle.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2291359,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "a929b2430421a34b0b77f92b7dc53a5badce9ae7af051a51ba00f80fa567ed61",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1050,
+        "boxH": 1575,
+        "complete": true,
+        "rect": {
+          "x": 829.5655517578125,
+          "y": 199.52696228027344,
+          "w": 1090.868896484375,
+          "h": 1601.946044921875
+        },
+        "visible": {
+          "x": 829.5655517578125,
+          "y": 199.52696228027344,
+          "w": 1090.868896484375,
+          "h": 1601.946044921875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Kitchen scenes to colour",
+        "fontPx": 128
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "process",
+        "value": "One design per page",
+        "text": "One design per page"
+      },
+      {
+        "claim": "line-art",
+        "value": "Black-and-white line art",
+        "text": "Black-and-white line art"
+      },
+      {
+        "claim": "process",
+        "value": "Print single-sided",
+        "text": "Print single-sided"
+      },
+      {
+        "claim": "process",
+        "value": "Print as many copies as you need for personal use",
+        "text": "Print as many copies as you need"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide included",
+        "text": "Printing guide included"
+      }
+    ],
+    "slide": "07-showcase",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-features",
+      "text_zone": "top-left",
+      "background": "dusk",
+      "min_share": 0.3,
+      "assets": [
+        "page-6"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "07-showcase.png",
+    "thumb": "thumbs/07-showcase.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1342775,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "d3d1ab4027ef6bdbc1318b419df5b560902d6f543fb9504b712c5d3db3c18edc",
+        "naturalW": 596,
+        "naturalH": 842,
+        "boxW": 453,
+        "boxH": 640,
+        "complete": true,
+        "rect": {
+          "x": 530,
+          "y": 1215,
+          "w": 453,
+          "h": 640
+        },
+        "visible": {
+          "x": 530,
+          "y": 1215,
+          "w": 453,
+          "h": 640
+        },
+        "crop": null
+      },
+      {
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 427,
+        "boxH": 640,
+        "complete": true,
+        "rect": {
+          "x": 1043,
+          "y": 1215,
+          "w": 427,
+          "h": 640
+        },
+        "visible": {
+          "x": 1043,
+          "y": 1215,
+          "w": 427,
+          "h": 640
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Digital download details",
+        "fontPx": 118
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "No physical item will be shipped",
+        "text": "No physical item will be shipped"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant access after purchase",
+        "text": "Instant accessafter purchase"
+      },
+      {
+        "claim": "process",
+        "value": "Print at home or use a print shop",
+        "text": "Print at homeor use a print shop"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US LetterPDFs"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Step-by-step printing guide",
+        "text": "Step-by-stepprinting guide"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Colour",
+        "text": "Colour"
+      }
+    ],
+    "slide": "08-download",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-printable",
+      "text_zone": "top-centre",
+      "background": "linen",
+      "min_share": 0.08,
+      "assets": [
+        "page-2",
+        "sheet"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "08-download.png",
+    "thumb": "thumbs/08-download.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3879221,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "a929b2430421a34b0b77f92b7dc53a5badce9ae7af051a51ba00f80fa567ed61",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1040,
+        "boxH": 1560,
+        "complete": true,
+        "rect": {
+          "x": 833.0951538085938,
+          "y": 272.3274230957031,
+          "w": 1093.8095703125,
+          "h": 1595.34521484375
+        },
+        "visible": {
+          "x": 833.0951538085938,
+          "y": 272.3274230957031,
+          "w": 1093.8095703125,
+          "h": 1595.34521484375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Settle in and colour",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [],
+    "slide": "09-cozy",
+    "scene": "env-09-cozy",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-lifestyle-page",
+      "text_zone": "top-left",
+      "background": "environment",
+      "min_share": 0.35,
+      "region": {
+        "x": 840,
+        "y": 270,
+        "w": 1080,
+        "h": 1600
+      },
+      "copy": {
+        "x": 120,
+        "y": 110,
+        "w": 700,
+        "h": 323.04
+      },
+      "assets": [
+        "page-6"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "09-cozy.png",
+    "thumb": "thumbs/09-cozy.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 2585342,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "6209f00d18d6aed4aeec53e57f576bcbf2a27dd918a75717f2450cec8db30dac",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 560,
+        "boxH": 840,
+        "complete": true,
+        "rect": {
+          "x": 65.73248291015625,
+          "y": 724.3526000976562,
+          "w": 728.5350341796875,
+          "h": 941.2948608398438
+        },
+        "visible": {
+          "x": 65.73248291015625,
+          "y": 724.3526000976562,
+          "w": 728.5350341796875,
+          "h": 941.2948608398438
+        },
+        "crop": null
+      },
+      {
+        "sha256": "cce54f97381e349f3b9676ae4214e76b262ce4e40d75e7987ca965adc0c24570",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 560,
+        "boxH": 840,
+        "complete": true,
+        "rect": {
+          "x": 325.5744323730469,
+          "y": 712.0458374023438,
+          "w": 664.85107421875,
+          "h": 905.9083862304688
+        },
+        "visible": {
+          "x": 325.5744323730469,
+          "y": 712.0458374023438,
+          "w": 664.85107421875,
+          "h": 905.9083862304688
+        },
+        "crop": null
+      },
+      {
+        "sha256": "8836f6bb7d64cd5ec47ace70c918e4c7809db3d76bd11cbb3d0e9b054581fe24",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 560,
+        "boxH": 840,
+        "complete": true,
+        "rect": {
+          "x": 587.9463500976562,
+          "y": 703.1863403320312,
+          "w": 596.1072387695312,
+          "h": 863.6273803710938
+        },
+        "visible": {
+          "x": 587.9463500976562,
+          "y": 703.1863403320312,
+          "w": 596.1072387695312,
+          "h": 863.6273803710938
+        },
+        "crop": null
+      },
+      {
+        "sha256": "816b503517d016864ac3fab62eba51899baeccd8408169638106b996eafb6113",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 560,
+        "boxH": 840,
+        "complete": true,
+        "rect": {
+          "x": 815.9463500976562,
+          "y": 703.1863403320312,
+          "w": 596.1072387695312,
+          "h": 863.6273803710938
+        },
+        "visible": {
+          "x": 815.9463500976562,
+          "y": 703.1863403320312,
+          "w": 596.1072387695312,
+          "h": 863.6273803710938
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a929b2430421a34b0b77f92b7dc53a5badce9ae7af051a51ba00f80fa567ed61",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 560,
+        "boxH": 840,
+        "complete": true,
+        "rect": {
+          "x": 1009.574462890625,
+          "y": 712.0458374023438,
+          "w": 664.85107421875,
+          "h": 905.9083862304688
+        },
+        "visible": {
+          "x": 1009.574462890625,
+          "y": 712.0458374023438,
+          "w": 664.85107421875,
+          "h": 905.9083862304688
+        },
+        "crop": null
+      },
+      {
+        "sha256": "aa0159f1db0ab40f1e8fd6c7c0aa75ffbd4e7c7e10f8354ba9e90c17f51ce1bb",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 560,
+        "boxH": 840,
+        "complete": true,
+        "rect": {
+          "x": 1205.732421875,
+          "y": 724.3526000976562,
+          "w": 728.53515625,
+          "h": 941.2948608398438
+        },
+        "visible": {
+          "x": 1205.732421875,
+          "y": 724.3526000976562,
+          "w": 728.53515625,
+          "h": 941.2948608398438
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Download print and colour",
+        "fontPx": 120
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "page-count",
+        "value": "9 colouring pages",
+        "text": "9 colouring pages"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "format",
+        "value": "PNG pages",
+        "text": "PNG pages"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "10-bundle",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "cb-bundle",
+      "text_zone": "top-centre",
+      "background": "dusk",
+      "min_share": 0.3,
+      "assets": [
+        "page-2",
+        "page-3",
+        "page-4",
+        "page-5",
+        "page-6",
+        "page-8"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "10-bundle.png",
+    "thumb": "thumbs/10-bundle.png"
+  }
+]

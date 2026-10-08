@@ -1,0 +1,1367 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "017",
+  "workspace": "017-autumn-colouring-book-10-pages-different",
+  "name": "Autumn Railway Journey Colouring Book",
+  "slug": "autumn-railway-journey-colouring-book",
+  "season": "Autumn",
+  "product_type": "Autumn colouring book",
+  "target_customer": "Families and children ages 6+ who enjoy transport and storybook colouring",
+  "page_count": 10,
+  "status": "AWAITING_MARKETING_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-10-06T10:28:24.409Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-10-06T10:28:59.638Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-10-06T10:29:09.149Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "REFERENCES_RECEIVED",
+      "event": "reference_added",
+      "at": "2026-10-06T10:29:27.204Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "REFERENCES_RECEIVED",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-10-06T10:30:35.047Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-10-06T10:30:35.066Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-10-06T10:31:03.565Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-10-06T10:31:18.095Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-10-06T10:31:52.050Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-06T10:31:52.059Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-06T10:32:25.338Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-06T10:32:46.013Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-06T10:33:03.009Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-06T10:34:27.207Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "book_approved",
+      "at": "2026-10-06T10:34:53.666Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-10-06T10:34:56.857Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-06T10:34:56.862Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-06T10:35:22.116Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-10-06T10:35:28.033Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-10-06T10:35:41.305Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-06T10:35:52.179Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-06T10:36:27.649Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-06T10:37:29.251Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-10-06T10:37:30.628Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-10-06T11:08:18.203Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-06T11:08:18.472Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-06T11:08:18.794Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-06T11:08:37.568Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-06T11:08:38.992Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Autumn colouring book 10 pages different scenes",
+    "requested_at": "2026-10-06T10:28:24.409Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [
+    {
+      "file": "references/reference-01.jpg",
+      "telegram_file_unique_id": "AQADVxFrG7oYKFJ9",
+      "mime_type": "image/jpeg",
+      "bytes": 163339,
+      "sha256": "0efa4aa6dcf93ced96b009f2a6239cbb9d07cb91ca678f55d1274ddb21185afa",
+      "received_at": "2026-10-06T10:28:59.638Z"
+    },
+    {
+      "file": "references/reference-02.jpg",
+      "telegram_file_unique_id": "AQADWRFrG7oYKFJ-",
+      "mime_type": "image/jpeg",
+      "bytes": 247061,
+      "sha256": "fc0b9fb1fd685685564373e9380c46438a76c32d2ab938c4cd22b9684ed8cf5b",
+      "received_at": "2026-10-06T10:29:09.149Z"
+    },
+    {
+      "file": "references/reference-03.jpg",
+      "telegram_file_unique_id": "AQADWhFrG7oYKFJ9",
+      "mime_type": "image/jpeg",
+      "bytes": 92402,
+      "sha256": "cbd26e1860283de6b455de8584466d4e12a4fb565c6f54c6be3c32208ddbe1ac",
+      "received_at": "2026-10-06T10:29:27.204Z"
+    }
+  ],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "references",
+    "summary": {
+      "style": "Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.",
+      "linework": "Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.",
+      "detail": "Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.",
+      "palette": "Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer. (black-and-white line art)",
+      "mood": "Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-10-06T10:30:35.047Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Autumn Garden Wildlife Colouring Book",
+            "tagline": "Gentle garden scenes for family colouring",
+            "product_type": "Autumn colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Families and children ages 6+ who enjoy gentle nature-themed colouring",
+            "page_count": 10,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "10 distinct black-and-white colouring pages",
+              "Printable cover page",
+              "Printing guide"
+            ],
+            "short_description": "A 10-page autumn colouring book set in a welcoming garden. Pages feature a hedgehog by a compost bin, robin at a bird feeder, squirrel gathering acorns, snail on a cabbage leaf, frog beside a pond, mouse in a shed, sleeping cat among flowerpots, apple tree harvest, seed-saving table and a leafy garden gate.",
+            "key_features": [
+              "10 different autumn garden scenes",
+              "Bold, closed shapes for easy colouring",
+              "Friendly wildlife and home-garden details",
+              "Black-and-white A4 and US Letter printable pages",
+              "No text required within the illustrations"
+            ],
+            "visual_direction_summary": "A gentle wildlife-focused route with close-up garden discoveries, broad colourable foliage and familiar autumn garden routines.",
+            "visual_route": {
+              "primary_subject": "Garden wildlife",
+              "scene": "Autumn community garden",
+              "focal_object": "Seed packet basket",
+              "composition": "Low garden viewpoint with wildlife vignette and leafy framing",
+              "lighting": "Soft clear autumn morning",
+              "palette_emphasis": "Open leaf, soil, flowerpot and fruit colouring areas",
+              "emotional_tone": "Gentle, curious and comforting",
+              "typography_approach": "No typography; illustration-only cover",
+              "distinguishing_visual_hook": "Tiny wildlife discoveries among garden tasks"
+            },
+            "preview_brief": "A hedgehog pauses beside a seed packet basket in a leafy autumn garden, with a watering can, pumpkins and broad falling leaves around it. The portrait cover uses a clear central vignette and an open sky area for optional title placement."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Rainy Day Autumn Town Colouring Book",
+            "tagline": "Cosy neighbourhood scenes after the rain",
+            "product_type": "Autumn colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Families and children ages 6+ who enjoy cosy town colouring scenes",
+            "page_count": 10,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "10 distinct black-and-white colouring pages",
+              "Printable cover page",
+              "Printing guide"
+            ],
+            "short_description": "A 10-page autumn town colouring book celebrating puddles, shopfronts and neighbourhood journeys. Scenes include a bus stop in drizzle, bakery window, library return desk, market bicycle, rainy playground, street sweeper, florist doorway, parcel delivery, park bandstand and a lamplit town square.",
+            "key_features": [
+              "10 distinct rainy-day neighbourhood scenes",
+              "Cosy town details with broad colourable surfaces",
+              "Clear focal action on every page",
+              "Bold black-and-white printable line art",
+              "Suitable for A4 and US Letter home printing"
+            ],
+            "visual_direction_summary": "A lively yet cosy urban autumn route centred on everyday town places, puddles and welcoming neighbourhood activity.",
+            "visual_route": {
+              "primary_subject": "Neighbourhood residents",
+              "scene": "Rainy autumn high street",
+              "focal_object": "Striped umbrella",
+              "composition": "Street-level scene with shopfront rhythm and central puddle",
+              "lighting": "Bright post-rain daylight",
+              "palette_emphasis": "Open umbrellas, brickwork, windows and fallen leaves",
+              "emotional_tone": "Cheerful, bustling and cosy",
+              "typography_approach": "No typography; illustration-only cover",
+              "distinguishing_visual_hook": "Playful puddle splashes beneath oversized umbrellas"
+            },
+            "preview_brief": "Friendly neighbourhood residents gather at a rainy autumn bus stop, holding oversized umbrellas around a wide puddle filled with floating leaves. Shopfronts and a passing double-decker bus create a cheerful, easy-to-colour town backdrop."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Autumn Railway Journey Colouring Book",
+            "tagline": "A storybook train trip through autumn",
+            "product_type": "Autumn colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Families and children ages 6+ who enjoy transport and storybook colouring",
+            "page_count": 10,
+            "orientation": "landscape",
+            "deliverable_components": [
+              "10 distinct black-and-white colouring pages",
+              "Printable cover page",
+              "Printing guide"
+            ],
+            "short_description": "A 10-page autumn railway colouring book following a charming countryside train trip. Pages include ticket booth arrival, luggage trolley, platform farewell, train crossing a viaduct, dining carriage, woodland tunnel, signal box, lakeside stop, apple-orchard station and an evening journey home.",
+            "key_features": [
+              "10 connected but independently colourable railway scenes",
+              "Landscape compositions with clear train silhouettes",
+              "Friendly traveller characters and countryside details",
+              "Generous colouring areas with simple layered scenery",
+              "Black-and-white A4 and US Letter printable pages"
+            ],
+            "visual_direction_summary": "A transport-led autumn route that uses wide scenic views, railway details and a gentle journey narrative without relying on text.",
+            "visual_route": {
+              "primary_subject": "Train travellers",
+              "scene": "Autumn countryside railway",
+              "focal_object": "Vintage steam train",
+              "composition": "Wide rail journey scene with train as sweeping focal line",
+              "lighting": "Golden late-afternoon light",
+              "palette_emphasis": "Open train panels, hills, trees and travel luggage",
+              "emotional_tone": "Adventurous, nostalgic and peaceful",
+              "typography_approach": "No typography; illustration-only cover",
+              "distinguishing_visual_hook": "Storybook train winding through falling leaves"
+            },
+            "preview_brief": "A small vintage steam train curves across a countryside viaduct while friendly travellers wave from the windows and leaves drift over rolling hills. The landscape cover gives the train a strong sweeping focal line with broad, colourable scenery."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "C",
+      "selected_at": "2026-10-06T10:31:18.095Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-10-06T10:30:35.065Z",
+        "finished_at": "2026-10-06T10:31:03.561Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSHARED STYLE (style only): illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.; print considerations: High-contrast black line art on white backgrounds, suitable for A4 and US Letter home printing. Keep all essential artwork comfortably inside safe margins, use closed colouring shapes, and avoid hairline details, large ink-heavy fills and edge-to-edge elements..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.; linework: Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.; texture: Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.; composition density: High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.; background: Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.; mood: Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example..\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Autumn colouring book 10 pages different scenes\".\nConcept \"Autumn Garden Wildlife Colouring Book\": a colouring book for Families and children ages 6+ who enjoy gentle nature-themed colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Garden wildlife\n- Scene: Autumn community garden\n- Focal object: Seed packet basket\n- Composition: Low garden viewpoint with wildlife vignette and leafy framing\n- Lighting: Soft clear autumn morning\n- Palette emphasis: Open leaf, soil, flowerpot and fruit colouring areas\n- Mood: Gentle, curious and comforting\n- Typography: No typography; illustration-only cover\n- Distinguishing hook: Tiny wildlife discoveries among garden tasks\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Neighbourhood residents / Rainy autumn high street / Striped umbrella / Bright post-rain daylight\n- C: Train travellers / Autumn countryside railway / Vintage steam train / Golden late-afternoon light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-06T10:30:44.690Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSHARED STYLE (style only): illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.; print considerations: High-contrast black line art on white backgrounds, suitable for A4 and US Letter home printing. Keep all essential artwork comfortably inside safe margins, use closed colouring shapes, and avoid hairline details, large ink-heavy fills and edge-to-edge elements..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.; linework: Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.; texture: Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.; composition density: High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.; background: Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.; mood: Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example..\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Autumn colouring book 10 pages different scenes\".\nConcept \"Rainy Day Autumn Town Colouring Book\": a colouring book for Families and children ages 6+ who enjoy cosy town colouring scenes.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Neighbourhood residents\n- Scene: Rainy autumn high street\n- Focal object: Striped umbrella\n- Composition: Street-level scene with shopfront rhythm and central puddle\n- Lighting: Bright post-rain daylight\n- Palette emphasis: Open umbrellas, brickwork, windows and fallen leaves\n- Mood: Cheerful, bustling and cosy\n- Typography: No typography; illustration-only cover\n- Distinguishing hook: Playful puddle splashes beneath oversized umbrellas\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Garden wildlife / Autumn community garden / Seed packet basket / Soft clear autumn morning\n- C: Train travellers / Autumn countryside railway / Vintage steam train / Golden late-afternoon light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-06T10:30:53.597Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSHARED STYLE (style only): illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel.; print considerations: High-contrast black line art on white backgrounds, suitable for A4 and US Letter home printing. Keep all essential artwork comfortably inside safe margins, use closed colouring shapes, and avoid hairline details, large ink-heavy fills and edge-to-edge elements..\n\nREFERENCE CHARACTERISTICS (general only, never copied): palette: Cozy, earthy, saturated-but-muted fall palette with cream highlights and deep dark accents. The Halloween reference shifts to a navy, brown and orange palette while retaining warm candlelit highlights. Overall palette is harmonious and seasonal rather than neon-bright.; linework: Prominent dark brown-to-black outer contours, approximately 3–6 px at the shown cover scale; inner details use thinner but still clearly legible dark outlines. Lines are mostly uniform, with occasional slightly thicker silhouette edges; no delicate engraving or hatching-heavy linework.; texture: Noticeable lightly grainy paper/paint texture across coloured fills, plus tiny flecks, stipple-like highlights and occasional mottled tonal variation. This texture enriches cover art but is not required for clean black-and-white colouring interiors.; composition density: High but organized density. A central hero scene is surrounded by themed supporting objects, with foreground props overlapping the main setting. Cover typography occupies a strong dedicated upper zone, while plants, pumpkins, leaves or small icons fill gaps without leaving large empty areas.; background: Fully illustrated, scene-based backgrounds. Reference 1 uses a detailed indoor conservatory with windows; reference 2 uses a cottage café exterior; reference 3 uses a dark night-sky backdrop within a wooden stage-like frame. Backgrounds include layered environmental details but remain subordinate to the central focal scene.; mood: Warm, nostalgic, gentle and inviting; cozy domestic autumn comfort with a lightly playful, non-threatening spooky mood in the Halloween example..\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Autumn colouring book 10 pages different scenes\".\nConcept \"Autumn Railway Journey Colouring Book\": a colouring book for Families and children ages 6+ who enjoy transport and storybook colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Train travellers\n- Scene: Autumn countryside railway\n- Focal object: Vintage steam train\n- Composition: Wide rail journey scene with train as sweeping focal line\n- Lighting: Golden late-afternoon light\n- Palette emphasis: Open train panels, hills, trees and travel luggage\n- Mood: Adventurous, nostalgic and peaceful\n- Typography: No typography; illustration-only cover\n- Distinguishing hook: Storybook train winding through falling leaves\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Garden wildlife / Autumn community garden / Seed packet basket / Soft clear autumn morning\n- B: Neighbourhood residents / Rainy autumn high street / Striped umbrella / Bright post-rain daylight\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "quality": "low",
+            "generated_at": "2026-10-06T10:31:03.557Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Autumn Railway Journey",
+      "concept": "Illustration-only cover showing the signature railway journey scene.",
+      "instructions": null,
+      "artwork_description": "A small vintage steam train curves across a tall stone viaduct, sweeping from the lower left towards the upper right. Friendly travellers wave from large train windows while autumn leaves drift through the sky above rolling hills, rounded trees and a distant cottage. Broad viaduct arches and open hill areas create inviting colouring spaces.",
+      "generation_prompt": "Illustration-only cover artwork: a charming small vintage steam train curving across a high stone viaduct, travellers waving from the windows, falling autumn leaves, rolling countryside hills, rounded autumn trees and a tiny distant cottage; strong sweeping train line, broad open scenic shapes, no words or lettering.",
+      "production_notes": "Cover must contain no title, lettering, badges or creator marks. Keep the locomotive, carriages, viaduct arches, hills and tree canopies as large closed shapes; ensure the full composition remains within landscape safe margins."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Ticket Booth Arrival",
+      "concept": "Travellers arrive at a small countryside station before their train trip.",
+      "instructions": "Colour the busy little station.",
+      "artwork_description": "A child traveller and an adult stand beside a simple ticket-booth window holding two plain tickets. A friendly station helper leans from the booth, while a small steam locomotive waits in the background beside a platform lamp, suitcase and two rounded autumn trees.",
+      "generation_prompt": "Countryside station arrival scene: child traveller and adult holding two plain unmarked tickets at a small ticket-booth window, friendly station helper at the window, waiting steam locomotive in the background, one suitcase, platform lamp, two rounded autumn trees and a few falling leaves; clear large foreground characters and simple layered station setting, no readable signs.",
+      "production_notes": "The two tickets must be visibly plain with no text. Avoid station signs and timetable text. Keep faces simple and ticket, suitcase, booth and locomotive shapes easy to colour."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Luggage Trolley",
+      "concept": "A porter wheels luggage along the platform towards the train.",
+      "instructions": "Colour the luggage ready for the trip.",
+      "artwork_description": "A smiling porter pushes a sturdy trolley carrying exactly four clearly separate pieces of luggage: one trunk, one round hatbox, one rectangular suitcase and one small travel bag. A child walks alongside holding a leaf, with the train carriage, platform edge and a few autumn shrubs behind them.",
+      "generation_prompt": "Railway platform scene: smiling porter pushing a luggage trolley carrying exactly four distinct items, one large trunk, one round hatbox, one rectangular suitcase and one small travel bag; child traveller walking beside trolley holding one autumn leaf, train carriage behind, simple platform edge and autumn shrubs; make all four luggage items separate and clearly countable, no labels.",
+      "production_notes": "Solvability/check: trolley contains exactly 4 distinct luggage items, with no additional bags elsewhere on the page. Do not add text labels, luggage tags with writing, or busy platform clutter."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Platform Farewell",
+      "concept": "The train prepares to depart as family members wave goodbye.",
+      "instructions": "Colour the waving travellers.",
+      "artwork_description": "The vintage steam train pauses at a country platform. A child leans from an open carriage window waving to two relatives on the platform, while another traveller stands at the carriage door with a small bag. A station clock without numbers, a bench, fallen leaves and a low hedge complete the scene.",
+      "generation_prompt": "Warm platform farewell scene: vintage steam train paused beside a country platform, child leaning from an open carriage window waving, exactly two relatives on the platform waving back, one traveller at the carriage door holding a small bag, blank-faced station clock without numbers, simple bench, low hedge and scattered autumn leaves; bold readable gestures, no signs.",
+      "production_notes": "Check that exactly two farewell relatives stand on the platform and that the clock face has no numerals or lettering. Keep the carriage windows large and uncluttered."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Dining Carriage Picnic",
+      "concept": "Travellers enjoy a cosy snack in the dining carriage.",
+      "instructions": "Colour the cosy train picnic.",
+      "artwork_description": "Inside a dining carriage, two child travellers sit at a table looking out of a large window at passing autumn trees. On the table are exactly three simple food items: a round apple, a sandwich triangle and a small cup. A friendly conductor walks down the aisle carrying a plain teapot.",
+      "generation_prompt": "Inside a vintage train dining carriage: two child travellers seated at a table beside a large window with autumn trees passing outside, exactly three food items on the table—a round apple, one sandwich triangle and one small cup; friendly conductor walking down the aisle carrying a plain teapot, simple carriage seats and overhead luggage shelf, no menu text.",
+      "production_notes": "Check that the table has exactly 3 food items: 1 apple, 1 sandwich triangle, 1 cup. No menu, newspaper, labels or text. Use broad window view and large tableware outlines."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Woodland Tunnel",
+      "concept": "The steam train travels through an autumn woodland tunnel.",
+      "instructions": "Colour the train in the leafy tunnel.",
+      "artwork_description": "The locomotive emerges from a rounded brick tunnel portal surrounded by tall woodland trees. Large falling leaves swirl above the track, a rabbit watches from a grassy bank, and the train’s puffing steam forms three large cloud shapes in the open sky area.",
+      "generation_prompt": "Autumn woodland railway scene: vintage steam locomotive emerging from a large rounded brick tunnel portal, tall rounded trees framing the tunnel, large autumn leaves swirling over the track, one rabbit watching from a grassy bank, exactly three large separate steam clouds above the locomotive; simple bold tunnel bricks and broad foliage shapes.",
+      "production_notes": "Check for exactly 3 separate steam-cloud shapes and one rabbit. Keep tunnel brick detail sparse and sizeable, without dense masonry texture or tiny leaves."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Signal Box Wave",
+      "concept": "A signal worker guides the train past a rural signal box.",
+      "instructions": "Colour the signal box and train.",
+      "artwork_description": "A friendly signal worker waves from the doorway of a small raised signal box as the steam train passes below. Beside the track stands a semaphore signal with its arm angled upward, while a cat sits on the signal-box steps and autumn fields stretch into the distance.",
+      "generation_prompt": "Rural railway signal scene: friendly signal worker waving from the doorway of a small raised signal box, vintage steam train passing below, a semaphore signal beside the track with one arm angled upward, one cat sitting on the signal-box steps, open autumn fields and rounded distant hills; no signal text or signs.",
+      "production_notes": "Ensure the semaphore has one clear raised arm and no lettering. Keep the signal box, worker, cat and passing train readable as separate focal elements; use simple field bands rather than dense crops."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Lakeside Stop",
+      "concept": "The train pauses beside a calm lake surrounded by autumn scenery.",
+      "instructions": "Colour the peaceful lakeside stop.",
+      "artwork_description": "The train stops at a tiny lakeside platform while three ducks float on the water. Two travellers stand beside the carriage looking across the lake towards a small rowboat and distant hills. Reeds, a wooden bench and a large maple tree frame the open water.",
+      "generation_prompt": "Peaceful lakeside railway stop: vintage train at a tiny platform beside a calm lake, exactly three ducks floating on the water, two travellers beside the carriage looking across the lake, one small empty rowboat near the far shore, reeds, wooden bench, large maple tree and distant rounded hills; broad open water shapes, no signs.",
+      "production_notes": "Solvability/check: exactly 3 ducks on the lake and exactly 1 rowboat. Keep water mostly open for colouring, using only a few broad ripple contours; no additional birds or boats."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Apple Orchard Station",
+      "concept": "Travellers visit a station beside a ripe autumn orchard.",
+      "instructions": "Colour the apples in the orchard.",
+      "artwork_description": "At a small rural station, a child traveller carries a basket containing exactly five large apples. Behind the platform are three apple trees with simple rounded canopies, while the waiting train and a friendly farmer waving from an orchard gate create a gentle layered scene.",
+      "generation_prompt": "Autumn apple-orchard station scene: child traveller carrying a basket containing exactly five large separate apples, three apple trees behind a small country platform, waiting vintage train, friendly farmer waving from a simple orchard gate, falling leaves and open countryside; make the five basket apples especially clear and countable, no station sign.",
+      "production_notes": "Check that the basket contains exactly 5 large distinct apples. There must be exactly 3 apple trees; apples on the trees may be omitted to prevent count confusion. No text on gates, train or platform."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Evening Journey Home",
+      "concept": "The train heads home through a peaceful autumn evening.",
+      "instructions": "Colour the train heading home.",
+      "artwork_description": "The vintage steam train curves through gentle hills towards a small distant station in the evening. Three travellers wave from large carriage windows, while a crescent moon, five simple stars and a line of autumn trees sit above the tracks. A fox watches from the foreground grass.",
+      "generation_prompt": "Peaceful autumn evening railway journey: vintage steam train curving through gentle hills towards a small distant station, exactly three travellers waving from large carriage windows, crescent moon above, exactly five simple large stars, line of rounded autumn trees, and one fox watching from foreground grass; calm storybook farewell scene, no lettering.",
+      "production_notes": "Check that exactly 3 travellers wave from windows, exactly 5 stars appear, and exactly 1 fox is present. Use an unfilled moon and stars with no black night sky or shading; keep the scene within safe margins."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 2,
+        "role": "main-style",
+        "reason": "First illustration-led page (colouring): sets the core illustration style."
+      },
+      {
+        "page_number": 3,
+        "role": "different-composition",
+        "reason": "A different page type (colouring) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 10,
+        "role": "consistency-check",
+        "reason": "A later page (colouring, p10) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-10-06T10:31:52.059Z",
+        "finished_at": "2026-10-06T10:32:25.336Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 2,
+            "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSTYLE PARAMETERS: illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; composition: One strong focal vignette per page, supported by a simple foreground and receding background; balanced detail distribution and no text-dependent storytelling.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel..\n\nPAGE 2 of \"Autumn Railway Journey Colouring Book\" (colouring): Countryside station arrival scene: child traveller and adult holding two plain unmarked tickets at a small ticket-booth window, friendly station helper at the window, waiting steam locomotive in the background, one suitcase, platform lamp, two rounded autumn trees and a few falling leaves; clear large foreground characters and simple layered station setting, no readable signs.\n\nCANVAS: A single landscape design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each landscape page uses a wide, fully contained railway scene with generous closed colouring areas and all essential artwork comfortably inside the safe margins. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-10-06T10:32:02.616Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 3,
+            "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSTYLE PARAMETERS: illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; composition: One strong focal vignette per page, supported by a simple foreground and receding background; balanced detail distribution and no text-dependent storytelling.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel..\n\nPAGE 3 of \"Autumn Railway Journey Colouring Book\" (colouring): Railway platform scene: smiling porter pushing a luggage trolley carrying exactly four distinct items, one large trunk, one round hatbox, one rectangular suitcase and one small travel bag; child traveller walking beside trolley holding one autumn leaf, train carriage behind, simple platform edge and autumn shrubs; make all four luggage items separate and clearly countable, no labels.\n\nCANVAS: A single landscape design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each landscape page uses a wide, fully contained railway scene with generous closed colouring areas and all essential artwork comfortably inside the safe margins. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-10-06T10:32:14.337Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 10,
+            "prompt": "Original whimsical cosy autumn storybook colouring-book line art in crisp black ink on clean white paper. Use bold rounded outer contours, medium interior lines, smooth lightly hand-drawn organic shapes, medium scene detail, generous closed areas for colouring, and shallow layered depth created only through overlap and sparse contour accents. Render characters, where present, with friendly simplified cartoon proportions and tiny expressive features. No colour, grey, shading, hatching, texture, gradients or solid black fills; maintain a warm, gentle, playful printable feel.\n\nSTYLE PARAMETERS: illustration style: Whimsical cosy autumn storybook colouring-book line art, translated into an original bold-and-easy printable format.; line weight: Bold, clean black outer contours with medium-weight interior details; consistently generous open areas for colouring.; line quality: Smooth rounded digital linework with a lightly hand-drawn organic character; closed, unbroken shapes and crisp edges.; detail level: Medium detail: each page has a clearly readable main vignette with a restrained layer of seasonal decorative details, avoiding tiny marks and dense textures.; character language: Friendly simplified cartoon proportions, with rounded silhouettes, expressive dot-and-curve faces, uncomplicated limbs and clear readable gestures.; background density: Moderately detailed scene backgrounds built in shallow layers, with controlled negative space and broad colourable areas.; composition: One strong focal vignette per page, supported by a simple foreground and receding background; balanced detail distribution and no text-dependent storytelling.; palette: Monochrome black line art only; designed to suit any autumnal colouring palette chosen by the customer.; colour mode: black-and-white line art; shading: No tonal fills, gradients, hatching or solid black shadows; depth is conveyed through overlaps, contour lines and sparse interior accents.; texture: Clean white-paper finish with no simulated grain, speckling or distressed effects, ensuring clear home-print results.; mood: Warm, gentle, playful and quietly nostalgic, with a relaxed seasonal feel..\n\nPAGE 10 of \"Autumn Railway Journey Colouring Book\" (colouring): Peaceful autumn evening railway journey: vintage steam train curving through gentle hills towards a small distant station, exactly three travellers waving from large carriage windows, crescent moon above, exactly five simple large stars, line of rounded autumn trees, and one fox watching from foreground grass; calm storybook farewell scene, no lettering.\n\nCANVAS: A single landscape design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Each landscape page uses a wide, fully contained railway scene with generous closed colouring areas and all essential artwork comfortably inside the safe margins. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any reference wording, creator marks, badges, lettering shapes or cover-layout arrangements; The reference sunroom, café or wooden Halloween-stage compositions and their character groupings; Photorealism, realistic anatomy, elaborate perspective or intricate engraving; Dense micro-details, cluttered pages, hairline strokes and tiny enclosed colouring areas; Grey shading, colour fills, gradients, hatching, distressed textures or heavy black ink coverage; Misspelled text, illegible lettering or text-dependent page designs.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "generated_at": "2026-10-06T10:32:25.332Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "ee3ad7836ff5",
+    "keyboard_message_ids": [
+      427,
+      432,
+      437,
+      445,
+      448,
+      462
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "reference-analysis",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3101,
+        "input_tokens_details": {
+          "cache_write_tokens": 3098,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1751,
+        "output_tokens_details": {
+          "reasoning_tokens": 60
+        },
+        "total_tokens": 4852
+      },
+      "at": "2026-10-06T10:29:27.900Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 4156,
+        "input_tokens_details": {
+          "cache_write_tokens": 4153,
+          "cached_tokens": 0
+        },
+        "output_tokens": 647,
+        "output_tokens_details": {
+          "reasoning_tokens": 74
+        },
+        "total_tokens": 4803
+      },
+      "at": "2026-10-06T10:29:58.978Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3381,
+        "input_tokens_details": {
+          "cache_write_tokens": 3378,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1670,
+        "output_tokens_details": {
+          "reasoning_tokens": 516
+        },
+        "total_tokens": 5051
+      },
+      "at": "2026-10-06T10:30:09.177Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1152,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1152
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1310
+      },
+      "at": "2026-10-06T10:30:35.072Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1157,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1157
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1315
+      },
+      "at": "2026-10-06T10:30:44.698Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1154,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 1154
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 1312
+      },
+      "at": "2026-10-06T10:30:53.604Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2370,
+        "input_tokens_details": {
+          "cache_write_tokens": 2367,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2521,
+        "output_tokens_details": {
+          "reasoning_tokens": 324
+        },
+        "total_tokens": 4891
+      },
+      "at": "2026-10-06T10:31:18.385Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 682,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 682
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1025
+      },
+      "at": "2026-10-06T10:31:52.063Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 683,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 683
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1026
+      },
+      "at": "2026-10-06T10:32:02.622Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 678,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 678
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1021
+      },
+      "at": "2026-10-06T10:32:14.343Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 876,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 876
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1219
+      },
+      "at": "2026-10-06T10:33:03.015Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 868,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 868
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1211
+      },
+      "at": "2026-10-06T10:33:14.107Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 878,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 878
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1221
+      },
+      "at": "2026-10-06T10:33:25.078Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 847,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 847
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1190
+      },
+      "at": "2026-10-06T10:33:38.039Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 860,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 860
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1203
+      },
+      "at": "2026-10-06T10:33:50.602Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 869,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 869
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1212
+      },
+      "at": "2026-10-06T10:34:02.567Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 865,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 865
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1208
+      },
+      "at": "2026-10-06T10:34:14.492Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 5049,
+        "input_tokens_details": {
+          "cache_write_tokens": 5046,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1684,
+        "output_tokens_details": {
+          "reasoning_tokens": 820
+        },
+        "total_tokens": 6733
+      },
+      "at": "2026-10-06T10:35:52.520Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3939,
+        "input_tokens_details": {
+          "cache_write_tokens": 3936,
+          "cached_tokens": 0
+        },
+        "output_tokens": 885,
+        "output_tokens_details": {
+          "reasoning_tokens": 403
+        },
+        "total_tokens": 4824
+      },
+      "at": "2026-10-06T10:36:15.473Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 313,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 313
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 752
+      },
+      "at": "2026-10-06T10:36:27.655Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 313,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 313
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 752
+      },
+      "at": "2026-10-06T10:36:37.443Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 326,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 326
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 765
+      },
+      "at": "2026-10-06T10:36:48.005Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-example",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1684,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 148
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 2027
+      },
+      "at": "2026-10-06T10:36:58.196Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-10-06T10:32:46.013Z",
+  "created_at": "2026-10-06T10:28:24.409Z",
+  "updated_at": "2026-10-06T11:08:38.992Z",
+  "canvas": {
+    "orientation": "landscape",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Each landscape page uses a wide, fully contained railway scene with generous closed colouring areas and all essential artwork comfortably inside the safe margins."
+  },
+  "book": {
+    "version": 1,
+    "manifest": {
+      "file": "book/manifest.json",
+      "sha256": "e97cfd190e65b10a2d25fcc8d4c53d8d8c22b3c69c3683047d023f18c28b17f9",
+      "created_at": "2026-10-06T10:33:02.979Z"
+    },
+    "size": "1536x1024",
+    "model": "gpt-image-2.5-flare",
+    "quality": "medium",
+    "pages": [
+      {
+        "page_id": "P001",
+        "page_number": 1,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P001.png",
+        "sha256": "e4042d6382ea4d206be1eb5f7e6500f1732c7799328cd369087b4db618258893",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:33:14.090Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P002",
+        "page_number": 2,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "file": "book/pages/P002.png",
+        "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:32:02.616Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P003",
+        "page_number": 3,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "file": "book/pages/P003.png",
+        "sha256": "d86e4bc37c0a3b9adafac2f0b33c73f19be1a3ceb6d3889443cccce555906611",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:32:14.337Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P004",
+        "page_number": 4,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P004.png",
+        "sha256": "9a3beaefd6ccf3f380a388db616ef67677d5b3347c3f4e4eebda39a173e07733",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:33:25.064Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P005",
+        "page_number": 5,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P005.png",
+        "sha256": "546f55d575485e38c45351e543e452297a874620049c22692bb8c8dad442a00d",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:33:38.021Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P006",
+        "page_number": 6,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P006.png",
+        "sha256": "a781e810507e0c24d0e5407ea25e72927ca524c077d5ec2095fe33c3c8307ca9",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:33:50.585Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P007",
+        "page_number": 7,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P007.png",
+        "sha256": "d26b9320dd4a877b587458aa9927025210cc737db862c7d54ff47dc7b7109ae2",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:34:02.553Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P008",
+        "page_number": 8,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P008.png",
+        "sha256": "50eb03236472062b6278425035d2ab695e24685db7d8aceed346b0ebf7b65deb",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:34:14.476Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P009",
+        "page_number": 9,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P009.png",
+        "sha256": "0dbfeb72529b3bbef4b76f865dbc56f15ca81f31dd4469ea60938e96a16dca85",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:34:25.564Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P010",
+        "page_number": 10,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "file": "book/pages/P010.png",
+        "sha256": "4db1762b7331124bca015afe9c1410d14eb0b76ddbb8a2a0a4698beb4759f745",
+        "width": 1536,
+        "height": 1024,
+        "size": "1536x1024",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-06T10:32:25.332Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      }
+    ],
+    "generation": {
+      "status": "complete",
+      "started_at": "2026-10-06T10:33:03.009Z",
+      "finished_at": "2026-10-06T10:34:27.203Z",
+      "error": null
+    },
+    "qc": {
+      "passed": true,
+      "report": "book/qc.json",
+      "sha256": "9f2eb3549af6cb8e644a3f555c51799d6898a81470463dff6384e8a14206baf3",
+      "fingerprint": "642205acd12ba542d5e808bfe8bdc49107ad41aa0494cd6251d9f4e1c15347c3",
+      "at": "2026-10-06T10:34:27.203Z",
+      "warnings": 0,
+      "failed_pages": []
+    },
+    "pending_op": null,
+    "pending_page": null,
+    "direction_notes": [],
+    "reuse": [
+      {
+        "page_number": 2,
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 3,
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 10,
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "reused": true,
+        "reason": null
+      }
+    ],
+    "approval": {
+      "approved_at": "2026-10-06T10:34:53.666Z",
+      "by": "@romg_o",
+      "manifest_sha256": "e97cfd190e65b10a2d25fcc8d4c53d8d8c22b3c69c3683047d023f18c28b17f9",
+      "pages_sha256": "642205acd12ba542d5e808bfe8bdc49107ad41aa0494cd6251d9f4e1c15347c3",
+      "qc_sha256": "9f2eb3549af6cb8e644a3f555c51799d6898a81470463dff6384e8a14206baf3"
+    }
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "615f9c02617333b92254f4f8b77911c10e4fcb3305f9d06064ae3adb51a94c7d"
+    },
+    "adapter": {
+      "format": "colouring-book",
+      "version": 1
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "e1a6d6cc6bf931d051bd58a49c02704c0cee7cda360aaa9d0819254a3d0cd166",
+      "built_at": "2026-10-06T10:35:22.116Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-10-06T10:35:22.120Z"
+    },
+    "approved_at": "2026-10-06T10:35:41.305Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "16c5f726e684242a297e2597c6579df788e04c3763348a31aabcc8cbfc3e718a"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "bf4e179279e6862b1668948bc83f6f12d15faa92ba702f23ca539d55c37ef31b"
+    },
+    "images": {
+      "count": 10,
+      "dir": "marketing/images",
+      "digest": "88b09a3362d662fdcb8240ed590933b24394931e6e8d770a065d862d073b892e"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-10-06T11:08:38.989Z"
+    },
+    "pending_scope": null,
+    "approved_at": null,
+    "engine": "ai-creative",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-10-06T10:35:52.507Z"
+    }
+  }
+}

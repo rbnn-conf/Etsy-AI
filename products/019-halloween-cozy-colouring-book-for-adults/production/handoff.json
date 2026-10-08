@@ -1,0 +1,403 @@
+{
+  "schema_version": 2,
+  "product_id": "019",
+  "product_name": "Moonlit Potting Shed: Adult Halloween Colouring Book",
+  "slug": "moonlit-potting-shed-halloween-colouring-book",
+  "product_type": "Adult Halloween colouring book",
+  "product_format": "colouring-book",
+  "page_count": 10,
+  "orientation": "portrait",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Single-sided portrait colouring pages with a clear print-safe border and balanced open areas for comfortable adult colouring."
+  },
+  "approved": {
+    "creative_approved_at": "2026-10-06T14:47:41.113Z",
+    "concept": {
+      "batch": 1,
+      "concept_id": "B",
+      "proposed_name": "Moonlit Potting Shed: Adult Halloween Colouring Book"
+    },
+    "proof_attempt": {
+      "attempt": 1,
+      "dir": "proofs/attempt-01",
+      "direction_version": 1
+    },
+    "full_artwork": {
+      "approved_at": "2026-10-06T14:52:16.808Z",
+      "approved_by": "@romg_o",
+      "manifest_sha256": "aa2dfb1845fa8027a06226758d25ccf68c750c36a426c07b5a359c95fba835d3",
+      "pages_sha256": "16847414afe42c24462c73fa4487d02323d64c096b9395cd69bf476e5f7db3b7",
+      "qc_sha256": "3a9e6ca53db1a7c0bce07fd33443dd1db24f0554ba9f68f81784f0df4a981d61"
+    }
+  },
+  "sources": {
+    "specification": {
+      "file": "product.json",
+      "pointer": "/pages",
+      "sha256": "8410b879241f9e082a57022fb978652f83108f81b8cfbc44182da5ae2a365f34"
+    },
+    "book_manifest": {
+      "file": "book/manifest.json",
+      "sha256": "aa2dfb1845fa8027a06226758d25ccf68c750c36a426c07b5a359c95fba835d3"
+    },
+    "book_qc": {
+      "file": "book/qc.json",
+      "sha256": "3a9e6ca53db1a7c0bce07fd33443dd1db24f0554ba9f68f81784f0df4a981d61"
+    },
+    "creative_direction": {
+      "file": "creative/creative-direction.json",
+      "version": 1,
+      "sha256": "86c6c3af21af1fb3e30870e545ab75e6d83791db28e75293a0922fa5e368617c"
+    },
+    "production_plan": null
+  },
+  "text_rendering": "baked-into-artwork",
+  "assets": [
+    {
+      "id": "P001",
+      "file": "book/pages/P001.png",
+      "page_number": 1,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "77e6c920adb31a7115eaac5db4fba4b203d07a6035958af1f248e093aca79768",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P002",
+      "file": "book/pages/P002.png",
+      "page_number": 2,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "a5c4022d9fd06ac7218c00ac18ad7be3c9b7ffd97cd9796f9e41ba5d4b7eb9a1",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P003",
+      "file": "book/pages/P003.png",
+      "page_number": 3,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "605b4e006e070ed64a880ac9c5706e7c35c69eade5ec6d46294286e636c9aa75",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P004",
+      "file": "book/pages/P004.png",
+      "page_number": 4,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "4d2b990f088118b16eb34b6ab7db1e9f77feee2a4562c96df24ea8047d94f8e2",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P005",
+      "file": "book/pages/P005.png",
+      "page_number": 5,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "c69881c3c5c17de7cc2a6512faadb75ef9873f515f6d3983eff99ec8283226ad",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P006",
+      "file": "book/pages/P006.png",
+      "page_number": 6,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "74319833c5b433f546003d0a654781d641db6ae1b92530ee8479ab269796bb00",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P007",
+      "file": "book/pages/P007.png",
+      "page_number": 7,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "f024579b9c5e6b9f603ff6c9b95dcfbffefcd3769a15915c1c8c23248e9ae631",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P008",
+      "file": "book/pages/P008.png",
+      "page_number": 8,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "84f73e8c5b3c1881c5647318fa3e5c3e5734f71cda6c65743a4572b367e1154c",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P009",
+      "file": "book/pages/P009.png",
+      "page_number": 9,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "generated",
+      "sha256": "e0bf159a1af2beb160e2c047214790f9b0ccfabc8cc3377d26c5228d95cdee89",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    },
+    {
+      "id": "P010",
+      "file": "book/pages/P010.png",
+      "page_number": 10,
+      "proof_role": null,
+      "source": "full-book",
+      "origin": "style-proof",
+      "sha256": "cebfbe3a9e7b57f3d1f0c02d47f64ee2ae7a9034a60b66fc6fda986a357d3ecd",
+      "width": 1024,
+      "height": 1536,
+      "density_metadata": 72,
+      "generated_size": "1024x1536",
+      "model": "gpt-image-2.5-flare"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Moonlit Potting Shed",
+      "asset": "P001",
+      "approved_text": [
+        "MOONLIT POTTING SHED",
+        "AUTUMN GARDEN MAGIC TO COLOUR"
+      ],
+      "production_notes": "Verify title and subtitle exactly. Keep the seed-packet label open and readable. Cover is included as a colourable illustrated page; retain broad spaces on pumpkin, pots, bench boards and window sky. Printing note: print single-sided at 100% scale on A4 or US Letter; do not fit-to-page if it clips the safe border."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "The Lantern Bench",
+      "asset": "P002",
+      "approved_text": [
+        "THE LANTERN BENCH"
+      ],
+      "production_notes": "Check exactly 3 herb jars, 2 seed packets and 3 stacked pots. Ensure the pumpkin face is friendly and non-threatening. Maintain open colourable areas in the wood grain, pumpkin, watering can and pots."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Herbs by Moonlight",
+      "asset": "P003",
+      "approved_text": [
+        "HERBS BY MOONLIGHT"
+      ],
+      "production_notes": "Check there are exactly 6 herb bundles and 3 jars. Botanical forms should be recognisable without relying on tiny labels. Keep herbs detailed but with enough leaf interiors to colour."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Pumpkin Patch Gate",
+      "asset": "P004",
+      "approved_text": [
+        "PUMPKIN PATCH GATE"
+      ],
+      "production_notes": "Check exactly 7 pumpkins are visible beyond the gate, with no ambiguous partial extra pumpkins. Preserve broad path stones, wall sections and sky for resting space."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Seed Packet Cabinet",
+      "asset": "P005",
+      "approved_text": [
+        "SEED PACKET CABINET",
+        "PUMPKIN",
+        "CALENDULA",
+        "SWEET PEA",
+        "ROSEMARY"
+      ],
+      "production_notes": "Check exactly 9 compartments and listed contents. Verify the four short packet labels; remove labels if malformed rather than retaining incorrect text. Avoid overly small wording."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Moonflower Trellis",
+      "asset": "P006",
+      "approved_text": [
+        "MOONFLOWER TRELLIS"
+      ],
+      "production_notes": "Check exactly 2 hanging tools, 2 pots and 3 mushrooms. Use large flower petals and leaf interiors for colourability; prevent the trellis grid from becoming visually cramped."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Harvest Tea in the Shed",
+      "asset": "P007",
+      "approved_text": [
+        "HARVEST TEA IN THE SHED"
+      ],
+      "production_notes": "Check exactly 2 cups, 4 biscuits, 1 small pumpkin and 1 cat. Keep journal pages free of tiny illegible writing; use simple line suggestions only."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "The Friendly Scarecrow",
+      "asset": "P008",
+      "approved_text": [
+        "THE FRIENDLY SCARECROW"
+      ],
+      "production_notes": "Check exactly 5 pumpkins, one lantern and one carrot bunch. Keep expression warm, peaceful and clearly non-frightening. Ensure hat, coat patches, pumpkins and wheelbarrow offer broad colouring areas."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Garden Ghost's Delivery",
+      "asset": "P009",
+      "approved_text": [
+        "GARDEN GHOST’S DELIVERY"
+      ],
+      "production_notes": "Check exactly 1 ghost, 3 seed packets, 2 tiny pumpkins and 1 cat. The cat must be outlined only, with no solid black fill. Keep the ghost simple, kind and not frightening."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Full Moon Garden Finale",
+      "asset": "P010",
+      "approved_text": [
+        "FULL MOON GARDEN FINALE"
+      ],
+      "production_notes": "Check exactly 4 pumpkin lanterns, 5 apples and 3 bats. Bats should be tiny decorative silhouettes outlined without solid fill. Retain generous colourable sky, path, wall and foliage sections for a satisfying final page."
+    }
+  ],
+  "adapter": {
+    "format": "colouring-book",
+    "version": 1
+  },
+  "book": {
+    "pages": [
+      {
+        "page_number": 1,
+        "title": "Moonlit Potting Shed",
+        "page_type": "cover",
+        "role": "cover",
+        "asset": "P001"
+      },
+      {
+        "page_number": 2,
+        "title": "The Lantern Bench",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P002"
+      },
+      {
+        "page_number": 3,
+        "title": "Herbs by Moonlight",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P003"
+      },
+      {
+        "page_number": 4,
+        "title": "Pumpkin Patch Gate",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P004"
+      },
+      {
+        "page_number": 5,
+        "title": "Seed Packet Cabinet",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P005"
+      },
+      {
+        "page_number": 6,
+        "title": "Moonflower Trellis",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P006"
+      },
+      {
+        "page_number": 7,
+        "title": "Harvest Tea in the Shed",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P007"
+      },
+      {
+        "page_number": 8,
+        "title": "The Friendly Scarecrow",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P008"
+      },
+      {
+        "page_number": 9,
+        "title": "Garden Ghost's Delivery",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P009"
+      },
+      {
+        "page_number": 10,
+        "title": "Full Moon Garden Finale",
+        "page_type": "colouring",
+        "role": "page",
+        "asset": "P010"
+      }
+    ],
+    "page_px": [
+      1024,
+      1536
+    ],
+    "orientation": "portrait",
+    "cover": true
+  },
+  "review_notes": [
+    "Page 1 (cover, P001): check the baked-in text reads exactly \"MOONLIT POTTING SHED\", \"AUTUMN GARDEN MAGIC TO COLOUR\".",
+    "Page 2 (colouring, P002): check the baked-in text reads exactly \"THE LANTERN BENCH\".",
+    "Page 3 (colouring, P003): check the baked-in text reads exactly \"HERBS BY MOONLIGHT\".",
+    "Page 4 (colouring, P004): check the baked-in text reads exactly \"PUMPKIN PATCH GATE\".",
+    "Page 5 (colouring, P005): check the baked-in text reads exactly \"SEED PACKET CABINET\", \"PUMPKIN\", \"CALENDULA\", \"SWEET PEA\", \"ROSEMARY\".",
+    "Page 6 (colouring, P006): check the baked-in text reads exactly \"MOONFLOWER TRELLIS\".",
+    "Page 7 (colouring, P007): check the baked-in text reads exactly \"HARVEST TEA IN THE SHED\".",
+    "Page 8 (colouring, P008): check the baked-in text reads exactly \"THE FRIENDLY SCARECROW\".",
+    "Page 9 (colouring, P009): check the baked-in text reads exactly \"GARDEN GHOST’S DELIVERY\".",
+    "Page 10 (colouring, P010): check the baked-in text reads exactly \"FULL MOON GARDEN FINALE\"."
+  ]
+}

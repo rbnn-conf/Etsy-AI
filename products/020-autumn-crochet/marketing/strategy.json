@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "product_family": "crochet_pattern",
+  "theme": {
+    "id": "autumn",
+    "label": "autumn"
+  },
+  "primary_customer_intent": "make beautiful handmade crochet pieces from clear written patterns",
+  "emotional_angle": "cosy autumn warmth",
+  "tone": [
+    "warm",
+    "cosy",
+    "seasonal",
+    "encouraging",
+    "crafty"
+  ],
+  "positioning": "crochet pattern bundle for autumn",
+  "opening_strategy": "what the buyer will make and how it feels before files",
+  "description_structure": [
+    {
+      "section": "emotional hook",
+      "focus": null
+    },
+    {
+      "section": "product experience",
+      "focus": "what the buyer makes and what making it feels like"
+    },
+    {
+      "section": "options / designs",
+      "focus": "a few highlight patterns by name"
+    },
+    {
+      "section": "what you receive",
+      "focus": null
+    },
+    {
+      "section": "how it works",
+      "focus": "download, print, gather materials, crochet"
+    },
+    {
+      "section": "emotional use case",
+      "focus": "handmade gifts and calm making time, as supported"
+    },
+    {
+      "section": "digital product disclosure",
+      "focus": null
+    }
+  ],
+  "description_emphasis": [
+    "the pieces and the making experience first",
+    "files and formats later"
+  ],
+  "preferred_vocabulary": [
+    "crochet",
+    "make",
+    "hook",
+    "yarn",
+    "stitch",
+    "handmade gifts",
+    "pattern",
+    "cosy",
+    "autumn",
+    "harvest",
+    "crisp"
+  ],
+  "avoid_vocabulary": [
+    "elevate your",
+    "transform your",
+    "whether you're",
+    "designed to",
+    "crafted to",
+    "seamlessly",
+    "perfect for (more than once)",
+    "unleash",
+    "look no further",
+    "must-have",
+    "game-changer",
+    "buy now",
+    "limited time",
+    "don't miss out",
+    "only today",
+    "tested",
+    "guaranteed",
+    "easy for everyone"
+  ],
+  "cta_style": "soft cosy",
+  "seo_focus": [
+    "printable crochet pattern bundle",
+    "autumn crochet pattern bundle",
+    "set crochet pattern bundle",
+    "instant digital download"
+  ],
+  "title_strategy": [
+    "primary search phrase",
+    "product type / subject",
+    "key differentiator",
+    "secondary search intent"
+  ],
+  "emoji_level": {
+    "level": "light",
+    "min": 0,
+    "max": 4
+  },
+  "visual_marketing_mood": "warm cosy autumn",
+  "target_length_words": [
+    250,
+    500
+  ],
+  "note": "Presentation guidance only. Production facts and the claim allow-list decide what may be said."
+}

@@ -1,0 +1,152 @@
+{
+  "product_id": "016",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-29T21:13:54.228Z",
+  "finished_at": "2026-09-29T21:14:25.343Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp\".\nConcept \"Rose Arbor Crochet Bouquet Pattern Bundle\": a crochet pattern bundle for Crocheters seeking romantic floral makes and giftable bouquet projects.\nShow the cover illustration, using THIS concept's own content:\n- Subject: Climbing garden roses\n- Scene: Sunlit cottage rose arbor\n- Focal object: Ribbon-tied crochet bouquet\n- Composition: Central bouquet beneath arch with title space above\n- Lighting: Soft early-morning garden light\n- Palette emphasis: Blush, muted rose, sage and warm cream\n- Mood: Tender, heirloom and romantic\n- Typography: High-contrast serif title with small-cap details\n- Distinguishing hook: Crochet bouquet suspended from a rose-covered arch\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Mixed wildflower stems / Cottage florist worktable / Trailing silk ribbon spool / Diffuse afternoon window light\n- C: Meadow flower bouquet / Twilight wildflower meadow / Crescent moon medallion / Gentle blue-hour glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T21:14:04.401Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Rose Arbor Crochet Bouquet Pattern Bundle",
+        "tagline": "Romantic rose-garden crochet patterns",
+        "product_type": "Crochet flower bouquet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Crocheters seeking romantic floral makes and giftable bouquet projects",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover artwork",
+          "Botanical contents and bouquet-planning page",
+          "Decorative floral motif page",
+          "33 US-terms crochet flower and bouquet pattern PDFs",
+          "Printing and pattern-use guide"
+        ],
+        "short_description": "A premium 33-pattern crochet flower and bouquet bundle in US terms, presented with romantic cottage-garden botanical artwork. Designed for makers creating everlasting bouquets, individual stems and thoughtful handmade gifts.",
+        "key_features": [
+          "33 crochet flower and bouquet patterns in US terms",
+          "Romantic botanical cottagecore presentation",
+          "Elegant illustrated cover, contents and decorative motif pages",
+          "Warm cream, blush, sage, lavender and powder-blue palette",
+          "Digital download for home printing or tablet use"
+        ],
+        "visual_direction_summary": "Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.",
+        "visual_route": {
+          "primary_subject": "Climbing garden roses",
+          "scene": "Sunlit cottage rose arbor",
+          "focal_object": "Ribbon-tied crochet bouquet",
+          "composition": "Central bouquet beneath arch with title space above",
+          "lighting": "Soft early-morning garden light",
+          "palette_emphasis": "Blush, muted rose, sage and warm cream",
+          "emotional_tone": "Tender, heirloom and romantic",
+          "typography_approach": "High-contrast serif title with small-cap details",
+          "distinguishing_visual_hook": "Crochet bouquet suspended from a rose-covered arch"
+        },
+        "preview_brief": "A portrait cover shows a ribbon-tied crochet bouquet framed by a climbing rose arbor on softly textured cream paper. The elegant dark-brown serif title sits in clear space above, with a tender, sunlit cottage-garden mood."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp\".\nConcept \"Florist's Ribbon Crochet Bouquet Pattern Bundle\": a crochet pattern bundle for Crocheters who enjoy elegant floral arranging and polished handmade gifts.\nShow the cover illustration, using THIS concept's own content:\n- Subject: Mixed wildflower stems\n- Scene: Cottage florist worktable\n- Focal object: Trailing silk ribbon spool\n- Composition: Diagonal stems around a centred label panel\n- Lighting: Diffuse afternoon window light\n- Palette emphasis: Lavender, powder blue, sage and cream\n- Mood: Graceful, collected and artisanal\n- Typography: Classic serif label with fine sans-serif captions\n- Distinguishing hook: Long ribbon weaving through loosely arranged flower stems\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Climbing garden roses / Sunlit cottage rose arbor / Ribbon-tied crochet bouquet / Soft early-morning garden light\n- C: Meadow flower bouquet / Twilight wildflower meadow / Crescent moon medallion / Gentle blue-hour glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T21:14:15.189Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Florist's Ribbon Crochet Bouquet Pattern Bundle",
+        "tagline": "A refined market-florist pattern collection",
+        "product_type": "Crochet flower bouquet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Crocheters who enjoy elegant floral arranging and polished handmade gifts",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover artwork",
+          "Botanical contents and bouquet-planning page",
+          "Decorative floral motif page",
+          "33 US-terms crochet flower and bouquet pattern PDFs",
+          "Printing and pattern-use guide"
+        ],
+        "short_description": "A premium 33-pattern crochet flower and bouquet bundle in US terms, styled as a romantic independent florist collection. The illustrated presentation combines soft botanical colour with refined typography for makers planning beautiful everlasting arrangements.",
+        "key_features": [
+          "33 crochet flower and bouquet patterns in US terms",
+          "Florist-inspired botanical cottagecore artwork",
+          "Elegant illustrated cover, contents and decorative motif pages",
+          "Soft blush, lavender, sage and powder-blue accents",
+          "Digital files for home printing or digital reference"
+        ],
+        "visual_direction_summary": "Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.",
+        "visual_route": {
+          "primary_subject": "Mixed wildflower stems",
+          "scene": "Cottage florist worktable",
+          "focal_object": "Trailing silk ribbon spool",
+          "composition": "Diagonal stems around a centred label panel",
+          "lighting": "Diffuse afternoon window light",
+          "palette_emphasis": "Lavender, powder blue, sage and cream",
+          "emotional_tone": "Graceful, collected and artisanal",
+          "typography_approach": "Classic serif label with fine sans-serif captions",
+          "distinguishing_visual_hook": "Long ribbon weaving through loosely arranged flower stems"
+        },
+        "preview_brief": "A portrait cover arranges illustrated wildflower stems diagonally around a centred cream label, with a trailing blush ribbon spool at the lower edge. Charcoal serif lettering gives the scene the polished feel of a small cottage florist."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"crochet flower bouquet pattern bundle: 33 crochet flower & bouquet patterns, US terms. Premium romantic botanical cottagecore look with warm cream, soft blush, muted rose, sage, lavender, a touch of powder blue and warm brown/charcoal typography. Elegant botanical illustrations only, never photograp\".\nConcept \"Moonlit Meadow Crochet Bouquet Pattern Bundle\": a crochet pattern bundle for Crocheters drawn to poetic botanical projects and whimsical home décor.\nShow the cover illustration, using THIS concept's own content:\n- Subject: Meadow flower bouquet\n- Scene: Twilight wildflower meadow\n- Focal object: Crescent moon medallion\n- Composition: Upright bouquet below a moon-framed title\n- Lighting: Gentle blue-hour glow\n- Palette emphasis: Powder blue, lavender, muted rose and charcoal\n- Mood: Poetic, quiet and enchanting\n- Typography: Romantic serif title with delicate botanical dividers\n- Distinguishing hook: Bouquet crowned by a small crescent moon medallion\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Climbing garden roses / Sunlit cottage rose arbor / Ribbon-tied crochet bouquet / Soft early-morning garden light\n- B: Mixed wildflower stems / Cottage florist worktable / Trailing silk ribbon spool / Diffuse afternoon window light\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T21:14:25.339Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+        "tagline": "Dreamy wildflower bouquet patterns",
+        "product_type": "Crochet flower bouquet pattern bundle",
+        "product_format": "crochet-pattern-bundle",
+        "target_customer": "Crocheters drawn to poetic botanical projects and whimsical home décor",
+        "page_count": 3,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover artwork",
+          "Botanical contents and bouquet-planning page",
+          "Decorative floral motif page",
+          "33 US-terms crochet flower and bouquet pattern PDFs",
+          "Printing and pattern-use guide"
+        ],
+        "short_description": "A premium 33-pattern crochet flower and bouquet bundle in US terms, wrapped in a dreamy meadow-at-dusk botanical design. It is made for crocheters creating whimsical everlasting arrangements with a romantic cottagecore finish.",
+        "key_features": [
+          "33 crochet flower and bouquet patterns in US terms",
+          "Dreamy meadow botanical cottagecore theme",
+          "Elegant illustrated cover, contents and decorative motif pages",
+          "Muted rose, lavender and powder-blue evening palette",
+          "Digital download for printing or screen use"
+        ],
+        "visual_direction_summary": "Hand-painted botanical gouache with softly textured cream paper, refined ink outlines and delicate layered petals. Use warm cream, blush, muted rose, sage, lavender, powder blue and warm brown-charcoal typography; gentle natural shading, restrained detail and spacious editorial hierarchy. Botanical illustrations only, never photographs, photorealism or copied vintage plates.",
+        "visual_route": {
+          "primary_subject": "Meadow flower bouquet",
+          "scene": "Twilight wildflower meadow",
+          "focal_object": "Crescent moon medallion",
+          "composition": "Upright bouquet below a moon-framed title",
+          "lighting": "Gentle blue-hour glow",
+          "palette_emphasis": "Powder blue, lavender, muted rose and charcoal",
+          "emotional_tone": "Poetic, quiet and enchanting",
+          "typography_approach": "Romantic serif title with delicate botanical dividers",
+          "distinguishing_visual_hook": "Bouquet crowned by a small crescent moon medallion"
+        },
+        "preview_brief": "A portrait cover features an upright illustrated meadow bouquet against a softly textured cream field, crowned by a delicate crescent-moon medallion. Powder blue and lavender shadows create a quiet blue-hour mood beneath romantic charcoal serif typography."
+      }
+    }
+  ]
+}

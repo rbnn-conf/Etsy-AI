@@ -1,0 +1,71 @@
+{
+  "pattern_id": "beech-leaf-coaster",
+  "name": "Beech Leaf Coaster",
+  "category": "Beech leaf coaster",
+  "difficulty": "beginner",
+  "finished_size": "About 12 cm long including stem; about 7 cm wide",
+  "yarn": [
+    {
+      "description": "Cotton yarn for the leaf, stem and raised vein",
+      "colour": "Warm beech brown",
+      "amount": "About 10 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3.5,
+    "us": "E/4"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet"
+  },
+  "gauge": "Gauge is not critical. Use a firm tension so the coaster lies flat and provides a stable surface for a mug or glass.",
+  "instructions": [
+    {
+      "heading": "Leaf Coaster",
+      "steps": [
+        {
+          "label": null,
+          "text": "Ch 16. Working in the back bump of the foundation chain, sc in second ch from hook, hdc in next 2 ch, dc in next 9 ch, hdc in next 2 ch, sc in last ch; ch 2, sc in same last ch. Do not turn. Rotate the work to crochet along the opposite side of the foundation chain: hdc in next 2 ch, dc in next 9 ch, hdc in next 2 ch, sc in last ch.",
+          "stitch_count": 30
+        },
+        {
+          "label": null,
+          "text": "With the active loop at the leaf base, ch 7. Sl st in second ch from hook and in each of the next 5 ch, ending at the leaf base to form the compact stem.",
+          "stitch_count": 6
+        },
+        {
+          "label": null,
+          "text": "Make a surface sl st through each of the 15 centre-chain loops, working from the leaf base to the tip, to form the raised central vein.",
+          "stitch_count": 15
+        }
+      ]
+    }
+  ],
+  "assembly_required": false,
+  "finishing": [
+    "Fasten off at the leaf tip after completing the surface vein, leaving a 10 cm tail.",
+    "Weave in the starting and fastening-off tails on the reverse side without pulling the leaf out of shape.",
+    "Dampen the coaster lightly, smooth the pointed tip and curved sides, then leave it flat to dry completely."
+  ],
+  "notes": [
+    "For a surface sl st, insert the hook from front to back through a centre-chain loop, yarn over beneath the fabric, then pull the yarn through the fabric and active loop."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

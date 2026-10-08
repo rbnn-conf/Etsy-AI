@@ -1,0 +1,54 @@
+{
+  "product_id": "015",
+  "attempt": 1,
+  "dir": "proofs/attempt-01",
+  "reason": "initial",
+  "direction_version": 1,
+  "started_at": "2026-09-29T20:20:00.727Z",
+  "finished_at": "2026-09-29T20:20:38.345Z",
+  "status": "complete",
+  "images": [
+    {
+      "file": "proofs/attempt-01/proof-01.png",
+      "page_number": 1,
+      "prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.\n\nSTYLE PARAMETERS: illustration style: Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.; line weight: Fine selective pencil outlines, softened by opaque gouache edges.; line quality: Gently imperfect, hand-drawn and crisp in small decorative details.; detail level: Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.; background density: Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.; composition: Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.; palette: Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.; colour mode: full colour; shading: Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.; texture: Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.; mood: Cosy, hopeful, intimate and quietly nostalgic..\n\nPAGE 1 of \"Starlit Village Post\" (card-front): Card front: small snow-covered village post office in the lower centre beneath an expansive cobalt winter sky; glowing muted berry-red letter box in the foreground, warm amber windows, softly layered snowy hills, three cream envelopes lifting upward and changing into tiny golden stars. Keep broad open upper-sky space for refined serif title text exactly: “Christmas Wishes”.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions; Photorealism or glossy 3D rendering; Overly childish cartoon styling; Dense clutter that competes with the greeting; Harsh neon colours or heavy black shadows; Unreadable, misspelled or distorted typography; Dark full-bleed backgrounds likely to print poorly at home.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "generated_at": "2026-09-29T20:20:12.725Z"
+    },
+    {
+      "file": "proofs/attempt-01/proof-02.png",
+      "page_number": 2,
+      "prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.\n\nSTYLE PARAMETERS: illustration style: Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.; line weight: Fine selective pencil outlines, softened by opaque gouache edges.; line quality: Gently imperfect, hand-drawn and crisp in small decorative details.; detail level: Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.; background density: Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.; composition: Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.; palette: Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.; colour mode: full colour; shading: Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.; texture: Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.; mood: Cosy, hopeful, intimate and quietly nostalgic..\n\nPAGE 2 of \"Starlit Village Post\" (card-inside): Card inside panel: soft cream ground with restrained decorative border details, tiny frosted blue-grey stars near the top and a low snowy village-rooftop silhouette along the bottom; miniature muted berry-red letter box with amber glow and one small cream envelope in the lower right. Centred refined serif greeting text exactly: “Wishing you a Christmas filled with warmth, peace and hope.” Leave generous uncluttered blank writing space beneath the greeting.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions; Photorealism or glossy 3D rendering; Overly childish cartoon styling; Dense clutter that competes with the greeting; Harsh neon colours or heavy black shadows; Unreadable, misspelled or distorted typography; Dark full-bleed backgrounds likely to print poorly at home.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "generated_at": "2026-09-29T20:20:25.443Z"
+    },
+    {
+      "file": "proofs/attempt-01/proof-03.png",
+      "page_number": 3,
+      "prompt": "Hand-painted festive gouache and coloured-pencil illustration on subtly textured cold-press paper, with fine selective pencil outlines, softly simplified storybook forms and crisp decorative details. Full colour in deep cobalt and inky navy, frosted blue-grey, soft cream, muted berry red and warm amber; gentle tonal shading, dry-brush texture, subtle crosshatching and cosy luminous accents. Refined, nostalgic adult Christmas-card mood, with a clear focal hierarchy and generous calm space for elegant serif typography; home-print friendly contrast and restrained ink coverage.\n\nSTYLE PARAMETERS: illustration style: Hand-painted gouache and coloured-pencil festive illustration with a refined, nostalgic storybook finish for an adult Christmas card.; line weight: Fine selective pencil outlines, softened by opaque gouache edges.; line quality: Gently imperfect, hand-drawn and crisp in small decorative details.; detail level: Moderate detail with intricate focal accents, simplified surrounding forms and generous calm areas for seasonal wording.; background density: Layered but restrained; atmospheric detail recedes softly to preserve a clear focal hierarchy and open text space.; composition: Clear central focal hierarchy with a broad uncluttered area for elegant greeting typography; balanced vertical flow and quiet negative space.; palette: Deep cobalt and inky navy balanced with warm amber, soft cream, muted berry red and frosted blue-grey neutrals.; colour mode: full colour; shading: Gentle tonal gouache shading, subtle coloured-pencil crosshatching and warm illuminated accents against cool shadow.; texture: Visible cold-press paper grain, dry-brush snow texture and lightly waxy coloured-pencil marks.; mood: Cosy, hopeful, intimate and quietly nostalgic..\n\nPAGE 3 of \"Starlit Village Post\" (card-back): Card back: restrained print-safe cobalt and frosted blue-grey winter wash with a small snow drift at the base; one tiny cream envelope with a muted berry-red seal near the lower centre, one small golden star floating above it; no wording, no logo.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Design as a portrait folded card set with coordinated front, inside and back panels, preserving clear central space for the inside message and fold-safe alignment. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable branded Christmas-card artwork, characters, logos or distinctive compositions; Photorealism or glossy 3D rendering; Overly childish cartoon styling; Dense clutter that competes with the greeting; Harsh neon colours or heavy black shadows; Unreadable, misspelled or distorted typography; Dark full-bleed backgrounds likely to print poorly at home.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "generated_at": "2026-09-29T20:20:38.341Z"
+    }
+  ],
+  "error": null,
+  "selected_pages": [
+    {
+      "page_number": 1,
+      "role": "main-style",
+      "reason": "First content page (card-front): sets the core illustration style."
+    },
+    {
+      "page_number": 2,
+      "role": "different-composition",
+      "reason": "A different page type (card-inside) tests a different layout and activity structure."
+    },
+    {
+      "page_number": 3,
+      "role": "consistency-check",
+      "reason": "A later page (card-back, p3) checks the shared style stays consistent across the product."
+    }
+  ]
+}

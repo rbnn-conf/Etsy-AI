@@ -1,0 +1,152 @@
+{
+  "product_id": "014",
+  "batch": 1,
+  "model": "gpt-image-2.5-flare",
+  "quality": "low",
+  "started_at": "2026-09-29T13:11:41.665Z",
+  "finished_at": "2026-09-29T13:12:14.352Z",
+  "note": "Concept previews only: not final artwork, production files, marketing images or creative proofs.",
+  "images": [
+    {
+      "concept_id": "A",
+      "file": "concept-previews/batch-01/concept-a.png",
+      "prompt": "STYLE: Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Autumn or fall colouring pages\".\nConcept \"Autumn Botanicals: Detailed Colouring Pages\": a colouring book for Adults who enjoy detailed botanical colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Autumn leaf arrangements\n- Scene: Layered seasonal foliage and seed-head vignettes\n- Focal object: Veined maple leaf\n- Composition: Centred botanical clusters with open surrounding colour areas\n- Lighting: Not applicable; monochrome line artwork\n- Palette emphasis: Black outlines on clean white paper\n- Mood: Calm, refined and meditative\n- Typography: Classic serif cover title with botanical flourishes\n- Distinguishing hook: Interlocking leaves, berries and curling stems\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Woodland mushrooms / Forest-floor forage among ferns and lichen / Tall spotted mushroom / Not applicable; monochrome line artwork\n- C: Harvest produce / Rustic autumn market stall display / Overflowing apple crate / Not applicable; monochrome line artwork\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T13:11:52.030Z",
+      "source_concept": {
+        "concept_id": "A",
+        "proposed_name": "Autumn Botanicals: Detailed Colouring Pages",
+        "tagline": "Elegant seasonal colouring for adults",
+        "product_type": "Adult autumn colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy detailed botanical colouring",
+        "page_count": 12,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "11 distinct autumn botanical colouring pages",
+          "Print-at-home PDF in A4 and US Letter sizes",
+          "Printing guide"
+        ],
+        "short_description": "A refined set of 11 detailed autumn botanical colouring pages, plus an illustrated cover, for quiet seasonal creative time. The collection focuses on fallen leaves, seed heads, berries and woodland foliage rather than cosy character scenes.",
+        "key_features": [
+          "12-page printable colouring book",
+          "11 distinct botanical autumn illustrations",
+          "Detailed but clearly colourable black line art",
+          "A4 and US Letter print-ready files",
+          "Suitable for coloured pencils, pens and markers",
+          "Adult-focused seasonal designs"
+        ],
+        "visual_direction_summary": "Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.",
+        "visual_route": {
+          "primary_subject": "Autumn leaf arrangements",
+          "scene": "Layered seasonal foliage and seed-head vignettes",
+          "focal_object": "Veined maple leaf",
+          "composition": "Centred botanical clusters with open surrounding colour areas",
+          "lighting": "Not applicable; monochrome line artwork",
+          "palette_emphasis": "Black outlines on clean white paper",
+          "emotional_tone": "Calm, refined and meditative",
+          "typography_approach": "Classic serif cover title with botanical flourishes",
+          "distinguishing_visual_hook": "Interlocking leaves, berries and curling stems"
+        },
+        "preview_brief": "A portrait cover shows a large veined maple leaf centred within an elegant wreath of acorns, berries and curling stems. A classic serif title sits above the artwork, while the clean black ink linework and open shapes signal a refined adult colouring experience."
+      }
+    },
+    {
+      "concept_id": "B",
+      "file": "concept-previews/batch-01/concept-b.png",
+      "prompt": "STYLE: Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Autumn or fall colouring pages\".\nConcept \"Forage & Fungi: Autumn Colouring Pages\": a colouring book for Adults who enjoy woodland, fungi and nature-themed colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Woodland mushrooms\n- Scene: Forest-floor forage among ferns and lichen\n- Focal object: Tall spotted mushroom\n- Composition: Hero fungi rising from a detailed ground-level cluster\n- Lighting: Not applicable; monochrome line artwork\n- Palette emphasis: Black outlines on clean white paper\n- Mood: Earthy, curious and quietly magical\n- Typography: Woodland-inspired serif title above illustrated frame\n- Distinguishing hook: Oversized fungi with miniature forest-floor details\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Autumn leaf arrangements / Layered seasonal foliage and seed-head vignettes / Veined maple leaf / Not applicable; monochrome line artwork\n- C: Harvest produce / Rustic autumn market stall display / Overflowing apple crate / Not applicable; monochrome line artwork\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T13:12:00.975Z",
+      "source_concept": {
+        "concept_id": "B",
+        "proposed_name": "Forage & Fungi: Autumn Colouring Pages",
+        "tagline": "Woodland fungi colouring for grown-ups",
+        "product_type": "Adult woodland fungi colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy woodland, fungi and nature-themed colouring",
+        "page_count": 12,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "11 distinct fungi and forage colouring pages",
+          "Print-at-home PDF in A4 and US Letter sizes",
+          "Printing guide"
+        ],
+        "short_description": "An autumn woodland colouring collection with expressive mushrooms, lichen, fern fronds and foraged treasures. It is designed for adult colourists seeking natural detail and a more unusual seasonal theme than conventional pumpkins and leaf piles.",
+        "key_features": [
+          "12-page printable colouring book",
+          "11 distinct woodland fungi illustrations",
+          "Nature-led autumn theme",
+          "Detailed yet colourable black line art",
+          "A4 and US Letter print-ready files",
+          "Adult-focused seasonal designs"
+        ],
+        "visual_direction_summary": "Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.",
+        "visual_route": {
+          "primary_subject": "Woodland mushrooms",
+          "scene": "Forest-floor forage among ferns and lichen",
+          "focal_object": "Tall spotted mushroom",
+          "composition": "Hero fungi rising from a detailed ground-level cluster",
+          "lighting": "Not applicable; monochrome line artwork",
+          "palette_emphasis": "Black outlines on clean white paper",
+          "emotional_tone": "Earthy, curious and quietly magical",
+          "typography_approach": "Woodland-inspired serif title above illustrated frame",
+          "distinguishing_visual_hook": "Oversized fungi with miniature forest-floor details"
+        },
+        "preview_brief": "A portrait cover features a tall spotted mushroom as the focal point, surrounded by layered ferns, lichen, tiny berries and smaller fungi at forest-floor level. The title is set above in an earthy serif style, with precise black linework ready to colour."
+      }
+    },
+    {
+      "concept_id": "C",
+      "file": "concept-previews/batch-01/concept-c.png",
+      "prompt": "STYLE: Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Autumn or fall colouring pages\".\nConcept \"Harvest Market: Autumn Colouring Pages\": a colouring book for Adults who enjoy seasonal food, gardening and decorative colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Harvest produce\n- Scene: Rustic autumn market stall display\n- Focal object: Overflowing apple crate\n- Composition: Symmetrical produce display with patterned border details\n- Lighting: Not applicable; monochrome line artwork\n- Palette emphasis: Black outlines on clean white paper\n- Mood: Abundant, wholesome and celebratory\n- Typography: Friendly hand-lettered title in a framed header\n- Distinguishing hook: Market crate overflowing with apples, squash and herbs\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Autumn leaf arrangements / Layered seasonal foliage and seed-head vignettes / Veined maple leaf / Not applicable; monochrome line artwork\n- B: Woodland mushrooms / Forest-floor forage among ferns and lichen / Tall spotted mushroom / Not applicable; monochrome line artwork\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1536",
+      "quality": "low",
+      "generated_at": "2026-09-29T13:12:14.347Z",
+      "source_concept": {
+        "concept_id": "C",
+        "proposed_name": "Harvest Market: Autumn Colouring Pages",
+        "tagline": "A bountiful seasonal market to colour",
+        "product_type": "Adult harvest market colouring book",
+        "product_format": "colouring-book",
+        "target_customer": "Adults who enjoy seasonal food, gardening and decorative colouring",
+        "page_count": 12,
+        "orientation": "portrait",
+        "deliverable_components": [
+          "Illustrated cover page",
+          "11 distinct harvest market colouring pages",
+          "Print-at-home PDF in A4 and US Letter sizes",
+          "Printing guide"
+        ],
+        "short_description": "A cheerful autumn harvest colouring book celebrating market crates, orchard produce, kitchen herbs and seasonal bounty. The pages offer a fresh food-and-garden route for adults who want autumn colouring without Halloween imagery or character-led scenes.",
+        "key_features": [
+          "12-page printable colouring book",
+          "11 distinct harvest and market illustrations",
+          "No Halloween imagery",
+          "Detailed food, garden and produce motifs",
+          "A4 and US Letter print-ready files",
+          "Adult-focused seasonal designs"
+        ],
+        "visual_direction_summary": "Crisp hand-inked black line art with graceful organic contours, varied line weight and generous colourable shapes. Decorative natural details frame a clear focal subject without dense visual noise; monochrome artwork only, with an elegant, calm, artisanal mood.",
+        "visual_route": {
+          "primary_subject": "Harvest produce",
+          "scene": "Rustic autumn market stall display",
+          "focal_object": "Overflowing apple crate",
+          "composition": "Symmetrical produce display with patterned border details",
+          "lighting": "Not applicable; monochrome line artwork",
+          "palette_emphasis": "Black outlines on clean white paper",
+          "emotional_tone": "Abundant, wholesome and celebratory",
+          "typography_approach": "Friendly hand-lettered title in a framed header",
+          "distinguishing_visual_hook": "Market crate overflowing with apples, squash and herbs"
+        },
+        "preview_brief": "A portrait cover presents an overflowing wooden crate of apples, squash, pears and herbs, arranged as a welcoming market-stall display. A hand-lettered title fills the framed header, while small decorative leaves and produce motifs complete the clean black-and-white design."
+      }
+    }
+  ]
+}

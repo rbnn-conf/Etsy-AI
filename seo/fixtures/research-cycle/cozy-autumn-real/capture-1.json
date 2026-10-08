@@ -1,0 +1,107 @@
+{
+  "fixture": "REAL completed research cycle (Cozy Autumn, 2026-09-29), capture 1 of 2. adult coloring pages: real Etsy Marketplace Insights capture supplied by the owner on 2026-09-29. fall coloring pages and cozy coloring book: earlier owner-supplied seed values (undated, no trend). related_terms are Etsy's Similar search terms: DISCOVERY METADATA ONLY (ADR-034), never evidence; their figures are Etsy-rounded. The owner later finished with current evidence (ADR-035).",
+  "recorded_at": "2026-09-29T00:00:00.000Z",
+  "recorded_by": "owner",
+  "note": "Real capture 2026-09-29",
+  "rows": [
+    {
+      "keyword": "adult coloring pages",
+      "searches_30d": 4345,
+      "search_results": 138500,
+      "conversion_label": "high",
+      "trend_percent": 3.2,
+      "captured_at": "2026-09-29",
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Window 30 Aug-28 Sep. searches_30d = exact sum of Etsy's 30 daily counts (headline shown as 4.3k). search_results shown as 138.5k (Etsy-rounded). Conversion 'High'. Trend +3.2%. Listing price range GBP 1-2; median purchase price GBP 1.36-1.66. Similar terms: page 1 of 17 only."
+      },
+      "related_terms": [
+        {
+          "term": "digital download art",
+          "searches_30d": 12200,
+          "search_results": 3700000,
+          "conversion_label": "low"
+        },
+        {
+          "term": "mandala coloring pages",
+          "searches_30d": 1800,
+          "search_results": 16700,
+          "conversion_label": "high"
+        },
+        {
+          "term": "printable coloring pages",
+          "searches_30d": 1700,
+          "search_results": 263900,
+          "conversion_label": "high"
+        },
+        {
+          "term": "coloring pages for adults",
+          "searches_30d": 1600,
+          "search_results": 133400,
+          "conversion_label": "high"
+        },
+        {
+          "term": "digital coloring pages",
+          "searches_30d": 1200,
+          "search_results": 181500,
+          "conversion_label": "typical"
+        },
+        {
+          "term": "printable coloring book for adults",
+          "searches_30d": 630,
+          "search_results": 124000,
+          "conversion_label": "high"
+        },
+        {
+          "term": "printable coloring book pages",
+          "searches_30d": 554,
+          "search_results": 210700,
+          "conversion_label": "very_low"
+        },
+        {
+          "term": "halloween coloring pages printable",
+          "searches_30d": 547,
+          "search_results": 22800,
+          "conversion_label": "very_high"
+        },
+        {
+          "term": "printable journal pages",
+          "searches_30d": 399,
+          "search_results": 217900,
+          "conversion_label": "very_high"
+        }
+      ]
+    },
+    {
+      "keyword": "fall coloring pages",
+      "searches_30d": 2300,
+      "search_results": 29100,
+      "conversion_label": "very_high",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Earlier owner-supplied seed value (manual-capture-01), capture date unknown"
+      }
+    },
+    {
+      "keyword": "cozy coloring book",
+      "searches_30d": 3200,
+      "search_results": 33600,
+      "conversion_label": "typical",
+      "trend_percent": null,
+      "captured_at": null,
+      "source": {
+        "type": "etsy_marketplace_insights",
+        "method": "manual",
+        "captured_by": "owner",
+        "note": "Earlier owner-supplied seed value (manual-capture-01), capture date unknown"
+      }
+    }
+  ],
+  "research_id": "cozy-autumn-real"
+}

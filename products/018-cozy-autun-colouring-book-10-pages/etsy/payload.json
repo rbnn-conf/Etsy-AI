@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "product_id": "018",
+  "product_name": "The Apple Pie Kitchen Colouring Book",
+  "mode": "live",
+  "listing": {
+    "title": "Printable Autumn Colouring Book | Hedgehog Baker Kitchen, Instant Digital Download",
+    "description": "Settle into a gentle autumn baking story, where every page invites a little quiet creative time. 🍎 This cosy colouring book brings the warmth of a country kitchen to the table.\n\nInside The Apple Pie Kitchen Colouring Book, a cheerful hedgehog baker moves through a wholesome seasonal day, from gathering apples to sharing pie with friends. The black-and-white illustrations have playful rounded forms and inviting details, with enough space to enjoy colouring without overly intricate repeats. 🍂\n\nA few favourite moments\n\nApple Picking begins beneath a broad apple tree, with the hedgehog reaching for fruit beside a basket of apples.\n\nIn Mixing the Filling, a large bowl, apple slices, cinnamon and kitchen tools make a welcoming counter scene.\n\nRolling Pastry brings in a friendly mouse, a rolling pin and leaf-shaped pastry cut-outs.\n\nPie in the Oven centres on a lattice-topped pie, while the hedgehog peeks happily into the open oven.\n\nThe story continues to a tea table set for animal friends, then ends with A Cosy Kitchen Goodbye beneath a moonlit kitchen window. 🥧\n\nWhat you receive\n• 9 colouring pages\n• 10 pages including the cover\n• Black-and-white line art to colour in\n• Each colouring design has its own page\n• PDF files in A4 and US Letter\n• PNG pages for every page in the book\n• Printing guide included\n• 3 ZIP files of PDF and PNG files\n\nHow it works\n\nDownload the files, choose the page you would like to print, then colour your way through the cosy kitchen story. The printing guide is included to help with printing.\n\nFor children ages 6–12 who enjoy food, animals and cosy home scenes, these pages offer a peaceful autumn activity filled with baking, friendship and gentle storybook charm. Pour a little warmth into a creative afternoon. ✨\n\nThis is an instant digital download. No physical item is shipped.",
+    "tags": [
+      "autumn colouring",
+      "hedgehog colouring",
+      "cosy kitchen art",
+      "apple pie activity",
+      "fall colouring pages",
+      "kids autumn activity",
+      "baking colouring",
+      "food colouring",
+      "woodland animals",
+      "country kitchen",
+      "print at home",
+      "pdf colouring book",
+      "png colouring pages"
+    ],
+    "materials": [
+      "Digital PDF",
+      "PNG pages",
+      "A4 format",
+      "US Letter format",
+      "Printing guide",
+      "ZIP files"
+    ],
+    "price": {
+      "amount": 4.95,
+      "currency": "GBP",
+      "source": "approved Stage 3 suggested_price_gbp"
+    },
+    "quantity": 999,
+    "who_made": "i_did",
+    "when_made": "2020_2026",
+    "is_supply": false,
+    "should_auto_renew": false,
+    "type": "download",
+    "taxonomy": {
+      "id": 339,
+      "path": "Books, Movies & Music > Books > Coloring Books",
+      "source": "owner-approved mapping (automation/config/etsy-taxonomy-map.json), verified in Etsy seller taxonomy",
+      "approved_category": "Books, Movies & Music > Books > Coloring Books"
+    }
+  },
+  "properties": {
+    "apply": [
+      {
+        "field": "primary_colour",
+        "property_id": 200,
+        "property_name": "Primary color",
+        "value_ids": [
+          6
+        ],
+        "values": [
+          "Orange"
+        ]
+      },
+      {
+        "field": "secondary_colour",
+        "property_id": 52047899002,
+        "property_name": "Secondary color",
+        "value_ids": [
+          3
+        ],
+        "values": [
+          "Brown"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "field": "occasion",
+        "value": "Autumn",
+        "reason": "no such property for this category"
+      }
+    ]
+  },
+  "images": [
+    {
+      "rank": 1,
+      "file": "marketing/images/01-hero.png",
+      "sha256": "ed3f62b8d764b45b44445f0117f59fd4cc63b7b82b4043baa45be1a7a70eea38",
+      "bytes": 4498345,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 2,
+      "file": "marketing/images/02-preview.png",
+      "sha256": "6cddf40104fd6bf77f0827ade8ba1d572f6c4f0e207b532973921197a79ae3b4",
+      "bytes": 3357451,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 3,
+      "file": "marketing/images/03-contents.png",
+      "sha256": "05813ac50969e1778a37f90957c4bd4f6306f058cffbe97c0ebcb1ddaa155783",
+      "bytes": 2663672,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 4,
+      "file": "marketing/images/04-coloured.png",
+      "sha256": "94854a4a845480052761d48b5492b5ece0876921d91b2226785ebb589f910b7d",
+      "bytes": 3760684,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 5,
+      "file": "marketing/images/05-before-after.png",
+      "sha256": "e512e5aca29adb70e5eea6d4b9551a66d8688534d9f1f85261d202988895d475",
+      "bytes": 3710514,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 6,
+      "file": "marketing/images/06-lifestyle.png",
+      "sha256": "f92ca8b8016a457cb1805a957a67d38771e1832ddc9737fc53b348942867e8e8",
+      "bytes": 4043032,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 7,
+      "file": "marketing/images/07-showcase.png",
+      "sha256": "1c7246e2755e777f1368cc05be05269184d27cf2260c4040c1d32f9ecfa81dba",
+      "bytes": 2291359,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 8,
+      "file": "marketing/images/08-download.png",
+      "sha256": "f7e179aa829302c4a0e1103264fa82ef0fd4f5018418a1aeb434f488204b04df",
+      "bytes": 1342775,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 9,
+      "file": "marketing/images/09-cozy.png",
+      "sha256": "a56de6a6584aff29efb06d8edc6706b01a05c183bab58e8f5d44f76cd18cf101",
+      "bytes": 3879221,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    },
+    {
+      "rank": 10,
+      "file": "marketing/images/10-bundle.png",
+      "sha256": "ca8ba81f4e0c844932ba5cdedef71d4f66d7b15e61dbba01010e54c89ff63139",
+      "bytes": 2585342,
+      "format": "png",
+      "width": 2000,
+      "height": 2000,
+      "conversion": "none (uploaded exactly as approved)"
+    }
+  ],
+  "files": [
+    {
+      "rank": 1,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip",
+      "file": "etsy/delivery/The-Apple-Pie-Kitchen-Colouring-Book-A4.zip",
+      "sha256": "37e398902a6266dcf6ea46cdde57f58adc61d7702696194bdc0d893e5badaf5d",
+      "bytes": 13701135
+    },
+    {
+      "rank": 2,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip",
+      "file": "etsy/delivery/The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip",
+      "sha256": "eea297566e5ccb1773a38742c9104049ef408ce7a0a7b6399766f44d55c5b8f0",
+      "bytes": 13698777
+    },
+    {
+      "rank": 3,
+      "name": "The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip",
+      "file": "etsy/delivery/The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip",
+      "sha256": "e2f0c051774222a54441d4c794eb82ba569ffd9ddea13a570ed87934c70f665c",
+      "bytes": 13414704
+    }
+  ],
+  "sources": {
+    "stage2_fingerprint": "6f1663b311b8fc143b2e31d8bff0cfbafdd21a3a891ad83c1e49b0854d654c83",
+    "stage3_fingerprint": "0e35a7166f8e01afffea1a7ad6e322b73f5a7141a8fa51c7e0b7c634a3eec7f5",
+    "listing_sha256": "bec2434f501ccf28ffa92c59973a489175c4bafafaa969da25b881e7f8723af3",
+    "delivery_sha256": "dc03943ae14d784007236b40a424981aa09378c8832bdff76f46ea3bc9fd9247",
+    "marketing_approved_at": "2026-10-06T14:33:38.970Z"
+  },
+  "payload_sha256": "74d699a12e2f356f50a5915c8b7b5af67bf37de4cda25419d275bd760672f93a",
+  "prepared_at": "2026-10-06T14:33:53.304Z"
+}

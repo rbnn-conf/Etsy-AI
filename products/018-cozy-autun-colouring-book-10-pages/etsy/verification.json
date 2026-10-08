@@ -1,0 +1,197 @@
+{
+  "passed": true,
+  "critical": false,
+  "checks": [
+    {
+      "field": "listing exists",
+      "ok": true,
+      "expected": 4589734344,
+      "actual": 4589734344
+    },
+    {
+      "field": "listing id recorded",
+      "ok": true,
+      "expected": 4589734344,
+      "actual": 4589734344
+    },
+    {
+      "field": "shop",
+      "ok": true,
+      "expected": 46520279,
+      "actual": 46520279
+    },
+    {
+      "field": "not live on Etsy",
+      "ok": true,
+      "expected": "not 'active'",
+      "actual": "draft"
+    },
+    {
+      "field": "state",
+      "ok": true,
+      "expected": "'draft'",
+      "actual": "draft"
+    },
+    {
+      "field": "title",
+      "ok": true,
+      "expected": "Printable Autumn Colouring Book | Hedgehog Baker Kitchen, Instant Digital Download",
+      "actual": "Printable Autumn Colouring Book | Hedgehog Baker Kitchen, Instant Digital Download"
+    },
+    {
+      "field": "description",
+      "ok": true,
+      "expected": "1832 characters (approved text)",
+      "actual": "identical"
+    },
+    {
+      "field": "price",
+      "ok": true,
+      "expected": "GBP 4.95",
+      "actual": "GBP 4.95"
+    },
+    {
+      "field": "digital download type",
+      "ok": true,
+      "expected": "download",
+      "actual": "download"
+    },
+    {
+      "field": "taxonomy",
+      "ok": true,
+      "expected": 339,
+      "actual": 339
+    },
+    {
+      "field": "tags",
+      "ok": true,
+      "expected": "13 approved tags",
+      "actual": "13 tags"
+    },
+    {
+      "field": "materials",
+      "ok": true,
+      "expected": [
+        "Digital PDF",
+        "PNG pages",
+        "A4 format",
+        "US Letter format",
+        "Printing guide",
+        "ZIP files"
+      ],
+      "actual": [
+        "Digital PDF",
+        "PNG pages",
+        "A4 format",
+        "US Letter format",
+        "Printing guide",
+        "ZIP files"
+      ]
+    },
+    {
+      "field": "who made",
+      "ok": true,
+      "expected": "i_did",
+      "actual": "i_did"
+    },
+    {
+      "field": "when made",
+      "ok": true,
+      "expected": "2020_2026",
+      "actual": "2020_2026"
+    },
+    {
+      "field": "quantity",
+      "ok": true,
+      "expected": 999,
+      "actual": 999
+    },
+    {
+      "field": "no shipping profile",
+      "ok": true,
+      "expected": "none",
+      "actual": "none"
+    },
+    {
+      "field": "listing image count",
+      "ok": true,
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "field": "listing image order",
+      "ok": true,
+      "expected": [
+        8632865376,
+        8680686461,
+        8632865706,
+        8680686795,
+        8632866002,
+        8632866144,
+        8680687401,
+        8632866624,
+        8680687767,
+        8632866978
+      ],
+      "actual": [
+        8632865376,
+        8680686461,
+        8632865706,
+        8680686795,
+        8632866002,
+        8632866144,
+        8680687401,
+        8632866624,
+        8680687767,
+        8632866978
+      ]
+    },
+    {
+      "field": "digital file count",
+      "ok": true,
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "field": "digital files match the verified customer ZIP",
+      "ok": true,
+      "expected": [
+        "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip (13701135 bytes)",
+        "The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip (13698777 bytes)",
+        "The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip (13414704 bytes)"
+      ],
+      "actual": [
+        "The-Apple-Pie-Kitchen-Colouring-Book-A4.zip (13701135 bytes)",
+        "The-Apple-Pie-Kitchen-Colouring-Book-US-Letter.zip (13698777 bytes)",
+        "The-Apple-Pie-Kitchen-Colouring-Book-Pages-PNG.zip (13414704 bytes)"
+      ]
+    },
+    {
+      "field": "property: Primary color",
+      "ok": true,
+      "expected": [
+        "Orange"
+      ],
+      "actual": [
+        "Orange"
+      ]
+    },
+    {
+      "field": "property: Secondary color",
+      "ok": true,
+      "expected": [
+        "Brown"
+      ],
+      "actual": [
+        "Brown"
+      ]
+    }
+  ],
+  "fingerprint": "8766db4a6ea54d60f9eb33e6f452e5eace6ec4cba3155ef7bad34f2c5eef0c01",
+  "listing_id": 4589734344,
+  "shop_id": 46520279,
+  "expect_state": "draft",
+  "payload_sha256": "74d699a12e2f356f50a5915c8b7b5af67bf37de4cda25419d275bd760672f93a",
+  "remote_url": "https://www.etsy.com/listing/4589734344/printable-autumn-colouring-book-hedgehog",
+  "at": "2026-10-06T14:34:42.894Z"
+}

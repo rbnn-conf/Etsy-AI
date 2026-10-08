@@ -1,0 +1,112 @@
+{
+  "pattern_id": "bluebell-stem",
+  "name": "Bluebell Stem",
+  "category": "flower",
+  "difficulty": "easy",
+  "finished_size": "About 16 cm long, including the curved stem",
+  "yarn": [
+    {
+      "description": "Cotton or cotton-blend yarn for bell flowers",
+      "colour": "Blue or violet blue",
+      "amount": "About 8 g"
+    },
+    {
+      "description": "Cotton or cotton-blend yarn for stem",
+      "colour": "Leaf green",
+      "amount": "About 6 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "18 cm of 22-gauge floral wire",
+    "Green floral tape",
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "MR": "magic ring",
+    "Rnd": "round",
+    "st": "stitch",
+    "sts": "stitches",
+    "FO": "fasten off"
+  },
+  "gauge": "Gauge is not critical. Use a firm tension so the small bells hold their shape and the stem remains neat.",
+  "instructions": [
+    {
+      "heading": "Bell Flowers (make 5)",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With blue yarn, leave a 15 cm starting tail and make an MR. Work 6 sc in the MR; join with a sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, sc in the same st as the joining, 2 sc in the next st; repeat the sequence of sc in the next st and 2 sc in the next st 2 times. Join with a sl st to the first sc.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Rnd 3",
+          "text": "Ch 1, sc in the same st as the joining, then sc in each of the remaining 8 sts. Join with a sl st to the first sc.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Rnd 4",
+          "text": "Ch 1, sc in the same st as the joining, sc in the next st, 2 sc in the next st; repeat the sequence of sc in each of the next 2 sts and 2 sc in the next st 2 times. Join with a sl st to the first sc.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Ch 1, sc in the same st as the joining, 2 hdc in the next st, dc in the next st; repeat the sequence of sc in the next st, 2 hdc in the next st and dc in the next st 3 times. Join with a sl st to the first sc. FO, leaving a 10 cm tail.",
+          "stitch_count": 16
+        }
+      ]
+    },
+    {
+      "heading": "Stem",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With green yarn, ch 46. Sc in the second ch from the hook and in each remaining ch across. The final sc is the top of the stem. FO, leaving a 20 cm tail.",
+          "stitch_count": 45
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Bend a 5 mm loop inward at each end of the floral wire. Lay the wire along the reverse of the stem, stopping 1 cm short of each end, and use the green tail to sew it securely to the stem at 2 cm intervals.",
+    "Curve the wired stem gently, with the final sc of Row 1 at the upper tip.",
+    "Using each flower's 15 cm starting tail, sew the MR centre of one flower to the same long edge of the stem at stem sts 3, 11, 19, 27 and 35, counting down from the top.",
+    "Position every bell so its open edge points towards the lower end of the stem. Secure each attachment with two small stitches through the MR centre and stem edge."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off any remaining working yarn by cutting it and drawing the tail through the final loop.",
+    "Weave in all yarn tails on the reverse side, keeping the flower openings and stem edges clear.",
+    "Wrap green floral tape around the wired stem from the lower end to the upper tip, overlapping the tape slightly as you go.",
+    "Gently pinch each bell into a rounded shape and adjust the stem curve after taping."
+  ],
+  "notes": [
+    "The bells are worked from their closed top to their flared open edge.",
+    "Keep the green stem stitches firm so the wire does not show through the front."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

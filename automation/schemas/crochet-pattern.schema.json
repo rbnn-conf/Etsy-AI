@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "One candidate crochet pattern (ADR-041), drafted as structured data. Code adds pattern_id, name, origin (ai-assisted-draft) and verification_status (unverified); the model never states testing. The full source is then checked by production/src/crochet/bundle.mjs.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["category", "difficulty", "finished_size", "yarn", "yarn_weight", "requires_hook", "hook_size", "additional_materials", "stitches_used", "abbreviations", "gauge", "instructions", "assembly", "finishing", "notes"],
+  "properties": {
+    "category": { "type": "string", "minLength": 1, "maxLength": 40 },
+    "difficulty": { "type": "string", "enum": ["beginner", "easy", "intermediate", "experienced"] },
+    "finished_size": { "type": "string", "minLength": 1, "maxLength": 80, "description": "Approximate finished size, e.g. \"About 7 cm across\"." },
+    "yarn": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["description", "colour", "amount"],
+        "properties": {
+          "description": { "type": "string", "minLength": 1, "maxLength": 80, "description": "Fibre and colour role, e.g. \"Cotton yarn, petal colour\"." },
+          "colour": { "type": ["string", "null"], "maxLength": 40 },
+          "amount": { "type": ["string", "null"], "maxLength": 40 }
+        }
+      }
+    },
+    "yarn_weight": { "type": "string", "enum": ["0-lace", "1-super-fine", "2-fine", "3-light", "4-medium", "5-bulky", "6-super-bulky", "7-jumbo"] },
+    "requires_hook": { "type": "boolean" },
+    "hook_size": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["mm", "us"],
+      "properties": {
+        "mm": { "type": "number", "minimum": 0.5, "maximum": 30 },
+        "us": { "type": ["string", "null"], "maxLength": 10 }
+      }
+    },
+    "additional_materials": { "type": "array", "minItems": 1, "maxItems": 10, "items": { "type": "string", "minLength": 1, "maxLength": 80 } },
+    "stitches_used": { "type": "array", "minItems": 1, "maxItems": 20, "items": { "type": "string", "minLength": 1, "maxLength": 12 }, "description": "Abbreviations of every stitch used, each defined in abbreviations." },
+    "abbreviations": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 30,
+      "description": "Every abbreviation the instructions use (stitches, st, sts, rnd, rep, sk, sp, MR, ...), with its meaning.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["abbr", "meaning"],
+        "properties": {
+          "abbr": { "type": "string", "minLength": 1, "maxLength": 12 },
+          "meaning": { "type": "string", "minLength": 1, "maxLength": 80 }
+        }
+      }
+    },
+    "gauge": { "type": "string", "minLength": 1, "maxLength": 200, "description": "One or two short sentences: the gauge, or that it is not critical and why." },
+    "instructions": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 8,
+      "description": "One section per piece made (e.g. Centre, Petals, Stem).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["heading", "steps"],
+        "properties": {
+          "heading": { "type": "string", "minLength": 1, "maxLength": 60 },
+          "steps": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 40,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["label", "text", "stitch_count"],
+              "properties": {
+                "label": { "type": ["string", "null"], "maxLength": 16, "description": "e.g. \"Rnd 1\", \"Row 3\", \"Rnds 4-6\"; null for a plain step." },
+                "text": { "type": "string", "minLength": 1, "maxLength": 600, "description": "Concise instructions for this one round, row or labelled range only. Never several independent rounds or rows in one step: add another step instead." },
+                "stitch_count": { "type": ["integer", "null"], "minimum": 1, "maximum": 2000 }
+              }
+            }
+          }
+        }
+      }
+    },
+    "assembly": { "type": "array", "maxItems": 12, "items": { "type": "string", "minLength": 1, "maxLength": 400, "description": "One concise assembly instruction." }, "description": "Required when more than one piece is made; empty otherwise. Short, separate items: if more is needed, add another item instead of lengthening one." },
+    "finishing": { "type": "array", "minItems": 1, "maxItems": 8, "description": "Short, separate finishing instructions: one action (or closely related actions) per item, never one long paragraph. If more is needed, add another item instead of lengthening one.", "items": { "type": "string", "minLength": 1, "maxLength": 300, "description": "One concise finishing instruction." } },
+    "notes": { "type": "array", "maxItems": 5, "description": "Short, separate notes: if more is needed, add another item instead of lengthening one.", "items": { "type": "string", "minLength": 1, "maxLength": 300, "description": "One concise note." } }
+  }
+}

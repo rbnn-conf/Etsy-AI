@@ -1,0 +1,270 @@
+Falling Leaves Crochet Table Set
+6 patterns · US crochet terms · origin: ai-assisted-draft
+AI-assisted drafts for review. Unverified: not test-crocheted.
+Validation: passed
+
+============================================================
+01  Maple Leaf Placemat  (maple-leaf-placemat)
+placemat · intermediate · About 38 cm wide by 35 cm long
+Yarn: Cotton yarn for the leaf placemat, Burnt orange, About 300 g (about 650 m) (3-light)
+Hook: 3.5 mm (US E-4)
+Also needed: Tapestry needle, Scissors, Blocking pins and blocking mat, Stitch marker
+Gauge: 24 sts and 20 rows = 10 cm in hdc worked in BLO, after light blocking.
+Abbreviations: BLO = back loop only; ch = chain; dec = single crochet two together; dc = double crochet; hdc = half double crochet; inc = 2 single crochet in same stitch; rep = repeat; sc = single crochet; sl st = slip stitch; st = stitch; sts = stitches; tr = treble crochet
+
+Leaf and Stem
+  Row 1: Ch 6. Sc in the 2nd ch from hook and in each ch across; turn. (5)
+  Rows 2-12: Ch 1, sc in each st across; turn. The turning ch does not count as a st. (5)
+  Row 13: Ch 1, work 3 sc in each st across; turn. (15)
+  Row 14: Ch 1, [sc, inc] rep 5 times, sc in the last 5 sts; turn. (20)
+  Row 15: Ch 1, [sc, inc] rep 10 times; turn. (30)
+  Row 16: Ch 1, [2 sc, inc] rep 10 times; turn. (40)
+  Row 17: Ch 1, [3 sc, inc] rep 10 times; turn. (50)
+  Row 18: Ch 1, [4 sc, inc] rep 10 times; turn. (60)
+  Row 19: Ch 1, [5 sc, inc] rep 10 times; turn. (70)
+  Row 20: Ch 1, [6 sc, inc] rep 10 times; turn. (80)
+  Row 21: Ch 1, [7 sc, inc] rep 10 times; turn. (90)
+  Rows 22-58: Ch 1, hdc in BLO of each st across; turn. The turning ch does not count as a st. (90)
+  Row 59: Ch 1, [7 sc, dec] rep 10 times; turn. (80)
+  Row 60: Ch 1, [6 sc, dec] rep 10 times; turn. (70)
+  Row 61: Ch 1, [5 sc, dec] rep 10 times; turn. (60)
+  Row 62: Ch 1, [4 sc, dec] rep 10 times; turn. (50)
+  Row 63: Ch 1, [3 sc, dec] rep 10 times; turn. (40)
+  Row 64: Ch 1, [2 sc, dec] rep 10 times; turn. (30)
+  Row 65: Ch 1, [sc, dec] rep 10 times; turn. (20)
+  Row 66: Ch 1, dec rep 10 times; turn. (10)
+  Row 67: Ch 1, dec rep 5 times; turn. (5)
+  Row 68: Ch 1, dec twice, sc in the last st; turn. (3)
+  Row 69: Ch 1, dec, sc in the last st; turn. (2)
+  Row 70: Ch 1, dec. Do not turn. (1)
+  Edging: Ch 1 and turn. Treat the top st, 69 row ends down one side, 5 unused foundation chs, and 69 row ends up the other side as 144 edge positions. In the top st, work (sc, hdc, dc, tr, ch 2, tr, dc, hdc, sc). *Sc in each of the next 7 edge positions, then work (sc, hdc, dc, tr, ch 2, tr, dc, hdc, sc) in the next edge position; rep 17 times. Sc in each of the last 7 edge positions, then sl st to the first sc.
+
+Finishing
+  1. Fasten off after joining the edging, leaving a 15 cm tail.
+  2. Weave in both yarn tails on the reverse side without pulling the leaf out of shape.
+  3. Wet-block the placemat to its approximate finished size. Pin the pointed edging evenly and allow it to dry completely.
+
+Notes
+  - Each pointed edging cluster is worked into one edge position; the ch 2 forms the tip of the lobe.
+  - Place a stitch marker in the first sc of the edging cluster if it helps identify the final joining point.
+
+Verification: unverified
+
+============================================================
+02  Oak Leaf Appliqué  (oak-leaf-applique)
+applique · easy · About 13 cm long and 6 cm wide
+Yarn: Cotton or cotton-blend yarn for the leaf, Burnt ochre, About 8 g (3-light)
+Hook: 3.5 mm (US E/4)
+Also needed: Tapestry needle, Scissors
+Gauge: Gauge is not critical because this is an appliqué. A different gauge will alter the finished size.
+Abbreviations: ch = chain; sl st = slip stitch; sc = single crochet; hdc = half double crochet; dc = double crochet; tr = treble crochet
+
+Leaf and Stem
+  Ch 30. (30)
+  Row 1: Starting in the 2nd ch from hook and working 1 stitch in each successive ch, work: sl st, sc, hdc, dc, hdc, sc, sl st; then sc, hdc, dc, tr, dc, hdc, sc, sl st; then sc, hdc, dc, tr, dc, hdc, sc, sl st; then sc, hdc, dc, tr, dc. In the last ch, work (tr, ch 2, tr).
+  Row 1: Working in the unused opposite loops of the foundation ch and working 1 stitch in each successive ch, work: dc, tr, dc, hdc, sc; then sl st, sc, hdc, dc, tr, dc, hdc, sc; then sl st, sc, hdc, dc, tr, dc, hdc, sc; then sl st, sc, hdc, dc, hdc, sc, sl st. Ch 7 for the stem, sl st in the 2nd ch from hook and in each of the next 5 ch, then sl st into the leaf base. (65)
+  Keeping the yarn behind the work, surface sl st from the leaf base to the tip over 29 foundation-chain links to make the central vein. (29)
+
+Finishing
+  1. Fasten off at the leaf tip after completing the central vein.
+  2. Weave in both yarn tails on the reverse side without pulling the outline out of shape.
+  3. Lightly steam-block the appliqué, shaping the rounded lobes and pointed tip. Let it dry flat.
+
+Notes
+  - Surface sl st: with yarn behind the work, insert the hook at the next point, yarn over, pull up a loop, and pull it through the loop on the hook.
+  - For a smaller or larger appliqué, use a finer or thicker yarn and an appropriately sized hook.
+
+Verification: unverified
+
+============================================================
+03  Beech Leaf Coaster  (beech-leaf-coaster)
+Beech leaf coaster · beginner · About 12 cm long including stem; about 7 cm wide
+Yarn: Cotton yarn for the leaf, stem and raised vein, Warm beech brown, About 10 g (3-light)
+Hook: 3.5 mm (US E/4)
+Also needed: Tapestry needle, Scissors
+Gauge: Gauge is not critical. Use a firm tension so the coaster lies flat and provides a stable surface for a mug or glass.
+Abbreviations: ch = chain; sl st = slip stitch; sc = single crochet; hdc = half double crochet; dc = double crochet
+
+Leaf Coaster
+  Ch 16. Working in the back bump of the foundation chain, sc in second ch from hook, hdc in next 2 ch, dc in next 9 ch, hdc in next 2 ch, sc in last ch; ch 2, sc in same last ch. Do not turn. Rotate the work to crochet along the opposite side of the foundation chain: hdc in next 2 ch, dc in next 9 ch, hdc in next 2 ch, sc in last ch. (30)
+  With the active loop at the leaf base, ch 7. Sl st in second ch from hook and in each of the next 5 ch, ending at the leaf base to form the compact stem. (6)
+  Make a surface sl st through each of the 15 centre-chain loops, working from the leaf base to the tip, to form the raised central vein. (15)
+
+Finishing
+  1. Fasten off at the leaf tip after completing the surface vein, leaving a 10 cm tail.
+  2. Weave in the starting and fastening-off tails on the reverse side without pulling the leaf out of shape.
+  3. Dampen the coaster lightly, smooth the pointed tip and curved sides, then leave it flat to dry completely.
+
+Notes
+  - For a surface sl st, insert the hook from front to back through a centre-chain loop, yarn over beneath the fabric, then pull the yarn through the fabric and active loop.
+
+Verification: unverified
+
+============================================================
+04  Acorn Napkin Ring  (acorn-napkin-ring)
+napkin ring · easy · About 6 cm across; acorn about 5 cm tall
+Yarn: Cotton yarn for napkin ring and acorn body, Rust brown, About 15 g | Cotton yarn for textured acorn cap, Dark brown, About 8 g (3-light)
+Hook: 3.5 mm (US E-4)
+Also needed: Tapestry needle, Stitch marker, Small amount of polyester fibre fill, Scissors
+Gauge: Gauge is not critical; the finished ring should slide over a folded cloth napkin without stretching.
+Abbreviations: BLO = back loop only; ch = chain; dc = double crochet; FO = fasten off; hdc = half double crochet; inc = increase; MR = magic ring; rnd = round; sc = single crochet; sc2tog = single crochet two stitches together; sl st = slip stitch; st = stitch; sts = stitches
+
+Napkin Ring
+  Foundation: With rust brown, ch 30. Taking care not to twist the chain, sl st in the first ch to form a ring.
+  Rnd 1: Ch 1, sc in the same ch as the join and in each remaining ch around; join with a sl st in the first sc. (30)
+  Rnd 2: Ch 1, hdc in the same st as the join and in each remaining st around; join with a sl st in the first hdc. (30)
+  Rnd 3: Ch 1, dc in the same st as the join and in each remaining st around; join with a sl st in the first dc. (30)
+  Rnd 4: Ch 1, hdc in the same st as the join and in each remaining st around; join with a sl st in the first hdc. (30)
+  Rnd 5: Ch 1, sc in the same st as the join and in each remaining st around; join with a sl st in the first sc. (30)
+
+Acorn Body
+  Rnd 1: With rust brown, make 6 sc in an MR. (6)
+  Rnd 2: Inc in each st around. (12)
+  Rnd 3: (Sc, inc) 6 times. (18)
+  Rnd 4: Sc in each st around. (18)
+  Rnd 5: Sc in each st around. (18)
+  Rnd 6: Sc in each st around. (18)
+  Rnd 7: Sc in each st around. (18)
+  Rnd 8: (Sc, sc2tog) 6 times. (12)
+  Stuffing: Stuff the body firmly with fibre fill, shaping it into a rounded acorn form.
+  Rnd 9: Sc2tog 6 times. (6)
+
+Acorn Cap
+  Rnd 1: With dark brown, make 6 sc in an MR. (6)
+  Rnd 2: Inc in each st around. (12)
+  Rnd 3: (Sc, inc) 6 times. (18)
+  Rnd 4: Working in BLO, hdc in each st around. (18)
+
+Assembly
+  1. Place the cap over the narrow end of the stuffed body, with the cap's Rnd 4 edge aligned to body Rnd 7. Using the cap tail, sew through each of the 18 cap edge sts and the corresponding body sts; secure the yarn inside the acorn.
+  2. Centre the acorn over the joining seam on the outside of the napkin ring, with the cap at the top. Using the body tail or a 30 cm length of rust brown yarn, sew through body Rnds 4-6 and ring Rnds 2-4 several times. Secure on the ring's inside. 
+
+Finishing
+  1. After its final rnd, FO each piece by cutting the yarn and drawing the tail through the final loop. Leave a 15 cm tail on the ring, a 25 cm tail on the body, and a 30 cm tail on the cap.
+  2. Weave in the remaining yarn tails on the reverse of the ring and inside the acorn, without pulling the stitches out of shape.
+  3. Gently shape the acorn body with your fingers so it sits upright and rounded against the ring.
+
+Notes
+  - Work the acorn body and cap in continuous spirals; do not join their rnds. Use a stitch marker to mark the first st of each rnd.
+  - The BLO stitches in cap Rnd 4 create a raised ridge that gives the cap its textured appearance.
+  - The ring is worked in joined rnds to create neat, even edges.
+
+Verification: unverified
+
+============================================================
+05  Falling Leaves Table Runner  (falling-leaves-table-runner)
+table runner · intermediate · About 100 cm long by 28 cm wide
+Yarn: Cotton or cotton-blend yarn for the runner, Warm oatmeal or natural, About 250 g (625 m) (3-light)
+Hook: 3.5 mm (US E-4)
+Also needed: Tapestry needle, Scissors, Blocking mat and rustproof pins
+Gauge: 20 hdc and 20 rows = 10 cm measured over the textured fabric. Check gauge to achieve the stated length and width.
+Abbreviations: BLO = back loop only; ch = chain; dc2tog = double crochet two together; hdc = half double crochet; sk = skip; sp = space; st = stitch; sts = stitches
+
+Centre Panel
+  Row 1: Ch 57. Hdc in the second ch from hook and in each ch across; turn. (56)
+  Rows 2-19: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 20: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 21: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 22-39: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 40: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 41: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 42-59: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 60: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 61: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 62-79: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 80: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 81: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 82-99: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 100: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 101: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 102-119: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 120: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 121: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 122-139: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 140: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 141: Ch 1, hdc in each st and each ch-1 sp across; turn. (56)
+  Rows 142-159: Ch 1, hdc in BLO of each st across; turn. (56)
+  Row 160: Ch 1, hdc in first 3 sts, [ch 1, sk next st, hdc in next 6 sts] 7 times, hdc in last 4 sts; turn. (56)
+  Row 161: Ch 1, hdc in each st and each ch-1 sp across. Cut yarn, pull the tail through the final loop, and leave a 20 cm tail. (56)
+
+Tapered Ends (make 2)
+  Row 1: Ch 57. Hdc in the second ch from hook and in each ch across; turn. (56)
+  Row 2: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (54)
+  Row 3: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (52)
+  Row 4: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (50)
+  Row 5: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (48)
+  Row 6: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (46)
+  Row 7: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (44)
+  Row 8: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (42)
+  Row 9: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (40)
+  Row 10: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (38)
+  Row 11: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (36)
+  Row 12: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (34)
+  Row 13: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (32)
+  Row 14: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (30)
+  Row 15: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (28)
+  Row 16: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (26)
+  Row 17: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (24)
+  Row 18: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (22)
+  Row 19: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog; turn. (20)
+  Row 20: Ch 1, dc2tog, hdc in each st to the last 2 sts, dc2tog. Cut yarn, pull the tail through the final loop, and leave a 20 cm tail. (18)
+
+Assembly
+  1. Lay the centre panel wrong side up. Align the foundation edge of one tapered end with Row 1 of the centre panel, matching all 56 stitches, and mattress-stitch the full width with matching yarn.
+  2. Align the foundation edge of the second tapered end with Row 161 of the centre panel, matching all 56 stitches, and mattress-stitch the full width with matching yarn.
+
+Finishing
+  1. Fasten off any remaining active loops by cutting the yarn and pulling each tail through its final loop.
+  2. Weave in all yarn tails on the wrong side, following the stitch path to keep the seams flat.
+  3. Lightly wet-block the runner to the stated measurements, shaping both tapered ends evenly. Pin flat and allow it to dry completely.
+
+Notes
+  - The turning ch 1 does not count as a st throughout.
+  - Each eyelet row contains 49 hdc and seven ch-1 sps; count each ch-1 sp as one position for a width of 56.
+  - The eight eyelet rows create aligned channels that can guide the placement of separately made leaf appliqués.
+
+Verification: unverified
+
+============================================================
+06  Chestnut Cutlery Pocket  (chestnut-cutlery-pocket)
+cutlery pocket · beginner · About 10 cm wide by 18 cm long
+Yarn: Cotton yarn for the pocket and flap, chestnut brown, About 45 g (3-light)
+Hook: 3.5 mm (US E/4)
+Also needed: Tapestry needle, Scissors, Two locking stitch markers
+Gauge: 21 sc and 20 rows = 10 cm in sc. Gauge helps the finished pocket hold standard cutlery neatly.
+Abbreviations: ch = chain; sl st = slip stitch; sc = single crochet; hdc = half double crochet; dc = double crochet; sc2tog = single crochet two stitches together; dc2tog = double crochet two stitches together; st = stitch; sts = stitches
+
+Pocket Body
+  Row 1: Ch 22. Sc in second ch from hook and in each ch across; turn. (21)
+  Rows 2-72: Ch 1, sc in each st across; turn. (21)
+  After Row 72, fasten off, leaving a 70 cm tail for seaming.
+
+Curved Flap
+  Row 1: Ch 22. Sc in second ch from hook and in each ch across; turn. (21)
+  Row 2: Ch 1, sc2tog, sc in each of next 17 sts, sc2tog; turn. (19)
+  Row 3: Ch 1, sc2tog, sc in each of next 15 sts, sc2tog; turn. (17)
+  Row 4: Ch 1, sc2tog, hdc in each of next 13 sts, sc2tog; turn. (15)
+  Row 5: Ch 2, dc2tog, dc in each of next 11 sts, dc2tog; turn. (13)
+  Row 6: Ch 2, dc2tog, dc in each of next 9 sts, dc2tog; turn. (11)
+  Row 7: Ch 1, sc2tog, sc in each of next 7 sts, sc2tog; turn. (9)
+  Row 8: Ch 1, sc2tog, sc in each of next 5 sts, sc2tog; turn. (7)
+  Row 9: Ch 1, sc2tog, sc in each of next 3 sts, sc2tog; turn. (5)
+  Row 10: Ch 1, sc2tog, sc in next st, sc2tog; turn. (3)
+  Row 11: Ch 1, sl st in first st, sc in next st, sl st in last st. Fasten off, leaving a 35 cm tail for attaching the flap. (3)
+
+Assembly
+  1. Fold the Pocket Body in half crosswise between Rows 36 and 37, with wrong sides together. Align Row 1 with Row 72, keeping the layer ending at Row 72 as the rear layer.
+  2. Using the long body tail, whipstitch the 36 paired row ends together along each side, from the fold to the opening. Keep the aligned Row 1 and Row 72 edges unsewn.
+  3. Centre the Flap Row 1 edge along the outside of the rear Row 72 opening edge. Using the flap tail, whipstitch the 21 flap sts to the 21 rear opening sts so the shaped flap falls over the front of the pocket.
+
+Finishing
+  1. Fasten off all sewing tails securely on the inside of the side seams.
+  2. Weave in all yarn ends on the reverse side, keeping the opening and flap edge smooth.
+  3. Lightly steam block the pocket flat, shaping the flap into a gentle chestnut curve. Let it dry completely before use.
+
+Notes
+  - Turning chains do not count as sts throughout.
+  - Place stitch markers at the fold corners before seaming if needed to keep both side seams even.
+  - The pocket opening remains at the aligned Row 1 and Row 72 edges; slide cutlery inside before folding the flap over it.
+
+Verification: unverified

@@ -1,0 +1,2392 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "023",
+  "workspace": "023-spooky-colouring-book-cartoon-for-adult",
+  "name": "Midnight Monster Diner Colouring Book",
+  "slug": "midnight-monster-diner-colouring-book",
+  "season": "Halloween",
+  "product_type": "Adult spooky cartoon colouring book",
+  "target_customer": "Adults who enjoy bold, humorous Halloween colouring",
+  "page_count": 21,
+  "status": "AWAITING_ETSY_PUBLISH_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-10-07T21:47:07.827Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-10-07T21:47:36.304Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-10-07T21:47:36.453Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-10-07T21:49:28.100Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-10-07T21:50:10.905Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-10-07T21:51:14.892Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-10-07T21:51:15.043Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-10-07T21:51:50.794Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-10-07T21:52:40.302Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T21:52:54.253Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T21:56:35.527Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T21:58:24.965Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T21:58:40.208Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T22:10:54.156Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T22:11:14.692Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "BOOK_GENERATING",
+      "event": "book_started",
+      "at": "2026-10-07T22:12:04.645Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "BOOK_GENERATING",
+      "to": "AWAITING_BOOK_APPROVAL",
+      "event": "book_ready",
+      "at": "2026-10-07T22:12:24.486Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_BOOK_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "book_approved",
+      "at": "2026-10-07T22:13:02.888Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-10-07T22:13:09.224Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-10-07T22:13:09.247Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-10-07T22:14:22.659Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-10-07T22:14:37.064Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-10-07T22:14:43.901Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-10-07T22:17:24.271Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-10-07T22:17:48.620Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-10-07T22:18:28.511Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-10-07T22:18:29.978Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_MARKETING_APPROVAL",
+      "to": "MARKETING_APPROVED",
+      "event": "marketing_approved",
+      "at": "2026-10-07T22:19:08.252Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_APPROVED",
+      "to": "ETSY_PREPARING",
+      "event": "etsy_started",
+      "at": "2026-10-07T22:19:12.511Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_PREPARING",
+      "to": "ETSY_DRAFT_CREATED",
+      "event": "etsy_draft_created",
+      "at": "2026-10-07T22:19:28.161Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_CREATED",
+      "to": "ETSY_ASSETS_UPLOADING",
+      "event": "etsy_uploading",
+      "at": "2026-10-07T22:19:28.343Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_ASSETS_UPLOADING",
+      "to": "ETSY_DRAFT_VERIFYING",
+      "event": "etsy_verifying",
+      "at": "2026-10-07T22:20:14.218Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "ETSY_DRAFT_VERIFYING",
+      "to": "AWAITING_ETSY_PUBLISH_APPROVAL",
+      "event": "etsy_draft_ready",
+      "at": "2026-10-07T22:20:15.386Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Spooky colouring book cartoon for adult NOT Fine LINE",
+    "requested_at": "2026-10-07T21:47:07.827Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "concept",
+    "summary": {
+      "style": "Bold mid-century horror-cartoon colouring-book line art with a playful retro roadside sensibility.",
+      "linework": "Thick to very thick black outlines, with deliberate weight variation for emphasis; never fine line.; Smooth, confident, rounded ink contours with slightly bouncy hand-drawn energy; crisp closed shapes for easy colouring.",
+      "detail": "Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.",
+      "palette": "Pure black ink on clean white paper; artwork must remain entirely colourer-led, with no pre-coloured fills. (black-and-white line art)",
+      "mood": "Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-10-07T21:47:36.304Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Midnight Monster Diner Colouring Book",
+            "tagline": "Bold retro scares for grown-up colourists",
+            "product_type": "Adult spooky cartoon colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy bold, humorous Halloween colouring",
+            "page_count": 21,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated front cover",
+              "20 single-sided colouring pages",
+              "Printing and colouring guide"
+            ],
+            "short_description": "A 21-page adult colouring book set in a gloriously ghoulish all-night diner, with monster patrons, haunted desserts, bizarre jukeboxes and retro roadside details. Designed for relaxed colouring with satisfyingly bold spaces rather than delicate fine-line detail.",
+            "key_features": [
+              "Bold black cartoon outlines, not fine line art",
+              "20 distinct single-sided spooky diner scenes",
+              "Large, easy-to-colour areas with playful secondary details",
+              "Humorous retro horror atmosphere for adult colourists",
+              "Home-printable portrait pages for A4 and US Letter paper",
+              "Front cover and simple printing guide included"
+            ],
+            "visual_direction_summary": "Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.",
+            "visual_route": {
+              "primary_subject": "Monster diners",
+              "scene": "All-night roadside diner",
+              "focal_object": "Towering haunted milkshake",
+              "composition": "Wide counter scenes with bold central food props",
+              "lighting": "Neon-sign night glow",
+              "palette_emphasis": "Monochrome black ink and white space",
+              "emotional_tone": "Cheeky, nostalgic and mischievous",
+              "typography_approach": "Chunky retro diner lettering",
+              "distinguishing_visual_hook": "Monsters ordering bizarre midnight comfort food"
+            },
+            "preview_brief": "A bold black-and-white cover shows a lineup of eccentric monsters at a glowing roadside diner counter, centred around an enormous haunted milkshake. Chunky retro title lettering arches above, with broad colourable areas and playful menu-board details."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Cryptid Road Trip Colouring Book",
+            "tagline": "Offbeat roadside horror for adults",
+            "product_type": "Adult spooky cartoon colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who enjoy cryptids, vintage travel and comic spooky art",
+            "page_count": 21,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated front cover",
+              "20 single-sided colouring pages",
+              "Printing and colouring guide"
+            ],
+            "short_description": "A 21-page adult colouring book following oddball cryptids along strange moonlit highways, from alien petrol stations to cursed motels and giant roadside attractions. The bold cartoon artwork favours substantial colourable shapes and comic detail over intricate fine lines.",
+            "key_features": [
+              "Bold black cartoon outlines, not fine line art",
+              "20 distinct cryptid travel and roadside scenes",
+              "Large colourable shapes with medium-detail scenery",
+              "Vintage travel-poster energy with spooky humour",
+              "Home-printable portrait pages for A4 and US Letter paper",
+              "Front cover and simple printing guide included"
+            ],
+            "visual_direction_summary": "Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.",
+            "visual_route": {
+              "primary_subject": "Cryptid travellers",
+              "scene": "Moonlit desert highway",
+              "focal_object": "Cursed camper van",
+              "composition": "Winding road leading towards oversized roadside signs",
+              "lighting": "Sharp moonlight and distant neon",
+              "palette_emphasis": "Monochrome black ink and white space",
+              "emotional_tone": "Odd, adventurous and wry",
+              "typography_approach": "Distressed vintage travel lettering",
+              "distinguishing_visual_hook": "Cryptids touring supernatural roadside landmarks"
+            },
+            "preview_brief": "A black-and-white cover depicts a cursed camper van rolling along a moonlit desert highway, packed with cheerful cryptid travellers and framed by oversized eerie roadside signs. The title sits in bold distressed travel-poster lettering above the open night sky."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Haunted Funfair After Dark Colouring Book",
+            "tagline": "Big-top chills for adult colourists",
+            "product_type": "Adult spooky cartoon colouring book",
+            "product_format": "colouring-book",
+            "target_customer": "Adults who like whimsical dark carnival art and bold colouring pages",
+            "page_count": 21,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Illustrated front cover",
+              "20 single-sided colouring pages",
+              "Printing and colouring guide"
+            ],
+            "short_description": "A 21-page adult colouring book exploring a delightfully sinister funfair after closing time, with mischievous ride operators, bewitched prizes, living arcade machines and spectacularly spooky attractions. Strong cartoon linework makes every page enjoyable to colour without fine-line fuss.",
+            "key_features": [
+              "Bold black cartoon outlines, not fine line art",
+              "20 distinct after-dark funfair scenes",
+              "Clear focal shapes and satisfying colourable pattern areas",
+              "Whimsical dark carnival theme without graphic horror",
+              "Home-printable portrait pages for A4 and US Letter paper",
+              "Front cover and simple printing guide included"
+            ],
+            "visual_direction_summary": "Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.",
+            "visual_route": {
+              "primary_subject": "Funfair fiends",
+              "scene": "Abandoned twilight carnival",
+              "focal_object": "Grinning ferris wheel",
+              "composition": "Towering ride silhouette above clustered midway stalls",
+              "lighting": "Twilight sky with carnival bulb glow",
+              "palette_emphasis": "Monochrome black ink and white space",
+              "emotional_tone": "Eerie, theatrical and exuberant",
+              "typography_approach": "Hand-drawn circus marquee lettering",
+              "distinguishing_visual_hook": "A ferris wheel with a mischievous face"
+            },
+            "preview_brief": "A high-contrast black-and-white cover features a towering grinning ferris wheel above a crooked twilight midway, where funfair fiends tend glowing stalls and peculiar prizes. Hand-drawn circus marquee lettering fills the upper space, leaving bold open areas for colouring."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "A",
+      "selected_at": "2026-10-07T21:50:10.905Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-10-07T21:47:36.453Z",
+        "finished_at": "2026-10-07T21:49:28.097Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Spooky colouring book cartoon for adult NOT Fine LINE\".\nConcept \"Midnight Monster Diner Colouring Book\": a colouring book for Adults who enjoy bold, humorous Halloween colouring.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Monster diners\n- Scene: All-night roadside diner\n- Focal object: Towering haunted milkshake\n- Composition: Wide counter scenes with bold central food props\n- Lighting: Neon-sign night glow\n- Palette emphasis: Monochrome black ink and white space\n- Mood: Cheeky, nostalgic and mischievous\n- Typography: Chunky retro diner lettering\n- Distinguishing hook: Monsters ordering bizarre midnight comfort food\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Cryptid travellers / Moonlit desert highway / Cursed camper van / Sharp moonlight and distant neon\n- C: Funfair fiends / Abandoned twilight carnival / Grinning ferris wheel / Twilight sky with carnival bulb glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T21:47:47.369Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Spooky colouring book cartoon for adult NOT Fine LINE\".\nConcept \"Cryptid Road Trip Colouring Book\": a colouring book for Adults who enjoy cryptids, vintage travel and comic spooky art.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Cryptid travellers\n- Scene: Moonlit desert highway\n- Focal object: Cursed camper van\n- Composition: Winding road leading towards oversized roadside signs\n- Lighting: Sharp moonlight and distant neon\n- Palette emphasis: Monochrome black ink and white space\n- Mood: Odd, adventurous and wry\n- Typography: Distressed vintage travel lettering\n- Distinguishing hook: Cryptids touring supernatural roadside landmarks\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Monster diners / All-night roadside diner / Towering haunted milkshake / Neon-sign night glow\n- C: Funfair fiends / Abandoned twilight carnival / Grinning ferris wheel / Twilight sky with carnival bulb glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T21:49:18.451Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Bold mid-century horror-cartoon line art with thick, varied black contours, rounded expressive forms, solid shadow shapes and medium-weight decorative detail. Clean white backgrounds, high-contrast monochrome rendering and roomy colourable spaces. Playful, slightly macabre adult humour; no delicate linework or realistic shading.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Spooky colouring book cartoon for adult NOT Fine LINE\".\nConcept \"Haunted Funfair After Dark Colouring Book\": a colouring book for Adults who like whimsical dark carnival art and bold colouring pages.\nShow one representative colouring page, using THIS concept's own content:\n- Subject: Funfair fiends\n- Scene: Abandoned twilight carnival\n- Focal object: Grinning ferris wheel\n- Composition: Towering ride silhouette above clustered midway stalls\n- Lighting: Twilight sky with carnival bulb glow\n- Palette emphasis: Monochrome black ink and white space\n- Mood: Eerie, theatrical and exuberant\n- Typography: Hand-drawn circus marquee lettering\n- Distinguishing hook: A ferris wheel with a mischievous face\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Monster diners / All-night roadside diner / Towering haunted milkshake / Neon-sign night glow\n- B: Cryptid travellers / Moonlit desert highway / Cursed camper van / Sharp moonlight and distant neon\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-10-07T21:49:27.931Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "cover",
+      "title": "Midnight Monster Diner",
+      "concept": "An illustrated title cover introducing a mischievous all-night monster diner.",
+      "instructions": null,
+      "artwork_description": "A roadside diner counter is packed with a vampire, a one-eyed cyclops, a shaggy werewolf and a glamorous ghost, all facing an enormous haunted milkshake with a crooked straw, whipped-cream ghost and cherry eyeball. A crescent moon, diner sign and small stars frame the scene. Chunky arched title lettering reads “MIDNIGHT MONSTER DINER”; a small subtitle reads “COLOURING BOOK”.",
+      "generation_prompt": "Illustrated colouring-book cover: eccentric monster lineup at a retro all-night roadside diner counter, centred on an enormous haunted milkshake with ghost-shaped whipped cream, crooked straw and cherry eyeball; vampire, cyclops, werewolf and elegant ghost patrons; moon and diner sign framing the composition; exact title text “MIDNIGHT MONSTER DINER” in chunky retro lettering, small subtitle “COLOURING BOOK”.",
+      "production_notes": "Verify title spelling exactly. Keep the cover as uncoloured line art despite its illustrated-cover role. Ensure the milkshake is the clear focal point and all character silhouettes remain distinct."
+    },
+    {
+      "page_number": 2,
+      "page_type": "colouring",
+      "title": "Graveyard Shift",
+      "concept": "A vampire waiter delivers a towering breakfast to a sleepy mummy customer.",
+      "instructions": null,
+      "artwork_description": "Inside the diner, a bow-tied vampire waiter balances a tray holding a stack of six pancakes, a skull-shaped butter pat and a steaming coffee pot. A bandaged mummy slumps in a booth beneath a window showing a moon and three tiny bats. The table holds a ketchup bottle, salt shaker and folded napkin.",
+      "generation_prompt": "Diner interior scene titled “GRAVEYARD SHIFT”: bow-tied vampire waiter carrying a tray with exactly six stacked pancakes, skull-shaped butter pat and coffee pot toward a sleepy mummy in a booth; moonlit window with three bats; ketchup, salt shaker and napkin on table.",
+      "production_notes": "Verify exactly six pancakes and three bats. Leave broad areas on the mummy wraps, booth, tray and pancakes."
+    },
+    {
+      "page_number": 3,
+      "page_type": "colouring",
+      "title": "Jukebox Jitters",
+      "concept": "A living jukebox performs for dancing monster customers.",
+      "instructions": null,
+      "artwork_description": "A smiling retro jukebox with eyes, little arms and speaker-grille teeth plays music notes while Frankenstein-like dancer, ghost dancer and horned demon dancer twist nearby. A checkerboard floor uses large squares only; two simple wall records and a neon-style lightning bolt decorate the background.",
+      "generation_prompt": "Diner dance corner titled “JUKEBOX JITTERS”: anthropomorphic retro jukebox with eyes, arms and speaker-grille teeth playing music; three dancing monsters, a square-headed stitched monster, a floating ghost and a small horned demon; large checkerboard floor, two wall records and lightning-bolt decoration.",
+      "production_notes": "Keep checkerboard squares large and countable, not dense. Use only three dancers and exactly two wall records."
+    },
+    {
+      "page_number": 4,
+      "page_type": "colouring",
+      "title": "Moon Pie Special",
+      "concept": "A witch cooks magical pies on the diner griddle.",
+      "instructions": null,
+      "artwork_description": "A witch in a curled hat flips three crescent-moon pies with a spatula behind the counter. A bubbling cauldron-shaped mixing bowl, flour tin, rolling pin and pie display sit nearby. Four small stars float above the griddle; the menu board has only decorative lines, no small wording.",
+      "generation_prompt": "Counter-kitchen scene titled “MOON PIE SPECIAL”: witch cook in curled hat flipping exactly three crescent-moon pies on a diner griddle; cauldron-shaped mixing bowl, flour tin, rolling pin and pie display; exactly four floating stars; menu board with blank decorative lines only.",
+      "production_notes": "Verify three pies and four stars. No legible small menu text beyond the page title."
+    },
+    {
+      "page_number": 5,
+      "page_type": "colouring",
+      "title": "Booth for Two",
+      "concept": "A romantic skeleton couple share a banana split.",
+      "instructions": null,
+      "artwork_description": "Two stylish skeletons sit opposite one another in a high-backed diner booth, sharing one oversized banana split with three scoops, two spoons and a heart-shaped cherry. A small vase holds one wilted rose. The booth window shows a crescent moon and a single passing cloud.",
+      "generation_prompt": "Romantic diner booth scene titled “BOOTH FOR TWO”: two stylish skeletons sharing one oversized banana split with exactly three scoops, two spoons and a heart-shaped cherry; one wilted rose in a small vase; crescent moon and one cloud outside the booth window.",
+      "production_notes": "Verify the dessert has exactly three scoops and two spoons. Keep skeleton bones bold and separated into easy colour zones."
+    },
+    {
+      "page_number": 6,
+      "page_type": "colouring",
+      "title": "Drive-Thru Doom",
+      "concept": "A nervous cyclops takes an order from a monster car.",
+      "instructions": null,
+      "artwork_description": "At the drive-thru window, a cyclops server in a paper cap hands a bag marked with a simple skull icon to a smiling coffin-shaped hot rod. Inside the car are a tiny green alien driver and a pet bat in the passenger seat. A large speaker box, order arrow and two puffs of exhaust complete the scene.",
+      "generation_prompt": "Drive-thru scene titled “DRIVE-THRU DOOM”: one-eyed server in paper cap passing a skull-icon takeaway bag through a window to a smiling coffin-shaped hot rod; tiny alien driver and pet bat passenger; large speaker box, directional arrow and exactly two exhaust puffs.",
+      "production_notes": "Verify two vehicle occupants and two exhaust puffs. The bag uses a skull symbol only, not text."
+    },
+    {
+      "page_number": 7,
+      "page_type": "colouring",
+      "title": "Bottomless Brew",
+      "concept": "A cheerful swamp creature pours bottomless coffee.",
+      "instructions": null,
+      "artwork_description": "A friendly swamp creature with long arms pours coffee from a giant percolator into three mismatched mugs on a counter. The mugs show a moon, a bat and a skull symbol. A sugar dispenser, three doughnuts and a hanging lamp provide simple framing details.",
+      "generation_prompt": "Counter scene titled “BOTTOMLESS BREW”: cheerful swamp creature pouring from a giant retro percolator into exactly three mismatched mugs, decorated with a moon, bat and skull symbol; sugar dispenser, exactly three doughnuts and one hanging lamp.",
+      "production_notes": "Check exactly three mugs, three distinct mug symbols and three doughnuts. Preserve broad open shapes on the creature and percolator."
+    },
+    {
+      "page_number": 8,
+      "page_type": "colouring",
+      "title": "Creature Feature Feast",
+      "concept": "A lagoon creature enjoys a dramatic seafood platter.",
+      "instructions": null,
+      "artwork_description": "A scaly lagoon monster in a diner bib sits before a platter containing a fish skeleton, two clam shells, lemon wedge and seaweed. A tiny octopus waiter carries a tray with a milkshake. Behind them, a porthole window reveals two fish and a crescent moon.",
+      "generation_prompt": "Diner table scene titled “CREATURE FEATURE FEAST”: scaly lagoon monster wearing a diner bib, seafood platter with one fish skeleton, exactly two clam shells, lemon wedge and seaweed; tiny octopus waiter holding a milkshake tray; porthole window with exactly two fish and crescent moon.",
+      "production_notes": "Verify seafood platter components and exactly two fish in the porthole. Ensure the octopus has eight clearly readable arms, without tangled overlap."
+    },
+    {
+      "page_number": 9,
+      "page_type": "colouring",
+      "title": "Pie-Eyed Poltergeist",
+      "concept": "A ghostly pie contest causes comic chaos.",
+      "instructions": null,
+      "artwork_description": "A grinning floating ghost wears a diner bib and faces an enormous pie on a stand. Three pie slices hover around it, moved by ghostly swirls. A startled waiter drops one spoon, while a table tent displays a bold “1” for the contest table.",
+      "generation_prompt": "Comic pie-contest scene titled “PIE-EYED POLTERGEIST”: floating grinning ghost in diner bib confronting an enormous pie on a stand; exactly three pie slices levitating in swirls; startled waiter dropping one spoon; simple table tent with numeral “1”.",
+      "production_notes": "Verify exactly three floating slices, one spoon and one numeral 1. Avoid text other than the title and numeral."
+    },
+    {
+      "page_number": 10,
+      "page_type": "colouring",
+      "title": "Monster Mash Hash",
+      "concept": "A cheerful kitchen crew makes a wild breakfast hash.",
+      "instructions": null,
+      "artwork_description": "A stitched square-headed cook stirs a giant skillet of hash marked with chunky potato cubes, while a two-headed helper cracks two eggs into the pan. A bat-shaped timer, spatula and striped tea towel sit nearby. The background has simple tiled wall shapes with ample white gaps.",
+      "generation_prompt": "Diner kitchen scene titled “MONSTER MASH HASH”: square-headed stitched cook stirring giant skillet of chunky breakfast hash; two-headed helper cracking exactly two eggs into the skillet; bat-shaped timer, spatula and striped tea towel; simple large tile wall.",
+      "production_notes": "Verify exactly two eggs and two heads. Keep the food shapes large rather than realistically detailed."
+    },
+    {
+      "page_number": 11,
+      "page_type": "colouring",
+      "title": "Witch Way to the Restroom?",
+      "concept": "A witch asks a haunted sign for directions.",
+      "instructions": null,
+      "artwork_description": "A witch holding a handbag studies a comically confused freestanding signpost with a crescent-moon restroom symbol and three arrows pointing in silly directions. A shy black cat peeks from her hat brim. The diner corridor has a framed portrait of a smiling ghost and a potted carnivorous plant.",
+      "generation_prompt": "Diner corridor scene titled “WITCH WAY TO THE RESTROOM?”: witch with handbag looking at a humorous freestanding signpost bearing a crescent-moon restroom symbol and exactly three directional arrows; black cat peeking from hat; framed smiling ghost portrait and potted carnivorous plant.",
+      "production_notes": "Use the crescent symbol rather than extra restroom wording. Verify exactly three arrows; title punctuation must be correct."
+    },
+    {
+      "page_number": 12,
+      "page_type": "colouring",
+      "title": "Shake, Rattle and Ghoul",
+      "concept": "Three ghouls enjoy monstrous milkshakes at the counter.",
+      "instructions": null,
+      "artwork_description": "Three distinct ghouls perched on diner stools sip from three extravagant milkshakes: one topped with a cherry eyeball, one with a tiny ghost biscuit, and one with a crescent cookie. A tipped sugar jar spills exactly seven large sugar cubes across the counter. A wall clock reads midnight with both hands pointing to twelve.",
+      "generation_prompt": "Counter scene titled “SHAKE, RATTLE AND GHOUL”: exactly three ghouls on stools drinking three extravagant milkshakes, topped respectively by a cherry eyeball, tiny ghost biscuit and crescent cookie; tipped sugar jar with exactly seven large sugar cubes; wall clock with both hands at twelve.",
+      "production_notes": "Verify three characters, three distinct toppings, seven cubes, and clock hands at 12:00. Keep cube shapes separated and large."
+    },
+    {
+      "page_number": 13,
+      "page_type": "colouring",
+      "title": "Neon Night Shift",
+      "concept": "A giant neon diner sign comes alive after midnight.",
+      "instructions": null,
+      "artwork_description": "Outside the diner, an oversized retro roadside sign with a toothy moon mascot grins above the building. A small mechanic goblin stands on a ladder changing one light bulb, while a vampire customer holds a takeaway cup below. Four stylised stars and a crescent moon fill the open night sky.",
+      "generation_prompt": "Exterior roadside scene titled “NEON NIGHT SHIFT”: oversized retro diner sign topped with a toothy moon mascot; small goblin mechanic on ladder changing one bulb; vampire customer holding takeaway cup; diner facade, exactly four stylised stars and one crescent moon.",
+      "production_notes": "Keep the sign lettering decorative and limited to the page title only. Verify four stars, one bulb and a secure readable ladder."
+    },
+    {
+      "page_number": 14,
+      "page_type": "colouring",
+      "title": "The Daily Scream",
+      "concept": "A werewolf reads the diner newspaper over breakfast.",
+      "instructions": null,
+      "artwork_description": "A fluffy werewolf in a booth reads an oversized newspaper with the short masthead “DAILY SCREAM”. On the table are a full moon waffle, a mug and a jam pot. Outside the window, a delivery van shaped like a hearse passes under three rain clouds.",
+      "generation_prompt": "Diner booth scene titled “THE DAILY SCREAM”: fluffy werewolf reading oversized newspaper with exact masthead text “DAILY SCREAM”; breakfast table with full-moon waffle, mug and jam pot; window showing a hearse-shaped delivery van and exactly three rain clouds.",
+      "production_notes": "Verify masthead spelling exactly and no other newspaper text. Confirm one waffle, one mug, one jam pot and three clouds."
+    },
+    {
+      "page_number": 15,
+      "page_type": "colouring",
+      "title": "Coffin Break",
+      "concept": "A vampire takes a cosy break in a coffin-shaped booth.",
+      "instructions": null,
+      "artwork_description": "A suave vampire lounges in a vertically propped open coffin converted into a diner booth, holding a mug labelled only with a simple bat icon. A plate holds a donut with two fang-shaped bites. A coat rack, umbrella and small wall moon decorate the corner.",
+      "generation_prompt": "Cosy diner corner titled “COFFIN BREAK”: suave vampire relaxing in an open coffin converted into a booth, holding mug with bat icon; plate with one donut bearing exactly two fang-shaped bites; coat rack, umbrella and small wall moon.",
+      "production_notes": "Verify exactly two bites in the donut. Make the coffin booth clearly humorous and non-graphic."
+    },
+    {
+      "page_number": 16,
+      "page_type": "colouring",
+      "title": "Pickle Panic",
+      "concept": "A mummy chef chases runaway monster pickles.",
+      "instructions": null,
+      "artwork_description": "A mummy chef runs after five lively pickle creatures rolling across the diner kitchen floor. Each pickle has simple eyes and tiny arms. A toppled pickle jar, burger bun, ladle and open swinging kitchen door create a clear action path.",
+      "generation_prompt": "Comic kitchen chase titled “PICKLE PANIC”: mummy chef chasing exactly five rolling pickle creatures with simple eyes and tiny arms; toppled pickle jar, burger bun, ladle and open swinging kitchen door; clear uncluttered action path.",
+      "production_notes": "Verify exactly five pickle creatures. Keep their shapes separated so each can be coloured independently."
+    },
+    {
+      "page_number": 17,
+      "page_type": "colouring",
+      "title": "Table for Thirteen",
+      "concept": "Thirteen miniature monsters gather around one huge round table.",
+      "instructions": null,
+      "artwork_description": "A grand circular diner table is surrounded by exactly thirteen tiny, clearly separated monster diners: ghosts, eyeballs, bats, horned creatures and blob monsters. The table centre holds one cake with thirteen candles. A large chandelier and curtain frame the scene without crowding the diners.",
+      "generation_prompt": "Grand diner gathering titled “TABLE FOR THIRTEEN”: exactly thirteen tiny but clearly separated cartoon monster diners around one huge round table; centre cake with exactly thirteen candles; chandelier overhead and simple curtains framing the room.",
+      "production_notes": "Count carefully: exactly 13 diners and exactly 13 candles. Avoid overlap that makes monsters hard to count; use varied silhouettes."
+    },
+    {
+      "page_number": 18,
+      "page_type": "colouring",
+      "title": "Sundae Under the Stars",
+      "concept": "A giant monster family enjoys dessert on the diner roof.",
+      "instructions": null,
+      "artwork_description": "On the flat diner roof, a tall friendly giant, a small cyclops and a floating ghost share a giant sundae bowl. The dessert has three scoops, one umbrella and two wafer sticks. The skyline is simple, with a crescent moon, four stars and the diner’s rooftop sign below.",
+      "generation_prompt": "Rooftop dessert scene titled “SUNDAE UNDER THE STARS”: friendly tall giant, small cyclops and floating ghost sharing giant sundae bowl with exactly three scoops, one umbrella and two wafer sticks; simple skyline, crescent moon, exactly four stars and rooftop diner sign.",
+      "production_notes": "Verify three characters, three scoops, one umbrella, two wafer sticks and four stars. Preserve wide open sky areas."
+    },
+    {
+      "page_number": 19,
+      "page_type": "colouring",
+      "title": "Last Call for Creeps",
+      "concept": "The diner staff prepares to close at dawn.",
+      "instructions": null,
+      "artwork_description": "A sleepy zombie waiter flips a large door sign from an open circle to a closed crescent symbol while a witch sweeps and a vampire stacks three stools. Through the front window, the rising sun peeks behind two hills, but the scene stays playful rather than ominous. A single bat yawns from a ceiling beam.",
+      "generation_prompt": "Diner closing-time scene titled “LAST CALL FOR CREEPS”: sleepy zombie waiter flipping a large door sign from open circle symbol to closed crescent symbol; witch sweeping; vampire stacking exactly three stools; window with rising sun behind two hills; one yawning bat on ceiling beam.",
+      "production_notes": "Use symbols, not extra open/closed wording. Verify exactly three stools, two hills and one bat."
+    },
+    {
+      "page_number": 20,
+      "page_type": "colouring",
+      "title": "Moonlight Takeaway",
+      "concept": "A monster delivery rider makes the final late-night delivery.",
+      "instructions": null,
+      "artwork_description": "A helmeted skeleton rides a retro delivery scooter with a sidecar shaped like a takeaway carton. The carton is packed with a pizza marked by eight large slices and a milkshake. The road curves past a diner sign, three tombstones and a full moon; two bats fly above.",
+      "generation_prompt": "Roadside delivery scene titled “MOONLIGHT TAKEAWAY”: helmeted skeleton riding retro delivery scooter with takeaway-carton sidecar; carton carrying pizza divided into exactly eight large slices and one milkshake; curved road, diner sign, exactly three tombstones, full moon and two bats.",
+      "production_notes": "Verify pizza is visibly divided into eight slices, plus exactly three tombstones and two bats. Keep delivery scooter outline robust and readable."
+    },
+    {
+      "page_number": 21,
+      "page_type": "colouring",
+      "title": "See You at Midnight",
+      "concept": "A final celebratory diner tableau and friendly end page.",
+      "instructions": null,
+      "artwork_description": "The diner façade is seen front-on beneath a huge crescent moon, with the main monster cast waving from windows and doorway: vampire, mummy, witch, cyclops, werewolf and ghost. A large haunted milkshake sits on the roof like a sign topper. Six simple stars, two pumpkins and a blank banner provide a celebratory finale.",
+      "generation_prompt": "Finale colouring page titled “SEE YOU AT MIDNIGHT”: front-on retro diner facade beneath huge crescent moon; vampire, mummy, witch, cyclops, werewolf and ghost waving from windows and doorway; giant haunted milkshake roof topper; exactly six stars, two pumpkins and a blank celebratory banner.",
+      "production_notes": "Verify six named monster characters, six stars and two pumpkins. Keep banner blank for optional personalisation. Include the separate printing-and-colouring guide as an unillustrated supplementary PDF component, not a designed page in this 21-page artwork count; advise single-sided printing, fit-to-page disabled unless needed, and placing a spare sheet behind each page to prevent marker bleed."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 2,
+        "role": "main-style",
+        "reason": "First illustration-led page (colouring): sets the core illustration style."
+      },
+      {
+        "page_number": 3,
+        "role": "different-composition",
+        "reason": "A different page type (colouring) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 21,
+        "role": "consistency-check",
+        "reason": "A later page (colouring, p21) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-10-07T21:51:15.042Z",
+        "finished_at": "2026-10-07T21:51:50.790Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 2,
+            "prompt": "Original bold mid-century horror-cartoon colouring-book ink art for adults: clean white paper, thick varied black contours, rounded expressive shape language and crisp closed colourable forms. Medium-detail retro graphic styling with roomy open areas, selective simple patterning, controlled spot-black shadows and sparse screen-print-like texture marks. Playful, nostalgic and lightly macabre mood; no colour, gradients, hatching, grey wash, fine-line rendering or realistic shading. High-contrast, home-printable monochrome line work.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century horror-cartoon colouring-book line art with a playful retro roadside sensibility.; line weight: Thick to very thick black outlines, with deliberate weight variation for emphasis; never fine line.; line quality: Smooth, confident, rounded ink contours with slightly bouncy hand-drawn energy; crisp closed shapes for easy colouring.; detail level: Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.; character language: Expressive, rounded cartoon anatomy with oversized features, theatrical silhouettes and mischievous adult-comedy expressions; recognisable through bold shape language rather than realism.; background density: Moderately populated scene dressing that frames the main action without filling every gap; preserve generous white areas and clear colour zones.; composition: Clear central focal hierarchy, bold foreground silhouettes and simple layered depth. Use open resting areas around focal forms, with secondary details arranged as readable framing rather than visual clutter.; palette: Pure black ink on clean white paper; artwork must remain entirely colourer-led, with no pre-coloured fills.; colour mode: black-and-white line art; shading: No realistic rendering, gradients or hatching. Use occasional solid black shadow masses, simple spot blacks and sparse graphic texture marks only where they strengthen contrast.; texture: Clean printable ink finish with restrained retro screen-print flavour suggested through sparse graphic marks, never dense noise.; mood: Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults..\n\nPAGE 2 of \"Midnight Monster Diner Colouring Book\" (colouring): Diner interior scene titled “GRAVEYARD SHIFT”: bow-tied vampire waiter carrying a tray with exactly six stacked pancakes, skull-shaped butter pat and coffee pot toward a sleepy mummy in a booth; moonlit window with three bats; ketchup, salt shaker and napkin on table.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Single-sided portrait colouring pages with generous colourable spaces, robust contours and practical breathing room for A4 and US Letter home printing. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands; Fine-line, fragile, faint or sketchy outlines; Photorealism, realistic anatomy, cinematic rendering or realistic shading; Dense hatching, gradients, grey washes or pre-coloured artwork; Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points; Excessive solid-black coverage that wastes home-printer ink; Childish babyish styling; retain witty adult humour; Misspelled, distorted or illegible text.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T21:51:25.481Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 3,
+            "prompt": "Original bold mid-century horror-cartoon colouring-book ink art for adults: clean white paper, thick varied black contours, rounded expressive shape language and crisp closed colourable forms. Medium-detail retro graphic styling with roomy open areas, selective simple patterning, controlled spot-black shadows and sparse screen-print-like texture marks. Playful, nostalgic and lightly macabre mood; no colour, gradients, hatching, grey wash, fine-line rendering or realistic shading. High-contrast, home-printable monochrome line work.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century horror-cartoon colouring-book line art with a playful retro roadside sensibility.; line weight: Thick to very thick black outlines, with deliberate weight variation for emphasis; never fine line.; line quality: Smooth, confident, rounded ink contours with slightly bouncy hand-drawn energy; crisp closed shapes for easy colouring.; detail level: Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.; character language: Expressive, rounded cartoon anatomy with oversized features, theatrical silhouettes and mischievous adult-comedy expressions; recognisable through bold shape language rather than realism.; background density: Moderately populated scene dressing that frames the main action without filling every gap; preserve generous white areas and clear colour zones.; composition: Clear central focal hierarchy, bold foreground silhouettes and simple layered depth. Use open resting areas around focal forms, with secondary details arranged as readable framing rather than visual clutter.; palette: Pure black ink on clean white paper; artwork must remain entirely colourer-led, with no pre-coloured fills.; colour mode: black-and-white line art; shading: No realistic rendering, gradients or hatching. Use occasional solid black shadow masses, simple spot blacks and sparse graphic texture marks only where they strengthen contrast.; texture: Clean printable ink finish with restrained retro screen-print flavour suggested through sparse graphic marks, never dense noise.; mood: Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults..\n\nPAGE 3 of \"Midnight Monster Diner Colouring Book\" (colouring): Diner dance corner titled “JUKEBOX JITTERS”: anthropomorphic retro jukebox with eyes, arms and speaker-grille teeth playing music; three dancing monsters, a square-headed stitched monster, a floating ghost and a small horned demon; large checkerboard floor, two wall records and lightning-bolt decoration.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Single-sided portrait colouring pages with generous colourable spaces, robust contours and practical breathing room for A4 and US Letter home printing. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands; Fine-line, fragile, faint or sketchy outlines; Photorealism, realistic anatomy, cinematic rendering or realistic shading; Dense hatching, gradients, grey washes or pre-coloured artwork; Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points; Excessive solid-black coverage that wastes home-printer ink; Childish babyish styling; retain witty adult humour; Misspelled, distorted or illegible text.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T21:51:37.567Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 21,
+            "prompt": "Original bold mid-century horror-cartoon colouring-book ink art for adults: clean white paper, thick varied black contours, rounded expressive shape language and crisp closed colourable forms. Medium-detail retro graphic styling with roomy open areas, selective simple patterning, controlled spot-black shadows and sparse screen-print-like texture marks. Playful, nostalgic and lightly macabre mood; no colour, gradients, hatching, grey wash, fine-line rendering or realistic shading. High-contrast, home-printable monochrome line work.\n\nSTYLE PARAMETERS: illustration style: Bold mid-century horror-cartoon colouring-book line art with a playful retro roadside sensibility.; line weight: Thick to very thick black outlines, with deliberate weight variation for emphasis; never fine line.; line quality: Smooth, confident, rounded ink contours with slightly bouncy hand-drawn energy; crisp closed shapes for easy colouring.; detail level: Medium detail: large, satisfying colourable shapes supported by selective decorative accents, simple patterns and readable background props; avoid dense micro-detail.; character language: Expressive, rounded cartoon anatomy with oversized features, theatrical silhouettes and mischievous adult-comedy expressions; recognisable through bold shape language rather than realism.; background density: Moderately populated scene dressing that frames the main action without filling every gap; preserve generous white areas and clear colour zones.; composition: Clear central focal hierarchy, bold foreground silhouettes and simple layered depth. Use open resting areas around focal forms, with secondary details arranged as readable framing rather than visual clutter.; palette: Pure black ink on clean white paper; artwork must remain entirely colourer-led, with no pre-coloured fills.; colour mode: black-and-white line art; shading: No realistic rendering, gradients or hatching. Use occasional solid black shadow masses, simple spot blacks and sparse graphic texture marks only where they strengthen contrast.; texture: Clean printable ink finish with restrained retro screen-print flavour suggested through sparse graphic marks, never dense noise.; mood: Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults..\n\nPAGE 21 of \"Midnight Monster Diner Colouring Book\" (colouring): Finale colouring page titled “SEE YOU AT MIDNIGHT”: front-on retro diner facade beneath huge crescent moon; vampire, mummy, witch, cyclops, werewolf and ghost waving from windows and doorway; giant haunted milkshake roof topper; exactly six stars, two pumpkins and a blank celebratory banner.\n\nCANVAS: A single portrait design with a plain white background. Keep a clear margin on every side; nothing important touches the edges, so it prints cleanly on a home printer. It is a colouring page: clean closed outlines on white, no grey fills or shading, easy to colour. Single-sided portrait colouring pages with generous colourable spaces, robust contours and practical breathing room for A4 and US Letter home printing. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any copied or recognisable characters, logos, typography, compositions or trade dress from existing horror, cartoon or diner brands; Fine-line, fragile, faint or sketchy outlines; Photorealism, realistic anatomy, cinematic rendering or realistic shading; Dense hatching, gradients, grey washes or pre-coloured artwork; Overcrowded pages, tiny colour cells, tangled overlaps or unreadable focal points; Excessive solid-black coverage that wastes home-printer ink; Childish babyish styling; retain witty adult humour; Misspelled, distorted or illegible text.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-10-07T21:51:50.655Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "1dfa7d91f874",
+    "keyboard_message_ids": [
+      771,
+      777,
+      785,
+      788,
+      796,
+      799,
+      808,
+      814,
+      830,
+      834,
+      835
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2795,
+        "input_tokens_details": {
+          "cache_write_tokens": 2792,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1888,
+        "output_tokens_details": {
+          "reasoning_tokens": 593
+        },
+        "total_tokens": 4683
+      },
+      "at": "2026-10-07T21:47:13.507Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 414,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 414
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 572
+      },
+      "at": "2026-10-07T21:47:36.461Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 414,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 414
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 572
+      },
+      "at": "2026-10-07T21:47:47.604Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 421,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 421
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 579
+      },
+      "at": "2026-10-07T21:49:18.675Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2816,
+        "input_tokens_details": {
+          "cache_write_tokens": 2813,
+          "cached_tokens": 0
+        },
+        "output_tokens": 608,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3424
+      },
+      "at": "2026-10-07T21:50:11.542Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2494,
+        "input_tokens_details": {
+          "cache_write_tokens": 2491,
+          "cached_tokens": 0
+        },
+        "output_tokens": 4214,
+        "output_tokens_details": {
+          "reasoning_tokens": 102
+        },
+        "total_tokens": 6708
+      },
+      "at": "2026-10-07T21:50:22.614Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 707,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 707
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1050
+      },
+      "at": "2026-10-07T21:51:15.055Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 713,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 713
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1056
+      },
+      "at": "2026-10-07T21:51:25.696Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 711,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 711
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1054
+      },
+      "at": "2026-10-07T21:51:37.714Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 949,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 949
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1292
+      },
+      "at": "2026-10-07T21:52:54.266Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 884,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 884
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1227
+      },
+      "at": "2026-10-07T21:53:06.070Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 881,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 881
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1224
+      },
+      "at": "2026-10-07T21:53:17.383Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 891,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 891
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      "at": "2026-10-07T21:53:29.836Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 873,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 873
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1216
+      },
+      "at": "2026-10-07T21:53:41.101Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 893,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 893
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1236
+      },
+      "at": "2026-10-07T21:53:53.251Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 878,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 878
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1221
+      },
+      "at": "2026-10-07T21:54:04.745Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 870,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 870
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1213
+      },
+      "at": "2026-10-07T21:54:15.590Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 887,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 887
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1230
+      },
+      "at": "2026-10-07T21:54:27.737Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 900,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 900
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1243
+      },
+      "at": "2026-10-07T21:54:39.062Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 882,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 882
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1225
+      },
+      "at": "2026-10-07T21:54:51.666Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 881,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 881
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1224
+      },
+      "at": "2026-10-07T21:55:04.090Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 865,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 865
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1208
+      },
+      "at": "2026-10-07T21:55:15.641Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 858,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 858
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1201
+      },
+      "at": "2026-10-07T21:55:26.670Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 869,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 869
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1212
+      },
+      "at": "2026-10-07T21:55:40.886Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 888,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 888
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1231
+      },
+      "at": "2026-10-07T21:55:53.839Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 888,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 888
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1231
+      },
+      "at": "2026-10-07T21:56:08.077Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 886,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 886
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1229
+      },
+      "at": "2026-10-07T21:56:20.681Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 949,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 949
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1292
+      },
+      "at": "2026-10-07T21:58:24.991Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 949,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 949
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1292
+      },
+      "at": "2026-10-07T22:10:54.195Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "book-page",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 884,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 884
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 1227
+      },
+      "at": "2026-10-07T22:12:04.671Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 189,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 189
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 628
+      },
+      "at": "2026-10-07T22:14:51.034Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 7195,
+        "input_tokens_details": {
+          "cache_write_tokens": 7192,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1022,
+        "output_tokens_details": {
+          "reasoning_tokens": 341
+        },
+        "total_tokens": 8217
+      },
+      "at": "2026-10-07T22:15:03.047Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 548,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 548
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 987
+      },
+      "at": "2026-10-07T22:15:18.369Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 7326,
+        "input_tokens_details": {
+          "cache_write_tokens": 7323,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1055,
+        "output_tokens_details": {
+          "reasoning_tokens": 394
+        },
+        "total_tokens": 8381
+      },
+      "at": "2026-10-07T22:15:32.272Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 621,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 621
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 1060
+      },
+      "at": "2026-10-07T22:15:47.149Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 5683,
+        "input_tokens_details": {
+          "cache_write_tokens": 5680,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1509,
+        "output_tokens_details": {
+          "reasoning_tokens": 516
+        },
+        "total_tokens": 7192
+      },
+      "at": "2026-10-07T22:17:24.599Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-copy",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2854,
+        "input_tokens_details": {
+          "cache_write_tokens": 2851,
+          "cached_tokens": 0
+        },
+        "output_tokens": 188,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3042
+      },
+      "at": "2026-10-07T22:17:43.971Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 252,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 252
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 691
+      },
+      "at": "2026-10-07T22:17:48.882Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-example",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 1685,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 149
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 2028
+      },
+      "at": "2026-10-07T22:17:58.867Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-10-07T21:52:40.302Z",
+  "created_at": "2026-10-07T21:47:07.827Z",
+  "updated_at": "2026-10-07T22:21:30.488Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "white",
+    "edge": "safe-margin",
+    "format_notes": "Single-sided portrait colouring pages with generous colourable spaces, robust contours and practical breathing room for A4 and US Letter home printing."
+  },
+  "book": {
+    "version": 1,
+    "manifest": {
+      "file": "book/manifest.json",
+      "sha256": "06fc22e33ecd144186a6fd07acc67f6e8da1c12e1f069e37115892c87b2c044d",
+      "created_at": "2026-10-07T21:52:54.225Z"
+    },
+    "size": "1024x1536",
+    "model": "gpt-image-2.5-flare",
+    "quality": "medium",
+    "pages": [
+      {
+        "page_id": "P001",
+        "page_number": 1,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P001.png",
+        "sha256": "e0afd9fba77fcd2eb93e54647d8d3b58b3e7e8859cddd07ca4fc67631ea77721",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T22:11:06.682Z",
+        "revision": 2,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P002",
+        "page_number": 2,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "file": "book/pages/P002.png",
+        "sha256": "20e2c32a3ffa0493748360c21091e34daf166fa2bfa4d54d80b493d7bce79d45",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:51:25.481Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P003",
+        "page_number": 3,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "file": "book/pages/P003.png",
+        "sha256": "02f70c16dbfdbeee2c877c2ecec83243de294072e2ba85489f280c27d32cd963",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:51:37.567Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P004",
+        "page_number": 4,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P004.png",
+        "sha256": "e1ff3cc429bb984c7cfe32fb4eb3781334500a7b5616d7c75e24346100f2d00d",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T22:12:17.176Z",
+        "revision": 1,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P005",
+        "page_number": 5,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P005.png",
+        "sha256": "28ef7d9762837c38da58b77bfda335fb187d007897f5a2cac0ebbca0846c11f8",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:53:29.691Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P006",
+        "page_number": 6,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P006.png",
+        "sha256": "bf438e2cef75e0f5069705f21f67968d2048e091cd76710886ac7ec55d69de84",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:53:40.907Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P007",
+        "page_number": 7,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P007.png",
+        "sha256": "4b78d4adf029cb7d53b64d7f1edb5228e0bd559ef41dafaabfcdf2d4a9be25ca",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:53:53.084Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P008",
+        "page_number": 8,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P008.png",
+        "sha256": "73ad8bb255977b87df05796c5adbcbb899db7ef4e75c7a2f24463f749eca4133",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:54:04.594Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P009",
+        "page_number": 9,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P009.png",
+        "sha256": "63a630f8236da4d147b02ff1c99fcef4301fbf428f30d27dd076b42d9d4195f2",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:54:15.382Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P010",
+        "page_number": 10,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P010.png",
+        "sha256": "4424b0519801fe6d35ac587dcaff43936df5017ed467e1506dfec04fa8695092",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:54:27.607Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P011",
+        "page_number": 11,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P011.png",
+        "sha256": "a9572d0a145fc7a460c475202b5f0d2ca80230e755310cd6b38cbbef0fa0d7d5",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:54:38.919Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P012",
+        "page_number": 12,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P012.png",
+        "sha256": "5d187d9765ebe96eec48728c0c586ff13858611d78a04d960576b5d75a188059",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:54:51.415Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P013",
+        "page_number": 13,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P013.png",
+        "sha256": "ab056a6461e3095162ac31a9fe5f34a99760643b42e770926db891d6d923ba1d",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:55:03.939Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P014",
+        "page_number": 14,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P014.png",
+        "sha256": "24f5cb5e145a7bd505df7fd11ac524959f4496ff45c0b9a2cf9eb21b94323789",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:55:15.349Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P015",
+        "page_number": 15,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P015.png",
+        "sha256": "0c3dc43d89415565e4461285c57564738f11ea0fcfcecb680371538d8712ab5c",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:55:26.501Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P016",
+        "page_number": 16,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P016.png",
+        "sha256": "a41977fc55cab82555f840249a1c84e8e25a445b9459658a1b9e81d83e09bc47",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:55:40.646Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P017",
+        "page_number": 17,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P017.png",
+        "sha256": "b7d56c00d450fb65cd951cc72f7a19466318a68e6adf1c8c5d58c11fc4592a03",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:55:53.690Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P018",
+        "page_number": 18,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P018.png",
+        "sha256": "c38b86a77b7392dd3aa22e2a3bd972dfd4c50be42877a4309907acc0ab9c5eb6",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:56:07.901Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P019",
+        "page_number": 19,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P019.png",
+        "sha256": "5d2e4a0fcad01c33ff21dd22fca1fe58d3b53726ad2d161afc1beed7423362db",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:56:20.410Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P020",
+        "page_number": 20,
+        "status": "generated",
+        "source": "generated",
+        "proof_file": null,
+        "file": "book/pages/P020.png",
+        "sha256": "a427fba1949a7d20e12e6aa23594c482955481ecd52c8438e3b2825a8c6a7f91",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:56:32.312Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      },
+      {
+        "page_id": "P021",
+        "page_number": 21,
+        "status": "reused",
+        "source": "style-proof",
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "file": "book/pages/P021.png",
+        "sha256": "940e9fc1a3a2fb27491e4ae5c7b8a5bac8b01f4e50a1e9a6e845a2e5c4b75b96",
+        "width": 1024,
+        "height": 1536,
+        "size": "1024x1536",
+        "model": "gpt-image-2.5-flare",
+        "generated_at": "2026-10-07T21:51:50.655Z",
+        "revision": 0,
+        "instruction": null,
+        "error": null
+      }
+    ],
+    "generation": {
+      "status": "complete",
+      "started_at": "2026-10-07T22:12:04.645Z",
+      "finished_at": "2026-10-07T22:12:24.464Z",
+      "error": null
+    },
+    "qc": {
+      "passed": true,
+      "report": "book/qc.json",
+      "sha256": "ef3bbe6e9ac988a19a32250c67979d8e1c5aaa86a407f6270ec9ac0c6e19d30f",
+      "fingerprint": "889124598c938442119923133dca7ff496d6fd50420f8c85cff7a936c904a6a2",
+      "at": "2026-10-07T22:12:24.464Z",
+      "warnings": 2,
+      "failed_pages": []
+    },
+    "pending_op": null,
+    "pending_page": null,
+    "direction_notes": [],
+    "reuse": [
+      {
+        "page_number": 2,
+        "proof_file": "proofs/attempt-01/proof-01.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 3,
+        "proof_file": "proofs/attempt-01/proof-02.png",
+        "reused": true,
+        "reason": null
+      },
+      {
+        "page_number": 21,
+        "proof_file": "proofs/attempt-01/proof-03.png",
+        "reused": true,
+        "reason": null
+      }
+    ],
+    "approval": {
+      "approved_at": "2026-10-07T22:13:02.888Z",
+      "by": "@romg_o",
+      "manifest_sha256": "06fc22e33ecd144186a6fd07acc67f6e8da1c12e1f069e37115892c87b2c044d",
+      "pages_sha256": "889124598c938442119923133dca7ff496d6fd50420f8c85cff7a936c904a6a2",
+      "qc_sha256": "ef3bbe6e9ac988a19a32250c67979d8e1c5aaa86a407f6270ec9ac0c6e19d30f"
+    }
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "fc79392b4190b582a054efe8bb64f5d6f14b6c721aa13d040134b9e22c11dd94"
+    },
+    "adapter": {
+      "format": "colouring-book",
+      "version": 1
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "a9f81ef8f84b5a2bdcfb5981f5dde0839b9d3220484f51b2a57d950ac204dd2b",
+      "built_at": "2026-10-07T22:14:22.659Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-10-07T22:14:22.679Z"
+    },
+    "approved_at": "2026-10-07T22:14:43.901Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "8766eac148ff0b4eecf77e190e2f599f86ad31e5299b5d850e6cde295bfdf815"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "f797ca9365d438e85e143edde3ed386be737bace029a3e397c0b5851bab49839"
+    },
+    "images": {
+      "count": 10,
+      "dir": "marketing/images",
+      "digest": "c6de7aa3e901b2f1577853dc7d93675a7fed1086f8495053b32c62f4bce98fff"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-10-07T22:18:29.974Z"
+    },
+    "pending_scope": null,
+    "approved_at": "2026-10-07T22:19:08.252Z",
+    "comparison": {
+      "at": "2026-10-07T22:16:00.098Z",
+      "engines": {
+        "factory": {
+          "image": {
+            "file": "marketing/comparison/factory/01-hero.png",
+            "sha256": "d05f6a201fe3117d104ed6e2b047151f3d5f59253bad15fee88e5aa4f5cfbca3"
+          },
+          "scene": {
+            "file": "marketing/engines/factory/scenes/01-hero.png",
+            "sha256": "88788fc1d3b4e5feb286b6ebe7047190dcb1710f506f5d4ef9eae822bcb82ed7",
+            "prompt": "Environment-only background photograph for a premium Etsy product listing image (square).\nClean catalogue flat lay photographed from directly above: a plain, pale stone surface, even soft studio light with very light shadows, one coloured pencil lying at one edge and nothing else. Keep the right-hand two thirds of the surface clear, even and softly lit, reserved for products added later.\nCampaign mood: moody atmospheric Halloween.\nMood: Cheeky, nostalgic, mischievous and lightly macabre; humorous spooky escapism for adults.\nPhotographic and realistic: soft warm light, shallow depth of field, premium and inviting. Environment only.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals."
+          },
+          "route": {
+            "composition_family": "catalogue-flat-lay",
+            "camera_angle": "top-down",
+            "page_arrangement": "organised-catalogue",
+            "environment": "plain-neutral-surface",
+            "lighting": "even-soft-daylight",
+            "prop_strategy": "minimal",
+            "visual_story": "none",
+            "product_focus": "product-dominant",
+            "colour_strategy": "neutral-ground",
+            "transformation_demo": "none",
+            "route": "factory"
+          },
+          "brief": "Clean catalogue flat lay photographed from directly above: a plain, pale stone surface, even soft studio light with very light shadows, one coloured pencil lying at one edge and nothing else. Keep the right-hand two thirds of the surface clear, even and softly lit, reserved for products added later."
+        },
+        "hybrid": {
+          "image": {
+            "file": "marketing/comparison/hybrid/01-hero.png",
+            "sha256": "05b836e8d4b4a3b12dcc506585974622264a231bb92a3a771b1c02a7b71bc68b"
+          },
+          "scene": {
+            "file": "marketing/engines/hybrid/scenes/01-hero.png",
+            "sha256": "fb5ae302273d5efe1f78116ca6987bf23260cfda95a8c3855df29753dcf9d2aa",
+            "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Cheeky moonlit nostalgia with a cosy, lightly macabre late-night diner spirit..\nPalette: Inky black, warm ivory, pumpkin rust, mustard gold, cherry red and muted jade, with rich walnut warmth..\nRoute: hybrid (styled-lifestyle).\nCamera: An overhead three-quarter view of the surface with gentle natural depth.\nEnvironment: A styled home surface with a few halloween touches: warm natural materials, tidy and inviting, a real moment of use.\nLighting: Warm directional window or lamp light with soft shadows.\nProps: A few tasteful lifestyle props at the edges (at most four); the centre stays clear.\nScene: Warm walnut tabletop in a quiet evening corner, with folded rust-toned linen at one edge and a small jar of coloured pencils nearby. A warm lamp casts directional soft shadows with gentle depth; keep the central surface tidy, evenly lit and open. Add only subtle autumnal warmth through the materials and mood.\nProps (plain materials only): wooden desk, linen cloth, coloured pencils, warm lamp.\nVisual world: palette Inky black, warm ivory, pumpkin rust, mustard gold, cherry red and muted jade against walnut brown.; materials walnut wood, linen, ceramic, coloured pencil wood, knit; lighting Warm amber side light, soft natural shadow and gentle evening depth.; Premium overhead lifestyle still life with tactile seasonal detail and an editorial Halloween warmth..\nFeeling: A playful late-night escape where bold monster diners invite a quiet, imaginative colouring moment.\nReserved area: the right two thirds of the lower frame, one large empty stretch of bare surface with a smaller empty stretch at its lower corner. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: An overhead three-quarter view of the surface with gentle natural depth. Keep the reserved area clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, warm natural light, restrained premium lifestyle styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product."
+          },
+          "direction": {
+            "id": "01-hero",
+            "job": "stop-scroll",
+            "purpose": "Stop the scroll by showing a real diner colouring page beside its labelled coloured example in a warm, inviting Halloween creative moment.",
+            "buyer_message": "I receive bold spooky diner line art that I can bring to life in colour.",
+            "emotional_goal": "Cosy anticipation for a playful creative escape.",
+            "headline": "Colour After Midnight",
+            "supporting_copy": "20 pages to print and colour",
+            "composition": "cb-lifestyle-hero",
+            "focal_asset": "page-2",
+            "supporting_assets": [
+              "page-21"
+            ],
+            "hierarchy": {
+              "primary": "Page-2 line art beside its clearly labelled coloured example, both large and easy to read.",
+              "secondary": "Page-21 angled behind as a second real colouring-page glimpse, plus the refined headline.",
+              "tertiary": "Cover tucked subtly into the arrangement, short supporting line and quiet seasonal props."
+            },
+            "background": "environment",
+            "props": [
+              "wooden desk",
+              "linen cloth",
+              "coloured pencils",
+              "warm lamp"
+            ],
+            "crop": {
+              "asset": "page-2",
+              "focus": [
+                0.5,
+                0.56
+              ],
+              "zoom": 1.12
+            },
+            "text_zone": "top-left",
+            "scene_brief": "Warm walnut tabletop in a quiet evening corner, with folded rust-toned linen at one edge and a small jar of coloured pencils nearby. A warm lamp casts directional soft shadows with gentle depth; keep the central surface tidy, evenly lit and open. Add only subtle autumnal warmth through the materials and mood.",
+            "claims_used": [
+              "product-title",
+              "page-count",
+              "example"
+            ],
+            "avoid": [
+              "a fake page in the scene",
+              "text in the scene",
+              "unlabelled coloured example",
+              "pages that are too small to read",
+              "text across focal illustration details",
+              "fake lettering in the environment",
+              "overcrowded props",
+              "cold corporate styling"
+            ],
+            "allowed_props": [
+              "coloured pencils",
+              "fine-liner pens",
+              "mug of tea",
+              "knitted throw",
+              "wooden desk",
+              "warm lamp",
+              "window light",
+              "candle",
+              "linen cloth",
+              "plant sprig",
+              "scattered leaves",
+              "string lights"
+            ],
+            "allowed_compositions": [
+              "cb-lifestyle-hero"
+            ],
+            "support": "Twenty colouring pages for moonlit creative time.",
+            "source": "model",
+            "fallbacks": [],
+            "route": {
+              "composition_family": "styled-lifestyle",
+              "camera_angle": "three-quarter-overhead",
+              "page_arrangement": "line-art-beside-coloured-example",
+              "environment": "styled-home-surface",
+              "lighting": "warm-directional",
+              "prop_strategy": "tasteful-lifestyle",
+              "visual_story": "customer-use-moment",
+              "product_focus": "product-clear-in-context",
+              "colour_strategy": "campaign-palette",
+              "transformation_demo": "line_art_plus_coloured_example",
+              "route": "hybrid"
+            }
+          },
+          "campaign": {
+            "mood": "Cheeky moonlit nostalgia with a cosy, lightly macabre late-night diner spirit.",
+            "palette": "Inky black, warm ivory, pumpkin rust, mustard gold, cherry red and muted jade, with rich walnut warmth.",
+            "lighting": "Warm directional window light with soft amber shadows, balanced by a subtle dusk-like mood.",
+            "concept": {
+              "campaign_concept": "Moonlit Diner Colouring Ritual",
+              "emotional_hook": "A playful late-night escape where bold monster diners invite a quiet, imaginative colouring moment.",
+              "buyer_feeling": [
+                "cosy",
+                "playful",
+                "creatively inspired",
+                "nostalgic",
+                "relaxed"
+              ],
+              "visual_world": {
+                "palette": "Inky black, warm ivory, pumpkin rust, mustard gold, cherry red and muted jade against walnut brown.",
+                "materials": [
+                  "walnut wood",
+                  "linen",
+                  "ceramic",
+                  "coloured pencil wood",
+                  "knit"
+                ],
+                "lighting": "Warm amber side light, soft natural shadow and gentle evening depth.",
+                "photography_style": "Premium overhead lifestyle still life with tactile seasonal detail and an editorial Halloween warmth."
+              },
+              "hero_subject": "A vampire waiter serving pancakes in the diner, shown as line art beside a coloured example.",
+              "strongest_pages": [
+                "page-2",
+                "page-4",
+                "page-12",
+                "page-16",
+                "page-21"
+              ],
+              "transformation_story": "The crisp diner line art sits beside the same illustration brought to life with an inky, warm Halloween palette.",
+              "marketing_priority": "Lead with the playful colouring experience and the transformation from line art to colour.",
+              "avoid": [
+                "sterile flat-lay styling",
+                "unlabelled coloured examples",
+                "tiny artwork",
+                "generic office props",
+                "cluttered collages",
+                "text over illustration details"
+              ],
+              "source": "model",
+              "fallbacks": []
+            }
+          },
+          "route": {
+            "composition_family": "styled-lifestyle",
+            "camera_angle": "three-quarter-overhead",
+            "page_arrangement": "line-art-beside-coloured-example",
+            "environment": "styled-home-surface",
+            "lighting": "warm-directional",
+            "prop_strategy": "tasteful-lifestyle",
+            "visual_story": "customer-use-moment",
+            "product_focus": "product-clear-in-context",
+            "colour_strategy": "campaign-palette",
+            "transformation_demo": "line_art_plus_coloured_example",
+            "route": "hybrid"
+          },
+          "brief": "Warm walnut tabletop in a quiet evening corner, with folded rust-toned linen at one edge and a small jar of coloured pencils nearby. A warm lamp casts directional soft shadows with gentle depth; keep the central surface tidy, evenly lit and open. Add only subtle autumnal warmth through the materials and mood."
+        },
+        "ai-creative": {
+          "image": {
+            "file": "marketing/comparison/ai-creative/01-hero.png",
+            "sha256": "2d2171b17621fcbd35b1499f5a49995f4b124552c922e74635b2a7a9c0ca6091"
+          },
+          "scene": {
+            "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+            "sha256": "acb1a41afa02fb69f1f209d377f8d34a793ccf193262705e466484e6cc66addc",
+            "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed lifestyle advertising.\nCampaign mood: Moody, mischievous retro Halloween glamour with a midnight roadside-diner wink..\nPalette: Ink black, moonlit ivory, deep aubergine, burnt pumpkin, cherry red and muted chartreuse accents..\nRoute: ai-creative (editorial-cinematic).\nCamera: A low, near eye-level camera across the surface with strong foreground-to-background depth (a soft-focus foreground object, a sharp middle, a deep background).\nEnvironment: An editorial still-life set with a few halloween touches that tells the campaign story: a deep-toned backdrop (painted plaster wall or heavy fabric drape), one sculptural object, not a home desk.\nLighting: Dramatic low-key light: a single directional pool of light on the surface, long soft shadows, rich contrast.\nProps: One or two story objects, staged deliberately; no mug, no knitted throw, no string lights.\nScene: Low eye-level editorial still life with strong foreground-to-background depth: deep aubergine painted plaster backdrop, a heavy black fabric drape at one side, and a matte charcoal surface under one dramatic amber pool of light. A sculptural candleholder sits softly out of focus in the foreground; long soft shadows and a calm uncluttered upper area create theatrical midnight atmosphere.\nProps (plain materials only): candle, linen cloth.\nVisual world: palette Ink black, moonlit ivory, aubergine, burnt pumpkin, cherry red and muted chartreuse.; materials painted plaster, heavy fabric, matte ceramic, linen, wax; lighting Single directional amber pool of light, long soft shadows and richly dark edges.; Cinematic editorial still life with retro Halloween drama, tactile depth and restrained styling..\nFeeling: A playful moonlit diner scene invites a slow, satisfying escape into spooky retro colour.\nReserved area: the right two thirds of the lower frame, one large empty, softly lit stretch of surface in the sharp middle ground. This is a hint only; keep it as an empty, softly lit surface.\nThe real printable artwork and the text are added later by code: the scene must not contain any page, sheet, paper, card, book, screen or text of its own.\nComposition: A low, near eye-level camera across the surface with strong foreground-to-background depth (a soft-focus foreground object, a sharp middle, a deep background). Keep the reserved area clear, even and softly lit, where objects will be placed later. Keep the top left area calm and darker for text added later.\nPhotographic and realistic: editorial, cinematic campaign photography with rich contrast and deliberate staging, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product."
+          },
+          "direction": {
+            "id": "01-hero",
+            "job": "stop-scroll",
+            "purpose": "Stop the scroll with a cinematic, large-scale reveal of a real monster-diner colouring page.",
+            "buyer_message": "A moonlit monster diner scene awaits colour.",
+            "emotional_goal": "Intrigue and an immediate urge to start colouring.",
+            "headline": "Colour After Midnight",
+            "supporting_copy": "20 pages to print and colour",
+            "composition": "cb-editorial-hero",
+            "focal_asset": "page-2",
+            "supporting_assets": [],
+            "hierarchy": {
+              "primary": "Page-2, large and sharp in the middle ground, with the vampire waiter and diner scene clearly readable.",
+              "secondary": "The elegant headline and the dramatic directional pool of light.",
+              "tertiary": "A restrained support line and two quiet Halloween staging details."
+            },
+            "background": "environment",
+            "props": [
+              "candle",
+              "linen cloth"
+            ],
+            "crop": {
+              "asset": "page-2",
+              "focus": [
+                0.5,
+                0.54
+              ],
+              "zoom": 1.15
+            },
+            "text_zone": "top-left",
+            "scene_brief": "Low eye-level editorial still life with strong foreground-to-background depth: deep aubergine painted plaster backdrop, a heavy black fabric drape at one side, and a matte charcoal surface under one dramatic amber pool of light. A sculptural candleholder sits softly out of focus in the foreground; long soft shadows and a calm uncluttered upper area create theatrical midnight atmosphere.",
+            "claims_used": [
+              "product-title",
+              "page-count"
+            ],
+            "avoid": [
+              "a fake page in the scene",
+              "text in the scene",
+              "the default cosy desk (wooden desk, knitted throw, mug, string lights)",
+              "fake artwork in the environment",
+              "text or logos in the environment",
+              "a bright or sterile setting",
+              "a cosy desk arrangement",
+              "clutter around the focal illustration",
+              "text over the vampire or mummy"
+            ],
+            "allowed_props": [
+              "coloured pencils",
+              "fine-liner pens",
+              "mug of tea",
+              "knitted throw",
+              "wooden desk",
+              "warm lamp",
+              "window light",
+              "candle",
+              "linen cloth",
+              "plant sprig",
+              "scattered leaves",
+              "string lights"
+            ],
+            "allowed_compositions": [
+              "cb-editorial-hero"
+            ],
+            "support": "20 colouring pages of midnight diner mischief.",
+            "source": "model",
+            "fallbacks": [],
+            "route": {
+              "composition_family": "editorial-cinematic",
+              "camera_angle": "low-eye-level-depth",
+              "page_arrangement": "single-page-reveal",
+              "environment": "narrative-editorial-set",
+              "lighting": "dramatic-low-key",
+              "prop_strategy": "story-staging",
+              "visual_story": "campaign-narrative",
+              "product_focus": "hero-reveal-with-depth",
+              "colour_strategy": "bold-mood-contrast",
+              "transformation_demo": "none",
+              "route": "ai-creative"
+            }
+          },
+          "campaign": {
+            "mood": "Moody, mischievous retro Halloween glamour with a midnight roadside-diner wink.",
+            "palette": "Ink black, moonlit ivory, deep aubergine, burnt pumpkin, cherry red and muted chartreuse accents.",
+            "lighting": "Cinematic low-key amber light with deep shadows, moonlit contrast and a single theatrical pool of illumination.",
+            "concept": {
+              "campaign_concept": "Colour After Midnight",
+              "emotional_hook": "A playful moonlit diner scene invites a slow, satisfying escape into spooky retro colour.",
+              "buyer_feeling": [
+                "intrigued",
+                "cosy",
+                "playfully spooky",
+                "creative",
+                "nostalgic"
+              ],
+              "visual_world": {
+                "palette": "Ink black, moonlit ivory, aubergine, burnt pumpkin, cherry red and muted chartreuse.",
+                "materials": [
+                  "painted plaster",
+                  "heavy fabric",
+                  "matte ceramic",
+                  "linen",
+                  "wax"
+                ],
+                "lighting": "Single directional amber pool of light, long soft shadows and richly dark edges.",
+                "photography_style": "Cinematic editorial still life with retro Halloween drama, tactile depth and restrained styling."
+              },
+              "hero_subject": "The Graveyard Shift diner scene, with a vampire waiter, mummy customer and moonlit window.",
+              "strongest_pages": [
+                "page-2",
+                "page-4",
+                "page-7",
+                "page-12",
+                "page-16",
+                "page-21"
+              ],
+              "transformation_story": "Bold black-and-white diner line art becomes a personal midnight scene when its large cartoon shapes are brought to life with colour.",
+              "marketing_priority": "The cheeky Halloween colouring experience and memorable monster-diner illustrations.",
+              "avoid": [
+                "generic printable presentation",
+                "bright sterile backdrops",
+                "cluttered collages",
+                "tiny artwork",
+                "fake coloured results",
+                "corporate brochure styling"
+              ],
+              "source": "model",
+              "fallbacks": []
+            }
+          },
+          "route": {
+            "composition_family": "editorial-cinematic",
+            "camera_angle": "low-eye-level-depth",
+            "page_arrangement": "single-page-reveal",
+            "environment": "narrative-editorial-set",
+            "lighting": "dramatic-low-key",
+            "prop_strategy": "story-staging",
+            "visual_story": "campaign-narrative",
+            "product_focus": "hero-reveal-with-depth",
+            "colour_strategy": "bold-mood-contrast",
+            "transformation_demo": "none",
+            "route": "ai-creative"
+          },
+          "brief": "Low eye-level editorial still life with strong foreground-to-background depth: deep aubergine painted plaster backdrop, a heavy black fabric drape at one side, and a matte charcoal surface under one dramatic amber pool of light. A sculptural candleholder sits softly out of focus in the foreground; long soft shadows and a calm uncluttered upper area create theatrical midnight atmosphere."
+        }
+      }
+    },
+    "engine": "factory",
+    "engine_chosen": {
+      "by": "@romg_o",
+      "at": "2026-10-07T22:17:24.583Z",
+      "approved_hero": {
+        "source": "hero-comparison",
+        "engine": "factory",
+        "comparison_at": "2026-10-07T22:16:00.098Z",
+        "image": {
+          "file": "marketing/comparison/factory/01-hero.png",
+          "sha256": "d05f6a201fe3117d104ed6e2b047151f3d5f59253bad15fee88e5aa4f5cfbca3"
+        },
+        "scene": {
+          "file": "marketing/engines/factory/scenes/01-hero.png",
+          "sha256": "88788fc1d3b4e5feb286b6ebe7047190dcb1710f506f5d4ef9eae822bcb82ed7"
+        },
+        "direction_sha256": null,
+        "route": {
+          "composition_family": "catalogue-flat-lay",
+          "camera_angle": "top-down",
+          "page_arrangement": "organised-catalogue",
+          "environment": "plain-neutral-surface",
+          "lighting": "even-soft-daylight",
+          "prop_strategy": "minimal",
+          "visual_story": "none",
+          "product_focus": "product-dominant",
+          "colour_strategy": "neutral-ground",
+          "transformation_demo": "none",
+          "route": "factory"
+        }
+      }
+    }
+  },
+  "etsy": {
+    "mode": "live",
+    "listing_id": 4590778612,
+    "shop_id": 46520279,
+    "payload_sha256": "c742227385501637f3993fbf7e3be2569772a46f39e3bbf1e5ea406724d85d3f",
+    "verification": {
+      "passed": true,
+      "fingerprint": "367327200948fdfc2f053aa631a42e9a81df932d6bea5fc0bb62fcfe1a307bf2",
+      "at": "2026-10-07T22:20:15.381Z"
+    },
+    "publish_request": null,
+    "published_at": null,
+    "listing_url": null
+  }
+}

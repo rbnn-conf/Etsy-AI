@@ -1,0 +1,129 @@
+{
+  "pattern_id": "winter-camellia",
+  "name": "Winter Camellia",
+  "category": "Winter camellia flower",
+  "difficulty": "intermediate",
+  "finished_size": "About 8 cm across.",
+  "yarn": [
+    {
+      "description": "Cotton yarn for layered petals",
+      "colour": "Dusty rose",
+      "amount": "About 15 g"
+    },
+    {
+      "description": "Cotton yarn for the compact centre",
+      "colour": "Soft butter yellow",
+      "amount": "About 2 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Scissors",
+    "Blocking mat and rustproof pins"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "tr"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "tr": "treble crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "Rnd": "round",
+    "MR": "magic ring"
+  },
+  "gauge": "Gauge is not critical; use the stated yarn and hook to achieve the approximate finished size.",
+  "instructions": [
+    {
+      "heading": "Centre",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With butter yellow, make an MR, ch 1, work 6 sc in MR, pull the ring closed, then sl st to the first sc.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Ch 1, work 2 sc in each st around, then sl st to the first sc.",
+          "stitch_count": 12
+        }
+      ]
+    },
+    {
+      "heading": "Inner Petal Layer",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With dusty rose, make an MR and work 10 sc in MR. Pull the ring closed; do not join.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Across the 10 sts, for each pair of sts, work (sc, hdc, dc, tr, dc, hdc, sc) in the first st, then sl st in the second st. Complete this sequence 5 times total.",
+          "stitch_count": 40
+        }
+      ]
+    },
+    {
+      "heading": "Middle Petal Layer",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With dusty rose, make an MR and work 14 sc in MR. Pull the ring closed; do not join.",
+          "stitch_count": 14
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Across the 14 sts, for each pair of sts, work (sc, hdc, dc, tr, dc, hdc, sc) in the first st, then sl st in the second st. Complete this sequence 7 times total.",
+          "stitch_count": 56
+        }
+      ]
+    },
+    {
+      "heading": "Outer Petal Layer",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With dusty rose, make an MR and work 18 sc in MR. Pull the ring closed; do not join.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Across the 18 sts, for each pair of sts, work (sc, hdc, dc, tr, tr, dc, hdc, sc) in the first st, then sl st in the second st. Complete this sequence 9 times total.",
+          "stitch_count": 81
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Place the outer petal layer facing up. Centre the middle layer over it and rotate it so every middle petal sits in a gap between two outer petals. Use the outer-layer tail to sew 6 evenly spaced whip stitches through both central rings; secure the tail on the back.",
+    "Centre the inner petal layer over the middle layer, rotating it so its petals sit between the middle petals. Use the middle-layer tail to sew 6 evenly spaced whip stitches through both central rings; secure the tail on the back.",
+    "Place the yellow centre over the inner layer. Use the inner-layer tail to sew 6 small, evenly spaced stitches through the outer round of the centre and the central ring of the inner layer; secure on the back."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off each completed piece after its final round, leaving a 20 cm tail on the centre and every petal layer for assembly.",
+    "Gently wet-block the three petal layers, spreading each petal into a smooth rounded curve. Let them dry completely before assembly.",
+    "Weave in all remaining yarn tails on the reverse side after assembly, taking care not to distort the central rings or petals."
+  ],
+  "notes": [
+    "The ch 1 at the start of each centre round does not count as a st.",
+    "Keep petal-layer tension even so the petal tips curve softly rather than ruffling tightly."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

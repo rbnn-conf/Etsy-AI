@@ -1,0 +1,141 @@
+{
+  "product_id": "009",
+  "passed": true,
+  "at": "2026-09-27T17:06:58.649Z",
+  "checks": [
+    {
+      "name": "approved artwork unchanged",
+      "ok": true,
+      "detail": "3 approved assets match the handoff SHA-256"
+    },
+    {
+      "name": "expected files present",
+      "ok": true,
+      "detail": "10 files"
+    },
+    {
+      "name": "print variants complete",
+      "ok": true,
+      "detail": "A4, US-Letter, Card-Panels-4x6in, Card-Artwork, Guide"
+    },
+    {
+      "name": "filenames safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no duplicate outputs",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "card artwork identical to approved originals",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "derived files traceable to approved artwork",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "aspect ratio preserved",
+      "ok": true,
+      "detail": "12 placements, no crop or stretch"
+    },
+    {
+      "name": "PDFs valid: page counts, sizes and orientation",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no blank pages",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "owner previews rendered",
+      "ok": true,
+      "detail": "3 of 3"
+    },
+    {
+      "name": "ZIP package verified",
+      "ok": true,
+      "detail": "10 entries"
+    },
+    {
+      "name": "file sizes fit Etsy",
+      "ok": true,
+      "detail": "16.9 MB (limit 20 MB)"
+    },
+    {
+      "name": "card variants complete",
+      "ok": true,
+      "detail": "A Merry Christmas; B Christmas Wishes"
+    },
+    {
+      "name": "each variant uses its assigned front, inside and back",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "minimal back correct (wordmark only, no URL or promotion)",
+      "ok": true,
+      "detail": "2 minimal back(s)"
+    },
+    {
+      "name": "inside artwork referenced correctly",
+      "ok": true,
+      "detail": "proof-02 used by A, B"
+    },
+    {
+      "name": "printing guide describes the card designs",
+      "ok": true,
+      "detail": "\"2 card designs\""
+    },
+    {
+      "name": "no unsupported resolution claim",
+      "ok": true,
+      "detail": "effective print resolution A4 210 ppi, US-Letter 204 ppi, Card-Panels-4x6in 256 ppi"
+    }
+  ],
+  "resolution": {
+    "effective_ppi": {
+      "A4": 210,
+      "US-Letter": 204,
+      "Card-Panels-4x6in": 256
+    },
+    "source_px": [
+      "1024x1536"
+    ],
+    "density_metadata": [
+      72
+    ],
+    "note": "Effective ppi = source pixels / printed size. PNG density metadata is not used when printing the PDFs."
+  },
+  "image_encoding": 92,
+  "zip": {
+    "file": "production/package/LumiumX-Robin-at-the-Frosted-Gate.zip",
+    "bytes": 16942543
+  },
+  "previews": [
+    {
+      "file": "production/previews/preview-01-LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4-p1.png",
+      "source": "A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "page": 1,
+      "label": "A — Merry Christmas: outside"
+    },
+    {
+      "file": "production/previews/preview-02-LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4-p1.png",
+      "source": "A4/LumiumX-Robin-at-the-Frosted-Gate-Christmas-Wishes-A4.pdf",
+      "page": 1,
+      "label": "B — Christmas Wishes: outside"
+    },
+    {
+      "file": "production/previews/preview-03-LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4-p2.png",
+      "source": "A4/LumiumX-Robin-at-the-Frosted-Gate-Merry-Christmas-A4.pdf",
+      "page": 2,
+      "label": "Inside — shared by A and B"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "illustration_style": "Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography.",
+  "line_weight": "Branding ornaments and dividers only, never the crochet product: No drawn outlines",
+  "line_quality": "Branding ornaments and dividers only, never the crochet product: Not applicable; definition comes from clearly resolved yarn loops, stitch relief and softly irregular handmade contours.",
+  "detail_level": "Crochet construction must remain legible at Etsy thumbnail size. Branding ornaments should remain sparse and fine.",
+  "character_language": "When character motifs are used, render them as original compact crochet figures with rounded proportions, simple attached facial details and friendly restrained expressions.",
+  "background_density": "Low to medium; clean tactile studio surfaces with a few understated seasonal texture cues, kept secondary to the crochet work.",
+  "composition": "Clear single-product or small coordinated-group hierarchy, ample peripheral breathing room for optional pattern-cover titling, and uncluttered edges suitable for thumbnails.",
+  "palette": "Autumnal earth tones of terracotta, ochre, moss, mulberry and warm cream, grounded with oatmeal and soft stone neutrals; use a small cool accent only where it improves colour separation.",
+  "colour_mode": "full colour",
+  "shading": "Product: soft natural directional light, realistic contact shadows and dimensional depth. Branding ornaments: soft and flat.",
+  "texture": "Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.",
+  "mood": "Cosy, tactile, polished and quietly abundant; adult craft-market warmth with a modern seasonal feel.",
+  "age_suitability": "Adults",
+  "print_considerations": "Use pale or lightly textured backgrounds, preserve fine stitch contrast at home-print scale, avoid large solid dark fields, and keep any cover text high-contrast and well clear of trimming or folding zones.",
+  "shared_prompt": "Premium crochet pattern collection: Two layers: lightly illustrated branding with botanical ornaments and serif typography; the crochet product rendered as realistic high-end yarn crochet product photography. Product: visible yarn fibres, crochet loops, stitches and small handmade irregularities. Background: subtle cream linen weave.",
+  "avoid": [
+    "Any exact pumpkin forms, stitch construction, stems, colour assignments or diagonal flat-lay from the references",
+    "Any woven-basket flower arrangement, stitched badge, label text or source typography from the references",
+    "Any held dark-wrapped spooky bouquet, white bow, figure pose or leaf-framed brown backdrop from the references",
+    "Large ink-heavy black or charcoal background fields",
+    "Cluttered props that obscure construction details",
+    "Misspelled text, faux brand marks, logos or copied promotional wording",
+    "Stitch diagrams, charts or written instructions inside the artwork"
+  ],
+  "version": 2,
+  "scope": "shared-style",
+  "source": "restyle",
+  "based_on_references": [
+    "references/reference-01.jpg",
+    "references/reference-02.jpg",
+    "references/reference-03.jpg"
+  ],
+  "feedback_applied": "Restyle: realistic crochet product, illustrated branding only (ADR-043).",
+  "created_at": "2026-10-06T20:02:37.088Z"
+}

@@ -1,0 +1,1317 @@
+[
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3748615,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "3a8b3c09eaed0ca7cf7fb3b726c314ea97956cf97cb5316c58a6591a55431d79",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1536,
+        "boxH": 2304,
+        "complete": true,
+        "rect": {
+          "x": 464,
+          "y": -49,
+          "w": 1536,
+          "h": 2304
+        },
+        "visible": {
+          "x": 464,
+          "y": 492,
+          "w": 1536,
+          "h": 1508
+        },
+        "crop": "0.0000,0.2350,1.0000,0.6545"
+      },
+      {
+        "sha256": "df209b4cd7cb529d93e8f4b6c3192586ba0dd6b0b99bd326df51e29fc6da7c78",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 740,
+        "boxH": 1046,
+        "complete": true,
+        "rect": {
+          "x": -90.97974395751953,
+          "y": 1088.8067626953125,
+          "w": 861.95947265625,
+          "h": 1128.3865966796875
+        },
+        "visible": {
+          "x": 0,
+          "y": 1088.8067626953125,
+          "w": 770.9797286987305,
+          "h": 911.1932373046875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a65d4dce3b2287248d1909d3d716049068e731585ac81d14165f7bd692d0f152",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 740,
+        "boxH": 1046,
+        "complete": true,
+        "rect": {
+          "x": -38.99516296386719,
+          "y": 1033.0096435546875,
+          "w": 925.9903564453125,
+          "h": 1167.9805908203125
+        },
+        "visible": {
+          "x": 0,
+          "y": 1033.0096435546875,
+          "w": 886.9951934814453,
+          "h": 966.9903564453125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "586e791b9bd747ea099a0d3085b0fccbeb936857fa4c518fd59d05050808a328",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 740,
+        "boxH": 1046,
+        "complete": true,
+        "rect": {
+          "x": 15.245083808898926,
+          "y": 980.0577392578125,
+          "w": 985.5098876953125,
+          "h": 1201.8843994140625
+        },
+        "visible": {
+          "x": 15.245083808898926,
+          "y": 980.0577392578125,
+          "w": 985.5098876953125,
+          "h": 1019.9422607421875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "33 CrochetBouquet Patterns",
+        "fontPx": 106
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+        "text": "Moonlit Meadow Crochet Bouquet Pattern Bundle"
+      },
+      {
+        "claim": "pattern-count",
+        "value": "33 crochet bouquet patterns",
+        "text": "33 CrochetBouquet Patterns"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter",
+        "text": "A4 + US Letter"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      }
+    ],
+    "slide": "01-stop-scroll",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "editorial-hero",
+      "text_zone": "top-left",
+      "background": "render",
+      "min_share": 0.5,
+      "assets": [
+        "render-bouquet",
+        "doc-cover",
+        "page-garden-rose",
+        "page-twilight-lily"
+      ],
+      "crops": [
+        {
+          "asset": "render-bouquet",
+          "crop": {
+            "x": 0,
+            "y": 0.235,
+            "w": 1,
+            "h": 0.6545
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.235,
+            "w": 1,
+            "h": 0.765
+          },
+          "upscale": 1.5
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-bouquet",
+          "depicts": [
+            "garden-rose",
+            "blush-tulip",
+            "sleeping-rosebud",
+            "sage-eucalyptus",
+            "bendable-floral-stem",
+            "ribboned-bouquet-wrap"
+          ]
+        }
+      ]
+    },
+    "file": "01-stop-scroll.png",
+    "thumb": "thumbs/01-stop-scroll.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3648821,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "df209b4cd7cb529d93e8f4b6c3192586ba0dd6b0b99bd326df51e29fc6da7c78",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 620,
+        "boxH": 876,
+        "complete": true,
+        "rect": {
+          "x": 684.9028930664062,
+          "y": 509.4479675292969,
+          "w": 650.1942749023438,
+          "h": 897.10400390625
+        },
+        "visible": {
+          "x": 684.9028930664062,
+          "y": 509.4479675292969,
+          "w": 650.1942749023438,
+          "h": 897.10400390625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "e9b0088bd4e653390885411e450d5175d596ea470c129c5c1de2110078ce4979",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 1240.1417236328125,
+          "y": 479.5562438964844,
+          "w": 559.716552734375,
+          "h": 747.887451171875
+        },
+        "visible": {
+          "x": 1240.1417236328125,
+          "y": 479.5562438964844,
+          "w": 559.716552734375,
+          "h": 747.887451171875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a65d4dce3b2287248d1909d3d716049068e731585ac81d14165f7bd692d0f152",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 214.41871643066406,
+          "y": 535.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "visible": {
+          "x": 214.41871643066406,
+          "y": 535.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "crop": null
+      },
+      {
+        "sha256": "1224a000894c59fd917d32181fe6f32203a90a451c87e87fd2dd6d3d2c25e316",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 480,
+        "boxH": 678,
+        "complete": true,
+        "rect": {
+          "x": 64.76251220703125,
+          "y": 657.5091552734375,
+          "w": 610.4749755859375,
+          "h": 762.981689453125
+        },
+        "visible": {
+          "x": 64.76251220703125,
+          "y": 657.5091552734375,
+          "w": 610.4749755859375,
+          "h": 762.981689453125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "bb1516d9e89676e86184b9f052ebecfad2da8614b7db4d0c577bcc7e8f598712",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 430,
+        "boxH": 608,
+        "complete": true,
+        "rect": {
+          "x": 1289.78369140625,
+          "y": 1143.0362548828125,
+          "w": 510.4326171875,
+          "h": 661.927490234375
+        },
+        "visible": {
+          "x": 1289.78369140625,
+          "y": 1143.0362548828125,
+          "w": 510.4326171875,
+          "h": 661.927490234375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "93b0a3597c0cb76af5a17033b3dab5465703b7ea2111e60cabd92d8ad13150c4",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 430,
+        "boxH": 608,
+        "complete": true,
+        "rect": {
+          "x": 1144.384521484375,
+          "y": 1279.1644287109375,
+          "w": 461.23095703125,
+          "h": 629.671142578125
+        },
+        "visible": {
+          "x": 1144.384521484375,
+          "y": 1279.1644287109375,
+          "w": 461.23095703125,
+          "h": 629.671142578125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "f08a05a2c33760d90622b829409b244138d21c1114c3a5f1d93ef2c211566786",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 440,
+        "boxH": 622,
+        "complete": true,
+        "rect": {
+          "x": 314.0250244140625,
+          "y": 1288.912353515625,
+          "w": 471.949951171875,
+          "h": 644.17529296875
+        },
+        "visible": {
+          "x": 314.0250244140625,
+          "y": 1288.912353515625,
+          "w": 471.949951171875,
+          "h": 644.17529296875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Everything inYour Download",
+        "fontPx": 124
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "included",
+        "value": "Complete pattern collection PDF",
+        "text": "Complete pattern collection PDF"
+      },
+      {
+        "claim": "individual",
+        "value": "Each pattern as its own PDF",
+        "text": "Each pattern as its own PDF"
+      },
+      {
+        "claim": "printing-guide",
+        "value": "Printing guide",
+        "text": "Printing guide"
+      }
+    ],
+    "slide": "02-what-you-get",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "included-spread",
+      "text_zone": "top-centre",
+      "background": "linen",
+      "min_share": 0.3,
+      "assets": [
+        "doc-cover",
+        "doc-index",
+        "page-garden-rose",
+        "page-winter-camellia",
+        "doc-materials",
+        "doc-abbreviations",
+        "doc-guide"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "02-what-you-get.png",
+    "thumb": "thumbs/02-what-you-get.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4192529,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "7fdaf3c9f16f7c4770e2607bbeca9aeb7ed820c49471fcba4ae02d7e4ad0164f",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1577,
+        "boxH": 2366,
+        "complete": true,
+        "rect": {
+          "x": -219,
+          "y": -429,
+          "w": 1577,
+          "h": 2366
+        },
+        "visible": {
+          "x": 110,
+          "y": 200,
+          "w": 900,
+          "h": 1570
+        },
+        "crop": "0.2147,0.2700,0.5706,0.6636"
+      },
+      {
+        "sha256": "a65d4dce3b2287248d1909d3d716049068e731585ac81d14165f7bd692d0f152",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 720,
+        "boxH": 1018,
+        "complete": true,
+        "rect": {
+          "x": 925.3709106445312,
+          "y": 836.1275634765625,
+          "w": 789.2582397460938,
+          "h": 1065.744873046875
+        },
+        "visible": {
+          "x": 925.3709106445312,
+          "y": 836.1275634765625,
+          "w": 789.2582397460938,
+          "h": 1065.744873046875
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Inside theGarden Rose",
+        "fontPx": 125
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      },
+      {
+        "claim": "pattern-number",
+        "value": "Pattern 01 of 33",
+        "text": "Pattern 01 of 33"
+      },
+      {
+        "claim": "skill",
+        "value": "Intermediate",
+        "text": "Intermediate"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      }
+    ],
+    "slide": "03-quality",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "macro-detail",
+      "text_zone": "right-column",
+      "background": "sage",
+      "min_share": 0.3,
+      "assets": [
+        "render-detail",
+        "page-garden-rose"
+      ],
+      "crops": [
+        {
+          "asset": "render-detail",
+          "crop": {
+            "x": 0.2147,
+            "y": 0.27,
+            "w": 0.5706,
+            "h": 0.6636
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.27,
+            "w": 1,
+            "h": 0.73
+          },
+          "upscale": 1.54
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-detail",
+          "depicts": [
+            "garden-rose"
+          ]
+        }
+      ]
+    },
+    "file": "03-quality.png",
+    "thumb": "thumbs/03-quality.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4564128,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "586e791b9bd747ea099a0d3085b0fccbeb936857fa4c518fd59d05050808a328",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 62.413429260253906,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "visible": {
+          "x": 62.413429260253906,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "1224a000894c59fd917d32181fe6f32203a90a451c87e87fd2dd6d3d2c25e316",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 1322.4134521484375,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "visible": {
+          "x": 1322.4134521484375,
+          "y": 507.9584045410156,
+          "w": 615.173095703125,
+          "h": 783.083251953125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "c92ce9be1bc6a1937cf744247a745ed0013dd393bf5375c7d17faf65cf821247",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 204.41871643066406,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "visible": {
+          "x": 204.41871643066406,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "crop": null
+      },
+      {
+        "sha256": "c1deff527febf8cc9b82538094092bddd3b4ae238bc5b911130c46b5b10f3223",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 500,
+        "boxH": 707,
+        "complete": true,
+        "rect": {
+          "x": 1224.418701171875,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "visible": {
+          "x": 1224.418701171875,
+          "y": 611.8043823242188,
+          "w": 571.16259765625,
+          "h": 755.3911743164062
+        },
+        "crop": null
+      },
+      {
+        "sha256": "1c08696c6d88a95cd3b04bedee9a1b29fc18fe081786ca757b217f42cb9591a0",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 1071,
+        "boxH": 1606,
+        "complete": true,
+        "rect": {
+          "x": 477,
+          "y": 81,
+          "w": 1071,
+          "h": 1606
+        },
+        "visible": {
+          "x": 488,
+          "y": 406,
+          "w": 1025,
+          "h": 1220
+        },
+        "crop": "0.0213,0.2100,0.9573,0.7596"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "33 Patternsto Make",
+        "fontPx": 128
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "pattern-count",
+        "value": "33 patterns",
+        "text": "33 Patternsto Make"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Garden Rose",
+        "text": "Garden Rose"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Moon Peony",
+        "text": "Moon Peony"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Heirloom Dahlia",
+        "text": "Heirloom Dahlia"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Meadow Ranunculus",
+        "text": "Meadow Ranunculus"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Starlit Anemone",
+        "text": "Starlit Anemone"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Cottage Poppy",
+        "text": "Cottage Poppy"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Twilight Lily",
+        "text": "Twilight Lily"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Wild Sunflower",
+        "text": "Wild Sunflower"
+      },
+      {
+        "claim": "pattern-name",
+        "value": "Blush Tulip",
+        "text": "Blush Tulip"
+      }
+    ],
+    "slide": "04-variety",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "collection",
+      "text_zone": "top-centre",
+      "background": "blush",
+      "min_share": 0.3,
+      "assets": [
+        "page-twilight-lily",
+        "page-winter-camellia",
+        "page-golden-billy-button",
+        "page-woodland-fern",
+        "render-overview"
+      ],
+      "crops": [
+        {
+          "asset": "render-overview",
+          "crop": {
+            "x": 0.0213,
+            "y": 0.21,
+            "w": 0.9573,
+            "h": 0.7596
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.21,
+            "w": 1,
+            "h": 0.79
+          },
+          "upscale": 1.046
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-overview",
+          "depicts": [
+            "garden-rose",
+            "moon-peony",
+            "heirloom-dahlia",
+            "meadow-ranunculus",
+            "starlit-anemone",
+            "cottage-poppy",
+            "twilight-lily",
+            "wild-sunflower",
+            "blush-tulip"
+          ]
+        }
+      ]
+    },
+    "file": "04-variety.png",
+    "thumb": "thumbs/04-variety.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3261791,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "586e791b9bd747ea099a0d3085b0fccbeb936857fa4c518fd59d05050808a328",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 1185,
+        "boxH": 1674,
+        "complete": true,
+        "rect": {
+          "x": 783,
+          "y": -394,
+          "w": 1185,
+          "h": 1674
+        },
+        "visible": {
+          "x": 860,
+          "y": 160,
+          "w": 1030,
+          "h": 1120
+        },
+        "crop": "0.0652,0.3310,0.8696,0.6690"
+      },
+      {
+        "sha256": "586e791b9bd747ea099a0d3085b0fccbeb936857fa4c518fd59d05050808a328",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 440,
+        "boxH": 622,
+        "complete": true,
+        "rect": {
+          "x": 1368.69677734375,
+          "y": 1128.7073974609375,
+          "w": 502.6064453125,
+          "h": 664.585205078125
+        },
+        "visible": {
+          "x": 1368.69677734375,
+          "y": 1128.7073974609375,
+          "w": 502.6064453125,
+          "h": 664.585205078125
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Beginner toExperienced",
+        "fontPx": 125
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "skill",
+        "value": "Beginner to Experienced",
+        "text": "Beginner toExperienced"
+      },
+      {
+        "claim": "features",
+        "value": "Skill level on every pattern",
+        "text": "Skill level on every pattern"
+      },
+      {
+        "claim": "terms",
+        "value": "US crochet terms",
+        "text": "US crochet terms"
+      },
+      {
+        "claim": "features",
+        "value": "Materials listed for every pattern",
+        "text": "Materials listed for every pattern"
+      },
+      {
+        "claim": "instructions",
+        "value": "Step-by-step instructions",
+        "text": "Step-by-step instructions"
+      }
+    ],
+    "slide": "05-useful",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "feature-focus",
+      "text_zone": "left-column",
+      "background": "paper",
+      "min_share": 0.3,
+      "assets": [
+        "page-twilight-lily"
+      ],
+      "crops": [
+        {
+          "asset": "page-twilight-lily",
+          "crop": {
+            "x": 0.0652,
+            "y": 0.331,
+            "w": 0.8696,
+            "h": 0.669
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          },
+          "upscale": 0.954
+        }
+      ],
+      "renders": []
+    },
+    "file": "05-useful.png",
+    "thumb": "thumbs/05-useful.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4081194,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "df209b4cd7cb529d93e8f4b6c3192586ba0dd6b0b99bd326df51e29fc6da7c78",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 470,
+        "boxH": 664,
+        "complete": true,
+        "rect": {
+          "x": 61.95853805541992,
+          "y": 410.7817687988281,
+          "w": 526.0828857421875,
+          "h": 702.4365234375
+        },
+        "visible": {
+          "x": 61.95853805541992,
+          "y": 410.7817687988281,
+          "w": 526.0828857421875,
+          "h": 702.4365234375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a65d4dce3b2287248d1909d3d716049068e731585ac81d14165f7bd692d0f152",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 470,
+        "boxH": 664,
+        "complete": true,
+        "rect": {
+          "x": 114.24159240722656,
+          "y": 451.9492492675781,
+          "w": 481.516845703125,
+          "h": 672.1015625
+        },
+        "visible": {
+          "x": 114.24159240722656,
+          "y": 451.9492492675781,
+          "w": 481.516845703125,
+          "h": 672.1015625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "e9b0088bd4e653390885411e450d5175d596ea470c129c5c1de2110078ce4979",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 470,
+        "boxH": 664,
+        "complete": true,
+        "rect": {
+          "x": 132.94651794433594,
+          "y": 470.1560363769531,
+          "w": 504.10693359375,
+          "h": 687.68798828125
+        },
+        "visible": {
+          "x": 132.94651794433594,
+          "y": 470.1560363769531,
+          "w": 504.10693359375,
+          "h": 687.68798828125
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a65d4dce3b2287248d1909d3d716049068e731585ac81d14165f7bd692d0f152",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 540,
+        "boxH": 763,
+        "complete": true,
+        "rect": {
+          "x": 716.850341796875,
+          "y": 410.8095397949219,
+          "w": 566.29931640625,
+          "h": 781.380859375
+        },
+        "visible": {
+          "x": 716.850341796875,
+          "y": 410.8095397949219,
+          "w": 566.29931640625,
+          "h": 781.380859375
+        },
+        "crop": null
+      },
+      {
+        "sha256": "7fdaf3c9f16f7c4770e2607bbeca9aeb7ed820c49471fcba4ae02d7e4ad0164f",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 870,
+        "boxH": 1305,
+        "complete": true,
+        "rect": {
+          "x": 1237,
+          "y": 153,
+          "w": 870,
+          "h": 1305
+        },
+        "visible": {
+          "x": 1360,
+          "y": 520,
+          "w": 600,
+          "h": 600
+        },
+        "crop": "0.1552,0.2901,0.6897,0.4598"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Download · Print · Crochet",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "digital",
+        "value": "Instant digital download",
+        "text": "Instant digital download"
+      },
+      {
+        "claim": "digital",
+        "value": "Print at home",
+        "text": "Print at home"
+      },
+      {
+        "claim": "process",
+        "value": "Download",
+        "text": "Download"
+      },
+      {
+        "claim": "process",
+        "value": "Print",
+        "text": "Print"
+      },
+      {
+        "claim": "process",
+        "value": "Crochet",
+        "text": "Crochet"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrated example",
+        "text": "Illustrated example"
+      }
+    ],
+    "slide": "06-how-it-works",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "process",
+      "text_zone": "bottom-band",
+      "background": "ivory",
+      "min_share": 0.12,
+      "assets": [
+        "doc-cover",
+        "page-garden-rose",
+        "doc-index",
+        "render-detail"
+      ],
+      "crops": [
+        {
+          "asset": "render-detail",
+          "crop": {
+            "x": 0.1552,
+            "y": 0.2901,
+            "w": 0.6897,
+            "h": 0.4598
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.27,
+            "w": 1,
+            "h": 0.73
+          },
+          "upscale": 0.85
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-detail",
+          "depicts": [
+            "garden-rose"
+          ]
+        }
+      ]
+    },
+    "file": "06-how-it-works.png",
+    "thumb": "thumbs/06-how-it-works.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3923550,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "e9b0088bd4e653390885411e450d5175d596ea470c129c5c1de2110078ce4979",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 560,
+        "boxH": 791,
+        "complete": true,
+        "rect": {
+          "x": 557.9758911132812,
+          "y": 1034.5740966796875,
+          "w": 562.0241088867188,
+          "h": 663.3338623046875
+        },
+        "visible": {
+          "x": 557.9758911132812,
+          "y": 1034.5740966796875,
+          "w": 562.0241088867188,
+          "h": 663.3338623046875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "a65d4dce3b2287248d1909d3d716049068e731585ac81d14165f7bd692d0f152",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 560,
+        "boxH": 791,
+        "complete": true,
+        "rect": {
+          "x": 1083.4898681640625,
+          "y": 1013.839599609375,
+          "w": 592.978759765625,
+          "h": 657.160400390625
+        },
+        "visible": {
+          "x": 1083.4898681640625,
+          "y": 1013.839599609375,
+          "w": 592.978759765625,
+          "h": 657.160400390625
+        },
+        "crop": null
+      },
+      {
+        "sha256": "7fdaf3c9f16f7c4770e2607bbeca9aeb7ed820c49471fcba4ae02d7e4ad0164f",
+        "naturalW": 1024,
+        "naturalH": 1536,
+        "boxW": 589,
+        "boxH": 884,
+        "complete": true,
+        "rect": {
+          "x": 23.067626953125,
+          "y": 1042.2559814453125,
+          "w": 663.8043823242188,
+          "h": 931.970947265625
+        },
+        "visible": {
+          "x": 158.89601135253906,
+          "y": 1295.2633056640625,
+          "w": 396.1070556640625,
+          "h": 459.73974609375
+        },
+        "crop": "0.1944,0.2767,0.6112,0.4867"
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Your QuietCrafting Hour",
+        "fontPx": 130
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": false,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "render",
+        "value": "Illustration",
+        "text": "Illustration"
+      }
+    ],
+    "slide": "07-desire",
+    "scene": "env-07-desire",
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "lifestyle",
+      "text_zone": "top-right",
+      "background": "environment",
+      "min_share": 0.2,
+      "region": {
+        "x": 560,
+        "y": 820,
+        "w": 1120,
+        "h": 911.4907332796132
+      },
+      "assets": [
+        "doc-index",
+        "page-garden-rose",
+        "render-detail"
+      ],
+      "crops": [
+        {
+          "asset": "render-detail",
+          "crop": {
+            "x": 0.1944,
+            "y": 0.2767,
+            "w": 0.6112,
+            "h": 0.4867
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0.27,
+            "w": 1,
+            "h": 0.73
+          },
+          "upscale": 0.575
+        }
+      ],
+      "renders": [
+        {
+          "asset": "render-detail",
+          "depicts": [
+            "garden-rose"
+          ]
+        }
+      ]
+    },
+    "file": "07-desire.png",
+    "thumb": "thumbs/07-desire.png"
+  },
+  {
+    "width": 2000,
+    "height": 2000,
+    "bytes": 4081869,
+    "blocked": [],
+    "artwork": [
+      {
+        "sha256": "df209b4cd7cb529d93e8f4b6c3192586ba0dd6b0b99bd326df51e29fc6da7c78",
+        "naturalW": 1241,
+        "naturalH": 1754,
+        "boxW": 700,
+        "boxH": 989,
+        "complete": true,
+        "rect": {
+          "x": 1038.2333984375,
+          "y": 671.377197265625,
+          "w": 783.533203125,
+          "h": 1046.24560546875
+        },
+        "visible": {
+          "x": 1038.2333984375,
+          "y": 671.377197265625,
+          "w": 783.533203125,
+          "h": 1046.24560546875
+        },
+        "crop": null
+      },
+      {
+        "sha256": "f08a05a2c33760d90622b829409b244138d21c1114c3a5f1d93ef2c211566786",
+        "naturalW": 827,
+        "naturalH": 1170,
+        "boxW": 600,
+        "boxH": 849,
+        "complete": true,
+        "rect": {
+          "x": 1317.2711181640625,
+          "y": 530.9669189453125,
+          "w": 685.457763671875,
+          "h": 907.066162109375
+        },
+        "visible": {
+          "x": 1317.2711181640625,
+          "y": 530.9669189453125,
+          "w": 682.7288818359375,
+          "h": 907.066162109375
+        },
+        "crop": null
+      }
+    ],
+    "headlines": [
+      {
+        "text": "Digital PDFPattern Download",
+        "fontPx": 88
+      }
+    ],
+    "overflowPx": 0,
+    "hasBranding": true,
+    "hasTitle": true,
+    "minFontPx": 20,
+    "claimTokens": [
+      {
+        "claim": "product-title",
+        "value": "Moonlit Meadow Crochet Bouquet Pattern Bundle",
+        "text": "Moonlit Meadow Crochet Bouquet Pattern Bundle"
+      },
+      {
+        "claim": "digital",
+        "value": "Digital PDF pattern download",
+        "text": "Digital PDFPattern Download"
+      },
+      {
+        "claim": "digital",
+        "value": "Instant download",
+        "text": "Instant download"
+      },
+      {
+        "claim": "format",
+        "value": "A4 + US Letter PDFs",
+        "text": "A4 + US Letter PDFs"
+      },
+      {
+        "claim": "delivery",
+        "value": "No yarn or hook included",
+        "text": "No yarn or hook included"
+      },
+      {
+        "claim": "render",
+        "value": "Illustrations, not photos",
+        "text": "Illustrations, not photos"
+      }
+    ],
+    "slide": "08-doubts",
+    "scene": null,
+    "expectWidth": 2000,
+    "expectHeight": 2000,
+    "layout": {
+      "creative": true,
+      "composition": "fact-sheet",
+      "text_zone": "top-left",
+      "background": "dusk",
+      "min_share": 0.08,
+      "assets": [
+        "doc-cover",
+        "doc-guide"
+      ],
+      "crops": [],
+      "renders": []
+    },
+    "file": "08-doubts.png",
+    "thumb": "thumbs/08-doubts.png"
+  }
+]

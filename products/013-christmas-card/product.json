@@ -1,0 +1,832 @@
+{
+  "schema_version": 1,
+  "managed_by": "automation-stage-1",
+  "product_id": "013",
+  "workspace": "013-christmas-card",
+  "name": "Father Christmas on the Night Shift",
+  "slug": "father-christmas-night-shift",
+  "season": "Christmas",
+  "product_type": "Christmas card",
+  "target_customer": "Adults seeking a cheerful, contemporary Christmas card",
+  "page_count": 3,
+  "status": "AWAITING_MARKETING_APPROVAL",
+  "resume_state": null,
+  "status_history": [
+    {
+      "from": null,
+      "to": "DRAFT",
+      "event": "created",
+      "at": "2026-09-28T18:55:42.349Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "DRAFT",
+      "to": "IDEAS_READY",
+      "event": "ideas_ready",
+      "at": "2026-09-28T18:56:21.055Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "IDEAS_READY",
+      "to": "CONCEPT_PREVIEWS_GENERATING",
+      "event": "previews_started",
+      "at": "2026-09-28T18:56:21.065Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_PREVIEWS_GENERATING",
+      "to": "AWAITING_CONCEPT_SELECTION",
+      "event": "previews_ready",
+      "at": "2026-09-28T18:56:56.015Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CONCEPT_SELECTION",
+      "to": "CONCEPT_SELECTED",
+      "event": "concept_selected",
+      "at": "2026-09-28T18:57:17.209Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CONCEPT_SELECTED",
+      "to": "SPEC_READY",
+      "event": "spec_ready",
+      "at": "2026-09-28T18:57:41.186Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "SPEC_READY",
+      "to": "PROOFS_GENERATING",
+      "event": "proofs_started",
+      "at": "2026-09-28T18:57:41.194Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PROOFS_GENERATING",
+      "to": "AWAITING_CREATIVE_APPROVAL",
+      "event": "proofs_ready",
+      "at": "2026-09-28T18:58:21.967Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_CREATIVE_APPROVAL",
+      "to": "CREATIVE_APPROVED",
+      "event": "creative_approved",
+      "at": "2026-09-28T18:58:32.221Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "CREATIVE_APPROVED",
+      "to": "PRODUCTION_READY",
+      "event": "production_ready",
+      "at": "2026-09-28T18:59:01.886Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_READY",
+      "to": "PRODUCTION_BUILDING",
+      "event": "production_started",
+      "at": "2026-09-28T18:59:01.889Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_BUILDING",
+      "to": "PRODUCTION_QC",
+      "event": "production_built",
+      "at": "2026-09-28T18:59:11.611Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_QC",
+      "to": "AWAITING_PRODUCTION_APPROVAL",
+      "event": "production_qc_passed",
+      "at": "2026-09-28T18:59:14.635Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "AWAITING_PRODUCTION_APPROVAL",
+      "to": "PRODUCTION_APPROVED",
+      "event": "production_approved",
+      "at": "2026-09-28T18:59:24.545Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-28T19:55:45.271Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-09-28T19:56:25.646Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-09-28T19:57:36.356Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "FAILED",
+      "event": "failed",
+      "at": "2026-09-28T19:57:37.355Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "FAILED",
+      "to": "PRODUCTION_APPROVED",
+      "event": "retry",
+      "at": "2026-09-28T20:22:49.569Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "PRODUCTION_APPROVED",
+      "to": "MARKETING_PLANNING",
+      "event": "marketing_started",
+      "at": "2026-09-28T20:22:49.763Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_PLANNING",
+      "to": "MARKETING_GENERATING",
+      "event": "marketing_planned",
+      "at": "2026-09-28T20:22:49.852Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_GENERATING",
+      "to": "MARKETING_QC",
+      "event": "marketing_generated",
+      "at": "2026-09-28T20:22:56.249Z",
+      "actor": "@romg_o"
+    },
+    {
+      "from": "MARKETING_QC",
+      "to": "AWAITING_MARKETING_APPROVAL",
+      "event": "marketing_qc_passed",
+      "at": "2026-09-28T20:22:57.202Z",
+      "actor": "@romg_o"
+    }
+  ],
+  "request": {
+    "text": "Christmas card",
+    "requested_at": "2026-09-28T18:55:42.349Z",
+    "chat_id": "5386429071",
+    "requested_by": "@romg_o"
+  },
+  "reference_files": [],
+  "visual_direction": {
+    "file": "creative/creative-direction.json",
+    "version": 1,
+    "source": "concept",
+    "summary": {
+      "style": "Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.",
+      "linework": "Fine crisp ink-like accents with varied, restrained weight.; Slightly organic hand-drawn contours with neat, confident finishing details.",
+      "detail": "Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.",
+      "palette": "Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights. (full colour)",
+      "mood": "Joyful, brisk, cosy and warmly nostalgic."
+    }
+  },
+  "concepts": {
+    "batches": [
+      {
+        "batch": 1,
+        "generated_at": "2026-09-28T18:56:21.055Z",
+        "concepts": [
+          {
+            "concept_id": "A",
+            "proposed_name": "Father Christmas on the Night Shift",
+            "tagline": "Playful modern Christmas card",
+            "product_type": "Christmas card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults seeking a cheerful, contemporary Christmas card",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Front card design",
+              "Inside greeting panel",
+              "Back panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded printable Christmas card featuring an original, cheerful Father Christmas cycling home through a twinkling city after gift deliveries. Designed for home printing on A4 or US Letter paper.",
+            "key_features": [
+              "Original contemporary Christmas illustration",
+              "Folded card with front, inside and back panels",
+              "Suitable for home printing on A4 or US Letter paper",
+              "Warm all-purpose seasonal greeting",
+              "Printing and folding guide included"
+            ],
+            "visual_direction_summary": "Shared direction: richly textured modern gouache illustration with visible paper grain, softly layered shapes, crisp ink-like details, gentle shadows and a festive jewel-and-cream palette. Friendly stylised characters, refined hand-lettered accents and an upbeat, cosy mood.",
+            "visual_route": {
+              "primary_subject": "Father Christmas",
+              "scene": "Twinkling midnight city street",
+              "focal_object": "Parcel-filled bicycle",
+              "composition": "Cyclist sweeping diagonally through lower half",
+              "lighting": "Golden shop lights and blue night glow",
+              "palette_emphasis": "Cobalt, cranberry, cream, gold and spruce",
+              "emotional_tone": "Joyful, brisk and warmly nostalgic",
+              "typography_approach": "Hand-lettered greeting in open upper sky",
+              "distinguishing_visual_hook": "Father Christmas cycling beneath trailing fairy lights"
+            },
+            "preview_brief": "Portrait card front showing an original Father Christmas cycling across a glowing midnight street with a parcel-filled bicycle. The greeting sits in the open cobalt sky above, with warm windows, fairy lights and an energetic, festive mood."
+          },
+          {
+            "concept_id": "B",
+            "proposed_name": "Winter Hare and the Moon",
+            "tagline": "Peaceful woodland Christmas card",
+            "product_type": "Christmas card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults seeking an elegant, nature-inspired Christmas card",
+            "page_count": 3,
+            "orientation": "portrait",
+            "deliverable_components": [
+              "Front card design",
+              "Inside greeting panel",
+              "Back panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded printable Christmas card with a poised winter hare beneath an oversized moon in a quiet snowy meadow. A graceful choice for sending a calm, heartfelt festive message.",
+            "key_features": [
+              "Original winter wildlife illustration",
+              "Folded card with front, inside and back panels",
+              "Suitable for home printing on A4 or US Letter paper",
+              "Elegant all-purpose Christmas greeting",
+              "Printing and folding guide included"
+            ],
+            "visual_direction_summary": "Shared direction: richly textured modern gouache illustration with visible paper grain, softly layered shapes, crisp ink-like details, gentle shadows and a festive jewel-and-cream palette. Friendly stylised characters, refined hand-lettered accents and an upbeat, cosy mood.",
+            "visual_route": {
+              "primary_subject": "Winter hare",
+              "scene": "Snowy meadow beneath a moonlit pine ridge",
+              "focal_object": "Oversized crescent moon",
+              "composition": "Hare centred low beneath circular moon",
+              "lighting": "Silvery moonlight with faint amber star glow",
+              "palette_emphasis": "Ink blue, soft ivory, juniper and pale gold",
+              "emotional_tone": "Still, magical and heartfelt",
+              "typography_approach": "Small elegant serif greeting below the moon",
+              "distinguishing_visual_hook": "Hare gazing at a crescent moon framed by stars"
+            },
+            "preview_brief": "Portrait card front with a winter hare resting in a snow-covered meadow beneath an oversized crescent moon and a scattering of gold stars. A delicate serif Christmas greeting nestles beneath the moon for a quiet, magical finish."
+          },
+          {
+            "concept_id": "C",
+            "proposed_name": "Christmas Market Carousel",
+            "tagline": "Bright festive market card",
+            "product_type": "Christmas card",
+            "product_format": "greeting-card",
+            "target_customer": "Adults seeking a colourful, celebratory Christmas card",
+            "page_count": 3,
+            "orientation": "landscape",
+            "deliverable_components": [
+              "Front card design",
+              "Inside greeting panel",
+              "Back panel",
+              "Printing and folding guide"
+            ],
+            "short_description": "A folded printable Christmas card celebrating the sparkle of a festive market, centred on a whimsical illuminated carousel. Ideal for sharing bright seasonal wishes with friends, neighbours and family.",
+            "key_features": [
+              "Original festive market illustration",
+              "Landscape folded card with three designed panels",
+              "Suitable for home printing on A4 or US Letter paper",
+              "Bright, celebratory all-purpose greeting",
+              "Printing and folding guide included"
+            ],
+            "visual_direction_summary": "Shared direction: richly textured modern gouache illustration with visible paper grain, softly layered shapes, crisp ink-like details, gentle shadows and a festive jewel-and-cream palette. Friendly stylised characters, refined hand-lettered accents and an upbeat, cosy mood.",
+            "visual_route": {
+              "primary_subject": "Christmas carousel",
+              "scene": "Snow-dusted village market square",
+              "focal_object": "Striped carousel canopy",
+              "composition": "Carousel central with stalls framing both sides",
+              "lighting": "Lantern-lit dusk with glowing carousel bulbs",
+              "palette_emphasis": "Berry red, teal, cream, saffron and pine",
+              "emotional_tone": "Lively, welcoming and celebratory",
+              "typography_approach": "Arched hand-lettered greeting above canopy",
+              "distinguishing_visual_hook": "Carousel horses circling amid festive market stalls"
+            },
+            "preview_brief": "Landscape card front centred on a striped, glowing carousel in a snow-dusted village market square, framed by tiny festive stalls. An arched hand-lettered greeting follows the canopy shape against a lantern-lit dusk sky."
+          }
+        ]
+      }
+    ],
+    "selected": {
+      "batch": 1,
+      "concept_id": "A",
+      "selected_at": "2026-09-28T18:57:17.209Z"
+    }
+  },
+  "concept_previews": {
+    "batches": [
+      {
+        "batch": 1,
+        "dir": "concept-previews/batch-01",
+        "status": "complete",
+        "model": "gpt-image-2.5-flare",
+        "quality": "low",
+        "started_at": "2026-09-28T18:56:21.065Z",
+        "finished_at": "2026-09-28T18:56:56.013Z",
+        "images": [
+          {
+            "concept_id": "A",
+            "file": "concept-previews/batch-01/concept-a.png",
+            "prompt": "STYLE: Shared direction: richly textured modern gouache illustration with visible paper grain, softly layered shapes, crisp ink-like details, gentle shadows and a festive jewel-and-cream palette. Friendly stylised characters, refined hand-lettered accents and an upbeat, cosy mood.\n\nCONCEPT PREVIEW A of 3: visual direction A for the owner's request \"Christmas card\".\nConcept \"Father Christmas on the Night Shift\": a greeting card for Adults seeking a cheerful, contemporary Christmas card.\nShow the card front, using THIS concept's own content:\n- Subject: Father Christmas\n- Scene: Twinkling midnight city street\n- Focal object: Parcel-filled bicycle\n- Composition: Cyclist sweeping diagonally through lower half\n- Lighting: Golden shop lights and blue night glow\n- Palette emphasis: Cobalt, cranberry, cream, gold and spruce\n- Mood: Joyful, brisk and warmly nostalgic\n- Typography: Hand-lettered greeting in open upper sky\n- Distinguishing hook: Father Christmas cycling beneath trailing fairy lights\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts B and C. Avoid resembling:\n- B: Winter hare / Snowy meadow beneath a moonlit pine ridge / Oversized crescent moon / Silvery moonlight with faint amber star glow\n- C: Christmas carousel / Snow-dusted village market square / Striped carousel canopy / Lantern-lit dusk with glowing carousel bulbs\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-28T18:56:34.670Z"
+          },
+          {
+            "concept_id": "B",
+            "file": "concept-previews/batch-01/concept-b.png",
+            "prompt": "STYLE: Shared direction: richly textured modern gouache illustration with visible paper grain, softly layered shapes, crisp ink-like details, gentle shadows and a festive jewel-and-cream palette. Friendly stylised characters, refined hand-lettered accents and an upbeat, cosy mood.\n\nCONCEPT PREVIEW B of 3: visual direction B for the owner's request \"Christmas card\".\nConcept \"Winter Hare and the Moon\": a greeting card for Adults seeking an elegant, nature-inspired Christmas card.\nShow the card front, using THIS concept's own content:\n- Subject: Winter hare\n- Scene: Snowy meadow beneath a moonlit pine ridge\n- Focal object: Oversized crescent moon\n- Composition: Hare centred low beneath circular moon\n- Lighting: Silvery moonlight with faint amber star glow\n- Palette emphasis: Ink blue, soft ivory, juniper and pale gold\n- Mood: Still, magical and heartfelt\n- Typography: Small elegant serif greeting below the moon\n- Distinguishing hook: Hare gazing at a crescent moon framed by stars\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and C. Avoid resembling:\n- A: Father Christmas / Twinkling midnight city street / Parcel-filled bicycle / Golden shop lights and blue night glow\n- C: Christmas carousel / Snow-dusted village market square / Striped carousel canopy / Lantern-lit dusk with glowing carousel bulbs\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one portrait design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "quality": "low",
+            "generated_at": "2026-09-28T18:56:45.444Z"
+          },
+          {
+            "concept_id": "C",
+            "file": "concept-previews/batch-01/concept-c.png",
+            "prompt": "STYLE: Shared direction: richly textured modern gouache illustration with visible paper grain, softly layered shapes, crisp ink-like details, gentle shadows and a festive jewel-and-cream palette. Friendly stylised characters, refined hand-lettered accents and an upbeat, cosy mood.\n\nCONCEPT PREVIEW C of 3: visual direction C for the owner's request \"Christmas card\".\nConcept \"Christmas Market Carousel\": a greeting card for Adults seeking a colourful, celebratory Christmas card.\nShow the card front, using THIS concept's own content:\n- Subject: Christmas carousel\n- Scene: Snow-dusted village market square\n- Focal object: Striped carousel canopy\n- Composition: Carousel central with stalls framing both sides\n- Lighting: Lantern-lit dusk with glowing carousel bulbs\n- Palette emphasis: Berry red, teal, cream, saffron and pine\n- Mood: Lively, welcoming and celebratory\n- Typography: Arched hand-lettered greeting above canopy\n- Distinguishing hook: Carousel horses circling amid festive market stalls\nThe subject, scene, composition and lighting come from this list, not from the\nshared style above.\n\nThis preview must be visually distinct from concepts A and B. Avoid resembling:\n- A: Father Christmas / Twinkling midnight city street / Parcel-filled bicycle / Golden shop lights and blue night glow\n- B: Winter hare / Snowy meadow beneath a moonlit pine ridge / Oversized crescent moon / Silvery moonlight with faint amber star glow\n\nThis is a quick single-image preview so the owner can compare three\ndirections. It is not final artwork. Show one landscape design only (no\nmock-up, hands, table or envelope).\n\nOriginal artwork only: do not reproduce any reference image's characters,\nlettering, logos or distinctive composition. Any printed text must be short,\ncorrectly spelled and exactly as quoted.\n\nDO NOT INCLUDE: photorealism; logos or trademarks; copied characters or lettering; misspelled text; clutter.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1536x1024",
+            "quality": "low",
+            "generated_at": "2026-09-28T18:56:56.009Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "card-front",
+      "title": "Merry Christmas",
+      "concept": "Father Christmas cycles home after completing his gift deliveries, travelling diagonally through a twinkling midnight city street beneath trailing fairy lights.",
+      "instructions": null,
+      "artwork_description": "The lower half features an original, friendly Father Christmas in a cranberry coat and cream-trimmed hat cycling briskly from lower left towards lower right. His bicycle basket and rear rack are piled with neatly wrapped parcels, with one small evergreen sprig tucked among them. A simplified city street recedes behind him, with glowing shop windows, snowy rooftops, a small crescent moon and looping golden fairy lights. Leave the upper third as open cobalt sky for the greeting.",
+      "generation_prompt": "Exact title text: “Merry Christmas”. Portrait card front: original Father Christmas cycling diagonally across the lower half of a twinkling midnight city street, parcel-filled bicycle, trailing fairy lights overhead, glowing shop windows, snowy rooftops and open cobalt sky in the upper third for the hand-lettered greeting.",
+      "production_notes": "Verify the title is exactly “Merry Christmas” and fully legible. Keep the cyclist, bicycle and parcels clear of the fold/trim area. Preserve the open upper-sky area and avoid excessive dark ink coverage across the entire panel."
+    },
+    {
+      "page_number": 2,
+      "page_type": "card-inside",
+      "title": "Warm Wishes",
+      "concept": "A quiet, coordinated interior greeting panel with a small festive continuation of the cycling scene and ample space to write.",
+      "instructions": null,
+      "artwork_description": "A warm cream interior panel with the printed greeting centred in the upper half: “Wishing you a very merry Christmas”. Along the bottom edge, show a small simplified vignette of Father Christmas’s parked bicycle beside a glowing shopfront, with two parcels, a tiny spruce tree and a few scattered gold stars. Leave the centre and lower-middle area mostly blank for a personal message.",
+      "generation_prompt": "Exact title text: “Wishing you a very merry Christmas”. Card inside panel with a warm cream writing area, a small bottom-edge vignette of a parked parcel-filled bicycle beside a glowing shopfront, two wrapped parcels, tiny spruce tree and a few gold stars; leave broad uncluttered space for a handwritten message.",
+      "production_notes": "Verify the greeting text exactly, including lower-case “very merry Christmas”. Ensure the central and lower-middle writing area remains unillustrated with sufficient contrast for pen ink. Position artwork away from the fold line."
+    },
+    {
+      "page_number": 3,
+      "page_type": "card-back",
+      "title": "Night Shift",
+      "concept": "A restrained back-panel sign-off that echoes the joyful night-time journey without competing with the front.",
+      "instructions": null,
+      "artwork_description": "A mostly cream back panel with a small circular midnight-blue vignette near the lower third: a distant Father Christmas silhouette riding his bicycle beneath a single string of fairy lights, passing simplified snowy rooftops. Above it, add a small hand-lettered line reading “Night shift complete”. No branding or logo.",
+      "generation_prompt": "Exact title text: “Night shift complete”. Card back panel with a mostly warm cream field and a small circular midnight-blue vignette near the lower third: distant Father Christmas silhouette cycling beneath one string of fairy lights past simplified snowy rooftops; no logo, no additional text.",
+      "production_notes": "Verify the text is exactly “Night shift complete”. Keep the panel deliberately minimal and do not add branding. Include the separate printing and folding guide as an unillustrated deliverable component; it is not an artwork page."
+    }
+  ],
+  "proofs": {
+    "selected_pages": [
+      {
+        "page_number": 1,
+        "role": "main-style",
+        "reason": "First content page (card-front): sets the core illustration style."
+      },
+      {
+        "page_number": 2,
+        "role": "different-composition",
+        "reason": "A different page type (card-inside) tests a different layout and activity structure."
+      },
+      {
+        "page_number": 3,
+        "role": "consistency-check",
+        "reason": "A later page (card-back, p3) checks the shared style stays consistent across the product."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "dir": "proofs/attempt-01",
+        "reason": "initial",
+        "direction_version": 1,
+        "started_at": "2026-09-28T18:57:41.194Z",
+        "finished_at": "2026-09-28T18:58:21.964Z",
+        "status": "complete",
+        "images": [
+          {
+            "file": "proofs/attempt-01/proof-01.png",
+            "page_number": 1,
+            "prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.\n\nSTYLE PARAMETERS: illustration style: Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.; line weight: Fine crisp ink-like accents with varied, restrained weight.; line quality: Slightly organic hand-drawn contours with neat, confident finishing details.; detail level: Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.; character language: Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.; background density: Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.; composition: Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.; palette: Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.; colour mode: full colour; shading: Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.; texture: Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.; mood: Joyful, brisk, cosy and warmly nostalgic..\n\nPAGE 1 of \"Father Christmas on the Night Shift\" (card-front): Exact title text: “Merry Christmas”. Portrait card front: original Father Christmas cycling diagonally across the lower half of a twinkling midnight city street, parcel-filled bicycle, trailing fairy lights overhead, glowing shop windows, snowy rooftops and open cobalt sky in the upper third for the hand-lettered greeting.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs; Photorealism or 3D-rendered plastic surfaces; Overly childish cartoon proportions or exaggerated facial features; Cluttered backgrounds that compete with the greeting; Harsh neon colours, muddy shadows or heavy digital gradients; Misspelled, distorted or illegible typography; Fine details too small or low-contrast for home printing.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-28T18:57:56.864Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-02.png",
+            "page_number": 2,
+            "prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.\n\nSTYLE PARAMETERS: illustration style: Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.; line weight: Fine crisp ink-like accents with varied, restrained weight.; line quality: Slightly organic hand-drawn contours with neat, confident finishing details.; detail level: Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.; character language: Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.; background density: Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.; composition: Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.; palette: Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.; colour mode: full colour; shading: Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.; texture: Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.; mood: Joyful, brisk, cosy and warmly nostalgic..\n\nPAGE 2 of \"Father Christmas on the Night Shift\" (card-inside): Exact title text: “Wishing you a very merry Christmas”. Card inside panel with a warm cream writing area, a small bottom-edge vignette of a parked parcel-filled bicycle beside a glowing shopfront, two wrapped parcels, tiny spruce tree and a few gold stars; leave broad uncluttered space for a handwritten message.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs; Photorealism or 3D-rendered plastic surfaces; Overly childish cartoon proportions or exaggerated facial features; Cluttered backgrounds that compete with the greeting; Harsh neon colours, muddy shadows or heavy digital gradients; Misspelled, distorted or illegible typography; Fine details too small or low-contrast for home printing.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-28T18:58:08.744Z"
+          },
+          {
+            "file": "proofs/attempt-01/proof-03.png",
+            "page_number": 3,
+            "prompt": "Contemporary hand-painted gouache illustration with visible warm paper grain, layered opaque shapes, softly dry-brushed edges and crisp fine ink-like accents. Use a festive jewel-and-cream palette with cobalt and spruce shadows, cranberry notes and luminous gold highlights; gentle painted shading, warm practical glows, expressive rounded character design, refined hand-lettered accents and an upbeat, cosy printed-card finish.\n\nSTYLE PARAMETERS: illustration style: Richly textured contemporary gouache illustration with layered painted shapes and refined editorial charm.; line weight: Fine crisp ink-like accents with varied, restrained weight.; line quality: Slightly organic hand-drawn contours with neat, confident finishing details.; detail level: Moderate-to-high detail concentrated around the focal storytelling elements; supporting areas use simplified layered forms.; character language: Friendly, stylised human figures with softly rounded proportions, expressive faces and lively, readable gestures.; background density: Atmospheric medium-density surroundings built from simplified repeating forms, with carefully preserved breathing room for the greeting.; composition: Clear focal hierarchy with an energetic directional flow, a generously uncluttered area for typography, and balanced decorative framing details.; palette: Festive jewel tones balanced by warm cream, with deep blue-green shadows, cranberry accents and luminous golden highlights.; colour mode: full colour; shading: Soft opaque gouache shading, gentle cast shadows and small warm highlights; no harsh digital gradients.; texture: Visible warm paper grain, lightly dry-brushed paint edges and subtle printed-card tactility.; mood: Joyful, brisk, cosy and warmly nostalgic..\n\nPAGE 3 of \"Father Christmas on the Night Shift\" (card-back): Exact title text: “Night shift complete”. Card back panel with a mostly warm cream field and a small circular midnight-blue vignette near the lower third: distant Father Christmas silhouette cycling beneath one string of fairy lights past simplified snowy rooftops; no logo, no additional text.\n\nCANVAS: A single portrait design with an illustrated background that is part of the artwork. The artwork runs to every edge (full bleed). Keep all text and key elements inside a comfortable inner safe area. It must look like a finished, retail-quality greeting card design, not a colouring page or worksheet. Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message. Any printed text must be short, correctly spelled and exactly as quoted.\n\nDO NOT INCLUDE: Any resemblance to existing branded Father Christmas depictions, logos or recognisable card designs; Photorealism or 3D-rendered plastic surfaces; Overly childish cartoon proportions or exaggerated facial features; Cluttered backgrounds that compete with the greeting; Harsh neon colours, muddy shadows or heavy digital gradients; Misspelled, distorted or illegible typography; Fine details too small or low-contrast for home printing.",
+            "model": "gpt-image-2.5-flare",
+            "size": "1024x1536",
+            "generated_at": "2026-09-28T18:58:21.958Z"
+          }
+        ],
+        "error": null
+      }
+    ]
+  },
+  "direction_feedback": [],
+  "pending_input": null,
+  "review": {
+    "nonce": "f69fb7373a15",
+    "keyboard_message_ids": [
+      199,
+      204,
+      211,
+      216,
+      228
+    ]
+  },
+  "lock": null,
+  "last_error": null,
+  "api_usage": [
+    {
+      "step": "ideas",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2576,
+        "input_tokens_details": {
+          "cache_write_tokens": 2573,
+          "cached_tokens": 0
+        },
+        "output_tokens": 1647,
+        "output_tokens_details": {
+          "reasoning_tokens": 516
+        },
+        "total_tokens": 4223
+      },
+      "at": "2026-09-28T18:55:54.862Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 408,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 408
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 566
+      },
+      "at": "2026-09-28T18:56:21.069Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 408,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 408
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 566
+      },
+      "at": "2026-09-28T18:56:34.677Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "concept-preview",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 407,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 407
+        },
+        "output_tokens": 158,
+        "output_tokens_details": {
+          "image_tokens": 158,
+          "text_tokens": 0
+        },
+        "total_tokens": 565
+      },
+      "at": "2026-09-28T18:56:45.449Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "creative-direction",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2652,
+        "input_tokens_details": {
+          "cache_write_tokens": 2649,
+          "cached_tokens": 0
+        },
+        "output_tokens": 463,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3115
+      },
+      "at": "2026-09-28T18:57:17.441Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "specification",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 2228,
+        "input_tokens_details": {
+          "cache_write_tokens": 2225,
+          "cached_tokens": 0
+        },
+        "output_tokens": 826,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3054
+      },
+      "at": "2026-09-28T18:57:27.139Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 580,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 580
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 923
+      },
+      "at": "2026-09-28T18:57:41.197Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 583,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 583
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 926
+      },
+      "at": "2026-09-28T18:57:56.869Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "proof-image",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 572,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 572
+        },
+        "output_tokens": 343,
+        "output_tokens_details": {
+          "image_tokens": 343,
+          "text_tokens": 0
+        },
+        "total_tokens": 915
+      },
+      "at": "2026-09-28T18:58:08.750Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "listing",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 3858,
+        "input_tokens_details": {
+          "cache_write_tokens": 3855,
+          "cached_tokens": 0
+        },
+        "output_tokens": 2495,
+        "output_tokens_details": {
+          "reasoning_tokens": 1537
+        },
+        "total_tokens": 6353
+      },
+      "at": "2026-09-28T19:55:45.374Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-copy",
+      "model": "gpt-5.6-terra",
+      "kind": "text",
+      "usage": {
+        "input_tokens": 1217,
+        "input_tokens_details": {
+          "cache_write_tokens": 1214,
+          "cached_tokens": 0
+        },
+        "output_tokens": 236,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1453
+      },
+      "at": "2026-09-28T19:56:20.167Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 242,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 242
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 681
+      },
+      "at": "2026-09-28T19:56:25.653Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 255,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 255
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 694
+      },
+      "at": "2026-09-28T19:56:37.334Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 251,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 251
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 690
+      },
+      "at": "2026-09-28T19:56:48.967Z",
+      "outcome": "ok",
+      "error": null
+    },
+    {
+      "step": "marketing-scene",
+      "model": "gpt-image-2.5-flare",
+      "kind": "image",
+      "usage": {
+        "input_tokens": 227,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 227
+        },
+        "output_tokens": 439,
+        "output_tokens_details": {
+          "image_tokens": 439,
+          "text_tokens": 0
+        },
+        "total_tokens": 666
+      },
+      "at": "2026-09-28T19:57:02.287Z",
+      "outcome": "ok",
+      "error": null
+    }
+  ],
+  "creative_approved_at": "2026-09-28T18:58:32.221Z",
+  "created_at": "2026-09-28T18:55:42.349Z",
+  "updated_at": "2026-09-28T20:22:57.202Z",
+  "canvas": {
+    "orientation": "portrait",
+    "background": "illustrated",
+    "edge": "full-bleed",
+    "format_notes": "Create a folded portrait card with an illustrated front and back, and a warm cream inside panel with generous clear space for a handwritten message."
+  },
+  "production": {
+    "handoff": {
+      "file": "production/handoff.json",
+      "sha256": "331866f702b71f5f1f87705b4ebbccc5bdd9b2ce0340c8de91634196c6028dd3"
+    },
+    "adapter": {
+      "format": "greeting-card",
+      "version": 2
+    },
+    "build": {
+      "record": "production/build-record.json",
+      "sha256": "ddb20608e0f026f884aa6aa2b080676eb00db6f60bea0b958a250df6b8c6c052",
+      "built_at": "2026-09-28T18:59:11.611Z"
+    },
+    "qc": {
+      "passed": true,
+      "report": "production/qc-report.json",
+      "at": "2026-09-28T18:59:11.614Z"
+    },
+    "approved_at": "2026-09-28T18:59:24.545Z"
+  },
+  "marketing": {
+    "listing": {
+      "file": "marketing/listing.json",
+      "sha256": "98f94524a82b71bd1d5947bd15acf6390990e335347ca0eaaae1f630181e00a1"
+    },
+    "plan": {
+      "file": "marketing/plan.json",
+      "sha256": "f75e3ef51ca42db999c04dc1e675bd2919e1f0bb9b3b835e192aa3336b229b4d"
+    },
+    "images": {
+      "count": 8,
+      "dir": "marketing/images",
+      "digest": "68517c4b4d6018dd7e787b60c82ea781f3d883cabb673ecccfbad80c5c295cc8"
+    },
+    "qc": {
+      "passed": true,
+      "report": "marketing/qc.json",
+      "at": "2026-09-28T20:22:57.198Z"
+    },
+    "pending_scope": null,
+    "approved_at": null
+  }
+}

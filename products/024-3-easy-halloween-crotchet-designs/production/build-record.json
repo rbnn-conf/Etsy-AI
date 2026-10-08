@@ -1,0 +1,1349 @@
+{
+  "schema_version": 2,
+  "product_id": "024",
+  "handoff_sha256": "04e07960400ba5b670697cfd1e72d429aeb32d9369fe7cbe0202e83ad811996b",
+  "adapter": {
+    "format": "crochet-pattern-bundle",
+    "design": "moonlit",
+    "design_name": "Moonlit",
+    "version": 2
+  },
+  "image_encoding": {
+    "img": "png"
+  },
+  "package": "LumiumX-Little-Halloween-Costume-Accessories",
+  "variants": [
+    "A4",
+    "US-Letter",
+    "A4-Individual-Patterns",
+    "US-Letter-Individual-Patterns",
+    "Guide"
+  ],
+  "card_variants": null,
+  "previews": [
+    {
+      "rel": "A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+      "page": 1,
+      "label": "Cover (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+      "page": 1,
+      "label": "Pattern index (A4)"
+    },
+    {
+      "rel": "A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf",
+      "page": 1,
+      "label": "First pattern (A4)"
+    },
+    {
+      "rel": "A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+      "page": 1,
+      "label": "Materials and tools (A4)"
+    }
+  ],
+  "outputs": {
+    "START-HERE-Printing-and-Crochet-Guide.pdf": {
+      "kind": "guide",
+      "variant": "Guide",
+      "card_variant": null,
+      "sha256": "958502359bd225a01f1d1a88949f3003a1c9697d9db399cfba89afd0a7050825",
+      "bytes": 28966,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "guide",
+        "patterns": []
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "sha256": "a556dd6be834bfcb32c4a1962da681dd6f365ad8068304f4f45896508aab6f52",
+      "bytes": 15176401,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-02/proof-01.png",
+          "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-02/proof-02.png",
+          "sha256": "2550059812bf33295aa625afe6e5264158874267903c4aea8670432912c3cfcd"
+        },
+        {
+          "asset": "crochet-preview-bat-hair-clip",
+          "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+          "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01"
+        },
+        {
+          "asset": "crochet-preview-witch-hat-brooch",
+          "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+          "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a"
+        },
+        {
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+          "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-02/proof-03.png",
+          "sha256": "d9ae9a6fb8fc1c7ce819029f02066e31116e8c976a1251fafe1bf2dd7e622b3b"
+        }
+      ],
+      "expect": {
+        "pages": 15,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "bundle-pdf",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": [
+        {
+          "where": "cover hero artwork",
+          "page": 1,
+          "asset": "proof-01",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            189.03,
+            283.55
+          ],
+          "offset_mm": [
+            10.48,
+            5.21
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 138,
+          "visible_mm": [
+            150,
+            170.13
+          ],
+          "visible_offset_mm": [
+            30,
+            52
+          ]
+        },
+        {
+          "where": "welcome collection overview artwork",
+          "page": 2,
+          "asset": "proof-02",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            79.17,
+            118.75
+          ],
+          "offset_mm": [
+            112.42,
+            175.37
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 329,
+          "visible_mm": [
+            76,
+            78
+          ],
+          "visible_offset_mm": [
+            114,
+            191
+          ]
+        },
+        {
+          "where": "pattern bat-hair-clip finished-item preview",
+          "page": 6,
+          "asset": "crochet-preview-bat-hair-clip",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            127,
+            200
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            134,
+            200
+          ]
+        },
+        {
+          "where": "pattern witch-hat-brooch finished-item preview",
+          "page": 9,
+          "asset": "crochet-preview-witch-hat-brooch",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            127,
+            200
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            134,
+            200
+          ]
+        },
+        {
+          "where": "pattern candy-corn-bag-charm finished-item preview",
+          "page": 12,
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            127,
+            200
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            134,
+            200
+          ]
+        },
+        {
+          "where": "back page artwork",
+          "page": 15,
+          "asset": "proof-03",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            136.17,
+            204.26
+          ],
+          "offset_mm": [
+            36.91,
+            13.81
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 191,
+          "visible_mm": [
+            78,
+            96
+          ],
+          "visible_offset_mm": [
+            66,
+            66.91
+          ]
+        }
+      ]
+    },
+    "A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "sha256": "ecab19d640a3d8b85033be6a0fa5609df33a7278ab04724dd8784349a7b2afc8",
+      "bytes": 27746,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "pattern-index",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "sha256": "62ea3ac6c9b0fa99ea959a30351277a20d04cf4fb386026d82a6e8f4ddba039a",
+      "bytes": 30101,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "materials-reference",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": []
+    },
+    "A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4",
+      "card_variant": null,
+      "sha256": "d7f9ce4c199ced1e319b2bb0afa5829ba70cb274a846464835e65dd25d8eb6b2",
+      "bytes": 27964,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "abbreviations-reference",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": []
+    },
+    "A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4-Individual-Patterns",
+      "card_variant": null,
+      "sha256": "6b37e40b512b4ba9d7670a12906c5d0f27ad08ba784c61c63458c8717c3f299c",
+      "bytes": 2234107,
+      "sources": [
+        {
+          "asset": "crochet-preview-bat-hair-clip",
+          "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+          "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "pattern-pdf",
+        "patterns": [
+          "bat-hair-clip"
+        ]
+      },
+      "placements": [
+        {
+          "where": "pattern bat-hair-clip finished-item preview",
+          "page": 1,
+          "asset": "crochet-preview-bat-hair-clip",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            127,
+            200
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            134,
+            200
+          ]
+        }
+      ]
+    },
+    "A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4-Individual-Patterns",
+      "card_variant": null,
+      "sha256": "304185524f707cf06b99769ae396fac9d8953d1c06200b6f15bf1bca2d04d8d9",
+      "bytes": 2400837,
+      "sources": [
+        {
+          "asset": "crochet-preview-witch-hat-brooch",
+          "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+          "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "pattern-pdf",
+        "patterns": [
+          "witch-hat-brooch"
+        ]
+      },
+      "placements": [
+        {
+          "where": "pattern witch-hat-brooch finished-item preview",
+          "page": 1,
+          "asset": "crochet-preview-witch-hat-brooch",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            127,
+            200
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            134,
+            200
+          ]
+        }
+      ]
+    },
+    "A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf": {
+      "kind": "pdf",
+      "variant": "A4-Individual-Patterns",
+      "card_variant": null,
+      "sha256": "a93a61d7750a804ac11cd8d064b316d91f2a8a2184b2129af3eb5fbd405c0d41",
+      "bytes": 2260174,
+      "sources": [
+        {
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+          "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f"
+        }
+      ],
+      "expect": {
+        "pages": 2,
+        "size_mm": [
+          210,
+          297
+        ],
+        "orientation": "portrait",
+        "role": "pattern-pdf",
+        "patterns": [
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": [
+        {
+          "where": "pattern candy-corn-bag-charm finished-item preview",
+          "page": 1,
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "sheet_mm": [
+            210,
+            297
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            127,
+            200
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            134,
+            200
+          ]
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "sha256": "592ad0cf85574974f54e23bba8b97b6151b87cecc50e7611c7104b9623721979",
+      "bytes": 15177313,
+      "sources": [
+        {
+          "asset": "proof-01",
+          "file": "proofs/attempt-02/proof-01.png",
+          "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b"
+        },
+        {
+          "asset": "proof-02",
+          "file": "proofs/attempt-02/proof-02.png",
+          "sha256": "2550059812bf33295aa625afe6e5264158874267903c4aea8670432912c3cfcd"
+        },
+        {
+          "asset": "crochet-preview-bat-hair-clip",
+          "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+          "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01"
+        },
+        {
+          "asset": "crochet-preview-witch-hat-brooch",
+          "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+          "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a"
+        },
+        {
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+          "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f"
+        },
+        {
+          "asset": "proof-03",
+          "file": "proofs/attempt-02/proof-03.png",
+          "sha256": "d9ae9a6fb8fc1c7ce819029f02066e31116e8c976a1251fafe1bf2dd7e622b3b"
+        }
+      ],
+      "expect": {
+        "pages": 16,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "bundle-pdf",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": [
+        {
+          "where": "cover hero artwork",
+          "page": 1,
+          "asset": "proof-01",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            169.48,
+            254.22
+          ],
+          "offset_mm": [
+            23.21,
+            10.05
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 153,
+          "visible_mm": [
+            140.33,
+            152.53
+          ],
+          "visible_offset_mm": [
+            37.79,
+            52
+          ]
+        },
+        {
+          "where": "welcome collection overview artwork",
+          "page": 2,
+          "asset": "proof-02",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            79.17,
+            118.75
+          ],
+          "offset_mm": [
+            118.32,
+            157.77
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 329,
+          "visible_mm": [
+            76,
+            78
+          ],
+          "visible_offset_mm": [
+            119.9,
+            173.4
+          ]
+        },
+        {
+          "where": "pattern bat-hair-clip finished-item preview",
+          "page": 6,
+          "asset": "crochet-preview-bat-hair-clip",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            132.9,
+            182.4
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            139.9,
+            182.4
+          ]
+        },
+        {
+          "where": "pattern witch-hat-brooch finished-item preview",
+          "page": 9,
+          "asset": "crochet-preview-witch-hat-brooch",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            132.9,
+            182.4
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            139.9,
+            182.4
+          ]
+        },
+        {
+          "where": "pattern candy-corn-bag-charm finished-item preview",
+          "page": 12,
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            132.9,
+            182.4
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            139.9,
+            182.4
+          ]
+        },
+        {
+          "where": "back page artwork",
+          "page": 16,
+          "asset": "proof-03",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            136.17,
+            204.26
+          ],
+          "offset_mm": [
+            39.86,
+            4.84
+          ],
+          "source_px": [
+            1024,
+            1536
+          ],
+          "source_aspect": 0.66667,
+          "placed_aspect": 0.66667,
+          "effective_ppi": 191,
+          "visible_mm": [
+            78,
+            96
+          ],
+          "visible_offset_mm": [
+            68.95,
+            57.95
+          ]
+        }
+      ]
+    },
+    "US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "sha256": "f55d8204b53118294d8b184799d745f39bc1af50a82ed74924d8b6aa64d3b19d",
+      "bytes": 27720,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "pattern-index",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": []
+    },
+    "US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "sha256": "89700c740a82fa0b6c09d9691110d86a093521dac504876602eeed1444e07429",
+      "bytes": 30079,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "materials-reference",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": []
+    },
+    "US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter",
+      "card_variant": null,
+      "sha256": "01edc99a6a68c6a3a470c5e842b9e2e25e5a98a8ddaad04034289e9fb2e111c2",
+      "bytes": 27961,
+      "sources": [],
+      "expect": {
+        "pages": 1,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "abbreviations-reference",
+        "patterns": [
+          "bat-hair-clip",
+          "witch-hat-brooch",
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": []
+    },
+    "US-Letter-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter-Individual-Patterns",
+      "card_variant": null,
+      "sha256": "0e942e55843207448333844abc08a1f16be3af0c8c3be8bbc6ff98a04406bcf3",
+      "bytes": 2233951,
+      "sources": [
+        {
+          "asset": "crochet-preview-bat-hair-clip",
+          "file": "visuals/crochet/previews/01-bat-hair-clip.png",
+          "sha256": "8f5d8c5b77ed04f6a4b493b655dfd6fb6607b85575071f1dfc990083f4a2ed01"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "pattern-pdf",
+        "patterns": [
+          "bat-hair-clip"
+        ]
+      },
+      "placements": [
+        {
+          "where": "pattern bat-hair-clip finished-item preview",
+          "page": 1,
+          "asset": "crochet-preview-bat-hair-clip",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            132.9,
+            182.4
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            139.9,
+            182.4
+          ]
+        }
+      ]
+    },
+    "US-Letter-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter-Individual-Patterns",
+      "card_variant": null,
+      "sha256": "4d9f2ec61eea9277e495abbe8992328f8019e60b3511f89d4c629b98196b87af",
+      "bytes": 2400823,
+      "sources": [
+        {
+          "asset": "crochet-preview-witch-hat-brooch",
+          "file": "visuals/crochet/previews/02-witch-hat-brooch.png",
+          "sha256": "3d24a09884edecbefb2b4b53bbd7412e3364925dd546e2acc758fae78b88647a"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "pattern-pdf",
+        "patterns": [
+          "witch-hat-brooch"
+        ]
+      },
+      "placements": [
+        {
+          "where": "pattern witch-hat-brooch finished-item preview",
+          "page": 1,
+          "asset": "crochet-preview-witch-hat-brooch",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            132.9,
+            182.4
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            139.9,
+            182.4
+          ]
+        }
+      ]
+    },
+    "US-Letter-Individual-Patterns/03-Candy-Corn-Bag-Charm-US-Letter.pdf": {
+      "kind": "pdf",
+      "variant": "US-Letter-Individual-Patterns",
+      "card_variant": null,
+      "sha256": "2044fec913248271197d4e1e5555dbe425e9edf7bfbc07abebabb7bad1678955",
+      "bytes": 2261264,
+      "sources": [
+        {
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "file": "visuals/crochet/previews/03-candy-corn-bag-charm.png",
+          "sha256": "9ebe44f9be97b0d53fd7f35a47cc17847c3edd7d15cb739bb8308596af70c81f"
+        }
+      ],
+      "expect": {
+        "pages": 3,
+        "size_mm": [
+          215.9,
+          279.4
+        ],
+        "orientation": "portrait",
+        "role": "pattern-pdf",
+        "patterns": [
+          "candy-corn-bag-charm"
+        ]
+      },
+      "placements": [
+        {
+          "where": "pattern candy-corn-bag-charm finished-item preview",
+          "page": 1,
+          "asset": "crochet-preview-candy-corn-bag-charm",
+          "sheet_mm": [
+            215.9,
+            279.4
+          ],
+          "placed_mm": [
+            70,
+            70
+          ],
+          "offset_mm": [
+            132.9,
+            182.4
+          ],
+          "source_px": [
+            1024,
+            1024
+          ],
+          "source_aspect": 1,
+          "placed_aspect": 1,
+          "effective_ppi": 372,
+          "visible_mm": [
+            56,
+            70
+          ],
+          "visible_offset_mm": [
+            139.9,
+            182.4
+          ]
+        }
+      ]
+    }
+  },
+  "zip": null,
+  "crochet": {
+    "design": "moonlit",
+    "pattern_count": 3,
+    "terminology": "US",
+    "pdf_images": "png",
+    "source": {
+      "file": "crochet/patterns.json",
+      "sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+    },
+    "pages": {
+      "A4": 15,
+      "US-Letter": 16
+    },
+    "integrity": {
+      "origin": "ai-assisted-draft",
+      "origins": {
+        "ai-assisted-draft": 3
+      },
+      "verification": {
+        "unverified": 3,
+        "tested": 0
+      },
+      "all_tested": false,
+      "any_ai_assisted": true,
+      "tested_pattern_ids": []
+    }
+  },
+  "stage3_handoff": {
+    "product_format": "crochet-pattern-bundle",
+    "product_type": "Crochet pattern bundle",
+    "pattern_count": 3,
+    "terminology": "US",
+    "skill_levels": [
+      "easy"
+    ],
+    "categories": [
+      "hair accessory",
+      "brooch",
+      "bag charm"
+    ],
+    "pattern_names": [
+      "Moonlit Bat Hair Clip",
+      "Lavender Witch-Hat Brooch",
+      "Candy-Corn Bag Charm"
+    ],
+    "integrity": {
+      "origin": "ai-assisted-draft",
+      "origins": {
+        "ai-assisted-draft": 3
+      },
+      "verification": {
+        "unverified": 3,
+        "tested": 0
+      },
+      "all_tested": false,
+      "any_ai_assisted": true,
+      "tested_pattern_ids": [],
+      "approved_for_production": {
+        "approved_at": "2026-10-07T23:44:26.537Z",
+        "by": "@romg_o",
+        "source_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7"
+      },
+      "marketing_rules": [
+        "Approved for production is not tested: say \"tested\" only when integrity.all_tested is true.",
+        "Artwork is an AI-generated illustration (Stage 1), never a photograph of an item made from these patterns.",
+        "Never claim professionally tested, guaranteed, error-free or pattern-tester approved."
+      ]
+    },
+    "artwork": {
+      "hero": {
+        "asset": "proof-01",
+        "file": "proofs/attempt-02/proof-01.png",
+        "sha256": "c944789ab83860696ae51cfd32fabf22680b199c1f53c06fa78886c91325b52b",
+        "width": 1024,
+        "height": 1536,
+        "kind": "illustration",
+        "photographic_evidence": false
+      }
+    },
+    "deliverables": {
+      "papers": [
+        "A4",
+        "US Letter"
+      ],
+      "complete_bundle": true,
+      "individual_pattern_pdfs": 3,
+      "pattern_index": true,
+      "materials_reference": true,
+      "abbreviations_reference": true,
+      "step_by_step_instructions": true,
+      "printing_guide": true,
+      "pages_per_bundle": {
+        "A4": 15,
+        "US-Letter": 16
+      },
+      "files": 15
+    },
+    "note": "Real product imagery for marketing must be true renders of these customer PDFs or the approved Stage 1 illustrations, labelled as illustrations.",
+    "visuals": {
+      "visual_match_status": "internally_checked",
+      "physically_verified": false,
+      "patterns_sha256": "7d5e6ffc5391cc74633b71d5698ab62a2f60825a419bef98e05b9e55e2b8c9c7",
+      "source": {
+        "file": "creative/visual-specs.json",
+        "sha256": "120a1e45c2ad7e22d283495915d5104b461312ef153732da5517409a36267952"
+      },
+      "pictured": {
+        "combination": "Costume and Treat-Bag Trio",
+        "items": [
+          {
+            "pattern_id": "bat-hair-clip",
+            "pattern_name": "Moonlit Bat Hair Clip",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "witch-hat-brooch",
+            "pattern_name": "Lavender Witch-Hat Brooch",
+            "quantity": 1
+          },
+          {
+            "pattern_id": "candy-corn-bag-charm",
+            "pattern_name": "Candy-Corn Bag Charm",
+            "quantity": 1
+          }
+        ]
+      },
+      "pattern_facts": [
+        {
+          "pattern_id": "bat-hair-clip",
+          "pattern_name": "Moonlit Bat Hair Clip",
+          "motif_type": "hair accessory",
+          "flower_type": null,
+          "finished_size": "About 7 cm wide, excluding the clip",
+          "finished_width_cm": 7,
+          "finished_height_cm": null,
+          "yarn_weight": "3-light",
+          "hook_mm": 3.5,
+          "fibres": [],
+          "colour_roles": [
+            {
+              "role": "Light yarn for bat, wings and ears",
+              "colour": "Black"
+            },
+            {
+              "role": "Light yarn for embroidered eyes",
+              "colour": "White"
+            }
+          ],
+          "petal_count": null,
+          "petal_layer_count": null,
+          "petal_shape": null,
+          "centre": "present, type not stated",
+          "leaves": "none",
+          "stem": "none",
+          "embellishments": [
+            "embroidery"
+          ],
+          "unknown": []
+        },
+        {
+          "pattern_id": "witch-hat-brooch",
+          "pattern_name": "Lavender Witch-Hat Brooch",
+          "motif_type": "flower",
+          "flower_type": "lavender",
+          "finished_size": "About 6 cm wide and 6 cm tall",
+          "finished_width_cm": 6,
+          "finished_height_cm": 6,
+          "yarn_weight": "3-light",
+          "hook_mm": 3.5,
+          "fibres": [],
+          "colour_roles": [
+            {
+              "role": "Light yarn for hat and brim",
+              "colour": "Lavender"
+            }
+          ],
+          "petal_count": null,
+          "petal_layer_count": null,
+          "petal_shape": null,
+          "centre": "present, type not stated",
+          "leaves": "none",
+          "stem": "none",
+          "embellishments": [],
+          "unknown": [
+            "petal_count",
+            "petal_layer_count",
+            "petal_shape",
+            "centre_type"
+          ]
+        },
+        {
+          "pattern_id": "candy-corn-bag-charm",
+          "pattern_name": "Candy-Corn Bag Charm",
+          "motif_type": "bag charm",
+          "flower_type": null,
+          "finished_size": "About 6 cm tall, excluding the hanging loop.",
+          "finished_width_cm": null,
+          "finished_height_cm": 6,
+          "yarn_weight": "3-light",
+          "hook_mm": 3.5,
+          "fibres": [],
+          "colour_roles": [
+            {
+              "role": "Light yarn for the pointed top",
+              "colour": "White"
+            },
+            {
+              "role": "Light yarn for the middle stripe",
+              "colour": "Orange"
+            },
+            {
+              "role": "Light yarn for the wide base",
+              "colour": "Yellow"
+            }
+          ],
+          "petal_count": null,
+          "petal_layer_count": null,
+          "petal_shape": null,
+          "centre": "none",
+          "leaves": "none",
+          "stem": "none",
+          "embellishments": [],
+          "unknown": [
+            "finished_width"
+          ]
+        }
+      ]
+    }
+  },
+  "zip_parts": [
+    {
+      "part": 1,
+      "of": 4,
+      "name": "LumiumX-Little-Halloween-Costume-Accessories-Part-1.zip",
+      "file": "production/package/LumiumX-Little-Halloween-Costume-Accessories-Part-1.zip",
+      "sha256": "fe00dff9cb49ec34f80a50b34daed82d5039cd75216fd82c4a573b3ae60f1838",
+      "bytes": 17523278,
+      "entries_digest": "e7455970ece0230a79c044746b1fe683c027e7560682980503ccf50ffbe0fef9",
+      "entries": [
+        "LumiumX-Little-Halloween-Costume-Accessories/START-HERE-Printing-and-Crochet-Guide.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-A4.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-A4.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-A4.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/A4/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-A4.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-A4.pdf"
+      ]
+    },
+    {
+      "part": 2,
+      "of": 4,
+      "name": "LumiumX-Little-Halloween-Costume-Accessories-Part-2.zip",
+      "file": "production/package/LumiumX-Little-Halloween-Costume-Accessories-Part-2.zip",
+      "sha256": "eac153d4e57583db28b855614079da25cb04fb3707b518169bdd9a422a9b14ff",
+      "bytes": 4660052,
+      "entries_digest": "0204d68384073ed355cd8f75a9d9368edee99577bf69c770a773228150cb9b48",
+      "entries": [
+        "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-A4.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/A4-Individual-Patterns/03-Candy-Corn-Bag-Charm-A4.pdf"
+      ]
+    },
+    {
+      "part": 3,
+      "of": 4,
+      "name": "LumiumX-Little-Halloween-Costume-Accessories-Part-3.zip",
+      "file": "production/package/LumiumX-Little-Halloween-Costume-Accessories-Part-3.zip",
+      "sha256": "e354b556b008d3388cd48b4d36debe476f02e4eee090d01e804be674f2b7aede",
+      "bytes": 17495861,
+      "entries_digest": "38c2de97c9bf473047853625c4df2b7b3e34fe912667298c6277acf4c549747d",
+      "entries": [
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Complete-Bundle-US-Letter.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Pattern-Index-US-Letter.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Materials-and-Tools-US-Letter.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter/LumiumX-Little-Halloween-Costume-Accessories-Abbreviations-US-Letter.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/01-Moonlit-Bat-Hair-Clip-US-Letter.pdf"
+      ]
+    },
+    {
+      "part": 4,
+      "of": 4,
+      "name": "LumiumX-Little-Halloween-Costume-Accessories-Part-4.zip",
+      "file": "production/package/LumiumX-Little-Halloween-Costume-Accessories-Part-4.zip",
+      "sha256": "1445d5f253ac20f443e72e58b2ea0dc11de6c6781505e574ec64ff80a7cca8fb",
+      "bytes": 4661115,
+      "entries_digest": "30d708d4826039436453f86708bc12ed69857d197bef8c0b18ba020deb4cfc3a",
+      "entries": [
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/02-Lavender-Witch-Hat-Brooch-US-Letter.pdf",
+        "LumiumX-Little-Halloween-Costume-Accessories/US-Letter-Individual-Patterns/03-Candy-Corn-Bag-Charm-US-Letter.pdf"
+      ]
+    }
+  ]
+}

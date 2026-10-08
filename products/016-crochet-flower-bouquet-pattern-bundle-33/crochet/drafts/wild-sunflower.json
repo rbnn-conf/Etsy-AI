@@ -1,0 +1,148 @@
+{
+  "pattern_id": "wild-sunflower",
+  "name": "Wild Sunflower",
+  "category": "Wild sunflower",
+  "difficulty": "intermediate",
+  "finished_size": "About 10 cm across",
+  "yarn": [
+    {
+      "description": "Cotton yarn, raised flower centre",
+      "colour": "Chocolate brown",
+      "amount": "About 10 g"
+    },
+    {
+      "description": "Cotton yarn, petals",
+      "colour": "Golden yellow",
+      "amount": "About 12 g"
+    },
+    {
+      "description": "Cotton yarn, calyx",
+      "colour": "Leaf green",
+      "amount": "About 8 g"
+    }
+  ],
+  "yarn_weight": "3-light",
+  "hook_size": {
+    "mm": 3,
+    "us": "C/2"
+  },
+  "additional_materials": [
+    "Tapestry needle",
+    "Stitch marker",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "puff"
+  ],
+  "abbreviations": {
+    "BLO": "back loop only",
+    "ch": "chain stitch",
+    "dc": "double crochet",
+    "FLO": "front loop only",
+    "hdc": "half double crochet",
+    "inc": "increase",
+    "MR": "magic ring",
+    "puff": "puff stitch",
+    "rep": "repeat",
+    "rnd": "round",
+    "sc": "single crochet",
+    "sl st": "slip stitch",
+    "st": "stitch",
+    "yo": "yarn over"
+  },
+  "gauge": "Gauge is not critical for this flower, but it affects the finished diameter and petal firmness.",
+  "instructions": [
+    {
+      "heading": "Flower Front",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With brown yarn, work 6 sc in MR. Pull the ring closed.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "[Sc in next st, inc in next st] rep 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "[Sc in next 2 st, inc in next st] rep 6 times.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "[Puff in next st, sc in next st] rep 12 times. Fasten off brown yarn.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 6",
+          "text": "Join yellow yarn in the FLO of any rnd 5 st. Rep 12 times: sl st in next st, ch 9, sc in 2nd ch from hook, hdc in next 2 ch, dc in next 5 ch, sl st in next st. Fasten off yellow yarn.",
+          "stitch_count": null
+        },
+        {
+          "label": "Rnd 7",
+          "text": "Join yellow yarn in the BLO of any rnd 5 st. Rep 12 times: sl st in next st, ch 11, sc in 2nd ch from hook, hdc in next 2 ch, dc in next 7 ch, sl st in next st. Fasten off, leaving a 15 cm tail.",
+          "stitch_count": null
+        }
+      ]
+    },
+    {
+      "heading": "Calyx",
+      "steps": [
+        {
+          "label": "Rnd 1",
+          "text": "With green yarn, work 6 sc in MR. Pull the ring closed.",
+          "stitch_count": 6
+        },
+        {
+          "label": "Rnd 2",
+          "text": "Inc in each st around.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Rnd 3",
+          "text": "[Sc in next st, inc in next st] rep 6 times.",
+          "stitch_count": 18
+        },
+        {
+          "label": "Rnd 4",
+          "text": "[Sc in next 2 st, inc in next st] rep 6 times.",
+          "stitch_count": 24
+        },
+        {
+          "label": "Rnd 5",
+          "text": "Rep 12 times: sl st in next st, ch 7, sc in 2nd ch from hook, hdc in next 2 ch, dc in next 3 ch, sl st in next st. Fasten off, leaving a 30 cm tail for assembly.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Centre the calyx against the reverse of the flower front, with the green calyx leaves pointing outward between the yellow outer petals.",
+    "Using the long green tail, sew 12 evenly spaced whip stitches through the outer edge of green rnd 4 and the back of brown rnd 5. Keep the stitches clear of the yellow petals and secure the tail on the reverse."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off all active yarn securely, leaving the specified sewing tails before cutting the yarn.",
+    "Weave in the remaining yarn tails on the reverse side, taking care not to pull the centre out of shape.",
+    "Gently spread and curve the yellow petals outward so both petal rounds are visible.",
+    "Lightly steam-block the flower if needed, keeping the iron above the yarn rather than touching it."
+  ],
+  "notes": [
+    "puff: (yo, insert hook in indicated st, yo, pull up a loop) 3 times, yo, pull through all 7 loops.",
+    "The inner petals are worked in the FLO and the longer outer petals in the BLO of brown rnd 5, creating two distinct petal layers."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

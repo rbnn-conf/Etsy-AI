@@ -1,0 +1,9 @@
+{
+  "id": "E04",
+  "treatment": "economy",
+  "reason": "Economy v1 retains coloured pixels; fails strict one-colour charcoal requirement.",
+  "prompt": "Use the attached original only to preserve the subject 'thin-separator' and its coherent silhouette/anatomy. REDRAW as a BLACK-INK ONLY nineteenth-century copperplate line engraving. Every stroke is neutral dark charcoal R=G=B. NO gold, brown, burgundy, plum, oxblood, pink, coloured flames or coloured reflections. No coloured pixels whatsoever. Thin crisp contours and sparse widely spaced hatch marks, open transparent negative spaces, no large solid ink areas or tonal washes. Preserve refined original illustrative detail. Bottle labels stay empty. Actual transparent RGBA background, not white paper; no rectangle, shadow, lettering or signature. Complete uncropped illustration with generous transparent margin. Highest native resolution.",
+  "toolPath": "C:\\Users\\xrobi\\.codex\\generated_images\\01a0afc9-ec46-7cf1-adcb-04fbc924cdf8\\exec-c75b8491-19b7-4bd1-a279-ffdf98f96e84.png",
+  "rejectedFile": "rejected/E04-economy-v1.png",
+  "visualQc": "pending"
+}

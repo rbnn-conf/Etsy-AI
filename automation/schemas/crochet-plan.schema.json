@@ -1,0 +1,297 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Crochet pattern collection plan (ADR-041): the list of candidate patterns to draft, in order. Code checks the count against the owner's brief and that every id and name is unique.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "theme",
+    "audience",
+    "style",
+    "collection_type",
+    "role_plan",
+    "patterns",
+    "combinations"
+  ],
+  "properties": {
+    "theme": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "description": "The collection's theme in a few words, e.g. \"crochet flowers\"."
+    },
+    "audience": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 60
+      }
+    },
+    "style": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 6,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 40
+      }
+    },
+    "collection_type": {
+      "type": "string",
+      "enum": [
+        "arrangement",
+        "coordinated-set",
+        "independent"
+      ],
+      "description": "Decide this FIRST. arrangement: pieces are physically assembled into ONE composed piece (bouquet, wreath, garland, centrepiece, mobile); needs at least 3 patterns. coordinated-set: separate finished pieces used, worn or displayed together but not assembled into one (a costume set, a nursery set, a table set). independent: unrelated stand-alone pieces; combinations.items must be empty."
+    },
+    "role_plan": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "focal",
+        "secondary",
+        "filler",
+        "accent",
+        "foliage",
+        "structural"
+      ],
+      "description": "Reserve the pattern slots BEFORE writing any pattern: how many patterns take each role. The counts add up to EXACTLY the pattern count, and each pattern's role must match this plan. An arrangement needs focal >= 1, filler + accent >= 1 and foliage + structural >= 1.",
+      "properties": {
+        "focal": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        },
+        "secondary": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        },
+        "filler": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        },
+        "accent": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        },
+        "foliage": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        },
+        "structural": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        }
+      }
+    },
+    "patterns": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 60,
+      "description": "Exactly the number of patterns the owner asked for, each a genuinely different item.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "pattern_id",
+          "name",
+          "category",
+          "role",
+          "difficulty",
+          "approx_size",
+          "yarn_weight",
+          "hook_mm",
+          "construction",
+          "main_stitches",
+          "assembly_required",
+          "artwork",
+          "summary"
+        ],
+        "properties": {
+          "pattern_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]{0,59}$",
+            "description": "Unique lowercase slug, e.g. \"classic-rose\"."
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 60
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40,
+            "description": "Short lowercase category, e.g. flower, leaf, stem, bouquet."
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "focal",
+              "secondary",
+              "filler",
+              "accent",
+              "foliage",
+              "structural"
+            ],
+            "description": "Role in the collection (theme-neutral): focal (the hero / centrepiece), secondary (a supporting piece), filler (a small piece that fills gaps), accent (a small detail), foliage (leaves, greenery or equivalent framing pieces of the theme), structural (stems, vines, branches, wraps, bases or other joining pieces). Must match role_plan."
+          },
+          "difficulty": {
+            "type": "string",
+            "enum": [
+              "beginner",
+              "easy",
+              "intermediate",
+              "experienced"
+            ]
+          },
+          "approx_size": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 60,
+            "description": "Approximate finished size, e.g. \"about 7 cm across\"."
+          },
+          "yarn_weight": {
+            "type": "string",
+            "enum": [
+              "0-lace",
+              "1-super-fine",
+              "2-fine",
+              "3-light",
+              "4-medium",
+              "5-bulky",
+              "6-super-bulky",
+              "7-jumbo"
+            ]
+          },
+          "hook_mm": {
+            "type": "number",
+            "minimum": 0.5,
+            "maximum": 30
+          },
+          "construction": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "description": "How it is made, e.g. \"worked in the round, petals in one strip, rolled and sewn\"."
+          },
+          "main_stitches": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 8,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 12
+            }
+          },
+          "assembly_required": {
+            "type": "boolean",
+            "description": "True when more than one piece is made and joined."
+          },
+          "artwork": {
+            "type": "string",
+            "enum": [
+              "none",
+              "illustration",
+              "diagram-recommended"
+            ],
+            "description": "Whether the pattern would benefit from an illustration or a diagram (placed only if the owner maps one)."
+          },
+          "summary": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "description": "What the finished piece is, for the drafting step. Not an instruction."
+          }
+        }
+      }
+    },
+    "combinations": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "intro",
+        "items"
+      ],
+      "description": "Ways to use the patterns together, naming only pattern_ids from the list. arrangement: how pieces are assembled into one composition (at least one joins a focal piece with foliage or structural pieces). coordinated-set: how the pieces are used or worn together. independent: an empty items list.",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 60
+        },
+        "intro": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 300
+        },
+        "items": {
+          "type": "array",
+          "maxItems": 8,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "patterns",
+              "notes"
+            ],
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 60
+              },
+              "patterns": {
+                "type": "array",
+                "minItems": 1,
+                "maxItems": 12,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "pattern_id",
+                    "quantity"
+                  ],
+                  "properties": {
+                    "pattern_id": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "quantity": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 20
+                    }
+                  }
+                }
+              },
+              "notes": {
+                "type": "array",
+                "maxItems": 4,
+                "items": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 200
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "pattern_id": "lavender-bloom-spray",
+  "name": "Lavender Bloom Spray",
+  "category": "flower spray",
+  "difficulty": "easy",
+  "finished_size": "About 18 cm long including stem",
+  "yarn": [
+    {
+      "description": "Cotton-blend yarn for the lavender bloom",
+      "colour": "Lavender purple",
+      "amount": "About 5 g"
+    },
+    {
+      "description": "Cotton-blend yarn for the stem",
+      "colour": "Muted leaf green",
+      "amount": "About 5 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.5,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "18 cm length of 0.8 mm floral wire",
+    "Tapestry needle",
+    "Wire cutters",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc",
+    "Ldc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet",
+    "Ldc": "looped double crochet",
+    "st": "stitch",
+    "sts": "stitches",
+    "beg": "beginning"
+  },
+  "gauge": "Gauge is not critical because this is wired wall décor. A tighter gauge makes a firmer, slimmer spray.",
+  "instructions": [
+    {
+      "heading": "Stem Cover",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With green yarn, ch 36. Sc in the 2nd ch from hook, hdc in each remaining ch across. Leave a 30 cm sewing tail; cut yarn and draw the tail through the final loop.",
+          "stitch_count": 35
+        }
+      ]
+    },
+    {
+      "heading": "Tapered Bloom",
+      "steps": [
+        {
+          "label": "Row 1",
+          "text": "With purple yarn, ch 17. Dc in the 4th ch from hook and in each remaining ch across. Turn.",
+          "stitch_count": 14
+        },
+        {
+          "label": "Row 2",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn.",
+          "stitch_count": 14
+        },
+        {
+          "label": "Row 3",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn.",
+          "stitch_count": 14
+        },
+        {
+          "label": "Row 4",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 12 sts. Leave the final st unworked. Turn.",
+          "stitch_count": 13
+        },
+        {
+          "label": "Row 5",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn.",
+          "stitch_count": 13
+        },
+        {
+          "label": "Row 6",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 11 sts. Leave the final st unworked. Turn.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Row 7",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in each remaining st across. Turn.",
+          "stitch_count": 12
+        },
+        {
+          "label": "Row 8",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 10 sts. Leave the final st unworked. Turn.",
+          "stitch_count": 11
+        },
+        {
+          "label": "Row 9",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 9 sts. Leave the final st unworked. Turn.",
+          "stitch_count": 10
+        },
+        {
+          "label": "Row 10",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 8 sts. Leave the final st unworked. Turn.",
+          "stitch_count": 9
+        },
+        {
+          "label": "Row 11",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 7 sts. Leave the final st unworked. Turn.",
+          "stitch_count": 8
+        },
+        {
+          "label": "Row 12",
+          "text": "Ch 3, counts as dc; ch 3, sl st in top of beg ch-3. Ldc in the next 6 sts. Leave a 35 cm sewing tail; cut yarn and draw the tail through the final loop.",
+          "stitch_count": 7
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    "Cut an 18 cm wire length. Use wire cutters to turn each wire end into a small closed loop, preventing sharp ends from piercing the crochet.",
+    "Fold the green stem cover lengthwise around the wire, with one wire loop at the lower end. Use the green tail to whipstitch the long edges together tightly, leaving the upper 4 cm of wire uncovered.",
+    "Roll the purple bloom so its row ends meet, keeping Row 1 as the wide lower edge. Whipstitch the row ends together from Row 1 to Row 12 to form a tapered tube.",
+    "Slide the bloom tube over the uncovered upper wire. Align its Row 1 edge with the top of the green stem cover, then sew this edge securely to the stem cover with the purple tail.",
+    "Use the remaining purple tail to draw the narrow Row 12 edge snugly around the upper wire loop. Stitch through the edge twice more to secure the bloom tip."
+  ],
+  "assembly_required": true,
+  "finishing": [
+    "Fasten off all assembly yarn tails securely after the final securing stitches.",
+    "Weave the green and purple yarn tails into the reverse side of their matching crochet sections.",
+    "Gently bend the wire to give the spray a natural, slender curve without sharply creasing the stem.",
+    "Arrange the looped florets with your fingers so they sit evenly around the tapered bloom."
+  ],
+  "notes": [
+    "Ldc: dc in the indicated st, ch 3, then sl st into the top of the dc just made.",
+    "Stitch counts for bloom rows count the structural dc stitches only; the chain loops are decorative and are not counted.",
+    "To attach the spray to a wall hoop, stitch the covered stem to the hoop at two or three points using matching green yarn."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

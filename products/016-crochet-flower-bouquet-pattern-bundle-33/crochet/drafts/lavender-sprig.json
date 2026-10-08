@@ -1,0 +1,99 @@
+{
+  "pattern_id": "lavender-sprig",
+  "name": "Lavender Sprig",
+  "category": "flower",
+  "difficulty": "easy",
+  "finished_size": "About 15 cm long",
+  "yarn": [
+    {
+      "description": "Cotton yarn for clustered lavender buds",
+      "colour": "Muted lavender purple",
+      "amount": "About 5 g"
+    },
+    {
+      "description": "Cotton yarn for the covered stem",
+      "colour": "Soft leaf green",
+      "amount": "About 3 g"
+    }
+  ],
+  "yarn_weight": "2-fine",
+  "hook_size": {
+    "mm": 2.25,
+    "us": "B-1"
+  },
+  "additional_materials": [
+    "One 16 cm length of 24-gauge floral wire",
+    "Tapestry needle",
+    "Wire cutters and small pliers",
+    "Scissors"
+  ],
+  "stitches_used": [
+    "ch",
+    "sl st",
+    "sc",
+    "hdc",
+    "dc"
+  ],
+  "abbreviations": {
+    "ch": "chain",
+    "sl st": "slip stitch",
+    "sc": "single crochet",
+    "hdc": "half double crochet",
+    "dc": "double crochet"
+  },
+  "gauge": "Gauge is not critical because the wire sets the stem length. Keep the covering stitches close together so the wire does not show.",
+  "instructions": [
+    {
+      "heading": "Covered Stem",
+      "steps": [
+        {
+          "label": "Prepare wire",
+          "text": "Using pliers, bend a tiny hook at each end of the 16 cm floral wire. Press each hook flat so no sharp wire end is exposed.",
+          "stitch_count": null
+        },
+        {
+          "label": "Stem",
+          "text": "With green yarn, make a slip knot around one hooked wire end. Work 50 sc around the wire, sliding the stitches together as needed to cover the full length. Fasten off, leaving a 10 cm tail.",
+          "stitch_count": 50
+        }
+      ]
+    },
+    {
+      "heading": "Lavender Buds",
+      "steps": [
+        {
+          "label": "Top band",
+          "text": "Join lavender yarn with a sl st in the topmost green sc. On each of the next 3 green sc, make 1 bud: ch 3, work dc and hdc in the third ch from hook, sl st in the same green sc, then sl st in the next green sc. Complete this sequence 3 times.",
+          "stitch_count": null
+        },
+        {
+          "label": "Upper band",
+          "text": "On each of the next 5 green sc, make 2 buds: ch 3, work dc and hdc in the third ch from hook, sl st in the same green sc; make the same bud once more in that green sc; then sl st in the next green sc. Complete this sequence 5 times.",
+          "stitch_count": null
+        },
+        {
+          "label": "Full band",
+          "text": "On each of the next 6 green sc, make 3 buds: ch 3, work dc and hdc in the third ch from hook, sl st in the same green sc. Make this bud sequence 3 times in that green sc, then sl st in the next green sc. Complete this sequence 6 times.",
+          "stitch_count": null
+        },
+        {
+          "label": "Lower band",
+          "text": "On each of the next 4 green sc, make 2 buds: ch 3, work dc and hdc in the third ch from hook, sl st in the same green sc; make the same bud once more in that green sc; then sl st in the next green sc. Complete this sequence 4 times.",
+          "stitch_count": null
+        }
+      ]
+    }
+  ],
+  "finishing": [
+    "Fasten off the lavender yarn after the final sl st, leaving a 10 cm tail.",
+    "Weave in the lavender and green yarn tails through nearby stitches on the reverse side of the sprig.",
+    "Gently pinch and spread the bud clusters around the upper stem for a softly tapered lavender spike.",
+    "Bend the wire stem lightly by hand if desired, keeping the budded section upright."
+  ],
+  "notes": [
+    "The sprig has 39 small buds: 3 in the top band, 10 in the upper band, 18 in the full band and 8 in the lower band.",
+    "Rotate the stem slightly between groups while making buds so the clusters sit around the wire rather than in a flat line."
+  ],
+  "origin": "ai-assisted-draft",
+  "verification_status": "unverified"
+}

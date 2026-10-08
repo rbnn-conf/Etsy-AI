@@ -1,0 +1,171 @@
+{
+  "tag_candidates": [
+    "adult colouring",
+    "gothic colouring",
+    "skeleton colouring",
+    "halloween activity",
+    "spooky line art",
+    "masquerade art",
+    "gothic manor",
+    "colouring pages",
+    "autumn colouring",
+    "pumpkin colouring",
+    "adult colouring pdf",
+    "print at home",
+    "instant download",
+    "gothic halloween",
+    "spooky colouring",
+    "manor colouring",
+    "skeleton party",
+    "moonlit manor",
+    "colouring book pdf",
+    "halloween printable"
+  ],
+  "tags": [
+    {
+      "candidate": "adult colouring",
+      "tag": "adult colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "gothic colouring",
+      "tag": "gothic colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "skeleton colouring",
+      "tag": "skeleton colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "halloween activity",
+      "tag": "halloween activity",
+      "result": "kept"
+    },
+    {
+      "candidate": "spooky line art",
+      "tag": "spooky line art",
+      "result": "kept"
+    },
+    {
+      "candidate": "masquerade art",
+      "tag": "masquerade art",
+      "result": "kept"
+    },
+    {
+      "candidate": "gothic manor",
+      "tag": "gothic manor",
+      "result": "kept"
+    },
+    {
+      "candidate": "colouring pages",
+      "tag": "colouring pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "autumn colouring",
+      "tag": "autumn colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "pumpkin colouring",
+      "tag": "pumpkin colouring",
+      "result": "kept"
+    },
+    {
+      "candidate": "adult colouring pdf",
+      "tag": "adult colouring pdf",
+      "result": "kept"
+    },
+    {
+      "candidate": "print at home",
+      "tag": "print at home",
+      "result": "kept"
+    },
+    {
+      "candidate": "instant download",
+      "tag": "instant download",
+      "result": "kept"
+    },
+    {
+      "candidate": "gothic halloween",
+      "tag": "gothic halloween",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "spooky colouring",
+      "tag": "spooky colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "manor colouring",
+      "tag": "manor colouring",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "skeleton party",
+      "tag": "skeleton party",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "moonlit manor",
+      "tag": "moonlit manor",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "colouring book pdf",
+      "tag": "colouring book pdf",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    },
+    {
+      "candidate": "halloween printable",
+      "tag": "halloween printable",
+      "result": "unused",
+      "reason": "13 tags already selected"
+    }
+  ],
+  "materials": [
+    {
+      "candidate": "Digital PDF",
+      "material": "Digital PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "PNG pages",
+      "material": "PNG pages",
+      "result": "kept"
+    },
+    {
+      "candidate": "A4 PDF",
+      "material": "A4 PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "US Letter PDF",
+      "material": "US Letter PDF",
+      "result": "kept"
+    },
+    {
+      "candidate": "Printing guide",
+      "material": "Printing guide",
+      "result": "kept"
+    },
+    {
+      "candidate": "ZIP files",
+      "material": "ZIP files",
+      "result": "kept"
+    }
+  ],
+  "category": {
+    "model": "Books Movies & Music > Books > Coloring Books",
+    "final": "Books, Movies & Music > Books > Coloring Books",
+    "source": "canonical colouring-book category (Stage 3 adapter)"
+  },
+  "note": "Model candidates and deterministic selection. The final Etsy tags are listing.json tags."
+}

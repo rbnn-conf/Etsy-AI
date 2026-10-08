@@ -1,0 +1,297 @@
+{
+  "format": "colouring-book",
+  "campaign": "colouring-autumn",
+  "strategy": {
+    "family": "colouring_book",
+    "theme": "autumn",
+    "visual_marketing_mood": "warm cosy autumn"
+  },
+  "slides": [
+    {
+      "template": "hero",
+      "density": "rich lifestyle",
+      "purpose": "Stop the scroll: the real cover and pages on a creative desk.",
+      "min_product_share": 0.45,
+      "id": "01-hero",
+      "copy": {
+        "headline": {
+          "text": "Autumn\nColouring\nPages"
+        },
+        "subline": {
+          "text": "9 pages to print and colour",
+          "claim": [
+            "page-count",
+            "9 colouring pages"
+          ]
+        }
+      },
+      "scene": "env-01-hero"
+    },
+    {
+      "template": "interior",
+      "page": 2,
+      "name_headline": true,
+      "density": "artwork hero",
+      "purpose": "Inside the book: one real page at near full size.",
+      "min_product_share": 0.45,
+      "id": "02-interior",
+      "copy": {
+        "headline": {
+          "text": "Ticket Booth Arrival",
+          "claim": [
+            "page-title",
+            "Ticket Booth Arrival"
+          ]
+        },
+        "kicker": {
+          "text": "Page 2 of 10",
+          "claim": [
+            "page-number",
+            "Page 2 of 10"
+          ]
+        }
+      },
+      "scene": "env-02-interior"
+    },
+    {
+      "template": "collage",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "density": "product grid",
+      "purpose": "Many real pages at once: the size of the collection.",
+      "min_product_share": 0.3,
+      "id": "03-collage",
+      "copy": {
+        "headline": {
+          "text": "9 pages\nto colour",
+          "claim": [
+            "page-count",
+            "9 colouring pages"
+          ]
+        }
+      }
+    },
+    {
+      "template": "coloured",
+      "page": 2,
+      "example": "example-p2",
+      "density": "inspiration",
+      "purpose": "A coloured example of a real page (AI example, labelled), beside the real page.",
+      "min_product_share": 0.08,
+      "id": "04-coloured",
+      "copy": {
+        "headline": {
+          "text": "Colour it\nyour way"
+        }
+      }
+    },
+    {
+      "template": "before-after",
+      "page": 2,
+      "example": "example-p2",
+      "density": "process",
+      "purpose": "Before and after: the real line art and a coloured example of it.",
+      "min_product_share": 0.2,
+      "id": "05-before-after",
+      "copy": {
+        "headline": {
+          "text": "Print it.\nColour it."
+        }
+      }
+    },
+    {
+      "template": "included",
+      "density": "structured information",
+      "purpose": "Everything in the download, as real files.",
+      "min_product_share": 0.12,
+      "id": "06-included",
+      "copy": {
+        "headline": {
+          "text": "What’s included"
+        }
+      }
+    },
+    {
+      "template": "printable",
+      "density": "clean information",
+      "purpose": "Printable and download information: what you get, nothing shipped.",
+      "min_product_share": 0.08,
+      "id": "07-printable",
+      "copy": {
+        "headline": {
+          "text": "Instant digital\ndownload",
+          "claim": [
+            "digital",
+            "Instant digital download"
+          ]
+        }
+      }
+    },
+    {
+      "template": "features",
+      "page": 6,
+      "density": "benefits",
+      "purpose": "Features and benefits, beside a real page.",
+      "min_product_share": 0.3,
+      "id": "08-features",
+      "copy": {
+        "headline": {
+          "text": "Made for\nrelaxed colouring"
+        }
+      }
+    },
+    {
+      "template": "lifestyle",
+      "page": 10,
+      "tone": true,
+      "density": "emotional lifestyle",
+      "purpose": "A real page in a relaxing colouring moment.",
+      "min_product_share": 0.35,
+      "id": "09-lifestyle",
+      "copy": {
+        "headline": {
+          "text": "Your quiet\ncreative hour"
+        },
+        "subline": {
+          "text": "Settle in with an autumn railway scene to colour.",
+          "by": "model"
+        }
+      },
+      "scene": "env-09-lifestyle"
+    },
+    {
+      "template": "bundle",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tone": true,
+      "density": "summary",
+      "purpose": "Final summary and call to action: the collection at a glance.",
+      "min_product_share": 0.3,
+      "id": "10-bundle",
+      "copy": {
+        "headline": {
+          "text": "Download,\nprint & colour"
+        },
+        "subline": {
+          "text": "9 colouring pages, plus a cover, ready to download and print.",
+          "by": "model"
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "env-01-hero",
+      "slide": "01-hero",
+      "purpose": "Stop the scroll: the real cover and pages on a creative desk.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Cosy, nostalgic autumn railway reverie—an inviting creative pause with gentle storybook warmth and premium editorial depth..\nPalette: Burnished ochre, maple red, moss green, deep walnut, soft cream and muted charcoal, chosen to flatter crisp black-and-white line art..\nLighting: golden evening light; Warm late-afternoon window light, softened by long shadows and an amber autumn glow..\nScene: Cinematic walnut creative desk beside a softly blurred autumn window, with a restrained cluster of coloured pencils, a closed paint tin and a few unmarked ceramic dishes on the left. Deep warm background fall-off, burnished ochre and moss accents, with a generous uncluttered area on the right for the product.\nComposition: keep the lower two thirds of the frame, centred as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the top area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, cinematic warm light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/01-hero.png",
+      "sha256": "bd0df97bfb68252e22817633c475ea1665e402ea8a45c33a45d0685151fa2889",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-02-interior",
+      "slide": "02-interior",
+      "purpose": "Inside the book: one real page at near full size.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Cosy, nostalgic autumn railway reverie—an inviting creative pause with gentle storybook warmth and premium editorial depth..\nPalette: Burnished ochre, maple red, moss green, deep walnut, soft cream and muted charcoal, chosen to flatter crisp black-and-white line art..\nLighting: bright soft daylight; Warm late-afternoon window light, softened by long shadows and an amber autumn glow..\nScene: Refined cream linen work surface in bright soft daylight, viewed with gentle depth. A sparse border of sharpened autumn-toned pencils and two small unmarked ceramic paint pots sits well away from the centre. Keep the central area broad, clean and uninterrupted for the product, with soft shadows and a warm neutral backdrop.\nComposition: keep the lower two thirds of the frame, centred as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the top area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, cinematic warm light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/02-interior.png",
+      "sha256": "28f20cd8ead995b7cb106b732d9c780bc0ab23a4ea8aef9b013e2670049fed3a",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    },
+    {
+      "id": "env-09-lifestyle",
+      "slide": "09-lifestyle",
+      "purpose": "A real page in a relaxing colouring moment.",
+      "prompt": "Environment-only background photograph for a premium Etsy listing image (square), professionally art-directed advertising.\nCampaign mood: Cosy, nostalgic autumn railway reverie—an inviting creative pause with gentle storybook warmth and premium editorial depth..\nPalette: Burnished ochre, maple red, moss green, deep walnut, soft cream and muted charcoal, chosen to flatter crisp black-and-white line art..\nLighting: warm window light from the left; Warm late-afternoon window light, softened by long shadows and an amber autumn glow..\nScene: Peaceful corner of a warm oak table by an autumn-lit window, with a small plain ceramic cup, a folded rust-coloured knitted textile and a neat scatter of colouring pencils in the rear depth. Rich shallow focus, soft amber bokeh and long gentle shadows. Leave a large calm area on the left for the product and open space on the right for copy.\nComposition: keep the lower two thirds of the frame, centred as a clear, empty, softly lit surface with natural depth, where an object will be placed later. Keep the top area calm and darker for text added later.\nPhotographic and realistic: shallow depth of field, cinematic warm light, restrained premium styling, no clutter.\nDo NOT include: colouring pages, colouring books, books, notebooks, sketchbooks, sheets of paper, printed pages, paper artwork, drawings, line art, illustrations, posters, frames, screens, text, letters, numbers, words, logos, watermarks, people, hands, animals, any card-, page-, sheet-, book- or print-like rectangle, any mock product.",
+      "file": "marketing/engines/ai-creative/scenes/09-lifestyle.png",
+      "sha256": "60330fea0a587d94f4d82d14fa5440c61e5a1a7374f91c94575744073cbee96c",
+      "model": "gpt-image-2.5-flare",
+      "size": "1024x1024"
+    }
+  ],
+  "examples": [
+    {
+      "id": "example-p2",
+      "page_number": 2,
+      "asset": "P002",
+      "source": {
+        "file": "book/pages/P002.png",
+        "sha256": "4c8727c74420c37ede22c776ecdab58d8a328598b0125d23eda66a1a9fe52351",
+        "width": 1536,
+        "height": 1024
+      },
+      "purpose": "Coloured example of a real page (marketing illustration only; the product is black-and-white line art).",
+      "used_by": [
+        "04-coloured",
+        "05-before-after"
+      ],
+      "file": "marketing/examples/example-p2.png",
+      "prompt": "Colour in this exact colouring-book page as a finished example for an Etsy listing image.\nKeep every black line exactly as it is: do not add, remove, move, redraw or restyle any line, object, pattern or lettering, and keep the whole page with its white margins visible.\nFill the enclosed areas neatly, as if coloured with coloured pencils and felt-tip markers: harmonious, natural colours with gentle shading inside the shapes.\nColour mood: warm cosy autumn, Autumn feeling.\nOutput: a flat, straight-on image of the coloured page on white paper. No table, hands, pencils, shadows, frame, border, added text, signature or watermark.",
+      "sha256": "737f27e5fbb8c7f84700f1690744108f17e6398137b7085805767730fd66bdf2",
+      "model": "gpt-image-2.5-flare",
+      "size": "1536x1024"
+    }
+  ],
+  "engine": {
+    "id": "ai-creative",
+    "version": 1
+  },
+  "campaign_direction": {
+    "mood": "Cosy, nostalgic autumn railway reverie—an inviting creative pause with gentle storybook warmth and premium editorial depth.",
+    "palette": "Burnished ochre, maple red, moss green, deep walnut, soft cream and muted charcoal, chosen to flatter crisp black-and-white line art.",
+    "lighting": "Warm late-afternoon window light, softened by long shadows and an amber autumn glow."
+  },
+  "model": "gpt-5.6-terra",
+  "generated_at": "2026-10-06T10:36:27.645Z",
+  "directions": {
+    "01-hero": {
+      "id": "01-hero",
+      "archetype": "editorial-right",
+      "product_scale": 0.68,
+      "rotation": -4,
+      "perspective": 3,
+      "lighting": "golden evening light",
+      "decor": "sprigs",
+      "scene_brief": "Cinematic walnut creative desk beside a softly blurred autumn window, with a restrained cluster of coloured pencils, a closed paint tin and a few unmarked ceramic dishes on the left. Deep warm background fall-off, burnished ochre and moss accents, with a generous uncluttered area on the right for the product.",
+      "source": "model"
+    },
+    "02-interior": {
+      "id": "02-interior",
+      "archetype": "centre-stage",
+      "product_scale": 0.7,
+      "rotation": 1,
+      "perspective": 2,
+      "lighting": "bright soft daylight",
+      "decor": "none",
+      "scene_brief": "Refined cream linen work surface in bright soft daylight, viewed with gentle depth. A sparse border of sharpened autumn-toned pencils and two small unmarked ceramic paint pots sits well away from the centre. Keep the central area broad, clean and uninterrupted for the product, with soft shadows and a warm neutral backdrop.",
+      "source": "model"
+    },
+    "09-lifestyle": {
+      "id": "09-lifestyle",
+      "archetype": "editorial-left",
+      "product_scale": 0.64,
+      "rotation": 5,
+      "perspective": 4,
+      "lighting": "warm window light from the left",
+      "decor": "bokeh",
+      "scene_brief": "Peaceful corner of a warm oak table by an autumn-lit window, with a small plain ceramic cup, a folded rust-coloured knitted textile and a neat scatter of colouring pencils in the rear depth. Rich shallow focus, soft amber bokeh and long gentle shadows. Leave a large calm area on the left for the product and open space on the right for copy.",
+      "source": "model"
+    }
+  }
+}
